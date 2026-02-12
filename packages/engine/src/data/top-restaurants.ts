@@ -584,7 +584,7 @@ export const HOUSTON_RESTAURANTS: RestaurantData[] = [
   { name: 'Postino Cinco Ranch', slug: 'postinocincoranch', category: 'restaurant', metros: ['houston'], websiteOrderUrl: 'http://postino.olo.com/menu/postino-cinco-ranch-2' },
   { name: 'Astor\'s Table', slug: 'astorstable', category: 'restaurant', metros: ['houston'] },
   { name: 'Katy Asian Town', slug: 'katyasiantown', category: 'restaurant', metros: ['houston'] },
-  { name: 'Katy Vibes', slug: 'katyvibes', category: 'restaurant', metros: ['houston'] },
+  { name: 'Katy Vibes', slug: 'katyvibes', category: 'restaurant', metros: ['houston'], websiteOrderUrl: 'https://order.online/store/katy-vibes-katy-647286' },
 ];
 
 export const LA_RESTAURANTS: RestaurantData[] = [

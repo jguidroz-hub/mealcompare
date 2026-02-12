@@ -537,7 +537,9 @@
     "category": "restaurant",
     "metros": [
       "houston"
-    ]
+    ],
+    "placeId": "ChIJpbX2uTQnQYYRcNLurxfOYBg",
+    "website": "https://katyasiantownandmarketplace.com/"
   },
   {
     "name": "Katy Vibes",
@@ -545,6 +547,9 @@
     "category": "restaurant",
     "metros": [
       "houston"
-    ]
+    ],
+    "placeId": "ChIJm-or0dknQYYR1wygmcxoJuE",
+    "website": "http://katyvibes.com/",
+    "websiteOrderUrl": "https://order.online/store/katy-vibes-katy-647286"
   }
 ]
