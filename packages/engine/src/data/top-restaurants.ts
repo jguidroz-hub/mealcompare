@@ -141,6 +141,14 @@ export const DC_RESTAURANTS: RestaurantData[] = [
   { name: 'Catalogue', slug: 'catalogue', category: 'american', metros: ['dc'] },
   { name: 'The Diner', slug: 'thediner', category: 'diner', metros: ['dc'] },
   { name: 'Prime Pizza', slug: 'primepizza', category: 'pizza', metros: ['dc'], toastUrl: 'https://primepizza-o5fce583.toast.site/' },
+  // DC Toast-discovered batch 3 (Feb 12)
+  { name: 'Jaleo', slug: 'jaleo', category: 'spanish', metros: ['dc'] },
+  { name: 'Zaytinya', slug: 'zaytinya', category: 'mediterranean', metros: ['dc'] },
+  { name: "Ben's Chili Bowl", slug: 'benschilibowl', category: 'american', metros: ['dc'] },
+  { name: "Martin's Tavern", slug: 'martinstavern', category: 'american', metros: ['dc'] },
+  { name: 'Medium Rare', slug: 'mediumrare', category: 'steakhouse', metros: ['dc'] },
+  { name: 'Chaia Tacos', slug: 'chaiatacos', category: 'mexican', metros: ['dc'] },
+  { name: 'Centrolina', slug: 'centrolina', category: 'italian', metros: ['dc'] },
 ];
 
 // ─── Austin Restaurants ────────────────────────────────────────

@@ -96,7 +96,7 @@ export default function Home() {
           <a href="#how-it-works" style={styles.outlineBtn}>See How It Works</a>
         </div>
         <p style={{ fontSize: '13px', color: '#475569', marginTop: '16px' }}>
-          Available in Austin, TX and Washington, DC · More cities coming soon
+          Available in Austin & DC · Expanding to 15+ cities this week
         </p>
       </section>
 
@@ -202,7 +202,7 @@ export default function Home() {
         <div style={{ maxWidth: '700px', margin: '0 auto' }}>
           <h2 style={{ ...styles.sectionTitle, marginBottom: '40px' }}>FAQ</h2>
           {[
-            { q: 'Is MealCompare really free?', a: 'Yes, completely free. No premium tier, no hidden fees. We plan to monetize through affiliate partnerships with restaurants that offer direct ordering.' },
+            { q: 'Is MealCompare really free?', a: 'Yes, completely free. No premium tier, no hidden fees. We believe everyone deserves to know the real cost of their food delivery.' },
             { q: 'How do you get the prices?', a: 'We use public APIs and menu data from delivery platforms. Uber Eats prices come directly from their API. DoorDash and Grubhub prices are estimated based on known fee structures and verified with real orders.' },
             { q: 'What cities do you support?', a: 'Currently Austin, TX and Washington, DC. We\'re expanding to more cities — join the waitlist to get notified when we launch in yours.' },
             { q: 'Do you include ALL fees?', a: 'Yes! We compare total cost: food + service fee + delivery fee + small order fee + tax. This is the real number you pay, not just the menu price.' },
