@@ -1,0 +1,66 @@
+{
+  "expo": {
+    "name": "SkipTheFee",
+    "slug": "skipthefee",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "scheme": "skipthefee",
+    "backgroundColor": "#0a0f1a",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0a0f1a"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "app.skipthefee.mobile",
+      "infoPlist": {
+        "NSUserActivityTypes": ["INSendMessageIntent"]
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0a0f1a"
+      },
+      "package": "app.skipthefee.mobile",
+      "intentFilters": [
+        {
+          "action": "SEND",
+          "category": ["DEFAULT"],
+          "data": [
+            { "mimeType": "text/plain" },
+            { "mimeType": "text/*" }
+          ]
+        },
+        {
+          "action": "VIEW",
+          "category": ["DEFAULT", "BROWSABLE"],
+          "data": [
+            { "scheme": "https", "host": "www.doordash.com" },
+            { "scheme": "https", "host": "www.ubereats.com" },
+            { "scheme": "https", "host": "www.grubhub.com" }
+          ]
+        }
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-share-intent",
+        {
+          "iosActivationRules": {
+            "NSExtensionActivationSupportsWebURLWithMaxCount": 1,
+            "NSExtensionActivationSupportsText": true
+          },
+          "androidIntentFilters": ["text/*"],
+          "androidMultiIntentFilters": ["text/*"]
+        }
+      ]
+    ]
+  }
+}
