@@ -117,7 +117,7 @@ export default function RestaurantsPage() {
                     >
                       <h3 className="font-semibold text-gray-700">{r.name}</h3>
                       <p className="text-sm text-gray-500 capitalize">{r.category}</p>
-                      <p className="text-xs text-gray-400 mt-2">Use MealCompare to find the cheapest app</p>
+                      <p className="text-xs text-gray-400 mt-2">Use SkipTheFee to find the cheapest app</p>
                     </div>
                   ))}
                 </div>

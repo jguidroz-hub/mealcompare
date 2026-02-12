@@ -2,17 +2,17 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'MealCompare — Stop Overpaying for Food Delivery',
+  title: 'SkipTheFee — Stop Overpaying for Food Delivery',
   description: 'Compare total costs across DoorDash, Uber Eats, Grubhub & direct ordering. See delivery fees, service fees, and menu markups. Save $5-15 on every order.',
   openGraph: {
-    title: 'MealCompare — Stop Overpaying for Food Delivery',
+    title: 'SkipTheFee — Stop Overpaying for Food Delivery',
     description: 'The same order. Different prices. Find the cheapest way to get your food delivered.',
     type: 'website',
-    url: 'https://mealcompare.vercel.app',
+    url: 'https://skipthefee.vercel.app',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'MealCompare — Stop Overpaying for Food Delivery',
+    title: 'SkipTheFee — Stop Overpaying for Food Delivery',
     description: 'Compare total costs across DoorDash, Uber Eats, Grubhub & direct ordering.',
   },
 };
@@ -64,7 +64,7 @@ export default function Home() {
         <nav style={styles.nav}>
           <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
             <span style={{ fontSize: '28px' }}>🍔</span>
-            <span style={{ fontSize: '20px', fontWeight: 800 }}>MealCompare</span>
+            <span style={{ fontSize: '20px', fontWeight: 800 }}>SkipTheFee</span>
           </div>
           <div style={{ display: 'flex', gap: '24px', alignItems: 'center' }}>
             <a href="#how-it-works" style={{ color: '#94a3b8', textDecoration: 'none', fontSize: '14px' }}>How It Works</a>
@@ -86,7 +86,7 @@ export default function Home() {
         </h1>
         <p style={styles.subtitle}>
           The same order costs different amounts on every platform.
-          MealCompare shows you the cheapest option — including delivery fees,
+          SkipTheFee shows you the cheapest option — including delivery fees,
           service fees, and direct ordering — in one click.
         </p>
         <div style={{ display: 'flex', gap: '16px', justifyContent: 'center', flexWrap: 'wrap' as const }}>
@@ -127,12 +127,12 @@ export default function Home() {
       <section id="how-it-works" style={{ padding: '80px 24px', maxWidth: '900px', margin: '0 auto' }}>
         <h2 style={styles.sectionTitle}>How It Works</h2>
         <p style={styles.sectionSubtitle}>
-          MealCompare runs automatically while you browse delivery apps. No extra steps.
+          SkipTheFee runs automatically while you browse delivery apps. No extra steps.
         </p>
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))', gap: '24px' }}>
           {[
             { icon: '🛒', title: 'Add to Cart', desc: 'Browse DoorDash, Uber Eats, or Grubhub like normal. Add items to your cart.' },
-            { icon: '⚡', title: 'Auto-Compare', desc: 'MealCompare detects your cart and instantly finds the same items on other platforms + direct ordering.' },
+            { icon: '⚡', title: 'Auto-Compare', desc: 'SkipTheFee detects your cart and instantly finds the same items on other platforms + direct ordering.' },
             { icon: '💰', title: 'See Total Costs', desc: 'Compare the FULL cost — food + delivery fee + service fee + tax. Not just menu prices.' },
             { icon: '🔗', title: 'One-Click Switch', desc: 'Found a better deal? Click to open the order on the cheaper platform. Deep links pre-fill your cart.' },
           ].map((step, i) => (
@@ -166,7 +166,7 @@ export default function Home() {
             ))}
           </div>
           <p style={{ textAlign: 'center', marginTop: '32px', fontSize: '15px', color: '#e2e8f0' }}>
-            <strong>Ordering direct saves 20-30% on average.</strong> MealCompare finds the direct ordering link for you.
+            <strong>Ordering direct saves 20-30% on average.</strong> SkipTheFee finds the direct ordering link for you.
           </p>
         </div>
       </section>
@@ -202,7 +202,7 @@ export default function Home() {
         <div style={{ maxWidth: '700px', margin: '0 auto' }}>
           <h2 style={{ ...styles.sectionTitle, marginBottom: '40px' }}>FAQ</h2>
           {[
-            { q: 'Is MealCompare really free?', a: 'Yes, completely free. No premium tier, no hidden fees. We believe everyone deserves to know the real cost of their food delivery.' },
+            { q: 'Is SkipTheFee really free?', a: 'Yes, completely free. No premium tier, no hidden fees. We believe everyone deserves to know the real cost of their food delivery.' },
             { q: 'How do you get the prices?', a: 'We use public APIs and menu data from delivery platforms. Uber Eats prices come directly from their API. DoorDash and Grubhub prices are estimated based on known fee structures and verified with real orders.' },
             { q: 'What cities do you support?', a: 'We currently cover 15 cities: NYC, Chicago, LA, Boston, Miami, Philadelphia, Atlanta, Denver, Seattle, San Francisco, Houston, Nashville, New Orleans, Austin, and Washington DC. More coming every week!' },
             { q: 'Do you include ALL fees?', a: 'Yes! We compare total cost: food + service fee + delivery fee + small order fee + tax. This is the real number you pay, not just the menu price.' },
@@ -223,7 +223,7 @@ export default function Home() {
           Start Saving on Every Order
         </h2>
         <p style={{ fontSize: '16px', color: '#94a3b8', marginBottom: '32px', maxWidth: '500px', margin: '0 auto 32px' }}>
-          Install MealCompare and never overpay for food delivery again.
+          Install SkipTheFee and never overpay for food delivery again.
           Free forever. No account needed.
         </p>
         <Link href="/install" style={styles.greenBtn}>
@@ -234,7 +234,7 @@ export default function Home() {
       {/* Footer */}
       <footer style={{ padding: '40px 24px', borderTop: '1px solid #1e293b', textAlign: 'center' }}>
         <p style={{ fontSize: '13px', color: '#475569' }}>
-          © 2026 MealCompare · <a href="mailto:hello@mealcompare.app" style={{ color: '#64748b' }}>Contact</a> · Made in Austin, TX & Washington, DC
+          © 2026 SkipTheFee · <a href="mailto:hello@skipthefee.app" style={{ color: '#64748b' }}>Contact</a> · Made in Austin, TX & Washington, DC
         </p>
       </footer>
     </main>

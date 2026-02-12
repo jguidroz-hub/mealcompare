@@ -134,7 +134,7 @@ export function scrapeMenuFromPage(): ScrapedMenuData | null {
       items,
     };
   } catch (err) {
-    console.error('[MealCompare] DoorDash scraper error:', err);
+    console.error('[SkipTheFee] DoorDash scraper error:', err);
     return null;
   }
 }
@@ -178,7 +178,7 @@ export async function searchDoorDash(query: string): Promise<Array<{ name: strin
         storeId: s.store.id?.toString(),
       }));
   } catch (err) {
-    console.error('[MealCompare] DoorDash search error:', err);
+    console.error('[SkipTheFee] DoorDash search error:', err);
     return [];
   }
 }

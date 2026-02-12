@@ -3,8 +3,8 @@ import Link from 'next/link';
 import WaitlistForm from './WaitlistForm';
 
 export const metadata: Metadata = {
-  title: 'Install MealCompare — Chrome Extension',
-  description: 'Install the MealCompare Chrome extension and start saving on food delivery.',
+  title: 'Install SkipTheFee — Chrome Extension',
+  description: 'Install the SkipTheFee Chrome extension and start saving on food delivery.',
 };
 
 export default function InstallPage() {
@@ -13,14 +13,14 @@ export default function InstallPage() {
       <div style={{ maxWidth: '700px', margin: '0 auto', padding: '40px 24px' }}>
         {/* Back link */}
         <Link href="/" style={{ color: '#94a3b8', textDecoration: 'none', fontSize: '14px', display: 'inline-flex', alignItems: 'center', gap: '4px', marginBottom: '40px' }}>
-          ← Back to MealCompare
+          ← Back to SkipTheFee
         </Link>
 
         <h1 style={{ fontSize: '36px', fontWeight: 800, marginBottom: '16px' }}>
-          Install MealCompare
+          Install SkipTheFee
         </h1>
         <p style={{ fontSize: '16px', color: '#94a3b8', marginBottom: '40px', lineHeight: 1.6 }}>
-          MealCompare is in early access. Install it directly in Chrome in under 60 seconds.
+          SkipTheFee is in early access. Install it directly in Chrome in under 60 seconds.
           We&apos;re submitting to the Chrome Web Store soon — for now, use Developer Mode.
         </p>
 
@@ -29,10 +29,10 @@ export default function InstallPage() {
           <Step
             number={1}
             title="Download the extension"
-            description="Click below to download the MealCompare extension ZIP file."
+            description="Click below to download the SkipTheFee extension ZIP file."
           >
             <a
-              href="/mealcompare-extension.zip"
+              href="/skipthefee-extension.zip"
               download
               style={{
                 background: '#10b981', color: 'white', padding: '12px 24px',
@@ -40,14 +40,14 @@ export default function InstallPage() {
                 fontSize: '15px', display: 'inline-flex', alignItems: 'center', gap: '8px',
               }}
             >
-              ⬇️ Download MealCompare v0.1.0
+              ⬇️ Download SkipTheFee v0.1.0
             </a>
           </Step>
 
           <Step
             number={2}
             title="Unzip the file"
-            description="Extract the downloaded ZIP file. You'll get a folder called 'mealcompare-extension'."
+            description="Extract the downloaded ZIP file. You'll get a folder called 'skipthefee-extension'."
           />
 
           <Step
@@ -76,12 +76,12 @@ export default function InstallPage() {
           <Step
             number={6}
             title="You're set! 🎉"
-            description="Browse DoorDash, Uber Eats, or Grubhub. MealCompare will automatically detect your cart and show you cheaper options."
+            description="Browse DoorDash, Uber Eats, or Grubhub. SkipTheFee will automatically detect your cart and show you cheaper options."
           >
             <div style={{ background: '#1e293b', borderRadius: '12px', padding: '16px', marginTop: '12px', border: '1px solid #334155' }}>
               <div style={{ fontSize: '13px', color: '#94a3b8' }}>
-                <strong style={{ color: '#e2e8f0' }}>Pro tip:</strong> Pin MealCompare to your toolbar for easy access.
-                Click the puzzle piece icon (🧩) in Chrome and pin MealCompare.
+                <strong style={{ color: '#e2e8f0' }}>Pro tip:</strong> Pin SkipTheFee to your toolbar for easy access.
+                Click the puzzle piece icon (🧩) in Chrome and pin SkipTheFee.
               </div>
             </div>
           </Step>
@@ -91,7 +91,7 @@ export default function InstallPage() {
         <div style={{ marginTop: '48px', padding: '24px', background: '#1e293b', borderRadius: '12px', border: '1px solid #334155' }}>
           <h2 style={{ fontSize: '18px', fontWeight: 700, marginBottom: '12px' }}>⚙️ Settings</h2>
           <p style={{ fontSize: '14px', color: '#94a3b8', lineHeight: 1.6 }}>
-            After installation, right-click the MealCompare icon and select &quot;Options&quot; to set your city:
+            After installation, right-click the SkipTheFee icon and select &quot;Options&quot; to set your city:
           </p>
           <ul style={{ fontSize: '14px', color: '#94a3b8', lineHeight: 1.8, paddingLeft: '20px', marginTop: '8px' }}>
             <li><strong style={{ color: '#e2e8f0' }}>Austin, TX</strong> — Default</li>

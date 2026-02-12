@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "MealCompare — Save on Food Delivery",
+  "name": "SkipTheFee — Save on Food Delivery",
   "description": "Compare prices across DoorDash, Uber Eats, Grubhub & direct ordering. Save $5-15 per order.",
   "version": "0.1.0",
   "permissions": ["activeTab", "storage"],
@@ -10,7 +10,7 @@
     "https://www.grubhub.com/*",
     "https://*.toast.site/*",
     "https://order.toasttab.com/*",
-    "https://mealcompare.vercel.app/*"
+    "https://skipthefee.vercel.app/*"
   ],
   "background": {
     "service_worker": "background.js",

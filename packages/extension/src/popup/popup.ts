@@ -69,7 +69,7 @@ function renderEmpty(): void {
   content.innerHTML = `
     <div class="empty">
       <h2>🍔 Browse a delivery app</h2>
-      <p>Open DoorDash, Uber Eats, or Grubhub and add items to your cart. MealCompare will automatically compare prices.</p>
+      <p>Open DoorDash, Uber Eats, or Grubhub and add items to your cart. SkipTheFee will automatically compare prices.</p>
       <div style="margin-top: 16px;">
         <a href="https://www.doordash.com" target="_blank" style="color: #3b82f6; text-decoration: none; font-size: 12px; margin-right: 12px;">DoorDash →</a>
         <a href="https://www.ubereats.com" target="_blank" style="color: #3b82f6; text-decoration: none; font-size: 12px; margin-right: 12px;">Uber Eats →</a>

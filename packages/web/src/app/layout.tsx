@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'MealCompare — Find the Cheapest Food Delivery',
+  title: 'SkipTheFee — Find the Cheapest Food Delivery',
   description: 'Compare prices across DoorDash, Uber Eats, Grubhub, and direct ordering. Save $5-15 on every order.',
 };
 

@@ -30,7 +30,7 @@ export default function WaitlistForm() {
     return (
       <div style={{ marginTop: '48px', textAlign: 'center' }}>
         <p style={{ fontSize: '16px', color: '#10b981', fontWeight: 700 }}>
-          ✅ You&apos;re on the list! We&apos;ll email you when MealCompare hits the Chrome Web Store.
+          ✅ You&apos;re on the list! We&apos;ll email you when SkipTheFee hits the Chrome Web Store.
         </p>
       </div>
     );

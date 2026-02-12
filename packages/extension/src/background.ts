@@ -1,5 +1,5 @@
 /**
- * MealCompare background service worker.
+ * SkipTheFee background service worker.
  * 
  * COMPARISON FLOW:
  * 1. Content script detects cart on Platform A
@@ -96,7 +96,7 @@ async function runComparison(cart: CartDetection): Promise<void> {
     }).catch(() => {}); // Popup might not be open
 
   } catch (err) {
-    console.error('[MealCompare] Comparison failed:', err);
+    console.error('[SkipTheFee] Comparison failed:', err);
     chrome.action.setBadgeText({ text: '!' });
     chrome.action.setBadgeBackgroundColor({ color: '#ef4444' }); // Red = error
   } finally {
@@ -118,9 +118,9 @@ async function getMetro(): Promise<string> {
 chrome.runtime.onInstalled.addListener(() => {
   chrome.storage.sync.set({
     metro: 'austin',
-    apiBase: 'https://mealcompare.vercel.app',
+    apiBase: 'https://skipthefee.vercel.app',
   });
-  console.log('[MealCompare] Extension installed. Default metro: austin');
+  console.log('[SkipTheFee] Extension installed. Default metro: austin');
 });
 
-console.log('[MealCompare] Background service worker loaded');
+console.log('[SkipTheFee] Background service worker loaded');
