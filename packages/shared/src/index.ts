@@ -84,9 +84,13 @@ export interface CompareRequest {
 export function normalizeMenuItemName(name: string): string {
   return name
     .toLowerCase()
-    .replace(/\s*\(.*?\)\s*/g, '') // Remove parenthetical notes
+    .replace(/[®™©]/g, '')           // Remove trademark symbols
+    .replace(/\s*\(.*?\)\s*/g, '')    // Remove parenthetical notes
     .replace(/\s*-\s*delivered\s*/gi, '')
     .replace(/\s*\[.*?\]\s*/g, '')
+    .replace(/#(\d+)\s+/g, '#$1 ')   // Normalize #1 Whataburger spacing
+    .replace(/\s*-\s*/g, ' ')        // Dashes to spaces (French Fries - Medium → French Fries Medium)
+    .replace(/[^a-z0-9#\s]/g, '')    // Remove other special chars
     .replace(/\s+/g, ' ')
     .trim();
 }
