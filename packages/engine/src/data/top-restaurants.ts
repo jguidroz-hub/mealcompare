@@ -48,6 +48,14 @@ export const DC_RESTAURANTS: RestaurantData[] = [
   { name: 'BoBaPop Tea Bar', slug: 'bobapop', category: 'tea', metros: ['dc'], toastUrl: 'https://bobapopteabar.toast.site/' },
   { name: 'Flavor Hive', slug: 'flavorhive', category: 'asian', metros: ['dc'], toastUrl: 'https://flavorhiveannandale.toast.site/' },
   { name: 'The Morning Fork', slug: 'themorningfork', category: 'breakfast', metros: ['dc'], toastUrl: 'https://themorningfork.toast.site/' },
+  { name: 'TipThai Thai Cuisine', slug: 'tipthai', category: 'thai', metros: ['dc'], toastUrl: 'https://tipthai.toast.site/' },
+  { name: 'Baruch Cafe', slug: 'baruchcafe', category: 'cafe', metros: ['dc'], toastUrl: 'https://baruchcafe.toast.site/' },
+  { name: 'No Tacos Amigo', slug: 'notacosamigo', category: 'mexican', metros: ['dc'], toastUrl: 'https://notacosamigo.toast.site/' },
+  { name: 'Ladurée Bethesda', slug: 'laduree', category: 'bakery', metros: ['dc'], toastUrl: 'https://ladure-ssad58my.toast.site/' },
+  { name: 'Rien Tong Thai & Sushi Bar', slug: 'rientong', category: 'thai', metros: ['dc'], toastUrl: 'https://rientongthaiasianrestaurantsushibararlington.toast.site/' },
+  { name: 'Taco Rock', slug: 'tacorock', category: 'mexican', metros: ['dc'], toastUrl: 'https://tacorock.toast.site/' },
+  { name: 'La Chiquita Taqueria DMV', slug: 'lachiquitadmv', category: 'mexican', metros: ['dc'], toastUrl: 'https://lachiquitataqueriadmv.toast.site/' },
+  { name: "Burger Billy's Joint", slug: 'burgerbillys', category: 'burgers', metros: ['dc'], toastUrl: 'https://burgerbillysjoint.toast.site/' },
   
   // National chains (both markets)
   { name: 'Chipotle', slug: 'chipotle', category: 'mexican', metros: ['austin', 'dc'], websiteOrderUrl: 'https://order.chipotle.com' },
@@ -116,6 +124,9 @@ export const AUSTIN_RESTAURANTS: RestaurantData[] = [
   { name: "Keso's Tacos", slug: 'kesostacos', category: 'mexican', metros: ['austin'], toastUrl: 'https://kesostacos.toast.site/' },
   { name: 'The Lokal Restaurant', slug: 'thelokal', category: 'american', metros: ['austin'], toastUrl: 'https://thelokalrestaurant.toast.site/' },
   { name: 'Relish Restaurant & Bar', slug: 'relish', category: 'american', metros: ['austin'], toastUrl: 'https://relishrestaurantbar.toast.site/' },
+  { name: "Austin's Pizza", slug: 'austinspizza', category: 'pizza', metros: ['austin'], toastUrl: 'https://austinspizza.toast.site/' },
+  { name: 'East Side Pies', slug: 'eastsidepies', category: 'pizza', metros: ['austin'], toastUrl: 'https://eastsidepies.toast.site/' },
+  { name: 'The Front Page', slug: 'thefrontpage', category: 'sandwiches', metros: ['austin'], toastUrl: 'https://thefrontpage.toast.site/' },
 
   // Austin staples
   { name: 'Whataburger', slug: 'whataburger', category: 'burgers', metros: ['austin'], websiteOrderUrl: 'https://whataburger.com/order' },
