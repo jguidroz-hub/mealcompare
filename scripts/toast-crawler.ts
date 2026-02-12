@@ -210,7 +210,10 @@ async function validateAndScrape(url: string, metro: string, source: string): Pr
 
     const slug = extractSlugFromUrl(url);
 
-    if (!res.ok) {
+    // Toast sites often return 403 (Cloudflare) to server-side requests
+    // but the site is still valid. Treat 403 from toast.site as "verified"
+    const isToastDomain = url.includes('toast.site') || url.includes('toasttab.com');
+    if (!res.ok && !(isToastDomain && res.status === 403)) {
       return {
         name: extractNameFromSlug(slug),
         slug,
@@ -220,6 +223,20 @@ async function validateAndScrape(url: string, metro: string, source: string): Pr
         source: source.startsWith('toast-local') ? 'toasttab' : 'brave',
         verified: false,
         statusCode: res.status,
+      };
+    }
+
+    // For 403 Toast sites, we can't scrape but we know they exist
+    if (res.status === 403) {
+      return {
+        name: extractNameFromSlug(slug),
+        slug,
+        url: url.endsWith('/') ? url : url + '/',
+        address: '',
+        metro,
+        source: source.startsWith('toast-local') ? 'toasttab' : 'brave',
+        verified: true,
+        statusCode: 403,
       };
     }
 
