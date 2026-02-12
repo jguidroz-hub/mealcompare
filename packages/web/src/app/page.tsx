@@ -70,6 +70,7 @@ export default function Home() {
             <a href="#how-it-works" style={{ color: '#94a3b8', textDecoration: 'none', fontSize: '14px' }}>How It Works</a>
             <a href="#savings" style={{ color: '#94a3b8', textDecoration: 'none', fontSize: '14px' }}>Savings</a>
             <a href="#faq" style={{ color: '#94a3b8', textDecoration: 'none', fontSize: '14px' }}>FAQ</a>
+            <Link href="/restaurants" style={{ color: '#10b981', textDecoration: 'none', fontSize: '14px', fontWeight: 600 }}>Restaurants</Link>
             <Link href="/install" style={{ ...styles.greenBtn, padding: '8px 20px', fontSize: '14px' }}>
               Install Extension
             </Link>
