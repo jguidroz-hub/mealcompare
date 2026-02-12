@@ -124,5 +124,397 @@
       "sf"
     ],
     "address": "2518 Mission St"
+  },
+  {
+    "name": "Sforno Pizzeria Napoletana",
+    "slug": "sfornopizzerianapoletana",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "a Mano",
+    "slug": "amano",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Rich Table",
+    "slug": "richtable",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Hazie's",
+    "slug": "hazies",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Chez Maman West",
+    "slug": "chezmamanwest",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Suppenküche",
+    "slug": "suppenkche",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Doppio Zero San Francisco",
+    "slug": "doppiozerosanfrancisco",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Papito Hayes",
+    "slug": "papitohayes",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "The Gambit",
+    "slug": "thegambit",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "North Beach Restaurant",
+    "slug": "northbeachrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Tony's Pizza Napoletana",
+    "slug": "tonyspizzanapoletana",
+    "category": "pizza",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Sotto Mare",
+    "slug": "sottomare",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Original Joe's",
+    "slug": "originaljoes",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "The Italian Homemade Company",
+    "slug": "theitalianhomemadecompany",
+    "category": "italian",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "The Stinking Rose",
+    "slug": "thestinkingrose",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Fog Harbor Fish House",
+    "slug": "fogharborfishhouse",
+    "category": "seafood",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Golden Boy Pizza",
+    "slug": "goldenboypizza",
+    "category": "pizza",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Beach Chalet Brewery and Restaurant",
+    "slug": "beachchaletbreweryandrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Scoma's Restaurant",
+    "slug": "scomasrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Dragon Beaux",
+    "slug": "dragonbeaux",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "HK Lounge Bistro",
+    "slug": "hkloungebistro",
+    "category": "french",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Good Luck Dim Sum",
+    "slug": "goodluckdimsum",
+    "category": "chinese",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Dumpling Time Design District",
+    "slug": "dumplingtimedesigndistrict",
+    "category": "chinese",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Good Mong Kok Bakery",
+    "slug": "goodmongkokbakery",
+    "category": "cafe",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "City View Restaurant",
+    "slug": "cityviewrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "DIM SUM BEST Of TASTE",
+    "slug": "dimsumbestoftaste",
+    "category": "chinese",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Yank Sing (Stevenson St.)",
+    "slug": "yanksingstevensonst",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Bao Bao Dumpling",
+    "slug": "baobaodumpling",
+    "category": "chinese",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Palette Tea House",
+    "slug": "paletteteahouse",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "The Fat Lady Bar & Restaurant",
+    "slug": "thefatladybarrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Wood Tavern",
+    "slug": "woodtavern",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Almond and Oak",
+    "slug": "almondandoak",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Drake's Dealership",
+    "slug": "drakesdealership",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Scott's Seafood Grill & Bar",
+    "slug": "scottsseafoodgrillbar",
+    "category": "seafood",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "The Lake Chalet Seafood Bar & Grill",
+    "slug": "thelakechaletseafoodbargrill",
+    "category": "seafood",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Pomet",
+    "slug": "pomet",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "NIDO's BackYard",
+    "slug": "nidosbackyard",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "The Cook and Her Farmer",
+    "slug": "thecookandherfarmer",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Quinn's Lighthouse",
+    "slug": "quinnslighthouse",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Fable",
+    "slug": "fable",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Anchor Oyster Bar",
+    "slug": "anchoroysterbar",
+    "category": "seafood",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Orphan Andy's Restaurant",
+    "slug": "orphanandysrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "L'Ardoise Bistro",
+    "slug": "lardoisebistro",
+    "category": "french",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Poesia",
+    "slug": "poesia",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Starbelly",
+    "slug": "starbelly",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Frances",
+    "slug": "frances",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Flora King Steakhouse",
+    "slug": "florakingsteakhouse",
+    "category": "steakhouse",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Potto",
+    "slug": "potto",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Blind Butcher",
+    "slug": "blindbutcher",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
   }
 ]

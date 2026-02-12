@@ -304,5 +304,293 @@
       "boston"
     ],
     "address": "1101 Music Ln"
+  },
+  {
+    "name": "MIDA",
+    "slug": "mida",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "SRV",
+    "slug": "srv",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "South End Buttery",
+    "slug": "southendbuttery",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "The Elephant Walk South End",
+    "slug": "theelephantwalksouthend",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "The Shawmut Inn",
+    "slug": "theshawmutinn",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Toro",
+    "slug": "toro",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Barcelona Wine Bar",
+    "slug": "barcelonawinebar",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Metropolis",
+    "slug": "metropolis",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Lulu's Allston",
+    "slug": "lulusallston",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Hopewell Bar & Kitchen",
+    "slug": "hopewellbarkitchen",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "The Stockyard Restaurant",
+    "slug": "thestockyardrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Brighton Bodega",
+    "slug": "brightonbodega",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Tasca Restaurant",
+    "slug": "tascarestaurant",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Kaju Korean Cuisine — Allston",
+    "slug": "kajukoreancuisineallston",
+    "category": "korean",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Qiao Lin Hotpot - Boston",
+    "slug": "qiaolinhotpot-boston",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Seoul Soulongtang",
+    "slug": "seoulsoulongtang",
+    "category": "southern",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Dumpling Kingdom",
+    "slug": "dumplingkingdom",
+    "category": "chinese",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Bonchon Allston",
+    "slug": "bonchonallston",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Myers+Chang",
+    "slug": "myerschang",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Shōjō Boston",
+    "slug": "shjboston",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "The Q",
+    "slug": "theq",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Fuchun Ju",
+    "slug": "fuchunju",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Wa Shin",
+    "slug": "washin",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "JiangNan Boston",
+    "slug": "jiangnanboston",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Yunnan Kitchen",
+    "slug": "yunnankitchen",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "RUKA",
+    "slug": "ruka",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "KChickin (Korean, Sushi, Hand roll and Japanese Cuisine)",
+    "slug": "kchickinkoreansushihandrollandjapanesecu",
+    "category": "japanese",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Sarma Restaurant",
+    "slug": "sarmarestaurant",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Premiere on Broadway",
+    "slug": "premiereonbroadway",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Field & Vine",
+    "slug": "fieldvine",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Civility Social House",
+    "slug": "civilitysocialhouse",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Foundry On Elm",
+    "slug": "foundryonelm",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Earls Kitchen + Bar",
+    "slug": "earlskitchenbar",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Avenue kitchen + bar",
+    "slug": "avenuekitchenbar",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Salt + Stone",
+    "slug": "saltstone",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "june bug restaurant",
+    "slug": "junebugrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
   }
 ]

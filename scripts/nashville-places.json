@@ -178,5 +178,197 @@
       "nashville"
     ],
     "address": "5104 Centennial Blvd"
+  },
+  {
+    "name": "Noko",
+    "slug": "noko",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "Pelican & Pig",
+    "slug": "pelicanpig",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "Butcher & Bee",
+    "slug": "butcherbee",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "Hawkers Asian Street Food",
+    "slug": "hawkersasianstreetfood",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "Koré",
+    "slug": "kor",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "Turmeric & Co",
+    "slug": "turmericco",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "Redheaded Stranger",
+    "slug": "redheadedstranger",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "Monell's",
+    "slug": "monells",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "Butchertown Hall",
+    "slug": "butchertownhall",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "Rolf and Daughters",
+    "slug": "rolfanddaughters",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "5th & Taylor",
+    "slug": "5thtaylor",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "Pelato - Nashville",
+    "slug": "pelato-nashville",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "Germantown Café",
+    "slug": "germantowncaf",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "The Optimist",
+    "slug": "theoptimist",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "The Goat Germantown",
+    "slug": "thegoatgermantown",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "Sedona Taphouse",
+    "slug": "sedonataphouse",
+    "category": "vietnamese",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "City House",
+    "slug": "cityhouse",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "V Modern Italian",
+    "slug": "vmodernitalian",
+    "category": "italian",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "The Iberian Pig",
+    "slug": "theiberianpig",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "Adele's",
+    "slug": "adeles",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "Luogo",
+    "slug": "luogo",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "Harper's",
+    "slug": "harpers",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "Two Hands",
+    "slug": "twohands",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "Kayne Prime",
+    "slug": "kayneprime",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
   }
 ]

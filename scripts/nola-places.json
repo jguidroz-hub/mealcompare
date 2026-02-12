@@ -151,5 +151,181 @@
       "nola"
     ],
     "address": "901 Iberville St"
+  },
+  {
+    "name": "Cafe Du Monde",
+    "slug": "cafedumonde",
+    "category": "cafe",
+    "metros": [
+      "nola"
+    ]
+  },
+  {
+    "name": "Restaurant R'evolution",
+    "slug": "restaurantrevolution",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ]
+  },
+  {
+    "name": "Irene's",
+    "slug": "irenes",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ]
+  },
+  {
+    "name": "Cane and Table",
+    "slug": "caneandtable",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ]
+  },
+  {
+    "name": "Elizabeth's",
+    "slug": "elizabeths",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ]
+  },
+  {
+    "name": "The Joint",
+    "slug": "thejoint",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ]
+  },
+  {
+    "name": "The Country Club",
+    "slug": "thecountryclub",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ]
+  },
+  {
+    "name": "Sneaky Pickle & Bar Brine",
+    "slug": "sneakypicklebarbrine",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ]
+  },
+  {
+    "name": "Bacchanal Fine Wine & Spirits",
+    "slug": "bacchanalfinewinespirits",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ]
+  },
+  {
+    "name": "Morrow's",
+    "slug": "morrows",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ]
+  },
+  {
+    "name": "The Elysian Bar",
+    "slug": "theelysianbar",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ]
+  },
+  {
+    "name": "Paladar 511",
+    "slug": "paladar511",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ]
+  },
+  {
+    "name": "HONEY'S",
+    "slug": "honeys",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ]
+  },
+  {
+    "name": "JusTini's",
+    "slug": "justinis",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ]
+  },
+  {
+    "name": "Plates Restaurant & Bar",
+    "slug": "platesrestaurantbar",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ]
+  },
+  {
+    "name": "Gris-Gris",
+    "slug": "gris-gris",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ]
+  },
+  {
+    "name": "Beggars Banquet",
+    "slug": "beggarsbanquet",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ]
+  },
+  {
+    "name": "The Vintage",
+    "slug": "thevintage",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ]
+  },
+  {
+    "name": "Atchafalaya",
+    "slug": "atchafalaya",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ]
+  },
+  {
+    "name": "Dakar NOLA",
+    "slug": "dakarnola",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ]
+  },
+  {
+    "name": "Joey K's Restaurant & Bar",
+    "slug": "joeyksrestaurantbar",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ]
+  },
+  {
+    "name": "Molly's Rise and Shine",
+    "slug": "mollysriseandshine",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ]
   }
 ]

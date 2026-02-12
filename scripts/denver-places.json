@@ -97,5 +97,157 @@
       "denver"
     ],
     "address": "2611 Walnut St"
+  },
+  {
+    "name": "Linger",
+    "slug": "linger",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "The Hampton Social - Denver",
+    "slug": "thehamptonsocial-denver",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Wildflower",
+    "slug": "wildflower",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Fox And The Hen",
+    "slug": "foxandthehen",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Postino LoHi",
+    "slug": "postinolohi",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Mezcaleria Alma",
+    "slug": "mezcaleriaalma",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Sassafras American Eatery, Highlands",
+    "slug": "sassafrasamericaneateryhighlands",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Corinne Denver",
+    "slug": "corinnedenver",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Bar Dough",
+    "slug": "bardough",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Salt Water Social",
+    "slug": "saltwatersocial",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Cherry Creek Grill",
+    "slug": "cherrycreekgrill",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Kona Grill - Denver",
+    "slug": "konagrill-denver",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Hillstone",
+    "slug": "hillstone",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "The Cherry Cricket",
+    "slug": "thecherrycricket",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "North Italia",
+    "slug": "northitalia",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "True Food Kitchen",
+    "slug": "truefoodkitchen",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Culinary Dropout",
+    "slug": "culinarydropout",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Narrative",
+    "slug": "narrative",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Barolo Grill",
+    "slug": "barologrill",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
   }
 ]

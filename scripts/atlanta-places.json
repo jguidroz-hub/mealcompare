@@ -169,5 +169,221 @@
       "atlanta"
     ],
     "address": "56 E Andrews Dr NW Unit 7"
+  },
+  {
+    "name": "Delbar - Inman Park",
+    "slug": "delbar-inmanpark",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Yeppa & Co. - Beltline",
+    "slug": "yeppaco-beltline",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Barcelona Wine Bar",
+    "slug": "barcelonawinebar",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Eclipse di Luna - Beltline",
+    "slug": "eclipsediluna-beltline",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Kitty Dare",
+    "slug": "kittydare",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "BeetleCat",
+    "slug": "beetlecat",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "a mano",
+    "slug": "amano",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "BoccaLupo",
+    "slug": "boccalupo",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Sotto Sotto Restaurant",
+    "slug": "sottosottorestaurant",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "The Iberian Pig",
+    "slug": "theiberianpig",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Kimball House",
+    "slug": "kimballhouse",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Cap't Loui - Decatur",
+    "slug": "captloui-decatur",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Louisiana Bistreaux Seafood Kitchen Decatur",
+    "slug": "louisianabistreauxseafoodkitchendecatur",
+    "category": "seafood",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "The Deer and The Dove",
+    "slug": "thedeerandthedove",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "The White Bull",
+    "slug": "thewhitebull",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "LEON's Full Service",
+    "slug": "leonsfullservice",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "The Po'Boy Shop & Basement Bar",
+    "slug": "thepoboyshopbasementbar",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Parker's on Ponce",
+    "slug": "parkersonponce",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "no. 246",
+    "slug": "no246",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Murphy's Restaurant",
+    "slug": "murphysrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Whiskey Bird",
+    "slug": "whiskeybird",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Ela",
+    "slug": "ela",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "La Tavola Trattoria",
+    "slug": "latavolatrattoria",
+    "category": "italian",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Yeppa & Co. - Buckhead",
+    "slug": "yeppaco-buckhead",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Tiny Lou's",
+    "slug": "tinylous",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Fontaine's Oyster House",
+    "slug": "fontainesoysterhouse",
+    "category": "seafood",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Argosy",
+    "slug": "argosy",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
   }
 ]

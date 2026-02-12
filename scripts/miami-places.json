@@ -313,5 +313,245 @@
       "miami"
     ],
     "address": "1450 Brickell Ave Suite 110"
+  },
+  {
+    "name": "Ciao Havana",
+    "slug": "ciaohavana",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Sanguich",
+    "slug": "sanguich",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "El Toro Loco Steakhouse Little Havana",
+    "slug": "eltorolocosteakhouselittlehavana",
+    "category": "steakhouse",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "CRAFT Little Havana",
+    "slug": "craftlittlehavana",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Cafe La Trova",
+    "slug": "cafelatrova",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "BALL & CHAIN",
+    "slug": "ballchain",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Cebada Rooftop",
+    "slug": "cebadarooftop",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Sofia Italian Restaurant Miami",
+    "slug": "sofiaitalianrestaurantmiami",
+    "category": "italian",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Giselle Miami",
+    "slug": "gisellemiami",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "COTE Miami",
+    "slug": "cotemiami",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "{petite} maman",
+    "slug": "petitemaman",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Elastika",
+    "slug": "elastika",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Mother Wolf",
+    "slug": "motherwolf",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Michael's Genuine",
+    "slug": "michaelsgenuine",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "ZOI Restaurant & Lounge",
+    "slug": "zoirestaurantlounge",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Sola Miami Beach",
+    "slug": "solamiamibeach",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "El Patio Restaurant – Bar Habana – La Terraza Rooftop",
+    "slug": "elpatiorestaurantbarhabanalaterrazarooft",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Azteca South Beach",
+    "slug": "aztecasouthbeach",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "ll Pastaiolo - Best Italian Restaurant South Beach, Miami Florida",
+    "slug": "llpastaiolo-bestitalianrestaurantsouthbe",
+    "category": "italian",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Santorini by Georgios",
+    "slug": "santorinibygeorgios",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Yardbird Table & Bar",
+    "slug": "yardbirdtablebar",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Meet Dalia",
+    "slug": "meetdalia",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Café Bastille Miami Beach",
+    "slug": "cafbastillemiamibeach",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Baia Beach Club Miami",
+    "slug": "baiabeachclubmiami",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "CVI.CHE 105",
+    "slug": "cviche105",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Pollos & Jarras",
+    "slug": "pollosjarras",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "MAYU by Aromas Del Peru",
+    "slug": "mayubyaromasdelperu",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "305 Peruvian Modern Cuisine",
+    "slug": "305peruvianmoderncuisine",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Aromas del Peru",
+    "slug": "aromasdelperu",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Taipa Peruvian Restaurant- (Coral Gables-57 Ave)",
+    "slug": "taipaperuvianrestaurant-coralgables-57av",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
   }
 ]

@@ -601,5 +601,541 @@
       "chicago"
     ],
     "address": "3636 N Clark St"
+  },
+  {
+    "name": "Union",
+    "slug": "union",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Fuego Logan Square",
+    "slug": "fuegologansquare",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Scofflaw",
+    "slug": "scofflaw",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Gretel",
+    "slug": "gretel",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Daisies",
+    "slug": "daisies",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Table, Donkey and Stick",
+    "slug": "tabledonkeyandstick",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "The Duplex",
+    "slug": "theduplex",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Lula Cafe",
+    "slug": "lulacafe",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "The Whale",
+    "slug": "thewhale",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Longman & Eagle",
+    "slug": "longmaneagle",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "RAMEN-SAN",
+    "slug": "ramen-san",
+    "category": "japanese",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "RPM Seafood",
+    "slug": "rpmseafood",
+    "category": "seafood",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Obélix",
+    "slug": "oblix",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "The Izakaya",
+    "slug": "theizakaya",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "The Oakville Grill & Cellar",
+    "slug": "theoakvillegrillcellar",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Monteverde Restaurant & Pastificio",
+    "slug": "monteverderestaurantpastificio",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "The Publican",
+    "slug": "thepublican",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "The VIG West Loop",
+    "slug": "thevigwestloop",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Duck Duck Goat",
+    "slug": "duckduckgoat",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "La Serre",
+    "slug": "laserre",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Rubi’s Tacos",
+    "slug": "rubistacos",
+    "category": "mexican",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "La Vaca Margarita Bar",
+    "slug": "lavacamargaritabar",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Ramen Wasabi - Logan Square",
+    "slug": "ramenwasabi-logansquare",
+    "category": "japanese",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "High Five Ramen",
+    "slug": "highfiveramen",
+    "category": "japanese",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Birdman Ramen",
+    "slug": "birdmanramen",
+    "category": "japanese",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "CHICAGO RAMEN",
+    "slug": "chicagoramen",
+    "category": "japanese",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Kyuramen x TBaar - Downtown Chicago",
+    "slug": "kyuramenxtbaar-downtownchicago",
+    "category": "japanese",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Rudy's Ramen",
+    "slug": "rudysramen",
+    "category": "japanese",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "MIKAMI IZAKAYA & RAMEN",
+    "slug": "mikamiizakayaramen",
+    "category": "japanese",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Ramen-San Lincoln Park",
+    "slug": "ramen-sanlincolnpark",
+    "category": "japanese",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "RAMEN-SAN Deluxe",
+    "slug": "ramen-sandeluxe",
+    "category": "japanese",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "India House Restaurant Chicago",
+    "slug": "indiahouserestaurantchicago",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Indian Garden Restaurant",
+    "slug": "indiangardenrestaurant",
+    "category": "indian",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Maharaj Indian Grill",
+    "slug": "maharajindiangrill",
+    "category": "indian",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Chicago Curry House - Indian - Nepali Cuisine.",
+    "slug": "chicagocurryhouse-indian-nepalicuisine",
+    "category": "indian",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Indienne",
+    "slug": "indienne",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Bar Goa",
+    "slug": "bargoa",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Mild 2 Spicy – Modern Indian Restaurant",
+    "slug": "mild2spicymodernindianrestaurant",
+    "category": "indian",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "ROOP Chicago Innovative Indian Restaurant & Cocktail Bar",
+    "slug": "roopchicagoinnovativeindianrestaurantcoc",
+    "category": "indian",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Basant Modern Indian Restaurant",
+    "slug": "basantmodernindianrestaurant",
+    "category": "indian",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Siri Indian Restaurant",
+    "slug": "siriindianrestaurant",
+    "category": "indian",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Crying Tiger",
+    "slug": "cryingtiger",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Madame Puffs and Thai Bistro",
+    "slug": "madamepuffsandthaibistro",
+    "category": "thai",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Oliang",
+    "slug": "oliang",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Anna's Thai Kitchen Restaurant",
+    "slug": "annasthaikitchenrestaurant",
+    "category": "thai",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Busaba Garden Thai Cuisine",
+    "slug": "busabagardenthaicuisine",
+    "category": "thai",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Ghin Khao Eat Rice",
+    "slug": "ghinkhaoeatrice",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Immm Rice & Beyond",
+    "slug": "immmricebeyond",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Tuk Tuk Thai Isan Street Food",
+    "slug": "tuktukthaiisanstreetfood",
+    "category": "thai",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Curry Blah Blah",
+    "slug": "curryblahblah",
+    "category": "indian",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Mahanakhon Thai & Noodle Bar",
+    "slug": "mahanakhonthainoodlebar",
+    "category": "thai",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Little Goat Diner",
+    "slug": "littlegoatdiner",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Crosby's Kitchen",
+    "slug": "crosbyskitchen",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "The Lakefront Restaurant at Theater on the Lake",
+    "slug": "thelakefrontrestaurantattheateronthelake",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "UncommonGround - Lakeview",
+    "slug": "uncommonground-lakeview",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Coda di Volpe",
+    "slug": "codadivolpe",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Old Crow Smokehouse",
+    "slug": "oldcrowsmokehouse",
+    "category": "bbq",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "ROCKS lakeview",
+    "slug": "rockslakeview",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "MingHin Cuisine",
+    "slug": "minghincuisine",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Qing Xiang Yuan Dumplings",
+    "slug": "qingxiangyuandumplings",
+    "category": "chinese",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Bigsuda",
+    "slug": "bigsuda",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Triple Crown Restaurant",
+    "slug": "triplecrownrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Phoenix Restaurant",
+    "slug": "phoenixrestaurant",
+    "category": "vietnamese",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Dolo Restaurant and Bar",
+    "slug": "dolorestaurantandbar",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Union Dumpling House",
+    "slug": "uniondumplinghouse",
+    "category": "chinese",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "MingHin Cuisine - Lakeshore East",
+    "slug": "minghincuisine-lakeshoreeast",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Minghin Cuisine - Streeterville",
+    "slug": "minghincuisine-streeterville",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
   }
 ]

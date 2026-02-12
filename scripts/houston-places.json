@@ -160,5 +160,277 @@
       "houston"
     ],
     "address": "1600 Westheimer Rd"
+  },
+  {
+    "name": "La Lucha",
+    "slug": "lalucha",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Squable",
+    "slug": "squable",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Field & Tides",
+    "slug": "fieldtides",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Postino Heights",
+    "slug": "postinoheights",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Pinkerton's Barbecue",
+    "slug": "pinkertonsbarbecue",
+    "category": "bbq",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Moon Rabbit",
+    "slug": "moonrabbit",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Jūn",
+    "slug": "jn",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Blue Tuba",
+    "slug": "bluetuba",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Better Luck Tomorrow",
+    "slug": "betterlucktomorrow",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Gotti's",
+    "slug": "gottis",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Nancy's Hustle",
+    "slug": "nancyshustle",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Truck Yard",
+    "slug": "truckyard",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Rodeo Goat",
+    "slug": "rodeogoat",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Grotto Downtown",
+    "slug": "grottodowntown",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Tiny Champions",
+    "slug": "tinychampions",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Huynh Restaurant",
+    "slug": "huynhrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Annam Vietnamese Restaurant",
+    "slug": "annamvietnameserestaurant",
+    "category": "vietnamese",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Le Colonial Houston",
+    "slug": "lecolonialhouston",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Mai's Restaurant",
+    "slug": "maisrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "LES BA'GET Vietnamese Cafe",
+    "slug": "lesbagetvietnamesecafe",
+    "category": "cafe",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Lúa Viet Kitchen",
+    "slug": "lavietkitchen",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Old Saigon Cafe",
+    "slug": "oldsaigoncafe",
+    "category": "cafe",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Hughie's Tavern & Viet Grill",
+    "slug": "hughiestavernvietgrill",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Yummy Quan - Hu Tieu Nam Vang",
+    "slug": "yummyquan-hutieunamvang",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Pearl & Vine",
+    "slug": "pearlvine",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Local Table",
+    "slug": "localtable",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Texas Tradition",
+    "slug": "texastradition",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Whiskey Cake Kitchen & Bar",
+    "slug": "whiskeycakekitchenbar",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Black Bear Diner Katy",
+    "slug": "blackbeardinerkaty",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Little Italy Restaurant",
+    "slug": "littleitalyrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Postino Cinco Ranch",
+    "slug": "postinocincoranch",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Astor's Table",
+    "slug": "astorstable",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Katy Asian Town",
+    "slug": "katyasiantown",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Katy Vibes",
+    "slug": "katyvibes",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
   }
 ]
