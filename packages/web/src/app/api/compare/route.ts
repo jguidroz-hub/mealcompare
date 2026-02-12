@@ -295,39 +295,50 @@ function estimateGrubhubQuote(
   };
 }
 
-// ─── Direct Ordering (Key Value Prop) ──────────────────────────
+// ─── Direct Ordering via Toast/Square (Key Value Prop) ─────────
 
 function estimateDirectQuote(
   restaurantName: string,
   items: CartItem[],
   coords: { lat: number; lng: number; taxRate: number }
 ): PlatformQuote {
-  // Direct ordering = no platform markup, minimal fees
-  const subtotal = items.reduce((s, i) => s + i.price * i.quantity, 0);
-  const tax = Math.round(subtotal * coords.taxRate);
-  // Toast/Square typically charge flat delivery fee
-  const deliveryFee = 499; // ~$4.99 for Toast delivery
+  // Direct ordering = no platform markup, no service fee
+  // Menu prices are typically 10-15% lower than DD/UE/GH because
+  // restaurants don't need to offset the 28-33% platform commission
+  const platformSubtotal = items.reduce((s, i) => s + i.price * i.quantity, 0);
+
+  // Estimate direct menu prices (12% lower than platform prices on average)
+  const directSubtotal = Math.round(platformSubtotal * 0.88);
+  const platformMarkup = directSubtotal - platformSubtotal; // Negative = savings
+
+  const tax = Math.round(directSubtotal * coords.taxRate);
+  const deliveryFee = 499; // Toast/Square flat ~$4.99
+
+  // Build Toast URL (best guess)
+  const slug = restaurantName.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+  const toastUrl = `https://order.toasttab.com/online/${slug}`;
 
   return {
     platform: 'direct',
     restaurant: {
-      name: `${restaurantName} (Direct)`,
+      name: `${restaurantName} (Direct Order)`,
+      platformUrl: toastUrl,
     },
     fees: {
-      subtotal,
-      platformMarkup: 0, // No markup!
-      serviceFee: 0, // No service fee!
-      deliveryFee,
-      smallOrderFee: 0,
+      subtotal: directSubtotal,
+      platformMarkup,        // Negative = no markup, actually cheaper
+      serviceFee: 0,         // $0 service fee (vs $2-8 on platforms)
+      deliveryFee,           // Flat rate (vs demand-priced on platforms)
+      smallOrderFee: 0,      // No small order fee
       tax,
       tip: 0,
       discount: 0,
-      total: subtotal + deliveryFee + tax,
+      total: directSubtotal + deliveryFee + tax,
     },
     estimatedMinutes: null,
     available: true,
-    deepLink: `https://www.google.com/search?q=${encodeURIComponent(restaurantName + ' online order')}`,
-    confidence: 0.5, // Medium — we know direct is always cheaper, but can't verify availability
+    deepLink: `https://www.google.com/search?q=${encodeURIComponent(restaurantName + ' order online direct')}`,
+    confidence: 0.6, // Higher than DD/GH estimates — direct pricing pattern is reliable
     capturedAt: new Date().toISOString(),
   };
 }
