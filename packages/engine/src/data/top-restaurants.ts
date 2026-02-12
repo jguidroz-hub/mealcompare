@@ -47,6 +47,7 @@ export const DC_RESTAURANTS: RestaurantData[] = [
   { name: 'Tout de Sweet', slug: 'toutdesweet', category: 'bakery', metros: ['dc'], toastUrl: 'https://toutdesweet.toast.site/' },
   { name: 'BoBaPop Tea Bar', slug: 'bobapop', category: 'tea', metros: ['dc'], toastUrl: 'https://bobapopteabar.toast.site/' },
   { name: 'Flavor Hive', slug: 'flavorhive', category: 'asian', metros: ['dc'], toastUrl: 'https://flavorhiveannandale.toast.site/' },
+  { name: 'The Morning Fork', slug: 'themorningfork', category: 'breakfast', metros: ['dc'], toastUrl: 'https://themorningfork.toast.site/' },
   
   // National chains (both markets)
   { name: 'Chipotle', slug: 'chipotle', category: 'mexican', metros: ['austin', 'dc'], websiteOrderUrl: 'https://order.chipotle.com' },
@@ -112,6 +113,9 @@ export const AUSTIN_RESTAURANTS: RestaurantData[] = [
   { name: 'Om-Le Road', slug: 'omleroad', category: 'thai', metros: ['austin'], toastUrl: 'https://omleroad.toast.site/' },
   { name: "Buddy's Burger", slug: 'buddysburger', category: 'burgers', metros: ['austin'], toastUrl: 'https://buddysburger.toast.site/' },
   { name: 'Spread & Co.', slug: 'spreadco', category: 'cafe', metros: ['austin'], toastUrl: 'https://spreadcocherrywood.toast.site/' },
+  { name: "Keso's Tacos", slug: 'kesostacos', category: 'mexican', metros: ['austin'], toastUrl: 'https://kesostacos.toast.site/' },
+  { name: 'The Lokal Restaurant', slug: 'thelokal', category: 'american', metros: ['austin'], toastUrl: 'https://thelokalrestaurant.toast.site/' },
+  { name: 'Relish Restaurant & Bar', slug: 'relish', category: 'american', metros: ['austin'], toastUrl: 'https://relishrestaurantbar.toast.site/' },
 
   // Austin staples
   { name: 'Whataburger', slug: 'whataburger', category: 'burgers', metros: ['austin'], websiteOrderUrl: 'https://whataburger.com/order' },
