@@ -133,6 +133,11 @@ export const AUSTIN_RESTAURANTS: RestaurantData[] = [
   { name: "Austin's Pizza", slug: 'austinspizza', category: 'pizza', metros: ['austin'], toastUrl: 'https://austinspizza.toast.site/' },
   { name: 'East Side Pies', slug: 'eastsidepies', category: 'pizza', metros: ['austin'], toastUrl: 'https://eastsidepies.toast.site/' },
   { name: 'The Front Page', slug: 'thefrontpage', category: 'sandwiches', metros: ['austin'], toastUrl: 'https://thefrontpage.toast.site/' },
+  { name: 'Cedar Park Cafe', slug: 'cedarparkcafe', category: 'american', metros: ['austin'], toastUrl: 'https://cedarparkcafe.toast.site/' },
+  { name: 'Rock N Grill Indian', slug: 'rockngrill', category: 'indian', metros: ['austin'], toastUrl: 'https://rockngrillauthenticindiancuisinebar.toast.site/' },
+  { name: 'Aladdin Halal Grill', slug: 'aladdinhalal', category: 'halal', metros: ['austin'], toastUrl: 'https://aladdingrillroundrock.toast.site/' },
+  { name: 'The Great Greek', slug: 'thegreatgreek', category: 'mediterranean', metros: ['austin'], toastUrl: 'https://thegreatgreek.toast.site/' },
+  { name: 'Tejas Birria', slug: 'tejasbirria', category: 'mexican', metros: ['austin'], toastUrl: 'https://tejasbirria.toast.site/' },
 
   // Austin staples
   { name: 'Whataburger', slug: 'whataburger', category: 'burgers', metros: ['austin'], websiteOrderUrl: 'https://whataburger.com/order' },
