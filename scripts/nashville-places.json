@@ -6,7 +6,10 @@
     "metros": [
       "nashville"
     ],
-    "address": "111 10th Ave S #310"
+    "address": "111 10th Ave S #310",
+    "placeId": "ChIJD71cuSRnZIgRcwLkirc7vXg",
+    "website": "https://www.thefinchnashville.com/",
+    "websiteOrderUrl": "https://order.online/store/the-finch-nashville-28830643"
   },
   {
     "name": "Puckett's Restaurant",
@@ -15,7 +18,10 @@
     "metros": [
       "nashville"
     ],
-    "address": "500 Church St"
+    "address": "500 Church St",
+    "placeId": "ChIJjYUYWVhmZIgRizOTUrFR_1M",
+    "website": "http://puckettsrestaurant.com/",
+    "websiteOrderUrl": "https://amarshallhospitality.olo.com/?utm_source=website&amp;utm_medium=navigation&quot;,"
   },
   {
     "name": "The Stillery",
@@ -24,7 +30,9 @@
     "metros": [
       "nashville"
     ],
-    "address": "113 2nd Ave N"
+    "address": "113 2nd Ave N",
+    "placeId": "ChIJ6VZhyFtmZIgR3wc_pOZYUq4",
+    "website": "http://www.thestillery.com/"
   },
   {
     "name": "The Loveless Cafe",
@@ -33,7 +41,9 @@
     "metros": [
       "nashville"
     ],
-    "address": "8400 TN-100"
+    "address": "8400 TN-100",
+    "placeId": "ChIJGVuc4xGGZIgR7fI2E4yqTpU",
+    "website": "https://www.lovelesscafe.com/"
   },
   {
     "name": "Lockeland Table",
@@ -42,7 +52,10 @@
     "metros": [
       "nashville"
     ],
-    "address": "1520 Woodland St"
+    "address": "1520 Woodland St",
+    "placeId": "ChIJ5c8HXdVnZIgRCaINuy6gsLc",
+    "website": "http://www.lockelandtable.com/",
+    "toastUrl": "https://order.toasttab.com/online/lockeland-table-1520-woodland-st"
   },
   {
     "name": "The Hampton Social - Nashville",
@@ -51,7 +64,9 @@
     "metros": [
       "nashville"
     ],
-    "address": "201 1st Ave S"
+    "address": "201 1st Ave S",
+    "placeId": "ChIJ2zNcAORnZIgRDegDF_fkiW0",
+    "website": "https://www.thehamptonsocial.com/nashville"
   },
   {
     "name": "The Treehouse Nashville",
@@ -60,7 +75,9 @@
     "metros": [
       "nashville"
     ],
-    "address": "1011 Clearview Ave"
+    "address": "1011 Clearview Ave",
+    "placeId": "ChIJrzI3jdJnZIgRMYbRswDHo6E",
+    "website": "https://www.treehousenashville.com/"
   },
   {
     "name": "Milk & Honey Gulch",
@@ -69,7 +86,9 @@
     "metros": [
       "nashville"
     ],
-    "address": "214 11th Ave S"
+    "address": "214 11th Ave S",
+    "placeId": "ChIJCUldzfRmZIgRTdc-qk-jhFo",
+    "website": "http://milkandhoneynashville.com/"
   },
   {
     "name": "Harriet's Rooftop",
@@ -78,7 +97,9 @@
     "metros": [
       "nashville"
     ],
-    "address": "710 Demonbreun St 19th Floor"
+    "address": "710 Demonbreun St 19th Floor",
+    "placeId": "ChIJU0OUhPdnZIgRQ_GQuh-RDwc",
+    "website": "https://www.1hotels.com/nashville/taste/harriets-rooftop?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp"
   },
   {
     "name": "The Twelve Thirty Club",
@@ -87,7 +108,9 @@
     "metros": [
       "nashville"
     ],
-    "address": "550 Broadway"
+    "address": "550 Broadway",
+    "placeId": "ChIJmefx5j1nZIgR5RzqV-zqqEA",
+    "website": "https://thetwelvethirtyclub.com/#section-four?utm_source=google&utm_medium=organic&utm_campaign=maps"
   },
   {
     "name": "Hattie B's Hot Chicken - Nashville - Midtown",
@@ -96,7 +119,9 @@
     "metros": [
       "nashville"
     ],
-    "address": "112 19th Ave S"
+    "address": "112 19th Ave S",
+    "placeId": "ChIJSbQCipNmZIgRm4c6Nz9sGaE",
+    "website": "http://hattieb.com/"
   },
   {
     "name": "Red's Hot Chicken",
@@ -105,7 +130,10 @@
     "metros": [
       "nashville"
     ],
-    "address": "115 27th Ave N"
+    "address": "115 27th Ave N",
+    "placeId": "ChIJx6_99Fp5ZIgRWrOc64T7Ikk",
+    "website": "http://redshotchicken.com/",
+    "websiteOrderUrl": "https://order.online/store/red"
   },
   {
     "name": "Champy's Nashville",
@@ -114,7 +142,9 @@
     "metros": [
       "nashville"
     ],
-    "address": "204 3rd Ave S"
+    "address": "204 3rd Ave S",
+    "placeId": "ChIJzeRT-LpnZIgR26G7IAViZrU",
+    "website": "https://champyschicken.com/locations/nashville-tn"
   },
   {
     "name": "Prince's Hot Chicken Shack South",
@@ -123,7 +153,9 @@
     "metros": [
       "nashville"
     ],
-    "address": "5814 Nolensville Pk #110"
+    "address": "5814 Nolensville Pk #110",
+    "placeId": "ChIJcU_g7SdwZIgRxUnW-7FE8ZM",
+    "website": "https://www.princeshotchicken.com/"
   },
   {
     "name": "Hattie B's Hot Chicken - Nashville - Lower Broadway",
@@ -132,7 +164,9 @@
     "metros": [
       "nashville"
     ],
-    "address": "5069 Broadway Suite A-103"
+    "address": "5069 Broadway Suite A-103",
+    "placeId": "ChIJDaBISpFnZIgRAx22l-PGg5I",
+    "website": "https://hattieb.com/"
   },
   {
     "name": "Hattie B's Hot Chicken - Nashville - West",
@@ -141,7 +175,9 @@
     "metros": [
       "nashville"
     ],
-    "address": "5209 Charlotte Ave"
+    "address": "5209 Charlotte Ave",
+    "placeId": "ChIJc7oT3m1hZIgRlOyTmAo0vvE",
+    "website": "http://hattieb.com/"
   },
   {
     "name": "Hattie B's Hot Chicken - Nashville - Melrose",
@@ -150,7 +186,9 @@
     "metros": [
       "nashville"
     ],
-    "address": "2222 8th Ave S"
+    "address": "2222 8th Ave S",
+    "placeId": "ChIJWWwzFtRlZIgRkMRuJO7-H4s",
+    "website": "http://hattieb.com/"
   },
   {
     "name": "Helen's Hot Chicken",
@@ -159,7 +197,9 @@
     "metros": [
       "nashville"
     ],
-    "address": "2010 Scarritt Pl"
+    "address": "2010 Scarritt Pl",
+    "placeId": "ChIJf4nBdJtnZIgRK38oi-vuLtE",
+    "website": "https://www.helenshotchicken.com/"
   },
   {
     "name": "Hella Hot Chicken Donelson",
@@ -168,7 +208,10 @@
     "metros": [
       "nashville"
     ],
-    "address": "509 Donelson Pike Suit B"
+    "address": "509 Donelson Pike Suit B",
+    "placeId": "ChIJl-vVSQBpZIgRHEZ1e-ovh_c",
+    "website": "https://www.hellahotchicken.com/",
+    "websiteOrderUrl": "http://ordering.chownow.com/order/33552/locations/?add_cn_ordering_class=true&quot;,"
   },
   {
     "name": "Pepperfire Hot Chicken",
@@ -177,7 +220,9 @@
     "metros": [
       "nashville"
     ],
-    "address": "5104 Centennial Blvd"
+    "address": "5104 Centennial Blvd",
+    "placeId": "ChIJY3YoOwpoZIgRZK0HpU3cwbA",
+    "website": "http://www.pepperfirehotchicken.com/"
   },
   {
     "name": "Noko",
@@ -185,7 +230,11 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJSf0U2fdpZIgRJ5adKZHG0Bg",
+    "website": "http://www.nokonashville.com/",
+    "toastUrl": "https://order.toasttab.com/online/noko",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/osaka/76c49d2.osaka/assets/js/head.min.js"
   },
   {
     "name": "Pelican & Pig",
@@ -193,7 +242,9 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJyfd2zfZnZIgR5sYzbG-eMhg",
+    "website": "http://www.pelicanandpig.com/"
   },
   {
     "name": "Butcher & Bee",
@@ -201,7 +252,9 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJl4d3qsxnZIgRNDFlj8W0hvw",
+    "website": "https://www.butcherandbee.com/nashville"
   },
   {
     "name": "Hawkers Asian Street Food",
@@ -209,7 +262,9 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJzb4BtQVnZIgR93Nv50R6YiY",
+    "website": "https://eathawkers.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ"
   },
   {
     "name": "Koré",
@@ -217,7 +272,10 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJ3flJ_J5pZIgR6hbQ36fJzEc",
+    "website": "https://kore-nashville.com/",
+    "toastUrl": "https://order.toasttab.com/online/kore-97-chapel-ave"
   },
   {
     "name": "Turmeric & Co",
@@ -225,7 +283,9 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJ_7FRbABnZIgR2mGsqbgDr9I",
+    "website": "https://turmeric-and-company.com/?utm_source=google"
   },
   {
     "name": "Redheaded Stranger",
@@ -233,7 +293,9 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJdciAfitnZIgR8kapD3llC2o",
+    "website": "http://redheadedstrangertacos.com/"
   },
   {
     "name": "Monell's",
@@ -241,7 +303,9 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJMQjgCv1mZIgRNRrINpRe1VA",
+    "website": "https://monellstn.com/"
   },
   {
     "name": "Butchertown Hall",
@@ -249,7 +313,9 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJEViNrgNnZIgRSHIhfKR6U-Y",
+    "website": "http://www.butchertownhall.com/"
   },
   {
     "name": "Rolf and Daughters",
@@ -257,7 +323,9 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJSy7tWh1nZIgR7o6crVziEqY",
+    "website": "https://www.rolfanddaughters.com/"
   },
   {
     "name": "5th & Taylor",
@@ -265,7 +333,9 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJC9pi7gJnZIgRAWa1ituSjTg",
+    "website": "http://www.5thandtaylor.com/"
   },
   {
     "name": "Pelato - Nashville",
@@ -273,7 +343,10 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJA52LgFdnZIgRwjYY8HbAFYE",
+    "website": "http://pelatorestaurant.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/osaka/76c49d2.osaka/assets/js/head.min.js"
   },
   {
     "name": "Germantown Café",
@@ -281,7 +354,9 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJHWNN6v1mZIgRcT3pJLUiyt4",
+    "website": "https://www.germantowncafe.com/"
   },
   {
     "name": "The Optimist",
@@ -289,7 +364,9 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJy6atxutnZIgRNLCxtHTSBgQ",
+    "website": "https://www.theoptimistrestaurant.com/"
   },
   {
     "name": "The Goat Germantown",
@@ -297,7 +374,9 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJp8syzgtnZIgRomQASt-JKM8",
+    "website": "https://www.lcgoat.com/locations/germantown/"
   },
   {
     "name": "Sedona Taphouse",
@@ -305,7 +384,9 @@
     "category": "vietnamese",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJHyOnDVBnZIgR8assW3yCyg0",
+    "website": "https://sedonataphouse.com/locations/nashville-tn/"
   },
   {
     "name": "City House",
@@ -313,7 +394,9 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJizjhXHJmZIgRFuDelhALHY8",
+    "website": "http://cityhousenashville.com/"
   },
   {
     "name": "V Modern Italian",
@@ -321,7 +404,10 @@
     "category": "italian",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJYfFAkGFmZIgRnvABV2XtMfg",
+    "website": "https://v.restaurant/nashville/",
+    "toastUrl": "https://order.toasttab.com/online/fast-fine-holdings-ab-810-division-street"
   },
   {
     "name": "The Iberian Pig",
@@ -329,7 +415,9 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJV_VfXmhnZIgRemCtcVMHSAc",
+    "website": "https://www.iberianpig.com/"
   },
   {
     "name": "Adele's",
@@ -337,7 +425,10 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJ71PMT_NmZIgRPuePSAZHIh0",
+    "website": "https://adelesrestaurant.getbento.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Luogo",
@@ -345,7 +436,10 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJH9nNuORnZIgRz4ZY2Va8u9g",
+    "website": "http://www.luogorestaurant.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/osaka/76c49d2.osaka/assets/js/head.min.js"
   },
   {
     "name": "Harper's",
@@ -353,7 +447,10 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJkTimkhVnZIgR1L49miz0jVM",
+    "website": "https://www.harpersnashville.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Two Hands",
@@ -361,7 +458,10 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJO71UejhnZIgRiJMuLJSuVtw",
+    "website": "https://www.twohandshospitality.com/location/Nashville/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Kayne Prime",
@@ -369,6 +469,8 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJf0fzuvRmZIgR1Bnbo93dIjA",
+    "website": "https://www.kayneprimenashville.com/"
   }
 ]

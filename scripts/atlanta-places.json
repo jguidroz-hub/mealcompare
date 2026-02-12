@@ -6,7 +6,9 @@
     "metros": [
       "atlanta"
     ],
-    "address": "820 Ralph McGill Blvd NE"
+    "address": "820 Ralph McGill Blvd NE",
+    "placeId": "ChIJr3-OMRsE9YgRNJTNacJKKqQ",
+    "website": "https://www.twourbanlicks.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb"
   },
   {
     "name": "9 Mile Station",
@@ -15,7 +17,9 @@
     "metros": [
       "atlanta"
     ],
-    "address": "Ponce City Market"
+    "address": "Ponce City Market",
+    "placeId": "ChIJlxF9wRAE9YgRn5oLqkWmNE8",
+    "website": "http://www.9milestation.com/"
   },
   {
     "name": "Mary Mac's Tea Room",
@@ -24,7 +28,9 @@
     "metros": [
       "atlanta"
     ],
-    "address": "224 Ponce De Leon Ave NE"
+    "address": "224 Ponce De Leon Ave NE",
+    "placeId": "ChIJgUolJWwE9YgRnxg5IduXOsg",
+    "website": "http://www.marymacs.com/"
   },
   {
     "name": "Sugar Factory American Brasserie - Atlanta",
@@ -33,7 +39,9 @@
     "metros": [
       "atlanta"
     ],
-    "address": "1080 Peachtree St NE"
+    "address": "1080 Peachtree St NE",
+    "placeId": "ChIJq6rqGUME9YgRxvA4qyOGxLg",
+    "website": "https://sf3.sugarfactory.com/atlanta-ga"
   },
   {
     "name": "Hungry AF Downtown",
@@ -42,7 +50,9 @@
     "metros": [
       "atlanta"
     ],
-    "address": "27 Piedmont Ave NE d1"
+    "address": "27 Piedmont Ave NE d1",
+    "placeId": "ChIJ0eQfrtYD9YgRBf_21hqdv9M",
+    "website": "https://thehungryaf.com/"
   },
   {
     "name": "Marcel",
@@ -51,7 +61,9 @@
     "metros": [
       "atlanta"
     ],
-    "address": "1170 Howell Ml Rd"
+    "address": "1170 Howell Ml Rd",
+    "placeId": "ChIJ91usCuwE9YgRP6FYPUrfhb0",
+    "website": "http://www.marcelatl.com/"
   },
   {
     "name": "Ray's In the City",
@@ -60,7 +72,10 @@
     "metros": [
       "atlanta"
     ],
-    "address": "240 Peachtree St"
+    "address": "240 Peachtree St",
+    "placeId": "ChIJww40UHgE9YgR66AJn9YJKuE",
+    "website": "https://raysrestaurants.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Ladybird Grove & Mess Hall",
@@ -69,7 +84,9 @@
     "metros": [
       "atlanta"
     ],
-    "address": "684 John Wesley Dobbs Ave NE Unit J"
+    "address": "684 John Wesley Dobbs Ave NE Unit J",
+    "placeId": "ChIJpwdZ0AcE9YgR4Y8mHDdrygo",
+    "website": "http://www.ladybirdatl.com/"
   },
   {
     "name": "The Sun Dial Restaurant, Bar & View",
@@ -78,7 +95,9 @@
     "metros": [
       "atlanta"
     ],
-    "address": "210 Peachtree St NW"
+    "address": "210 Peachtree St NW",
+    "placeId": "ChIJ86lMh3gE9YgRWFFqMrlgCXE",
+    "website": "https://www.sundialrestaurant.com/"
   },
   {
     "name": "Canoe",
@@ -87,7 +106,9 @@
     "metros": [
       "atlanta"
     ],
-    "address": "4199 Paces Ferry Rd SE"
+    "address": "4199 Paces Ferry Rd SE",
+    "placeId": "ChIJJbthuA0Q9YgRLIGtr6ZLaOU",
+    "website": "http://www.canoeatl.com/"
   },
   {
     "name": "South City Kitchen Midtown",
@@ -96,7 +117,9 @@
     "metros": [
       "atlanta"
     ],
-    "address": "1144 Crescent Ave NE"
+    "address": "1144 Crescent Ave NE",
+    "placeId": "ChIJvQqtX0ME9YgR-X6ukvNSt6I",
+    "website": "https://www.southcitykitchen.com/"
   },
   {
     "name": "El Viñedo Local",
@@ -105,7 +128,10 @@
     "metros": [
       "atlanta"
     ],
-    "address": "730 Peachtree St NE Suite 100"
+    "address": "730 Peachtree St NE Suite 100",
+    "placeId": "ChIJ8-AgkXwF9YgRerw_Yj02Fsw",
+    "website": "https://www.elvinedolocal.com/",
+    "websiteOrderUrl": "https://order.online/store/el-vinedo-local-atlanta-2817439"
   },
   {
     "name": "The Consulate Restaurant",
@@ -114,7 +140,9 @@
     "metros": [
       "atlanta"
     ],
-    "address": "10 10th St NW Suite P200"
+    "address": "10 10th St NW Suite P200",
+    "placeId": "ChIJmxSlaV0E9YgRAtCrUezJZtw",
+    "website": "http://www.theconsulateatlanta.com/"
   },
   {
     "name": "5Church Midtown",
@@ -123,7 +151,9 @@
     "metros": [
       "atlanta"
     ],
-    "address": "1197 Peachtree St NE #528"
+    "address": "1197 Peachtree St NE #528",
+    "placeId": "ChIJvSuOY0QE9YgReHlGmG84Sno",
+    "website": "http://midtown.5church-atlanta.com/"
   },
   {
     "name": "Crescent City Kitchen",
@@ -132,7 +162,9 @@
     "metros": [
       "atlanta"
     ],
-    "address": "1080 Crescent Ave NE #6"
+    "address": "1080 Crescent Ave NE #6",
+    "placeId": "ChIJG2euGEME9YgRb4ighWvYsks",
+    "website": "https://www.crescentcityga.com/"
   },
   {
     "name": "Boqueria Colony Sqaure",
@@ -141,7 +173,10 @@
     "metros": [
       "atlanta"
     ],
-    "address": "1221 Peachtree St NE Suite 110"
+    "address": "1221 Peachtree St NE Suite 110",
+    "placeId": "ChIJRVJQrCQF9YgRk5HPTo_VOok",
+    "website": "https://boqueriarestaurant.com/location/atl-colony-square/?utm_source=organic&utm_medium=gmb",
+    "websiteOrderUrl": "https://order.online/store/Boqueria-177538"
   },
   {
     "name": "Wagyu House Atlanta",
@@ -150,7 +185,9 @@
     "metros": [
       "atlanta"
     ],
-    "address": "1042 Northside Dr NW suite 1300"
+    "address": "1042 Northside Dr NW suite 1300",
+    "placeId": "ChIJQ3f8TLkF9YgRADLIKRd0wug",
+    "website": "https://wagyuhouse.group/project/wagyu-house-atlanta/"
   },
   {
     "name": "Ecco Midtown",
@@ -159,7 +196,9 @@
     "metros": [
       "atlanta"
     ],
-    "address": "40 7th St NE"
+    "address": "40 7th St NE",
+    "placeId": "ChIJlyVS2WcE9YgR2EM86Kf9aRY",
+    "website": "https://www.ecco-atlanta.com/"
   },
   {
     "name": "Yebo Beach Haus",
@@ -168,7 +207,9 @@
     "metros": [
       "atlanta"
     ],
-    "address": "56 E Andrews Dr NW Unit 7"
+    "address": "56 E Andrews Dr NW Unit 7",
+    "placeId": "ChIJG4N3NY8F9YgRG4qzlWEzwCE",
+    "website": "https://yebobeachhaus.com/"
   },
   {
     "name": "Delbar - Inman Park",
@@ -176,7 +217,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJ9WJXzEEF9YgRSTQ0utn07ww",
+    "website": "https://www.delbaratl.com/"
   },
   {
     "name": "Yeppa & Co. - Beltline",
@@ -184,7 +227,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJbz62AwAD9YgR-4D_85ckJks",
+    "website": "http://yeppaco.com/"
   },
   {
     "name": "Barcelona Wine Bar",
@@ -192,7 +237,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJq2ODUwEE9YgR94CN_Crd93k",
+    "website": "https://www.barcelonawinebar.com/location/inmanpark/?utm_source=yext&utm_medium=localsearch&utm_campaign=landing-page&utm_content=inman-park"
   },
   {
     "name": "Eclipse di Luna - Beltline",
@@ -200,7 +247,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJcWEfaikD9YgR79HonWhc9Iw",
+    "website": "https://eclipsediluna.com/"
   },
   {
     "name": "Kitty Dare",
@@ -208,7 +257,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJ5WSOfkwH9YgR1HE3FNdQE6k",
+    "website": "http://kittydare.com/"
   },
   {
     "name": "BeetleCat",
@@ -216,7 +267,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJExHbVgEE9YgRr3C4gEB_4_8",
+    "website": "http://www.beetlecatatl.com/"
   },
   {
     "name": "a mano",
@@ -224,7 +277,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJM1hLzg4E9YgRicMhtt2qI5k",
+    "website": "https://www.amanoatl.com/"
   },
   {
     "name": "BoccaLupo",
@@ -232,7 +287,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJv3AGUvgD9YgRoeQkBXeuLHM",
+    "website": "http://boccalupoatl.com/"
   },
   {
     "name": "Sotto Sotto Restaurant",
@@ -240,7 +297,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJ89yA2QME9YgRQdAZ8Amjz5U",
+    "website": "http://www.sottosottoatl.com/"
   },
   {
     "name": "The Iberian Pig",
@@ -248,7 +307,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJr3eGJWgF9YgRQ_RhEySlh3s",
+    "website": "https://www.iberianpig.com/"
   },
   {
     "name": "Kimball House",
@@ -256,7 +317,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJHatDOT8H9YgRE9zxI4xpacI",
+    "website": "http://www.kimball-house.com/"
   },
   {
     "name": "Cap't Loui - Decatur",
@@ -264,7 +327,10 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJicedRj0H9YgR3PQ9q6uMVYQ",
+    "website": "http://www.captloui.com/",
+    "websiteOrderUrl": "https://direct.chownow.com/order/25448/locations"
   },
   {
     "name": "Louisiana Bistreaux Seafood Kitchen Decatur",
@@ -272,7 +338,9 @@
     "category": "seafood",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJJ6M_2XMH9YgR8c55avifAlI",
+    "website": "https://www.louisianabistreaux.com/decatur"
   },
   {
     "name": "The Deer and The Dove",
@@ -280,7 +348,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJ0WHHXq8H9YgRdNsk3gsXmxg",
+    "website": "http://www.deerdove.com/"
   },
   {
     "name": "The White Bull",
@@ -288,7 +358,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJPZ3Ccj4H9YgRhEhOs_bEIck",
+    "website": "https://whitebullatl.com/"
   },
   {
     "name": "LEON's Full Service",
@@ -296,7 +368,10 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJKX3oFT4H9YgRXhV5sQXbeY8",
+    "website": "http://leonsfullservice.com/",
+    "toastUrl": "https://order.toasttab.com/online/leon-s-full-service-131-e-ponce-de-leon-ave"
   },
   {
     "name": "The Po'Boy Shop & Basement Bar",
@@ -304,7 +379,10 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJn9kQ2LsH9YgRJuU_zpYgF8E",
+    "website": "https://www.thepoboyshopatl.com/",
+    "toastUrl": "https://order.toasttab.com/online/thepoboyshop"
   },
   {
     "name": "Parker's on Ponce",
@@ -312,7 +390,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJMwBaBT4H9YgRtUF8R34R0w8",
+    "website": "https://parkersonponce.com/"
   },
   {
     "name": "no. 246",
@@ -320,7 +400,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJTey2Fj4H9YgRH5LEatMQhxU",
+    "website": "http://www.no246.com/"
   },
   {
     "name": "Murphy's Restaurant",
@@ -328,7 +410,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJq7AKiCAE9YgRZvrcgUjWq54",
+    "website": "https://www.murphysatlanta.com/"
   },
   {
     "name": "Whiskey Bird",
@@ -336,7 +420,11 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJb2W3_oIG9YgRE9vdc5nu930",
+    "website": "https://www.eatwhiskeybird.com/",
+    "toastUrl": "https://order.toasttab.com/online/littlebird",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/osaka/76c49d2.osaka/assets/js/head.min.js"
   },
   {
     "name": "Ela",
@@ -344,7 +432,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJo6p8EicE9YgRnFHNXv-MBQI",
+    "website": "https://www.ela-atlanta.com/"
   },
   {
     "name": "La Tavola Trattoria",
@@ -352,7 +442,9 @@
     "category": "italian",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJiSBpjyAE9YgRhD5_PW5jodY",
+    "website": "https://www.latavolatrattoria.com/"
   },
   {
     "name": "Yeppa & Co. - Buckhead",
@@ -360,7 +452,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJ799srZYF9YgRR8D4KfFRgaI",
+    "website": "http://yeppaco.com/"
   },
   {
     "name": "Tiny Lou's",
@@ -368,7 +462,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJqbjdJP8F9YgRCSKA0KgCxy0",
+    "website": "https://www.tinylous.com/"
   },
   {
     "name": "Fontaine's Oyster House",
@@ -376,7 +472,9 @@
     "category": "seafood",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJ5x4jgyAE9YgRUhpMrzRQ2NE",
+    "website": "http://www.nightcapfoodandspirits.com/fontainesmainpage.html"
   },
   {
     "name": "Argosy",
@@ -384,6 +482,8 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJFZ4OdVsB9YgRSBdT8Ml1a8U",
+    "website": "http://argosy-east.com/"
   }
 ]

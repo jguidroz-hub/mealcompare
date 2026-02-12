@@ -6,7 +6,10 @@
     "metros": [
       "sf"
     ],
-    "address": "560 Divisadero St"
+    "address": "560 Divisadero St",
+    "placeId": "ChIJ_dQjyK-AhYARBc9DFlxcclg",
+    "website": "http://www.nopasf.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+    "toastUrl": "https://order.toasttab.com/online/nopa"
   },
   {
     "name": "The View Lounge",
@@ -15,7 +18,9 @@
     "metros": [
       "sf"
     ],
-    "address": "780 Mission St"
+    "address": "780 Mission St",
+    "placeId": "ChIJZZ_cOYaAhYARnyfbDrAkvJ8",
+    "website": "https://www.theviewlounge-sf.com/"
   },
   {
     "name": "Zeitgeist",
@@ -24,7 +29,10 @@
     "metros": [
       "sf"
     ],
-    "address": "199 Valencia St"
+    "address": "199 Valencia St",
+    "placeId": "ChIJU889QiB-j4ARzQofqaFrMJU",
+    "website": "http://www.zeitgeistsf.com/",
+    "squareUrl": "http://zeitgeistsf.square.site/"
   },
   {
     "name": "Absinthe Brasserie & Bar",
@@ -33,7 +41,9 @@
     "metros": [
       "sf"
     ],
-    "address": "398 Hayes St"
+    "address": "398 Hayes St",
+    "placeId": "ChIJ1T-IlZiAhYAR5m-Mps4qLFk",
+    "website": "http://www.absinthe.com/"
   },
   {
     "name": "Lazy Bear",
@@ -42,7 +52,10 @@
     "metros": [
       "sf"
     ],
-    "address": "3416 19th St"
+    "address": "3416 19th St",
+    "placeId": "ChIJk35bizx-j4AREil6UPp7Jn4",
+    "website": "http://www.lazybearsf.com/",
+    "websiteOrderUrl": "https://media-cdn.getbento.com/IwOz1hC9SqCnqagXEm0D_favi.png"
   },
   {
     "name": "Bottega",
@@ -51,7 +64,10 @@
     "metros": [
       "sf"
     ],
-    "address": "1132 Valencia St"
+    "address": "1132 Valencia St",
+    "placeId": "ChIJxZMBuHV_j4ARK1fO7KSqyOE",
+    "website": "http://www.bottegavalencia.com/",
+    "toastUrl": "https://order.toasttab.com/online/bottegavalencia"
   },
   {
     "name": "The Morris",
@@ -60,7 +76,9 @@
     "metros": [
       "sf"
     ],
-    "address": "2501 Mariposa St"
+    "address": "2501 Mariposa St",
+    "placeId": "ChIJqZE4DTF-j4ARUYdqdEEgh8k",
+    "website": "http://www.themorris-sf.com/"
   },
   {
     "name": "The Rabbit Hole",
@@ -69,7 +87,10 @@
     "metros": [
       "sf"
     ],
-    "address": "3472 Mission St"
+    "address": "3472 Mission St",
+    "placeId": "ChIJOQVGUgB_j4ARLd3Yerml4TI",
+    "website": "https://therabbithole-sf.com/",
+    "toastUrl": "https://order.toasttab.com/online/the-rabbit-hole-3472-mission-street"
   },
   {
     "name": "La Taqueria",
@@ -78,7 +99,9 @@
     "metros": [
       "sf"
     ],
-    "address": "2889 Mission St"
+    "address": "2889 Mission St",
+    "placeId": "ChIJrTYB1UZ-j4ARdeRB5Wzp_CE",
+    "website": "https://lataqueriasf.net/"
   },
   {
     "name": "Beretta Valencia",
@@ -87,7 +110,10 @@
     "metros": [
       "sf"
     ],
-    "address": "1199 Valencia St"
+    "address": "1199 Valencia St",
+    "placeId": "ChIJHeoUcz9-j4AR9BGHeYE4w3o",
+    "website": "http://berettasf.com/?utm_source=yext&utm_medium=gmb",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Rintaro",
@@ -96,7 +122,9 @@
     "metros": [
       "sf"
     ],
-    "address": "82 14th St"
+    "address": "82 14th St",
+    "placeId": "ChIJgcIdeSZ-j4AR1BE-49mhR-E",
+    "website": "http://izakayarintaro.com/"
   },
   {
     "name": "Foreign Cinema",
@@ -105,7 +133,10 @@
     "metros": [
       "sf"
     ],
-    "address": "2534 Mission St"
+    "address": "2534 Mission St",
+    "placeId": "ChIJPwvLyD5-j4AR2fM8C0bbVC8",
+    "website": "http://www.foreigncinema.com/",
+    "squareUrl": "https://foreigncinemashop.square.site/"
   },
   {
     "name": "Sangria & Salt",
@@ -114,7 +145,9 @@
     "metros": [
       "sf"
     ],
-    "address": "2327 Mission St"
+    "address": "2327 Mission St",
+    "placeId": "ChIJD-djDAR_j4ARSEv9xiaTy6w",
+    "website": "https://sangriaandsalt.com/"
   },
   {
     "name": "Lolinda",
@@ -123,7 +156,11 @@
     "metros": [
       "sf"
     ],
-    "address": "2518 Mission St"
+    "address": "2518 Mission St",
+    "placeId": "ChIJBS-Cxz5-j4AR4D8DhWkB1hE",
+    "website": "https://lolindasf.com/",
+    "toastUrl": "https://order.toasttab.com/online/lolinda",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Sforno Pizzeria Napoletana",
@@ -131,7 +168,10 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJ7yR2WH2BhYAR38peOxAXETE",
+    "website": "https://www.sfornosf.com/",
+    "toastUrl": "https://order.toasttab.com/online/sforno-514-octavia-street"
   },
   {
     "name": "a Mano",
@@ -139,7 +179,10 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJjfhunpiAhYARL76pNCCCFvg",
+    "website": "https://amanosf.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Rich Table",
@@ -147,7 +190,10 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJh_24QJ-AhYAR_xbUNVN2Xns",
+    "website": "http://richtablesf.com/",
+    "websiteOrderUrl": "https://media-cdn.getbento.com/0X3yuaZOTNCGGLBU8gaz_favi.png"
   },
   {
     "name": "Hazie's",
@@ -155,7 +201,10 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJn-6m802BhYARruM4u0h9-Bc",
+    "website": "https://www.haziessf.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/fuji/73f2977.fuji/assets/js/head.min.js"
   },
   {
     "name": "Chez Maman West",
@@ -163,7 +212,10 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJ76A_lpiAhYAR6QgSjMe9MoU",
+    "website": "https://www.chezmamanrestos.com/",
+    "websiteOrderUrl": "https://ordering.chownow.com/order/22926/locations/33434"
   },
   {
     "name": "Suppenküche",
@@ -171,7 +223,9 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJ8fbCTqKAhYAR9Uu7AyP5FyE",
+    "website": "http://www.suppenkuche.com/"
   },
   {
     "name": "Doppio Zero San Francisco",
@@ -179,7 +233,9 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJtdUYv5iAhYARaOOFfGK1TKU",
+    "website": "https://doppiozerogroup.com/doppiozerosanfrancisco?utm_source=google"
   },
   {
     "name": "Papito Hayes",
@@ -187,7 +243,9 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJLw3ApJiAhYAR_wGEbwDJDgE",
+    "website": "http://www.papitohayessf.com/"
   },
   {
     "name": "The Gambit",
@@ -195,7 +253,9 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJD3mqz-OBhYARDrmCCkZBGVQ",
+    "website": "http://www.gambitlounge.com/"
   },
   {
     "name": "North Beach Restaurant",
@@ -203,7 +263,9 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJ1YbreQCBhYARlFgBparyCz0",
+    "website": "https://www.northbeachrestaurant.com/"
   },
   {
     "name": "Tony's Pizza Napoletana",
@@ -211,7 +273,11 @@
     "category": "pizza",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJHXHcEvGAhYARQPuHNN78s78",
+    "website": "http://tonyspizzanapoletana.com/",
+    "toastUrl": "https://order.toasttab.com/online/tonys-pizza-napoletana",
+    "websiteOrderUrl": "https://order.online/store/tony"
   },
   {
     "name": "Sotto Mare",
@@ -219,7 +285,9 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJQfYyVvGAhYARJVwoboB1WKQ",
+    "website": "http://sottomaresf.com/"
   },
   {
     "name": "Original Joe's",
@@ -227,7 +295,10 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJfSGLEfGAhYARC8Egs7nINzk",
+    "website": "https://originaljoes.com/north-beach/",
+    "websiteOrderUrl": "https://order.online/store/original-joe"
   },
   {
     "name": "The Italian Homemade Company",
@@ -235,7 +306,9 @@
     "category": "italian",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJpzBpPPCAhYARSVWETFcLf8M",
+    "website": "http://www.italianhomemadecompany.com/"
   },
   {
     "name": "The Stinking Rose",
@@ -243,7 +316,9 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJW52Si_OAhYAR-jAC1-iQh_c",
+    "website": "https://thestinkingrose.com/"
   },
   {
     "name": "Fog Harbor Fish House",
@@ -251,7 +326,9 @@
     "category": "seafood",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJHSGzi_yAhYARptfivXk-Qlo",
+    "website": "https://fogharbor.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb_listing"
   },
   {
     "name": "Golden Boy Pizza",
@@ -259,7 +336,9 @@
     "category": "pizza",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJmx3iW_GAhYARrlV9H2vyE-E",
+    "website": "http://www.goldenboypizza.com/"
   },
   {
     "name": "Beach Chalet Brewery and Restaurant",
@@ -267,7 +346,10 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJ1ShzE7mHhYARnIi1rffKeVc",
+    "website": "http://www.beachchalet.com/",
+    "websiteOrderUrl": "https://order.online/store/park-chalet-1244631"
   },
   {
     "name": "Scoma's Restaurant",
@@ -275,7 +357,9 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJrcYeh_yAhYARNMwNAmHKa5c",
+    "website": "https://scomas.com/"
   },
   {
     "name": "Dragon Beaux",
@@ -283,7 +367,10 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJXbSH3w-HhYAR7x1xc3I2GGA",
+    "website": "http://www.dragonbeaux.com/",
+    "squareUrl": "https://dragonbeaux.square.site/"
   },
   {
     "name": "HK Lounge Bistro",
@@ -291,7 +378,9 @@
     "category": "french",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJpS6YbYKAhYARVcQdOt3--U0",
+    "website": "https://hkloungebistro.com/"
   },
   {
     "name": "Good Luck Dim Sum",
@@ -299,7 +388,9 @@
     "category": "chinese",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJXWARsD2HhYARpfJUcT_imWw",
+    "website": "https://goodluckdimsum.site/"
   },
   {
     "name": "Dumpling Time Design District",
@@ -307,7 +398,9 @@
     "category": "chinese",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJ1anaJC1-j4ARf_9BjfDowt8",
+    "website": "https://www.dumplingtime.com/"
   },
   {
     "name": "Good Mong Kok Bakery",
@@ -315,7 +408,9 @@
     "category": "cafe",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJverWRvOAhYARVfNtAtDviIc",
+    "website": "https://goodmongkokbakery.com/"
   },
   {
     "name": "City View Restaurant",
@@ -323,7 +418,9 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJHT3R4oqAhYARLvyjGU7q9Y4",
+    "website": "http://cityviewdimsum.com/"
   },
   {
     "name": "DIM SUM BEST Of TASTE",
@@ -331,7 +428,9 @@
     "category": "chinese",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJyZ8UnDCBj4ARvDtDdzRbEHs",
+    "website": "https://www.toasttab.com/dim-sum-best-of-taste-1540-webster-street"
   },
   {
     "name": "Yank Sing (Stevenson St.)",
@@ -339,7 +438,9 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJ1aUl92KAhYARTY_D5x-dTnE",
+    "website": "http://yanksing.com/"
   },
   {
     "name": "Bao Bao Dumpling",
@@ -347,7 +448,9 @@
     "category": "chinese",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJhY6r7GiHhYAREV8fhCovp00",
+    "website": "https://www.baobaodumplingca.com/"
   },
   {
     "name": "Palette Tea House",
@@ -355,7 +458,10 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJ53HCdjCBhYARI-_VU7jZI-U",
+    "website": "https://paletteteahouse.com/?utm_source=google+Maps&utm_medium=seo+maps&utm_campaign=seo+maps",
+    "websiteOrderUrl": "https://order.online/store/palette-tea-house-san-francisco-623014"
   },
   {
     "name": "The Fat Lady Bar & Restaurant",
@@ -363,7 +469,10 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJFbAoCLiAj4AR5PvBifjo6vg",
+    "website": "http://www.thefatladyrestaurant.com/",
+    "toastUrl": "https://order.toasttab.com/online/fat-lady-201-washington-st"
   },
   {
     "name": "Wood Tavern",
@@ -371,7 +480,10 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJE5T3YoqAhYARtxUohSbFVDc",
+    "website": "https://www.wayfaretavern.com/",
+    "squareUrl": "https://wayfare-tavern.square.site/s/order"
   },
   {
     "name": "Almond and Oak",
@@ -379,7 +491,9 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJVVVldkOHj4ARUaWSLVGS6AY",
+    "website": "http://www.almondandoak.com/"
   },
   {
     "name": "Drake's Dealership",
@@ -387,7 +501,9 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJ59T2j7KWj4ARIKFk0o5yBW0",
+    "website": "https://drinkdrakes.com/places/dealership/"
   },
   {
     "name": "Scott's Seafood Grill & Bar",
@@ -395,7 +511,9 @@
     "category": "seafood",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJPZgYK8aAj4ARaDsas8rwD1g",
+    "website": "http://www.scottsjls.com/"
   },
   {
     "name": "The Lake Chalet Seafood Bar & Grill",
@@ -403,7 +521,10 @@
     "category": "seafood",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJk5SFZ0qHj4ARgHF_fZQLnIM",
+    "website": "http://www.thelakechalet.com/",
+    "toastUrl": "https://order.toasttab.com/online/lakechalet"
   },
   {
     "name": "Pomet",
@@ -411,7 +532,9 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJAzAYWLJ9hYARr2fF6gon7Eo",
+    "website": "http://www.pomet-oakland.com/"
   },
   {
     "name": "NIDO's BackYard",

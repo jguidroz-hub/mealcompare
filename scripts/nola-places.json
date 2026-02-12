@@ -6,7 +6,9 @@
     "metros": [
       "nola"
     ],
-    "address": "417 Royal St"
+    "address": "417 Royal St",
+    "placeId": "ChIJjbdq3A2mIIYRCrLg6e3eRy8",
+    "website": "https://www.brennansneworleans.com/"
   },
   {
     "name": "Napoleon House",
@@ -15,7 +17,9 @@
     "metros": [
       "nola"
     ],
-    "address": "500 Chartres St"
+    "address": "500 Chartres St",
+    "placeId": "ChIJZYGmBhKmIIYRPBmyGfELFTs",
+    "website": "http://www.napoleonhouse.com/"
   },
   {
     "name": "Cochon Restaurant",
@@ -24,7 +28,9 @@
     "metros": [
       "nola"
     ],
-    "address": "930 Tchoupitoulas St Ste A"
+    "address": "930 Tchoupitoulas St Ste A",
+    "placeId": "ChIJcyHKrHGmIIYR2WCyZwWLEI0",
+    "website": "http://www.cochonrestaurant.com/"
   },
   {
     "name": "Muriel's Jackson Square",
@@ -33,7 +39,9 @@
     "metros": [
       "nola"
     ],
-    "address": "801 Chartres St"
+    "address": "801 Chartres St",
+    "placeId": "ChIJaS5FoBGmIIYRTXOjqm3XxI0",
+    "website": "http://www.muriels.com/"
   },
   {
     "name": "Commander's Palace",
@@ -42,7 +50,10 @@
     "metros": [
       "nola"
     ],
-    "address": "1403 Washington Ave"
+    "address": "1403 Washington Ave",
+    "placeId": "ChIJW3d2Wc2lIIYRu-qs_NaSOkg",
+    "website": "http://www.commanderspalace.com/",
+    "toastUrl": "https://order.toasttab.com/online/le-petite-bleu-1427-washington-avenue"
   },
   {
     "name": "GW Fins",
@@ -51,7 +62,9 @@
     "metros": [
       "nola"
     ],
-    "address": "808 Bienville St"
+    "address": "808 Bienville St",
+    "placeId": "ChIJ8W3hFQymIIYRQObKMMNMyRo",
+    "website": "http://gwfins.com/"
   },
   {
     "name": "Cochon Butcher",
@@ -60,7 +73,9 @@
     "metros": [
       "nola"
     ],
-    "address": "930 Tchoupitoulas St"
+    "address": "930 Tchoupitoulas St",
+    "placeId": "ChIJCe1AzC2nIIYRTU9lLew974M",
+    "website": "https://cochonbutcher.com/"
   },
   {
     "name": "Olde Nola Cookery",
@@ -69,7 +84,10 @@
     "metros": [
       "nola"
     ],
-    "address": "205 Bourbon St"
+    "address": "205 Bourbon St",
+    "placeId": "ChIJ10PoawymIIYRw-RNuB0OBRc",
+    "website": "https://www.nolacookery.com/",
+    "websiteOrderUrl": "https://direct.chownow.com/order/29496/locations/43597"
   },
   {
     "name": "Bourbon House",
@@ -78,7 +96,10 @@
     "metros": [
       "nola"
     ],
-    "address": "144 Bourbon St"
+    "address": "144 Bourbon St",
+    "placeId": "ChIJs_quaAymIIYRUwRs2-LHWqA",
+    "website": "http://bourbonhouse.com/",
+    "websiteOrderUrl": "https://media-cdn.getbento.com/eO3JbrnuRtuGTkRMXBq6_oystrmrk.png"
   },
   {
     "name": "Luke",
@@ -87,7 +108,10 @@
     "metros": [
       "nola"
     ],
-    "address": "333 St Charles Ave"
+    "address": "333 St Charles Ave",
+    "placeId": "ChIJf-CSq3SmIIYR1QNnxY9r5wo",
+    "website": "http://www.lukeneworleans.com/",
+    "toastUrl": "https://order.toasttab.com/online/lukeneworleans"
   },
   {
     "name": "zesty creole",
@@ -96,7 +120,9 @@
     "metros": [
       "nola"
     ],
-    "address": "827 Canal St"
+    "address": "827 Canal St",
+    "placeId": "ChIJo7nsNfunIIYRKs_C9TNRQSU",
+    "website": "http://zestycreole.com/"
   },
   {
     "name": "Mulate's | The Original Cajun Restaurant",
@@ -105,7 +131,9 @@
     "metros": [
       "nola"
     ],
-    "address": "201 Julia St"
+    "address": "201 Julia St",
+    "placeId": "ChIJvTnAEW6mIIYRqA7o0JRIRyA",
+    "website": "http://mulates.com/"
   },
   {
     "name": "Creole House Restaurant & Oyster Bar",
@@ -114,7 +142,9 @@
     "metros": [
       "nola"
     ],
-    "address": "509 Canal St"
+    "address": "509 Canal St",
+    "placeId": "ChIJpUfQIg2mIIYRi56C8hYGUVI",
+    "website": "https://creolehouserestaurant.com/"
   },
   {
     "name": "Cajun Seafood",
@@ -123,7 +153,10 @@
     "metros": [
       "nola"
     ],
-    "address": "1479 N Claiborne Ave"
+    "address": "1479 N Claiborne Ave",
+    "placeId": "ChIJo8hRAAOmIIYRzgZqT8G3pe4",
+    "website": "http://cajunseafoodclaiborne.com/",
+    "websiteOrderUrl": "https://order.online/store/-31643489"
   },
   {
     "name": "The Original Pierre Maspero's",
@@ -132,7 +165,10 @@
     "metros": [
       "nola"
     ],
-    "address": "440 Chartres St"
+    "address": "440 Chartres St",
+    "placeId": "ChIJTSWaCRKmIIYRk27PVcEYqRs",
+    "website": "https://originalpierremasperos.com/",
+    "websiteOrderUrl": "https://ccrc.olo.com/menu/pierre-maspero-3?utm_campaign=Pierre+Maspero%27s+2026&utm_medium=bitly&utm_source=Web"
   },
   {
     "name": "Mambo’s",
@@ -141,7 +177,9 @@
     "metros": [
       "nola"
     ],
-    "address": "411 Bourbon St"
+    "address": "411 Bourbon St",
+    "placeId": "ChIJbVEt50anIIYR88bwfNyAUw8",
+    "website": "https://www.mambosnola.com/"
   },
   {
     "name": "Hot N Cajun Boil House",
@@ -150,7 +188,10 @@
     "metros": [
       "nola"
     ],
-    "address": "901 Iberville St"
+    "address": "901 Iberville St",
+    "placeId": "ChIJReQwLACnIIYR2TdSOA22Wi4",
+    "website": "https://www.hotncajunboilhouse.com/",
+    "toastUrl": "https://order.toasttab.com/online/hot-cajun-boil-house-harvey-1201-manhattan-boulevard"
   },
   {
     "name": "Cafe Du Monde",
@@ -158,7 +199,9 @@
     "category": "cafe",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJTT5Hm-ClIIYR97Y1jn7-aA0",
+    "website": "http://www.cafedumonde.com/locations"
   },
   {
     "name": "Restaurant R'evolution",
@@ -166,7 +209,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJJw5QMQymIIYRKiJRuT8HciA",
+    "website": "https://revolutionnola.com/"
   },
   {
     "name": "Irene's",
@@ -174,7 +219,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJ1wVw2BCmIIYRXIt4JRHuWp0",
+    "website": "https://irenesnola.com/"
   },
   {
     "name": "Cane and Table",
@@ -182,7 +229,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJF_nVIhemIIYRokDd0QN2HFc",
+    "website": "http://www.caneandtablenola.com/"
   },
   {
     "name": "Elizabeth's",
@@ -190,7 +239,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJqWpeETKmIIYRlAIaf_fb_bI",
+    "website": "https://elizabethsrestaurantnola.com/"
   },
   {
     "name": "The Joint",
@@ -198,7 +249,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJ6Q39Ds6nIIYRVwjVLHTvJNw",
+    "website": "http://alwayssmokin.com/"
   },
   {
     "name": "The Country Club",
@@ -206,7 +259,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJZ00fKS6mIIYREhsa7eVLWhs",
+    "website": "http://www.thecountryclubneworleans.com/"
   },
   {
     "name": "Sneaky Pickle & Bar Brine",
@@ -214,7 +269,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJ2QKgqdOnIIYRyw9Io_oZJZ0",
+    "website": "http://yousneakypickle.com/"
   },
   {
     "name": "Bacchanal Fine Wine & Spirits",
@@ -222,7 +279,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJuUKPzc2nIIYRu1_EUiao4N4",
+    "website": "http://www.bacchanalwine.com/"
   },
   {
     "name": "Morrow's",
@@ -230,7 +289,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJV6A5rCamIIYRGcCjhJdaBqk",
+    "website": "http://morrowsnola.com/"
   },
   {
     "name": "The Elysian Bar",
@@ -238,7 +299,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJxy1NkkOnIIYRMjqqGtufmLA",
+    "website": "https://ash.world/dining/the-elysian-bar/"
   },
   {
     "name": "Paladar 511",
@@ -246,7 +309,10 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJ0XosyCKmIIYRv_pGZYjwV-s",
+    "website": "http://www.paladar511.com/",
+    "toastUrl": "https://order.toasttab.com/online/paladar-511-511-marigny-st-ste-a"
   },
   {
     "name": "HONEY'S",
@@ -254,7 +320,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJIanEsgGnIIYR2XwffG3kJ-0",
+    "website": "https://honeysneworleans.com/"
   },
   {
     "name": "JusTini's",
@@ -262,7 +330,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJjer3PiqmIIYRZBfc0iHyVnI",
+    "website": "https://www.justinisnola.com/"
   },
   {
     "name": "Plates Restaurant & Bar",
@@ -270,7 +340,10 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJS-ZH8bKnIIYRy-D8zPk5jj4",
+    "website": "https://www.platesnola.com/",
+    "toastUrl": "https://order.toasttab.com/online/plates-restaurant"
   },
   {
     "name": "Gris-Gris",
@@ -278,7 +351,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJk6bGlcSnIIYRahN2bQAvLsw",
+    "website": "http://grisgrisnola.com/"
   },
   {
     "name": "Beggars Banquet",
@@ -286,7 +361,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJy1rF_12nIIYReUlFzOf85ak",
+    "website": "http://beggarsbanquetneworleans.com/"
   },
   {
     "name": "The Vintage",
@@ -294,7 +371,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJVVV5UTKkIIYRM59SGJilwMA",
+    "website": "https://www.thevintagenola.com/"
   },
   {
     "name": "Atchafalaya",
@@ -302,7 +381,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJC8nSXDGkIIYRErGwcVpRxTU",
+    "website": "http://www.atchafalayarestaurant.com/"
   },
   {
     "name": "Dakar NOLA",
@@ -310,7 +391,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJrZTdR6ylIIYRE3vWwDQt90M",
+    "website": "https://www.dakarnola.com/"
   },
   {
     "name": "Joey K's Restaurant & Bar",
@@ -318,7 +401,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJDY3RiDKkIIYRaGdEre9MSjI",
+    "website": "https://joeyksrestaurant.com/"
   },
   {
     "name": "Molly's Rise and Shine",
@@ -326,6 +411,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJyScCj5ilIIYRYKKMSAR1owc",
+    "website": "https://mollysriseandshine.com/",
+    "toastUrl": "https://order.toasttab.com/online/mollys-rise-and-shine-2368-magazine-st"
   }
 ]

@@ -6,7 +6,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "809 W Randolph St"
+    "address": "809 W Randolph St",
+    "placeId": "ChIJs8mbNsUsDogRUnpg-b_IK5E",
+    "website": "http://www.girlandthegoat.com/"
   },
   {
     "name": "River Roast",
@@ -15,7 +17,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "315 N LaSalle St"
+    "address": "315 N LaSalle St",
+    "placeId": "ChIJV_s6ILEsDogRR_5H7mQn4nw",
+    "website": "https://www.riverroastchicago.com/"
   },
   {
     "name": "The Dearborn",
@@ -24,7 +28,10 @@
     "metros": [
       "chicago"
     ],
-    "address": "145 N Dearborn St"
+    "address": "145 N Dearborn St",
+    "placeId": "ChIJ-XdXNKUsDogRW-m5g5Siao8",
+    "website": "http://www.thedearborntavern.com/",
+    "websiteOrderUrl": "https://media-cdn.getbento.com/QQnNRFX9QXiQtqmAyr4n_TheDearborn_FavIcon.png"
   },
   {
     "name": "The Purple Pig Restaurant",
@@ -33,7 +40,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "444 Michigan Ave"
+    "address": "444 Michigan Ave",
+    "placeId": "ChIJl8NTEawsDogRwXH-IVDyH2A",
+    "website": "https://thepurplepigchicago.com/"
   },
   {
     "name": "Elephant & Castle",
@@ -42,7 +51,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "185 N Wabash Ave"
+    "address": "185 N Wabash Ave",
+    "placeId": "ChIJ7zwFga8sDogR48o0MWz4Jes",
+    "website": "https://www.elephantcastle.com/en/locations/il/chicago/185-north-wabash-avenue"
   },
   {
     "name": "Alla Vita",
@@ -51,7 +62,10 @@
     "metros": [
       "chicago"
     ],
-    "address": "564 W Randolph St"
+    "address": "564 W Randolph St",
+    "placeId": "ChIJEUAV9zMtDogRJbm6cdw59JE",
+    "website": "https://www.allavitachicago.com/",
+    "websiteOrderUrl": "https://order.online/store/AllaVita-2331518"
   },
   {
     "name": "Carnivale Chicago",
@@ -60,7 +74,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "702 W Fulton St"
+    "address": "702 W Fulton St",
+    "placeId": "ChIJufo-n88sDogRT_JGk4egawU",
+    "website": "https://www.carnivalechicago.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing"
   },
   {
     "name": "Beatnik On The River",
@@ -69,7 +85,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "180 N Wacker Dr"
+    "address": "180 N Wacker Dr",
+    "placeId": "ChIJS0kqaTItDogRXIgU7nCVHKQ",
+    "website": "http://beatnikontheriver.com/"
   },
   {
     "name": "Quartino Ristorante",
@@ -78,7 +96,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "626 N State St"
+    "address": "626 N State St",
+    "placeId": "ChIJqfIkY60sDogRMP2otSWdKJA",
+    "website": "https://quartinoristorante.com/"
   },
   {
     "name": "Eataly",
@@ -87,7 +107,10 @@
     "metros": [
       "chicago"
     ],
-    "address": "43 E Ohio St"
+    "address": "43 E Ohio St",
+    "placeId": "ChIJe_Fq2lctDogRTpK221p4Fmg",
+    "website": "https://www.eataly.com/us_en/stores/chicago",
+    "websiteOrderUrl": "https://eataly.olo.com/"
   },
   {
     "name": "Pizzeria Portofino",
@@ -96,7 +119,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "317 N Clark St"
+    "address": "317 N Clark St",
+    "placeId": "ChIJF774nd4tDogRWPjaRHqyj5I",
+    "website": "http://pizzeriaportofino.com/"
   },
   {
     "name": "Giordano's",
@@ -105,7 +130,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "130 E Randolph St"
+    "address": "130 E Randolph St",
+    "placeId": "ChIJh3i0BqYsDogR6yp0y6TFlOQ",
+    "website": "https://giordanos.com/locations/prudential-plaza-millennium-park/"
   },
   {
     "name": "Gino's East",
@@ -114,7 +141,10 @@
     "metros": [
       "chicago"
     ],
-    "address": "162 E Superior St"
+    "address": "162 E Superior St",
+    "placeId": "ChIJ-UsJsFTTD4gR9wNj_lK4NEQ",
+    "website": "http://www.ginoseast.com/",
+    "toastUrl": "https://order.toasttab.com/online/bravo-restaurants-group-ginos-east-south-loop"
   },
   {
     "name": "Zarella Pizzeria & Taverna",
@@ -123,7 +153,10 @@
     "metros": [
       "chicago"
     ],
-    "address": "531 N Wells St"
+    "address": "531 N Wells St",
+    "placeId": "ChIJQ5ehuXMtDogR4Lsr1DZdWVA",
+    "website": "https://www.zarellachicago.com/",
+    "websiteOrderUrl": "https://order.online/store/zarella-pizzeria-chicago-33177123"
   },
   {
     "name": "Pequod's Pizza",
@@ -132,7 +165,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "2207 N Clybourn Ave"
+    "address": "2207 N Clybourn Ave",
+    "placeId": "ChIJQ6vcPuTSD4gRTbyKKQufF_o",
+    "website": "http://pequodspizza.com/chicago/?utm_source=google_my_business&utm_medium=organic"
   },
   {
     "name": "Spacca Napoli Pizzeria",
@@ -141,7 +176,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "1769 W Sunnyside Ave"
+    "address": "1769 W Sunnyside Ave",
+    "placeId": "ChIJH-W6YjzSD4gRBjteTfMbtak",
+    "website": "http://www.spaccanapolipizzeria.com/"
   },
   {
     "name": "Lou Malnati's Pizzeria",
@@ -150,7 +187,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "439 N Wells St"
+    "address": "439 N Wells St",
+    "placeId": "ChIJNUoDqLYsDogRG8jygr_J23U",
+    "website": "https://www.loumalnatis.com/chicago-river-north"
   },
   {
     "name": "Robert's Pizza and Dough Company",
@@ -159,7 +198,10 @@
     "metros": [
       "chicago"
     ],
-    "address": "465 N McClurg Ct"
+    "address": "465 N McClurg Ct",
+    "placeId": "ChIJvViVgVUrDogRfBAuR7QDzjU",
+    "website": "http://www.robertspizzacompany.com/",
+    "toastUrl": "https://order.toasttab.com/online/roberts-pizza-and-dough-company"
   },
   {
     "name": "Labriola Ristorante - Chicago",
@@ -168,7 +210,11 @@
     "metros": [
       "chicago"
     ],
-    "address": "535 N Michigan Ave"
+    "address": "535 N Michigan Ave",
+    "placeId": "ChIJy1Iud6wsDogRDJKE6TnDaJE",
+    "website": "https://www.labriolacafe.com/",
+    "toastUrl": "https://order.toasttab.com/online/labriola-chicago",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "The Perch Kitchen and Tap",
@@ -177,7 +223,11 @@
     "metros": [
       "chicago"
     ],
-    "address": "1932 W Division St"
+    "address": "1932 W Division St",
+    "placeId": "ChIJh55R6JPTD4gRuBjfent3uh4",
+    "website": "http://www.perchchicago.com/",
+    "toastUrl": "https://order.toasttab.com/online/the-perch-chicago-1932-division-st",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Big Star Wicker Park",
@@ -186,7 +236,10 @@
     "metros": [
       "chicago"
     ],
-    "address": "1531 N Damen Ave"
+    "address": "1531 N Damen Ave",
+    "placeId": "ChIJwwvDb8fSD4gRb54qO3OOpVA",
+    "website": "http://www.bigstarchicago.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Paradise Park | Pizza & Patio",
@@ -195,7 +248,10 @@
     "metros": [
       "chicago"
     ],
-    "address": "1913 W North Ave"
+    "address": "1913 W North Ave",
+    "placeId": "ChIJAeD_ayzTD4gRahiVg8OYv1Y",
+    "website": "https://www.happycamper.pizza/paradise-park/",
+    "websiteOrderUrl": "https://order.online/store/happy-camper"
   },
   {
     "name": "Elia Chicago",
@@ -204,7 +260,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "1938 W Division St"
+    "address": "1938 W Division St",
+    "placeId": "ChIJjyPV4uvTD4gR1Iogq77FjsA",
+    "website": "http://eliachicago.com/"
   },
   {
     "name": "Ina Mae",
@@ -213,7 +271,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "1415 N Wood St"
+    "address": "1415 N Wood St",
+    "placeId": "ChIJPRWxdNTTD4gRGBHA7sE-iB8",
+    "website": "https://www.inamaetavern.com/"
   },
   {
     "name": "Amaru",
@@ -222,7 +282,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "1904 W North Ave"
+    "address": "1904 W North Ave",
+    "placeId": "ChIJk-_u07vTD4gRnxbidpOwF4w",
+    "website": "http://amaruchicago.com/"
   },
   {
     "name": "Handlebar",
@@ -231,7 +293,11 @@
     "metros": [
       "chicago"
     ],
-    "address": "2311 W North Ave"
+    "address": "2311 W North Ave",
+    "placeId": "ChIJbziTdbvSD4gRqmIgd8IFEIs",
+    "website": "http://www.handlebarchicago.com/",
+    "toastUrl": "https://order.toasttab.com/online/handlebar-2311-w-north-ave",
+    "websiteOrderUrl": "https://ordering.chownow.com/order/13499/locations/18922"
   },
   {
     "name": "Piece Pizzeria and Brewery",
@@ -240,7 +306,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "1927 W North Ave"
+    "address": "1927 W North Ave",
+    "placeId": "ChIJfWmJOsfSD4gRVMPC4R4Q10w",
+    "website": "http://www.piecechicago.com/"
   },
   {
     "name": "Cafe Robey",
@@ -249,7 +317,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "1600 N Milwaukee Ave"
+    "address": "1600 N Milwaukee Ave",
+    "placeId": "ChIJIyYOr7jSD4gRu83hjVtOKbY",
+    "website": "https://www.caferobey.com/"
   },
   {
     "name": "Bangers & Lace Wicker Park",
@@ -258,7 +328,11 @@
     "metros": [
       "chicago"
     ],
-    "address": "1670 W Division St"
+    "address": "1670 W Division St",
+    "placeId": "ChIJLRbpVM7SD4gRGbrDwLRHcrQ",
+    "website": "http://bangersandlace.com/",
+    "toastUrl": "https://order.toasttab.com/online/bangers-and-lace-1670-w-division-st",
+    "squareUrl": "http://bangersandlace.square.site"
   },
   {
     "name": "Summer House Santa Monica",
@@ -267,7 +341,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "1954 N Halsted St"
+    "address": "1954 N Halsted St",
+    "placeId": "ChIJxYDpLhjTD4gRXbOM_K_279E",
+    "website": "https://www.summerhouserestaurants.com/?utm_source=google&utm_medium=social&utm_campaign=SHSMLP-GBiz"
   },
   {
     "name": "Boka",
@@ -276,7 +352,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "1729 N Halsted St"
+    "address": "1729 N Halsted St",
+    "placeId": "ChIJg7aSMj3TD4gRlHUmzqlebUI",
+    "website": "http://www.bokachicago.com/"
   },
   {
     "name": "Blue Door Farm Stand",
@@ -285,7 +363,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "2010 N Halsted St"
+    "address": "2010 N Halsted St",
+    "placeId": "ChIJ978yrBnTD4gRRu5g9ZGCV9w",
+    "website": "https://bluedoorfarmstand.com/"
   },
   {
     "name": "North Pond",
@@ -294,7 +374,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "2610 N Cannon Dr"
+    "address": "2610 N Cannon Dr",
+    "placeId": "ChIJt2vvlXTTD4gRHTP-0F3Hnyg",
+    "website": "http://www.northpondrestaurant.com/"
   },
   {
     "name": "Mon Ami Gabi",
@@ -303,7 +385,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "2300 N Lincoln Park W"
+    "address": "2300 N Lincoln Park W",
+    "placeId": "ChIJNQeqa23TD4gRzt-J6DkIhKw",
+    "website": "https://www.monamigabi.com/?utm_source=google&utm_medium=social&utm_campaign=MAGLP-GBiz"
   },
   {
     "name": "GEMINI",
@@ -312,7 +396,10 @@
     "metros": [
       "chicago"
     ],
-    "address": "2075 N Lincoln Ave"
+    "address": "2075 N Lincoln Ave",
+    "placeId": "ChIJj74yhxTTD4gRBdgIqda58zg",
+    "website": "http://www.geminichicago.com/",
+    "toastUrl": "https://order.toasttab.com/online/gemini-2075-n-lincoln-ave"
   },
   {
     "name": "Armitage Alehouse",
@@ -321,7 +408,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "1000 W Armitage Ave"
+    "address": "1000 W Armitage Ave",
+    "placeId": "ChIJO0zgvw3TD4gRtEez2q5Y-EA",
+    "website": "https://armitagealehouse.com/"
   },
   {
     "name": "DeNucci's Lincoln Park",
@@ -330,7 +419,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "503 W Dickens Ave"
+    "address": "503 W Dickens Ave",
+    "placeId": "ChIJ06uNgCTTD4gRM-tnBtn5EWc",
+    "website": "https://denuccisitalian.com/"
   },
   {
     "name": "Willow Room",
@@ -339,7 +430,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "1800 N Halsted St"
+    "address": "1800 N Halsted St",
+    "placeId": "ChIJ9Zj5yyLTD4gRCAVsic2iQfY",
+    "website": "http://willowroomchicago.com/"
   },
   {
     "name": "Aba",
@@ -348,7 +441,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "302 N Green St 3rd Floor"
+    "address": "302 N Green St 3rd Floor",
+    "placeId": "ChIJHy_uxjQtDogREgbDgcjizn8",
+    "website": "http://www.abarestaurants.com/"
   },
   {
     "name": "Caroline",
@@ -357,7 +452,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "621 Congress Ave. Suite 101"
+    "address": "621 Congress Ave. Suite 101",
+    "placeId": "ChIJQyfp5wm1RIYRd7IXfFuFzTg",
+    "website": "http://www.carolinerestaurant.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing"
   },
   {
     "name": "Two Hands",
@@ -366,7 +463,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "1011 S Congress Ave Suite 170"
+    "address": "1011 S Congress Ave Suite 170",
+    "placeId": "ChIJY-rIz5_5DogRc7UhqEgYSew",
+    "website": "https://www.twohandsus.com/"
   },
   {
     "name": "Corinne Austin",
@@ -375,7 +474,10 @@
     "metros": [
       "chicago"
     ],
-    "address": "304 E Cesar Chavez St"
+    "address": "304 E Cesar Chavez St",
+    "placeId": "ChIJB5Ku76K1RIYRwGbv_w3DySk",
+    "website": "https://www.corinneatx.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing",
+    "websiteOrderUrl": "https://ordering.chownow.com/order/28298/locations/41888"
   },
   {
     "name": "Magnolia Cafe",
@@ -384,7 +486,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "1920 S Congress Ave"
+    "address": "1920 S Congress Ave",
+    "placeId": "ChIJsaZzLqUsDogRySpDYhrPm6I",
+    "website": "http://www.magnoliabakery.com/"
   },
   {
     "name": "Another Broken Egg Cafe",
@@ -393,7 +497,10 @@
     "metros": [
       "chicago"
     ],
-    "address": "6406 N Interstate 35 Frontage Rd Suite 1600"
+    "address": "6406 N Interstate 35 Frontage Rd Suite 1600",
+    "placeId": "ChIJ0ZMd7djLRIYRArt8XJpkmHA",
+    "website": "https://www.anotherbrokenegg.com/locations/austin-tx-mesa-drive/",
+    "websiteOrderUrl": "https://anotherbrokeneggcafe.olo.com/?_gl=1*vp9rcc*_ga*ODE1ODg5MTE0LjE2NzU2OTc1OTk.*_ga_923ZLNPZ38*MTY3NjA3MjY1MS41LjEuMTY3NjA3MzcwNC41OS4wLjA."
   },
   {
     "name": "Josephine House",
@@ -402,7 +509,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "1601 Waterston Ave"
+    "address": "1601 Waterston Ave",
+    "placeId": "ChIJm3RkX2m1RIYRa7ofUVcc4zQ",
+    "website": "http://josephineofaustin.com/"
   },
   {
     "name": "Day Maker Half Day Cafe",
@@ -411,7 +520,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "1101 S MoPac Expy"
+    "address": "1101 S MoPac Expy",
+    "placeId": "ChIJu2oVQpK1RIYR1afjiUhY78U",
+    "website": "https://daymakeratx.com/"
   },
   {
     "name": "Café No Sé",
@@ -420,7 +531,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "1603 S Congress Ave"
+    "address": "1603 S Congress Ave",
+    "placeId": "ChIJh91qhvy0RIYRBzoQTNhuG-4",
+    "website": "https://cafenoseaustin.com/"
   },
   {
     "name": "Costera Cocina Tulum - Chicago",
@@ -429,7 +542,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "850 W Fulton Market"
+    "address": "850 W Fulton Market",
+    "placeId": "ChIJc9LR9TstDogRUW04udVjEPk",
+    "website": "https://www.costeracocina.com/"
   },
   {
     "name": "Ayayay - Mexican Eatery",
@@ -438,7 +553,10 @@
     "metros": [
       "chicago"
     ],
-    "address": "60 E Lake St"
+    "address": "60 E Lake St",
+    "placeId": "ChIJt_79OQAtDogRlLvLvX6zvC0",
+    "website": "https://www.ayayaymex.com/",
+    "toastUrl": "https://order.toasttab.com/online/ayayay-60-east-lake-street"
   },
   {
     "name": "Mercadito",
@@ -447,7 +565,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "108 W Kinzie St"
+    "address": "108 W Kinzie St",
+    "placeId": "ChIJ3waAcrEsDogRpVNpOKMTLz8",
+    "website": "https://www.mercaditorivernorth.com/"
   },
   {
     "name": "Casa Tulum",

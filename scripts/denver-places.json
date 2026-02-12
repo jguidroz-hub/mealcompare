@@ -6,7 +6,10 @@
     "metros": [
       "denver"
     ],
-    "address": "2335 E 28th Ave"
+    "address": "2335 E 28th Ave",
+    "placeId": "ChIJh_9W1UB5bIcRiKwEnNlla2o",
+    "website": "http://www.theplimoth.com/",
+    "squareUrl": "https://the-plimoth-online-ordering.square.site/s/order#FAFNZCEOEQDZR5U2EWZVZMCK"
   },
   {
     "name": "The Denver Central Market",
@@ -15,7 +18,11 @@
     "metros": [
       "denver"
     ],
-    "address": "2669 Larimer St"
+    "address": "2669 Larimer St",
+    "placeId": "ChIJJScW7h95bIcRje8-s9qYG4M",
+    "website": "http://denvercentralmarket.com/",
+    "squareUrl": "https://temper-chocolates.square.site/",
+    "websiteOrderUrl": "https://order.online/store/HighPointCreamery-766493"
   },
   {
     "name": "Temaki Den",
@@ -24,7 +31,9 @@
     "metros": [
       "denver"
     ],
-    "address": "3350 Brighton Blvd"
+    "address": "3350 Brighton Blvd",
+    "placeId": "ChIJ9dfq8J95bIcRdQTVQFQXE_4",
+    "website": "http://www.temakiden.com/"
   },
   {
     "name": "Point Easy Denver",
@@ -33,7 +42,10 @@
     "metros": [
       "denver"
     ],
-    "address": "2000 E 28th Ave"
+    "address": "2000 E 28th Ave",
+    "placeId": "ChIJEft_6Et5bIcRMMUlKDVa4tQ",
+    "website": "http://www.pointeasydenver.com/",
+    "toastUrl": "https://pointeasydenver.toast.site/\\"
   },
   {
     "name": "major tom",
@@ -42,7 +54,9 @@
     "metros": [
       "denver"
     ],
-    "address": "2845 Larimer St"
+    "address": "2845 Larimer St",
+    "placeId": "ChIJc8VTUUp5bIcRKsLpvO9z4Ak",
+    "website": "https://majortomdenver.com/"
   },
   {
     "name": "Federales Tacos & Tequila - RiNo, Denver",
@@ -51,7 +65,9 @@
     "metros": [
       "denver"
     ],
-    "address": "2901 Larimer St"
+    "address": "2901 Larimer St",
+    "placeId": "ChIJz_QWYr15bIcRKANnIUWLePc",
+    "website": "https://www.federalesdenver.com/"
   },
   {
     "name": "Alma Fonda Fina",
@@ -60,7 +76,9 @@
     "metros": [
       "denver"
     ],
-    "address": "2556 15th St"
+    "address": "2556 15th St",
+    "placeId": "ChIJtcachtF5bIcRZsMfPFA72Ks",
+    "website": "https://www.almalohidenver.com/"
   },
   {
     "name": "Nocturne",
@@ -69,7 +87,9 @@
     "metros": [
       "denver"
     ],
-    "address": "between Larimer and Walnut on 27th"
+    "address": "between Larimer and Walnut on 27th",
+    "placeId": "ChIJb8q07h95bIcReD5YqVibPrk",
+    "website": "http://www.nocturnejazz.com/"
   },
   {
     "name": "Cart-Driver RiNo",
@@ -78,7 +98,9 @@
     "metros": [
       "denver"
     ],
-    "address": "2500 Larimer St #100"
+    "address": "2500 Larimer St #100",
+    "placeId": "ChIJBaRy7994bIcRq8oIj4xn9EU",
+    "website": "http://www.cart-driver.com/"
   },
   {
     "name": "Work & Class",
@@ -87,7 +109,10 @@
     "metros": [
       "denver"
     ],
-    "address": "2500 Larimer St"
+    "address": "2500 Larimer St",
+    "placeId": "ChIJS7FA8d94bIcR0Yx7VLagdMo",
+    "website": "http://www.workandclassdenver.com/",
+    "toastUrl": "https://order.toasttab.com/online/work-class-englewood"
   },
   {
     "name": "BearLeek",
@@ -96,7 +121,9 @@
     "metros": [
       "denver"
     ],
-    "address": "2611 Walnut St"
+    "address": "2611 Walnut St",
+    "placeId": "ChIJJSIkfRN5bIcR21gA6FK7VPI",
+    "website": "http://www.bearleek.com/"
   },
   {
     "name": "Linger",
@@ -104,7 +131,10 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJF4sShZR4bIcRZCQ8ZRvoh_c",
+    "website": "https://ediblebeats.com/restaurants/linger/",
+    "websiteOrderUrl": "https://order.online/store/24826"
   },
   {
     "name": "The Hampton Social - Denver",
@@ -112,7 +142,9 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJd0pXag95bIcR2QSQASVIQV8",
+    "website": "https://www.thehamptonsocial.com/"
   },
   {
     "name": "Wildflower",
@@ -120,7 +152,9 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJfbXb8xV5bIcR1EZgVEoh2Vk",
+    "website": "https://www.wildflower-lohi.com/"
   },
   {
     "name": "Fox And The Hen",
@@ -128,7 +162,10 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJccWEGAZ5bIcRocT3qmn25y0",
+    "website": "https://www.foxandthehen.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Postino LoHi",
@@ -136,7 +173,10 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJ_8-mapN4bIcR2fHBVwJdlZ4",
+    "website": "https://www.postino.com/locations/postino-lohi",
+    "websiteOrderUrl": "http://postino.olo.com/menu/postino-lohi"
   },
   {
     "name": "Mezcaleria Alma",
@@ -144,7 +184,9 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJ88IGKnF5bIcRLI5p5QH0Peg",
+    "website": "https://mezcaleriaalma.com/"
   },
   {
     "name": "Sassafras American Eatery, Highlands",
@@ -152,7 +194,9 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJ2epH8pd4bIcR59pLKqeJ1TQ",
+    "website": "http://www.sassafrasamericaneatery.com/"
   },
   {
     "name": "Corinne Denver",
@@ -160,7 +204,9 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJW-JPBdF4bIcRsVLMVFuXFRo",
+    "website": "https://www.corinnedenver.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing"
   },
   {
     "name": "Bar Dough",
@@ -168,7 +214,10 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJrRxEypN4bIcR_GfxUkiSeCs",
+    "website": "https://bardoughdenver.com/",
+    "websiteOrderUrl": "https://order.online/store/35446"
   },
   {
     "name": "Salt Water Social",
@@ -176,7 +225,10 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJYbtXR0h_bIcRGiAN3IRClYw",
+    "website": "https://saltwatersocial.com/",
+    "websiteOrderUrl": "https://saltwatersocial.olo.com/menu/salt-water-social/"
   },
   {
     "name": "Cherry Creek Grill",
@@ -184,7 +236,9 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJBVJ4wpl-bIcRARcHoFdzGmU",
+    "website": "https://cherrycreekgrill.com/"
   },
   {
     "name": "Kona Grill - Denver",
@@ -192,7 +246,10 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJX4Jmj5B-bIcRuvDQd9B-06k",
+    "website": "https://konagrill.com/locations?locations=Denver,80206",
+    "websiteOrderUrl": "https://konagrill.olo.com/menu/kona-grill-denver"
   },
   {
     "name": "Hillstone",
@@ -200,7 +257,9 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJeW6Jj5V-bIcREQhNXHtu2uQ",
+    "website": "https://hillstonerestaurant.com/locations/denver/"
   },
   {
     "name": "The Cherry Cricket",
@@ -208,7 +267,10 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJIzsCgJZ-bIcRJ8wt6D2vSoQ",
+    "website": "https://cherrycricket.com/",
+    "toastUrl": "https://order.toasttab.com/online/cherry-cricket-littleton-819-w-littleton-blvd"
   },
   {
     "name": "North Italia",
@@ -216,7 +278,9 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJW2P3hZZ-bIcRG1zokTjEWdQ",
+    "website": "https://www.northitalia.com/locations/denver-co-cherry-creek-shopping-center/"
   },
   {
     "name": "True Food Kitchen",
@@ -224,7 +288,10 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJxz3k85Z-bIcRQcAPJ0SZzO4",
+    "website": "https://www.truefoodkitchen.com/locations/denver/",
+    "websiteOrderUrl": "https://truefoodkitchen.olo.com"
   },
   {
     "name": "Culinary Dropout",
@@ -232,7 +299,9 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJ31UE2n1_bIcR1VeAa08lGkI",
+    "website": "https://www.culinarydropout.com/locations/denver-co/?utm_source=Google&utm_medium=Organic&utm_campaign=Maps"
   },
   {
     "name": "Narrative",
@@ -240,7 +309,9 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJMYNaaXp_bIcR3GaJQCzI7Sg",
+    "website": "http://narrativecherrycreek.com/?utm_source=gmb&utm_medium=Yext"
   },
   {
     "name": "Barolo Grill",
@@ -248,6 +319,8 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJa8LR2bx-bIcRKq_mJTlas_Q",
+    "website": "https://www.barologrilldenver.com/"
   }
 ]
