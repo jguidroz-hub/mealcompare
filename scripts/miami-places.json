@@ -554,7 +554,9 @@
     "category": "restaurant",
     "metros": [
       "miami"
-    ]
+    ],
+    "placeId": "ChIJbYrWIza12YgRkWYCIvvK6cY",
+    "website": "https://solamiami.com/"
   },
   {
     "name": "El Patio Restaurant – Bar Habana – La Terraza Rooftop",
@@ -562,7 +564,9 @@
     "category": "restaurant",
     "metros": [
       "miami"
-    ]
+    ],
+    "placeId": "ChIJPfhtahS12YgRSpPRowAC4k8",
+    "website": "https://elpatio-barhabana.com/"
   },
   {
     "name": "Azteca South Beach",
@@ -570,7 +574,9 @@
     "category": "restaurant",
     "metros": [
       "miami"
-    ]
+    ],
+    "placeId": "ChIJIdtKrtS12YgRhi6-FYAcpTA",
+    "website": "http://aztecasouthbeach.com/"
   },
   {
     "name": "ll Pastaiolo - Best Italian Restaurant South Beach, Miami Florida",
@@ -578,7 +584,9 @@
     "category": "italian",
     "metros": [
       "miami"
-    ]
+    ],
+    "placeId": "ChIJqSUo67K12YgR3T5kOxPXdF0",
+    "website": "https://ilpastaiolosouthbeach.com/"
   },
   {
     "name": "Santorini by Georgios",
@@ -586,7 +594,10 @@
     "category": "restaurant",
     "metros": [
       "miami"
-    ]
+    ],
+    "placeId": "ChIJ1QO47_G02YgRU_bfxQeW7D4",
+    "website": "https://santorinibygeorgios.com/",
+    "websiteOrderUrl": "https://order.online/store/-24104698"
   },
   {
     "name": "Yardbird Table & Bar",
@@ -594,7 +605,11 @@
     "category": "restaurant",
     "metros": [
       "miami"
-    ]
+    ],
+    "placeId": "ChIJYzGk04e02YgRoXmsaZCIoJ8",
+    "website": "https://www.runchickenrun.com/location-page-miami/",
+    "toastUrl": "https://order.toasttab.com/online/yb-sb",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Meet Dalia",
@@ -602,7 +617,9 @@
     "category": "restaurant",
     "metros": [
       "miami"
-    ]
+    ],
+    "placeId": "ChIJa1junq-12YgRqZ1aHTFcywE",
+    "website": "https://meetdaliamiami.com/"
   },
   {
     "name": "Café Bastille Miami Beach",
@@ -610,7 +627,10 @@
     "category": "restaurant",
     "metros": [
       "miami"
-    ]
+    ],
+    "placeId": "ChIJayhIp7i12YgRW94lbHWSNas",
+    "website": "https://cafebastilledowntown.com/",
+    "toastUrl": "https://order.toasttab.com/online/locations"
   },
   {
     "name": "Baia Beach Club Miami",
@@ -618,7 +638,9 @@
     "category": "restaurant",
     "metros": [
       "miami"
-    ]
+    ],
+    "placeId": "ChIJldDB6kG12YgRvublTgqV5Ic",
+    "website": "https://www.baiabeachclubmiami.com/"
   },
   {
     "name": "CVI.CHE 105",
@@ -626,7 +648,9 @@
     "category": "restaurant",
     "metros": [
       "miami"
-    ]
+    ],
+    "placeId": "ChIJlz72E5622YgRLXWCKTEFM_M",
+    "website": "https://www.ceviche105.com/"
   },
   {
     "name": "Pollos & Jarras",
@@ -634,7 +658,9 @@
     "category": "restaurant",
     "metros": [
       "miami"
-    ]
+    ],
+    "placeId": "ChIJn3znPZ622YgR1iIhdZhYq98",
+    "website": "https://www.pollosyjarras.com/"
   },
   {
     "name": "MAYU by Aromas Del Peru",
@@ -642,7 +668,9 @@
     "category": "restaurant",
     "metros": [
       "miami"
-    ]
+    ],
+    "placeId": "ChIJP7Zy8Sm32YgRft46Ry2v194",
+    "website": "https://mayumiami.com/"
   },
   {
     "name": "305 Peruvian Modern Cuisine",
@@ -650,7 +678,9 @@
     "category": "restaurant",
     "metros": [
       "miami"
-    ]
+    ],
+    "placeId": "ChIJmTRdUKO32YgRG_aLnXYf5HA",
+    "website": "https://www.305peruvian.com/"
   },
   {
     "name": "Aromas del Peru",
@@ -658,7 +688,9 @@
     "category": "restaurant",
     "metros": [
       "miami"
-    ]
+    ],
+    "placeId": "ChIJh86uNDO42YgRDsZHc__vuxY",
+    "website": "https://aromasperu.com/aromasdelperuwmiami?utm_source=google"
   },
   {
     "name": "Taipa Peruvian Restaurant- (Coral Gables-57 Ave)",
