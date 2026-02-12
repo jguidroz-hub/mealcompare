@@ -37,6 +37,16 @@ export const DC_RESTAURANTS: RestaurantData[] = [
   { name: 'Downtown Shawarma', slug: 'downtownshawarma', category: 'middle-eastern', metros: ['dc'], toastUrl: 'https://downtownshawarma.toast.site/' },
   { name: "Guapo's Restaurant", slug: 'guapos', category: 'mexican', metros: ['dc'], toastUrl: 'https://guaposmainpage.toast.site/' },
   { name: 'Tortas y Tacos La Chiquita', slug: 'tortasytacoslachiquita', category: 'mexican', metros: ['dc'], toastUrl: 'https://tortasytacoslachiquitaiii.toast.site/' },
+  { name: 'Qui Qui', slug: 'quiqui', category: 'latin', metros: ['dc'], toastUrl: 'https://quiquinew.toast.site/' },
+  { name: 'Kusshi Sushi', slug: 'kusshi', category: 'japanese', metros: ['dc'], toastUrl: 'https://kusshi.toast.site/' },
+  { name: 'Cactus Cantina', slug: 'cactuscantina', category: 'mexican', metros: ['dc'], toastUrl: 'https://cactuscantina.toast.site/' },
+  { name: 'Jack Rose Dining Saloon', slug: 'jackrose', category: 'american', metros: ['dc'], toastUrl: 'https://jackrosediningsaloon.toast.site/' },
+  { name: 'DCity Smokehouse', slug: 'dcitysmokehouse', category: 'bbq', metros: ['dc'], toastUrl: 'https://dcitysmokehouseinwashingtondc.toast.site/' },
+  { name: 'Sweet Crimes Bakery', slug: 'sweetcrimes', category: 'bakery', metros: ['dc'], toastUrl: 'https://sweetcrimesbakery.toast.site/' },
+  { name: 'Sisters Sandwiches & Such', slug: 'sisterssandwiches', category: 'sandwiches', metros: ['dc'], toastUrl: 'https://sisterssandwichessuch.toast.site/' },
+  { name: 'Tout de Sweet', slug: 'toutdesweet', category: 'bakery', metros: ['dc'], toastUrl: 'https://toutdesweet.toast.site/' },
+  { name: 'BoBaPop Tea Bar', slug: 'bobapop', category: 'tea', metros: ['dc'], toastUrl: 'https://bobapopteabar.toast.site/' },
+  { name: 'Flavor Hive', slug: 'flavorhive', category: 'asian', metros: ['dc'], toastUrl: 'https://flavorhiveannandale.toast.site/' },
   
   // National chains (both markets)
   { name: 'Chipotle', slug: 'chipotle', category: 'mexican', metros: ['austin', 'dc'], websiteOrderUrl: 'https://order.chipotle.com' },
