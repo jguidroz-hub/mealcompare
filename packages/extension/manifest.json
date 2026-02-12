@@ -3,7 +3,7 @@
   "name": "SkipTheFee — Save on Food Delivery",
   "description": "Compare prices across DoorDash, Uber Eats, Grubhub & direct ordering. Save $5-15 per order.",
   "version": "0.1.0",
-  "permissions": ["activeTab", "storage"],
+  "permissions": ["storage"],
   "host_permissions": [
     "https://www.doordash.com/*",
     "https://www.ubereats.com/*",

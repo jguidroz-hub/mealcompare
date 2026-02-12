@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>MealCompare Settings</title>
+  <title>SkipTheFee Settings</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
@@ -13,7 +13,8 @@
       max-width: 480px;
       margin: 0 auto;
     }
-    h1 { font-size: 20px; font-weight: 700; margin-bottom: 24px; }
+    h1 { font-size: 20px; font-weight: 700; margin-bottom: 8px; }
+    .subtitle { font-size: 13px; color: #64748b; margin-bottom: 24px; }
     label { display: block; font-size: 14px; font-weight: 600; margin-bottom: 8px; }
     select {
       width: 100%;
@@ -35,27 +36,66 @@
     }
     .saved.show { display: inline-block; }
     p { font-size: 13px; color: #64748b; line-height: 1.6; margin-bottom: 16px; }
+    .stats {
+      margin-top: 24px;
+      padding: 16px;
+      background: #1e293b;
+      border-radius: 8px;
+    }
+    .stats h2 { font-size: 14px; font-weight: 600; margin-bottom: 12px; color: #cbd5e1; }
+    .stat-row { display: flex; justify-content: space-between; font-size: 13px; padding: 4px 0; }
+    .stat-value { color: #10b981; font-weight: 600; }
+    .links { margin-top: 24px; font-size: 13px; }
+    .links a { color: #3b82f6; text-decoration: none; margin-right: 16px; }
+    .links a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
-  <h1>🍔 MealCompare Settings</h1>
-  <p>MealCompare compares food delivery prices across platforms in your area. Select your metro to get accurate results.</p>
-  
+  <h1>💰 SkipTheFee Settings</h1>
+  <p class="subtitle">Compare delivery prices and find cheaper ways to order.</p>
+
   <label for="metro">Your Metro Area</label>
   <select id="metro">
     <option value="austin">Austin, TX</option>
     <option value="dc">Washington, DC</option>
+    <option value="nyc">New York, NY</option>
+    <option value="chicago">Chicago, IL</option>
+    <option value="la">Los Angeles, CA</option>
+    <option value="boston">Boston, MA</option>
+    <option value="miami">Miami, FL</option>
+    <option value="sf">San Francisco, CA</option>
+    <option value="philly">Philadelphia, PA</option>
+    <option value="houston">Houston, TX</option>
+    <option value="atlanta">Atlanta, GA</option>
+    <option value="nashville">Nashville, TN</option>
+    <option value="seattle">Seattle, WA</option>
+    <option value="denver">Denver, CO</option>
+    <option value="nola">New Orleans, LA</option>
   </select>
 
   <span id="saved" class="saved">✓ Saved</span>
+
+  <div class="stats">
+    <h2>Your Stats</h2>
+    <div class="stat-row"><span>Comparisons made</span><span class="stat-value" id="statCompares">0</span></div>
+    <div class="stat-row"><span>Total savings found</span><span class="stat-value" id="statSavings">$0</span></div>
+  </div>
+
+  <div class="links">
+    <a href="https://skipthefee.app" target="_blank">Website</a>
+    <a href="https://skipthefee.app/privacy" target="_blank">Privacy Policy</a>
+  </div>
 
   <script>
     const metroSelect = document.getElementById('metro');
     const saved = document.getElementById('saved');
 
-    // Load current setting
-    chrome.storage.sync.get('metro', (data) => {
+    // Load current settings + stats
+    chrome.storage.sync.get(['metro', 'totalComparisons', 'totalSavingsCents'], (data) => {
       if (data.metro) metroSelect.value = data.metro;
+      document.getElementById('statCompares').textContent = (data.totalComparisons || 0).toString();
+      const savings = (data.totalSavingsCents || 0) / 100;
+      document.getElementById('statSavings').textContent = '$' + savings.toFixed(2);
     });
 
     // Save on change

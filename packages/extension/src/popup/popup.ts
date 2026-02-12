@@ -25,6 +25,11 @@ chrome.runtime.sendMessage({ type: 'GET_STATE' }, (response) => {
     return;
   }
 
+  if (response.error) {
+    renderError(response.error);
+    return;
+  }
+
   if (response.isComparing) {
     renderLoading(response.cart?.restaurantName, response.cart?.items?.length);
     pollForResult();
@@ -68,8 +73,8 @@ function pollForResult(): void {
 function renderEmpty(): void {
   content.innerHTML = `
     <div class="empty">
-      <h2>🍔 Browse a delivery app</h2>
-      <p>Open DoorDash, Uber Eats, or Grubhub and add items to your cart. SkipTheFee will automatically compare prices.</p>
+      <h2>💰 Save $5–15 on every order</h2>
+      <p>Browse DoorDash, Uber Eats, or Grubhub and add items to your cart. SkipTheFee finds the cheapest way to order.</p>
       <div style="margin-top: 16px;">
         <a href="https://www.doordash.com" target="_blank" style="color: #3b82f6; text-decoration: none; font-size: 12px; margin-right: 12px;">DoorDash →</a>
         <a href="https://www.ubereats.com" target="_blank" style="color: #3b82f6; text-decoration: none; font-size: 12px; margin-right: 12px;">Uber Eats →</a>
@@ -77,6 +82,21 @@ function renderEmpty(): void {
       </div>
     </div>
   `;
+}
+
+function renderError(errorMsg: string): void {
+  content.innerHTML = `
+    <div class="error-state">
+      <h2>⚠️ Comparison failed</h2>
+      <p>${errorMsg || 'Could not reach SkipTheFee servers. Check your connection and try again.'}</p>
+      <button class="retry-btn" id="retryBtn">Try Again</button>
+    </div>
+  `;
+  document.getElementById('retryBtn')?.addEventListener('click', () => {
+    chrome.runtime.sendMessage({ type: 'RETRY_COMPARE' });
+    renderLoading();
+    pollForResult();
+  });
 }
 
 function renderLoading(restaurant?: string, itemCount?: number): void {

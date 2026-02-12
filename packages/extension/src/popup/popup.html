@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MealCompare</title>
+  <title>SkipTheFee</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
@@ -24,6 +24,7 @@
     }
     .header h1 { font-size: 18px; font-weight: 700; }
     .header .logo { font-size: 24px; }
+    .header .tagline { font-size: 11px; color: #64748b; margin-left: auto; }
     .empty {
       text-align: center;
       padding: 32px 16px;
@@ -31,6 +32,27 @@
     }
     .empty h2 { font-size: 15px; margin-bottom: 8px; color: #cbd5e1; }
     .empty p { font-size: 13px; line-height: 1.5; }
+    .empty .step {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-align: left;
+      padding: 8px 0;
+      font-size: 13px;
+    }
+    .empty .step-num {
+      background: #3b82f6;
+      color: white;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      font-weight: 700;
+      flex-shrink: 0;
+    }
     .loading {
       text-align: center;
       padding: 24px;
@@ -106,41 +128,54 @@
       color: #64748b;
       margin-top: 4px;
     }
+    .unavailable-quote { opacity: 0.5; cursor: default; }
     .footer {
       margin-top: 12px;
       text-align: center;
       font-size: 11px;
       color: #475569;
     }
-    .platform-icon {
-      display: inline-block;
-      width: 20px;
-      height: 20px;
-      border-radius: 4px;
-      margin-right: 6px;
-      vertical-align: middle;
-      font-size: 14px;
+    .footer a { color: #3b82f6; text-decoration: none; }
+    .footer a:hover { text-decoration: underline; }
+    .error-state {
       text-align: center;
-      line-height: 20px;
+      padding: 24px 16px;
+      color: #f87171;
     }
-    .dd { background: #FF3008; }
-    .ue { background: #06C167; }
-    .gh { background: #F63440; }
-    .dr { background: #3b82f6; }
+    .error-state h2 { font-size: 15px; margin-bottom: 8px; }
+    .error-state p { font-size: 13px; color: #94a3b8; line-height: 1.5; }
+    .retry-btn {
+      margin-top: 12px;
+      background: #3b82f6;
+      color: white;
+      border: none;
+      padding: 8px 20px;
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    .retry-btn:hover { background: #2563eb; }
   </style>
 </head>
 <body>
   <div class="header">
-    <span class="logo">🍔</span>
-    <h1>MealCompare</h1>
+    <span class="logo">💰</span>
+    <h1>SkipTheFee</h1>
+    <span class="tagline">Stop overpaying</span>
   </div>
   <div id="content">
     <div class="empty">
-      <h2>Browse a delivery app to get started</h2>
-      <p>Open DoorDash, Uber Eats, or Grubhub and add items to your cart. MealCompare will automatically find you the best price.</p>
+      <h2>Save $5–15 on every order</h2>
+      <p style="margin-bottom: 16px;">SkipTheFee finds cheaper ways to order from the same restaurant.</p>
+      <div class="step"><span class="step-num">1</span> Browse DoorDash, Uber Eats, or Grubhub</div>
+      <div class="step"><span class="step-num">2</span> Add items to your cart</div>
+      <div class="step"><span class="step-num">3</span> We compare prices instantly</div>
     </div>
   </div>
-  <div class="footer">Prices are estimates. Always verify before ordering.</div>
+  <div class="footer">
+    <a href="https://skipthefee.app" target="_blank">skipthefee.app</a> · Prices are estimates
+  </div>
   <script src="popup.js" type="module"></script>
 </body>
 </html>

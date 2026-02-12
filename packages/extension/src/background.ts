@@ -1,24 +1,17 @@
 /**
  * SkipTheFee background service worker.
  * 
- * COMPARISON FLOW:
- * 1. Content script detects cart on Platform A
- * 2. Background calls server API → gets Uber Eats prices (always available server-side)
- * 3. Background also queries other platforms:
- *    - If user is on DD → UE prices come from server, GH from estimate
- *    - If user is on UE → DD/GH from estimates (v0), extension scraping (v1)
- * 4. Results shown in popup with savings + deep links
- * 
- * v0 SIMPLIFICATION:
- * - Server handles UE comparisons (real prices)
- * - DD/GH use fee estimates for non-UE comparisons
- * - Still valuable: DoorDash users (67% market) save by seeing UE prices
+ * Detects carts on DoorDash, Uber Eats, Grubhub → compares prices
+ * across platforms + direct ordering to find the cheapest option.
  */
 
 import { CartDetection, ComparisonResult } from '@mealcompare/shared';
 
+const API_BASE = 'https://skipthefee.vercel.app';
+
 let latestCart: CartDetection | null = null;
 let latestResult: ComparisonResult | null = null;
+let latestError: string | null = null;
 let isComparing = false;
 
 // Handle messages from content scripts and popup
@@ -26,6 +19,7 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
   switch (message.type) {
     case 'CART_DETECTED':
       latestCart = message.payload;
+      latestError = null;
       runComparison(message.payload);
       updateBadge(message.payload);
       sendResponse({ ok: true });
@@ -35,13 +29,23 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
       sendResponse({
         cart: latestCart,
         result: latestResult,
+        error: latestError,
         isComparing,
       });
+      break;
+
+    case 'RETRY_COMPARE':
+      if (latestCart) {
+        latestError = null;
+        runComparison(latestCart);
+      }
+      sendResponse({ ok: true });
       break;
 
     case 'CLEAR':
       latestCart = null;
       latestResult = null;
+      latestError = null;
       chrome.action.setBadgeText({ text: '' });
       sendResponse({ ok: true });
       break;
@@ -52,61 +56,74 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
 
 function updateBadge(cart: CartDetection): void {
   chrome.action.setBadgeText({ text: `${cart.items.length}` });
-  chrome.action.setBadgeBackgroundColor({ color: '#3b82f6' }); // Blue = cart detected
+  chrome.action.setBadgeBackgroundColor({ color: '#3b82f6' });
 }
 
 async function runComparison(cart: CartDetection): Promise<void> {
   isComparing = true;
   latestResult = null;
+  latestError = null;
 
   try {
-    const apiBase = await getApiBase();
+    const metro = await getMetro();
 
-    const response = await fetch(`${apiBase}/api/compare`, {
+    const response = await fetch(`${API_BASE}/api/compare`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         sourcePlatform: cart.platform,
         restaurantName: cart.restaurantName,
         items: cart.items,
-        metro: await getMetro(),
+        metro,
       }),
     });
 
     if (!response.ok) {
-      throw new Error(`API ${response.status}: ${await response.text()}`);
+      const text = await response.text().catch(() => '');
+      throw new Error(`Server error (${response.status})${text ? ': ' + text : ''}`);
     }
 
     latestResult = await response.json();
 
+    // Track stats
+    await trackComparison(latestResult);
+
     // Update badge with savings
-    if (latestResult && latestResult.savings > 100) { // Only show if >$1 savings
+    if (latestResult && latestResult.savings > 100) {
       const savingsDollars = Math.floor(latestResult.savings / 100);
       chrome.action.setBadgeText({ text: `-$${savingsDollars}` });
-      chrome.action.setBadgeBackgroundColor({ color: '#10b981' }); // Green = savings found
+      chrome.action.setBadgeBackgroundColor({ color: '#10b981' });
     } else if (latestResult) {
       chrome.action.setBadgeText({ text: '✓' });
-      chrome.action.setBadgeBackgroundColor({ color: '#6b7280' }); // Gray = compared, no savings
+      chrome.action.setBadgeBackgroundColor({ color: '#6b7280' });
     }
 
     // Notify any open popups
     chrome.runtime.sendMessage({
       type: 'COMPARE_RESULT',
       payload: latestResult,
-    }).catch(() => {}); // Popup might not be open
+    }).catch(() => {});
 
   } catch (err) {
-    console.error('[SkipTheFee] Comparison failed:', err);
+    const errorMsg = err instanceof Error ? err.message : 'Comparison failed';
+    console.error('[SkipTheFee] Comparison failed:', errorMsg);
+    latestError = errorMsg;
     chrome.action.setBadgeText({ text: '!' });
-    chrome.action.setBadgeBackgroundColor({ color: '#ef4444' }); // Red = error
+    chrome.action.setBadgeBackgroundColor({ color: '#ef4444' });
   } finally {
     isComparing = false;
   }
 }
 
-async function getApiBase(): Promise<string> {
-  const stored = await chrome.storage.sync.get('apiBase');
-  return stored.apiBase || 'http://localhost:3001';
+async function trackComparison(result: ComparisonResult | null): Promise<void> {
+  if (!result) return;
+  try {
+    const data = await chrome.storage.sync.get(['totalComparisons', 'totalSavingsCents']);
+    await chrome.storage.sync.set({
+      totalComparisons: (data.totalComparisons || 0) + 1,
+      totalSavingsCents: (data.totalSavingsCents || 0) + Math.max(0, result.savings),
+    });
+  } catch { /* non-critical */ }
 }
 
 async function getMetro(): Promise<string> {
@@ -114,12 +131,21 @@ async function getMetro(): Promise<string> {
   return stored.metro || 'austin';
 }
 
-// On install, set defaults
-chrome.runtime.onInstalled.addListener(() => {
+// On install — set defaults and show welcome
+chrome.runtime.onInstalled.addListener((details) => {
   chrome.storage.sync.set({
     metro: 'austin',
-    apiBase: 'https://skipthefee.vercel.app',
+    totalComparisons: 0,
+    totalSavingsCents: 0,
   });
+
+  if (details.reason === 'install') {
+    // Open onboarding tab
+    chrome.tabs.create({
+      url: 'https://skipthefee.app/welcome?source=extension',
+    });
+  }
+
   console.log('[SkipTheFee] Extension installed. Default metro: austin');
 });
 
