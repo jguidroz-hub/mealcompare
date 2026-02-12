@@ -8,6 +8,7 @@ import {
   normalizeMenuItemName,
   calculateSavings,
 } from '@mealcompare/shared';
+import { findRestaurantData, getDirectOrderUrl } from '@mealcompare/engine';
 
 /**
  * POST /api/compare
@@ -82,7 +83,7 @@ export async function POST(req: NextRequest) {
     }
 
     // Direct ordering (always include)
-    quotes.push(estimateDirectQuote(restaurantName, items, coords));
+    quotes.push(estimateDirectQuote(restaurantName, items, coords, metro));
 
     // Pickup option (always cheapest if available)
     quotes.push(estimatePickupQuote(restaurantName, items, coords));
@@ -287,22 +288,28 @@ function buildQuoteFromClientData(
 function estimateDirectQuote(
   restaurantName: string,
   items: CartItem[],
-  coords: { lat: number; lng: number; taxRate: number }
+  coords: { lat: number; lng: number; taxRate: number },
+  metro?: string
 ): PlatformQuote {
   const platformSubtotal = items.reduce((s, i) => s + i.price * i.quantity, 0);
   const directSubtotal = Math.round(platformSubtotal * 0.88); // ~12% lower (no commission markup)
   const tax = Math.round(directSubtotal * coords.taxRate);
   const deliveryFee = 499;
-  const slug = restaurantName.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+
+  // Look up known direct ordering URL from restaurant database
+  const knownRestaurant = findRestaurantData(restaurantName, metro);
+  const directUrl = knownRestaurant ? getDirectOrderUrl(knownRestaurant) : null;
+  const deepLink = directUrl ?? `https://www.google.com/search?q=${encodeURIComponent(restaurantName + ' order online direct')}`;
+  const confidence = directUrl ? 0.8 : 0.5; // Higher confidence if we have a known URL
 
   return {
     platform: 'direct',
-    restaurant: { name: `${restaurantName} (Direct)`, platformUrl: `https://order.toasttab.com/online/${slug}` },
+    restaurant: { name: `${restaurantName} (Direct)`, platformUrl: directUrl ?? undefined },
     fees: { subtotal: directSubtotal, platformMarkup: directSubtotal - platformSubtotal, serviceFee: 0, deliveryFee, smallOrderFee: 0, tax, tip: 0, discount: 0, total: directSubtotal + deliveryFee + tax },
     estimatedMinutes: null,
     available: true,
-    deepLink: `https://www.google.com/search?q=${encodeURIComponent(restaurantName + ' order online direct')}`,
-    confidence: 0.6,
+    deepLink,
+    confidence,
     capturedAt: new Date().toISOString(),
   };
 }

@@ -1,13 +1,16 @@
 {
   "manifest_version": 3,
-  "name": "MealCompare",
-  "description": "Find cheaper prices for your food delivery order across DoorDash, Uber Eats, Grubhub & direct ordering.",
+  "name": "MealCompare — Save on Food Delivery",
+  "description": "Compare prices across DoorDash, Uber Eats, Grubhub & direct ordering. Save $5-15 per order.",
   "version": "0.1.0",
   "permissions": ["activeTab", "storage"],
   "host_permissions": [
     "https://www.doordash.com/*",
     "https://www.ubereats.com/*",
-    "https://www.grubhub.com/*"
+    "https://www.grubhub.com/*",
+    "https://*.toast.site/*",
+    "https://order.toasttab.com/*",
+    "https://mealcompare.vercel.app/*"
   ],
   "background": {
     "service_worker": "background.js",
@@ -28,6 +31,11 @@
       "matches": ["https://www.grubhub.com/*"],
       "js": ["content/grubhub.js"],
       "run_at": "document_idle"
+    },
+    {
+      "matches": ["https://*.toast.site/*", "https://order.toasttab.com/*"],
+      "js": ["content/toast-scraper.js"],
+      "run_at": "document_idle"
     }
   ],
   "action": {
@@ -47,7 +55,13 @@
   "web_accessible_resources": [
     {
       "resources": ["assets/*", "chunks/*"],
-      "matches": ["https://www.doordash.com/*", "https://www.ubereats.com/*", "https://www.grubhub.com/*"]
+      "matches": [
+        "https://www.doordash.com/*",
+        "https://www.ubereats.com/*",
+        "https://www.grubhub.com/*",
+        "https://*.toast.site/*",
+        "https://order.toasttab.com/*"
+      ]
     }
   ]
 }
