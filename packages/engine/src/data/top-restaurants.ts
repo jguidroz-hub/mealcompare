@@ -22,8 +22,18 @@ export interface RestaurantData {
 // ─── DC Restaurants (Co-founder's market) ──────────────────────
 
 export const DC_RESTAURANTS: RestaurantData[] = [
-  // Co-founder's network (direct Toast URLs known)
+  // Co-founder's network + Toast-discovered (direct ordering URLs)
   { name: 'Ometeo', slug: 'ometeo', category: 'mexican', metros: ['dc'], toastUrl: 'https://ometeo.toast.site/' },
+  { name: 'DC Vegan', slug: 'dcvegan', category: 'vegan', metros: ['dc'], toastUrl: 'https://dcvegan.toast.site/' },
+  { name: 'Your Only Friend', slug: 'youronlyfriend', category: 'bar', metros: ['dc'], toastUrl: 'https://youronlyfriend.toast.site/' },
+  { name: 'GrillMarx Steakhouse', slug: 'grillmarx', category: 'steakhouse', metros: ['dc'], toastUrl: 'https://grillmarxsteakhouserawbar.toast.site/' },
+  { name: 'Social Eats Café', slug: 'socialeats', category: 'cafe', metros: ['dc'], toastUrl: 'https://socialeatscafproject607.toast.site/' },
+  { name: 'Central Bar & Restaurant', slug: 'centralbar', category: 'american', metros: ['dc'], toastUrl: 'https://centralbarrestaurant.toast.site/' },
+  { name: 'WB Steakhouse', slug: 'wbsteakhouse', category: 'steakhouse', metros: ['dc'], toastUrl: 'https://wbsteaks.toast.site/' },
+  { name: 'Portofino Restaurant', slug: 'portofino', category: 'italian', metros: ['dc'], toastUrl: 'https://portofinorestaurant.toast.site/' },
+  { name: 'Northside Social', slug: 'northsidesocial', category: 'cafe', metros: ['dc'], toastUrl: 'https://northsidesocialfallschurch-slhmsdug.toast.site/' },
+  { name: 'PLNT Burger', slug: 'plntburger', category: 'burgers', metros: ['dc'], toastUrl: 'https://www.toasttab.com/local/plnt-burger-fav/r-58793d11-6ce8-4b04-b57a-0230495343ba' },
+  { name: 'On Toast', slug: 'ontoast', category: 'cafe', metros: ['dc'], toastUrl: 'https://www.toasttab.com/local/order/on-toast-1309-5th-street-northeast/r-a0ddb273-1308-4db6-8032-2b411510fb9f' },
   
   // National chains (both markets)
   { name: 'Chipotle', slug: 'chipotle', category: 'mexican', metros: ['austin', 'dc'], websiteOrderUrl: 'https://order.chipotle.com' },
@@ -73,6 +83,17 @@ export const DC_RESTAURANTS: RestaurantData[] = [
 // ─── Austin Restaurants ────────────────────────────────────────
 
 export const AUSTIN_RESTAURANTS: RestaurantData[] = [
+  // Austin Toast-discovered (direct ordering URLs)
+  { name: 'La Traviata', slug: 'latraviata', category: 'italian', metros: ['austin'], toastUrl: 'https://latraviataaustin.toast.site/' },
+  { name: 'Casa Tulum', slug: 'casatulum', category: 'mexican', metros: ['austin'], toastUrl: 'https://casatulum.toast.site/' },
+  { name: 'Cafe Largesse', slug: 'cafelargesse', category: 'cafe', metros: ['austin'], toastUrl: 'https://cafelargesse.toast.site/' },
+  { name: 'Fire Bowl Cafe', slug: 'firebowlcafe', category: 'asian', metros: ['austin'], toastUrl: 'https://firebowlcafelima.toast.site/' },
+  { name: 'Taqueria 10 de 10', slug: 'taqueria1010', category: 'mexican', metros: ['austin'], toastUrl: 'https://taqueria1010.toast.site/' },
+  { name: 'Mr. Chingon', slug: 'mrchingon', category: 'mexican', metros: ['austin'], toastUrl: 'https://mrchingontaqueria.toast.site/' },
+  { name: 'ATX Latin Food', slug: 'atxlatinfood', category: 'latin', metros: ['austin'], toastUrl: 'https://atxlatinfood.toast.site/' },
+  { name: 'Tropicana Cuban', slug: 'tropicanacuban', category: 'cuban', metros: ['austin'], toastUrl: 'https://tropicanacubanrestaurant.toast.site/' },
+  { name: 'Foreign & Domestic', slug: 'foreigndomestic', category: 'american', metros: ['austin'], toastUrl: 'https://foreigndomestic.toast.site/' },
+
   // Austin staples
   { name: 'Whataburger', slug: 'whataburger', category: 'burgers', metros: ['austin'], websiteOrderUrl: 'https://whataburger.com/order' },
   { name: 'Torchys Tacos', slug: 'torchystacos', category: 'mexican', metros: ['austin'], websiteOrderUrl: 'https://torchystacos.com/order-now' },
