@@ -542,7 +542,9 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJK_MXKS6Bj4ARR_hUcLHS-Rs",
+    "website": "http://www.backyardoakland.com/"
   },
   {
     "name": "The Cook and Her Farmer",
@@ -550,7 +552,9 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJM1mnOreAj4ARD9XM0bAUOuM",
+    "website": "http://www.thecookandherfarmer.com/"
   },
   {
     "name": "Quinn's Lighthouse",
@@ -558,7 +562,9 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJgzSQ8t2Gj4AR8XRuFFazhaU",
+    "website": "https://www.doordash.com/store/quinn's-lighthouse-restaurant-pub-&-bar-oakland-28314070/39648750/?srsltid=AfmBOopbUdtsDc4IQXlhS221Np4WvVkmHRVCItTnCEGhgz4AWKxWiJlD"
   },
   {
     "name": "Fable",
@@ -566,7 +572,9 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJ369T0Rp-j4ARftWt7DRMdo4",
+    "website": "https://fablesf.com/?utm_source=google"
   },
   {
     "name": "Anchor Oyster Bar",
@@ -574,7 +582,9 @@
     "category": "seafood",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJwRgt0Bp-j4ARfsBKlfJ4v1M",
+    "website": "http://www.anchoroysterbar.com/"
   },
   {
     "name": "Orphan Andy's Restaurant",
@@ -582,7 +592,9 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJcff_WBt-j4ARS273SYuSWYs",
+    "website": "https://orphanandys.site/"
   },
   {
     "name": "L'Ardoise Bistro",
@@ -590,7 +602,10 @@
     "category": "french",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJ59pRbR1-j4ARKfQUFqmo33o",
+    "website": "http://www.lardoisesf.com/",
+    "toastUrl": "https://order.toasttab.com/online/lardoisebistro"
   },
   {
     "name": "Poesia",
@@ -598,7 +613,10 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJKUx3PBt-j4ARoP2S2YVI8NE",
+    "website": "https://www.poesiasf.com/",
+    "toastUrl": "https://order.toasttab.com/online/poesia"
   },
   {
     "name": "Starbelly",
@@ -606,7 +624,10 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJs6YBYhx-j4AR4LUJq9SFQt0",
+    "website": "https://starbellysf.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Frances",
@@ -614,7 +635,9 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJky2knBt-j4ARXAdR3-GAWM8",
+    "website": "http://www.frances-sf.com/"
   },
   {
     "name": "Flora King Steakhouse",
@@ -622,7 +645,9 @@
     "category": "steakhouse",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJSTfMZgB_j4AR5uf01T74jvA",
+    "website": "https://www.flora-king.com/"
   },
   {
     "name": "Potto",
@@ -630,7 +655,9 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJb1Soe3p_j4AR4SyJ84wfoXM",
+    "website": "http://potto.us/"
   },
   {
     "name": "Blind Butcher",
@@ -638,6 +665,8 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJ2eGrYB9_j4ARQ20xMQCbGiM",
+    "website": "https://blindbutcher.com/"
   }
 ]
