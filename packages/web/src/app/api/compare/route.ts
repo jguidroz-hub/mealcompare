@@ -12,18 +12,13 @@ import {
 /**
  * POST /api/compare
  * 
- * Takes a cart from one platform and returns price comparison across others.
- * 
- * Server-side capabilities:
- * - Uber Eats: FULL (search + menu + real prices)
- * - DoorDash: Estimates only (Cloudflare blocks server-side)
- * - Grubhub: Estimates only (auth required)
- * 
- * The Chrome extension supplements with client-side scraping for DD/GH.
+ * Uber Eats = real prices (server-side API access)
+ * DoorDash/Grubhub = estimates (blocked server-side)
+ * Direct = estimated savings model (no markup, no service fee)
  */
 
 const UE_API = 'https://www.ubereats.com/api';
-const UE_HEADERS = {
+const UE_HEADERS: Record<string, string> = {
   'Content-Type': 'application/json',
   'Accept': 'application/json',
   'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
@@ -41,6 +36,11 @@ interface CompareBody {
   items: CartItem[];
   deliveryAddress?: string;
   metro?: string;
+  // Extension can provide pre-scraped data from other platforms
+  clientData?: {
+    platform: Platform;
+    menuItems: Array<{ name: string; price: number }>;
+  }[];
 }
 
 export async function POST(req: NextRequest) {
@@ -55,24 +55,37 @@ export async function POST(req: NextRequest) {
     const coords = METRO_COORDS[metro] ?? METRO_COORDS.austin;
     const quotes: PlatformQuote[] = [];
 
-    // Always try Uber Eats (unless that's the source platform)
+    // Always try Uber Eats with real prices (unless that's the source)
     if (sourcePlatform !== 'ubereats') {
       const ueQuote = await getUberEatsQuote(restaurantName, items, coords);
       if (ueQuote) quotes.push(ueQuote);
     }
 
-    // DoorDash estimate (server-side can't get real prices)
+    // DoorDash estimate (or use client-scraped data if provided)
     if (sourcePlatform !== 'doordash') {
-      quotes.push(estimateDoorDashQuote(restaurantName, items, coords));
+      const clientDD = body.clientData?.find(d => d.platform === 'doordash');
+      if (clientDD) {
+        quotes.push(buildQuoteFromClientData('doordash', restaurantName, items, clientDD.menuItems, coords));
+      } else {
+        quotes.push(estimatePlatformQuote('doordash', restaurantName, items, coords, 0.12, 0.15, 399));
+      }
     }
 
-    // Grubhub estimate
+    // Grubhub estimate (or use client-scraped data)
     if (sourcePlatform !== 'grubhub') {
-      quotes.push(estimateGrubhubQuote(restaurantName, items, coords));
+      const clientGH = body.clientData?.find(d => d.platform === 'grubhub');
+      if (clientGH) {
+        quotes.push(buildQuoteFromClientData('grubhub', restaurantName, items, clientGH.menuItems, coords));
+      } else {
+        quotes.push(estimatePlatformQuote('grubhub', restaurantName, items, coords, 0.10, 0.12, 499));
+      }
     }
 
-    // Direct ordering estimate (always include — this is MealCompare's key value)
+    // Direct ordering (always include)
     quotes.push(estimateDirectQuote(restaurantName, items, coords));
+
+    // Pickup option (always cheapest if available)
+    quotes.push(estimatePickupQuote(restaurantName, items, coords));
 
     // Sort by total ascending
     quotes.sort((a, b) => a.fees.total - b.fees.total);
@@ -102,7 +115,7 @@ async function getUberEatsQuote(
   coords: { lat: number; lng: number; taxRate: number }
 ): Promise<PlatformQuote | null> {
   try {
-    // 1. Search
+    // Search
     const searchRes = await fetch(`${UE_API}/getSearchSuggestionsV1?localeCode=en-US`, {
       method: 'POST',
       headers: UE_HEADERS,
@@ -115,27 +128,24 @@ async function getUberEatsQuote(
     });
 
     if (!searchRes.ok) return null;
-
     const searchData = await searchRes.json();
     const stores = (searchData?.data ?? []).filter((s: any) => s.type === 'store');
     if (stores.length === 0) return null;
 
     const store = stores[0].store;
-    const storeUuid = store?.uuid;
-    if (!storeUuid) return null;
+    if (!store?.uuid) return null;
 
-    // 2. Get menu
-    const menuRes = await fetch(`${UE_API}/getStoreV1?storeUuid=${storeUuid}`, {
+    // Get menu
+    const menuRes = await fetch(`${UE_API}/getStoreV1?storeUuid=${store.uuid}`, {
       method: 'POST',
       headers: UE_HEADERS,
-      body: JSON.stringify({ storeUuid, sfNuggetCount: 0 }),
+      body: JSON.stringify({ storeUuid: store.uuid, sfNuggetCount: 0 }),
     });
 
     if (!menuRes.ok) return null;
-
     const menuData = await menuRes.json();
 
-    // 3. Extract all menu items
+    // Extract menu items
     const menuItems: Array<{ name: string; normalizedName: string; price: number }> = [];
     const sections = menuData?.data?.catalogSectionsMap ?? {};
     for (const rows of Object.values(sections)) {
@@ -145,60 +155,45 @@ async function getUberEatsQuote(
             menuItems.push({
               name: item.title,
               normalizedName: normalizeMenuItemName(item.title),
-              price: item.price, // Already in cents
+              price: item.price,
             });
           }
         }
       }
     }
 
-    // 4. Match cart items to UE menu
+    // Match cart items
     let subtotal = 0;
     let matchedCount = 0;
-
     for (const cartItem of items) {
       const match = findBestMatch(cartItem, menuItems);
       if (match) {
         subtotal += match.price * cartItem.quantity;
         matchedCount++;
       } else {
-        // Use source price as fallback
         subtotal += cartItem.price * cartItem.quantity;
       }
     }
 
     const confidence = items.length > 0 ? matchedCount / items.length : 0;
-
-    // 5. Estimate fees
     const serviceFee = Math.min(Math.round(subtotal * 0.15), 800);
-    const deliveryFee = 499; // Default UE delivery fee
+    const deliveryFee = 499;
     const smallOrderFee = subtotal < 1000 ? 200 : 0;
     const tax = Math.round(subtotal * coords.taxRate);
     const sourceSubtotal = items.reduce((s, i) => s + i.price * i.quantity, 0);
-
     const total = subtotal + serviceFee + deliveryFee + smallOrderFee + tax;
 
     return {
       platform: 'ubereats',
       restaurant: {
         name: store.title ?? restaurantName,
-        platformId: storeUuid,
-        platformUrl: `https://www.ubereats.com/store/${store.slug}/${storeUuid}`,
+        platformId: store.uuid,
+        platformUrl: `https://www.ubereats.com/store/${store.slug}/${store.uuid}`,
       },
-      fees: {
-        subtotal,
-        platformMarkup: subtotal - sourceSubtotal,
-        serviceFee,
-        deliveryFee,
-        smallOrderFee,
-        tax,
-        tip: 0,
-        discount: 0,
-        total,
-      },
+      fees: { subtotal, platformMarkup: subtotal - sourceSubtotal, serviceFee, deliveryFee, smallOrderFee, tax, tip: 0, discount: 0, total },
       estimatedMinutes: null,
       available: true,
-      deepLink: `https://www.ubereats.com/store/${store.slug}/${storeUuid}`,
+      deepLink: `https://www.ubereats.com/store/${store.slug}/${store.uuid}`,
       confidence,
       capturedAt: new Date().toISOString(),
     };
@@ -208,137 +203,129 @@ async function getUberEatsQuote(
   }
 }
 
-// ─── DoorDash (Estimate Only) ─────────────────────────────────
+// ─── Platform Estimates ────────────────────────────────────────
 
-function estimateDoorDashQuote(
+function estimatePlatformQuote(
+  platform: Platform,
   restaurantName: string,
   items: CartItem[],
-  coords: { lat: number; lng: number; taxRate: number }
+  coords: { lat: number; lng: number; taxRate: number },
+  markupRate: number,
+  serviceFeeRate: number,
+  baseDeliveryFee: number
 ): PlatformQuote {
-  // Use source prices + DoorDash's known fee structure
-  const subtotal = items.reduce((s, i) => s + i.price * i.quantity, 0);
-  // DoorDash typically marks up 10-15% vs direct
-  const markup = Math.round(subtotal * 0.12);
-  const adjustedSubtotal = subtotal + markup;
+  const sourceSubtotal = items.reduce((s, i) => s + i.price * i.quantity, 0);
+  const markup = Math.round(sourceSubtotal * markupRate);
+  const subtotal = sourceSubtotal + markup;
+  const serviceFee = Math.min(Math.round(subtotal * serviceFeeRate), 800);
+  const smallOrderFee = subtotal < 1200 ? 250 : 0;
+  const tax = Math.round(subtotal * coords.taxRate);
+  const total = subtotal + serviceFee + baseDeliveryFee + smallOrderFee + tax;
 
-  const serviceFee = Math.min(Math.round(adjustedSubtotal * 0.15), 800);
-  const deliveryFee = 399;
-  const smallOrderFee = adjustedSubtotal < 1200 ? 250 : 0;
-  const tax = Math.round(adjustedSubtotal * coords.taxRate);
-  const total = adjustedSubtotal + serviceFee + deliveryFee + smallOrderFee + tax;
-
-  return {
-    platform: 'doordash',
-    restaurant: {
-      name: restaurantName,
-      platformUrl: `https://www.doordash.com/search/store/${encodeURIComponent(restaurantName)}/`,
-    },
-    fees: {
-      subtotal: adjustedSubtotal,
-      platformMarkup: markup,
-      serviceFee,
-      deliveryFee,
-      smallOrderFee,
-      tax,
-      tip: 0,
-      discount: 0,
-      total,
-    },
-    estimatedMinutes: null,
-    available: true,
-    unavailableReason: undefined,
-    deepLink: `https://www.doordash.com/search/store/${encodeURIComponent(restaurantName)}/`,
-    confidence: 0.3, // Low — estimate only
-    capturedAt: new Date().toISOString(),
+  const urls: Record<string, string> = {
+    doordash: `https://www.doordash.com/search/store/${encodeURIComponent(restaurantName)}/`,
+    grubhub: `https://www.grubhub.com/search?orderMethod=delivery&query=${encodeURIComponent(restaurantName)}`,
   };
-}
-
-// ─── Grubhub (Estimate Only) ──────────────────────────────────
-
-function estimateGrubhubQuote(
-  restaurantName: string,
-  items: CartItem[],
-  coords: { lat: number; lng: number; taxRate: number }
-): PlatformQuote {
-  const subtotal = items.reduce((s, i) => s + i.price * i.quantity, 0);
-  const markup = Math.round(subtotal * 0.10);
-  const adjustedSubtotal = subtotal + markup;
-
-  const serviceFee = Math.round(adjustedSubtotal * 0.12);
-  const deliveryFee = 499;
-  const smallOrderFee = adjustedSubtotal < 1200 ? 200 : 0;
-  const tax = Math.round(adjustedSubtotal * coords.taxRate);
-  const total = adjustedSubtotal + serviceFee + deliveryFee + smallOrderFee + tax;
 
   return {
-    platform: 'grubhub',
-    restaurant: {
-      name: restaurantName,
-      platformUrl: `https://www.grubhub.com/search?orderMethod=delivery&query=${encodeURIComponent(restaurantName)}`,
-    },
-    fees: {
-      subtotal: adjustedSubtotal,
-      platformMarkup: markup,
-      serviceFee,
-      deliveryFee,
-      smallOrderFee,
-      tax,
-      tip: 0,
-      discount: 0,
-      total,
-    },
+    platform,
+    restaurant: { name: restaurantName, platformUrl: urls[platform] },
+    fees: { subtotal, platformMarkup: markup, serviceFee, deliveryFee: baseDeliveryFee, smallOrderFee, tax, tip: 0, discount: 0, total },
     estimatedMinutes: null,
     available: true,
-    deepLink: `https://www.grubhub.com/search?orderMethod=delivery&query=${encodeURIComponent(restaurantName)}`,
+    deepLink: urls[platform] ?? '',
     confidence: 0.3,
     capturedAt: new Date().toISOString(),
   };
 }
 
-// ─── Direct Ordering via Toast/Square (Key Value Prop) ─────────
+// ─── Client-Scraped Data Quote ─────────────────────────────────
+
+function buildQuoteFromClientData(
+  platform: Platform,
+  restaurantName: string,
+  items: CartItem[],
+  menuItems: Array<{ name: string; price: number }>,
+  coords: { lat: number; lng: number; taxRate: number }
+): PlatformQuote {
+  let subtotal = 0;
+  let matchedCount = 0;
+  const normalizedMenu = menuItems.map(m => ({ ...m, normalizedName: normalizeMenuItemName(m.name) }));
+
+  for (const cartItem of items) {
+    const match = findBestMatch(cartItem, normalizedMenu);
+    if (match) {
+      subtotal += match.price * cartItem.quantity;
+      matchedCount++;
+    } else {
+      subtotal += cartItem.price * cartItem.quantity;
+    }
+  }
+
+  const sourceSubtotal = items.reduce((s, i) => s + i.price * i.quantity, 0);
+  const serviceFeeRate = platform === 'doordash' ? 0.15 : 0.12;
+  const serviceFee = Math.min(Math.round(subtotal * serviceFeeRate), 800);
+  const deliveryFee = platform === 'doordash' ? 399 : 499;
+  const smallOrderFee = subtotal < 1200 ? 250 : 0;
+  const tax = Math.round(subtotal * coords.taxRate);
+  const total = subtotal + serviceFee + deliveryFee + smallOrderFee + tax;
+
+  return {
+    platform,
+    restaurant: { name: restaurantName },
+    fees: { subtotal, platformMarkup: subtotal - sourceSubtotal, serviceFee, deliveryFee, smallOrderFee, tax, tip: 0, discount: 0, total },
+    estimatedMinutes: null,
+    available: true,
+    deepLink: '',
+    confidence: items.length > 0 ? matchedCount / items.length : 0,
+    capturedAt: new Date().toISOString(),
+  };
+}
+
+// ─── Direct Ordering ───────────────────────────────────────────
 
 function estimateDirectQuote(
   restaurantName: string,
   items: CartItem[],
   coords: { lat: number; lng: number; taxRate: number }
 ): PlatformQuote {
-  // Direct ordering = no platform markup, no service fee
-  // Menu prices are typically 10-15% lower than DD/UE/GH because
-  // restaurants don't need to offset the 28-33% platform commission
   const platformSubtotal = items.reduce((s, i) => s + i.price * i.quantity, 0);
-
-  // Estimate direct menu prices (12% lower than platform prices on average)
-  const directSubtotal = Math.round(platformSubtotal * 0.88);
-  const platformMarkup = directSubtotal - platformSubtotal; // Negative = savings
-
+  const directSubtotal = Math.round(platformSubtotal * 0.88); // ~12% lower (no commission markup)
   const tax = Math.round(directSubtotal * coords.taxRate);
-  const deliveryFee = 499; // Toast/Square flat ~$4.99
-
-  // Build Toast URL (best guess)
+  const deliveryFee = 499;
   const slug = restaurantName.toLowerCase().replace(/[^a-z0-9]+/g, '-');
-  const toastUrl = `https://order.toasttab.com/online/${slug}`;
 
   return {
     platform: 'direct',
-    restaurant: {
-      name: `${restaurantName} (Direct Order)`,
-      platformUrl: toastUrl,
-    },
-    fees: {
-      subtotal: directSubtotal,
-      platformMarkup,        // Negative = no markup, actually cheaper
-      serviceFee: 0,         // $0 service fee (vs $2-8 on platforms)
-      deliveryFee,           // Flat rate (vs demand-priced on platforms)
-      smallOrderFee: 0,      // No small order fee
-      tax,
-      tip: 0,
-      discount: 0,
-      total: directSubtotal + deliveryFee + tax,
-    },
+    restaurant: { name: `${restaurantName} (Direct)`, platformUrl: `https://order.toasttab.com/online/${slug}` },
+    fees: { subtotal: directSubtotal, platformMarkup: directSubtotal - platformSubtotal, serviceFee: 0, deliveryFee, smallOrderFee: 0, tax, tip: 0, discount: 0, total: directSubtotal + deliveryFee + tax },
     estimatedMinutes: null,
     available: true,
     deepLink: `https://www.google.com/search?q=${encodeURIComponent(restaurantName + ' order online direct')}`,
-    confidence: 0.6, // Higher than DD/GH estimates — direct pricing pattern is reliable
+    confidence: 0.6,
+    capturedAt: new Date().toISOString(),
+  };
+}
+
+// ─── Pickup ────────────────────────────────────────────────────
+
+function estimatePickupQuote(
+  restaurantName: string,
+  items: CartItem[],
+  coords: { lat: number; lng: number; taxRate: number }
+): PlatformQuote {
+  const platformSubtotal = items.reduce((s, i) => s + i.price * i.quantity, 0);
+  const directSubtotal = Math.round(platformSubtotal * 0.88);
+  const tax = Math.round(directSubtotal * coords.taxRate);
+
+  return {
+    platform: 'pickup',
+    restaurant: { name: `${restaurantName} (Pickup)` },
+    fees: { subtotal: directSubtotal, platformMarkup: directSubtotal - platformSubtotal, serviceFee: 0, deliveryFee: 0, smallOrderFee: 0, tax, tip: 0, discount: 0, total: directSubtotal + tax },
+    estimatedMinutes: null,
+    available: true,
+    deepLink: `https://www.google.com/maps/search/${encodeURIComponent(restaurantName)}`,
+    confidence: 0.7,
     capturedAt: new Date().toISOString(),
   };
 }
@@ -347,26 +334,38 @@ function estimateDirectQuote(
 
 function findBestMatch(
   cartItem: CartItem,
-  menuItems: Array<{ name: string; normalizedName: string; price: number }>
+  menuItems: Array<{ name: string; price: number; normalizedName?: string }>
 ): { name: string; price: number } | null {
   const target = cartItem.normalizedName;
   let best: { name: string; price: number; score: number } | null = null;
 
   for (const menuItem of menuItems) {
-    const score = similarity(target, menuItem.normalizedName);
-    if (score > 0.55 && (!best || score > best.score)) {
+    const menuNorm = menuItem.normalizedName ?? normalizeMenuItemName(menuItem.name);
+    const score = similarity(target, menuNorm);
+    if (score > 0.50 && (!best || score > best.score)) {
       best = { name: menuItem.name, price: menuItem.price, score };
     }
   }
-
   return best;
 }
 
 function similarity(a: string, b: string): number {
   if (a === b) return 1.0;
+
   const tokensA = new Set(a.split(/\s+/));
   const tokensB = new Set(b.split(/\s+/));
   const intersection = new Set([...tokensA].filter(t => tokensB.has(t)));
   const union = new Set([...tokensA, ...tokensB]);
-  return union.size > 0 ? intersection.size / union.size : 0;
+  const jaccard = union.size > 0 ? intersection.size / union.size : 0;
+
+  // Containment bonus
+  if (a.length >= 3 && b.includes(a)) return Math.max(jaccard, 0.8);
+  if (b.length >= 3 && a.includes(b)) return Math.max(jaccard, 0.8);
+
+  // Numbered item match (#1, #2)
+  const numA = a.match(/^#(\d+)/);
+  const numB = b.match(/^#(\d+)/);
+  if (numA && numB && numA[1] === numB[1]) return Math.max(jaccard, 0.75);
+
+  return jaccard;
 }
