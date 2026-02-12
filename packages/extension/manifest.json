@@ -1,0 +1,46 @@
+{
+  "manifest_version": 3,
+  "name": "MealCompare",
+  "description": "Find cheaper prices for your food delivery order across DoorDash, Uber Eats, Grubhub & direct ordering.",
+  "version": "0.1.0",
+  "permissions": ["activeTab", "storage"],
+  "host_permissions": [
+    "https://www.doordash.com/*",
+    "https://www.ubereats.com/*",
+    "https://www.grubhub.com/*"
+  ],
+  "background": {
+    "service_worker": "src/background.ts",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.doordash.com/*"],
+      "js": ["src/content/doordash.ts"],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": ["https://www.ubereats.com/*"],
+      "js": ["src/content/ubereats.ts"],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": ["https://www.grubhub.com/*"],
+      "js": ["src/content/grubhub.ts"],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_popup": "src/popup/popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}

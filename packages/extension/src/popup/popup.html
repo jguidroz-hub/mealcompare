@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MealCompare</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      width: 380px;
+      min-height: 200px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #0f172a;
+      color: #e2e8f0;
+      padding: 16px;
+    }
+    .header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 16px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid #1e293b;
+    }
+    .header h1 { font-size: 18px; font-weight: 700; }
+    .header .logo { font-size: 24px; }
+    .empty {
+      text-align: center;
+      padding: 32px 16px;
+      color: #94a3b8;
+    }
+    .empty h2 { font-size: 15px; margin-bottom: 8px; color: #cbd5e1; }
+    .empty p { font-size: 13px; line-height: 1.5; }
+    .loading {
+      text-align: center;
+      padding: 24px;
+    }
+    .loading .spinner {
+      width: 32px; height: 32px;
+      border: 3px solid #1e293b;
+      border-top-color: #3b82f6;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 0 auto 12px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .restaurant {
+      font-size: 14px;
+      color: #94a3b8;
+      margin-bottom: 12px;
+    }
+    .savings-banner {
+      background: linear-gradient(135deg, #059669, #10b981);
+      border-radius: 10px;
+      padding: 14px 16px;
+      margin-bottom: 14px;
+      text-align: center;
+    }
+    .savings-banner .amount {
+      font-size: 28px;
+      font-weight: 800;
+      color: white;
+    }
+    .savings-banner .label {
+      font-size: 12px;
+      color: rgba(255,255,255,0.85);
+      margin-top: 2px;
+    }
+    .quote {
+      background: #1e293b;
+      border-radius: 8px;
+      padding: 12px;
+      margin-bottom: 8px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+    .quote:hover { background: #334155; }
+    .quote.best { border: 1px solid #10b981; }
+    .quote .platform {
+      font-size: 14px;
+      font-weight: 600;
+    }
+    .quote .total {
+      font-size: 16px;
+      font-weight: 700;
+    }
+    .quote .best-tag {
+      background: #10b981;
+      color: white;
+      font-size: 10px;
+      font-weight: 700;
+      padding: 2px 6px;
+      border-radius: 4px;
+      margin-left: 8px;
+    }
+    .quote .unavailable {
+      color: #64748b;
+      font-size: 12px;
+      font-style: italic;
+    }
+    .fee-details {
+      font-size: 11px;
+      color: #64748b;
+      margin-top: 4px;
+    }
+    .footer {
+      margin-top: 12px;
+      text-align: center;
+      font-size: 11px;
+      color: #475569;
+    }
+    .platform-icon {
+      display: inline-block;
+      width: 20px;
+      height: 20px;
+      border-radius: 4px;
+      margin-right: 6px;
+      vertical-align: middle;
+      font-size: 14px;
+      text-align: center;
+      line-height: 20px;
+    }
+    .dd { background: #FF3008; }
+    .ue { background: #06C167; }
+    .gh { background: #F63440; }
+    .dr { background: #3b82f6; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <span class="logo">🍔</span>
+    <h1>MealCompare</h1>
+  </div>
+  <div id="content">
+    <div class="empty">
+      <h2>Browse a delivery app to get started</h2>
+      <p>Open DoorDash, Uber Eats, or Grubhub and add items to your cart. MealCompare will automatically find you the best price.</p>
+    </div>
+  </div>
+  <div class="footer">Prices are estimates. Always verify before ordering.</div>
+  <script src="popup.ts" type="module"></script>
+</body>
+</html>
