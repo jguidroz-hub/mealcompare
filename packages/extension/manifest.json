@@ -10,28 +10,28 @@
     "https://www.grubhub.com/*"
   ],
   "background": {
-    "service_worker": "src/background.ts",
+    "service_worker": "background.js",
     "type": "module"
   },
   "content_scripts": [
     {
       "matches": ["https://www.doordash.com/*"],
-      "js": ["src/content/doordash.ts"],
+      "js": ["content/doordash.js"],
       "run_at": "document_idle"
     },
     {
       "matches": ["https://www.ubereats.com/*"],
-      "js": ["src/content/ubereats.ts"],
+      "js": ["content/ubereats.js"],
       "run_at": "document_idle"
     },
     {
       "matches": ["https://www.grubhub.com/*"],
-      "js": ["src/content/grubhub.ts"],
+      "js": ["content/grubhub.js"],
       "run_at": "document_idle"
     }
   ],
   "action": {
-    "default_popup": "src/popup/popup.html",
+    "default_popup": "popup/popup.html",
     "default_icon": {
       "16": "icons/icon16.png",
       "48": "icons/icon48.png",
