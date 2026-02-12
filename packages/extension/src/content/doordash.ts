@@ -1,3 +1,7 @@
+function normalizeMenuItemName(name: string): string { return name.toLowerCase().replace(/[®™©]/g, "").replace(/\s*\(.*?\)\s*/g, "").replace(/\s*-\s*delivered\s*/gi, "").replace(/\s*\[.*?\]\s*/g, "").replace(/#(\d+)\s+/g, "#$1 ").replace(/\s*-\s*/g, " ").replace(/[^a-z0-9#\s]/g, "").replace(/\s+/g, " ").trim(); }
+type CartDetection = { platform: string; restaurantName: string; items: CartItem[]; pageUrl: string; };
+type CartItem = { name: string; normalizedName: string; price: number; quantity: number; };
+
 /**
  * DoorDash content script — detects cart and extracts items.
  * 
@@ -10,7 +14,7 @@
  * then parses DOM for cart items.
  */
 
-import { CartDetection, CartItem, normalizeMenuItemName } from '@mealcompare/shared';
+
 
 let lastCartHash = '';
 

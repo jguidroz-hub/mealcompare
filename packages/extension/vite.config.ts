@@ -1,6 +1,9 @@
 import { defineConfig } from 'vite';
 import { resolve } from 'path';
 
+// Chrome MV3 content scripts don't support ES module imports.
+// We build each entry as a separate bundle using multiple Vite builds.
+// The background worker and popup DO support ES modules.
 export default defineConfig({
   build: {
     outDir: 'dist',
@@ -11,17 +14,21 @@ export default defineConfig({
         'content/doordash': resolve(__dirname, 'src/content/doordash.ts'),
         'content/ubereats': resolve(__dirname, 'src/content/ubereats.ts'),
         'content/grubhub': resolve(__dirname, 'src/content/grubhub.ts'),
-        'content/doordash-scraper': resolve(__dirname, 'src/content/doordash-scraper.ts'),
         'popup/popup': resolve(__dirname, 'src/popup/popup.ts'),
       },
       output: {
         entryFileNames: '[name].js',
-        chunkFileNames: 'chunks/[name].js',
         format: 'es',
+        // Prevent chunk splitting — inline shared code into each entry
+        manualChunks: () => undefined,
       },
     },
     target: 'chrome120',
-    minify: false, // Easier debugging during dev
+    minify: false,
+    // Inline all imports for content scripts
+    commonjsOptions: {
+      include: [],
+    },
   },
   resolve: {
     alias: {

@@ -118,7 +118,7 @@ async function getMetro(): Promise<string> {
 chrome.runtime.onInstalled.addListener(() => {
   chrome.storage.sync.set({
     metro: 'austin',
-    apiBase: 'http://localhost:3001',
+    apiBase: 'https://mealcompare.vercel.app',
   });
   console.log('[MealCompare] Extension installed. Default metro: austin');
 });
