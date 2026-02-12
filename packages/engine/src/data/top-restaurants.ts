@@ -34,6 +34,9 @@ export const DC_RESTAURANTS: RestaurantData[] = [
   { name: 'Northside Social', slug: 'northsidesocial', category: 'cafe', metros: ['dc'], toastUrl: 'https://northsidesocialfallschurch-slhmsdug.toast.site/' },
   { name: 'PLNT Burger', slug: 'plntburger', category: 'burgers', metros: ['dc'], toastUrl: 'https://www.toasttab.com/local/plnt-burger-fav/r-58793d11-6ce8-4b04-b57a-0230495343ba' },
   { name: 'On Toast', slug: 'ontoast', category: 'cafe', metros: ['dc'], toastUrl: 'https://www.toasttab.com/local/order/on-toast-1309-5th-street-northeast/r-a0ddb273-1308-4db6-8032-2b411510fb9f' },
+  { name: 'Downtown Shawarma', slug: 'downtownshawarma', category: 'middle-eastern', metros: ['dc'], toastUrl: 'https://downtownshawarma.toast.site/' },
+  { name: "Guapo's Restaurant", slug: 'guapos', category: 'mexican', metros: ['dc'], toastUrl: 'https://guaposmainpage.toast.site/' },
+  { name: 'Tortas y Tacos La Chiquita', slug: 'tortasytacoslachiquita', category: 'mexican', metros: ['dc'], toastUrl: 'https://tortasytacoslachiquitaiii.toast.site/' },
   
   // National chains (both markets)
   { name: 'Chipotle', slug: 'chipotle', category: 'mexican', metros: ['austin', 'dc'], websiteOrderUrl: 'https://order.chipotle.com' },
