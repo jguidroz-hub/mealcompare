@@ -60,6 +60,8 @@ export const DC_RESTAURANTS: RestaurantData[] = [
   { name: 'Rendezvous', slug: 'rendezvous', category: 'french', metros: ['dc'], toastUrl: 'https://rendezvous.toast.site/' },
   { name: 'Red Rocks', slug: 'redrocks', category: 'pizza', metros: ['dc'], toastUrl: 'https://redrocks.toast.site/' },
   { name: 'Rito Loco', slug: 'ritoloco', category: 'mexican', metros: ['dc'], toastUrl: 'https://ritoloco.toast.site/' },
+  { name: 'Crisfield Seafood', slug: 'crisfieldseafood', category: 'seafood', metros: ['dc'], toastUrl: 'https://crisfieldseafood.toast.site/' },
+  { name: 'Flavor After Ours', slug: 'flavorafterours', category: 'multicultural', metros: ['dc'], toastUrl: 'https://flavorafterours.toast.site/' },
   
   // National chains (both markets)
   { name: 'Chipotle', slug: 'chipotle', category: 'mexican', metros: ['austin', 'dc'], websiteOrderUrl: 'https://order.chipotle.com' },
