@@ -1126,8 +1126,8 @@ export const PHILLY_RESTAURANTS: RestaurantData[] = [
   { name: 'White Dog Cafe University City', slug: 'whitedogcafeuniversitycity', category: 'cafe', metros: ['philly'] },
   { name: 'Walnut Street Cafe', slug: 'walnutstreetcafe', category: 'cafe', metros: ['philly'] },
   { name: 'LaScala\'s FIRE - University City', slug: 'lascalasfire-universitycity', category: 'restaurant', metros: ['philly'] },
-  { name: 'Sabrina\'s Cafe', slug: 'sabrinascafe', category: 'cafe', metros: ['philly'] },
-  { name: 'CO-OP Restaurant & Bar', slug: 'co-oprestaurantbar', category: 'restaurant', metros: ['philly'] },
+  { name: 'Sabrina\'s Cafe', slug: 'sabrinascafe', category: 'cafe', metros: ['philly'], websiteOrderUrl: 'https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js' },
+  { name: 'CO-OP Restaurant & Bar', slug: 'co-oprestaurantbar', category: 'restaurant', metros: ['philly'], websiteOrderUrl: 'https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js' },
   { name: 'New Deck Tavern', slug: 'newdecktavern', category: 'restaurant', metros: ['philly'] },
 ];
 

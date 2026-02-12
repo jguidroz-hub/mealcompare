@@ -537,7 +537,9 @@
     "category": "cafe",
     "metros": [
       "philly"
-    ]
+    ],
+    "placeId": "ChIJ6_xHq0jGxokR7ccgMwIHlns",
+    "website": "http://www.walnutstreetcafe.com/"
   },
   {
     "name": "LaScala's FIRE - University City",
@@ -545,7 +547,9 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ]
+    ],
+    "placeId": "ChIJufUgjL_HxokRHjtaw5yvo3s",
+    "website": "https://lascalasfire.com/"
   },
   {
     "name": "Sabrina's Cafe",
@@ -553,7 +557,10 @@
     "category": "cafe",
     "metros": [
       "philly"
-    ]
+    ],
+    "placeId": "ChIJxV6oLs3HxokRAzDNE-V7_pQ",
+    "website": "http://www.sabrinascafe.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "CO-OP Restaurant & Bar",
@@ -561,7 +568,10 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ]
+    ],
+    "placeId": "ChIJe4XbJVDGxokReZKEED7Ojys",
+    "website": "https://www.coopphilly.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "New Deck Tavern",
@@ -569,6 +579,8 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ]
+    ],
+    "placeId": "ChIJoWUGiFDGxokRdLTsrPnVAT0",
+    "website": "http://www.newdecktavern.com/"
   }
 ]
