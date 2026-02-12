@@ -561,7 +561,9 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ]
+    ],
+    "placeId": "ChIJxdQRALm6woARvBJN6IU2g4M",
+    "website": "https://www.greatwhite.cafe/"
   },
   {
     "name": "Ospi Venice",
@@ -569,7 +571,10 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ]
+    ],
+    "placeId": "ChIJmWxvuXq7woAR2IhTan5Zzp0",
+    "website": "https://ospi.com/venice",
+    "toastUrl": "https://order.toasttab.com/online/ospi-costa-mesa"
   },
   {
     "name": "Beachside Restaurant & Bar",
@@ -577,7 +582,9 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ]
+    ],
+    "placeId": "ChIJh2Ge9Zm6woARvXJCvl4zQVY",
+    "website": "http://www.jamaicabayinn.com/beachside-restaurant"
   },
   {
     "name": "71Above",
@@ -585,7 +592,9 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ]
+    ],
+    "placeId": "ChIJg4Tqa7PHwoARrWA-2kwYfDE",
+    "website": "https://www.71above.la/"
   },
   {
     "name": "Bottega Louie",
@@ -593,7 +602,9 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ]
+    ],
+    "placeId": "ChIJ_yXhTrTHwoARU36hVDFInhg",
+    "website": "http://www.bottegalouie.com/"
   },
   {
     "name": "Maccheroni Republic",
@@ -601,7 +612,9 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ]
+    ],
+    "placeId": "ChIJvVvovUvGwoARYrOMSp23rpQ",
+    "website": "http://www.maccheronirepublic.com/"
   },
   {
     "name": "Rossoblu",
@@ -609,7 +622,10 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ]
+    ],
+    "placeId": "ChIJc6BaWc3HwoARjoG2U9gMA3Q",
+    "website": "https://www.rossoblula.com/",
+    "toastUrl": "https://order.toasttab.com/online/rossoblu"
   },
   {
     "name": "Manuela",
@@ -617,7 +633,9 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ]
+    ],
+    "placeId": "ChIJ1c-IyT7GwoARIYcIK2TyJ3k",
+    "website": "https://manuela-la.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
   },
   {
     "name": "Fleming’s Prime Steakhouse & Wine Bar",
@@ -625,7 +643,9 @@
     "category": "steakhouse",
     "metros": [
       "la"
-    ]
+    ],
+    "placeId": "ChIJG5wBgrfHwoARO_TfGQqe4xM",
+    "website": "https://www.flemingssteakhouse.com/Locations/CA/Los-Angeles?y_source=1_MTU1MDMxOTctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
   },
   {
     "name": "Eggslut",
@@ -633,7 +653,9 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ]
+    ],
+    "placeId": "ChIJuQ5bj0vGwoAR8xOTMYQAboQ",
+    "website": "https://grandcentralmarket.com/vendors/eggslut/"
   },
   {
     "name": "Jitlada Restaurant",
@@ -641,7 +663,9 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ]
+    ],
+    "placeId": "ChIJsR6mEFS_woAR-bYcpwWGTSg",
+    "website": "http://jitladala.com/"
   },
   {
     "name": "Spelling Thai Bistro",
@@ -649,7 +673,9 @@
     "category": "thai",
     "metros": [
       "la"
-    ]
+    ],
+    "placeId": "ChIJkeGUcqq5woARgD2fGpraMk4",
+    "website": "https://spellingthai.com/"
   },
   {
     "name": "SAOHA KHAO SOI THAI CUISINE",
@@ -657,7 +683,9 @@
     "category": "thai",
     "metros": [
       "la"
-    ]
+    ],
+    "placeId": "ChIJh1DXJ2O_woARxq7SU9vq6AI",
+    "website": "https://saohakhaosoithai.com/"
   },
   {
     "name": "Civilize Thai Bistro",
@@ -665,7 +693,9 @@
     "category": "thai",
     "metros": [
       "la"
-    ]
+    ],
+    "placeId": "ChIJ3ZNyvSe7woARXjhZwF6366c",
+    "website": "https://civilizethai.com/"
   },
   {
     "name": "Farmhouse Kitchen Thai Cuisine LA",
@@ -673,7 +703,9 @@
     "category": "thai",
     "metros": [
       "la"
-    ]
+    ],
+    "placeId": "ChIJH2mn_KO5woARQu3oO5i8uNw",
+    "website": "https://farmhousethai.com/los-angeles?utm_source=google"
   },
   {
     "name": "Ruen Pair",
@@ -681,7 +713,9 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ]
+    ],
+    "placeId": "ChIJB_8Iy1C_woARO-B5t-OFmpM",
+    "website": "https://www.ruenpairthai.com/"
   },
   {
     "name": "Amphai Northern Thai Food Club",
