@@ -8,189 +8,175 @@ export const metadata: Metadata = {
     title: 'SkipTheFee — Stop Overpaying for Food Delivery',
     description: 'The same order. Different prices. Find the cheapest way to get your food delivered.',
     type: 'website',
-    url: 'https://skipthefee.vercel.app',
-  },
-  twitter: {
-    card: 'summary_large_image',
-    title: 'SkipTheFee — Stop Overpaying for Food Delivery',
-    description: 'Compare total costs across DoorDash, Uber Eats, Grubhub & direct ordering.',
+    url: 'https://skipthefee.app',
   },
 };
-
-const styles = {
-  page: { background: '#0f172a', color: '#e2e8f0', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif', minHeight: '100vh' } as const,
-  container: { maxWidth: '1100px', margin: '0 auto', padding: '0 24px' } as const,
-  nav: { display: 'flex' as const, justifyContent: 'space-between' as const, alignItems: 'center' as const, padding: '20px 0' },
-  badge: { display: 'inline-block', background: '#1e293b', borderRadius: '20px', padding: '6px 16px', fontSize: '13px', color: '#10b981', fontWeight: 600 as const, marginBottom: '24px' },
-  h1: { fontSize: '52px', fontWeight: 800 as const, lineHeight: 1.1, marginBottom: '24px', background: 'linear-gradient(135deg, #e2e8f0, #94a3b8)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' },
-  subtitle: { fontSize: '19px', color: '#94a3b8', lineHeight: 1.6, maxWidth: '600px', margin: '0 auto 40px' },
-  greenBtn: { background: '#10b981', color: 'white', padding: '14px 32px', borderRadius: '10px', textDecoration: 'none' as const, fontWeight: 700 as const, fontSize: '16px', display: 'inline-flex' as const, alignItems: 'center' as const, gap: '8px', border: 'none', cursor: 'pointer' as const },
-  outlineBtn: { background: '#1e293b', color: '#e2e8f0', padding: '14px 32px', borderRadius: '10px', textDecoration: 'none' as const, fontWeight: 600 as const, fontSize: '16px', border: '1px solid #334155' },
-  card: { background: '#1e293b', borderRadius: '16px', padding: '28px', border: '1px solid #334155' },
-  sectionTitle: { fontSize: '36px', fontWeight: 800 as const, textAlign: 'center' as const, marginBottom: '16px' },
-  sectionSubtitle: { fontSize: '16px', color: '#94a3b8', textAlign: 'center' as const, maxWidth: '600px', margin: '0 auto 48px' },
-};
-
-function QuoteRow({ name, total, service, delivery, tag, tagColor, icon, isBest }: {
-  name: string; total: string; service: string; delivery: string; tag: string; tagColor: string; icon: string; isBest?: boolean;
-}) {
-  return (
-    <div style={{
-      background: isBest ? 'rgba(16, 185, 129, 0.1)' : '#0f172a',
-      borderRadius: '10px', padding: '14px 16px', marginBottom: '8px',
-      display: 'flex', justifyContent: 'space-between', alignItems: 'center',
-      border: isBest ? '1px solid rgba(16, 185, 129, 0.3)' : '1px solid transparent',
-    }}>
-      <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
-        <span style={{ fontSize: '18px' }}>{icon}</span>
-        <div>
-          <div style={{ fontWeight: 600, fontSize: '14px' }}>{name}</div>
-          <div style={{ fontSize: '11px', color: '#64748b' }}>Service: {service} · Delivery: {delivery}</div>
-        </div>
-      </div>
-      <div style={{ textAlign: 'right' as const }}>
-        <div style={{ fontWeight: 700, fontSize: '16px' }}>{total}</div>
-        <span style={{ fontSize: '10px', fontWeight: 700, color: 'white', background: tagColor, padding: '2px 6px', borderRadius: '4px' }}>{tag}</span>
-      </div>
-    </div>
-  );
-}
 
 export default function Home() {
   return (
-    <main style={styles.page}>
+    <main>
       {/* Nav */}
-      <div style={styles.container}>
-        <nav style={styles.nav}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-            <span style={{ fontSize: '28px' }}>🍔</span>
-            <span style={{ fontSize: '20px', fontWeight: 800 }}>SkipTheFee</span>
+      <nav style={{ position: 'sticky', top: 0, zIndex: 50, background: 'rgba(10,15,26,0.85)', backdropFilter: 'blur(20px)', borderBottom: '1px solid rgba(255,255,255,0.05)' }}>
+        <div style={{ maxWidth: 1100, margin: '0 auto', padding: '14px 24px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+            <span style={{ fontSize: 24 }}>💰</span>
+            <span style={{ fontSize: 20, fontWeight: 800, letterSpacing: '-0.02em' }}>SkipTheFee</span>
           </div>
-          <div style={{ display: 'flex', gap: '24px', alignItems: 'center' }}>
-            <a href="#how-it-works" style={{ color: '#94a3b8', textDecoration: 'none', fontSize: '14px' }}>How It Works</a>
-            <a href="#savings" style={{ color: '#94a3b8', textDecoration: 'none', fontSize: '14px' }}>Savings</a>
-            <a href="#faq" style={{ color: '#94a3b8', textDecoration: 'none', fontSize: '14px' }}>FAQ</a>
-            <Link href="/restaurants" style={{ color: '#10b981', textDecoration: 'none', fontSize: '14px', fontWeight: 600 }}>Restaurants</Link>
-            <Link href="/install" style={{ ...styles.greenBtn, padding: '8px 20px', fontSize: '14px' }}>
-              Install Extension
+          <div style={{ display: 'flex', gap: 28, alignItems: 'center' }}>
+            <a href="#how" className="desktop-only" style={{ color: '#64748b', textDecoration: 'none', fontSize: 14, fontWeight: 500, transition: 'color 0.15s' }}>How It Works</a>
+            <a href="#fees" className="desktop-only" style={{ color: '#64748b', textDecoration: 'none', fontSize: 14, fontWeight: 500 }}>Hidden Fees</a>
+            <Link href="/restaurants" style={{ color: '#10b981', textDecoration: 'none', fontSize: 14, fontWeight: 600 }}>Restaurants</Link>
+            <Link href="/install" className="btn-glow" style={{ padding: '8px 20px', fontSize: 13, borderRadius: 10 }}>
+              Install Free
             </Link>
           </div>
-        </nav>
-      </div>
+        </div>
+      </nav>
 
       {/* Hero */}
-      <section style={{ textAlign: 'center', padding: '80px 24px 60px', maxWidth: '800px', margin: '0 auto' }}>
-        <div style={styles.badge}>💰 Average savings: $5-15 per order</div>
-        <h1 style={styles.h1}>
-          Stop Overpaying for<br />Food Delivery
-        </h1>
-        <p style={styles.subtitle}>
-          The same order costs different amounts on every platform.
-          SkipTheFee shows you the cheapest option — including delivery fees,
-          service fees, and direct ordering — in one click.
-        </p>
-        <div style={{ display: 'flex', gap: '16px', justifyContent: 'center', flexWrap: 'wrap' as const }}>
-          <Link href="/install" style={styles.greenBtn}>
-            🧩 Install Chrome Extension — Free
-          </Link>
-          <a href="#how-it-works" style={styles.outlineBtn}>See How It Works</a>
-        </div>
-        <p style={{ fontSize: '13px', color: '#475569', marginTop: '16px' }}>
-          Available in 15 cities · 1,154 restaurants · NYC, Chicago, LA, Boston, Miami & more
-        </p>
-      </section>
-
-      {/* Live Example */}
-      <section id="savings" style={{ maxWidth: '640px', margin: '0 auto 80px', padding: '0 24px' }}>
-        <div style={styles.card}>
-          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '20px' }}>
-            <div>
-              <div style={{ fontSize: '13px', color: '#64748b', marginBottom: '4px' }}>Real comparison — Chipotle family order</div>
-              <div style={{ fontSize: '18px', fontWeight: 700 }}>📍 Chipotle — 3 items</div>
-            </div>
-            <div style={{ background: '#10b981', borderRadius: '8px', padding: '8px 14px', textAlign: 'center' as const }}>
-              <div style={{ fontSize: '20px', fontWeight: 800, color: 'white' }}>$12.10</div>
-              <div style={{ fontSize: '10px', color: 'rgba(255,255,255,0.8)' }}>saved</div>
-            </div>
+      <section className="bg-glow" style={{ textAlign: 'center', padding: '100px 24px 80px', maxWidth: 900, margin: '0 auto', position: 'relative' }}>
+        <div className="fade-in-up" style={{ position: 'relative', zIndex: 1 }}>
+          <div style={{ display: 'inline-flex', alignItems: 'center', gap: 8, background: 'rgba(16,185,129,0.08)', border: '1px solid rgba(16,185,129,0.15)', borderRadius: 100, padding: '6px 18px', fontSize: 13, color: '#10b981', fontWeight: 600, marginBottom: 28 }}>
+            <span style={{ width: 6, height: 6, borderRadius: '50%', background: '#10b981' }} /> Average savings: $5–15 per order
           </div>
-          <QuoteRow name="Direct Order" total="$46.08" service="$0.00" delivery="$4.99" tag="BEST PRICE" tagColor="#10b981" icon="🏪" isBest />
-          <QuoteRow name="Grubhub" total="$55.12" service="$4.93" delivery="$4.99" tag="+$9.04" tagColor="#ef4444" icon="🟠" />
-          <QuoteRow name="Uber Eats" total="$58.18" service="$6.38" delivery="$4.99" tag="+$12.10" tagColor="#ef4444" icon="🟢" />
-          <QuoteRow name="DoorDash" total="$57.43" service="$5.87" delivery="$3.99" tag="+$11.35" tagColor="#ef4444" icon="🔴" />
-          <p style={{ fontSize: '11px', color: '#475569', textAlign: 'center', marginTop: '12px' }}>
-            ✅ = verified prices from Uber Eats API · 📊 = estimated from fee models
+
+          <h1 className="mobile-hero" style={{ fontSize: 56, fontWeight: 900, lineHeight: 1.05, letterSpacing: '-0.03em', marginBottom: 24 }}>
+            Stop overpaying for{' '}
+            <span className="gradient-text">food delivery</span>
+          </h1>
+
+          <p style={{ fontSize: 18, color: '#64748b', lineHeight: 1.7, maxWidth: 580, margin: '0 auto 40px' }}>
+            The same order costs different amounts on every platform. SkipTheFee shows you the cheapest option — including{' '}
+            <span style={{ color: '#94a3b8' }}>direct ordering</span> — in one click.
+          </p>
+
+          <div style={{ display: 'flex', gap: 14, justifyContent: 'center', flexWrap: 'wrap' }}>
+            <Link href="/install" className="btn-glow">
+              🧩 Install Extension — Free
+            </Link>
+            <Link href="/restaurants" className="btn-outline">
+              Browse Restaurants
+            </Link>
+          </div>
+
+          <p style={{ fontSize: 13, color: '#334155', marginTop: 20, fontWeight: 500 }}>
+            15 cities · 1,154+ restaurants · NYC, Chicago, LA, Miami & more
           </p>
         </div>
       </section>
 
+      {/* Live Comparison Card */}
+      <section style={{ maxWidth: 560, margin: '0 auto 100px', padding: '0 24px' }}>
+        <div className="glass-card" style={{ padding: 0, overflow: 'hidden' }}>
+          {/* Card header */}
+          <div style={{ padding: '20px 24px 16px', borderBottom: '1px solid rgba(255,255,255,0.05)' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
+              <div>
+                <div style={{ fontSize: 12, color: '#475569', marginBottom: 4, fontWeight: 500, textTransform: 'uppercase', letterSpacing: '0.05em' }}>Real comparison</div>
+                <div style={{ fontSize: 18, fontWeight: 700 }}>📍 Chipotle — 3 items</div>
+              </div>
+              <div style={{ background: 'linear-gradient(135deg, #059669, #10b981)', borderRadius: 10, padding: '10px 16px', textAlign: 'center' }}>
+                <div style={{ fontSize: 22, fontWeight: 800, color: 'white', lineHeight: 1 }}>$12.10</div>
+                <div style={{ fontSize: 10, color: 'rgba(255,255,255,0.7)', marginTop: 2 }}>saved</div>
+              </div>
+            </div>
+          </div>
+
+          {/* Quotes */}
+          <div style={{ padding: '12px 16px 16px' }}>
+            <QuoteRow name="Direct Order" total="$46.08" fees="No markup · Delivery: $4.99" tag="BEST" tagColor="#10b981" icon="🏪" best />
+            <QuoteRow name="Grubhub" total="$55.12" fees="Service: $4.93 · Delivery: $4.99" tag="+$9.04" tagColor="#ef4444" icon="🟠" />
+            <QuoteRow name="Uber Eats" total="$58.18" fees="Service: $6.38 · Delivery: $4.99" tag="+$12.10" tagColor="#ef4444" icon="🟢" />
+            <QuoteRow name="DoorDash" total="$57.43" fees="Service: $5.87 · Delivery: $3.99" tag="+$11.35" tagColor="#ef4444" icon="🔴" />
+          </div>
+        </div>
+      </section>
+
       {/* How It Works */}
-      <section id="how-it-works" style={{ padding: '80px 24px', maxWidth: '900px', margin: '0 auto' }}>
-        <h2 style={styles.sectionTitle}>How It Works</h2>
-        <p style={styles.sectionSubtitle}>
-          SkipTheFee runs automatically while you browse delivery apps. No extra steps.
-        </p>
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))', gap: '24px' }}>
+      <section id="how" style={{ padding: '100px 24px', maxWidth: 1000, margin: '0 auto' }}>
+        <div style={{ textAlign: 'center', marginBottom: 56 }}>
+          <h2 style={{ fontSize: 40, fontWeight: 800, letterSpacing: '-0.02em', marginBottom: 12 }}>
+            How it <span className="gradient-text">works</span>
+          </h2>
+          <p style={{ fontSize: 16, color: '#475569', maxWidth: 500, margin: '0 auto' }}>
+            SkipTheFee runs in the background. Zero extra steps.
+          </p>
+        </div>
+
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))', gap: 20 }}>
           {[
-            { icon: '🛒', title: 'Add to Cart', desc: 'Browse DoorDash, Uber Eats, or Grubhub like normal. Add items to your cart.' },
-            { icon: '⚡', title: 'Auto-Compare', desc: 'SkipTheFee detects your cart and instantly finds the same items on other platforms + direct ordering.' },
-            { icon: '💰', title: 'See Total Costs', desc: 'Compare the FULL cost — food + delivery fee + service fee + tax. Not just menu prices.' },
-            { icon: '🔗', title: 'One-Click Switch', desc: 'Found a better deal? Click to open the order on the cheaper platform. Deep links pre-fill your cart.' },
-          ].map((step, i) => (
-            <div key={i} style={{ ...styles.card, textAlign: 'center' }}>
-              <div style={{ fontSize: '40px', marginBottom: '16px' }}>{step.icon}</div>
-              <div style={{ fontWeight: 700, fontSize: '16px', marginBottom: '8px' }}>{step.title}</div>
-              <p style={{ fontSize: '14px', color: '#94a3b8', lineHeight: 1.5 }}>{step.desc}</p>
+            { num: '01', icon: '🛒', title: 'Add to cart', desc: 'Browse DoorDash, Uber Eats, or Grubhub. Shop like normal.' },
+            { num: '02', icon: '⚡', title: 'Auto-compare', desc: 'SkipTheFee detects your cart and checks every platform + direct ordering.' },
+            { num: '03', icon: '📊', title: 'See all fees', desc: 'Full cost breakdown: food + markup + service fee + delivery + tax.' },
+            { num: '04', icon: '💰', title: 'Switch & save', desc: 'One click to order on the cheaper platform. Deep links pre-fill your cart.' },
+          ].map((step) => (
+            <div key={step.num} className="glass-card glass-card-hover" style={{ padding: 28 }}>
+              <div style={{ fontSize: 11, fontWeight: 700, color: '#334155', letterSpacing: '0.1em', marginBottom: 16 }}>{step.num}</div>
+              <div style={{ fontSize: 32, marginBottom: 14 }}>{step.icon}</div>
+              <div style={{ fontSize: 16, fontWeight: 700, marginBottom: 8 }}>{step.title}</div>
+              <p style={{ fontSize: 14, color: '#64748b', lineHeight: 1.6 }}>{step.desc}</p>
             </div>
           ))}
         </div>
       </section>
 
-      {/* The Hidden Fees */}
-      <section style={{ padding: '80px 24px', background: '#1e293b' }}>
-        <div style={{ maxWidth: '800px', margin: '0 auto' }}>
-          <h2 style={{ ...styles.sectionTitle, marginBottom: '40px' }}>
-            The Fees They Don&apos;t Want You to See
-          </h2>
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '24px' }}>
+      {/* Hidden Fees */}
+      <section id="fees" style={{ padding: '100px 24px' }}>
+        <div style={{ maxWidth: 800, margin: '0 auto' }}>
+          <div style={{ textAlign: 'center', marginBottom: 56 }}>
+            <h2 style={{ fontSize: 40, fontWeight: 800, letterSpacing: '-0.02em', marginBottom: 12 }}>
+              The fees they <span className="gradient-text-warm">don&apos;t show you</span>
+            </h2>
+            <p style={{ fontSize: 16, color: '#475569' }}>
+              Here&apos;s what delivery apps actually charge — beyond the menu price.
+            </p>
+          </div>
+
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>
             {[
-              { label: 'Menu Markup', value: '15-20%', desc: 'Platforms charge restaurants 28-33% commission. Restaurants raise menu prices to compensate.' },
-              { label: 'Service Fee', value: '$2-10', desc: 'Percentage of your subtotal. Goes to the platform, not your driver or restaurant.' },
-              { label: 'Delivery Fee', value: '$2-8', desc: 'Varies by distance, demand, and whether you have a subscription. Surge pricing is real.' },
-              { label: 'Small Order Fee', value: '$2-3', desc: 'Order under $12-15? You get surcharged. Ordering direct has no minimums.' },
-            ].map((fee, i) => (
-              <div key={i} style={{ background: '#0f172a', borderRadius: '12px', padding: '24px' }}>
-                <div style={{ fontSize: '28px', fontWeight: 800, color: '#ef4444', marginBottom: '4px' }}>{fee.value}</div>
-                <div style={{ fontSize: '14px', fontWeight: 700, marginBottom: '8px' }}>{fee.label}</div>
-                <p style={{ fontSize: '13px', color: '#94a3b8', lineHeight: 1.5 }}>{fee.desc}</p>
+              { label: 'Menu Markup', value: '15–20%', desc: 'Platforms charge restaurants 28–33%. Restaurants raise menu prices to cover it.', color: '#ef4444' },
+              { label: 'Service Fee', value: '$2–10', desc: 'A % of your subtotal. Goes to the platform — not your driver or restaurant.', color: '#f59e0b' },
+              { label: 'Delivery Fee', value: '$2–8', desc: 'Varies by distance and demand. Surge pricing is real.', color: '#8b5cf6' },
+              { label: 'Small Order Fee', value: '$2–3', desc: 'Under $12? You get surcharged. Direct ordering has no minimum.', color: '#ec4899' },
+            ].map((fee) => (
+              <div key={fee.label} className="glass-card" style={{ padding: 24 }}>
+                <div style={{ fontSize: 32, fontWeight: 900, color: fee.color, marginBottom: 4, letterSpacing: '-0.02em' }}>{fee.value}</div>
+                <div style={{ fontSize: 14, fontWeight: 700, marginBottom: 8 }}>{fee.label}</div>
+                <p style={{ fontSize: 13, color: '#64748b', lineHeight: 1.6 }}>{fee.desc}</p>
               </div>
             ))}
           </div>
-          <p style={{ textAlign: 'center', marginTop: '32px', fontSize: '15px', color: '#e2e8f0' }}>
-            <strong>Ordering direct saves 20-30% on average.</strong> SkipTheFee finds the direct ordering link for you.
+
+          <p style={{ textAlign: 'center', marginTop: 32, fontSize: 15, color: '#94a3b8', fontWeight: 500 }}>
+            <strong style={{ color: '#10b981' }}>Ordering direct saves 20–30% on average.</strong>{' '}
+            SkipTheFee finds the link for you.
           </p>
         </div>
       </section>
 
-      {/* Real Savings Examples */}
-      <section style={{ padding: '80px 24px', maxWidth: '800px', margin: '0 auto' }}>
-        <h2 style={styles.sectionTitle}>Real Savings, Real Orders</h2>
-        <p style={styles.sectionSubtitle}>
-          Actual price comparisons from Austin and DC restaurants.
-        </p>
-        <div style={{ display: 'grid', gap: '16px' }}>
+      {/* Real Savings */}
+      <section style={{ padding: '80px 24px', maxWidth: 700, margin: '0 auto' }}>
+        <div style={{ textAlign: 'center', marginBottom: 40 }}>
+          <h2 style={{ fontSize: 36, fontWeight: 800, letterSpacing: '-0.02em', marginBottom: 8 }}>
+            Real savings, <span className="gradient-text">real orders</span>
+          </h2>
+          <p style={{ fontSize: 14, color: '#475569' }}>Actual comparisons from supported cities.</p>
+        </div>
+
+        <div style={{ display: 'grid', gap: 12 }}>
           {[
-            { restaurant: 'Chipotle (Family order, 3 items)', city: 'DC', savings: '$12.10', best: 'Direct', worst: 'Uber Eats' },
+            { restaurant: 'Chipotle (Family, 3 items)', city: 'DC', savings: '$12.10', best: 'Direct', worst: 'Uber Eats' },
             { restaurant: 'Whataburger (#1 Combo)', city: 'Austin', savings: '$4.87', best: 'Direct', worst: 'DoorDash' },
-            { restaurant: 'CAVA (Greens Bowl + Pita Chips)', city: 'DC', savings: '$6.23', best: 'Grubhub', worst: 'Uber Eats' },
+            { restaurant: 'CAVA (Bowl + Pita Chips)', city: 'DC', savings: '$6.23', best: 'Grubhub', worst: 'Uber Eats' },
             { restaurant: "Torchy's Tacos (2 tacos + queso)", city: 'Austin', savings: '$5.40', best: 'Direct', worst: 'Uber Eats' },
-          ].map((ex, i) => (
-            <div key={i} style={{ ...styles.card, display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '20px 24px' }}>
-              <div>
-                <div style={{ fontWeight: 700, fontSize: '15px' }}>{ex.restaurant}</div>
-                <div style={{ fontSize: '12px', color: '#64748b' }}>📍 {ex.city} · Best: {ex.best} · Worst: {ex.worst}</div>
+          ].map((ex) => (
+            <div key={ex.restaurant} className="glass-card glass-card-hover" style={{ padding: '18px 22px', display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 12 }}>
+              <div style={{ minWidth: 0 }}>
+                <div style={{ fontWeight: 700, fontSize: 14 }}>{ex.restaurant}</div>
+                <div style={{ fontSize: 12, color: '#475569', marginTop: 2 }}>📍 {ex.city} · Best: {ex.best} · Worst: {ex.worst}</div>
               </div>
-              <div style={{ background: '#10b981', borderRadius: '8px', padding: '6px 14px' }}>
-                <span style={{ fontWeight: 800, color: 'white' }}>{ex.savings} saved</span>
+              <div style={{ background: 'rgba(16,185,129,0.12)', border: '1px solid rgba(16,185,129,0.2)', borderRadius: 8, padding: '6px 14px', flexShrink: 0 }}>
+                <span style={{ fontWeight: 800, color: '#10b981', fontSize: 14 }}>{ex.savings}</span>
               </div>
             </div>
           ))}
@@ -198,45 +184,76 @@ export default function Home() {
       </section>
 
       {/* FAQ */}
-      <section id="faq" style={{ padding: '80px 24px', background: '#1e293b' }}>
-        <div style={{ maxWidth: '700px', margin: '0 auto' }}>
-          <h2 style={{ ...styles.sectionTitle, marginBottom: '40px' }}>FAQ</h2>
-          {[
-            { q: 'Is SkipTheFee really free?', a: 'Yes, completely free. No premium tier, no hidden fees. We believe everyone deserves to know the real cost of their food delivery.' },
-            { q: 'How do you get the prices?', a: 'We use public APIs and menu data from delivery platforms. Uber Eats prices come directly from their API. DoorDash and Grubhub prices are estimated based on known fee structures and verified with real orders.' },
-            { q: 'What cities do you support?', a: 'We currently cover 15 cities: NYC, Chicago, LA, Boston, Miami, Philadelphia, Atlanta, Denver, Seattle, San Francisco, Houston, Nashville, New Orleans, Austin, and Washington DC. More coming every week!' },
-            { q: 'Do you include ALL fees?', a: 'Yes! We compare total cost: food + service fee + delivery fee + small order fee + tax. This is the real number you pay, not just the menu price.' },
-            { q: 'What is "direct ordering"?', a: 'Many restaurants let you order delivery directly through their website (often powered by Toast or Square). Since they don\'t pay a 28-33% platform commission, prices are typically 10-20% cheaper with no service fee.' },
-            { q: 'Does it work with DashPass/Uber One/Grubhub+?', a: 'Not yet — subscriber pricing is coming soon. For now, comparisons use standard (non-subscriber) fees.' },
-          ].map((faq, i) => (
-            <div key={i} style={{ marginBottom: '32px' }}>
-              <h3 style={{ fontSize: '16px', fontWeight: 700, marginBottom: '8px' }}>{faq.q}</h3>
-              <p style={{ fontSize: '14px', color: '#94a3b8', lineHeight: 1.6 }}>{faq.a}</p>
-            </div>
-          ))}
+      <section style={{ padding: '80px 24px', maxWidth: 650, margin: '0 auto' }}>
+        <h2 style={{ fontSize: 36, fontWeight: 800, letterSpacing: '-0.02em', textAlign: 'center', marginBottom: 48 }}>
+          FAQ
+        </h2>
+        {[
+          { q: 'Is it really free?', a: 'Yes. No premium tier, no hidden catches, no account needed.' },
+          { q: 'How do you get the prices?', a: 'Public APIs and menu data. Uber Eats prices come from their API. DoorDash and Grubhub are estimated from known fee models and verified with real orders.' },
+          { q: 'What cities?', a: '15 cities: NYC, Chicago, LA, Boston, Miami, Philly, Atlanta, Denver, Seattle, SF, Houston, Nashville, NOLA, Austin, DC. More every week.' },
+          { q: 'What is "direct ordering"?', a: "Many restaurants let you order delivery through their own website (Toast, Square, etc.). No 28-33% platform commission = 10-20% cheaper for you." },
+          { q: 'DashPass / Uber One / GH+ support?', a: 'Coming soon. Currently compares standard (non-subscriber) pricing.' },
+        ].map((faq) => (
+          <div key={faq.q} style={{ marginBottom: 28, paddingBottom: 28, borderBottom: '1px solid rgba(255,255,255,0.04)' }}>
+            <h3 style={{ fontSize: 15, fontWeight: 700, marginBottom: 6, color: '#e2e8f0' }}>{faq.q}</h3>
+            <p style={{ fontSize: 14, color: '#64748b', lineHeight: 1.7 }}>{faq.a}</p>
+          </div>
+        ))}
+      </section>
+
+      {/* Bottom CTA */}
+      <section className="bg-glow" style={{ padding: '100px 24px', textAlign: 'center', position: 'relative' }}>
+        <div style={{ position: 'relative', zIndex: 1 }}>
+          <h2 style={{ fontSize: 40, fontWeight: 800, letterSpacing: '-0.02em', marginBottom: 16 }}>
+            Start <span className="gradient-text">saving</span> today
+          </h2>
+          <p style={{ fontSize: 16, color: '#64748b', maxWidth: 440, margin: '0 auto 32px' }}>
+            Free forever. No account. Install and save on your next order.
+          </p>
+          <Link href="/install" className="btn-glow">
+            🧩 Install Chrome Extension — Free
+          </Link>
         </div>
       </section>
 
-      {/* CTA */}
-      <section style={{ padding: '80px 24px', textAlign: 'center' }}>
-        <h2 style={{ fontSize: '36px', fontWeight: 800, marginBottom: '16px' }}>
-          Start Saving on Every Order
-        </h2>
-        <p style={{ fontSize: '16px', color: '#94a3b8', marginBottom: '32px', maxWidth: '500px', margin: '0 auto 32px' }}>
-          Install SkipTheFee and never overpay for food delivery again.
-          Free forever. No account needed.
-        </p>
-        <Link href="/install" style={styles.greenBtn}>
-          🧩 Install Chrome Extension — Free
-        </Link>
-      </section>
-
       {/* Footer */}
-      <footer style={{ padding: '40px 24px', borderTop: '1px solid #1e293b', textAlign: 'center' }}>
-        <p style={{ fontSize: '13px', color: '#475569' }}>
-          © 2026 SkipTheFee · <a href="mailto:hello@skipthefee.app" style={{ color: '#64748b' }}>Contact</a> · Made in Austin, TX & Washington, DC
-        </p>
+      <footer className="status-bar">
+        <span><span className="status-dot" />System Online</span>
+        <a href="mailto:hello@skipthefee.app">Contact</a>
+        <Link href="/privacy">Privacy</Link>
+        <Link href="/restaurants">Restaurants</Link>
+        <span>© 2026 SkipTheFee</span>
       </footer>
     </main>
+  );
+}
+
+function QuoteRow({ name, total, fees, tag, tagColor, icon, best }: {
+  name: string; total: string; fees: string; tag: string; tagColor: string; icon: string; best?: boolean;
+}) {
+  return (
+    <div style={{
+      background: best ? 'rgba(16,185,129,0.06)' : 'rgba(255,255,255,0.02)',
+      borderRadius: 10,
+      padding: '12px 14px',
+      marginBottom: 6,
+      display: 'flex',
+      justifyContent: 'space-between',
+      alignItems: 'center',
+      border: best ? '1px solid rgba(16,185,129,0.15)' : '1px solid transparent',
+    }}>
+      <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+        <span style={{ fontSize: 16 }}>{icon}</span>
+        <div>
+          <div style={{ fontWeight: 600, fontSize: 14 }}>{name}</div>
+          <div style={{ fontSize: 11, color: '#475569' }}>{fees}</div>
+        </div>
+      </div>
+      <div style={{ textAlign: 'right' }}>
+        <div style={{ fontWeight: 700, fontSize: 15 }}>{total}</div>
+        <span style={{ fontSize: 10, fontWeight: 700, color: 'white', background: tagColor, padding: '2px 6px', borderRadius: 4 }}>{tag}</span>
+      </div>
+    </div>
   );
 }
