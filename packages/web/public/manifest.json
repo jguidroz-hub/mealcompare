@@ -1,0 +1,20 @@
+{
+  "name": "SkipTheFee — Save on Food Delivery",
+  "short_name": "SkipTheFee",
+  "description": "Find the cheapest way to order food. Compare DoorDash, Uber Eats, Grubhub & direct ordering.",
+  "start_url": "/restaurants",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#10b981",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icons/icon-192-maskable.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "categories": ["food", "shopping", "utilities"],
+  "screenshots": [
+    { "src": "/screenshots/mobile-1.png", "sizes": "390x844", "type": "image/png", "form_factor": "narrow" }
+  ]
+}
