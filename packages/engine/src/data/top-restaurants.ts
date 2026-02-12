@@ -56,6 +56,10 @@ export const DC_RESTAURANTS: RestaurantData[] = [
   { name: 'Taco Rock', slug: 'tacorock', category: 'mexican', metros: ['dc'], toastUrl: 'https://tacorock.toast.site/' },
   { name: 'La Chiquita Taqueria DMV', slug: 'lachiquitadmv', category: 'mexican', metros: ['dc'], toastUrl: 'https://lachiquitataqueriadmv.toast.site/' },
   { name: "Burger Billy's Joint", slug: 'burgerbillys', category: 'burgers', metros: ['dc'], toastUrl: 'https://burgerbillysjoint.toast.site/' },
+  { name: 'The Dabney', slug: 'thedabney', category: 'american', metros: ['dc'], toastUrl: 'https://thedabney.toast.site/' },
+  { name: 'Rendezvous', slug: 'rendezvous', category: 'french', metros: ['dc'], toastUrl: 'https://rendezvous.toast.site/' },
+  { name: 'Red Rocks', slug: 'redrocks', category: 'pizza', metros: ['dc'], toastUrl: 'https://redrocks.toast.site/' },
+  { name: 'Rito Loco', slug: 'ritoloco', category: 'mexican', metros: ['dc'], toastUrl: 'https://ritoloco.toast.site/' },
   
   // National chains (both markets)
   { name: 'Chipotle', slug: 'chipotle', category: 'mexican', metros: ['austin', 'dc'], websiteOrderUrl: 'https://order.chipotle.com' },
