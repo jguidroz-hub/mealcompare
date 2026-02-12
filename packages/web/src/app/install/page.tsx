@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
+import WaitlistForm from './WaitlistForm';
 
 export const metadata: Metadata = {
   title: 'Install MealCompare — Chrome Extension',
@@ -99,33 +100,7 @@ export default function InstallPage() {
         </div>
 
         {/* Waitlist for Chrome Web Store */}
-        <div style={{ marginTop: '48px', textAlign: 'center' }}>
-          <p style={{ fontSize: '15px', color: '#94a3b8', marginBottom: '16px' }}>
-            Prefer a one-click install? We&apos;re submitting to the Chrome Web Store.
-          </p>
-          <form action="/api/waitlist" method="POST" style={{ display: 'flex', gap: '8px', justifyContent: 'center', flexWrap: 'wrap' as const }}>
-            <input
-              type="email"
-              name="email"
-              placeholder="you@email.com"
-              required
-              style={{
-                background: '#1e293b', border: '1px solid #334155', borderRadius: '8px',
-                padding: '12px 16px', color: '#e2e8f0', fontSize: '15px', width: '280px',
-              }}
-            />
-            <button
-              type="submit"
-              style={{
-                background: '#3b82f6', color: 'white', padding: '12px 24px',
-                borderRadius: '8px', border: 'none', fontWeight: 700,
-                fontSize: '15px', cursor: 'pointer',
-              }}
-            >
-              Notify Me
-            </button>
-          </form>
-        </div>
+        <WaitlistForm />
       </div>
     </main>
   );
