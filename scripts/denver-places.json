@@ -1,0 +1,101 @@
+[
+  {
+    "name": "The Plimoth",
+    "slug": "theplimoth",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "address": "2335 E 28th Ave"
+  },
+  {
+    "name": "The Denver Central Market",
+    "slug": "thedenvercentralmarket",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "address": "2669 Larimer St"
+  },
+  {
+    "name": "Temaki Den",
+    "slug": "temakiden",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "address": "3350 Brighton Blvd"
+  },
+  {
+    "name": "Point Easy Denver",
+    "slug": "pointeasydenver",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "address": "2000 E 28th Ave"
+  },
+  {
+    "name": "major tom",
+    "slug": "majortom",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "address": "2845 Larimer St"
+  },
+  {
+    "name": "Federales Tacos & Tequila - RiNo, Denver",
+    "slug": "federalestacostequila-rinodenver",
+    "category": "mexican",
+    "metros": [
+      "denver"
+    ],
+    "address": "2901 Larimer St"
+  },
+  {
+    "name": "Alma Fonda Fina",
+    "slug": "almafondafina",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "address": "2556 15th St"
+  },
+  {
+    "name": "Nocturne",
+    "slug": "nocturne",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "address": "between Larimer and Walnut on 27th"
+  },
+  {
+    "name": "Cart-Driver RiNo",
+    "slug": "cart-driverrino",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "address": "2500 Larimer St #100"
+  },
+  {
+    "name": "Work & Class",
+    "slug": "workclass",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "address": "2500 Larimer St"
+  },
+  {
+    "name": "BearLeek",
+    "slug": "bearleek",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "address": "2611 Walnut St"
+  }
+]

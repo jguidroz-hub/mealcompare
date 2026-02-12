@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Komodo Miami",
+    "slug": "komodomiami",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "801 Brickell Ave"
+  },
+  {
+    "name": "Moxies Miami Restaurant",
+    "slug": "moxiesmiamirestaurant",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "900 S Miami Ave #161"
+  },
+  {
+    "name": "Casa Tua Cucina Brickell",
+    "slug": "casatuacucinabrickell",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "70 SW 7th St"
+  },
+  {
+    "name": "Nikki Beach Miami Beach",
+    "slug": "nikkibeachmiamibeach",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "1 Ocean Dr"
+  },
+  {
+    "name": "Old's Havana Cuban Bar & Cocina",
+    "slug": "oldshavanacubanbarcocina",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "1442 SW 8th St"
+  },
+  {
+    "name": "Versailles Restaurant Cuban Cuisine",
+    "slug": "versaillesrestaurantcubancuisine",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "3555 SW 8th St"
+  },
+  {
+    "name": "La Mulata | Cuban Restaurant Miami Beach",
+    "slug": "lamulatacubanrestaurantmiamibeach",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "1443 Washington Ave"
+  },
+  {
+    "name": "Esquina Cubana | Cuban Restaurant Miami Beach",
+    "slug": "esquinacubanacubanrestaurantmiamibeach",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "710 Washington Ave Suite #1"
+  },
+  {
+    "name": "Havana Vieja | Latin Restaurant Miami Beach",
+    "slug": "havanaviejalatinrestaurantmiamibeach",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "944 Washington Ave"
+  },
+  {
+    "name": "Sala'o Cuban Restaurant & Bar - Live music",
+    "slug": "salaocubanrestaurantbar-livemusic",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "1642 SW 8th St"
+  },
+  {
+    "name": "Marabu Restaurant",
+    "slug": "maraburestaurant",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "701 S Miami Ave Fl 4"
+  },
+  {
+    "name": "Alma Cubana | Cuban Restaurant Miami Beach",
+    "slug": "almacubanacubanrestaurantmiamibeach",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "650 Ocean Dr"
+  },
+  {
+    "name": "Casa Cubana | Restaurant & Live Music",
+    "slug": "casacubanarestaurantlivemusic",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "1342 Washington Ave"
+  },
+  {
+    "name": "Little Havana",
+    "slug": "littlehavana",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "1051 Collins Ave"
+  },
+  {
+    "name": "Mayami Wynwood",
+    "slug": "mayamiwynwood",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "127 NW 23rd St"
+  },
+  {
+    "name": "Sha Wynwood",
+    "slug": "shawynwood",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "97 NW 25th St"
+  },
+  {
+    "name": "R House Wynwood",
+    "slug": "rhousewynwood",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "2727 NW 2nd Ave"
+  },
+  {
+    "name": "BAKAN",
+    "slug": "bakan",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "2801 NW 2nd Ave"
+  },
+  {
+    "name": "Astra Miami Rooftop",
+    "slug": "astramiamirooftop",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "2121 NW 2nd Ave"
+  },
+  {
+    "name": "Le Chick Miami",
+    "slug": "lechickmiami",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "310 NW 24th St"
+  },
+  {
+    "name": "Ossobuco Miami - Steak house",
+    "slug": "ossobucomiami-steakhouse",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "62 NW 27th St"
+  },
+  {
+    "name": "KYU Miami",
+    "slug": "kyumiami",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "251 NW 25th St"
+  },
+  {
+    "name": "Manta Wynwood",
+    "slug": "mantawynwood",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "102 NW 25th St"
+  },
+  {
+    "name": "MIAM CAFE-WYNWOOD",
+    "slug": "miamcafe-wynwood",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "address": "2750 NW 3rd Ave Suite 21"
+  },
+  {
+    "name": "Joe's Stone Crab",
+    "slug": "joesstonecrab",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "11 Washington Ave"
+  },
+  {
+    "name": "Mercato della Pescheria Miami Beach",
+    "slug": "mercatodellapescheriamiamibeach",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "412 Española Wy"
+  },
+  {
+    "name": "Españolita Miami Beach 🌹💃SEAFOOD&STEAKHOUSE",
+    "slug": "espaolitamiamibeachseafoodsteakhouse",
+    "category": "seafood",
+    "metros": [
+      "miami"
+    ],
+    "address": "441 Española Wy"
+  },
+  {
+    "name": "Nettuno Italian Seafood & Oysters",
+    "slug": "nettunoitalianseafoodoysters",
+    "category": "seafood",
+    "metros": [
+      "miami"
+    ],
+    "address": "1458 Washington Ave"
+  },
+  {
+    "name": "A Fish Called Avalon",
+    "slug": "afishcalledavalon",
+    "category": "seafood",
+    "metros": [
+      "miami"
+    ],
+    "address": "700 Ocean Dr"
+  },
+  {
+    "name": "CORALLO 🇮🇹 Amalfi coast",
+    "slug": "coralloamalficoast",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "1228 Collins Ave"
+  },
+  {
+    "name": "Rusty Pelican Miami",
+    "slug": "rustypelicanmiami",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "3201 Rickenbacker Cwy"
+  },
+  {
+    "name": "CVI.CHE 105 South Beach",
+    "slug": "cviche105southbeach",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "1245 Lincoln Rd"
+  },
+  {
+    "name": "Osteria Positano",
+    "slug": "osteriapositano",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "1200 Collins Ave"
+  },
+  {
+    "name": "CJ's Crab Shack",
+    "slug": "cjscrabshack",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "600 Ocean Dr"
+  },
+  {
+    "name": "Felice Brickell",
+    "slug": "felicebrickell",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "address": "1450 Brickell Ave Suite 110"
+  }
+]

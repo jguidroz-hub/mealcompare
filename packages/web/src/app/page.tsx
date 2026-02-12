@@ -96,7 +96,7 @@ export default function Home() {
           <a href="#how-it-works" style={styles.outlineBtn}>See How It Works</a>
         </div>
         <p style={{ fontSize: '13px', color: '#475569', marginTop: '16px' }}>
-          Available in Austin & DC · Expanding to 15+ cities this week
+          Available in 15 cities · 596 restaurants · NYC, Chicago, LA, Boston, Miami & more
         </p>
       </section>
 
@@ -204,7 +204,7 @@ export default function Home() {
           {[
             { q: 'Is MealCompare really free?', a: 'Yes, completely free. No premium tier, no hidden fees. We believe everyone deserves to know the real cost of their food delivery.' },
             { q: 'How do you get the prices?', a: 'We use public APIs and menu data from delivery platforms. Uber Eats prices come directly from their API. DoorDash and Grubhub prices are estimated based on known fee structures and verified with real orders.' },
-            { q: 'What cities do you support?', a: 'Currently Austin, TX and Washington, DC. We\'re expanding to more cities — join the waitlist to get notified when we launch in yours.' },
+            { q: 'What cities do you support?', a: 'We currently cover 15 cities: NYC, Chicago, LA, Boston, Miami, Philadelphia, Atlanta, Denver, Seattle, San Francisco, Houston, Nashville, New Orleans, Austin, and Washington DC. More coming every week!' },
             { q: 'Do you include ALL fees?', a: 'Yes! We compare total cost: food + service fee + delivery fee + small order fee + tax. This is the real number you pay, not just the menu price.' },
             { q: 'What is "direct ordering"?', a: 'Many restaurants let you order delivery directly through their website (often powered by Toast or Square). Since they don\'t pay a 28-33% platform commission, prices are typically 10-20% cheaper with no service fee.' },
             { q: 'Does it work with DashPass/Uber One/Grubhub+?', a: 'Not yet — subscriber pricing is coming soon. For now, comparisons use standard (non-subscriber) fees.' },

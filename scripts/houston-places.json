@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Lost & Found",
+    "slug": "lostfound",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "address": "160 W Gray St"
+  },
+  {
+    "name": "Aquarium Restaurant",
+    "slug": "aquariumrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "address": "410 Bagby St"
+  },
+  {
+    "name": "Bungalow",
+    "slug": "bungalow",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "address": "407 Main St"
+  },
+  {
+    "name": "State of Grace",
+    "slug": "stateofgrace",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "address": "3258 Westheimer Rd"
+  },
+  {
+    "name": "Lucille's",
+    "slug": "lucilles",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "address": "5512 La Branch St"
+  },
+  {
+    "name": "Brenner's on the Bayou",
+    "slug": "brennersonthebayou",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "address": "1 Birdsall St"
+  },
+  {
+    "name": "Hull & Oak",
+    "slug": "hulloak",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "address": "1070 Dallas St"
+  },
+  {
+    "name": "Traveler's Table",
+    "slug": "travelerstable",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "address": "520 Westheimer Rd"
+  },
+  {
+    "name": "Taste of Texas",
+    "slug": "tasteoftexas",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "address": "10505 Katy Fwy"
+  },
+  {
+    "name": "JOEY Uptown",
+    "slug": "joeyuptown",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "address": "5045 Westheimer Rd Suite X01"
+  },
+  {
+    "name": "Postino Montrose",
+    "slug": "postinomontrose",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "address": "805 Pacific St"
+  },
+  {
+    "name": "The Pit Room",
+    "slug": "thepitroom",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "address": "1201 Richmond Ave."
+  },
+  {
+    "name": "Fielding's Steak",
+    "slug": "fieldingssteak",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "address": "3750 Westheimer Rd"
+  },
+  {
+    "name": "Roost",
+    "slug": "roost",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "address": "1972 Fairview St"
+  },
+  {
+    "name": "Little’s Oyster Bar",
+    "slug": "littlesoysterbar",
+    "category": "seafood",
+    "metros": [
+      "houston"
+    ],
+    "address": "3001 S Shepherd Dr"
+  },
+  {
+    "name": "Nobie's",
+    "slug": "nobies",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "address": "2048 Colquitt St"
+  },
+  {
+    "name": "93' Til",
+    "slug": "93til",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "address": "1601 W Main St"
+  },
+  {
+    "name": "Hugo's",
+    "slug": "hugos",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "address": "1600 Westheimer Rd"
+  }
+]

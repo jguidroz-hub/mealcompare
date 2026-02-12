@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Can Can Seattle: A Culinary Cabaret",
+    "slug": "cancanseattleaculinarycabaret",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "address": "95 Pine St"
+  },
+  {
+    "name": "Kedai Makan Capitol Hill",
+    "slug": "kedaimakancapitolhill",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "address": "1449 E Pine St"
+  },
+  {
+    "name": "Spinasse",
+    "slug": "spinasse",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "address": "1531 14th Ave"
+  },
+  {
+    "name": "The Pink Door",
+    "slug": "thepinkdoor",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "address": "1919 Post Alley"
+  },
+  {
+    "name": "Momiji Capitol Hill",
+    "slug": "momijicapitolhill",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "address": "1522 12th Ave"
+  },
+  {
+    "name": "Nue",
+    "slug": "nue",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "address": "1519 14th Ave"
+  },
+  {
+    "name": "Terra Plata",
+    "slug": "terraplata",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "address": "1501 Melrose Ave"
+  },
+  {
+    "name": "Taurus Ox",
+    "slug": "taurusox",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "address": "903 19th Ave E"
+  },
+  {
+    "name": "Ba Bar Capitol Hill",
+    "slug": "babarcapitolhill",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "address": "550 12th Ave"
+  },
+  {
+    "name": "MariPili Tapas Bar",
+    "slug": "maripilitapasbar",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "address": "1117 12th Ave"
+  },
+  {
+    "name": "Taneda",
+    "slug": "taneda",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "address": "219 Broadway E Unit# 14"
+  }
+]

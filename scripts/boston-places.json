@@ -1,0 +1,308 @@
+[
+  {
+    "name": "The Salty Pig",
+    "slug": "thesaltypig",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "130 Dartmouth St"
+  },
+  {
+    "name": "Saltie Girl",
+    "slug": "saltiegirl",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "279 Dartmouth St"
+  },
+  {
+    "name": "Beehive Restaurant",
+    "slug": "beehiverestaurant",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "541 Tremont St"
+  },
+  {
+    "name": "Mamma Maria",
+    "slug": "mammamaria",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "3 N Square #1"
+  },
+  {
+    "name": "Grill 23 & Bar",
+    "slug": "grill23bar",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "161 Berkeley St"
+  },
+  {
+    "name": "Coquette",
+    "slug": "coquette",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "450 Summer St"
+  },
+  {
+    "name": "Atlantic Fish Company",
+    "slug": "atlanticfishcompany",
+    "category": "seafood",
+    "metros": [
+      "boston"
+    ],
+    "address": "761 Boylston St"
+  },
+  {
+    "name": "Boston Sail Loft",
+    "slug": "bostonsailloft",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "80 Atlantic Ave"
+  },
+  {
+    "name": "Legal Sea Foods - Harborside",
+    "slug": "legalseafoods-harborside",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "270 Northern Ave"
+  },
+  {
+    "name": "Ostra",
+    "slug": "ostra",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "1 Charles St S"
+  },
+  {
+    "name": "James Hook & Co",
+    "slug": "jameshookco",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "440 Atlantic Ave"
+  },
+  {
+    "name": "The Oceanaire Seafood Room",
+    "slug": "theoceanaireseafoodroom",
+    "category": "seafood",
+    "metros": [
+      "boston"
+    ],
+    "address": "40 Court St"
+  },
+  {
+    "name": "Chart House",
+    "slug": "charthouse",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "60 Long Wharf"
+  },
+  {
+    "name": "Union Oyster House",
+    "slug": "unionoysterhouse",
+    "category": "seafood",
+    "metros": [
+      "boston"
+    ],
+    "address": "41 Union St"
+  },
+  {
+    "name": "STK Steakhouse",
+    "slug": "stksteakhouse",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "222 Berkeley St"
+  },
+  {
+    "name": "Wusong Tiki Bar",
+    "slug": "wusongtikibar",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "112 Mt Auburn St"
+  },
+  {
+    "name": "Highland Kitchen",
+    "slug": "highlandkitchen",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "150 Highland Ave"
+  },
+  {
+    "name": "Carmelina's",
+    "slug": "carmelinas",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "307 Hanover St"
+  },
+  {
+    "name": "La Famiglia Giorgio's Restaurant",
+    "slug": "lafamigliagiorgiosrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "112 Salem St"
+  },
+  {
+    "name": "Giacomo's Boston North End",
+    "slug": "giacomosbostonnorthend",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "355 Hanover St"
+  },
+  {
+    "name": "Prezza",
+    "slug": "prezza",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "24 Fleet St"
+  },
+  {
+    "name": "Limoncello",
+    "slug": "limoncello",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "190 North St"
+  },
+  {
+    "name": "Little Sage",
+    "slug": "littlesage",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "352 Hanover St"
+  },
+  {
+    "name": "Antico Forno",
+    "slug": "anticoforno",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "93 Salem St"
+  },
+  {
+    "name": "Bricco",
+    "slug": "bricco",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "241 Hanover St"
+  },
+  {
+    "name": "Cantina Italiana",
+    "slug": "cantinaitaliana",
+    "category": "italian",
+    "metros": [
+      "boston"
+    ],
+    "address": "346 Hanover St"
+  },
+  {
+    "name": "Caroline",
+    "slug": "caroline",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "621 Congress Ave. Suite 101"
+  },
+  {
+    "name": "Two Hands",
+    "slug": "twohands",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "1011 S Congress Ave Suite 170"
+  },
+  {
+    "name": "Corinne Austin",
+    "slug": "corinneaustin",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "304 E Cesar Chavez St"
+  },
+  {
+    "name": "Magnolia Cafe",
+    "slug": "magnoliacafe",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "address": "1920 S Congress Ave"
+  },
+  {
+    "name": "Another Broken Egg Cafe",
+    "slug": "anotherbrokeneggcafe",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "address": "6406 N Interstate 35 Frontage Rd Suite 1600"
+  },
+  {
+    "name": "Josephine House",
+    "slug": "josephinehouse",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "1601 Waterston Ave"
+  },
+  {
+    "name": "Day Maker Half Day Cafe",
+    "slug": "daymakerhalfdaycafe",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "address": "1101 S MoPac Expy"
+  },
+  {
+    "name": "Summer on Music Lane",
+    "slug": "summeronmusiclane",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "address": "1101 Music Ln"
+  }
+]

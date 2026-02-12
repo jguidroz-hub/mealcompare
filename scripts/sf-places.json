@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Nopa",
+    "slug": "nopa",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "address": "560 Divisadero St"
+  },
+  {
+    "name": "The View Lounge",
+    "slug": "theviewlounge",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "address": "780 Mission St"
+  },
+  {
+    "name": "Zeitgeist",
+    "slug": "zeitgeist",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "address": "199 Valencia St"
+  },
+  {
+    "name": "Absinthe Brasserie & Bar",
+    "slug": "absinthebrasseriebar",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "address": "398 Hayes St"
+  },
+  {
+    "name": "Lazy Bear",
+    "slug": "lazybear",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "address": "3416 19th St"
+  },
+  {
+    "name": "Bottega",
+    "slug": "bottega",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "address": "1132 Valencia St"
+  },
+  {
+    "name": "The Morris",
+    "slug": "themorris",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "address": "2501 Mariposa St"
+  },
+  {
+    "name": "The Rabbit Hole",
+    "slug": "therabbithole",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "address": "3472 Mission St"
+  },
+  {
+    "name": "La Taqueria",
+    "slug": "lataqueria",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "address": "2889 Mission St"
+  },
+  {
+    "name": "Beretta Valencia",
+    "slug": "berettavalencia",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "address": "1199 Valencia St"
+  },
+  {
+    "name": "Rintaro",
+    "slug": "rintaro",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "address": "82 14th St"
+  },
+  {
+    "name": "Foreign Cinema",
+    "slug": "foreigncinema",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "address": "2534 Mission St"
+  },
+  {
+    "name": "Sangria & Salt",
+    "slug": "sangriasalt",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "address": "2327 Mission St"
+  },
+  {
+    "name": "Lolinda",
+    "slug": "lolinda",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "address": "2518 Mission St"
+  }
+]

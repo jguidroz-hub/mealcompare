@@ -1,0 +1,605 @@
+[
+  {
+    "name": "Girl & The Goat",
+    "slug": "girlthegoat",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "809 W Randolph St"
+  },
+  {
+    "name": "River Roast",
+    "slug": "riverroast",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "315 N LaSalle St"
+  },
+  {
+    "name": "The Dearborn",
+    "slug": "thedearborn",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "145 N Dearborn St"
+  },
+  {
+    "name": "The Purple Pig Restaurant",
+    "slug": "thepurplepigrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "444 Michigan Ave"
+  },
+  {
+    "name": "Elephant & Castle",
+    "slug": "elephantcastle",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "185 N Wabash Ave"
+  },
+  {
+    "name": "Alla Vita",
+    "slug": "allavita",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "564 W Randolph St"
+  },
+  {
+    "name": "Carnivale Chicago",
+    "slug": "carnivalechicago",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "702 W Fulton St"
+  },
+  {
+    "name": "Beatnik On The River",
+    "slug": "beatnikontheriver",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "180 N Wacker Dr"
+  },
+  {
+    "name": "Quartino Ristorante",
+    "slug": "quartinoristorante",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "626 N State St"
+  },
+  {
+    "name": "Eataly",
+    "slug": "eataly",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "43 E Ohio St"
+  },
+  {
+    "name": "Pizzeria Portofino",
+    "slug": "pizzeriaportofino",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "317 N Clark St"
+  },
+  {
+    "name": "Giordano's",
+    "slug": "giordanos",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "130 E Randolph St"
+  },
+  {
+    "name": "Gino's East",
+    "slug": "ginoseast",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "162 E Superior St"
+  },
+  {
+    "name": "Zarella Pizzeria & Taverna",
+    "slug": "zarellapizzeriataverna",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "531 N Wells St"
+  },
+  {
+    "name": "Pequod's Pizza",
+    "slug": "pequodspizza",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "address": "2207 N Clybourn Ave"
+  },
+  {
+    "name": "Spacca Napoli Pizzeria",
+    "slug": "spaccanapolipizzeria",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1769 W Sunnyside Ave"
+  },
+  {
+    "name": "Lou Malnati's Pizzeria",
+    "slug": "loumalnatispizzeria",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "439 N Wells St"
+  },
+  {
+    "name": "Robert's Pizza and Dough Company",
+    "slug": "robertspizzaanddoughcompany",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "address": "465 N McClurg Ct"
+  },
+  {
+    "name": "Labriola Ristorante - Chicago",
+    "slug": "labriolaristorante-chicago",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "535 N Michigan Ave"
+  },
+  {
+    "name": "The Perch Kitchen and Tap",
+    "slug": "theperchkitchenandtap",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1932 W Division St"
+  },
+  {
+    "name": "Big Star Wicker Park",
+    "slug": "bigstarwickerpark",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1531 N Damen Ave"
+  },
+  {
+    "name": "Paradise Park | Pizza & Patio",
+    "slug": "paradiseparkpizzapatio",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1913 W North Ave"
+  },
+  {
+    "name": "Elia Chicago",
+    "slug": "eliachicago",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1938 W Division St"
+  },
+  {
+    "name": "Ina Mae",
+    "slug": "inamae",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1415 N Wood St"
+  },
+  {
+    "name": "Amaru",
+    "slug": "amaru",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1904 W North Ave"
+  },
+  {
+    "name": "Handlebar",
+    "slug": "handlebar",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "2311 W North Ave"
+  },
+  {
+    "name": "Piece Pizzeria and Brewery",
+    "slug": "piecepizzeriaandbrewery",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1927 W North Ave"
+  },
+  {
+    "name": "Cafe Robey",
+    "slug": "caferobey",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1600 N Milwaukee Ave"
+  },
+  {
+    "name": "Bangers & Lace Wicker Park",
+    "slug": "bangerslacewickerpark",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1670 W Division St"
+  },
+  {
+    "name": "Summer House Santa Monica",
+    "slug": "summerhousesantamonica",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1954 N Halsted St"
+  },
+  {
+    "name": "Boka",
+    "slug": "boka",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1729 N Halsted St"
+  },
+  {
+    "name": "Blue Door Farm Stand",
+    "slug": "bluedoorfarmstand",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "2010 N Halsted St"
+  },
+  {
+    "name": "North Pond",
+    "slug": "northpond",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "2610 N Cannon Dr"
+  },
+  {
+    "name": "Mon Ami Gabi",
+    "slug": "monamigabi",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "2300 N Lincoln Park W"
+  },
+  {
+    "name": "GEMINI",
+    "slug": "gemini",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "2075 N Lincoln Ave"
+  },
+  {
+    "name": "Armitage Alehouse",
+    "slug": "armitagealehouse",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1000 W Armitage Ave"
+  },
+  {
+    "name": "DeNucci's Lincoln Park",
+    "slug": "denuccislincolnpark",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "503 W Dickens Ave"
+  },
+  {
+    "name": "Willow Room",
+    "slug": "willowroom",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1800 N Halsted St"
+  },
+  {
+    "name": "Aba",
+    "slug": "aba",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "302 N Green St 3rd Floor"
+  },
+  {
+    "name": "Caroline",
+    "slug": "caroline",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "621 Congress Ave. Suite 101"
+  },
+  {
+    "name": "Two Hands",
+    "slug": "twohands",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1011 S Congress Ave Suite 170"
+  },
+  {
+    "name": "Corinne Austin",
+    "slug": "corinneaustin",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "304 E Cesar Chavez St"
+  },
+  {
+    "name": "Magnolia Cafe",
+    "slug": "magnoliacafe",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1920 S Congress Ave"
+  },
+  {
+    "name": "Another Broken Egg Cafe",
+    "slug": "anotherbrokeneggcafe",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "address": "6406 N Interstate 35 Frontage Rd Suite 1600"
+  },
+  {
+    "name": "Josephine House",
+    "slug": "josephinehouse",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1601 Waterston Ave"
+  },
+  {
+    "name": "Day Maker Half Day Cafe",
+    "slug": "daymakerhalfdaycafe",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1101 S MoPac Expy"
+  },
+  {
+    "name": "Café No Sé",
+    "slug": "cafnos",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1603 S Congress Ave"
+  },
+  {
+    "name": "Costera Cocina Tulum - Chicago",
+    "slug": "costeracocinatulum-chicago",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "850 W Fulton Market"
+  },
+  {
+    "name": "Ayayay - Mexican Eatery",
+    "slug": "ayayay-mexicaneatery",
+    "category": "mexican",
+    "metros": [
+      "chicago"
+    ],
+    "address": "60 E Lake St"
+  },
+  {
+    "name": "Mercadito",
+    "slug": "mercadito",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "108 W Kinzie St"
+  },
+  {
+    "name": "Casa Tulum",
+    "slug": "casatulum",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1700s S Michigan Ave"
+  },
+  {
+    "name": "Tzuco",
+    "slug": "tzuco",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "720 N State St"
+  },
+  {
+    "name": "Momento Cantina",
+    "slug": "momentocantina",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "36 E Monroe St"
+  },
+  {
+    "name": "Matilda Restaurant",
+    "slug": "matildarestaurant",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "535 N Wells St"
+  },
+  {
+    "name": "XOCO",
+    "slug": "xoco",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "65 W Illinois St"
+  },
+  {
+    "name": "La Luna",
+    "slug": "laluna",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1726 S Racine Ave"
+  },
+  {
+    "name": "Frontera Grill",
+    "slug": "fronteragrill",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "445 N Clark St"
+  },
+  {
+    "name": "Green Street Smoked Meats",
+    "slug": "greenstreetsmokedmeats",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "112 N Green St"
+  },
+  {
+    "name": "Smoque BBQ",
+    "slug": "smoquebbq",
+    "category": "korean",
+    "metros": [
+      "chicago"
+    ],
+    "address": "3800 N Pulaski Rd"
+  },
+  {
+    "name": "Bub City",
+    "slug": "bubcity",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "435 N Clark St"
+  },
+  {
+    "name": "Chubby Cattle BBQ | Chicago",
+    "slug": "chubbycattlebbqchicago",
+    "category": "korean",
+    "metros": [
+      "chicago"
+    ],
+    "address": "2162 S Archer Ave"
+  },
+  {
+    "name": "Offset BBQ",
+    "slug": "offsetbbq",
+    "category": "korean",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1720 N California Ave"
+  },
+  {
+    "name": "Honky Tonk BBQ / The Tonk",
+    "slug": "honkytonkbbqthetonk",
+    "category": "korean",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1213 W 18th St"
+  },
+  {
+    "name": "Chicago Q",
+    "slug": "chicagoq",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "1160 N Dearborn St"
+  },
+  {
+    "name": "Carson’s Prime Steaks & Famous Barbecue – Chicago (Streeterville)",
+    "slug": "carsonsprimesteaksfamousbarbecuechicagos",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "465 E Illinois St"
+  },
+  {
+    "name": "Soul & Smoke - Avondale at Rockwell on the River",
+    "slug": "soulsmoke-avondaleatrockwellontheriver",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "address": "3057 N Rockwell St"
+  },
+  {
+    "name": "Smoke Daddy BBQ - Wrigleyville",
+    "slug": "smokedaddybbq-wrigleyville",
+    "category": "korean",
+    "metros": [
+      "chicago"
+    ],
+    "address": "3636 N Clark St"
+  }
+]

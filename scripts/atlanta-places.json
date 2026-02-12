@@ -1,0 +1,173 @@
+[
+  {
+    "name": "TWO urban licks",
+    "slug": "twourbanlicks",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "address": "820 Ralph McGill Blvd NE"
+  },
+  {
+    "name": "9 Mile Station",
+    "slug": "9milestation",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "address": "Ponce City Market"
+  },
+  {
+    "name": "Mary Mac's Tea Room",
+    "slug": "marymacstearoom",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "address": "224 Ponce De Leon Ave NE"
+  },
+  {
+    "name": "Sugar Factory American Brasserie - Atlanta",
+    "slug": "sugarfactoryamericanbrasserie-atlanta",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "address": "1080 Peachtree St NE"
+  },
+  {
+    "name": "Hungry AF Downtown",
+    "slug": "hungryafdowntown",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "address": "27 Piedmont Ave NE d1"
+  },
+  {
+    "name": "Marcel",
+    "slug": "marcel",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "address": "1170 Howell Ml Rd"
+  },
+  {
+    "name": "Ray's In the City",
+    "slug": "raysinthecity",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "address": "240 Peachtree St"
+  },
+  {
+    "name": "Ladybird Grove & Mess Hall",
+    "slug": "ladybirdgrovemesshall",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "address": "684 John Wesley Dobbs Ave NE Unit J"
+  },
+  {
+    "name": "The Sun Dial Restaurant, Bar & View",
+    "slug": "thesundialrestaurantbarview",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "address": "210 Peachtree St NW"
+  },
+  {
+    "name": "Canoe",
+    "slug": "canoe",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "address": "4199 Paces Ferry Rd SE"
+  },
+  {
+    "name": "South City Kitchen Midtown",
+    "slug": "southcitykitchenmidtown",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "address": "1144 Crescent Ave NE"
+  },
+  {
+    "name": "El Viñedo Local",
+    "slug": "elviedolocal",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "address": "730 Peachtree St NE Suite 100"
+  },
+  {
+    "name": "The Consulate Restaurant",
+    "slug": "theconsulaterestaurant",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "address": "10 10th St NW Suite P200"
+  },
+  {
+    "name": "5Church Midtown",
+    "slug": "5churchmidtown",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "address": "1197 Peachtree St NE #528"
+  },
+  {
+    "name": "Crescent City Kitchen",
+    "slug": "crescentcitykitchen",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "address": "1080 Crescent Ave NE #6"
+  },
+  {
+    "name": "Boqueria Colony Sqaure",
+    "slug": "boqueriacolonysqaure",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "address": "1221 Peachtree St NE Suite 110"
+  },
+  {
+    "name": "Wagyu House Atlanta",
+    "slug": "wagyuhouseatlanta",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "address": "1042 Northside Dr NW suite 1300"
+  },
+  {
+    "name": "Ecco Midtown",
+    "slug": "eccomidtown",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "address": "40 7th St NE"
+  },
+  {
+    "name": "Yebo Beach Haus",
+    "slug": "yebobeachhaus",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "address": "56 E Andrews Dr NW Unit 7"
+  }
+]

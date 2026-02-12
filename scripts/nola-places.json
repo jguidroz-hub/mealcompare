@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Brennan's",
+    "slug": "brennans",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "address": "417 Royal St"
+  },
+  {
+    "name": "Napoleon House",
+    "slug": "napoleonhouse",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "address": "500 Chartres St"
+  },
+  {
+    "name": "Cochon Restaurant",
+    "slug": "cochonrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "address": "930 Tchoupitoulas St Ste A"
+  },
+  {
+    "name": "Muriel's Jackson Square",
+    "slug": "murielsjacksonsquare",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "address": "801 Chartres St"
+  },
+  {
+    "name": "Commander's Palace",
+    "slug": "commanderspalace",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "address": "1403 Washington Ave"
+  },
+  {
+    "name": "GW Fins",
+    "slug": "gwfins",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "address": "808 Bienville St"
+  },
+  {
+    "name": "Cochon Butcher",
+    "slug": "cochonbutcher",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "address": "930 Tchoupitoulas St"
+  },
+  {
+    "name": "Olde Nola Cookery",
+    "slug": "oldenolacookery",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "address": "205 Bourbon St"
+  },
+  {
+    "name": "Bourbon House",
+    "slug": "bourbonhouse",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "address": "144 Bourbon St"
+  },
+  {
+    "name": "Luke",
+    "slug": "luke",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "address": "333 St Charles Ave"
+  },
+  {
+    "name": "zesty creole",
+    "slug": "zestycreole",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "address": "827 Canal St"
+  },
+  {
+    "name": "Mulate's | The Original Cajun Restaurant",
+    "slug": "mulatestheoriginalcajunrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "address": "201 Julia St"
+  },
+  {
+    "name": "Creole House Restaurant & Oyster Bar",
+    "slug": "creolehouserestaurantoysterbar",
+    "category": "seafood",
+    "metros": [
+      "nola"
+    ],
+    "address": "509 Canal St"
+  },
+  {
+    "name": "Cajun Seafood",
+    "slug": "cajunseafood",
+    "category": "seafood",
+    "metros": [
+      "nola"
+    ],
+    "address": "1479 N Claiborne Ave"
+  },
+  {
+    "name": "The Original Pierre Maspero's",
+    "slug": "theoriginalpierremasperos",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "address": "440 Chartres St"
+  },
+  {
+    "name": "Mambo’s",
+    "slug": "mambos",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "address": "411 Bourbon St"
+  },
+  {
+    "name": "Hot N Cajun Boil House",
+    "slug": "hotncajunboilhouse",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "address": "901 Iberville St"
+  }
+]

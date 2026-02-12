@@ -1,0 +1,182 @@
+[
+  {
+    "name": "The Finch",
+    "slug": "thefinch",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "address": "111 10th Ave S #310"
+  },
+  {
+    "name": "Puckett's Restaurant",
+    "slug": "puckettsrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "address": "500 Church St"
+  },
+  {
+    "name": "The Stillery",
+    "slug": "thestillery",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "address": "113 2nd Ave N"
+  },
+  {
+    "name": "The Loveless Cafe",
+    "slug": "thelovelesscafe",
+    "category": "cafe",
+    "metros": [
+      "nashville"
+    ],
+    "address": "8400 TN-100"
+  },
+  {
+    "name": "Lockeland Table",
+    "slug": "lockelandtable",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "address": "1520 Woodland St"
+  },
+  {
+    "name": "The Hampton Social - Nashville",
+    "slug": "thehamptonsocial-nashville",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "address": "201 1st Ave S"
+  },
+  {
+    "name": "The Treehouse Nashville",
+    "slug": "thetreehousenashville",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "address": "1011 Clearview Ave"
+  },
+  {
+    "name": "Milk & Honey Gulch",
+    "slug": "milkhoneygulch",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "address": "214 11th Ave S"
+  },
+  {
+    "name": "Harriet's Rooftop",
+    "slug": "harrietsrooftop",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "address": "710 Demonbreun St 19th Floor"
+  },
+  {
+    "name": "The Twelve Thirty Club",
+    "slug": "thetwelvethirtyclub",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "address": "550 Broadway"
+  },
+  {
+    "name": "Hattie B's Hot Chicken - Nashville - Midtown",
+    "slug": "hattiebshotchicken-nashville-midtown",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "address": "112 19th Ave S"
+  },
+  {
+    "name": "Red's Hot Chicken",
+    "slug": "redshotchicken",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "address": "115 27th Ave N"
+  },
+  {
+    "name": "Champy's Nashville",
+    "slug": "champysnashville",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "address": "204 3rd Ave S"
+  },
+  {
+    "name": "Prince's Hot Chicken Shack South",
+    "slug": "princeshotchickenshacksouth",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "address": "5814 Nolensville Pk #110"
+  },
+  {
+    "name": "Hattie B's Hot Chicken - Nashville - Lower Broadway",
+    "slug": "hattiebshotchicken-nashville-lowerbroadw",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "address": "5069 Broadway Suite A-103"
+  },
+  {
+    "name": "Hattie B's Hot Chicken - Nashville - West",
+    "slug": "hattiebshotchicken-nashville-west",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "address": "5209 Charlotte Ave"
+  },
+  {
+    "name": "Hattie B's Hot Chicken - Nashville - Melrose",
+    "slug": "hattiebshotchicken-nashville-melrose",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "address": "2222 8th Ave S"
+  },
+  {
+    "name": "Helen's Hot Chicken",
+    "slug": "helenshotchicken",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "address": "2010 Scarritt Pl"
+  },
+  {
+    "name": "Hella Hot Chicken Donelson",
+    "slug": "hellahotchickendonelson",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "address": "509 Donelson Pike Suit B"
+  },
+  {
+    "name": "Pepperfire Hot Chicken",
+    "slug": "pepperfirehotchicken",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "address": "5104 Centennial Blvd"
+  }
+]
