@@ -203,8 +203,36 @@ function renderResult(result: ComparisonResult): void {
   // Wire click handlers
   content.querySelectorAll('.quote[data-deeplink]').forEach(el => {
     el.addEventListener('click', () => {
-      const url = (el as HTMLElement).dataset.deeplink;
-      if (url) chrome.tabs.create({ url });
+      let url = (el as HTMLElement).dataset.deeplink;
+      if (!url) return;
+      const platform = (el as HTMLElement).dataset.platform;
+
+      // Add UTM params for direct ordering links
+      if (platform === 'direct') {
+        try {
+          const u = new URL(url);
+          u.searchParams.set('utm_source', 'skipthefee');
+          u.searchParams.set('utm_medium', 'extension');
+          u.searchParams.set('utm_campaign', 'direct_order');
+          u.searchParams.set('ref', 'skipthefee');
+          url = u.toString();
+        } catch {}
+
+        // Track the click
+        fetch('https://skipthefee.vercel.app/api/track', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            restaurant: result.restaurantName,
+            slug: result.restaurantName.toLowerCase().replace(/[^a-z0-9]+/g, '-'),
+            metro: 'unknown',
+            source: 'extension',
+            directUrl: url,
+          }),
+        }).catch(() => {});
+      }
+
+      chrome.tabs.create({ url });
     });
   });
 
@@ -251,7 +279,7 @@ function renderQuote(quote: PlatformQuote, isBest: boolean, extraCost: number): 
   const directBadge = isDirect ? ' <span style="background:#2563eb;color:white;font-size:9px;font-weight:700;padding:1px 5px;border-radius:3px;margin-left:4px;">NO MARKUP</span>' : '';
 
   return `
-    <div class="quote ${isBest ? 'best' : ''}" data-deeplink="${quote.deepLink || ''}" style="cursor:${quote.deepLink ? 'pointer' : 'default'}">
+    <div class="quote ${isBest ? 'best' : ''}" data-deeplink="${quote.deepLink || ''}" data-platform="${quote.platform}" style="cursor:${quote.deepLink ? 'pointer' : 'default'}">
       <div style="flex:1;min-width:0;">
         <div style="display:flex;align-items:center;gap:4px;flex-wrap:wrap;">
           <span class="platform">

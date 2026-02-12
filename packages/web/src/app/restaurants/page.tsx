@@ -159,7 +159,7 @@ export default function RestaurantsPage() {
           </div>
         ) : (
           filtered.map((r, i) => (
-            <RestaurantCard key={`${r.name}-${i}`} restaurant={r} />
+            <RestaurantCard key={`${r.name}-${i}`} restaurant={r} metro={metro} />
           ))
         )}
       </div>
@@ -178,9 +178,41 @@ export default function RestaurantsPage() {
   );
 }
 
-function RestaurantCard({ restaurant: r }: { restaurant: Restaurant }) {
+function trackClick(restaurant: Restaurant, metro: string) {
+  const slug = restaurant.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+$/, '');
+  fetch('/api/track', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      restaurant: restaurant.name,
+      slug,
+      metro,
+      source: 'pwa',
+      directUrl: restaurant.directUrl,
+    }),
+  }).catch(() => {}); // Best-effort, never block
+}
+
+function addUtmParams(url: string): string {
+  try {
+    const u = new URL(url);
+    u.searchParams.set('utm_source', 'skipthefee');
+    u.searchParams.set('utm_medium', 'pwa');
+    u.searchParams.set('utm_campaign', 'direct_order');
+    u.searchParams.set('ref', 'skipthefee');
+    return u.toString();
+  } catch {
+    return url + (url.includes('?') ? '&' : '?') + 'utm_source=skipthefee&ref=skipthefee';
+  }
+}
+
+function RestaurantCard({ restaurant: r, metro }: { restaurant: Restaurant; metro: string }) {
   const hasDirect = !!r.directUrl;
   const platform = r.hasToast ? 'Toast' : r.hasSquare ? 'Square' : r.hasWebsite ? 'Website' : null;
+
+  const handleDirectClick = () => {
+    trackClick(r, metro);
+  };
 
   return (
     <div style={S.card}>
@@ -196,7 +228,13 @@ function RestaurantCard({ restaurant: r }: { restaurant: Restaurant }) {
         )}
       </div>
       {hasDirect ? (
-        <a href={r.directUrl!} target="_blank" rel="noopener noreferrer" style={S.directBtn}>
+        <a
+          href={addUtmParams(r.directUrl!)}
+          target="_blank"
+          rel="noopener noreferrer"
+          style={S.directBtn}
+          onClick={handleDirectClick}
+        >
           Order Direct — Skip the Fees →
         </a>
       ) : (
