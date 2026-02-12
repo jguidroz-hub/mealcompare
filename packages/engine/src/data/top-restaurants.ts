@@ -93,6 +93,12 @@ export const AUSTIN_RESTAURANTS: RestaurantData[] = [
   { name: 'ATX Latin Food', slug: 'atxlatinfood', category: 'latin', metros: ['austin'], toastUrl: 'https://atxlatinfood.toast.site/' },
   { name: 'Tropicana Cuban', slug: 'tropicanacuban', category: 'cuban', metros: ['austin'], toastUrl: 'https://tropicanacubanrestaurant.toast.site/' },
   { name: 'Foreign & Domestic', slug: 'foreigndomestic', category: 'american', metros: ['austin'], toastUrl: 'https://foreigndomestic.toast.site/' },
+  { name: 'Taco n Maíz', slug: 'taconmaiz', category: 'mexican', metros: ['austin'], toastUrl: 'https://taconmaiz.toast.site/' },
+  { name: 'Ovenbird', slug: 'ovenbird', category: 'american', metros: ['austin'], toastUrl: 'https://ovenbird.toast.site/' },
+  { name: "Donkey Mo's Korean Fried Chicken", slug: 'donkeymos', category: 'korean', metros: ['austin'], toastUrl: 'https://donkeymoskoreanfriedchicken.toast.site/' },
+  { name: 'Om-Le Road', slug: 'omleroad', category: 'thai', metros: ['austin'], toastUrl: 'https://omleroad.toast.site/' },
+  { name: "Buddy's Burger", slug: 'buddysburger', category: 'burgers', metros: ['austin'], toastUrl: 'https://buddysburger.toast.site/' },
+  { name: 'Spread & Co.', slug: 'spreadco', category: 'cafe', metros: ['austin'], toastUrl: 'https://spreadcocherrywood.toast.site/' },
 
   // Austin staples
   { name: 'Whataburger', slug: 'whataburger', category: 'burgers', metros: ['austin'], websiteOrderUrl: 'https://whataburger.com/order' },
