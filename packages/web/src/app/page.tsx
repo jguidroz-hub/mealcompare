@@ -34,23 +34,23 @@ export default function Home() {
       </nav>
 
       {/* Hero */}
-      <section className="bg-glow" style={{ textAlign: 'center', padding: '100px 24px 80px', maxWidth: 900, margin: '0 auto', position: 'relative' }}>
+      <section className="bg-glow hero-section" style={{ textAlign: 'center', padding: '100px 24px 80px', maxWidth: 900, margin: '0 auto', position: 'relative' }}>
         <div className="fade-in-up" style={{ position: 'relative', zIndex: 1 }}>
           <div style={{ display: 'inline-flex', alignItems: 'center', gap: 8, background: 'rgba(16,185,129,0.08)', border: '1px solid rgba(16,185,129,0.15)', borderRadius: 100, padding: '6px 18px', fontSize: 13, color: '#10b981', fontWeight: 600, marginBottom: 28 }}>
             <span style={{ width: 6, height: 6, borderRadius: '50%', background: '#10b981' }} /> Average savings: $5–15 per order
           </div>
 
-          <h1 className="mobile-hero" style={{ fontSize: 56, fontWeight: 900, lineHeight: 1.05, letterSpacing: '-0.03em', marginBottom: 24 }}>
+          <h1 className="hero-title" style={{ fontSize: 56, fontWeight: 900, lineHeight: 1.05, letterSpacing: '-0.03em', marginBottom: 24 }}>
             Stop overpaying for{' '}
             <span className="gradient-text">food delivery</span>
           </h1>
 
-          <p style={{ fontSize: 18, color: '#64748b', lineHeight: 1.7, maxWidth: 580, margin: '0 auto 40px' }}>
+          <p className="hero-subtitle" style={{ fontSize: 18, color: '#64748b', lineHeight: 1.7, maxWidth: 580, margin: '0 auto 40px' }}>
             The same order costs different amounts on every platform. SkipTheFee shows you the cheapest option — including{' '}
             <span style={{ color: '#94a3b8' }}>direct ordering</span> — in one click.
           </p>
 
-          <div style={{ display: 'flex', gap: 14, justifyContent: 'center', flexWrap: 'wrap' }}>
+          <div className="hero-buttons" style={{ display: 'flex', gap: 14, justifyContent: 'center', flexWrap: 'wrap' }}>
             <Link href="/install" className="btn-glow">
               🧩 Install Extension — Free
             </Link>
@@ -66,7 +66,7 @@ export default function Home() {
       </section>
 
       {/* Live Comparison Card */}
-      <section style={{ maxWidth: 560, margin: '0 auto 100px', padding: '0 24px' }}>
+      <section className="comparison-card" style={{ maxWidth: 560, margin: '0 auto 100px', padding: '0 24px' }}>
         <div className="glass-card" style={{ padding: 0, overflow: 'hidden' }}>
           {/* Card header */}
           <div style={{ padding: '20px 24px 16px', borderBottom: '1px solid rgba(255,255,255,0.05)' }}>
@@ -95,7 +95,7 @@ export default function Home() {
       {/* How It Works */}
       <section id="how" style={{ padding: '100px 24px', maxWidth: 1000, margin: '0 auto' }}>
         <div style={{ textAlign: 'center', marginBottom: 56 }}>
-          <h2 style={{ fontSize: 40, fontWeight: 800, letterSpacing: '-0.02em', marginBottom: 12 }}>
+          <h2 className="section-title" style={{ fontSize: 40, fontWeight: 800, letterSpacing: '-0.02em', marginBottom: 12 }}>
             How it <span className="gradient-text">works</span>
           </h2>
           <p style={{ fontSize: 16, color: '#475569', maxWidth: 500, margin: '0 auto' }}>
@@ -103,7 +103,7 @@ export default function Home() {
           </p>
         </div>
 
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))', gap: 20 }}>
+        <div className="steps-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))', gap: 20 }}>
           {[
             { num: '01', icon: '🛒', title: 'Add to cart', desc: 'Browse DoorDash, Uber Eats, or Grubhub. Shop like normal.' },
             { num: '02', icon: '⚡', title: 'Auto-compare', desc: 'SkipTheFee detects your cart and checks every platform + direct ordering.' },
@@ -124,7 +124,7 @@ export default function Home() {
       <section id="fees" style={{ padding: '100px 24px' }}>
         <div style={{ maxWidth: 800, margin: '0 auto' }}>
           <div style={{ textAlign: 'center', marginBottom: 56 }}>
-            <h2 style={{ fontSize: 40, fontWeight: 800, letterSpacing: '-0.02em', marginBottom: 12 }}>
+            <h2 className="section-title" style={{ fontSize: 40, fontWeight: 800, letterSpacing: '-0.02em', marginBottom: 12 }}>
               The fees they <span className="gradient-text-warm">don&apos;t show you</span>
             </h2>
             <p style={{ fontSize: 16, color: '#475569' }}>
@@ -132,7 +132,7 @@ export default function Home() {
             </p>
           </div>
 
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>
+          <div className="fee-grid" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>
             {[
               { label: 'Menu Markup', value: '15–20%', desc: 'Platforms charge restaurants 28–33%. Restaurants raise menu prices to cover it.', color: '#ef4444' },
               { label: 'Service Fee', value: '$2–10', desc: 'A % of your subtotal. Goes to the platform — not your driver or restaurant.', color: '#f59e0b' },
@@ -157,7 +157,7 @@ export default function Home() {
       {/* Real Savings */}
       <section style={{ padding: '80px 24px', maxWidth: 700, margin: '0 auto' }}>
         <div style={{ textAlign: 'center', marginBottom: 40 }}>
-          <h2 style={{ fontSize: 36, fontWeight: 800, letterSpacing: '-0.02em', marginBottom: 8 }}>
+          <h2 className="section-title" style={{ fontSize: 36, fontWeight: 800, letterSpacing: '-0.02em', marginBottom: 8 }}>
             Real savings, <span className="gradient-text">real orders</span>
           </h2>
           <p style={{ fontSize: 14, color: '#475569' }}>Actual comparisons from supported cities.</p>
@@ -170,12 +170,12 @@ export default function Home() {
             { restaurant: 'CAVA (Bowl + Pita Chips)', city: 'DC', savings: '$6.23', best: 'Grubhub', worst: 'Uber Eats' },
             { restaurant: "Torchy's Tacos (2 tacos + queso)", city: 'Austin', savings: '$5.40', best: 'Direct', worst: 'Uber Eats' },
           ].map((ex) => (
-            <div key={ex.restaurant} className="glass-card glass-card-hover" style={{ padding: '18px 22px', display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 12 }}>
+            <div key={ex.restaurant} className="glass-card glass-card-hover savings-card" style={{ padding: '18px 22px', display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 12 }}>
               <div style={{ minWidth: 0 }}>
                 <div style={{ fontWeight: 700, fontSize: 14 }}>{ex.restaurant}</div>
-                <div style={{ fontSize: 12, color: '#475569', marginTop: 2 }}>📍 {ex.city} · Best: {ex.best} · Worst: {ex.worst}</div>
+                <div style={{ fontSize: 12, color: '#475569', marginTop: 2 }}>📍 {ex.city} · Best: {ex.best}</div>
               </div>
-              <div style={{ background: 'rgba(16,185,129,0.12)', border: '1px solid rgba(16,185,129,0.2)', borderRadius: 8, padding: '6px 14px', flexShrink: 0 }}>
+              <div className="savings-badge" style={{ background: 'rgba(16,185,129,0.12)', border: '1px solid rgba(16,185,129,0.2)', borderRadius: 8, padding: '6px 14px', flexShrink: 0 }}>
                 <span style={{ fontWeight: 800, color: '#10b981', fontSize: 14 }}>{ex.savings}</span>
               </div>
             </div>
@@ -205,7 +205,7 @@ export default function Home() {
       {/* Bottom CTA */}
       <section className="bg-glow" style={{ padding: '100px 24px', textAlign: 'center', position: 'relative' }}>
         <div style={{ position: 'relative', zIndex: 1 }}>
-          <h2 style={{ fontSize: 40, fontWeight: 800, letterSpacing: '-0.02em', marginBottom: 16 }}>
+          <h2 className="bottom-cta-title" style={{ fontSize: 40, fontWeight: 800, letterSpacing: '-0.02em', marginBottom: 16 }}>
             Start <span className="gradient-text">saving</span> today
           </h2>
           <p style={{ fontSize: 16, color: '#64748b', maxWidth: 440, margin: '0 auto 32px' }}>
@@ -233,7 +233,7 @@ function QuoteRow({ name, total, fees, tag, tagColor, icon, best }: {
   name: string; total: string; fees: string; tag: string; tagColor: string; icon: string; best?: boolean;
 }) {
   return (
-    <div style={{
+    <div className="quote-row" style={{
       background: best ? 'rgba(16,185,129,0.06)' : 'rgba(255,255,255,0.02)',
       borderRadius: 10,
       padding: '12px 14px',
@@ -243,15 +243,15 @@ function QuoteRow({ name, total, fees, tag, tagColor, icon, best }: {
       alignItems: 'center',
       border: best ? '1px solid rgba(16,185,129,0.15)' : '1px solid transparent',
     }}>
-      <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
-        <span style={{ fontSize: 16 }}>{icon}</span>
-        <div>
-          <div style={{ fontWeight: 600, fontSize: 14 }}>{name}</div>
-          <div style={{ fontSize: 11, color: '#475569' }}>{fees}</div>
+      <div style={{ display: 'flex', alignItems: 'center', gap: 8, minWidth: 0, flex: 1 }}>
+        <span style={{ fontSize: 14, flexShrink: 0 }}>{icon}</span>
+        <div style={{ minWidth: 0 }}>
+          <div className="quote-name" style={{ fontWeight: 600, fontSize: 14 }}>{name}</div>
+          <div className="quote-fees" style={{ fontSize: 11, color: '#475569', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{fees}</div>
         </div>
       </div>
-      <div style={{ textAlign: 'right' }}>
-        <div style={{ fontWeight: 700, fontSize: 15 }}>{total}</div>
+      <div style={{ textAlign: 'right', flexShrink: 0, marginLeft: 8 }}>
+        <div className="quote-total" style={{ fontWeight: 700, fontSize: 15 }}>{total}</div>
         <span style={{ fontSize: 10, fontWeight: 700, color: 'white', background: tagColor, padding: '2px 6px', borderRadius: 4 }}>{tag}</span>
       </div>
     </div>

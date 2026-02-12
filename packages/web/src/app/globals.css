@@ -220,7 +220,83 @@ body {
 /* Mobile responsive */
 @media (max-width: 640px) {
   .desktop-only { display: none !important; }
-  .mobile-hero h1 { font-size: 36px !important; }
+
+  /* Hero */
+  .hero-title {
+    font-size: 36px !important;
+    letter-spacing: -0.02em !important;
+  }
+  .hero-subtitle {
+    font-size: 15px !important;
+  }
+  .hero-section {
+    padding: 60px 20px 50px !important;
+  }
+  .hero-buttons {
+    flex-direction: column !important;
+    align-items: stretch !important;
+  }
+  .hero-buttons a {
+    justify-content: center !important;
+  }
+
+  /* Steps grid */
+  .steps-grid {
+    grid-template-columns: 1fr !important;
+    gap: 12px !important;
+  }
+
+  /* Fee grid */
+  .fee-grid {
+    grid-template-columns: 1fr !important;
+    gap: 12px !important;
+  }
+
+  /* Section headers */
+  .section-title {
+    font-size: 28px !important;
+  }
+
+  /* Comparison card */
+  .comparison-card {
+    margin-left: 8px !important;
+    margin-right: 8px !important;
+  }
+
+  /* Quote row */
+  .quote-row {
+    padding: 10px 12px !important;
+  }
+  .quote-name {
+    font-size: 13px !important;
+  }
+  .quote-fees {
+    font-size: 10px !important;
+  }
+  .quote-total {
+    font-size: 14px !important;
+  }
+
+  /* Savings cards */
+  .savings-card {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 8px !important;
+  }
+  .savings-badge {
+    align-self: flex-end !important;
+  }
+
+  /* Bottom CTA */
+  .bottom-cta-title {
+    font-size: 30px !important;
+  }
+
+  /* Status bar */
+  .status-bar {
+    padding: 12px 16px !important;
+    gap: 12px !important;
+  }
 }
 @media (min-width: 641px) {
   .mobile-only { display: none !important; }
