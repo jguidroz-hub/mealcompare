@@ -125,6 +125,22 @@ export const DC_RESTAURANTS: RestaurantData[] = [
   { name: 'Nando\'s Peri-Peri', slug: 'nandos', category: 'chicken', metros: ['dc'], websiteOrderUrl: 'https://www.nandosperiperi.com/order' },
   { name: 'Cava', slug: 'cava', category: 'mediterranean', metros: ['dc', 'austin'], websiteOrderUrl: 'https://cava.com/order' },
   { name: 'Sweetgreen', slug: 'sweetgreen', category: 'salads', metros: ['dc', 'austin'], websiteOrderUrl: 'https://www.sweetgreen.com/order' },
+  // Toast crawler discoveries (Feb 12)
+  { name: 'DC Pizza', slug: 'dcpizza', category: 'pizza', metros: ['dc'], toastUrl: 'https://dcpizza.toast.site/' },
+  { name: 'Joselito', slug: 'joselito', category: 'latin', metros: ['dc'], toastUrl: 'https://joselito.toast.site/' },
+  { name: 'Eat Today', slug: 'eattoday', category: 'american', metros: ['dc'], toastUrl: 'https://eattodaynew.toast.site/' },
+  { name: 'Oohh\'s & Aahh\'s', slug: 'oohhsaaahhs', category: 'soul-food', metros: ['dc'], toastUrl: 'https://oohhsaahhsustreet.toast.site/' },
+  { name: 'The Cornerstone Grill & Loft', slug: 'cornerstonegrill', category: 'sports-bar', metros: ['dc'], toastUrl: 'https://thecornerstonegrillloft.toast.site/' },
+  { name: 'WINNER Bakery', slug: 'winnerbakery', category: 'bakery', metros: ['dc'], toastUrl: 'https://winnerbakery.toast.site/' },
+  { name: 'Ladurée DC', slug: 'ladurreedc', category: 'bakery', metros: ['dc'], toastUrl: 'https://ladure-ssad58my.toast.site/' },
+  { name: 'All-Purpose', slug: 'allpurpose', category: 'pizza', metros: ['dc'] },
+  { name: 'Henry\'s Soul Cafe', slug: 'henryssoulcafe', category: 'soul-food', metros: ['dc'] },
+  { name: 'The Prime Rib', slug: 'theprimerib', category: 'steakhouse', metros: ['dc'] },
+  { name: 'Bar Chinois', slug: 'barchinois', category: 'chinese', metros: ['dc'] },
+  { name: 'Cru Lounge', slug: 'crulounge', category: 'lounge', metros: ['dc'] },
+  { name: 'Catalogue', slug: 'catalogue', category: 'american', metros: ['dc'] },
+  { name: 'The Diner', slug: 'thediner', category: 'diner', metros: ['dc'] },
+  { name: 'Prime Pizza', slug: 'primepizza', category: 'pizza', metros: ['dc'], toastUrl: 'https://primepizza-o5fce583.toast.site/' },
 ];
 
 // ─── Austin Restaurants ────────────────────────────────────────
@@ -210,6 +226,8 @@ export const AUSTIN_RESTAURANTS: RestaurantData[] = [
   { name: 'Interstellar BBQ', slug: 'interstellarbbq', category: 'bbq', metros: ['austin'] },
   { name: 'Lucky Robot', slug: 'luckyrobot', category: 'japanese', metros: ['austin'] },
   { name: 'Aba', slug: 'aba', category: 'mediterranean', metros: ['austin'] },
+  // Toast crawler discoveries (Feb 12)
+  { name: 'Blue Corn Harvest', slug: 'bluecornharvest', category: 'southwestern', metros: ['austin'], toastUrl: 'https://bluecornharvest.toast.site/' },
 ];
 
 // ─── Combined Index ────────────────────────────────────────────
