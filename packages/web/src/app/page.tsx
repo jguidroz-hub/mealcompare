@@ -96,7 +96,7 @@ export default function Home() {
           <a href="#how-it-works" style={styles.outlineBtn}>See How It Works</a>
         </div>
         <p style={{ fontSize: '13px', color: '#475569', marginTop: '16px' }}>
-          Available in 15 cities · 596 restaurants · NYC, Chicago, LA, Boston, Miami & more
+          Available in 15 cities · 1,154 restaurants · NYC, Chicago, LA, Boston, Miami & more
         </p>
       </section>
 
