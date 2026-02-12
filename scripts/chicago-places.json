@@ -576,7 +576,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "1700s S Michigan Ave"
+    "address": "1700s S Michigan Ave",
+    "placeId": "ChIJpSl_KQAtDogRq6chtP55tSw",
+    "website": "https://www.casatulumchicago.com/"
   },
   {
     "name": "Tzuco",
@@ -585,7 +587,10 @@
     "metros": [
       "chicago"
     ],
-    "address": "720 N State St"
+    "address": "720 N State St",
+    "placeId": "ChIJ6WN3LkvTD4gRTXjLu5f5udU",
+    "website": "http://www.tzuco.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Momento Cantina",
@@ -594,7 +599,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "36 E Monroe St"
+    "address": "36 E Monroe St",
+    "placeId": "ChIJY7sVLAAtDogRqTWnwlnqexY",
+    "website": "https://www.momentocantina.com/"
   },
   {
     "name": "Matilda Restaurant",
@@ -603,7 +610,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "535 N Wells St"
+    "address": "535 N Wells St",
+    "placeId": "ChIJV5RAKCstDogRe3Lp16i6fq8",
+    "website": "http://www.matildachicago.com/"
   },
   {
     "name": "XOCO",
@@ -612,7 +621,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "65 W Illinois St"
+    "address": "65 W Illinois St",
+    "placeId": "ChIJFyS_LLIsDogRfYRCJl5tTRk",
+    "website": "https://xocochicago.com/"
   },
   {
     "name": "La Luna",
@@ -621,7 +632,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "1726 S Racine Ave"
+    "address": "1726 S Racine Ave",
+    "placeId": "ChIJqYUIzlstDogRhpkfbOcPTKg",
+    "website": "https://www.lalunachicago.com/"
   },
   {
     "name": "Frontera Grill",
@@ -630,7 +643,10 @@
     "metros": [
       "chicago"
     ],
-    "address": "445 N Clark St"
+    "address": "445 N Clark St",
+    "placeId": "ChIJ25jYKrIsDogR13tC4wGGODg",
+    "website": "https://www.fronteragrill.com/",
+    "websiteOrderUrl": "https://order.online/store/frontera-grill-chicago-966971"
   },
   {
     "name": "Green Street Smoked Meats",
@@ -639,7 +655,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "112 N Green St"
+    "address": "112 N Green St",
+    "placeId": "ChIJg-wR2tosDogRxibEiu_r74A",
+    "website": "https://greenstreetmeats.com/"
   },
   {
     "name": "Smoque BBQ",
@@ -648,7 +666,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "3800 N Pulaski Rd"
+    "address": "3800 N Pulaski Rd",
+    "placeId": "ChIJDZeum7DND4gRz3TnBpALJxM",
+    "website": "http://www.smoquebbq.com/"
   },
   {
     "name": "Bub City",
@@ -657,7 +677,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "435 N Clark St"
+    "address": "435 N Clark St",
+    "placeId": "ChIJMaurKrIsDogRfzxokqjCMys",
+    "website": "http://www.bub-city.com/"
   },
   {
     "name": "Chubby Cattle BBQ | Chicago",
@@ -666,7 +688,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "2162 S Archer Ave"
+    "address": "2162 S Archer Ave",
+    "placeId": "ChIJxTGJ2NstDogRY1uYLTWFaFI",
+    "website": "https://www.chubbycattle.com/project/chubby-cattle-chicago/"
   },
   {
     "name": "Offset BBQ",
@@ -675,7 +699,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "1720 N California Ave"
+    "address": "1720 N California Ave",
+    "placeId": "ChIJQe0xnx3TD4gRNkBizZkNz0Y",
+    "website": "http://www.offsetbbq.com/"
   },
   {
     "name": "Honky Tonk BBQ / The Tonk",
@@ -684,7 +710,10 @@
     "metros": [
       "chicago"
     ],
-    "address": "1213 W 18th St"
+    "address": "1213 W 18th St",
+    "placeId": "ChIJTe-ex_8sDogRb8ExHBU5H1U",
+    "website": "http://thetonkchicago.com/",
+    "toastUrl": "https://order.toasttab.com/online/honky-tonk-bbq-1800-s-racine-ave"
   },
   {
     "name": "Chicago Q",
@@ -693,7 +722,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "1160 N Dearborn St"
+    "address": "1160 N Dearborn St",
+    "placeId": "ChIJvwW8pE_TD4gRPxa1d_7g73Q",
+    "website": "https://chicagoqrestaurant.com/"
   },
   {
     "name": "Carson’s Prime Steaks & Famous Barbecue – Chicago (Streeterville)",
@@ -702,7 +733,9 @@
     "metros": [
       "chicago"
     ],
-    "address": "465 E Illinois St"
+    "address": "465 E Illinois St",
+    "placeId": "ChIJb0J6irQsDogRs6c6XNo9G6o",
+    "website": "http://www.ribs.com/"
   },
   {
     "name": "Soul & Smoke - Avondale at Rockwell on the River",
@@ -711,7 +744,10 @@
     "metros": [
       "chicago"
     ],
-    "address": "3057 N Rockwell St"
+    "address": "3057 N Rockwell St",
+    "placeId": "ChIJ9boHDmvND4gR5a6U_CQdCoA",
+    "website": "https://www.soulandsmoke.com/avondale?utm_source=googlebusinessprovile",
+    "toastUrl": "https://order.toasttab.com/online/soulandsmoke"
   },
   {
     "name": "Smoke Daddy BBQ - Wrigleyville",

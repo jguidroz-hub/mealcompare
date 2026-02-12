@@ -41,8 +41,8 @@
       "nyc"
     ],
     "address": "292 Bedford Ave",
-    "placeId": "ChIJ8dxLTj1awokRcLagjGlwyHc",
-    "website": "http://www.holeinthewallnyc.com/fidi"
+    "placeId": "ChIJQ-CvczNZwokRpXG_aN7SPgE",
+    "website": "https://www.holeinthewallnyc.com/flatiron-district"
   },
   {
     "name": "The River Café",
@@ -570,7 +570,10 @@
     "metros": [
       "nyc"
     ],
-    "address": "630 9th Ave"
+    "address": "630 9th Ave",
+    "placeId": "ChIJscoCyFNYwokRDMEEfPoNM8o",
+    "website": "http://www.5napkinburger.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Black Iron Burger Theater District | Hamburger restaurant Bar",
@@ -579,7 +582,10 @@
     "metros": [
       "nyc"
     ],
-    "address": "250 W 54th St"
+    "address": "250 W 54th St",
+    "placeId": "ChIJsQ4NaLBZwokRhZu2rVnbykw",
+    "website": "http://www.blackironburger.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Jackson Hole Burgers",
@@ -588,7 +594,9 @@
     "metros": [
       "nyc"
     ],
-    "address": "521 3rd Ave"
+    "address": "521 3rd Ave",
+    "placeId": "ChIJxy1zcQZZwokRmuPUv0M9GjA",
+    "website": "https://jacksonholeburgers.com/35th/"
   },
   {
     "name": "Bareburger",
@@ -597,7 +605,9 @@
     "metros": [
       "nyc"
     ],
-    "address": "2233 Broadway"
+    "address": "2233 Broadway",
+    "placeId": "ChIJhTdv51NYwokR7V105uVzf8g",
+    "website": "https://bareburger.com/"
   },
   {
     "name": "Black Iron Burger",
@@ -606,7 +616,10 @@
     "metros": [
       "nyc"
     ],
-    "address": "245 W 38th St"
+    "address": "245 W 38th St",
+    "placeId": "ChIJnSnH8qxZwokRzoMUSAeaFAA",
+    "website": "http://blackironburger.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "burger joint",
@@ -615,7 +628,9 @@
     "metros": [
       "nyc"
     ],
-    "address": "119 W 56th St"
+    "address": "119 W 56th St",
+    "placeId": "ChIJwfFb4flYwokRP78kZ3ER5a8",
+    "website": "https://www.burgerjointny.com/"
   },
   {
     "name": "Lovely's Old Fashioned",
@@ -624,7 +639,9 @@
     "metros": [
       "nyc"
     ],
-    "address": "642 9th Ave"
+    "address": "642 9th Ave",
+    "placeId": "ChIJd4_SnFJZwokRBeuZ-YwGaUw",
+    "website": "https://lovelysoldfashioned.com/?utm_source=google"
   },
   {
     "name": "Thai Villa",
@@ -633,7 +650,10 @@
     "metros": [
       "nyc"
     ],
-    "address": "5 E 19th St"
+    "address": "5 E 19th St",
+    "placeId": "ChIJfd-PtKNZwokR-m-0kzVTgBs",
+    "website": "https://thaivillanyc.com/",
+    "websiteOrderUrl": "https://ordering.chownow.com/order/12278/locations?add_cn_ordering_class=true"
   },
   {
     "name": "Mitr Thai Restaurant",
@@ -642,7 +662,10 @@
     "metros": [
       "nyc"
     ],
-    "address": "37 W 46th St"
+    "address": "37 W 46th St",
+    "placeId": "ChIJ3aKC18JZwokRV_edM73h9UI",
+    "website": "http://mitrthainyc.com/",
+    "websiteOrderUrl": "https://order.online/store/mitr-thai-new-york-24067248"
   },
   {
     "name": "Elephant Ear",
@@ -651,7 +674,9 @@
     "metros": [
       "nyc"
     ],
-    "address": "690 9th Ave"
+    "address": "690 9th Ave",
+    "placeId": "ChIJi2XB7ddZwokRgL_EV4MuQeI",
+    "website": "https://www.elephantear.com/"
   },
   {
     "name": "Soothr",
@@ -660,7 +685,9 @@
     "metros": [
       "nyc"
     ],
-    "address": "204 E 13th St"
+    "address": "204 E 13th St",
+    "placeId": "ChIJ0aS81yNZwokRIk-S2YSuvls",
+    "website": "http://soothrnyc.com/"
   },
   {
     "name": "Up Thai",
@@ -669,7 +696,10 @@
     "metros": [
       "nyc"
     ],
-    "address": "1411 2nd Ave"
+    "address": "1411 2nd Ave",
+    "placeId": "ChIJfQ5BQMBYwokR7CxrwWOFFjw",
+    "website": "http://www.upthainyc.com/",
+    "websiteOrderUrl": "https://order.online/store/up-thai-new-york-55320"
   },
   {
     "name": "Hey Thai",
@@ -678,7 +708,10 @@
     "metros": [
       "nyc"
     ],
-    "address": "127 John St"
+    "address": "127 John St",
+    "placeId": "ChIJJU3qKzRbwokRbfw1WrUWIJ4",
+    "website": "http://hey-thai-nyc.com/",
+    "websiteOrderUrl": "https://order.online/store/hey-thai-new-york-23613099"
   },
   {
     "name": "Chalong Southern Thai",
@@ -687,7 +720,9 @@
     "metros": [
       "nyc"
     ],
-    "address": "749 9th Ave"
+    "address": "749 9th Ave",
+    "placeId": "ChIJhwCMNh5ZwokROomRErlMEpk",
+    "website": "http://chalongnyc.com/"
   },
   {
     "name": "THEP Thai Restaurant",
