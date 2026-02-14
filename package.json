@@ -11,5 +11,10 @@
     "build": "npm -w packages/shared run build && npm -w packages/engine run build && npm -w packages/web run build && npm -w packages/extension run build",
     "build:web": "npm -w packages/web run build",
     "build:ext": "npm -w packages/shared run build && npm -w packages/engine run build && npm -w packages/extension run build"
+  },
+  "dependencies": {
+    "stripe": "^17.0.0",
+    "drizzle-orm": "^0.38.0",
+    "@neondatabase/serverless": "^0.10.0"
   }
 }
