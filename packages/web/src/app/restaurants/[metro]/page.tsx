@@ -364,7 +364,7 @@ function RestaurantRow({ restaurant: r, metro }: { restaurant: Restaurant; metro
         {/* Info */}
         <div style={{ flex: 1, minWidth: 0 }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
-            <span style={{ fontWeight: 700, fontSize: 15, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{r.name}</span>
+            <Link href={`/restaurant/${metro}/${slug}`} style={{ fontWeight: 700, fontSize: 15, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', color: '#e2e8f0', textDecoration: 'none' }}>{r.name}</Link>
             <button onClick={handleFav} style={{ background: 'none', border: 'none', cursor: 'pointer', fontSize: 14, padding: 0, flexShrink: 0 }} title={faved ? 'Remove from favorites' : 'Add to favorites'}>
               {faved ? '❤️' : '🤍'}
             </button>
