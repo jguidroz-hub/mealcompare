@@ -3230,5 +3230,122 @@
       "boston"
     ],
     "websiteOrderUrl": "https://www.clover.com/online-ordering/so-sabe-inc-boston"
+  },
+  {
+    "name": "Blue Salt Restaurant 1255 Washington st Newton",
+    "slug": "bluesaltrestaurant1255washingtonstnewton",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/boston-gourmet-foods-nro-1255-washington-st-newton"
+  },
+  {
+    "name": "Four Spoons Thai 2021 - Newton 796 Beacon Street",
+    "slug": "fourspoonsthai2021-newton796beaconstreet",
+    "category": "thai",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fourspoonsnewton"
+  },
+  {
+    "name": "Lee's Burger Place 216 Sumner Street, Newton Center.",
+    "slug": "leesburgerplace216sumnerstreetnewtoncent",
+    "category": "burgers",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lees-burgers-newton-216-sumner-street"
+  },
+  {
+    "name": "Tatte Bakery",
+    "slug": "tattebakery",
+    "category": "bakery",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tatte-bakery-newton-centre"
+  },
+  {
+    "name": "Cook Restaurant",
+    "slug": "cookrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cook-new"
+  },
+  {
+    "name": "Arlington Restaurant and Diner",
+    "slug": "arlingtonrestaurantanddiner",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-arlington-restaurant-and-diner-134-massachusetts-avenue"
+  },
+  {
+    "name": "Restaurant 45",
+    "slug": "restaurant45",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/restaurant-45"
+  },
+  {
+    "name": "Harbour Restaurant Winchendon",
+    "slug": "harbourrestaurantwinchendon",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/harbour-restaurant"
+  },
+  {
+    "name": "ᐅ Newton Pizza Delivery - Best Pizza Places in Newton 2026",
+    "slug": "newtonpizzadelivery-bestpizzaplacesinnew",
+    "category": "pizza",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/pizza-delivery/ma-newton"
+  },
+  {
+    "name": "BrickFire Pizza Co Menu - 1216 Chestnut St, Newton, MA ...",
+    "slug": "brickfirepizzacomenu-1216chestnutstnewto",
+    "category": "pizza",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/restaurants/ma/newton/02464/brickfire-pizza-co/menu"
+  },
+  {
+    "name": "4 Corners Pizza Menu: Pizza Delivery Newton Highlands, MA",
+    "slug": "4cornerspizzamenupizzadeliverynewtonhigh",
+    "category": "pizza",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/restaurants/ma/newton-highlands/02461/4-corners-pizza/menu"
+  },
+  {
+    "name": "Newton Square Pizza Menu - 712 A Pleasant St, Worcester ...",
+    "slug": "newtonsquarepizzamenu-712apleasantstworc",
+    "category": "pizza",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/restaurants/ma/worcester/01602/newton-square-pizza/menu"
+  },
+  {
+    "name": "Olivia's Bistro Menu: Pizza Delivery Newton, MA - Slice",
+    "slug": "oliviasbistromenupizzadeliverynewtonma-s",
+    "category": "pizza",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/restaurants/ma/newton/02458/olivia-s-bistro/menu"
   }
 ]

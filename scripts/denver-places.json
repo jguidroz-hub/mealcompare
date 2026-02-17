@@ -2544,5 +2544,23 @@
       "denver"
     ],
     "websiteOrderUrl": "https://www.clover.com/online-ordering/ctr-for-sustainability-denver"
+  },
+  {
+    "name": "Online Ordering for Slyce Pizza Co. - Fort Collins",
+    "slug": "onlineorderingforslycepizzaco-fortcollin",
+    "category": "pizza",
+    "metros": [
+      "denver"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/6612/locations/8766"
+  },
+  {
+    "name": "Online Ordering for Wing Shack - Fort Collins",
+    "slug": "onlineorderingforwingshack-fortcollins",
+    "category": "wings",
+    "metros": [
+      "denver"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/5288/locations/6904"
   }
 ]

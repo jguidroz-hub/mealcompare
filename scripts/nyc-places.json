@@ -4872,5 +4872,140 @@
       "nyc"
     ],
     "websiteOrderUrl": "https://www.clover.com/online-ordering/new-yorks-best-pizza-arlington"
+  },
+  {
+    "name": "DOMODOMO Jersey City",
+    "slug": "domodomojerseycity",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/domodomo-jersey-city-jersey-city"
+  },
+  {
+    "name": "Ani Ramen House Jersey City",
+    "slug": "aniramenhousejerseycity",
+    "category": "japanese",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ani-ramen-house-jersey-city"
+  },
+  {
+    "name": "Rasoi Restaurant",
+    "slug": "rasoirestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rasoi-restaurant"
+  },
+  {
+    "name": "Holy Burger (Jersey City) 356 Varick Street",
+    "slug": "holyburgerjerseycity356varickstreet",
+    "category": "burgers",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/holy-burger-jersey-356-varick-street"
+  },
+  {
+    "name": "Two Boots Pizza Jersey City",
+    "slug": "twobootspizzajerseycity",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/two-boots-jersey-city"
+  },
+  {
+    "name": "Bikanervala Jersey City",
+    "slug": "bikanervalajerseycity",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bikanervala-jersey-city"
+  },
+  {
+    "name": "Olaide's Kitchen- Jersey City 516 Paterson Plank Road",
+    "slug": "olaideskitchen-jerseycity516patersonplan",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/olaides-kitchen-jersey-city-516-paterson-plank-road"
+  },
+  {
+    "name": "Samurai Sushi - Jersey City 467 Communipaw ave",
+    "slug": "samuraisushi-jerseycity467communipawave",
+    "category": "japanese",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/samurai-sushi-jersey-city-467-communipaw-ave"
+  },
+  {
+    "name": "Carlitos Barbecue Taqueria District Kitchen Jersey City",
+    "slug": "carlitosbarbecuetaqueriadistrictkitchenj",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/carlitos-barbecue-taqueria-district-kitchen-210-hudson-street"
+  },
+  {
+    "name": "YALLA! Jersey City",
+    "slug": "yallajerseycity",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/yalla-shawarma-2-586-newark-avenue"
+  },
+  {
+    "name": "Online Ordering for Greene Hook - Jersey City",
+    "slug": "onlineorderingforgreenehook-jerseycity",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/3891/locations/5047"
+  },
+  {
+    "name": "Online Ordering for Two Boots Jersey City",
+    "slug": "onlineorderingfortwobootsjerseycity",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/2756/locations/4632"
+  },
+  {
+    "name": "Online Ordering for Meeras Indian Kitchen - Jersey City",
+    "slug": "onlineorderingformeerasindiankitchen-jer",
+    "category": "indian",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/8031/locations/10790"
+  },
+  {
+    "name": "Online Ordering for Mithaas - Jersey City",
+    "slug": "onlineorderingformithaas-jerseycity",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/5317/locations/6970"
+  },
+  {
+    "name": "Online Ordering for Taqueria Restaurant Oaxaca - Jersey City",
+    "slug": "onlineorderingfortaqueriarestaurantoaxac",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/3785/locations/4907"
   }
 ]

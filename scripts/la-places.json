@@ -3595,5 +3595,266 @@
       "la"
     ],
     "websiteOrderUrl": "https://partners.clover.com/restaurant-depot/home/"
+  },
+  {
+    "name": "Order KazuNori Online - Sushi Restaurant in Pasadena, CA",
+    "slug": "orderkazunorionline-sushirestaurantinpas",
+    "category": "japanese",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/6340/locations/64606"
+  },
+  {
+    "name": "Order Salad Farm Pasadena Online",
+    "slug": "ordersaladfarmpasadenaonline",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/7962/locations/10809"
+  },
+  {
+    "name": "Online Ordering for Carousel Restaurant - Glendale",
+    "slug": "onlineorderingforcarouselrestaurant-glen",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/169/locations/221"
+  },
+  {
+    "name": "Online Ordering for Floret Vegan Kitchen - Glendale",
+    "slug": "onlineorderingforfloretvegankitchen-glen",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/6625/locations/8789"
+  },
+  {
+    "name": "Online Ordering for Full O' Life - Burbank",
+    "slug": "onlineorderingforfullolife-burbank",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/4581/locations/5932"
+  },
+  {
+    "name": "Online Ordering for Wokcano - Burbank",
+    "slug": "onlineorderingforwokcano-burbank",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/1129/locations/1620"
+  },
+  {
+    "name": "Online Ordering for Simplethings - Burbank / Toluca Lake",
+    "slug": "onlineorderingforsimplethings-burbanktol",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/3014/locations/3952"
+  },
+  {
+    "name": "Online Ordering for Dog Haus - Burbank",
+    "slug": "onlineorderingfordoghaus-burbank",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/1750/locations/2709"
+  },
+  {
+    "name": "Online Ordering for Philly's Best - Burbank",
+    "slug": "onlineorderingforphillysbest-burbank",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/973/locations/3478"
+  },
+  {
+    "name": "The Pan-Torrance 3160 Pacific Coast Hwy",
+    "slug": "thepan-torrance3160pacificcoasthwy",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-pan-torrance-3160-pacific-coast-hwy"
+  },
+  {
+    "name": "Rascals Teriyaki Grill Torrance",
+    "slug": "rascalsteriyakigrilltorrance",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rascals-teriyaki-grill-torrance"
+  },
+  {
+    "name": "Pho Hana Torrance 22815 Hawthorne Blvd",
+    "slug": "phohanatorrance22815hawthorneblvd",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pho-hana-torrance-22815-hawthorne-blvd"
+  },
+  {
+    "name": "KING'S HAWAIIAN BAKERY & RESTAURANT (Sepulveda)",
+    "slug": "kingshawaiianbakeryrestaurantsepulveda",
+    "category": "bakery",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/king-s-hawaiian-bakery-restaurant-master-sepulveda-blvd"
+  },
+  {
+    "name": "Tacos El Goloso Torrance",
+    "slug": "tacoselgolosotorrance",
+    "category": "mexican",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tacos-el-goloso-torrance-3720-pacific-coast-highway-suite-101"
+  },
+  {
+    "name": "FishBonz Grill Torrance",
+    "slug": "fishbonzgrilltorrance",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fishbonz-grill-torrance"
+  },
+  {
+    "name": "Red Car Brewery & Restaurant",
+    "slug": "redcarbreweryrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/red-car-brewery-restaurant"
+  },
+  {
+    "name": "CoCo Ichibanya Torrance",
+    "slug": "cocoichibanyatorrance",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cocoichibanya-torrance"
+  },
+  {
+    "name": "Torrance Yokocho",
+    "slug": "torranceyokocho",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/torrance-yokocho-2589-pacific-coast-hwy"
+  },
+  {
+    "name": "Bari Pasta & Pizza - Torrance",
+    "slug": "baripastapizza-torrance",
+    "category": "pizza",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bari-pasta-pizza-torrance-1441-west-knox-street-c500-llcty"
+  },
+  {
+    "name": "Katsu Bar Torrance",
+    "slug": "katsubartorrance",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/katsubar.torrance/javascript:"
+  },
+  {
+    "name": "Philly's Best Cheesesteaks Torrance",
+    "slug": "phillysbestcheesesteakstorrance",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/phillys-best-torrance"
+  },
+  {
+    "name": "Good Vibes Pizza - View Menu & - 22825 Hawthorne Blvd, ...",
+    "slug": "goodvibespizza-viewmenu-22825hawthornebl",
+    "category": "pizza",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/restaurants/ca/torrance/90505/pazzo-pizzeria-prima/menu"
+  },
+  {
+    "name": "Georgio's Pizza Menu - 4964 W 190th St, Torrance, CA ...",
+    "slug": "georgiospizzamenu-4964w190thsttorranceca",
+    "category": "pizza",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/restaurants/ca/torrance/90503/georgio-s-pizza-torrance/menu"
+  },
+  {
+    "name": "ᐅ Best Wings in Torrance - Find Wings Places in Torrance",
+    "slug": "bestwingsintorrance-findwingsplacesintor",
+    "category": "wings",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/pizza-delivery/ca-torrance/wings"
+  },
+  {
+    "name": "Top Pizza Restaurants in Imperial, CA in 2026 Near You",
+    "slug": "toppizzarestaurantsinimperialcain2026nea",
+    "category": "pizza",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/pizza-delivery/ca-imperial"
+  },
+  {
+    "name": "ᐅ Lomita Pizza Delivery - Best Pizza Places in Lomita 2025",
+    "slug": "lomitapizzadelivery-bestpizzaplacesinlom",
+    "category": "pizza",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/pizza-delivery/ca-lomita"
+  },
+  {
+    "name": "ᐅ Best Local Appetizers in Torrance, California",
+    "slug": "bestlocalappetizersintorrancecalifornia",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/pizza-delivery/ca-torrance/appetizers"
+  },
+  {
+    "name": "ᐅ Best Local Salads in Torrance, California",
+    "slug": "bestlocalsaladsintorrancecalifornia",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/pizza-delivery/ca-torrance/salads"
+  },
+  {
+    "name": "ᐅ Lynwood Pizza Delivery - Best Pizza Places in Lynwood 2025",
+    "slug": "lynwoodpizzadelivery-bestpizzaplacesinly",
+    "category": "pizza",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/pizza-delivery/ca-lynwood"
   }
 ]

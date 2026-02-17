@@ -2569,5 +2569,14 @@
       "sandiego"
     ],
     "websiteOrderUrl": "https://www.clover.com/online-ordering/hironori-sandiego/0QY6PZ6E3M9W4"
+  },
+  {
+    "name": "Online Food Ordering System & App",
+    "slug": "onlinefoodorderingsystemapp",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/9207/locations"
   }
 ]

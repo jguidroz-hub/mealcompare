@@ -2488,5 +2488,23 @@
       "atlanta"
     ],
     "websiteOrderUrl": "https://www.clover.com/online-ordering/gyro-bros-atlanta/D2KNS1ZRHGCQ2"
+  },
+  {
+    "name": "Order Mi Barrio Online - Mexican Restaurant in Atlanta, GA",
+    "slug": "ordermibarrioonline-mexicanrestaurantina",
+    "category": "mexican",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/29552/locations/43692"
+  },
+  {
+    "name": "GoldenCrown Kitchen - African Restaurant in Morrow, GA",
+    "slug": "goldencrownkitchen-africanrestaurantinmo",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/41461/locations/"
   }
 ]

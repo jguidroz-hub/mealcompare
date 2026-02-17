@@ -2406,5 +2406,32 @@
       "portland"
     ],
     "websiteOrderUrl": "https://www.clover.com/online-ordering/fantastea-psu"
+  },
+  {
+    "name": "Online Ordering for Flying Saucer Pizza Company - Salem",
+    "slug": "onlineorderingforflyingsaucerpizzacompan",
+    "category": "pizza",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/340/448/items"
+  },
+  {
+    "name": "Online Ordering for Chad Anthony's To Go - Salem",
+    "slug": "onlineorderingforchadanthonystogo-salem",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/1789/locations/6817"
+  },
+  {
+    "name": "Online Ordering for Restaurants with No Commissions",
+    "slug": "onlineorderingforrestaurantswithnocommis",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/22662/locations"
   }
 ]

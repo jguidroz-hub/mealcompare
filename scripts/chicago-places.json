@@ -3785,5 +3785,23 @@
       "chicago"
     ],
     "websiteOrderUrl": "https://partners.clover.com/restaurant-depot/home/"
+  },
+  {
+    "name": "Online Ordering for Bricks Wood Fired Pizza - Oak Park",
+    "slug": "onlineorderingforbrickswoodfiredpizza-oa",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/9970/locations/16092"
+  },
+  {
+    "name": "Online Ordering for Sanfratello's Pizza - Naperville",
+    "slug": "onlineorderingforsanfratellospizza-naper",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/2592/locations/6141"
   }
 ]

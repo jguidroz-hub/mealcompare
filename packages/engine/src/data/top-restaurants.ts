@@ -508,6 +508,8 @@ export const ATLANTA_RESTAURANTS: RestaurantData[] = [
   { name: 'DOMP LLC - ATLANTA, GA', slug: 'dompllc-atlantaga', category: 'restaurant', metros: ['atlanta'], websiteOrderUrl: 'https://www.clover.com/online-ordering/domp-llc-atlanta' },
   { name: 'THRILL KOREAN STEAK - ATLANTA, GA', slug: 'thrillkoreansteak-atlantaga', category: 'korean', metros: ['atlanta'], websiteOrderUrl: 'https://www.clover.com/online-ordering/thrill-korean-steak-atlanta/5BX3BPSJ13HCG' },
   { name: 'GYRO BROS - ATLANTA, GA', slug: 'gyrobros-atlantaga', category: 'restaurant', metros: ['atlanta'], websiteOrderUrl: 'https://www.clover.com/online-ordering/gyro-bros-atlanta/D2KNS1ZRHGCQ2' },
+  { name: 'Order Mi Barrio Online - Mexican Restaurant in Atlanta, GA', slug: 'ordermibarrioonline-mexicanrestaurantina', category: 'mexican', metros: ['atlanta'], websiteOrderUrl: 'https://ordering.chownow.com/order/29552/locations/43692' },
+  { name: 'GoldenCrown Kitchen - African Restaurant in Morrow, GA', slug: 'goldencrownkitchen-africanrestaurantinmo', category: 'restaurant', metros: ['atlanta'], websiteOrderUrl: 'https://ordering.chownow.com/order/41461/locations/' },
 ];
 
 export const AUSTIN_RESTAURANTS: RestaurantData[] = [
@@ -1316,6 +1318,19 @@ export const BOSTON_RESTAURANTS: RestaurantData[] = [
   { name: 'How to choose a self', slug: 'howtochooseaself', category: 'restaurant', metros: ['boston'], websiteOrderUrl: 'https://blog.clover.com/how-to-choose-a-self-ordering-kiosk-for-restaurants/' },
   { name: 'Red Apple Farm at Boston Public Market', slug: 'redapplefarmatbostonpublicmarket', category: 'restaurant', metros: ['boston'], websiteOrderUrl: 'https://www.clover.com/online-ordering/red-apple-farm-market-boston' },
   { name: 'So Sabe Catering & Treats - BOSTON, MA', slug: 'sosabecateringtreats-bostonma', category: 'restaurant', metros: ['boston'], websiteOrderUrl: 'https://www.clover.com/online-ordering/so-sabe-inc-boston' },
+  { name: 'Blue Salt Restaurant 1255 Washington st Newton', slug: 'bluesaltrestaurant1255washingtonstnewton', category: 'restaurant', metros: ['boston'], toastUrl: 'https://order.toasttab.com/online/boston-gourmet-foods-nro-1255-washington-st-newton' },
+  { name: 'Four Spoons Thai 2021 - Newton 796 Beacon Street', slug: 'fourspoonsthai2021-newton796beaconstreet', category: 'thai', metros: ['boston'], toastUrl: 'https://order.toasttab.com/online/fourspoonsnewton' },
+  { name: 'Lee\'s Burger Place 216 Sumner Street, Newton Center.', slug: 'leesburgerplace216sumnerstreetnewtoncent', category: 'burgers', metros: ['boston'], toastUrl: 'https://order.toasttab.com/online/lees-burgers-newton-216-sumner-street' },
+  { name: 'Tatte Bakery', slug: 'tattebakery', category: 'bakery', metros: ['boston'], toastUrl: 'https://order.toasttab.com/online/tatte-bakery-newton-centre' },
+  { name: 'Cook Restaurant', slug: 'cookrestaurant', category: 'restaurant', metros: ['boston'], toastUrl: 'https://order.toasttab.com/online/cook-new' },
+  { name: 'Arlington Restaurant and Diner', slug: 'arlingtonrestaurantanddiner', category: 'restaurant', metros: ['boston'], toastUrl: 'https://order.toasttab.com/online/the-arlington-restaurant-and-diner-134-massachusetts-avenue' },
+  { name: 'Restaurant 45', slug: 'restaurant45', category: 'restaurant', metros: ['boston'], toastUrl: 'https://order.toasttab.com/online/restaurant-45' },
+  { name: 'Harbour Restaurant Winchendon', slug: 'harbourrestaurantwinchendon', category: 'restaurant', metros: ['boston'], toastUrl: 'https://order.toasttab.com/online/harbour-restaurant' },
+  { name: 'ᐅ Newton Pizza Delivery - Best Pizza Places in Newton 2026', slug: 'newtonpizzadelivery-bestpizzaplacesinnew', category: 'pizza', metros: ['boston'], websiteOrderUrl: 'https://slicelife.com/pizza-delivery/ma-newton' },
+  { name: 'BrickFire Pizza Co Menu - 1216 Chestnut St, Newton, MA ...', slug: 'brickfirepizzacomenu-1216chestnutstnewto', category: 'pizza', metros: ['boston'], websiteOrderUrl: 'https://slicelife.com/restaurants/ma/newton/02464/brickfire-pizza-co/menu' },
+  { name: '4 Corners Pizza Menu: Pizza Delivery Newton Highlands, MA', slug: '4cornerspizzamenupizzadeliverynewtonhigh', category: 'pizza', metros: ['boston'], websiteOrderUrl: 'https://slicelife.com/restaurants/ma/newton-highlands/02461/4-corners-pizza/menu' },
+  { name: 'Newton Square Pizza Menu - 712 A Pleasant St, Worcester ...', slug: 'newtonsquarepizzamenu-712apleasantstworc', category: 'pizza', metros: ['boston'], websiteOrderUrl: 'https://slicelife.com/restaurants/ma/worcester/01602/newton-square-pizza/menu' },
+  { name: 'Olivia\'s Bistro Menu: Pizza Delivery Newton, MA - Slice', slug: 'oliviasbistromenupizzadeliverynewtonma-s', category: 'pizza', metros: ['boston'], websiteOrderUrl: 'https://slicelife.com/restaurants/ma/newton/02458/olivia-s-bistro/menu' },
 ];
 
 export const CHARLOTTE_RESTAURANTS: RestaurantData[] = [
@@ -1560,6 +1575,7 @@ export const CHARLOTTE_RESTAURANTS: RestaurantData[] = [
   { name: 'FENWICK\'S - Charlotte, North Carolina', slug: 'fenwicks-charlottenorthcarolina', category: 'restaurant', metros: ['charlotte'], websiteOrderUrl: 'https://www.clover.com/online-ordering/fenwicks-charlotte' },
   { name: 'Clover', slug: 'clover', category: 'restaurant', metros: ['charlotte'], websiteOrderUrl: 'https://www.clover.com/deals/restaurant/' },
   { name: 'CHEX SARDIS - CHARLOTTE, NC', slug: 'chexsardis-charlottenc', category: 'restaurant', metros: ['charlotte'], websiteOrderUrl: 'https://www.clover.com/online-ordering/chex-sardis-charlotte/03VCX0SVHAWHP' },
+  { name: 'Online Ordering for Thai Tamarind - Matthews', slug: 'onlineorderingforthaitamarind-matthews', category: 'thai', metros: ['charlotte'], websiteOrderUrl: 'https://ordering.chownow.com/order/5719/locations/7492' },
 ];
 
 export const CHICAGO_RESTAURANTS: RestaurantData[] = [
@@ -1975,6 +1991,8 @@ export const CHICAGO_RESTAURANTS: RestaurantData[] = [
   { name: 'SALSA PICANTE - CHICAGO, IL', slug: 'salsapicante-chicagoil', category: 'restaurant', metros: ['chicago'], websiteOrderUrl: 'https://www.clover.com/online-ordering/salsa-picante-chicago' },
   { name: 'Restaurant', slug: 'restaurant', category: 'restaurant', metros: ['chicago'], websiteOrderUrl: 'https://partners.clover.com/citi/industries/restaurants/' },
   { name: 'Restaurant Depot', slug: 'restaurantdepot', category: 'restaurant', metros: ['chicago'], websiteOrderUrl: 'https://partners.clover.com/restaurant-depot/home/' },
+  { name: 'Online Ordering for Bricks Wood Fired Pizza - Oak Park', slug: 'onlineorderingforbrickswoodfiredpizza-oa', category: 'pizza', metros: ['chicago'], websiteOrderUrl: 'https://ordering.chownow.com/order/9970/locations/16092' },
+  { name: 'Online Ordering for Sanfratello\'s Pizza - Naperville', slug: 'onlineorderingforsanfratellospizza-naper', category: 'pizza', metros: ['chicago'], websiteOrderUrl: 'https://ordering.chownow.com/order/2592/locations/6141' },
 ];
 
 export const COLUMBUS_RESTAURANTS: RestaurantData[] = [
@@ -2512,6 +2530,7 @@ export const DALLAS_RESTAURANTS: RestaurantData[] = [
   { name: 'Restaurant Depot', slug: 'restaurantdepot', category: 'restaurant', metros: ['dallas'], websiteOrderUrl: 'https://merchantservices.clover.com/restaurant-depot/' },
   { name: 'Table Service Restaurants', slug: 'tableservicerestaurants', category: 'restaurant', metros: ['dallas'], websiteOrderUrl: 'https://partners.clover.com/restaurant-depot/business-types/table-service-restaurants/' },
   { name: 'IEC Restaurant - HOUSTON, TX', slug: 'iecrestaurant-houstontx', category: 'restaurant', metros: ['dallas'], websiteOrderUrl: 'https://www.clover.com/online-ordering/iec-houston' },
+  { name: 'Order King & I Online - Thai Restaurant in Midland, TX', slug: 'orderkingionline-thairestaurantinmidland', category: 'thai', metros: ['dallas'], websiteOrderUrl: 'https://ordering.chownow.com/order/40908/locations/62009' },
 ];
 
 export const DC_RESTAURANTS: RestaurantData[] = [
@@ -3052,6 +3071,8 @@ export const DENVER_RESTAURANTS: RestaurantData[] = [
   { name: 'BINKY\'S POTLUCK - DENVER, CO', slug: 'binkyspotluck-denverco', category: 'restaurant', metros: ['denver'], websiteOrderUrl: 'https://www.clover.com/online-ordering/mysteryfoodtruck-denver' },
   { name: 'POS System & Credit Card Readers', slug: 'possystemcreditcardreaders', category: 'restaurant', metros: ['denver'], websiteOrderUrl: 'https://www.clover.com/ca/pos-systems/online-ordering' },
   { name: 'DU Food Pantry - DENVER, CO', slug: 'dufoodpantry-denverco', category: 'restaurant', metros: ['denver'], websiteOrderUrl: 'https://www.clover.com/online-ordering/ctr-for-sustainability-denver' },
+  { name: 'Online Ordering for Slyce Pizza Co. - Fort Collins', slug: 'onlineorderingforslycepizzaco-fortcollin', category: 'pizza', metros: ['denver'], websiteOrderUrl: 'https://ordering.chownow.com/order/6612/locations/8766' },
+  { name: 'Online Ordering for Wing Shack - Fort Collins', slug: 'onlineorderingforwingshack-fortcollins', category: 'wings', metros: ['denver'], websiteOrderUrl: 'https://ordering.chownow.com/order/5288/locations/6904' },
 ];
 
 export const DETROIT_RESTAURANTS: RestaurantData[] = [
@@ -4275,6 +4296,35 @@ export const LA_RESTAURANTS: RestaurantData[] = [
   { name: 'LuLu\'s Mexican Food - Clover Blog', slug: 'lulusmexicanfood-cloverblog', category: 'mexican', metros: ['la'], websiteOrderUrl: 'https://blog.clover.com/lulus-mexican-food/' },
   { name: 'EL BORREGO MEXICAN RESTAURANT - LAWNDALE, CA', slug: 'elborregomexicanrestaurant-lawndaleca', category: 'mexican', metros: ['la'], websiteOrderUrl: 'https://www.clover.com/online-ordering/el-borrego-mexican-restaurant-lawndale' },
   { name: 'Restaurant Depot', slug: 'restaurantdepot', category: 'restaurant', metros: ['la'], websiteOrderUrl: 'https://partners.clover.com/restaurant-depot/home/' },
+  { name: 'Order KazuNori Online - Sushi Restaurant in Pasadena, CA', slug: 'orderkazunorionline-sushirestaurantinpas', category: 'japanese', metros: ['la'], websiteOrderUrl: 'https://ordering.chownow.com/order/6340/locations/64606' },
+  { name: 'Order Salad Farm Pasadena Online', slug: 'ordersaladfarmpasadenaonline', category: 'restaurant', metros: ['la'], websiteOrderUrl: 'https://ordering.chownow.com/order/7962/locations/10809' },
+  { name: 'Online Ordering for Carousel Restaurant - Glendale', slug: 'onlineorderingforcarouselrestaurant-glen', category: 'restaurant', metros: ['la'], websiteOrderUrl: 'https://ordering.chownow.com/order/169/locations/221' },
+  { name: 'Online Ordering for Floret Vegan Kitchen - Glendale', slug: 'onlineorderingforfloretvegankitchen-glen', category: 'restaurant', metros: ['la'], websiteOrderUrl: 'https://ordering.chownow.com/order/6625/locations/8789' },
+  { name: 'Online Ordering for Full O\' Life - Burbank', slug: 'onlineorderingforfullolife-burbank', category: 'restaurant', metros: ['la'], websiteOrderUrl: 'https://ordering.chownow.com/order/4581/locations/5932' },
+  { name: 'Online Ordering for Wokcano - Burbank', slug: 'onlineorderingforwokcano-burbank', category: 'restaurant', metros: ['la'], websiteOrderUrl: 'https://ordering.chownow.com/order/1129/locations/1620' },
+  { name: 'Online Ordering for Simplethings - Burbank / Toluca Lake', slug: 'onlineorderingforsimplethings-burbanktol', category: 'restaurant', metros: ['la'], websiteOrderUrl: 'https://ordering.chownow.com/order/3014/locations/3952' },
+  { name: 'Online Ordering for Dog Haus - Burbank', slug: 'onlineorderingfordoghaus-burbank', category: 'restaurant', metros: ['la'], websiteOrderUrl: 'https://ordering.chownow.com/order/1750/locations/2709' },
+  { name: 'Online Ordering for Philly\'s Best - Burbank', slug: 'onlineorderingforphillysbest-burbank', category: 'restaurant', metros: ['la'], websiteOrderUrl: 'https://ordering.chownow.com/order/973/locations/3478' },
+  { name: 'The Pan-Torrance 3160 Pacific Coast Hwy', slug: 'thepan-torrance3160pacificcoasthwy', category: 'restaurant', metros: ['la'], toastUrl: 'https://order.toasttab.com/online/the-pan-torrance-3160-pacific-coast-hwy' },
+  { name: 'Rascals Teriyaki Grill Torrance', slug: 'rascalsteriyakigrilltorrance', category: 'restaurant', metros: ['la'], toastUrl: 'https://order.toasttab.com/online/rascals-teriyaki-grill-torrance' },
+  { name: 'Pho Hana Torrance 22815 Hawthorne Blvd', slug: 'phohanatorrance22815hawthorneblvd', category: 'restaurant', metros: ['la'], toastUrl: 'https://order.toasttab.com/online/pho-hana-torrance-22815-hawthorne-blvd' },
+  { name: 'KING\'S HAWAIIAN BAKERY & RESTAURANT (Sepulveda)', slug: 'kingshawaiianbakeryrestaurantsepulveda', category: 'bakery', metros: ['la'], toastUrl: 'https://order.toasttab.com/online/king-s-hawaiian-bakery-restaurant-master-sepulveda-blvd' },
+  { name: 'Tacos El Goloso Torrance', slug: 'tacoselgolosotorrance', category: 'mexican', metros: ['la'], toastUrl: 'https://order.toasttab.com/online/tacos-el-goloso-torrance-3720-pacific-coast-highway-suite-101' },
+  { name: 'FishBonz Grill Torrance', slug: 'fishbonzgrilltorrance', category: 'restaurant', metros: ['la'], toastUrl: 'https://order.toasttab.com/online/fishbonz-grill-torrance' },
+  { name: 'Red Car Brewery & Restaurant', slug: 'redcarbreweryrestaurant', category: 'restaurant', metros: ['la'], toastUrl: 'https://order.toasttab.com/online/red-car-brewery-restaurant' },
+  { name: 'CoCo Ichibanya Torrance', slug: 'cocoichibanyatorrance', category: 'restaurant', metros: ['la'], toastUrl: 'https://order.toasttab.com/online/cocoichibanya-torrance' },
+  { name: 'Torrance Yokocho', slug: 'torranceyokocho', category: 'restaurant', metros: ['la'], toastUrl: 'https://order.toasttab.com/online/torrance-yokocho-2589-pacific-coast-hwy' },
+  { name: 'Bari Pasta & Pizza - Torrance', slug: 'baripastapizza-torrance', category: 'pizza', metros: ['la'], toastUrl: 'https://order.toasttab.com/online/bari-pasta-pizza-torrance-1441-west-knox-street-c500-llcty' },
+  { name: 'Katsu Bar Torrance', slug: 'katsubartorrance', category: 'restaurant', metros: ['la'], toastUrl: 'https://order.toasttab.com/online/katsubar.torrance/javascript:' },
+  { name: 'Philly\'s Best Cheesesteaks Torrance', slug: 'phillysbestcheesesteakstorrance', category: 'restaurant', metros: ['la'], toastUrl: 'https://order.toasttab.com/online/phillys-best-torrance' },
+  { name: 'Good Vibes Pizza - View Menu & - 22825 Hawthorne Blvd, ...', slug: 'goodvibespizza-viewmenu-22825hawthornebl', category: 'pizza', metros: ['la'], websiteOrderUrl: 'https://slicelife.com/restaurants/ca/torrance/90505/pazzo-pizzeria-prima/menu' },
+  { name: 'Georgio\'s Pizza Menu - 4964 W 190th St, Torrance, CA ...', slug: 'georgiospizzamenu-4964w190thsttorranceca', category: 'pizza', metros: ['la'], websiteOrderUrl: 'https://slicelife.com/restaurants/ca/torrance/90503/georgio-s-pizza-torrance/menu' },
+  { name: 'ᐅ Best Wings in Torrance - Find Wings Places in Torrance', slug: 'bestwingsintorrance-findwingsplacesintor', category: 'wings', metros: ['la'], websiteOrderUrl: 'https://slicelife.com/pizza-delivery/ca-torrance/wings' },
+  { name: 'Top Pizza Restaurants in Imperial, CA in 2026 Near You', slug: 'toppizzarestaurantsinimperialcain2026nea', category: 'pizza', metros: ['la'], websiteOrderUrl: 'https://slicelife.com/pizza-delivery/ca-imperial' },
+  { name: 'ᐅ Lomita Pizza Delivery - Best Pizza Places in Lomita 2025', slug: 'lomitapizzadelivery-bestpizzaplacesinlom', category: 'pizza', metros: ['la'], websiteOrderUrl: 'https://slicelife.com/pizza-delivery/ca-lomita' },
+  { name: 'ᐅ Best Local Appetizers in Torrance, California', slug: 'bestlocalappetizersintorrancecalifornia', category: 'restaurant', metros: ['la'], websiteOrderUrl: 'https://slicelife.com/pizza-delivery/ca-torrance/appetizers' },
+  { name: 'ᐅ Best Local Salads in Torrance, California', slug: 'bestlocalsaladsintorrancecalifornia', category: 'restaurant', metros: ['la'], websiteOrderUrl: 'https://slicelife.com/pizza-delivery/ca-torrance/salads' },
+  { name: 'ᐅ Lynwood Pizza Delivery - Best Pizza Places in Lynwood 2025', slug: 'lynwoodpizzadelivery-bestpizzaplacesinly', category: 'pizza', metros: ['la'], websiteOrderUrl: 'https://slicelife.com/pizza-delivery/ca-lynwood' },
 ];
 
 export const MIAMI_RESTAURANTS: RestaurantData[] = [
@@ -4621,6 +4671,23 @@ export const MIAMI_RESTAURANTS: RestaurantData[] = [
   { name: 'Miami Grill Catering in Miami, FL - 19000 NW 2nd Ave', slug: 'miamigrillcateringinmiamifl-19000nw2ndav', category: 'restaurant', metros: ['miami'], websiteOrderUrl: 'https://www.ezcater.com/catering/miami-subs-grills-miami-gardens' },
   { name: 'Sergio\'s Restaurant Catering in Miami, FL - 9330 SW 40th St', slug: 'sergiosrestaurantcateringinmiamifl-9330s', category: 'restaurant', metros: ['miami'], websiteOrderUrl: 'https://www.ezcater.com/catering/sergios-restaurant-miami' },
   { name: 'South Miami, FL Catering Near Me', slug: 'southmiamiflcateringnearme', category: 'restaurant', metros: ['miami'], websiteOrderUrl: 'https://www.ezcater.com/catering/fl/south-miami' },
+  { name: 'Grand Cafe Menu', slug: 'grandcafemenu', category: 'cafe', metros: ['miami'], websiteOrderUrl: 'https://ordering.chownow.com/order/7933/locations/10666' },
+  { name: 'Farmer\'s Table Boca Raton', slug: 'farmerstablebocaraton', category: 'restaurant', metros: ['miami'], toastUrl: 'https://order.toasttab.com/online/farmers-table-boca' },
+  { name: 'The Great Greek Mediterranean Grill Boca Raton, FL', slug: 'thegreatgreekmediterraneangrillbocaraton', category: 'mediterranean', metros: ['miami'], toastUrl: 'https://order.toasttab.com/online/the-great-greek-boca-raton-fl' },
+  { name: 'Padrino\'s Cuban Restaurant Boca Raton', slug: 'padrinoscubanrestaurantbocaraton', category: 'restaurant', metros: ['miami'], toastUrl: 'https://order.toasttab.com/online/padrinos-bocaraton' },
+  { name: 'Lynora\'s 9560 Glades Road, Ste. 190 Boca Raton', slug: 'lynoras9560gladesroadste190bocaraton', category: 'restaurant', metros: ['miami'], toastUrl: 'https://order.toasttab.com/online/lynoras-boca-raton-20940-uptown-avenue' },
+  { name: 'Cannoli Kitchen Boca Raton, FL (6065 SW 18th St.)', slug: 'cannolikitchenbocaratonfl6065sw18thst', category: 'restaurant', metros: ['miami'], toastUrl: 'https://order.toasttab.com/online/cannoli-kitchen-boca-raton-fl-6065-sw-18th-st' },
+  { name: 'E41- Embarcadero 41- Boca Raton', slug: 'e41-embarcadero41-bocaraton', category: 'restaurant', metros: ['miami'], toastUrl: 'https://order.toasttab.com/online/embarcadero-41-boca' },
+  { name: 'Prezzo Boca Raton', slug: 'prezzobocaraton', category: 'restaurant', metros: ['miami'], toastUrl: 'https://order.toasttab.com/online/prezzo-boca-raton-5560-n-military-trail-300-cujjb' },
+  { name: 'Gyromania Grill - Boca', slug: 'gyromaniagrill-boca', category: 'restaurant', metros: ['miami'], toastUrl: 'https://order.toasttab.com/online/gyromania-boca-raton-7036-west-palmetto-park-road' },
+  { name: 'Ke-Uh Boca Raton', slug: 'ke-uhbocaraton', category: 'restaurant', metros: ['miami'], toastUrl: 'https://order.toasttab.com/online/ke-uh-boca-raton' },
+  { name: 'Rotelli West Boca', slug: 'rotelliwestboca', category: 'restaurant', metros: ['miami'], toastUrl: 'https://order.toasttab.com/online/rotelli-west-boca-21747-state-road-7' },
+  { name: 'Lemongrass', slug: 'lemongrass', category: 'restaurant', metros: ['miami'], toastUrl: 'https://order.toasttab.com/online/lemongrass-boca-raton-101-plaza-real-s-unit-e' },
+  { name: 'Tom Sawyer\'s Country Restaurant', slug: 'tomsawyerscountryrestaurant', category: 'restaurant', metros: ['miami'], toastUrl: 'https://order.toasttab.com/online/tomsawyerbocaraton' },
+  { name: 'Zuru Ramen Bar - Boca Raton', slug: 'zururamenbar-bocaraton', category: 'japanese', metros: ['miami'], toastUrl: 'https://order.toasttab.com/online/zururamen-bocaraton' },
+  { name: 'Bagel Inn Boca Raton', slug: 'bagelinnbocaraton', category: 'restaurant', metros: ['miami'], toastUrl: 'https://order.toasttab.com/online/flakowitz-bagel-inn' },
+  { name: 'Casa do Pão (Online ordering Boca Location only)', slug: 'casadopoonlineorderingbocalocationonly', category: 'restaurant', metros: ['miami'], toastUrl: 'https://order.toasttab.com/online/asa-do-pao-boca-raton' },
+  { name: 'IL FIORI - View Menu & - 9874 Yamato Rd, Boca Raton, ...', slug: 'ilfiori-viewmenu-9874yamatordbocaraton', category: 'restaurant', metros: ['miami'], websiteOrderUrl: 'https://slicelife.com/restaurants/fl/boca-raton/33434/stromboli-s-pizza-kitchen-of-west-boca/menu' },
 ];
 
 export const MILWAUKEE_RESTAURANTS: RestaurantData[] = [
@@ -6218,6 +6285,21 @@ export const NYC_RESTAURANTS: RestaurantData[] = [
   { name: 'LITTLE BIGGS - Fidi - NEW YORK, NY', slug: 'littlebiggs-fidi-newyorkny', category: 'restaurant', metros: ['nyc'], websiteOrderUrl: 'https://www.clover.com/online-ordering/little-biggs--fidi-new-york' },
   { name: 'Thai Eats - NEW YORK, NY', slug: 'thaieats-newyorkny', category: 'thai', metros: ['nyc'], websiteOrderUrl: 'https://www.clover.com/online-ordering/thai-eats-new-york' },
   { name: 'NEW YORK\'S BEST PIZZA - ARLINGTON, TX', slug: 'newyorksbestpizza-arlingtontx', category: 'pizza', metros: ['nyc'], websiteOrderUrl: 'https://www.clover.com/online-ordering/new-yorks-best-pizza-arlington' },
+  { name: 'DOMODOMO Jersey City', slug: 'domodomojerseycity', category: 'restaurant', metros: ['nyc'], toastUrl: 'https://order.toasttab.com/online/domodomo-jersey-city-jersey-city' },
+  { name: 'Ani Ramen House Jersey City', slug: 'aniramenhousejerseycity', category: 'japanese', metros: ['nyc'], toastUrl: 'https://order.toasttab.com/online/ani-ramen-house-jersey-city' },
+  { name: 'Rasoi Restaurant', slug: 'rasoirestaurant', category: 'restaurant', metros: ['nyc'], toastUrl: 'https://order.toasttab.com/online/rasoi-restaurant' },
+  { name: 'Holy Burger (Jersey City) 356 Varick Street', slug: 'holyburgerjerseycity356varickstreet', category: 'burgers', metros: ['nyc'], toastUrl: 'https://order.toasttab.com/online/holy-burger-jersey-356-varick-street' },
+  { name: 'Two Boots Pizza Jersey City', slug: 'twobootspizzajerseycity', category: 'pizza', metros: ['nyc'], toastUrl: 'https://order.toasttab.com/online/two-boots-jersey-city' },
+  { name: 'Bikanervala Jersey City', slug: 'bikanervalajerseycity', category: 'restaurant', metros: ['nyc'], toastUrl: 'https://order.toasttab.com/online/bikanervala-jersey-city' },
+  { name: 'Olaide\'s Kitchen- Jersey City 516 Paterson Plank Road', slug: 'olaideskitchen-jerseycity516patersonplan', category: 'restaurant', metros: ['nyc'], toastUrl: 'https://order.toasttab.com/online/olaides-kitchen-jersey-city-516-paterson-plank-road' },
+  { name: 'Samurai Sushi - Jersey City 467 Communipaw ave', slug: 'samuraisushi-jerseycity467communipawave', category: 'japanese', metros: ['nyc'], toastUrl: 'https://order.toasttab.com/online/samurai-sushi-jersey-city-467-communipaw-ave' },
+  { name: 'Carlitos Barbecue Taqueria District Kitchen Jersey City', slug: 'carlitosbarbecuetaqueriadistrictkitchenj', category: 'restaurant', metros: ['nyc'], toastUrl: 'https://order.toasttab.com/online/carlitos-barbecue-taqueria-district-kitchen-210-hudson-street' },
+  { name: 'YALLA! Jersey City', slug: 'yallajerseycity', category: 'restaurant', metros: ['nyc'], toastUrl: 'https://order.toasttab.com/online/yalla-shawarma-2-586-newark-avenue' },
+  { name: 'Online Ordering for Greene Hook - Jersey City', slug: 'onlineorderingforgreenehook-jerseycity', category: 'restaurant', metros: ['nyc'], websiteOrderUrl: 'https://ordering.chownow.com/order/3891/locations/5047' },
+  { name: 'Online Ordering for Two Boots Jersey City', slug: 'onlineorderingfortwobootsjerseycity', category: 'restaurant', metros: ['nyc'], websiteOrderUrl: 'https://ordering.chownow.com/order/2756/locations/4632' },
+  { name: 'Online Ordering for Meeras Indian Kitchen - Jersey City', slug: 'onlineorderingformeerasindiankitchen-jer', category: 'indian', metros: ['nyc'], websiteOrderUrl: 'https://ordering.chownow.com/order/8031/locations/10790' },
+  { name: 'Online Ordering for Mithaas - Jersey City', slug: 'onlineorderingformithaas-jerseycity', category: 'restaurant', metros: ['nyc'], websiteOrderUrl: 'https://ordering.chownow.com/order/5317/locations/6970' },
+  { name: 'Online Ordering for Taqueria Restaurant Oaxaca - Jersey City', slug: 'onlineorderingfortaqueriarestaurantoaxac', category: 'restaurant', metros: ['nyc'], websiteOrderUrl: 'https://ordering.chownow.com/order/3785/locations/4907' },
 ];
 
 export const PHILLY_RESTAURANTS: RestaurantData[] = [
@@ -7344,6 +7426,9 @@ export const PORTLAND_RESTAURANTS: RestaurantData[] = [
   { name: 'DON KAMARON - Portland, OR', slug: 'donkamaron-portlandor', category: 'restaurant', metros: ['portland'], websiteOrderUrl: 'https://www.clover.com/online-ordering/don-kamaron-restaurant-portland' },
   { name: 'DRUNKEN NOODLE - PORTLAND, OR', slug: 'drunkennoodle-portlandor', category: 'restaurant', metros: ['portland'], websiteOrderUrl: 'https://www.clover.com/online-ordering/drunken-noodles-restaura-portland' },
   { name: 'FANTASTEA @ PSU - PORTLAND, OR', slug: 'fantasteapsu-portlandor', category: 'restaurant', metros: ['portland'], websiteOrderUrl: 'https://www.clover.com/online-ordering/fantastea-psu' },
+  { name: 'Online Ordering for Flying Saucer Pizza Company - Salem', slug: 'onlineorderingforflyingsaucerpizzacompan', category: 'pizza', metros: ['portland'], websiteOrderUrl: 'https://ordering.chownow.com/order/340/448/items' },
+  { name: 'Online Ordering for Chad Anthony\'s To Go - Salem', slug: 'onlineorderingforchadanthonystogo-salem', category: 'restaurant', metros: ['portland'], websiteOrderUrl: 'https://ordering.chownow.com/order/1789/locations/6817' },
+  { name: 'Online Ordering for Restaurants with No Commissions', slug: 'onlineorderingforrestaurantswithnocommis', category: 'restaurant', metros: ['portland'], websiteOrderUrl: 'https://ordering.chownow.com/order/22662/locations' },
 ];
 
 export const RALEIGH_RESTAURANTS: RestaurantData[] = [
@@ -7897,6 +7982,7 @@ export const SANDIEGO_RESTAURANTS: RestaurantData[] = [
   { name: 'RB DELI CAFE - SAN DIEGO, CA', slug: 'rbdelicafe-sandiegoca', category: 'cafe', metros: ['sandiego'], websiteOrderUrl: 'https://www.clover.com/online-ordering/rb-deli-cafe-san-diego' },
   { name: 'CAFFE ITALIA - SAN DIEGO, CA', slug: 'caffeitalia-sandiegoca', category: 'restaurant', metros: ['sandiego'], websiteOrderUrl: 'https://www.clover.com/online-ordering/caffe-italia-san-diego-3' },
   { name: 'HiroNori Craft Ramen (San Diego)', slug: 'hironoricraftramensandiego', category: 'japanese', metros: ['sandiego'], websiteOrderUrl: 'https://www.clover.com/online-ordering/hironori-sandiego/0QY6PZ6E3M9W4' },
+  { name: 'Online Food Ordering System & App', slug: 'onlinefoodorderingsystemapp', category: 'restaurant', metros: ['sandiego'], websiteOrderUrl: 'https://ordering.chownow.com/order/9207/locations' },
 ];
 
 export const SEATTLE_RESTAURANTS: RestaurantData[] = [
@@ -8512,6 +8598,18 @@ export const SF_RESTAURANTS: RestaurantData[] = [
   { name: 'ENSENADA RESTAURANT - SAN FRANCISCO, CA', slug: 'ensenadarestaurant-sanfranciscoca', category: 'restaurant', metros: ['sf'], websiteOrderUrl: 'https://www.clover.com/online-ordering/ensenada-restaurant-san-francisco-2' },
   { name: 'PICARO CAFE - San Francisco, CA', slug: 'picarocafe-sanfranciscoca', category: 'cafe', metros: ['sf'], websiteOrderUrl: 'https://www.clover.com/online-ordering/picaro-cafe-san-francisco' },
   { name: 'FIRE & BREW Cloud Kitchen & Bar - SAN FRANCISCO, CA', slug: 'firebrewcloudkitchenbar-sanfranciscoca', category: 'restaurant', metros: ['sf'], websiteOrderUrl: 'https://www.clover.com/online-ordering/fire-and-brew-new-san-francisco' },
+  { name: 'Online Ordering for Bare Bowls - Palo Alto', slug: 'onlineorderingforbarebowls-paloalto', category: 'restaurant', metros: ['sf'], websiteOrderUrl: 'https://ordering.chownow.com/order/7190/locations/9613' },
+  { name: 'Order Gyu-kaku Japanese BBQ - San Diego, CA Online', slug: 'ordergyu-kakujapanesebbq-sandiegocaonlin', category: 'bbq', metros: ['sf'], websiteOrderUrl: 'https://ordering.chownow.com/order/23642/locations/35936' },
+  { name: 'American (Traditional) Restaurant in San Francisco, CA', slug: 'americantraditionalrestaurantinsanfranci', category: 'restaurant', metros: ['sf'], websiteOrderUrl: 'https://ordering.chownow.com/order/20279/locations' },
+  { name: 'American (New) Restaurant in San Juan Bautista, CA', slug: 'americannewrestaurantinsanjuanbautistaca', category: 'restaurant', metros: ['sf'], websiteOrderUrl: 'https://ordering.chownow.com/order/43186/locations/65088' },
+  { name: 'Order Naan N Curry Online - Halal Restaurant in San ...', slug: 'ordernaanncurryonline-halalrestaurantins', category: 'restaurant', metros: ['sf'], websiteOrderUrl: 'https://ordering.chownow.com/order/40491/locations/62438' },
+  { name: 'Order Truya Sushi Online - Sushi Restaurant in San Jose, CA', slug: 'ordertruyasushionline-sushirestaurantins', category: 'japanese', metros: ['sf'], websiteOrderUrl: 'https://ordering.chownow.com/order/42549/locations/64246' },
+  { name: 'Order The Marketplace Online - Deli Restaurant in San ...', slug: 'orderthemarketplaceonline-delirestaurant', category: 'restaurant', metros: ['sf'], websiteOrderUrl: 'https://ordering.chownow.com/order/20720/locations' },
+  { name: 'Order Doppio Zero - San Francisco Online', slug: 'orderdoppiozero-sanfranciscoonline', category: 'restaurant', metros: ['sf'], websiteOrderUrl: 'https://ordering.chownow.com/order/21157/locations/30629' },
+  { name: 'Online Ordering for Restaurants with No Commissions', slug: 'onlineorderingforrestaurantswithnocommis', category: 'restaurant', metros: ['sf'], websiteOrderUrl: 'https://ordering.chownow.com/order/23306/locations/34080' },
+  { name: 'Order San Luis Obispo Location - Splash Cafe Online', slug: 'ordersanluisobispolocation-splashcafeonl', category: 'cafe', metros: ['sf'], websiteOrderUrl: 'https://ordering.chownow.com/order/10379/locations/14222' },
+  { name: 'Order San Antonio Burger Online', slug: 'ordersanantonioburgeronline', category: 'burgers', metros: ['sf'], websiteOrderUrl: 'http://ordering.chownow.com/order/42441/locations/' },
+  { name: 'Online Ordering for Burnt Rice Korean Restaurant - San Jose', slug: 'onlineorderingforburntricekoreanrestaura', category: 'korean', metros: ['sf'], websiteOrderUrl: 'https://ordering.chownow.com/order/5898/locations/7715' },
 ];
 
 export const STLOUIS_RESTAURANTS: RestaurantData[] = [
