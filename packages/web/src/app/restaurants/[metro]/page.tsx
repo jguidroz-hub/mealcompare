@@ -1,7 +1,7 @@
 'use client';
 import { useState, useEffect, useMemo, useCallback } from 'react';
 import Link from 'next/link';
-import { useParams } from 'next/navigation';
+import { useParams, useSearchParams } from 'next/navigation';
 import { trackPageView, trackSearch, trackMetroSelect, trackCategoryFilter, trackOrderClick } from '@/lib/analytics';
 import { isFavorite, toggleFavorite } from '@/lib/favorites';
 
@@ -111,7 +111,8 @@ export default function MetroPage() {
 
   const [restaurants, setRestaurants] = useState<Restaurant[]>([]);
   const [loading, setLoading] = useState(true);
-  const [search, setSearch] = useState('');
+  const searchParams = useSearchParams();
+  const [search, setSearch] = useState(searchParams?.get('q') || '');
   const [category, setCategory] = useState('All');
 
   useEffect(() => {

@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
+import HeroSearch from './components/HeroSearch';
 
 export const metadata: Metadata = {
   title: 'SkipTheFee — Stop Overpaying for Food Delivery',
@@ -52,6 +53,8 @@ export default function Home() {
             The same order costs different amounts on every platform. SkipTheFee shows you the cheapest option — including{' '}
             <span style={{ color: '#94a3b8' }}>direct ordering</span> — in one click.
           </p>
+
+          <HeroSearch />
 
           {/* Quick city jump */}
           <div style={{ maxWidth: 480, margin: '0 auto 24px', display: 'flex', gap: 8, flexWrap: 'wrap', justifyContent: 'center' }}>
