@@ -1245,5 +1245,248 @@
       "portland"
     ],
     "toastUrl": "https://order.toasttab.com/online/the-star-portland-1309-nw-hoyt-st"
+  },
+  {
+    "name": "LeStourgeon Seafood Co. - Portland 1010 Railroad Avenue",
+    "slug": "lestourgeonseafoodco-portland1010railroa",
+    "category": "seafood",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lestourgeon-seafood-co-portland-1010-railroad-avenue"
+  },
+  {
+    "name": "Texas A1 Steaks & Seafood Portland, Texas",
+    "slug": "texasa1steaksseafoodportlandtexas",
+    "category": "seafood",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/texas%20a1%20portland"
+  },
+  {
+    "name": "Luke's Lobster Portland Pier",
+    "slug": "lukeslobsterportlandpier",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lukes-lobster-portland-pier"
+  },
+  {
+    "name": "Seasons & Regions Seafood Grill",
+    "slug": "seasonsregionsseafoodgrill",
+    "category": "seafood",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/seasons-regions-seafood-grill"
+  },
+  {
+    "name": "Portland Lobster Company",
+    "slug": "portlandlobstercompany",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/portland-lobster-company-portland-maine"
+  },
+  {
+    "name": "Southpark Seafood",
+    "slug": "southparkseafood",
+    "category": "seafood",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/southpark-seafood"
+  },
+  {
+    "name": "Victorico's Mexican Food SE 122nd - Portland",
+    "slug": "victoricosmexicanfoodse122nd-portland",
+    "category": "mexican",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/victorico-mexican-food-se-portland-429-se-122nd-ave"
+  },
+  {
+    "name": "Amigos Mexican Restaurant & Bar - Portland, ME",
+    "slug": "amigosmexicanrestaurantbar-portlandme",
+    "category": "mexican",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/amigos-mexican-restaurant-bar-portland-me-9-dana-st"
+  },
+  {
+    "name": "Mestizo Portland",
+    "slug": "mestizoportland",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mestizo-portland"
+  },
+  {
+    "name": "Victorico's Mexican Food Portland Rd - Salem",
+    "slug": "victoricosmexicanfoodportlandrd-salem",
+    "category": "mexican",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/victorico-mexican-food-north-salem"
+  },
+  {
+    "name": "Victorico Mexican Food - Portland Rd",
+    "slug": "victoricomexicanfood-portlandrd",
+    "category": "mexican",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/victorico-mexican-food-st-johns"
+  },
+  {
+    "name": "Longview",
+    "slug": "longview",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/victoricos-mexican-food-longview"
+  },
+  {
+    "name": "Forage Market Portland",
+    "slug": "foragemarketportland",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/forageportland"
+  },
+  {
+    "name": "Better Half - Portland",
+    "slug": "betterhalf-portland",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/better-half-portland-25-n-fremont-st"
+  },
+  {
+    "name": "Kati Portland",
+    "slug": "katiportland",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/katiportland"
+  },
+  {
+    "name": "Portland Coffee Roasters CAFE D/E",
+    "slug": "portlandcoffeeroasterscafede",
+    "category": "cafe",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/portland-roasting-coffee-pdx-de"
+  },
+  {
+    "name": "Vegan Van 5155 E 39th Ave",
+    "slug": "veganvan5155e39thave",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/veganvan"
+  },
+  {
+    "name": "Mai Thai Portland",
+    "slug": "maithaiportland",
+    "category": "thai",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mai-thai-portland"
+  },
+  {
+    "name": "City Thai Cuisine 6341 SW Capitol Hwy",
+    "slug": "citythaicuisine6341swcapitolhwy",
+    "category": "thai",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/city-thai-6341-sw-capitol-hwy"
+  },
+  {
+    "name": "ESAN THAI SE Division",
+    "slug": "esanthaisedivision",
+    "category": "thai",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/esanthaidivision"
+  },
+  {
+    "name": "Golden Lotus Thai 120 NE Grand Ave Portland Or 97232",
+    "slug": "goldenlotusthai120negrandaveportlandor97",
+    "category": "thai",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/golden-lotus-thai-106-ne-grand-ave-ste-4"
+  },
+  {
+    "name": "Mitr Thai Restaurant 1281 Congress Street",
+    "slug": "mitrthairestaurant1281congressstreet",
+    "category": "thai",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mitr-thai-restaurant-1281-congress-street"
+  },
+  {
+    "name": "Little Thai Peacock",
+    "slug": "littlethaipeacock",
+    "category": "thai",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/little-peacock-126-sw-2nd-ave"
+  },
+  {
+    "name": "Thai Square 8601 SE 17th Ave",
+    "slug": "thaisquare8601se17thave",
+    "category": "thai",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thaisquare"
+  },
+  {
+    "name": "THAI TREE",
+    "slug": "thaitree",
+    "category": "thai",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thaitreemaine"
+  },
+  {
+    "name": "Khao Moo Dang - Portland",
+    "slug": "khaomoodang-portland",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/khao-moo-dang-3145-southeast-hawthorne-boulevard"
+  },
+  {
+    "name": "Farmhouse Kitchen Thai Cuisine - Portland NW",
+    "slug": "farmhousekitchenthaicuisine-portlandnw",
+    "category": "thai",
+    "metros": [
+      "portland"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/farmhouse-kitchen-thai-cuisine-portland-nw-121-northwest-9th-avenue"
   }
 ]

@@ -3585,5 +3585,392 @@
       "nyc"
     ],
     "toastUrl": "https://order.toasttab.com/online/mesaaztecanyc"
+  },
+  {
+    "name": "New York Pizza and Wings CALL- 208-536-3110",
+    "slug": "newyorkpizzaandwingscall-208-536-3110",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/new-york-pizza-and-wings-wendell"
+  },
+  {
+    "name": "Planet Wings of Haverstraw 240 Route 9W",
+    "slug": "planetwingsofhaverstraw240route9w",
+    "category": "wings",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/planet-wings-of-haverstraw-240-route-9w"
+  },
+  {
+    "name": "New York Grill (3) 9901 West Florissant Avenue",
+    "slug": "newyorkgrill39901westflorissantavenue",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/new-york-grill-5-9901-west-florissant-avenue"
+  },
+  {
+    "name": "L.I. Wings-n-Things - South Setauket",
+    "slug": "liwings-n-things-southsetauket",
+    "category": "wings",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/online%20ordering%20south%20setauket"
+  },
+  {
+    "name": "Wings and Burgers To Go 1733 West Mississippi Avenue",
+    "slug": "wingsandburgerstogo1733westmississippiav",
+    "category": "burgers",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wings-and-burgers-1733-west-mississippi-avenue"
+  },
+  {
+    "name": "Mr.Pacino's Pizza & Wings 39112 Winchester Road",
+    "slug": "mrpacinospizzawings39112winchesterroad",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pacinos-new-york-pizzeria-39112-winchester-road"
+  },
+  {
+    "name": "New York Fried Chicken & Grill",
+    "slug": "newyorkfriedchickengrill",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/new-york-fried-chicken-grill-23-pleasant-st"
+  },
+  {
+    "name": "Sgambati's New York Pizza 1700 Sand Acres Dr",
+    "slug": "sgambatisnewyorkpizza1700sandacresdr",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sgambati-s-new-york-pizza-1700-sand-acres-dr"
+  },
+  {
+    "name": "New York Grill 7441 7441 North Lindbergh Boulevard",
+    "slug": "newyorkgrill74417441northlindberghboulev",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/new-york-grill-7441-7441-north-lindbergh-boulevard"
+  },
+  {
+    "name": "Taffach Ethiopian Restaurant 113 D Street",
+    "slug": "taffachethiopianrestaurant113dstreet",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/taffach-ethiopian-restaurant"
+  },
+  {
+    "name": "Ledet Ethiopian Restaurant and Bar 4975 Memorial Dr",
+    "slug": "ledetethiopianrestaurantandbar4975memori",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ledet-restaurant-4975-memorial-dr"
+  },
+  {
+    "name": "Leyu Ethiopian Restaurant",
+    "slug": "leyuethiopianrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/leyu-ethiopian-restaurant"
+  },
+  {
+    "name": "Tana Ethiopian Cuisine",
+    "slug": "tanaethiopiancuisine",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tana-ethiopian-cuisine-5929-baum-blvd"
+  },
+  {
+    "name": "Konjo Ethiopian Food Edgewater Public Market",
+    "slug": "konjoethiopianfoodedgewaterpublicmarket",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/konjo-ethiopian-5505-w-20th-avenue-ste-106"
+  },
+  {
+    "name": "Demera Ethiopian Restaurant",
+    "slug": "demeraethiopianrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/demera-ethiopian-restaurant"
+  },
+  {
+    "name": "Letena Ethiopian Restaurant",
+    "slug": "letenaethiopianrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/letenadc"
+  },
+  {
+    "name": "Das Ethiopian Cuisine",
+    "slug": "dasethiopiancuisine",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/das-ethiopian-cuisine"
+  },
+  {
+    "name": "Meskerem Ethiopian Restaurant",
+    "slug": "meskeremethiopianrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/meskerem"
+  },
+  {
+    "name": "Konjo Ethiopian Food Denver Milk Market",
+    "slug": "konjoethiopianfooddenvermilkmarket",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/konjo-ethiopian-milk-market"
+  },
+  {
+    "name": "Bolé Ethiopian Cuisine Como",
+    "slug": "bolethiopiancuisinecomo",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bole-ethiopian-cuisine-pascal"
+  },
+  {
+    "name": "Hook & Reel Cajun Seafood and Bar Flatbush",
+    "slug": "hookreelcajunseafoodandbarflatbush",
+    "category": "seafood",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hook-and-reel-cajun-seafood-and-bar-flatbush"
+  },
+  {
+    "name": "Olde New York State College",
+    "slug": "oldenewyorkstatecollege",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/olde-new-york"
+  },
+  {
+    "name": "Cajun Queen",
+    "slug": "cajunqueen",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cajun-queen"
+  },
+  {
+    "name": "NOLA CAJUN KITCHEN",
+    "slug": "nolacajunkitchen",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/locations/c9f670ee-8add-4df9-a02e-1fe878b6a4d4/default"
+  },
+  {
+    "name": "Rockin Cajun Carson",
+    "slug": "rockincajuncarson",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rockincajun"
+  },
+  {
+    "name": "Cajun Corner - Uptown 23rd St",
+    "slug": "cajuncorner-uptown23rdst",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cajun-corner"
+  },
+  {
+    "name": "Dodies Cajun Diner at The Harbor",
+    "slug": "dodiescajundinerattheharbor",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dodie-s-cajun-diner-at-the-harbor-rockwall-2067-summer-lee-dr-ste-145"
+  },
+  {
+    "name": "Cajun's City Seafoods & Wings",
+    "slug": "cajunscityseafoodswings",
+    "category": "wings",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cajuns-city"
+  },
+  {
+    "name": "Cajun Boil & Bar - Torrington 349 Winsted Road",
+    "slug": "cajunboilbar-torrington349winstedroad",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cajun-boil-bar-torrington-349-winsted-road"
+  },
+  {
+    "name": "order-page-wrapper.order",
+    "slug": "order-page-wrapperorder",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/stuffdnyc"
+  },
+  {
+    "name": "El Delicioso Mexican Cocina",
+    "slug": "eldeliciosomexicancocina",
+    "category": "mexican",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/el-delicioso-mexican-restaurant-200-new-york-ave"
+  },
+  {
+    "name": "Besito Mexican - Huntington, NY 402 New York Ave.",
+    "slug": "besitomexican-huntingtonny402newyorkave",
+    "category": "mexican",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/besito-huntington"
+  },
+  {
+    "name": "Besito Mexican - Roslyn, NY 1516 Old Northern Blvd.",
+    "slug": "besitomexican-roslynny1516oldnorthernblv",
+    "category": "mexican",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/besito-roslyn"
+  },
+  {
+    "name": "TAKO Mexican Street Food, Yonkers, NY ...",
+    "slug": "takomexicanstreetfoodyonkersny",
+    "category": "mexican",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tako-mexican-grill-1789-central-park-ave"
+  },
+  {
+    "name": "Monte Alban Mexican Grill - Webster 2245 Empire Blvd",
+    "slug": "montealbanmexicangrill-webster2245empire",
+    "category": "mexican",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/monte-alban-mexican-grill-webster-2245-empire-blvd"
+  },
+  {
+    "name": "Hacienda Watertown Authentic Mexican Restaurant 821 ...",
+    "slug": "haciendawatertownauthenticmexicanrestaur",
+    "category": "mexican",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hacienda-watertown-authentic-mexican-restaurant-821-arsenal-street"
+  },
+  {
+    "name": "Daniel's Mexican Restaurant 57 Kensico Road",
+    "slug": "danielsmexicanrestaurant57kensicoroad",
+    "category": "mexican",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/daniel-s-mexican-restaurant-57-kensico-road"
+  },
+  {
+    "name": "Anita's New Mexican Style Mexican Food",
+    "slug": "anitasnewmexicanstylemexicanfood",
+    "category": "mexican",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/locations/45ab429a-6255-4350-abfe-e67f1aea77b2/default"
+  },
+  {
+    "name": "Margarita's Mexican Cantina - Rochester",
+    "slug": "margaritasmexicancantina-rochester",
+    "category": "mexican",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/margaritas-mexican-cantina-rochester-2525-west-ridge-road"
+  },
+  {
+    "name": "Hawaiian Style Cafe - Hilo 681 Manono St, Ste 101",
+    "slug": "hawaiianstylecafe-hilo681manonostste101",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hawaiianstylecafe"
+  },
+  {
+    "name": "KING'S HAWAIIAN - THE LOCAL PLACE (Western)",
+    "slug": "kingshawaiian-thelocalplacewestern",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/king-s-hawaiian-the-local-place-master-western"
+  },
+  {
+    "name": "Gulp Taiwanese Restaurant - Manhattan, New York, NY",
+    "slug": "gulptaiwaneserestaurant-manhattannewyork",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gulp-manhattan"
+  },
+  {
+    "name": "Ku Asian Bistro 480 New Rochelle Rd",
+    "slug": "kuasianbistro480newrochellerd",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/kuasianbistro"
   }
 ]

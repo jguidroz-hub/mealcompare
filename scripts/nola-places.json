@@ -1404,5 +1404,320 @@
       "nola"
     ],
     "toastUrl": "https://order.toasttab.com/online/rtrestaurant"
+  },
+  {
+    "name": "SukhoThai New Orleans Magazine St",
+    "slug": "sukhothaineworleansmagazinest",
+    "category": "thai",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sukhothai-magazine-3701-magazine-st"
+  },
+  {
+    "name": "The Real New Orleans",
+    "slug": "therealneworleans",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-real-new-orleans-style-restaurant-1700-fm-1431"
+  },
+  {
+    "name": "El Nopal Mexican Restaurant 627 W Division St",
+    "slug": "elnopalmexicanrestaurant627wdivisionst",
+    "category": "mexican",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/el-nopal-mexican-restaurant"
+  },
+  {
+    "name": "El Colonial Mexican Restaurant",
+    "slug": "elcolonialmexicanrestaurant",
+    "category": "mexican",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/elcolonialmexican"
+  },
+  {
+    "name": "Carmelita's Mexican Restaurant 8526 Old County Rd 54",
+    "slug": "carmelitasmexicanrestaurant8526oldcounty",
+    "category": "mexican",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/npr-carmelitas-mexican-restaurant"
+  },
+  {
+    "name": "El Indio Mexican Restaurant 13th St 407 NW ...",
+    "slug": "elindiomexicanrestaurant13thst407nw",
+    "category": "mexican",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/el-indio-mexican-restaurant-13th-st-407-nw-13th-st"
+  },
+  {
+    "name": "mexico lindo mexican restaurant",
+    "slug": "mexicolindomexicanrestaurant",
+    "category": "mexican",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mexico-lindo-mexican-restaurant"
+  },
+  {
+    "name": "KING'S HAWAIIAN - THE LOCAL PLACE (Western)",
+    "slug": "kingshawaiian-thelocalplacewestern",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/king-s-hawaiian-the-local-place-master-western"
+  },
+  {
+    "name": "Onos Hawaiian at Artspace",
+    "slug": "onoshawaiianatartspace",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/onoshawaiianatartspace"
+  },
+  {
+    "name": "Homestyle Hawaiian Tierrasanta",
+    "slug": "homestylehawaiiantierrasanta",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/homestyle-hawaiian-tierresanta-10601-tierrasanta-blvd"
+  },
+  {
+    "name": "NOLA CAJUN KITCHEN",
+    "slug": "nolacajunkitchen",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/locations/c9f670ee-8add-4df9-a02e-1fe878b6a4d4/default"
+  },
+  {
+    "name": "Orleans Seafood Kitchen - Katy Freeway/Westgreen",
+    "slug": "orleansseafoodkitchen-katyfreewaywestgre",
+    "category": "seafood",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/orleans-seafood-kitchen"
+  },
+  {
+    "name": "Order Online – Delivery & Pick-Up",
+    "slug": "orderonlinedeliverypick-up",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/esquinacubana"
+  },
+  {
+    "name": "Cuban Kitchen, home of the Best Cubano",
+    "slug": "cubankitchenhomeofthebestcubano",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/qbacubankitchen"
+  },
+  {
+    "name": "Paladar Cuban Eatery",
+    "slug": "paladarcubaneatery",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/paladar-cuban-eatery"
+  },
+  {
+    "name": "Baracoa Cuban Restaurant",
+    "slug": "baracoacubanrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/baracoa-cuban"
+  },
+  {
+    "name": "Mima's Cuban Cafe",
+    "slug": "mimascubancafe",
+    "category": "cafe",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mimazcafe"
+  },
+  {
+    "name": "Guajiro Cuban Comfort Food",
+    "slug": "guajirocubancomfortfood",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/guajiro-cuban-comfort-food-122-riverside-dr"
+  },
+  {
+    "name": "Cuban Paradise Cigar & Café",
+    "slug": "cubanparadisecigarcaf",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cuban-paradise-cigar-cafe"
+  },
+  {
+    "name": "Box of Cubans - New Tampa",
+    "slug": "boxofcubans-newtampa",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/box-of-cubans-2-17512-dona-michelle-dr"
+  },
+  {
+    "name": "Peninsula Soul Food 4611 36th Ave SW",
+    "slug": "peninsulasoulfood461136thavesw",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/peninsula-soul-food-4611-36th-ave-sw"
+  },
+  {
+    "name": "The Soul Food Bistro - Westside 5310 Lenox Ave suite 1",
+    "slug": "thesoulfoodbistro-westside5310lenoxavesu",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-soul-food-bistro-westside-5310-lenox-ave-suite-1"
+  },
+  {
+    "name": "Soul Fish Cafe Germantown/Collierville",
+    "slug": "soulfishcafegermantowncollierville",
+    "category": "cafe",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/soulfishcafegermantown"
+  },
+  {
+    "name": "Soul Fish Cafe Midtown",
+    "slug": "soulfishcafemidtown",
+    "category": "cafe",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/soulfishcafemidtown"
+  },
+  {
+    "name": "Soul Fish Cafe E. Memphis",
+    "slug": "soulfishcafeememphis",
+    "category": "cafe",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/soulfishcafepoplar"
+  },
+  {
+    "name": "Soul Fish Cafe Wolfchase",
+    "slug": "soulfishcafewolfchase",
+    "category": "cafe",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/soulfishcafewolfchase"
+  },
+  {
+    "name": "Patricia Soul Food 194 S. Hanover st Suite 101",
+    "slug": "patriciasoulfood194shanoverstsuite101",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/patriciasoulfood"
+  },
+  {
+    "name": "L&G Southern Soul Food",
+    "slug": "lgsouthernsoulfood",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/l-g-southernsoulfood"
+  },
+  {
+    "name": "Lady Sharon's Soul Food Kitchen",
+    "slug": "ladysharonssoulfoodkitchen",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lssoulfood"
+  },
+  {
+    "name": "Soul Secrets LLC",
+    "slug": "soulsecretsllc",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/soulsecrets"
+  },
+  {
+    "name": "Sol Food Petaluma",
+    "slug": "solfoodpetaluma",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/solfoodpetaluma"
+  },
+  {
+    "name": "Pure Soul",
+    "slug": "puresoul",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pure-soul-n-a"
+  },
+  {
+    "name": "Northern Soul 700 1st St",
+    "slug": "northernsoul7001stst",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/northern-soul-700-1st-st"
+  },
+  {
+    "name": "6978 Soul Food",
+    "slug": "6978soulfood",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/6978-soul-food-6978-w-north-ave"
+  },
+  {
+    "name": "Heart and soul restaurant and saloon",
+    "slug": "heartandsoulrestaurantandsaloon",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hands"
   }
 ]

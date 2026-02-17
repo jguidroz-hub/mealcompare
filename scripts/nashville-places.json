@@ -1112,5 +1112,347 @@
       "nashville"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/3725/4822/items"
+  },
+  {
+    "name": "Official Wings - 2035 Jefferson st, Nashville, TN",
+    "slug": "officialwings-2035jeffersonstnashvilletn",
+    "category": "wings",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/official-wings-jefferson-st-2035-jefferson-st"
+  },
+  {
+    "name": "Extreme Hot Wings",
+    "slug": "extremehotwings",
+    "category": "wings",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/extreme-hot-wings"
+  },
+  {
+    "name": "Rooster's Nashville Hot Chicken - Montclair",
+    "slug": "roostersnashvillehotchicken-montclair",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/roosters-nashville-hot-chicken-montclair-369-bloomfield-avenue"
+  },
+  {
+    "name": "Castrillos Pizza of Sylvan Park West Nashville",
+    "slug": "castrillospizzaofsylvanparkwestnashville",
+    "category": "pizza",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/castrillos-pizza-of-sylvan-park"
+  },
+  {
+    "name": "Wings Over Mount Pleasant",
+    "slug": "wingsovermountpleasant",
+    "category": "wings",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wings-over-mount-pleasant"
+  },
+  {
+    "name": "Pokenash - 4101 Charlotte Avenue, G120, Nashville, TN",
+    "slug": "pokenash-4101charlotteavenueg120nashvill",
+    "category": "poke",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pokenash-nashville-4101-charlotte-avenue"
+  },
+  {
+    "name": "Fresh Catch Poke Co. - Hertel Ave.",
+    "slug": "freshcatchpokeco-hertelave",
+    "category": "poke",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fresh-catch-poke-pearl"
+  },
+  {
+    "name": "Poke Poke Loop (Palmer House)",
+    "slug": "pokepokelooppalmerhouse",
+    "category": "poke",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-poke-wabash-118-s-wabash-ave"
+  },
+  {
+    "name": "Oshi Poke and Sushi 201 Jefferson Street North",
+    "slug": "oshipokeandsushi201jeffersonstreetnorth",
+    "category": "japanese",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/oshi-poke-and-sushi-new-201-jefferson-street-north"
+  },
+  {
+    "name": "Poke Sushi 1720 Washington Road",
+    "slug": "pokesushi1720washingtonroad",
+    "category": "japanese",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-sushi-1720-washington-road"
+  },
+  {
+    "name": "Poke Row 2735 NW Crossing Dr #105",
+    "slug": "pokerow2735nwcrossingdr105",
+    "category": "poke",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-row-2735-nw-crossing-dr-105"
+  },
+  {
+    "name": "Poke Poke Streeterville",
+    "slug": "pokepokestreeterville",
+    "category": "poke",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/streeterville"
+  },
+  {
+    "name": "Poke OG - Downtown POKE OG DOWNTOWN",
+    "slug": "pokeog-downtownpokeogdowntown",
+    "category": "poke",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-og-downtown-161-se-1st-street"
+  },
+  {
+    "name": "Poke Bowl Fargo 560 2nd Avenue N Suite A",
+    "slug": "pokebowlfargo5602ndavenuensuitea",
+    "category": "poke",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-bowl-fargo-560-2nd-avenue-n-suite-a"
+  },
+  {
+    "name": "Poke Poke West Loop",
+    "slug": "pokepokewestloop",
+    "category": "poke",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-poke-west-loop-1100-w-madison"
+  },
+  {
+    "name": "Manoa Poke Shop",
+    "slug": "manoapokeshop",
+    "category": "poke",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/manoapoke"
+  },
+  {
+    "name": "Pelato Nashville",
+    "slug": "pelatonashville",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pelatorestaurant"
+  },
+  {
+    "name": "El Indio - Nashville IL 1620 South Mill Street",
+    "slug": "elindio-nashvilleil1620southmillstreet",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/el-indio-nashville-il-1620-south-mill-street"
+  },
+  {
+    "name": "FIDI - Fulton St",
+    "slug": "fidi-fultonst",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gai118fulton"
+  },
+  {
+    "name": "Boston Commons East Nashville",
+    "slug": "bostoncommonseastnashville",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/boston-common-seafood-house-1008-a-woodland-st-nashville-tn-37206"
+  },
+  {
+    "name": "Street Brothers Seafood* 540 Paragon Mills Dr",
+    "slug": "streetbrothersseafood540paragonmillsdr",
+    "category": "seafood",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/streetbrothersseafood"
+  },
+  {
+    "name": "Graduate Nashville White Limozeen",
+    "slug": "graduatenashvillewhitelimozeen",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-graduate-fsr-101-20th-ave-n"
+  },
+  {
+    "name": "Solomon Seafood & Grille",
+    "slug": "solomonseafoodgrille",
+    "category": "seafood",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/solomon-seafood-grille"
+  },
+  {
+    "name": "Seasons & Regions Seafood Grill",
+    "slug": "seasonsregionsseafoodgrill",
+    "category": "seafood",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/seasons-regions-seafood-grill"
+  },
+  {
+    "name": "Heads & Tails Seafood, Inc. 2070 Silverside Dr.",
+    "slug": "headstailsseafoodinc2070silversidedr",
+    "category": "seafood",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/heads-tails-seafood-inc-2070-silverside-dr"
+  },
+  {
+    "name": "Seafood Hut & Market 1936 MacDade Boulevard",
+    "slug": "seafoodhutmarket1936macdadeboulevard",
+    "category": "seafood",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/seafoodhut"
+  },
+  {
+    "name": "Simply Fish Seafood",
+    "slug": "simplyfishseafood",
+    "category": "seafood",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/simply-fish-seafood-1534-adams-avenue-suite-d"
+  },
+  {
+    "name": "Rockfish Seafood Grill 7639 Campbell Rd. #800",
+    "slug": "rockfishseafoodgrill7639campbellrd800",
+    "category": "seafood",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rockfishrichardson"
+  },
+  {
+    "name": "Roe Seafood Dining & Fish Market 5374 E 2nd St",
+    "slug": "roeseafooddiningfishmarket5374e2ndst",
+    "category": "seafood",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/roe-seafood-5374-e-2nd-st"
+  },
+  {
+    "name": "Hnina's Seafood 1104 S. Clarke Rd",
+    "slug": "hninasseafood1104sclarkerd",
+    "category": "seafood",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hninasseafood"
+  },
+  {
+    "name": "Gandy Seafood - Murfreesboro (NEW) 2445 Memorial Blvd ...",
+    "slug": "gandyseafood-murfreesboronew2445memorial",
+    "category": "seafood",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gandy-seafood-murfreesboro-new-2445-memorial-blvd-ste-d"
+  },
+  {
+    "name": "Baytown Seafood Restaurant 2102 Broadway Street",
+    "slug": "baytownseafoodrestaurant2102broadwaystre",
+    "category": "seafood",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/baytown-seafood-restaurant"
+  },
+  {
+    "name": "Mr Seafood - Town Center 494-1 Town Center Place",
+    "slug": "mrseafood-towncenter494-1towncenterplace",
+    "category": "seafood",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mr-seafood-town-center-494-1-town-center-place"
+  },
+  {
+    "name": "Sayle's Seafood 99 Washington Street",
+    "slug": "saylesseafood99washingtonstreet",
+    "category": "seafood",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sayles-seafood-99-washington-street"
+  },
+  {
+    "name": "Buddys Seafood Market",
+    "slug": "buddysseafoodmarket",
+    "category": "seafood",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/buddys"
+  },
+  {
+    "name": "Lovers Seafood & Market 214-414-9880",
+    "slug": "loversseafoodmarket214-414-9880",
+    "category": "seafood",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lovers-seafood"
+  },
+  {
+    "name": "Hometown Seafood Pearland",
+    "slug": "hometownseafoodpearland",
+    "category": "seafood",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hometown-seafood-llc-5010-broadway-st"
+  },
+  {
+    "name": "Waves Seafood - Braintree 190 Quincy Avenue",
+    "slug": "wavesseafood-braintree190quincyavenue",
+    "category": "seafood",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/waves-seafood-braintree-190-quincy-avenue"
   }
 ]

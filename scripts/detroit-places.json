@@ -1160,5 +1160,356 @@
       "detroit"
     ],
     "toastUrl": "https://order.toasttab.com/online/red-oak-sanford"
+  },
+  {
+    "name": "J Cups Pizza - Detroit Ave 4843 North Detroit Avenue",
+    "slug": "jcupspizza-detroitave4843northdetroitave",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/jcupsdetroit"
+  },
+  {
+    "name": "Pizza by Robert",
+    "slug": "pizzabyrobert",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizza-by-robert-30634-detroit-rd"
+  },
+  {
+    "name": "The Rec Pizza and Detroit Eats Lake Pleasant Rd (99th) ...",
+    "slug": "therecpizzaanddetroiteatslakepleasantrd9",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/therecpizzeriapeoria"
+  },
+  {
+    "name": "Futuro Indianapolis - Gluten Free Detroit Style Pizza",
+    "slug": "futuroindianapolis-glutenfreedetroitstyl",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/futuro-19-cruse-street"
+  },
+  {
+    "name": "Bai Mai Thai Downtown Detroit, MI",
+    "slug": "baimaithaidowntowndetroitmi",
+    "category": "thai",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bai-mai-thai"
+  },
+  {
+    "name": "92 Town Korean BBQ",
+    "slug": "92townkoreanbbq",
+    "category": "bbq",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/92town"
+  },
+  {
+    "name": "Sharon Korean Kitchen",
+    "slug": "sharonkoreankitchen",
+    "category": "korean",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sharonkoreankitchen"
+  },
+  {
+    "name": "MARU Korean Restaurant and Bar",
+    "slug": "marukoreanrestaurantandbar",
+    "category": "korean",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/maru-korean-restaurant-and-bar"
+  },
+  {
+    "name": "Korean Chili Tulare Target Shopping Mall",
+    "slug": "koreanchilitularetargetshoppingmall",
+    "category": "korean",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/koreanchili"
+  },
+  {
+    "name": "Oz Korean BBQ Elk Grove",
+    "slug": "ozkoreanbbqelkgrove",
+    "category": "bbq",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/oz-korean-bbq-elk-grove"
+  },
+  {
+    "name": "order-page-wrapper.order",
+    "slug": "order-page-wrapperorder",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/yabostacosevansfarm"
+  },
+  {
+    "name": "Soko Bag Korean Fried Chicken 95 Nutt Road",
+    "slug": "sokobagkoreanfriedchicken95nuttroad",
+    "category": "korean",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/soko-bag"
+  },
+  {
+    "name": "Bawi Korean BBQ",
+    "slug": "bawikoreanbbq",
+    "category": "bbq",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bawi-korean-bbq-4121-s-national-ave"
+  },
+  {
+    "name": "House of Gumbo - West Detroit",
+    "slug": "houseofgumbo-westdetroit",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/house-of-gumbo-dearborn-20430-w-seven-mile-rd"
+  },
+  {
+    "name": "Dodies Cajun Diner at The Harbor",
+    "slug": "dodiescajundinerattheharbor",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dodie-s-cajun-diner-at-the-harbor-rockwall-2067-summer-lee-dr-ste-145"
+  },
+  {
+    "name": "Jingo Cajun Eatery Lumberton 133 #A North Lhs Dr.",
+    "slug": "jingocajuneaterylumberton133anorthlhsdr",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/jingo-cajun-eatery-lumberton-133-a-north-lhs-dr"
+  },
+  {
+    "name": "The Cajun Spot 17731 Fairgrove Park Dr",
+    "slug": "thecajunspot17731fairgroveparkdr",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-cajun-spot-17731-fairgrove-park-dr"
+  },
+  {
+    "name": "Cajun Corner - Uptown 23rd St",
+    "slug": "cajuncorner-uptown23rdst",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cajun-corner"
+  },
+  {
+    "name": "Boudreau & Thibodeau's Cajun Cookin'",
+    "slug": "boudreauthibodeauscajuncookin",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/boudreau-thibodeaus-cajun-cookin-5602-west-main-street"
+  },
+  {
+    "name": "Crazy Cajun",
+    "slug": "crazycajun",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/crazy-cajun-8578-edinburgh-center-dr-n"
+  },
+  {
+    "name": "Cajun Corner - NW Expressway",
+    "slug": "cajuncorner-nwexpressway",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cajuncornerokc"
+  },
+  {
+    "name": "Crawdaddys Cajun 13 Tomlinson Mill Rd",
+    "slug": "crawdaddyscajun13tomlinsonmillrd",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/crawdaddys-cajun-13-tomlinson-mill-rd"
+  },
+  {
+    "name": "Ya Better Eat Cajun Smokehouse 711 2nd Avenue North",
+    "slug": "yabettereatcajunsmokehouse7112ndavenueno",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ya-better-eat-cajun-smokehouse-711-2nd-avenue-north"
+  },
+  {
+    "name": "Vivio's Detroit",
+    "slug": "viviosdetroit",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/vivios-detroit"
+  },
+  {
+    "name": "Sushi Ai Downtown 910 Olive Street",
+    "slug": "sushiaidowntown910olivestreet",
+    "category": "japanese",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sushi-ai-downtown-910-olive-street"
+  },
+  {
+    "name": "Sushi Too 5432 Walnut St",
+    "slug": "sushitoo5432walnutst",
+    "category": "japanese",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sushi-too-5432-walnut-st"
+  },
+  {
+    "name": "KAMON SUSHI 17855 Colima Rd. city of industry CA91748",
+    "slug": "kamonsushi17855colimardcityofindustryca9",
+    "category": "japanese",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/kamon-sushi-city-of-industry-17855-colima-rd"
+  },
+  {
+    "name": "Kozo Sushi - Pearl City 1029 Makolu Street",
+    "slug": "kozosushi-pearlcity1029makolustreet",
+    "category": "japanese",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/kozosushipearlcity"
+  },
+  {
+    "name": "Sushi Ukai - Wheaton 281 Rice Lake Square",
+    "slug": "sushiukai-wheaton281ricelakesquare",
+    "category": "japanese",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sushi-ukai-wheaton-281-rice-lake-square"
+  },
+  {
+    "name": "Hiro & Co Sushi Den/Izakaya Den",
+    "slug": "hirocosushidenizakayaden",
+    "category": "japanese",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sushi-den"
+  },
+  {
+    "name": "RetRoll Sushi LBC 2023 E 4th St.",
+    "slug": "retrollsushilbc2023e4thst",
+    "category": "japanese",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tbd-sushi-2023-e-4th-st"
+  },
+  {
+    "name": "Shoyou Sushi @ Fed Hill 1450 Light Street",
+    "slug": "shoyousushifedhill1450lightstreet",
+    "category": "japanese",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/shoyou-sushi-1450-light-st"
+  },
+  {
+    "name": "That Sushi Spot 3004 Avenue L",
+    "slug": "thatsushispot3004avenuel",
+    "category": "japanese",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/that-sushi-spot-3004-avenue-l"
+  },
+  {
+    "name": "Sushi Coup 29141 Dequindre Road",
+    "slug": "sushicoup29141dequindreroad",
+    "category": "japanese",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sushicoup"
+  },
+  {
+    "name": "Asian Fusion Sushi & Bar 7827 Bergenline Ave",
+    "slug": "asianfusionsushibar7827bergenlineave",
+    "category": "japanese",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fusion"
+  },
+  {
+    "name": "Noburu Ramen and Sushi 8900 161st Avenue Northeast ...",
+    "slug": "nobururamenandsushi8900161stavenuenorthe",
+    "category": "japanese",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/noburu-ramen-and-sushi-8900-161st-avenue-northeast-170"
+  },
+  {
+    "name": "Sushi Mon 3800 Glenwood Avenue #100",
+    "slug": "sushimon3800glenwoodavenue100",
+    "category": "japanese",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sushi-mon-relocation"
+  },
+  {
+    "name": "Sushi House Downers Grove",
+    "slug": "sushihousedownersgrove",
+    "category": "japanese",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sushi-house-downers-grove"
+  },
+  {
+    "name": "Uptown Sushi",
+    "slug": "uptownsushi",
+    "category": "japanese",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uptown-sushi"
   }
 ]

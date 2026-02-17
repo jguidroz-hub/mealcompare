@@ -992,5 +992,419 @@
       "minneapolis"
     ],
     "toastUrl": "https://order.toasttab.com/online/hope-breakfast-bar"
+  },
+  {
+    "name": "Meskerem Ethiopian Restaurant",
+    "slug": "meskeremethiopianrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/meskerem"
+  },
+  {
+    "name": "Leyu Ethiopian Restaurant",
+    "slug": "leyuethiopianrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/leyu-ethiopian-restaurant"
+  },
+  {
+    "name": "Demera Ethiopian Restaurant",
+    "slug": "demeraethiopianrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/demera-ethiopian-restaurant"
+  },
+  {
+    "name": "Tana Ethiopian Cuisine",
+    "slug": "tanaethiopiancuisine",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tana-ethiopian-cuisine-5929-baum-blvd"
+  },
+  {
+    "name": "Bolé Ethiopian Cuisine Como",
+    "slug": "bolethiopiancuisinecomo",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bole-ethiopian-cuisine-pascal"
+  },
+  {
+    "name": "Das Ethiopian Cuisine",
+    "slug": "dasethiopiancuisine",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/das-ethiopian-cuisine"
+  },
+  {
+    "name": "Letena Ethiopian Restaurant",
+    "slug": "letenaethiopianrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/letenadc"
+  },
+  {
+    "name": "Raag Progressive Indian Cuisine Minneapolis MN",
+    "slug": "raagprogressiveindiancuisineminneapolism",
+    "category": "indian",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/raagindiancuisine"
+  },
+  {
+    "name": "Thaliwala indian kitchen",
+    "slug": "thaliwalaindiankitchen",
+    "category": "indian",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thaliwalaindiankitchen"
+  },
+  {
+    "name": "Tocabe An American Indian Eatery 3536 W 44th Ave",
+    "slug": "tocabeanamericanindianeatery3536w44thave",
+    "category": "indian",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tocabe"
+  },
+  {
+    "name": "Rang Indian Bistro 6 Central Street Stoneham",
+    "slug": "rangindianbistro6centralstreetstoneham",
+    "category": "indian",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rang-indian-bistro"
+  },
+  {
+    "name": "Masala House Indian Bistro 5102 Baum blvd",
+    "slug": "masalahouseindianbistro5102baumblvd",
+    "category": "indian",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/masala-house-indian-bistro-5102-baum-blvd"
+  },
+  {
+    "name": "Pintu's Indian Palace",
+    "slug": "pintusindianpalace",
+    "category": "indian",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pintus"
+  },
+  {
+    "name": "Manam Indian Cuisine 124 Lancaster Avenue",
+    "slug": "manamindiancuisine124lancasteravenue",
+    "category": "indian",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/manum-indian-cuisine-124-lancaster-avenue"
+  },
+  {
+    "name": "Nawab's Indian Cuisine 4715 Kirkwood Highway",
+    "slug": "nawabsindiancuisine4715kirkwoodhighway",
+    "category": "indian",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/nawabs"
+  },
+  {
+    "name": "Tandoor Indian Cuisine, Middletown 170 Main Street Unit 4",
+    "slug": "tandoorindiancuisinemiddletown170mainstr",
+    "category": "indian",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tandoor-middletown-170-main-street-unit-4"
+  },
+  {
+    "name": "Kashmir Indian Cuisine 396 South Broadway",
+    "slug": "kashmirindiancuisine396southbroadway",
+    "category": "indian",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/kashmir-indian-cuisine-396-south-broadway"
+  },
+  {
+    "name": "Desi Indian Lounge 1355 Hornby Street",
+    "slug": "desiindianlounge1355hornbystreet",
+    "category": "indian",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/desi%20indian%20lounge"
+  },
+  {
+    "name": "Spice Indian Thai Bistro",
+    "slug": "spiceindianthaibistro",
+    "category": "thai",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/spice-indian-thai-bistro"
+  },
+  {
+    "name": "Taj Indian Cuisine 333 CLARKS POND PKWY STE # 6",
+    "slug": "tajindiancuisine333clarkspondpkwyste6",
+    "category": "indian",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tajmaine"
+  },
+  {
+    "name": "NAMASTE INDIAN CUISINE 1501 Mission Street",
+    "slug": "namasteindiancuisine1501missionstreet",
+    "category": "indian",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/namaste-indian-cuisine-1501-mission-street"
+  },
+  {
+    "name": "Tikka Indian Cuisine Fruitville Rd",
+    "slug": "tikkaindiancuisinefruitvillerd",
+    "category": "indian",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tikka-indian-cuisine-tikkasrq"
+  },
+  {
+    "name": "Wings Pizza - N - Things Restaurant 249 ...",
+    "slug": "wingspizza-n-thingsrestaurant249",
+    "category": "pizza",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wings-pizza-n-things-restaurant"
+  },
+  {
+    "name": "Five Finger Wings 171 Moscow Springs Plaza Dr.",
+    "slug": "fivefingerwings171moscowspringsplazadr",
+    "category": "wings",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/five-finger-wings-171-moscow-springs-plaza-dr"
+  },
+  {
+    "name": "MO Wings 301 S Kyler",
+    "slug": "mowings301skyler",
+    "category": "wings",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mo-wings"
+  },
+  {
+    "name": "Them Wings - Henderson 9985 S Eastern Ave",
+    "slug": "themwings-henderson9985seasternave",
+    "category": "wings",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/them-wings-9985-s-eastern-ave/"
+  },
+  {
+    "name": "Wings N Things Cortez",
+    "slug": "wingsnthingscortez",
+    "category": "wings",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wingsnthingscortez"
+  },
+  {
+    "name": "King of Wings 7741 W 44th Ave",
+    "slug": "kingofwings7741w44thave",
+    "category": "wings",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/kingofwingstaphouse"
+  },
+  {
+    "name": "Wings and Burgers To Go 1733 West Mississippi Avenue",
+    "slug": "wingsandburgerstogo1733westmississippiav",
+    "category": "burgers",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wings-and-burgers-1733-west-mississippi-avenue"
+  },
+  {
+    "name": "Wild wings N things 3265 w. alexis rd ste A",
+    "slug": "wildwingsnthings3265walexisrdstea",
+    "category": "wings",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wild-wings-n-things-3265-w-alexis-rd-ste-a"
+  },
+  {
+    "name": "Stuff'd Wings 401 Richmond Ave",
+    "slug": "stuffdwings401richmondave",
+    "category": "wings",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/stuff-d-wings-401-richmond-ave"
+  },
+  {
+    "name": "Boss Wings 3725 Club Dr.",
+    "slug": "bosswings3725clubdr",
+    "category": "wings",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/boss-wings-3725-club-dr"
+  },
+  {
+    "name": "WINGS & ALE OF LEXINGTON 154 Ellis Avenue",
+    "slug": "wingsaleoflexington154ellisavenue",
+    "category": "wings",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wings-and-ale-154-ellis-avenue"
+  },
+  {
+    "name": "Birdies Wings and Bar 7514 South Padre Island Drive #206",
+    "slug": "birdieswingsandbar7514southpadreislanddr",
+    "category": "wings",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/birdies-wings-and-bar-7514-south-padre-island-drive"
+  },
+  {
+    "name": "Duff's Famous Wings Southlake",
+    "slug": "duffsfamouswingssouthlake",
+    "category": "wings",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/duffssouthlake"
+  },
+  {
+    "name": "St Paul Bagelry Minneapolis",
+    "slug": "stpaulbagelryminneapolis",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/st-paul-bagelry-mpls-5426-nicollet-ave-south"
+  },
+  {
+    "name": "Standish Cafe South Minneapolis",
+    "slug": "standishcafesouthminneapolis",
+    "category": "cafe",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/standish-cafe-2403-east-38th-street"
+  },
+  {
+    "name": "The Shop Brunch",
+    "slug": "theshopbrunch",
+    "category": "breakfast",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-shop-kitchen-730-n-milpas-st"
+  },
+  {
+    "name": "Just Brunch 1950 Satellite Blvd Suite 400",
+    "slug": "justbrunch1950satelliteblvdsuite400",
+    "category": "breakfast",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/just-brunch-1950-satelite-blvd-suite-400"
+  },
+  {
+    "name": "RealGood Brunch Co 1310 S Alvernon",
+    "slug": "realgoodbrunchco1310salvernon",
+    "category": "breakfast",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/realgoodbrunch"
+  },
+  {
+    "name": "Up For Brunch",
+    "slug": "upforbrunch",
+    "category": "breakfast",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/upforbrunch"
+  },
+  {
+    "name": "Brunch'd",
+    "slug": "brunchd",
+    "category": "breakfast",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/brunched"
+  },
+  {
+    "name": "Taberna 3126 West Lake Street, Minneapolis, MN 55416",
+    "slug": "taberna3126westlakestreetminneapolismn55",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/taberna"
+  },
+  {
+    "name": "Brunch It Up",
+    "slug": "brunchitup",
+    "category": "breakfast",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/locations/e49e85e2-91d8-40e3-951d-3639b5a63f9c"
+  },
+  {
+    "name": "Brunch Delafield",
+    "slug": "brunchdelafield",
+    "category": "breakfast",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/brunch-delafield-705-north-genesee-street"
+  },
+  {
+    "name": "Brunch It Up - Milwaukee 714 N MILWAUKEE ST",
+    "slug": "brunchitup-milwaukee714nmilwaukeest",
+    "category": "breakfast",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/brunch-milwaukee-714-n-milwaukee-st"
   }
 ]

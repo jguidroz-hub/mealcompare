@@ -1471,5 +1471,293 @@
       "dallas"
     ],
     "toastUrl": "https://order.toasttab.com/online/tokyogreenvillenc"
+  },
+  {
+    "name": "Greek Feast",
+    "slug": "greekfeast",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/greek-feast-2784-dundee-road"
+  },
+  {
+    "name": "Mr. Greek of Buffalo 1122 Elmwood Ave.",
+    "slug": "mrgreekofbuffalo1122elmwoodave",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mrgreekofbuffalo"
+  },
+  {
+    "name": "The Greek Corner 2366 Massachusetts Avenue",
+    "slug": "thegreekcorner2366massachusettsavenue",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-greek-corner-2366-massachusetts-avenue"
+  },
+  {
+    "name": "Giorgio's Greek Cafe LLC 328 S. Meridian",
+    "slug": "giorgiosgreekcafellc328smeridian",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/giorgiosgreekcafe"
+  },
+  {
+    "name": "The Great Greek - Allen Park",
+    "slug": "thegreatgreek-allenpark",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-great-greek-allen-park"
+  },
+  {
+    "name": "Greek Souvlaki Downtown",
+    "slug": "greeksouvlakidowntown",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/greek-souvlaki-downtown"
+  },
+  {
+    "name": "Greek Spot San Jose",
+    "slug": "greekspotsanjose",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/greek-spot-5685-cottle-rd"
+  },
+  {
+    "name": "Acropolis Greek Cuisine",
+    "slug": "acropolisgreekcuisine",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/acropolis-greek-cuisine"
+  },
+  {
+    "name": "Opa Greek Yeeros 378 Highland Ave",
+    "slug": "opagreekyeeros378highlandave",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/opagreekyeeros"
+  },
+  {
+    "name": "It's Greek to Me - Fort Lee 1611 Palisade Ave.",
+    "slug": "itsgreektome-fortlee1611palisadeave",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/itsgreektome"
+  },
+  {
+    "name": "Eat Greek",
+    "slug": "eatgreek",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/eat-greek-215-elm-street"
+  },
+  {
+    "name": "go to greek",
+    "slug": "gotogreek",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/go-to-greek-3025-e-main-st"
+  },
+  {
+    "name": "The Great Greek Mediterranean Grill ZZZ - DNU Rocky River",
+    "slug": "thegreatgreekmediterraneangrillzzz-dnuro",
+    "category": "mediterranean",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-great-greek-mediterranean-grill-rocky-river"
+  },
+  {
+    "name": "The Great Greek Mediterranean Grill St Rose",
+    "slug": "thegreatgreekmediterraneangrillstrose",
+    "category": "mediterranean",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-great-greek-mediterranean-grill-st-rose-3552-st-rose-parkway"
+  },
+  {
+    "name": "Padelis Street Greek SLC",
+    "slug": "padelisstreetgreekslc",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/padelis-street-greek"
+  },
+  {
+    "name": "Chop House Burger Dallas",
+    "slug": "chophouseburgerdallas",
+    "category": "burgers",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/chophouse-burger-dallas-1501-main-street"
+  },
+  {
+    "name": "Holy Burger Dallas",
+    "slug": "holyburgerdallas",
+    "category": "burgers",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/holy-burger-dallas"
+  },
+  {
+    "name": "Shady's Burgers & Brewhaha - Dallas 9661 Audelia Rd. #110",
+    "slug": "shadysburgersbrewhaha-dallas9661audeliar",
+    "category": "burgers",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/shadys-burgers-brewhaha-dallas-9661-audelia-rd-110"
+  },
+  {
+    "name": "Black Tap Burger Dallas",
+    "slug": "blacktapburgerdallas",
+    "category": "burgers",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/black-tap-burger-dallas-new"
+  },
+  {
+    "name": "Village Burger Bar - Inwood",
+    "slug": "villageburgerbar-inwood",
+    "category": "burgers",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/village-burger-bar-inwood"
+  },
+  {
+    "name": "Dallas Center",
+    "slug": "dallascenter",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-handlebar"
+  },
+  {
+    "name": "My Thai and Vegan - Frisco 6363 Dallas Parkway",
+    "slug": "mythaiandvegan-frisco6363dallasparkway",
+    "category": "thai",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/my-thai-and-vegan-frisco-6363-dallas-parkway"
+  },
+  {
+    "name": "DNU Holy Cow- Dallas OLD CHURNED",
+    "slug": "dnuholycow-dallasoldchurned",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/holy-cow-dallas-18111-dallas-pkwy-c200-dallas-tx-75287"
+  },
+  {
+    "name": "O'Desi aroma Dallas",
+    "slug": "odesiaromadallas",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/o-desi-aroma"
+  },
+  {
+    "name": "Dope Vegan",
+    "slug": "dopevegan",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dope-vegan-sw"
+  },
+  {
+    "name": "TLC Vegan Cafe Richardson",
+    "slug": "tlcvegancaferichardson",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tlc-vegan-kitchen-520-shepherd-drive-suite-10"
+  },
+  {
+    "name": "West Coast Vegan Grill 2023 100 W CENTRAL AVE",
+    "slug": "westcoastvegangrill2023100wcentralave",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/west-coast-vegan-grill-2023-100-w-central-ave"
+  },
+  {
+    "name": "Vegan On The Fly Midtown",
+    "slug": "veganontheflymidtown",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/veganonthefly45st"
+  },
+  {
+    "name": "Sabrin Pizza 156 North State St",
+    "slug": "sabrinpizza156northstatest",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dallas-pizza-156-north-state-st"
+  },
+  {
+    "name": "Zio Al's Pizza & Pasta \" Addison \"",
+    "slug": "zioalspizzapastaaddison",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/zio-als-addison-15340-dallas-pkwy-2010"
+  },
+  {
+    "name": "Zio Al's Pizza & Pasta \"Preston - North Dallas\"",
+    "slug": "zioalspizzapastapreston-northdallas",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/zio-als-dallas-19009-preston-rd-300"
+  },
+  {
+    "name": "Mister O1 Extraordinary Pizza - 7th Street, TX",
+    "slug": "mistero1extraordinarypizza-7thstreettx",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mister-o1-extraordinary-pizza-dallas-7th"
   }
 ]

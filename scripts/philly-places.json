@@ -1363,5 +1363,257 @@
       "philly"
     ],
     "toastUrl": "https://order.toasttab.com/online/topside-tavern-10-south-20th-street"
+  },
+  {
+    "name": "KING'S HAWAIIAN - THE LOCAL PLACE (Western)",
+    "slug": "kingshawaiian-thelocalplacewestern",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/king-s-hawaiian-the-local-place-master-western"
+  },
+  {
+    "name": "Da Hawaiian Kitchen",
+    "slug": "dahawaiiankitchen",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/da-hawaiian-kitchen"
+  },
+  {
+    "name": "Kona Hawaiian BBQ - Longmont",
+    "slug": "konahawaiianbbq-longmont",
+    "category": "bbq",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/konahawaiianlongmont"
+  },
+  {
+    "name": "Kona Hawaiian BBQ",
+    "slug": "konahawaiianbbq",
+    "category": "bbq",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/konahawaiianbbqjohnstown"
+  },
+  {
+    "name": "Pollo Inka Express - Hawaiian Gardens ...",
+    "slug": "polloinkaexpress-hawaiiangardens",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/el-pollo-inka-hawaiian-gardens-12110-east-carson-street"
+  },
+  {
+    "name": "Taffach Ethiopian Restaurant 113 D Street",
+    "slug": "taffachethiopianrestaurant113dstreet",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/taffach-ethiopian-restaurant"
+  },
+  {
+    "name": "Tana Ethiopian Cuisine",
+    "slug": "tanaethiopiancuisine",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tana-ethiopian-cuisine-5929-baum-blvd"
+  },
+  {
+    "name": "LeYou Ethiopian 1100 N First St suite c",
+    "slug": "leyouethiopian1100nfirststsuitec",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/leyou-ethiopian-1100-n-first-st-suite-c"
+  },
+  {
+    "name": "Leyu Ethiopian Restaurant",
+    "slug": "leyuethiopianrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/leyu-ethiopian-restaurant"
+  },
+  {
+    "name": "Meskerem Ethiopian Restaurant",
+    "slug": "meskeremethiopianrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/meskerem"
+  },
+  {
+    "name": "Demera Ethiopian Restaurant",
+    "slug": "demeraethiopianrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/demera-ethiopian-restaurant"
+  },
+  {
+    "name": "Letena Ethiopian Restaurant",
+    "slug": "letenaethiopianrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/letenadc"
+  },
+  {
+    "name": "Das Ethiopian Cuisine",
+    "slug": "dasethiopiancuisine",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/das-ethiopian-cuisine"
+  },
+  {
+    "name": "Bolé Ethiopian Cuisine Como",
+    "slug": "bolethiopiancuisinecomo",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bole-ethiopian-cuisine-pascal"
+  },
+  {
+    "name": "Oishi Yakitori Sushi 246 South 11th Street",
+    "slug": "oishiyakitorisushi246south11thstreet",
+    "category": "japanese",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/oishiyakitorisushi"
+  },
+  {
+    "name": "Poke Burri - Philadelphia",
+    "slug": "pokeburri-philadelphia",
+    "category": "poke",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/konkol-llc-255-south-10th-st-1-fl"
+  },
+  {
+    "name": "Bleu Sushi",
+    "slug": "bleusushi",
+    "category": "japanese",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bleu-sushi"
+  },
+  {
+    "name": "order-page-wrapper.order",
+    "slug": "order-page-wrapperorder",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/royal-izakaya-780-s-2nd-st"
+  },
+  {
+    "name": "Mizu Sushi Bar 1013 Washington Avenue",
+    "slug": "mizusushibar1013washingtonavenue",
+    "category": "japanese",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mizu-sushi-bar-1013-washington-avenue"
+  },
+  {
+    "name": "Tomo Sushi & Ramen 228 Arch St",
+    "slug": "tomosushiramen228archst",
+    "category": "japanese",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tomosushiramen"
+  },
+  {
+    "name": "Turkish Cafe Co",
+    "slug": "turkishcafeco",
+    "category": "cafe",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/turkish-cafe-co"
+  },
+  {
+    "name": "Bosphorous Turkish Cuisine - Winter Park 1",
+    "slug": "bosphorousturkishcuisine-winterpark1",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/btc-wp"
+  },
+  {
+    "name": "Dadash Grill Turkish Cuisine 8606 E Mill Plain Blvd Suite A",
+    "slug": "dadashgrillturkishcuisine8606emillplainb",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dadash-grill-turkish-cuisine"
+  },
+  {
+    "name": "Bosphorous Turkish Cuisine - Winter Garden 4",
+    "slug": "bosphorousturkishcuisine-wintergarden4",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/btc-wg"
+  },
+  {
+    "name": "Bosphorous Turkish Cuisine - Dr Phillips 2",
+    "slug": "bosphorousturkishcuisine-drphillips2",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/btc-dr"
+  },
+  {
+    "name": "Sofra Turkish Grill",
+    "slug": "sofraturkishgrill",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sofraturkishgrill"
+  },
+  {
+    "name": "Iskender's Turkish Cuisine",
+    "slug": "iskendersturkishcuisine",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/iskenders-turkish-cuisine"
+  },
+  {
+    "name": "South Philadelphia Tap Room",
+    "slug": "southphiladelphiataproom",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/south-philadelphia-taproom"
   }
 ]

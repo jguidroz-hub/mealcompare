@@ -1168,5 +1168,149 @@
       "dc"
     ],
     "toastUrl": "https://order.toasttab.com/online/lashuk-revival"
+  },
+  {
+    "name": "Sonny's Pizza",
+    "slug": "sonnyspizza",
+    "category": "pizza",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sonnys-pizza-dc"
+  },
+  {
+    "name": "Rosedale - 4465 Connecticut Ave. NW, Washington, DC",
+    "slug": "rosedale-4465connecticutavenwwashingtond",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rosedale-4465-connecticut-ave-nw"
+  },
+  {
+    "name": "Hook & Reel Cajun Seafood and Bar 1033 - Washington DC",
+    "slug": "hookreelcajunseafoodandbar1033-washingto",
+    "category": "seafood",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hook-and-reel-cajun-seafood-and-bar-washington-dc"
+  },
+  {
+    "name": "henrys soul cafe washington dc",
+    "slug": "henryssoulcafewashingtondc",
+    "category": "cafe",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/henryssoulcafedc"
+  },
+  {
+    "name": "Yardbird DC",
+    "slug": "yardbirddc",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/yb-dc"
+  },
+  {
+    "name": "order-page-wrapper.order",
+    "slug": "order-page-wrapperorder",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/crawfishchefpuyallup"
+  },
+  {
+    "name": "Lapis 1847 Columbia Rd NW",
+    "slug": "lapis1847columbiardnw",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lapis-1847-columbia-rd-nw"
+  },
+  {
+    "name": "Calico DC Location and Ordering Hours",
+    "slug": "calicodclocationandorderinghours",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/calicodc"
+  },
+  {
+    "name": "RedRocks Columbia Heights",
+    "slug": "redrockscolumbiaheights",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/redrocks-columbia-heights"
+  },
+  {
+    "name": "Cuba Libre - Washington DC",
+    "slug": "cubalibre-washingtondc",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cubalibredc"
+  },
+  {
+    "name": "CO - Columbia",
+    "slug": "co-columbia",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/co-columbia-4840-forest-dr-suite-7"
+  },
+  {
+    "name": "The Flying Mexican 514 8th Street se",
+    "slug": "theflyingmexican5148thstreetse",
+    "category": "mexican",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-flying-mexican-514-8th-street-se"
+  },
+  {
+    "name": "Paraiso Mexican Restaurant",
+    "slug": "paraisomexicanrestaurant",
+    "category": "mexican",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/paraiso"
+  },
+  {
+    "name": "Agua 301 Mexican Restaurant",
+    "slug": "agua301mexicanrestaurant",
+    "category": "mexican",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/agua-301-restaurant-301-water-st-se"
+  },
+  {
+    "name": "Jaleo DC",
+    "slug": "jaleodc",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/jaleo-dc"
+  },
+  {
+    "name": "El Vaquero West Haymarket 14910 Washington Street",
+    "slug": "elvaquerowesthaymarket14910washingtonstr",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/el-vaquero-west-haymarket-14910-washington-street"
   }
 ]

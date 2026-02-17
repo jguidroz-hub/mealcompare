@@ -2435,5 +2435,428 @@
       "chicago"
     ],
     "toastUrl": "https://order.toasttab.com/online/farm-bar-lakeview"
+  },
+  {
+    "name": "Zazas Pizzeria Clark 3037 N Clark St, Chicago, IL",
+    "slug": "zazaspizzeriaclark3037nclarkstchicagoil",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/zazas-pizzeria"
+  },
+  {
+    "name": "Rance's Chicago Pizza Costa Mesa",
+    "slug": "ranceschicagopizzacostamesa",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rances-chicago-pizza-costa-mesa"
+  },
+  {
+    "name": "Homeslice Pizza",
+    "slug": "homeslicepizza",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/homeslice-pizza-chicago"
+  },
+  {
+    "name": "Dicey's Pizza & Tavern",
+    "slug": "diceyspizzatavern",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/diceys-pizza-tavern-chicago-2109-w-chicago-ave"
+  },
+  {
+    "name": "East of Chicago Pizza Company Santa Barbara",
+    "slug": "eastofchicagopizzacompanysantabarbara",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/east-of-chicago-pizza-company-location-1"
+  },
+  {
+    "name": "Pazza Pizza 1 1543 N Sedgwick St",
+    "slug": "pazzapizza11543nsedgwickst",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pazzapizza-oldtown"
+  },
+  {
+    "name": "Green Street Local CHICAGO WEST LOOP",
+    "slug": "greenstreetlocalchicagowestloop",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/green-street-local"
+  },
+  {
+    "name": "Frankie's Chicago Style Pizza",
+    "slug": "frankieschicagostylepizza",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/frankies-chicago-style-pizza-13724-83rd-way-n"
+  },
+  {
+    "name": "Punky's Pizza",
+    "slug": "punkyspizza",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/punky-s-pizza-2600-south-wallace-street"
+  },
+  {
+    "name": "Jerk. Jamaican Barbecue",
+    "slug": "jerkjamaicanbarbecue",
+    "category": "bbq",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/jerk-bbq"
+  },
+  {
+    "name": "Yeah Man Jamaican Restaurant 302 Veterans Memorial ...",
+    "slug": "yeahmanjamaicanrestaurant302veteransmemo",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/yeahman"
+  },
+  {
+    "name": "Yeah man Good Vibes Jamaican Restaurant -McDonough ...",
+    "slug": "yeahmangoodvibesjamaicanrestaurant-mcdon",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/yeah-man-good-vibes-restaurant-mcdonough-2152-ga-155-n"
+  },
+  {
+    "name": "Strait Jamaican Cuisine LLC 15 School St",
+    "slug": "straitjamaicancuisinellc15schoolst",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/strait-jamaican-cuisine-llc-15-school-st"
+  },
+  {
+    "name": "Country Style Jamaican Restaurant",
+    "slug": "countrystylejamaicanrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/countrystylejamaican"
+  },
+  {
+    "name": "Jamaican Flavors - 358 Kosciuszko Street",
+    "slug": "jamaicanflavors-358kosciuszkostreet",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/jamaican-flavors-358-kosciuszko-street-358-kosciuszko-street"
+  },
+  {
+    "name": "Carena's Jamaican Grille",
+    "slug": "carenasjamaicangrille",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/carenas-jamaican-grille"
+  },
+  {
+    "name": "JJ Thai Street Food 1715 W CHICAGO AVE",
+    "slug": "jjthaistreetfood1715wchicagoave",
+    "category": "thai",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/jjthaistreetfood"
+  },
+  {
+    "name": "Maroon Girl Jamaican Cuisine",
+    "slug": "maroongirljamaicancuisine",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/maroon-girl-jamaican-cuisine"
+  },
+  {
+    "name": "Jamaican Cafe Cuisine 1 -Bear 1643 Pulaski Highway",
+    "slug": "jamaicancafecuisine1-bear1643pulaskihigh",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/jamaican-cafe-cuisine-1-1643-pulaski-highway"
+  },
+  {
+    "name": "Jamaican Vibes 2 - Airline Hwy",
+    "slug": "jamaicanvibes2-airlinehwy",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/jamaican-vibes-airline-hwy"
+  },
+  {
+    "name": "Irie Jamaican Kitchen - (WEST SIDE) Old Brooklyn",
+    "slug": "iriejamaicankitchen-westsideoldbrooklyn",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/irie-jamaican-kitchen-4162-pearl-rd"
+  },
+  {
+    "name": "Jamaican cuisine",
+    "slug": "jamaicancuisine",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/jamaican-cuisine"
+  },
+  {
+    "name": "Sun Island Bar-BQ & Jerk Jamaican Restaurant",
+    "slug": "sunislandbar-bqjerkjamaicanrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/supreme"
+  },
+  {
+    "name": "Irie Jamaican Kitchen (EAST SIDE) EUCLID",
+    "slug": "iriejamaicankitcheneastsideeuclid",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ijkeast"
+  },
+  {
+    "name": "Irie Jamaican Kitchen (Lakewood)",
+    "slug": "iriejamaicankitchenlakewood",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/irie-jamaican-lakewood"
+  },
+  {
+    "name": "Sunnin Lebanese Café 1776 Westwood Blvd",
+    "slug": "sunninlebanesecaf1776westwoodblvd",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sunnin"
+  },
+  {
+    "name": "Eat Lebanese",
+    "slug": "eatlebanese",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/eat-lebanese"
+  },
+  {
+    "name": "Taza - a Lebanese Grill Downtown",
+    "slug": "taza-alebanesegrilldowntown",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/taza-downtown"
+  },
+  {
+    "name": "La Saj Lebanese Bistro Troy",
+    "slug": "lasajlebanesebistrotroy",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/la-saj-lebanese-bistro-troy"
+  },
+  {
+    "name": "Sittoo's Lebanese Grill Green",
+    "slug": "sittooslebanesegrillgreen",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sittoos-lebanese-grill-green"
+  },
+  {
+    "name": "Noon-O-Kabab Takeout & Delivery Chicago, IL",
+    "slug": "noon-o-kababtakeoutdeliverychicagoil",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/noon-o-kabab-qsr"
+  },
+  {
+    "name": "Lebanese Taverna Westover Arlington",
+    "slug": "lebanesetavernawestoverarlington",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lebanese-taverna-westover-5900-washington-blvd"
+  },
+  {
+    "name": "Sittoo's Lebanese Grill North Olmsted",
+    "slug": "sittooslebanesegrillnortholmsted",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sittoos-north-olmsted"
+  },
+  {
+    "name": "Taza - a Lebanese Grill Woodmere",
+    "slug": "taza-alebanesegrillwoodmere",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/taza-woodmere"
+  },
+  {
+    "name": "Order Lebanese Food Online",
+    "slug": "orderlebanesefoodonline",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/locations/0e044934-4633-4c1c-88e9-f2d04beaa995/default"
+  },
+  {
+    "name": "Sittoo's Lebanese Grill Parma",
+    "slug": "sittooslebanesegrillparma",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sittoos-parma"
+  },
+  {
+    "name": "SALT + IDOF Fresh Mediterranean",
+    "slug": "saltidoffreshmediterranean",
+    "category": "mediterranean",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/idof-fresh-mediterranean-belmont-851-w-belmont-ave"
+  },
+  {
+    "name": "Heather's 5201 Chicago Ave S",
+    "slug": "heathers5201chicagoaves",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/heathers"
+  },
+  {
+    "name": "705 South Seeley Avenue, Chicago, IL 60612",
+    "slug": "705southseeleyavenuechicagoil60612",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pita-pita-chicago-705-south-seeley-avenue/javascript:"
+  },
+  {
+    "name": "The Great Greek Mediterranean Grill ZZZ - DNU Rocky River",
+    "slug": "thegreatgreekmediterraneangrillzzz-dnuro",
+    "category": "mediterranean",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-great-greek-mediterranean-grill-rocky-river"
+  },
+  {
+    "name": "La Fresh Mediterranean Grill",
+    "slug": "lafreshmediterraneangrill",
+    "category": "mediterranean",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/la-fresh-mediterranean-grill-44645-5-mile-rd"
+  },
+  {
+    "name": "Ayintap Mediterranean Grill",
+    "slug": "ayintapmediterraneangrill",
+    "category": "mediterranean",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ayintap-llc-2209-hwy-6"
+  },
+  {
+    "name": "Zingo's Mediterranean - Perrysburg",
+    "slug": "zingosmediterranean-perrysburg",
+    "category": "mediterranean",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/zingos-mediterranean"
+  },
+  {
+    "name": "Snakes & Lattes Chicago",
+    "slug": "snakeslatteschicago",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/snakesandlatteschicago"
+  },
+  {
+    "name": "Bread Bites Mediterranean",
+    "slug": "breadbitesmediterranean",
+    "category": "mediterranean",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bread-bites-mediterranean-cuisine-and-bakery-new-5100-marsh-road-lxatv"
+  },
+  {
+    "name": "Mediterranean Kitchen Mediterranean Kitchen",
+    "slug": "mediterraneankitchenmediterraneankitchen",
+    "category": "mediterranean",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mkitchen"
+  },
+  {
+    "name": "Mediterranean Sandwich Co. Downtown Dtown",
+    "slug": "mediterraneansandwichcodowntowndtown",
+    "category": "mediterranean",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mediterranean-sandwich-co-downtown"
   }
 ]

@@ -660,5 +660,365 @@
       "columbus"
     ],
     "toastUrl": "https://order.toasttab.com/online/kilroys-restaurant"
+  },
+  {
+    "name": "Lost Pizza Co Columbus, MS",
+    "slug": "lostpizzacocolumbusms",
+    "category": "pizza",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lost-pizza-co-columbus"
+  },
+  {
+    "name": "Iacono's Pizza & Restaurant - Columbus",
+    "slug": "iaconospizzarestaurant-columbus",
+    "category": "pizza",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/iaconos-pizza-columbus"
+  },
+  {
+    "name": "Cappy's Pizza - Columbus 3947 West Broad Street",
+    "slug": "cappyspizza-columbus3947westbroadstreet",
+    "category": "pizza",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cappys-pizza-columbus-3947-west-broad-street"
+  },
+  {
+    "name": "Figlio Wood-Fired Pizza",
+    "slug": "figliowood-firedpizza",
+    "category": "pizza",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/figlio-wood-fired-pizza-1369-grandview-ave"
+  },
+  {
+    "name": "Farinella Columbus Circle",
+    "slug": "farinellacolumbuscircle",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/farinella-columbus-circle"
+  },
+  {
+    "name": "The Pizza Place 1030 Broadway",
+    "slug": "thepizzaplace1030broadway",
+    "category": "pizza",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/picassos-pizza-1030-broadway"
+  },
+  {
+    "name": "Pasta Villa - Columbus",
+    "slug": "pastavilla-columbus",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pasta-villa-columbus"
+  },
+  {
+    "name": "Castello Pizza Indianola 2577 Indianola Ave",
+    "slug": "castellopizzaindianola2577indianolaave",
+    "category": "pizza",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/castello-pizza-indianola-2577-indianola-ave"
+  },
+  {
+    "name": "Josie's Pizza Hilltop 3205 W Broad St",
+    "slug": "josiespizzahilltop3205wbroadst",
+    "category": "pizza",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/josiespizzahilltop"
+  },
+  {
+    "name": "DBLPie Pizza 924 Amsterdam Ave",
+    "slug": "dblpiepizza924amsterdamave",
+    "category": "pizza",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pie-pie-pizza-924-columbus-ave"
+  },
+  {
+    "name": "Mugshots Grill & Bar",
+    "slug": "mugshotsgrillbar",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mugshots-grill-bar-columbus-ms"
+  },
+  {
+    "name": "NOLA CAJUN KITCHEN",
+    "slug": "nolacajunkitchen",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/locations/c9f670ee-8add-4df9-a02e-1fe878b6a4d4/default"
+  },
+  {
+    "name": "Cajun's City Seafoods & Wings",
+    "slug": "cajunscityseafoodswings",
+    "category": "wings",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cajuns-city"
+  },
+  {
+    "name": "Ya Better Eat Cajun Smokehouse 711 2nd Avenue North",
+    "slug": "yabettereatcajunsmokehouse7112ndavenueno",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ya-better-eat-cajun-smokehouse-711-2nd-avenue-north"
+  },
+  {
+    "name": "Cajun Corner - Uptown 23rd St",
+    "slug": "cajuncorner-uptown23rdst",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cajun-corner"
+  },
+  {
+    "name": "Crawdaddys Cajun 13 Tomlinson Mill Rd",
+    "slug": "crawdaddyscajun13tomlinsonmillrd",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/crawdaddys-cajun-13-tomlinson-mill-rd"
+  },
+  {
+    "name": "The Cajun Catfish & Buffet 1452 Highway 167 N",
+    "slug": "thecajuncatfishbuffet1452highway167n",
+    "category": "seafood",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cajuncatfish"
+  },
+  {
+    "name": "Quebedeaux's Cajun Cafe",
+    "slug": "quebedeauxscajuncafe",
+    "category": "cafe",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/quebedeauxscajuncafe"
+  },
+  {
+    "name": "Cajun Queen",
+    "slug": "cajunqueen",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cajun-queen"
+  },
+  {
+    "name": "Rockin Cajun Carson",
+    "slug": "rockincajuncarson",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rockincajun"
+  },
+  {
+    "name": "Cajun Corner - NW Expressway",
+    "slug": "cajuncorner-nwexpressway",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cajuncornerokc"
+  },
+  {
+    "name": "Boudreau & Thibodeau's Cajun Cookin'",
+    "slug": "boudreauthibodeauscajuncookin",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/boudreau-thibodeaus-cajun-cookin-5602-west-main-street"
+  },
+  {
+    "name": "BBR Restaurant",
+    "slug": "bbrrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bbr-columbus"
+  },
+  {
+    "name": "Taffach Ethiopian Restaurant 113 D Street",
+    "slug": "taffachethiopianrestaurant113dstreet",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/taffach-ethiopian-restaurant"
+  },
+  {
+    "name": "Tana Ethiopian Cuisine",
+    "slug": "tanaethiopiancuisine",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tana-ethiopian-cuisine-5929-baum-blvd"
+  },
+  {
+    "name": "Konjo Ethiopian Food Edgewater Public Market",
+    "slug": "konjoethiopianfoodedgewaterpublicmarket",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/konjo-ethiopian-5505-w-20th-avenue-ste-106"
+  },
+  {
+    "name": "Demera Ethiopian Restaurant",
+    "slug": "demeraethiopianrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/demera-ethiopian-restaurant"
+  },
+  {
+    "name": "Leyu Ethiopian Restaurant",
+    "slug": "leyuethiopianrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/leyu-ethiopian-restaurant"
+  },
+  {
+    "name": "Bolé Ethiopian Cuisine Como",
+    "slug": "bolethiopiancuisinecomo",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bole-ethiopian-cuisine-pascal"
+  },
+  {
+    "name": "Das Ethiopian Cuisine",
+    "slug": "dasethiopiancuisine",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/das-ethiopian-cuisine"
+  },
+  {
+    "name": "Konjo Ethiopian Food Denver Milk Market",
+    "slug": "konjoethiopianfooddenvermilkmarket",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/konjo-ethiopian-milk-market"
+  },
+  {
+    "name": "Meskerem Ethiopian Restaurant",
+    "slug": "meskeremethiopianrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/meskerem"
+  },
+  {
+    "name": "Letena Ethiopian Restaurant",
+    "slug": "letenaethiopianrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/letenadc"
+  },
+  {
+    "name": "Modern Bread & Bagel 472 Columbus Ave",
+    "slug": "modernbreadbagel472columbusave",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/modern-bread-bagel"
+  },
+  {
+    "name": "Cleveland Vegan 17112 Detroit Ave",
+    "slug": "clevelandvegan17112detroitave",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/clevelandvegan"
+  },
+  {
+    "name": "Vegan International Co 13751 N Nebraska Ave",
+    "slug": "veganinternationalco13751nnebraskaave",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/vegan-international-co-13751-n-nebraska-ave"
+  },
+  {
+    "name": "Vegan On The Fly Midtown",
+    "slug": "veganontheflymidtown",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/veganonthefly45st"
+  },
+  {
+    "name": "Vegan Plate",
+    "slug": "veganplate",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/vegan-plate"
+  },
+  {
+    "name": "Dope Vegan",
+    "slug": "dopevegan",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dope-vegan-sw"
+  },
+  {
+    "name": "Vegan Treats Retail",
+    "slug": "vegantreatsretail",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/vegan-treats"
   }
 ]

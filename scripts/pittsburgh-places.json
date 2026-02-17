@@ -1004,5 +1004,527 @@
       "pittsburgh"
     ],
     "toastUrl": "https://order.toasttab.com/online/marshside-restaurant"
+  },
+  {
+    "name": "Cuban Kitchen, home of the Best Cubano",
+    "slug": "cubankitchenhomeofthebestcubano",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/qbacubankitchen"
+  },
+  {
+    "name": "Order Online – Delivery & Pick-Up",
+    "slug": "orderonlinedeliverypick-up",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/esquinacubana"
+  },
+  {
+    "name": "Candela Cuban Cafe",
+    "slug": "candelacubancafe",
+    "category": "cafe",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/candela-5059-west-diversey-avenue"
+  },
+  {
+    "name": "Baracoa Cuban Restaurant",
+    "slug": "baracoacubanrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/baracoa-cuban"
+  },
+  {
+    "name": "Paladar Cuban Eatery",
+    "slug": "paladarcubaneatery",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/paladar-cuban-eatery"
+  },
+  {
+    "name": "Santiago's Cuban Cuisine Location and Ordering Hours",
+    "slug": "santiagoscubancuisinelocationandordering",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/santiagos-2023-3-main-street"
+  },
+  {
+    "name": "Cuban Paradise Cigar & Café",
+    "slug": "cubanparadisecigarcaf",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cuban-paradise-cigar-cafe"
+  },
+  {
+    "name": "Padrino's Cuban Restaurant Fort Lauderdale",
+    "slug": "padrinoscubanrestaurantfortlauderdale",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/padrinoscuban-fortlauderdale"
+  },
+  {
+    "name": "Gustazo Cuban Kitchen & Bar - Cambridge",
+    "slug": "gustazocubankitchenbar-cambridge",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gustazocambridge"
+  },
+  {
+    "name": "Cajun Corner - Uptown 23rd St",
+    "slug": "cajuncorner-uptown23rdst",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cajun-corner"
+  },
+  {
+    "name": "The Cajun Catfish & Buffet 1452 Highway 167 N",
+    "slug": "thecajuncatfishbuffet1452highway167n",
+    "category": "seafood",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cajuncatfish"
+  },
+  {
+    "name": "The Cajun Spot 17731 Fairgrove Park Dr",
+    "slug": "thecajunspot17731fairgroveparkdr",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-cajun-spot-17731-fairgrove-park-dr"
+  },
+  {
+    "name": "Crawdaddys Cajun 13 Tomlinson Mill Rd",
+    "slug": "crawdaddyscajun13tomlinsonmillrd",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/crawdaddys-cajun-13-tomlinson-mill-rd"
+  },
+  {
+    "name": "Ya Better Eat Cajun Smokehouse 711 2nd Avenue North",
+    "slug": "yabettereatcajunsmokehouse7112ndavenueno",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ya-better-eat-cajun-smokehouse-711-2nd-avenue-north"
+  },
+  {
+    "name": "Cajun's City Seafoods & Wings",
+    "slug": "cajunscityseafoodswings",
+    "category": "wings",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cajuns-city"
+  },
+  {
+    "name": "Rockin Cajun Carson",
+    "slug": "rockincajuncarson",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rockincajun"
+  },
+  {
+    "name": "nola cajun kitchen shrewsbury",
+    "slug": "nolacajunkitchenshrewsbury",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/nola-shrewsbury"
+  },
+  {
+    "name": "Quebedeaux's Cajun Cafe",
+    "slug": "quebedeauxscajuncafe",
+    "category": "cafe",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/quebedeauxscajuncafe"
+  },
+  {
+    "name": "Cajun Corner - NW Expressway",
+    "slug": "cajuncorner-nwexpressway",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cajuncornerokc"
+  },
+  {
+    "name": "nola cajun kitchen west boylston",
+    "slug": "nolacajunkitchenwestboylston",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/nola-wb"
+  },
+  {
+    "name": "Crazy Cajun",
+    "slug": "crazycajun",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/crazy-cajun-8578-edinburgh-center-dr-n"
+  },
+  {
+    "name": "NOLA CAJUN KITCHEN",
+    "slug": "nolacajunkitchen",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/locations/c9f670ee-8add-4df9-a02e-1fe878b6a4d4/default"
+  },
+  {
+    "name": "Cajun Queen",
+    "slug": "cajunqueen",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cajun-queen"
+  },
+  {
+    "name": "Hookers Seafood Joint (Harrisburg) 405 Walnut Street",
+    "slug": "hookersseafoodjointharrisburg405walnutst",
+    "category": "seafood",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hookersharrisburg"
+  },
+  {
+    "name": "Seafood Hut & Market 1936 MacDade Boulevard",
+    "slug": "seafoodhutmarket1936macdadeboulevard",
+    "category": "seafood",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/seafoodhut"
+  },
+  {
+    "name": "Baytown Seafood Restaurant 2102 Broadway Street",
+    "slug": "baytownseafoodrestaurant2102broadwaystre",
+    "category": "seafood",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/baytown-seafood-restaurant"
+  },
+  {
+    "name": "Seasons & Regions Seafood Grill",
+    "slug": "seasonsregionsseafoodgrill",
+    "category": "seafood",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/seasons-regions-seafood-grill"
+  },
+  {
+    "name": "Hnina's Seafood 1104 S. Clarke Rd",
+    "slug": "hninasseafood1104sclarkerd",
+    "category": "seafood",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hninasseafood"
+  },
+  {
+    "name": "Goode Co. Seafood",
+    "slug": "goodecoseafood",
+    "category": "seafood",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/goode-company-seafood-1"
+  },
+  {
+    "name": "Sayle's Seafood 99 Washington Street",
+    "slug": "saylesseafood99washingtonstreet",
+    "category": "seafood",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sayles-seafood-99-washington-street"
+  },
+  {
+    "name": "Heads & Tails Seafood, Inc. 2070 Silverside Dr.",
+    "slug": "headstailsseafoodinc2070silversidedr",
+    "category": "seafood",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/heads-tails-seafood-inc-2070-silverside-dr"
+  },
+  {
+    "name": "Roe Seafood Dining & Fish Market 5374 E 2nd St",
+    "slug": "roeseafooddiningfishmarket5374e2ndst",
+    "category": "seafood",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/roe-seafood-5374-e-2nd-st"
+  },
+  {
+    "name": "Buddys Seafood Market",
+    "slug": "buddysseafoodmarket",
+    "category": "seafood",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/buddys"
+  },
+  {
+    "name": "La Mer Seafood 407 Main Street",
+    "slug": "lamerseafood407mainstreet",
+    "category": "seafood",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lamerseafood"
+  },
+  {
+    "name": "Out Of The Blue Seafood 252 E Montauk Hwy",
+    "slug": "outoftheblueseafood252emontaukhwy",
+    "category": "seafood",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/out-of-the-blue-seafood"
+  },
+  {
+    "name": "Mo's Seafood & Chowder Seaside",
+    "slug": "mosseafoodchowderseaside",
+    "category": "seafood",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mos-seaside"
+  },
+  {
+    "name": "Hometown Seafood Pearland",
+    "slug": "hometownseafoodpearland",
+    "category": "seafood",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hometown-seafood-llc-5010-broadway-st"
+  },
+  {
+    "name": "Mr Seafood - Town Center 494-1 Town Center Place",
+    "slug": "mrseafood-towncenter494-1towncenterplace",
+    "category": "seafood",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mr-seafood-town-center-494-1-town-center-place"
+  },
+  {
+    "name": "Katie's Seafood House Pier 19",
+    "slug": "katiesseafoodhousepier19",
+    "category": "seafood",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/katies-seafood-house"
+  },
+  {
+    "name": "Mainline Seafood Market",
+    "slug": "mainlineseafoodmarket",
+    "category": "seafood",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mainline-seafood-market"
+  },
+  {
+    "name": "Shrimp Lips Seafood 1622 Parsons Ave",
+    "slug": "shrimplipsseafood1622parsonsave",
+    "category": "seafood",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/shrimp-lips-seafood-1622-parsons-ave"
+  },
+  {
+    "name": "Masala House Indian Bistro 5102 Baum blvd",
+    "slug": "masalahouseindianbistro5102baumblvd",
+    "category": "indian",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/masala-house-indian-bistro-5102-baum-blvd"
+  },
+  {
+    "name": "Sankalp The Taste of India Pittsburgh ...",
+    "slug": "sankalpthetasteofindiapittsburgh",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sankalp-cranberry"
+  },
+  {
+    "name": "Kritunga Indian Cuisine 4920 Carlisle Pike, Suite: C01",
+    "slug": "kritungaindiancuisine4920carlislepikesui",
+    "category": "indian",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/kritunga-indian-cuisine"
+  },
+  {
+    "name": "The Purple Indian 508 W Marion Rd",
+    "slug": "thepurpleindian508wmarionrd",
+    "category": "indian",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-purple-indian"
+  },
+  {
+    "name": "Indian Oven 2406 Paramount Blvd",
+    "slug": "indianoven2406paramountblvd",
+    "category": "indian",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/indian-oven-2406-paramount-blvd"
+  },
+  {
+    "name": "The Park Indian Restaurant 2316 US HIGHWAY 130",
+    "slug": "theparkindianrestaurant2316ushighway130",
+    "category": "indian",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-park-indian-restaurant-2316-us-highway-130"
+  },
+  {
+    "name": "Cinnamon Indian Cuisine",
+    "slug": "cinnamonindiancuisine",
+    "category": "indian",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cinnamon-indian-cuisine-51-east-market-street"
+  },
+  {
+    "name": "Taj Indian Cuisine 333 CLARKS POND PKWY STE # 6",
+    "slug": "tajindiancuisine333clarkspondpkwyste6",
+    "category": "indian",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tajmaine"
+  },
+  {
+    "name": "Guru's Indian Cuisine",
+    "slug": "gurusindiancuisine",
+    "category": "indian",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gurusindiancuisine"
+  },
+  {
+    "name": "Amma's South Indian Cuisine-University City 103 S 39TH ST",
+    "slug": "ammassouthindiancuisine-universitycity10",
+    "category": "indian",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ammas-university-city"
+  },
+  {
+    "name": "Nawab's Indian Cuisine 4715 Kirkwood Highway",
+    "slug": "nawabsindiancuisine4715kirkwoodhighway",
+    "category": "indian",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/nawabs"
+  },
+  {
+    "name": "Desi Indian Lounge 1355 Hornby Street",
+    "slug": "desiindianlounge1355hornbystreet",
+    "category": "indian",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/desi%20indian%20lounge"
+  },
+  {
+    "name": "Veda - Modern Indian Bistro",
+    "slug": "veda-modernindianbistro",
+    "category": "indian",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/veda-modern-indian-bistro"
+  },
+  {
+    "name": "Beenz Indian Grill and Bar 658 Motor Parkway",
+    "slug": "beenzindiangrillandbar658motorparkway",
+    "category": "indian",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/beenz-indian-grill-and-bar"
+  },
+  {
+    "name": "TRIstate Indian cuisine 1230 Elden st.",
+    "slug": "tristateindiancuisine1230eldenst",
+    "category": "indian",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tristate-indian-cuisine-1230-elden-st"
+  },
+  {
+    "name": "Spice Indian Thai Bistro",
+    "slug": "spiceindianthaibistro",
+    "category": "thai",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/spice-indian-thai-bistro"
+  },
+  {
+    "name": "Indian Food and Spices",
+    "slug": "indianfoodandspices",
+    "category": "indian",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/indianfoodandspices"
   }
 ]

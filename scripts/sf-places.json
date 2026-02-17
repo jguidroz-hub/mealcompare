@@ -1660,5 +1660,158 @@
       "sf"
     ],
     "toastUrl": "https://order.toasttab.com/online/italian-homemade-hayes-valley-1-franklin-st"
+  },
+  {
+    "name": "THE BURGER STAND - Santa Fe 207 W San Francisco St",
+    "slug": "theburgerstand-santafe207wsanfranciscost",
+    "category": "burgers",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-burger-stand-santa-fe-207-w-san-francisco-st"
+  },
+  {
+    "name": "Next Level Burger",
+    "slug": "nextlevelburger",
+    "category": "burgers",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/next-level-burger-san-francisco"
+  },
+  {
+    "name": "Flippin Burger",
+    "slug": "flippinburger",
+    "category": "burgers",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/flippin-burger-1419-haight-street"
+  },
+  {
+    "name": "Hidden Spot - South San Francisco",
+    "slug": "hiddenspot-southsanfrancisco",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hidden-spot-so-sf-303-grand-avenue"
+  },
+  {
+    "name": "Super Duper Burgers San Mateo",
+    "slug": "superduperburgerssanmateo",
+    "category": "burgers",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/super-duper-san-mateo"
+  },
+  {
+    "name": "317 Burger",
+    "slug": "317burger",
+    "category": "burgers",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/317burger"
+  },
+  {
+    "name": "Town's End Brunch 2 Townsend Street",
+    "slug": "townsendbrunch2townsendstreet",
+    "category": "breakfast",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/towns-end-brunch-2-townsend-street"
+  },
+  {
+    "name": "Apothecary Dining - One Sacred 133 West San Francisco St.",
+    "slug": "apothecarydining-onesacred133westsanfran",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/apothecary-restaurant"
+  },
+  {
+    "name": "Little Skillet San Francisco",
+    "slug": "littleskilletsanfrancisco",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/little-skillet-san-francisco"
+  },
+  {
+    "name": "San Francisco Brewing Co. The Square",
+    "slug": "sanfranciscobrewingcothesquare",
+    "category": "wings",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sfbrewingco"
+  },
+  {
+    "name": "Just Brunch 1950 Satellite Blvd Suite 400",
+    "slug": "justbrunch1950satelliteblvdsuite400",
+    "category": "breakfast",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/just-brunch-1950-satelite-blvd-suite-400"
+  },
+  {
+    "name": "San Francisco Deli",
+    "slug": "sanfranciscodeli",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/san-francisco-deli"
+  },
+  {
+    "name": "San Francisco Osha Thai BBQ 696 Geary St",
+    "slug": "sanfranciscooshathaibbq696gearyst",
+    "category": "thai",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/osha-thai-geary-692-geary-st"
+  },
+  {
+    "name": "Smokin Ds BBQ",
+    "slug": "smokindsbbq",
+    "category": "bbq",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/smokin-ds-bbq-2181-irving-street"
+  },
+  {
+    "name": "KG BBQ 3108 Manor road",
+    "slug": "kgbbq3108manorroad",
+    "category": "bbq",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/kg-bbq-3108-manor-road"
+  },
+  {
+    "name": "BBQ 1 Jasper 3958 Refuge Road",
+    "slug": "bbq1jasper3958refugeroad",
+    "category": "bbq",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bbq-1-jasper-3958-refuge-road"
+  },
+  {
+    "name": "The Rustic - San Francisco",
+    "slug": "therustic-sanfrancisco",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/therusticsf"
   }
 ]

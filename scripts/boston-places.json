@@ -2177,5 +2177,329 @@
       "boston"
     ],
     "toastUrl": "https://order.toasttab.com/online/capricho-colombian-steakhouse-new-1627-beacon-street"
+  },
+  {
+    "name": "Sufra Mediterranean 52 queensberry st",
+    "slug": "suframediterranean52queensberryst",
+    "category": "mediterranean",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sufra-mediterranean-52-queensberry-st"
+  },
+  {
+    "name": "Mediterranean Grill & Pizzeria Attleboro",
+    "slug": "mediterraneangrillpizzeriaattleboro",
+    "category": "mediterranean",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ilovemed"
+  },
+  {
+    "name": "Mediterranean Sandwich Co- Fairhope Fairhope",
+    "slug": "mediterraneansandwichco-fairhopefairhope",
+    "category": "mediterranean",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mediterranean-sandwich-co-fairhope-9887-hwy-104"
+  },
+  {
+    "name": "Sevmar Mediterranean Bistro 401 Main St",
+    "slug": "sevmarmediterraneanbistro401mainst",
+    "category": "mediterranean",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sevmar-mediterranean-bistro-401-main-st"
+  },
+  {
+    "name": "Mediterranean Sandwich Co. Downtown Dtown",
+    "slug": "mediterraneansandwichcodowntowndtown",
+    "category": "mediterranean",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mediterranean-sandwich-co-downtown"
+  },
+  {
+    "name": "La Fresh Mediterranean Grill",
+    "slug": "lafreshmediterraneangrill",
+    "category": "mediterranean",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/la-fresh-mediterranean-grill-44645-5-mile-rd"
+  },
+  {
+    "name": "CK Mediterranean Grille Southfield",
+    "slug": "ckmediterraneangrillesouthfield",
+    "category": "mediterranean",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-kabob-mediterranean-grille"
+  },
+  {
+    "name": "Mediterranean Sandwich Co. Wemo Wemo",
+    "slug": "mediterraneansandwichcowemowemo",
+    "category": "mediterranean",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mediterranean-sandwich-co-wemo"
+  },
+  {
+    "name": "Bellissima Italian Mediterranean Restaurant",
+    "slug": "bellissimaitalianmediterraneanrestaurant",
+    "category": "mediterranean",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bellissimatx"
+  },
+  {
+    "name": "Mediterranean Kitchen Mediterranean Kitchen",
+    "slug": "mediterraneankitchenmediterraneankitchen",
+    "category": "mediterranean",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mkitchen"
+  },
+  {
+    "name": "Aquitaine Boston Aquitaine Boston",
+    "slug": "aquitainebostonaquitaineboston",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/aquitaine-boston-569-tremont-st"
+  },
+  {
+    "name": "Club Cafe Boston",
+    "slug": "clubcafeboston",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/club-cafe-boston"
+  },
+  {
+    "name": "Olea Mediterranean Grill KSC",
+    "slug": "oleamediterraneangrillksc",
+    "category": "mediterranean",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/olea_ksc"
+  },
+  {
+    "name": "Zingo's Mediterranean - Perrysburg",
+    "slug": "zingosmediterranean-perrysburg",
+    "category": "mediterranean",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/zingos-mediterranean"
+  },
+  {
+    "name": "Olea Mediterranean Taverna",
+    "slug": "oleamediterraneantaverna",
+    "category": "mediterranean",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/olea"
+  },
+  {
+    "name": "Sandos 522 S. Boston Ave. Ste.102",
+    "slug": "sandos522sbostonaveste102",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sandos-522-s-boston-ave-ste-102"
+  },
+  {
+    "name": "Fomu Boston Landing",
+    "slug": "fomubostonlanding",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fomu-allston"
+  },
+  {
+    "name": "Vegan On The Fly Midtown",
+    "slug": "veganontheflymidtown",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/veganonthefly45st"
+  },
+  {
+    "name": "Cleveland Vegan 17112 Detroit Ave",
+    "slug": "clevelandvegan17112detroitave",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/clevelandvegan"
+  },
+  {
+    "name": "Cabo Vegan Restaurant & Market",
+    "slug": "caboveganrestaurantmarket",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cabovegan"
+  },
+  {
+    "name": "Order Online – Delivery & Pick-Up",
+    "slug": "orderonlinedeliverypick-up",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/esquinacubana"
+  },
+  {
+    "name": "Cachita Cuban Cuisine 1116 normandy dr",
+    "slug": "cachitacubancuisine1116normandydr",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cachita-cuban-cuisine"
+  },
+  {
+    "name": "Cuban Kitchen, home of the Best Cubano",
+    "slug": "cubankitchenhomeofthebestcubano",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/qbacubankitchen"
+  },
+  {
+    "name": "Cuban Pete's",
+    "slug": "cubanpetes",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cuban-petes-428-bloomfield-ave"
+  },
+  {
+    "name": "Baracoa Cuban Restaurant",
+    "slug": "baracoacubanrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/baracoa-cuban"
+  },
+  {
+    "name": "Candela Cuban Cafe",
+    "slug": "candelacubancafe",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/candela-5059-west-diversey-avenue"
+  },
+  {
+    "name": "Paladar Cuban Eatery",
+    "slug": "paladarcubaneatery",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/paladar-cuban-eatery"
+  },
+  {
+    "name": "Cuban Paradise Cigar & Café",
+    "slug": "cubanparadisecigarcaf",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cuban-paradise-cigar-cafe"
+  },
+  {
+    "name": "Hot Chix Boston",
+    "slug": "hotchixboston",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hot-chix-boston-1220-cambridge-st"
+  },
+  {
+    "name": "Boston Burger Company 1100 Boylston St",
+    "slug": "bostonburgercompany1100boylstonst",
+    "category": "burgers",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/boston-burger-company-boston-1100-boylston-st"
+  },
+  {
+    "name": "Boston Burger Company - Salem 133 Washington St",
+    "slug": "bostonburgercompany-salem133washingtonst",
+    "category": "burgers",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/boston-burger-company-salem-3-sullivan-street"
+  },
+  {
+    "name": "Bo's Best Wings",
+    "slug": "bosbestwings",
+    "category": "wings",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bo's%20wings"
+  },
+  {
+    "name": "Wings N Things Cortez",
+    "slug": "wingsnthingscortez",
+    "category": "wings",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wingsnthingscortez"
+  },
+  {
+    "name": "Boston Burger Company Virtual Kitchen- Delivery Only",
+    "slug": "bostonburgercompanyvirtualkitchen-delive",
+    "category": "burgers",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/commissary-kitchen-3-sullivan-street-kgzqm"
+  },
+  {
+    "name": "Castle Island Brewing Company South Boston",
+    "slug": "castleislandbrewingcompanysouthboston",
+    "category": "wings",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/castle-island-brewing-company-south-boston"
+  },
+  {
+    "name": "Wings and Burgers To Go 1733 West Mississippi Avenue",
+    "slug": "wingsandburgerstogo1733westmississippiav",
+    "category": "burgers",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wings-and-burgers-1733-west-mississippi-avenue"
   }
 ]

@@ -1050,5 +1050,437 @@
       "tampa"
     ],
     "toastUrl": "https://order.toasttab.com/online/pearlstreetpizza"
+  },
+  {
+    "name": "Bosphorous Turkish Cuisine - South Tampa 5",
+    "slug": "bosphorousturkishcuisine-southtampa5",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bosphorous-turkish-cuisine-soho-714-south-howard-avenue"
+  },
+  {
+    "name": "Bosphorous Turkish Cuisine - Winter Park 1",
+    "slug": "bosphorousturkishcuisine-winterpark1",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/btc-wp"
+  },
+  {
+    "name": "Dadash Grill Turkish Cuisine 8606 E Mill Plain Blvd Suite A",
+    "slug": "dadashgrillturkishcuisine8606emillplainb",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dadash-grill-turkish-cuisine"
+  },
+  {
+    "name": "Bosphorous Turkish Cuisine - Winter Garden 4",
+    "slug": "bosphorousturkishcuisine-wintergarden4",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/btc-wg"
+  },
+  {
+    "name": "Bosphorous Turkish Cuisine - Dr Phillips 2",
+    "slug": "bosphorousturkishcuisine-drphillips2",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/btc-dr"
+  },
+  {
+    "name": "order-page-wrapper.order",
+    "slug": "order-page-wrapperorder",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/el-turco-turkish-food"
+  },
+  {
+    "name": "Sofra Turkish Grill",
+    "slug": "sofraturkishgrill",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sofraturkishgrill"
+  },
+  {
+    "name": "Turkish Cafe Co",
+    "slug": "turkishcafeco",
+    "category": "cafe",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/turkish-cafe-co"
+  },
+  {
+    "name": "Iskender's Turkish Cuisine",
+    "slug": "iskendersturkishcuisine",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/iskenders-turkish-cuisine"
+  },
+  {
+    "name": "Hyderabad House Tampa",
+    "slug": "hyderabadhousetampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hh-tampa"
+  },
+  {
+    "name": "Rang Indian Bistro 6 Central Street Stoneham",
+    "slug": "rangindianbistro6centralstreetstoneham",
+    "category": "indian",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rang-indian-bistro"
+  },
+  {
+    "name": "Tamara Modern Indian Cuisine 6801 Visitors Circle",
+    "slug": "tamaramodernindiancuisine6801visitorscir",
+    "category": "indian",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tamara-6801-visitors-circle"
+  },
+  {
+    "name": "Taj Indian Cuisine 333 CLARKS POND PKWY STE # 6",
+    "slug": "tajindiancuisine333clarkspondpkwyste6",
+    "category": "indian",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tajmaine"
+  },
+  {
+    "name": "Tandoor Indian Cuisine, Middletown 170 Main Street Unit 4",
+    "slug": "tandoorindiancuisinemiddletown170mainstr",
+    "category": "indian",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tandoor-middletown-170-main-street-unit-4"
+  },
+  {
+    "name": "Tocabe An American Indian Eatery 3536 W 44th Ave",
+    "slug": "tocabeanamericanindianeatery3536w44thave",
+    "category": "indian",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tocabe"
+  },
+  {
+    "name": "Punjabi Tadka Indian Cuisine 130 West Montgomery Street",
+    "slug": "punjabitadkaindiancuisine130westmontgome",
+    "category": "indian",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/punjabi-tadka-indian-cuisine-130-west-montgomery-street"
+  },
+  {
+    "name": "Indian Oven 2406 Paramount Blvd",
+    "slug": "indianoven2406paramountblvd",
+    "category": "indian",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/indian-oven-2406-paramount-blvd"
+  },
+  {
+    "name": "Basmati Indian Restaurant",
+    "slug": "basmatiindianrestaurant",
+    "category": "indian",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/basmati"
+  },
+  {
+    "name": "Desi Indian Lounge 1355 Hornby Street",
+    "slug": "desiindianlounge1355hornbystreet",
+    "category": "indian",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/desi%20indian%20lounge"
+  },
+  {
+    "name": "Nawab's Indian Cuisine 4715 Kirkwood Highway",
+    "slug": "nawabsindiancuisine4715kirkwoodhighway",
+    "category": "indian",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/nawabs"
+  },
+  {
+    "name": "Indian Food and Spices",
+    "slug": "indianfoodandspices",
+    "category": "indian",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/indianfoodandspices"
+  },
+  {
+    "name": "Taj Indian Restaurant 412 Harding Place, Suite 101",
+    "slug": "tajindianrestaurant412hardingplacesuite1",
+    "category": "indian",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/taj-indian-restaurant-412-harding-place-suite-101"
+  },
+  {
+    "name": "Akshaya Patra Indian Cusine",
+    "slug": "akshayapatraindiancusine",
+    "category": "indian",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/akshayapatra-30701-west-12-mile-road"
+  },
+  {
+    "name": "Thaliwala indian kitchen",
+    "slug": "thaliwalaindiankitchen",
+    "category": "indian",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thaliwalaindiankitchen"
+  },
+  {
+    "name": "Tampa - Rusty Pelican",
+    "slug": "tampa-rustypelican",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rusty-pelican-tampa"
+  },
+  {
+    "name": "Charley's Steakhouse: Tampa 4444 West Cypress Street",
+    "slug": "charleyssteakhousetampa4444westcypressst",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/charleys-steakhouse-tampa"
+  },
+  {
+    "name": "Tampa Bay Brewing Company - Westchase",
+    "slug": "tampabaybrewingcompany-westchase",
+    "category": "wings",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tampa-bay-brewing-company-13937-monroes-business-park"
+  },
+  {
+    "name": "Cousin Vinny's Sandwich Co Tampa",
+    "slug": "cousinvinnyssandwichcotampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cousin-vinnys-sandwich-co-tampa-1331-west-cass-street"
+  },
+  {
+    "name": "Box of Cubans - New Tampa",
+    "slug": "boxofcubans-newtampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/box-of-cubans-2-17512-dona-michelle-dr"
+  },
+  {
+    "name": "EggTown New Tampa",
+    "slug": "eggtownnewtampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/eggtown-new-tampa"
+  },
+  {
+    "name": "Ha Long Bay - New Tampa",
+    "slug": "halongbay-newtampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/halongbaynewtampa"
+  },
+  {
+    "name": "All Thai Restaurant",
+    "slug": "allthairestaurant",
+    "category": "thai",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/all-thai-restaurant-1645-140th-avenue-northeast-b-9"
+  },
+  {
+    "name": "Thai Thai Restaurant - EM 221 E North St",
+    "slug": "thaithairestaurant-em221enorthst",
+    "category": "thai",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thai-thai"
+  },
+  {
+    "name": "Love Thai Cuisine 1180 Forest Ave",
+    "slug": "lovethaicuisine1180forestave",
+    "category": "thai",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/love-thai-cuisine-1180-forest-ave"
+  },
+  {
+    "name": "Bai Tong Thai Restaurant Tukwila",
+    "slug": "baitongthairestauranttukwila",
+    "category": "thai",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/baitong-tukwila"
+  },
+  {
+    "name": "Too Thai Street Eats",
+    "slug": "toothaistreeteats",
+    "category": "thai",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/too-thai-street-eats-2540-old-denton-rd-138"
+  },
+  {
+    "name": "Asian Thai Bistro 120 N Main Ave",
+    "slug": "asianthaibistro120nmainave",
+    "category": "thai",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/asian-thai-bistro-120-north-main-avenue"
+  },
+  {
+    "name": "Noi Thai Cuisine Downtown Seattle, WA",
+    "slug": "noithaicuisinedowntownseattlewa",
+    "category": "thai",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/noithai-seattle"
+  },
+  {
+    "name": "Thai Taste - Dilworth",
+    "slug": "thaitaste-dilworth",
+    "category": "thai",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thai-taste-southend-324-east-blvd"
+  },
+  {
+    "name": "Thai Flavors East 14th St 1254 E 14th St",
+    "slug": "thaiflavorseast14thst1254e14thst",
+    "category": "thai",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thai-flavors-east-14th-st-1254-e-14th-st-unit-500"
+  },
+  {
+    "name": "Thai Thai Asian Bistro 3522 24th Ave NW",
+    "slug": "thaithaiasianbistro352224thavenw",
+    "category": "thai",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thai-thai-asian-bistro-3522-24th-ave-nw"
+  },
+  {
+    "name": "Thai American Bistro",
+    "slug": "thaiamericanbistro",
+    "category": "thai",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thaiamericanbistro"
+  },
+  {
+    "name": "Thai Cuisine & Noodle House",
+    "slug": "thaicuisinenoodlehouse",
+    "category": "thai",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thaicuisinecville"
+  },
+  {
+    "name": "Thai Table Homemade Style Thai ...",
+    "slug": "thaitablehomemadestylethai",
+    "category": "thai",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thai-table"
+  },
+  {
+    "name": "Taste of Thai 216 East State Street",
+    "slug": "tasteofthai216eaststatestreet",
+    "category": "thai",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/taste-of-thai-216-e-state-st"
+  },
+  {
+    "name": "Deejai Thai",
+    "slug": "deejaithai",
+    "category": "thai",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/deejai-thai"
+  },
+  {
+    "name": "Taste of Thai Express 209 S Meadow St",
+    "slug": "tasteofthaiexpress209smeadowst",
+    "category": "thai",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/taste-of-thai-express-209-s-meadow-st"
+  },
+  {
+    "name": "Phattra Thai Restaurant",
+    "slug": "phattrathairestaurant",
+    "category": "thai",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/phattrathai"
   }
 ]

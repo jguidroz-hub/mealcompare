@@ -1318,5 +1318,302 @@
       "sandiego"
     ],
     "toastUrl": "https://order.toasttab.com/online/freds-mexican-cafe-huntington-beach-300-pacific-coast-hwy-201"
+  },
+  {
+    "name": "Annapurna Indian Cuisine San Diego",
+    "slug": "annapurnaindiancuisinesandiego",
+    "category": "indian",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/annapurna-indian-cuisine"
+  },
+  {
+    "name": "Sanjh Indian Restaurant 5250 N Oconnor Blvd, Ste 146",
+    "slug": "sanjhindianrestaurant5250noconnorblvdste",
+    "category": "indian",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sanjh-indian-restaurant-5250-n-oconnor-blvd-ste-146"
+  },
+  {
+    "name": "Indian Spice - San Mateo",
+    "slug": "indianspice-sanmateo",
+    "category": "indian",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/indian-spice-san-mateo-146-e-3rd-ave"
+  },
+  {
+    "name": "Desi Indian Lounge 1355 Hornby Street",
+    "slug": "desiindianlounge1355hornbystreet",
+    "category": "indian",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/desi%20indian%20lounge"
+  },
+  {
+    "name": "Tabla Indian Restaurant - Pleasanton, CA",
+    "slug": "tablaindianrestaurant-pleasantonca",
+    "category": "indian",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tabla-indian-restaurant-pleasanton-1991-santa-rita-road"
+  },
+  {
+    "name": "Tocabe An American Indian Eatery 3536 W 44th Ave",
+    "slug": "tocabeanamericanindianeatery3536w44thave",
+    "category": "indian",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tocabe"
+  },
+  {
+    "name": "Artisan Market - San Diego Airport",
+    "slug": "artisanmarket-sandiegoairport",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/high-flying-foods-san-diego-artisan"
+  },
+  {
+    "name": "Tabla Indian Restaurant - San Mateo, CA",
+    "slug": "tablaindianrestaurant-sanmateoca",
+    "category": "indian",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tabla-indian-restaurant-ca-450-s-norfolk-st"
+  },
+  {
+    "name": "Mimoza Mediterranean Restaurant 409 F Street",
+    "slug": "mimozamediterraneanrestaurant409fstreet",
+    "category": "mediterranean",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mimoza-mediterranean-restaurant-409-f-street"
+  },
+  {
+    "name": "The Great Greek Mediterranean Grill San Diego",
+    "slug": "thegreatgreekmediterraneangrillsandiego",
+    "category": "mediterranean",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-great-greek-kearny-mesa-ca"
+  },
+  {
+    "name": "The Great Greek Mediterranean Grill San Diego, CA",
+    "slug": "thegreatgreekmediterraneangrillsandiegoc",
+    "category": "mediterranean",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cloud-kitchen-san-diego-ca"
+  },
+  {
+    "name": "Mediterranean Sandwich Co- Fairhope Fairhope",
+    "slug": "mediterraneansandwichco-fairhopefairhope",
+    "category": "mediterranean",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mediterranean-sandwich-co-fairhope-9887-hwy-104"
+  },
+  {
+    "name": "Mediterranean Sandwich Co. Downtown Dtown",
+    "slug": "mediterraneansandwichcodowntowndtown",
+    "category": "mediterranean",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mediterranean-sandwich-co-downtown"
+  },
+  {
+    "name": "Mediterranean Sandwich Co. Wemo Wemo",
+    "slug": "mediterraneansandwichcowemowemo",
+    "category": "mediterranean",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mediterranean-sandwich-co-wemo"
+  },
+  {
+    "name": "ICON Mediterranean Miami",
+    "slug": "iconmediterraneanmiami",
+    "category": "mediterranean",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/icon%20mediterranean"
+  },
+  {
+    "name": "Phil's BBQ SAN",
+    "slug": "philsbbqsan",
+    "category": "bbq",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/high-flying-foods-phils-bbq"
+  },
+  {
+    "name": "Cali BBQ",
+    "slug": "calibbq",
+    "category": "bbq",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cali-bbq-spring-valley"
+  },
+  {
+    "name": "Louisiana Charlies San Diego 849 West Harbor Dr Ste W11B",
+    "slug": "louisianacharliessandiego849westharbordr",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/louisiana-charlies-san-diego-849-west-harbor-dr-ste-w11b"
+  },
+  {
+    "name": "Smokey D's BBQ - 2nd Avenue",
+    "slug": "smokeydsbbq-2ndavenue",
+    "category": "bbq",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/smokeydsbbq-2ndave"
+  },
+  {
+    "name": "Saffron Thai San Diego Location and Ordering Hours",
+    "slug": "saffronthaisandiegolocationandorderingho",
+    "category": "thai",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/saffron-thai-san-diego-3731-india-street"
+  },
+  {
+    "name": "Sovereign Thai Cuisine",
+    "slug": "sovereignthaicuisine",
+    "category": "thai",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sovereign-thai-cuisine-1460-j-street"
+  },
+  {
+    "name": "KIIN EXTRAORDINARY THAI (At Sky Deck)",
+    "slug": "kiinextraordinarythaiatskydeck",
+    "category": "thai",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/kiin-extrodinary-thai-7145-calabria-ct-unit-a"
+  },
+  {
+    "name": "Hot or Not Thai",
+    "slug": "hotornotthai",
+    "category": "thai",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hot-or-not-thai"
+  },
+  {
+    "name": "The Baan Thai Cuisine San Anselmo",
+    "slug": "thebaanthaicuisinesananselmo",
+    "category": "thai",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-baan-thai-cuisine-726-san-anselmo-avenue"
+  },
+  {
+    "name": "SAN - Saffron Thai SAN - Saffron Thai",
+    "slug": "san-saffronthaisan-saffronthai",
+    "category": "thai",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/high-flying-foods-san-diego-saffron"
+  },
+  {
+    "name": "So saap new address: 4134 University Av San Diego ...",
+    "slug": "sosaapnewaddress4134universityavsandiego",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/so-saap-4134universityave"
+  },
+  {
+    "name": "Soi OB-Thai Street Food 1916 Cable St",
+    "slug": "soiob-thaistreetfood1916cablest",
+    "category": "thai",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/soi-30th-1916-cable-st"
+  },
+  {
+    "name": "Soi PB Thai Street Food",
+    "slug": "soipbthaistreetfood",
+    "category": "thai",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/soi-pb-thai-street-food-4658-mission-blvd"
+  },
+  {
+    "name": "Star Anise Thai Cuisine",
+    "slug": "staranisethaicuisine",
+    "category": "thai",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/star-anise-thai-cuisine-8935-towne-centre-dr-suite-115"
+  },
+  {
+    "name": "Soi- RB Thai Street Food 15817 Bernardo Center Dr Unit 106",
+    "slug": "soi-rbthaistreetfood15817bernardocenterd",
+    "category": "thai",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/soi-rb-15817-bernardo-center-dr-unit-106"
+  },
+  {
+    "name": "Sanphan Thai Cuisine 653 Pennsylvania Ave SE",
+    "slug": "sanphanthaicuisine653pennsylvaniaavese",
+    "category": "thai",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sanphanthaidc"
+  },
+  {
+    "name": "Thai Thai Restaurant - EM 221 E North St",
+    "slug": "thaithairestaurant-em221enorthst",
+    "category": "thai",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thai-thai"
+  },
+  {
+    "name": "Chang Thai",
+    "slug": "changthai",
+    "category": "thai",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/chang-thai-1232-emmet-st-n"
   }
 ]

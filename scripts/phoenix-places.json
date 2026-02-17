@@ -1208,5 +1208,284 @@
       "phoenix"
     ],
     "toastUrl": "https://order.toasttab.com/online/luscious-dumplings-arcadia-919-w-duarte-rd"
+  },
+  {
+    "name": "Dough Boy Pizza - Phoenix 455 N. Third St. Suite #1210",
+    "slug": "doughboypizza-phoenix455nthirdstsuite121",
+    "category": "pizza",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dough-boy-pizza-phoenix-455-n-third-st-suite-1210"
+  },
+  {
+    "name": "IL Bosco Pizza Roosevelt Row - Downtown PHX",
+    "slug": "ilboscopizzarooseveltrow-downtownphx",
+    "category": "pizza",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/il-bosco-pizza-phoenix-shard-04"
+  },
+  {
+    "name": "Pizza Heaven Bistro",
+    "slug": "pizzaheavenbistro",
+    "category": "pizza",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizza-heaven-bistro-5150-n-7th-st"
+  },
+  {
+    "name": "Artichoke Pizza - Phoenix, AZ 16th Street and Bethany Home",
+    "slug": "artichokepizza-phoenixaz16thstreetandbet",
+    "category": "pizza",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/artichoke-pizza-phoenix-az-6031-n-16th-st-1"
+  },
+  {
+    "name": "Phoenicia Pizza 28",
+    "slug": "phoeniciapizza28",
+    "category": "pizza",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/phoenicia-pizza-28"
+  },
+  {
+    "name": "Foxy Fox Pizza 5878 E Lake Pkwy",
+    "slug": "foxyfoxpizza5878elakepkwy",
+    "category": "pizza",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/foxyfoxpizza"
+  },
+  {
+    "name": "Hey Now Pizza 607 Main St",
+    "slug": "heynowpizza607mainst",
+    "category": "pizza",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/heynowpizza"
+  },
+  {
+    "name": "FIRST CLASS PIZZA Fountain Valley",
+    "slug": "firstclasspizzafountainvalley",
+    "category": "pizza",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/first-class-pizza-fv"
+  },
+  {
+    "name": "Myke's Pizza",
+    "slug": "mykespizza",
+    "category": "pizza",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mykes-pizza"
+  },
+  {
+    "name": "Pizza Fenice 304 Fifth Ave",
+    "slug": "pizzafenice304fifthave",
+    "category": "pizza",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizzafenice"
+  },
+  {
+    "name": "Pokitrition- Phoenix",
+    "slug": "pokitrition-phoenix",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pokitrition-phoenix"
+  },
+  {
+    "name": "Phoenix Kitchen Temple City",
+    "slug": "phoenixkitchentemplecity",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/phoenix-kitchen-temple-city"
+  },
+  {
+    "name": "Seasons & Regions Seafood Grill",
+    "slug": "seasonsregionsseafoodgrill",
+    "category": "seafood",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/seasons-regions-seafood-grill"
+  },
+  {
+    "name": "Roe Seafood Dining & Fish Market 5374 E 2nd St",
+    "slug": "roeseafooddiningfishmarket5374e2ndst",
+    "category": "seafood",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/roe-seafood-5374-e-2nd-st"
+  },
+  {
+    "name": "Seafood Hut & Market 1936 MacDade Boulevard",
+    "slug": "seafoodhutmarket1936macdadeboulevard",
+    "category": "seafood",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/seafoodhut"
+  },
+  {
+    "name": "Goode Co. Seafood",
+    "slug": "goodecoseafood",
+    "category": "seafood",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/goode-company-seafood-1"
+  },
+  {
+    "name": "Reel Seafood & Bar",
+    "slug": "reelseafoodbar",
+    "category": "seafood",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/reel-seafood-bar-2030-east-t-c-jester-boulevard"
+  },
+  {
+    "name": "OD Seafood Restaurant & Bar",
+    "slug": "odseafoodrestaurantbar",
+    "category": "seafood",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/odseafood"
+  },
+  {
+    "name": "Buddys Seafood Market",
+    "slug": "buddysseafoodmarket",
+    "category": "seafood",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/buddys"
+  },
+  {
+    "name": "Colombian's Place",
+    "slug": "colombiansplace",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/colombiansplace"
+  },
+  {
+    "name": "El Colombiano - Colombian Cuisine",
+    "slug": "elcolombiano-colombiancuisine",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/el-colombiano-colombian-cuisine"
+  },
+  {
+    "name": "La Casa de Juana Phoenix",
+    "slug": "lacasadejuanaphoenix",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/la-casa-de-juana-phoenix"
+  },
+  {
+    "name": "Ajo Al's Mexican Cafe 16th Street and Camelback",
+    "slug": "ajoalsmexicancafe16thstreetandcamelback",
+    "category": "mexican",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ajo-als-biltmore-5101-n-16th-st"
+  },
+  {
+    "name": "Alejandro's Mexican Food 6 East Aspen Avenue, Suite 120",
+    "slug": "alejandrosmexicanfood6eastaspenavenuesui",
+    "category": "mexican",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/alejandros-mexican-food-6-east-aspen-avenue-suite-120"
+  },
+  {
+    "name": "El Chino Mexican Restaurant 2525 Soquel Dr.",
+    "slug": "elchinomexicanrestaurant2525soqueldr",
+    "category": "mexican",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/el-chino-mexican-restaurant"
+  },
+  {
+    "name": "Sol Azteca Mexican Kitchen Mesa",
+    "slug": "solaztecamexicankitchenmesa",
+    "category": "mexican",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sol-azteca-mexican-kitchen-9265-e-baseline-rd"
+  },
+  {
+    "name": "Azteca Mexican Grill 12 West 8th Street",
+    "slug": "aztecamexicangrill12west8thstreet",
+    "category": "mexican",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/azteca-mexicana-12-west-8th-street"
+  },
+  {
+    "name": "La Fuente Mexican Restaurant 5045 Singleton Rd H",
+    "slug": "lafuentemexicanrestaurant5045singletonrd",
+    "category": "mexican",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/la-fuente-mex"
+  },
+  {
+    "name": "El Chapulin Mexican Restaurant 8901 West Chester Pike",
+    "slug": "elchapulinmexicanrestaurant8901westchest",
+    "category": "mexican",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/el-chapulin-mexican-restaurant-8901-west-chester-pike"
+  },
+  {
+    "name": "Chilango Fresh Mexican",
+    "slug": "chilangofreshmexican",
+    "category": "mexican",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/chilango-fresh-mexican"
+  },
+  {
+    "name": "La Finca Mexican Restaurant",
+    "slug": "lafincamexicanrestaurant",
+    "category": "mexican",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/la-finca-foods"
   }
 ]
