@@ -1303,5 +1303,237 @@
     "metros": [
       "chicago"
     ]
+  },
+  {
+    "name": "Logan 11 Bar & Kitchen",
+    "slug": "logan11barkitchen",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Kitchen + Kocktails By Kevin Kelley - Chicago",
+    "slug": "kitchenkocktailsbykevinkelley-chicago",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Bar Siena",
+    "slug": "barsiena",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Pilsen Yards",
+    "slug": "pilsenyards",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "QuesaBirria Jalisco Tacos",
+    "slug": "quesabirriajaliscotacos",
+    "category": "mexican",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Pleasant House Pub",
+    "slug": "pleasanthousepub",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "5 Rabanitos Restaurante & Taqueria",
+    "slug": "5rabanitosrestaurantetaqueria",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Cantón Regio",
+    "slug": "cantnregio",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "La Esperanza Restaurant Pilsen",
+    "slug": "laesperanzarestaurantpilsen",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Taqueria Los Comales Pilsen",
+    "slug": "taquerialoscomalespilsen",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Simone's",
+    "slug": "simones",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "La Mejikana",
+    "slug": "lamejikana",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Gyuro Ramen",
+    "slug": "gyuroramen",
+    "category": "japanese",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "RAMEN-SAN Whisky Bar",
+    "slug": "ramen-sanwhiskybar",
+    "category": "japanese",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Eggholic - Indian Street Food",
+    "slug": "eggholic-indianstreetfood",
+    "category": "indian",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Nepal House (South Loop)",
+    "slug": "nepalhousesouthloop",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Siam Thai Eatery Chicago",
+    "slug": "siamthaieaterychicago",
+    "category": "thai",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Ezankaya",
+    "slug": "ezankaya",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Neko Sushi&Thai",
+    "slug": "nekosushithai",
+    "category": "japanese",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Wilde Irish Bar & Restaurant",
+    "slug": "wildeirishbarrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ]
+  },
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/kasama-1001-north-winchester-avenue"
+  },
+  {
+    "name": "Range Chicago - Order Online",
+    "slug": "rangechicago-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rangechicago"
+  },
+  {
+    "name": "5 ways to ramp up your restaurant online ordering system",
+    "slug": "5waystorampupyourrestaurantonlineorderin",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-online-ordering-system"
+  },
+  {
+    "name": "Key Strategies To Growing Your Restaurant In A Competitive Market",
+    "slug": "keystrategiestogrowingyourrestaurantinac",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/key-strategies-to-growing-your-restaurant-in-a-competitive-market"
+  },
+  {
+    "name": "Tech the Halls with Popmenu",
+    "slug": "techthehallswithpopmenu",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/tech-the-halls-reach-more-guests"
+  },
+  {
+    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
+    "slug": "popmenutoolkittherestaurantgrowthplayboo",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+  },
+  {
+    "name": "4 tech-focused tips to fight rising restaurant costs",
+    "slug": "4tech-focusedtipstofightrisingrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs"
+  },
+  {
+    "name": "Popmenu: Case Study - Phat Eatery",
+    "slug": "popmenucasestudy-phateatery",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/phat-eatery"
   }
 ]

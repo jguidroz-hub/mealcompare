@@ -322,5 +322,127 @@
     ],
     "placeId": "ChIJa8LR2bx-bIcRKq_mJTlas_Q",
     "website": "https://www.barologrilldenver.com/"
+  },
+  {
+    "name": "Acova",
+    "slug": "acova",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "The Bindery",
+    "slug": "thebindery",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Del Frisco's Grille",
+    "slug": "delfriscosgrille",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Postino Boulder",
+    "slug": "postinoboulder",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "The Sink",
+    "slug": "thesink",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Blackbelly Market & Restaurant",
+    "slug": "blackbellymarketrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Flagstaff House",
+    "slug": "flagstaffhouse",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "River and Woods",
+    "slug": "riverandwoods",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Bohemian Biergarten",
+    "slug": "bohemianbiergarten",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Rincon Argentino",
+    "slug": "rinconargentino",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Oak",
+    "slug": "oak",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Brasserie Ten Ten",
+    "slug": "brasserietenten",
+    "category": "french",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Cozobi Fonda Fina",
+    "slug": "cozobifondafina",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ]
+  },
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/restaurant-olivia-290-s-downing-st-denver-co-80209"
+  },
+  {
+    "name": "The Longmonter Restaurant - Order Online",
+    "slug": "thelongmonterrestaurant-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thelongmonter"
   }
 ]

@@ -668,5 +668,95 @@
     ],
     "placeId": "ChIJ2eGrYB9_j4ARQ20xMQCbGiM",
     "website": "https://blindbutcher.com/"
+  },
+  {
+    "name": "Souvla",
+    "slug": "souvla",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Dumpling Home",
+    "slug": "dumplinghome",
+    "category": "chinese",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Yank Sing (Spear St.)",
+    "slug": "yanksingspearst",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Farmhouse Kitchen Thai Cuisine",
+    "slug": "farmhousekitchenthaicuisine",
+    "category": "thai",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Parche",
+    "slug": "parche",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Brotzeit Lokal",
+    "slug": "brotzeitlokal",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Grand Lake Kitchen - Lake Merritt",
+    "slug": "grandlakekitchen-lakemerritt",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Castro Indian Restaurant & Bar",
+    "slug": "castroindianrestaurantbar",
+    "category": "indian",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Cafe Mystique",
+    "slug": "cafemystique",
+    "category": "cafe",
+    "metros": [
+      "sf"
+    ]
+  },
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tacko-san-francisco"
+  },
+  {
+    "name": "Toast and Egg",
+    "slug": "toastandegg",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://toastandegg.toast.site/"
   }
 ]

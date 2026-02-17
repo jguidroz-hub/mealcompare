@@ -582,5 +582,144 @@
     ],
     "placeId": "ChIJoWUGiFDGxokRdLTsrPnVAT0",
     "website": "http://www.newdecktavern.com/"
+  },
+  {
+    "name": "Stina",
+    "slug": "stina",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ]
+  },
+  {
+    "name": "Han Dynasty - Old City",
+    "slug": "handynasty-oldcity",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ]
+  },
+  {
+    "name": "Bao Nine",
+    "slug": "baonine",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ]
+  },
+  {
+    "name": "Dim Sum House by Jane G's - University City",
+    "slug": "dimsumhousebyjanegs-universitycity",
+    "category": "chinese",
+    "metros": [
+      "philly"
+    ]
+  },
+  {
+    "name": "honeygrow",
+    "slug": "honeygrow",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ]
+  },
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/1goal-philly"
+  },
+  {
+    "name": "South Philadelphia Tap Room - Order Online",
+    "slug": "southphiladelphiataproom-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/south-philadelphia-taproom"
+  },
+  {
+    "name": "Menu - Order Online - DJ Kitchen - Asian Bistro",
+    "slug": "menu-orderonline-djkitchen-asianbistro",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://dj-kitchen.popmenu.com/popmenu-order/philadelphia/menus/menu"
+  },
+  {
+    "name": "5 ways to ramp up your restaurant online ordering system",
+    "slug": "5waystorampupyourrestaurantonlineorderin",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-online-ordering-system"
+  },
+  {
+    "name": "Why every restaurant needs an interactive menu",
+    "slug": "whyeveryrestaurantneedsaninteractivemenu",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/every-restaurant-needs-interactive-menu"
+  },
+  {
+    "name": "Key Strategies To Growing Your Restaurant In A Competitive Market",
+    "slug": "keystrategiestogrowingyourrestaurantinac",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/key-strategies-to-growing-your-restaurant-in-a-competitive-market"
+  },
+  {
+    "name": "Popmenu: Case Study - The Hampton Social",
+    "slug": "popmenucasestudy-thehamptonsocial",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/improving-margins/the-hampton-social"
+  },
+  {
+    "name": "Tech the Halls with Popmenu",
+    "slug": "techthehallswithpopmenu",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/tech-the-halls-reach-more-guests"
+  },
+  {
+    "name": "4 tech-focused tips to fight rising restaurant costs",
+    "slug": "4tech-focusedtipstofightrisingrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs"
+  },
+  {
+    "name": "Popmenu: Case Study - Phat Eatery",
+    "slug": "popmenucasestudy-phateatery",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/phat-eatery"
+  },
+  {
+    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
+    "slug": "popmenutoolkittherestaurantgrowthplayboo",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
   }
 ]

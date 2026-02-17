@@ -347,5 +347,127 @@
     "placeId": "ChIJl9MGlIlskFQRkiKWMYy2cqU",
     "website": "http://wildginger.net/",
     "websiteOrderUrl": "https://ordering.chownow.com/order/13410/locations"
+  },
+  {
+    "name": "Pestle Rock",
+    "slug": "pestlerock",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ]
+  },
+  {
+    "name": "Local Tide",
+    "slug": "localtide",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ]
+  },
+  {
+    "name": "Dreamland Bar & Diner",
+    "slug": "dreamlandbardiner",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ]
+  },
+  {
+    "name": "Made in House",
+    "slug": "madeinhouse",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ]
+  },
+  {
+    "name": "Le Coin",
+    "slug": "lecoin",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ]
+  },
+  {
+    "name": "RockCreek Seafood & Spirits",
+    "slug": "rockcreekseafoodspirits",
+    "category": "seafood",
+    "metros": [
+      "seattle"
+    ]
+  },
+  {
+    "name": "Fremont Brewing's Urban Beer Garden",
+    "slug": "fremontbrewingsurbanbeergarden",
+    "category": "wings",
+    "metros": [
+      "seattle"
+    ]
+  },
+  {
+    "name": "Cafe Turko",
+    "slug": "cafeturko",
+    "category": "cafe",
+    "metros": [
+      "seattle"
+    ]
+  },
+  {
+    "name": "Lupo",
+    "slug": "lupo",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ]
+  },
+  {
+    "name": "Uneeda Burger",
+    "slug": "uneedaburger",
+    "category": "burgers",
+    "metros": [
+      "seattle"
+    ]
+  },
+  {
+    "name": "El Camino",
+    "slug": "elcamino",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ]
+  },
+  {
+    "name": "Saigon Drip Cafe",
+    "slug": "saigondripcafe",
+    "category": "cafe",
+    "metros": [
+      "seattle"
+    ]
+  },
+  {
+    "name": "Castilla Restaurant and Tapas Bar",
+    "slug": "castillarestaurantandtapasbar",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ]
+  },
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/monsoon-seattle-615-19th-ave-e"
+  },
+  {
+    "name": "Alki Beach - Order Online",
+    "slug": "alkibeach-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cactus-alki"
   }
 ]

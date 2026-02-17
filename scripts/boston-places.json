@@ -763,5 +763,230 @@
     ],
     "placeId": "ChIJ9anwFQJx44kR3o-BfvkUczs",
     "website": "https://www.junebugrestaurant.com/"
+  },
+  {
+    "name": "Petit Robert Bistro",
+    "slug": "petitrobertbistro",
+    "category": "french",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Cafe Weekend",
+    "slug": "cafeweekend",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "In House Cafe",
+    "slug": "inhousecafe",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Shabu-Zen",
+    "slug": "shabu-zen",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Thonglor",
+    "slug": "thonglor",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Spring Shabu-Shabu",
+    "slug": "springshabu-shabu",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Somenya Boston",
+    "slug": "somenyaboston",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Fenway Grill & Bar",
+    "slug": "fenwaygrillbar",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Audubon",
+    "slug": "audubon",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Time Out Market Boston",
+    "slug": "timeoutmarketboston",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Eventide Fenway",
+    "slug": "eventidefenway",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Sweet Cheeks Q",
+    "slug": "sweetcheeksq",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Shy Bird - Fenway",
+    "slug": "shybird-fenway",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Yard House",
+    "slug": "yardhouse",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Hojoko",
+    "slug": "hojoko",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Bleacher Bar",
+    "slug": "bleacherbar",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Eastern Standard Kitchen and Drinks",
+    "slug": "easternstandardkitchenanddrinks",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Josephine",
+    "slug": "josephine",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ]
+  },
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thebostonrestaurant"
+  },
+  {
+    "name": "Causeway Restaurant & Bar - Order Online",
+    "slug": "causewayrestaurantbar-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/causeway"
+  },
+  {
+    "name": "5 ways to ramp up your restaurant online ordering system",
+    "slug": "5waystorampupyourrestaurantonlineorderin",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-online-ordering-system"
+  },
+  {
+    "name": "Why every restaurant needs an interactive menu",
+    "slug": "whyeveryrestaurantneedsaninteractivemenu",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/every-restaurant-needs-interactive-menu"
+  },
+  {
+    "name": "Key Strategies To Growing Your Restaurant In A Competitive Market",
+    "slug": "keystrategiestogrowingyourrestaurantinac",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/key-strategies-to-growing-your-restaurant-in-a-competitive-market"
+  },
+  {
+    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
+    "slug": "popmenutoolkittherestaurantgrowthplayboo",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+  },
+  {
+    "name": "Tech the Halls with Popmenu",
+    "slug": "techthehallswithpopmenu",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/tech-the-halls-reach-more-guests"
+  },
+  {
+    "name": "4 tech-focused tips to fight rising restaurant costs",
+    "slug": "4tech-focusedtipstofightrisingrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs"
+  },
+  {
+    "name": "Popmenu: Case Study - Phat Eatery",
+    "slug": "popmenucasestudy-phateatery",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/phat-eatery"
   }
 ]

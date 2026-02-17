@@ -699,5 +699,79 @@
     "metros": [
       "miami"
     ]
+  },
+  {
+    "name": "Cubata",
+    "slug": "cubata",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Havana Beach Restaurant",
+    "slug": "havanabeachrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Elia on the River",
+    "slug": "eliaontheriver",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Jass Kitchen Turkish Cuisine",
+    "slug": "jasskitchenturkishcuisine",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Nami Nori Design District",
+    "slug": "naminoridesigndistrict",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Dolores But You Can Call Me Lolita",
+    "slug": "doloresbutyoucancallmelolita",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Mango's - Miami",
+    "slug": "mangos-miami",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ]
+  },
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hiro-3007-ne-163rd-st"
+  },
+  {
+    "name": "Mau Miami",
+    "slug": "maumiami",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mau-miami"
   }
 ]

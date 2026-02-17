@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/qi-austin"
+  },
+  {
+    "name": "Anthem Rainey St - Austin - Anthem [Salads] Border",
+    "slug": "anthemraineyst-austin-anthemsaladsborder",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/flagship-restaurant-group-anthem/item-border-salad_a1212b24-b9e4-4d16-889c-159459d92dd6"
+  },
+  {
+    "name": "5 ways to ramp up your restaurant online ordering system",
+    "slug": "5waystorampupyourrestaurantonlineorderin",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-online-ordering-system"
+  },
+  {
+    "name": "Popmenu: Case Study - Phat Eatery",
+    "slug": "popmenucasestudy-phateatery",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/phat-eatery"
+  },
+  {
+    "name": "Why every restaurant needs an interactive menu",
+    "slug": "whyeveryrestaurantneedsaninteractivemenu",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/every-restaurant-needs-interactive-menu"
+  },
+  {
+    "name": "Key Strategies To Growing Your Restaurant In A Competitive Market",
+    "slug": "keystrategiestogrowingyourrestaurantinac",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/key-strategies-to-growing-your-restaurant-in-a-competitive-market"
+  },
+  {
+    "name": "Popmenu: Case Study - The Hampton Social",
+    "slug": "popmenucasestudy-thehamptonsocial",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/improving-margins/the-hampton-social"
+  },
+  {
+    "name": "Tech the Halls with Popmenu",
+    "slug": "techthehallswithpopmenu",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/tech-the-halls-reach-more-guests"
+  },
+  {
+    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
+    "slug": "popmenutoolkittherestaurantgrowthplayboo",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+  },
+  {
+    "name": "4 tech-focused tips to fight rising restaurant costs",
+    "slug": "4tech-focusedtipstofightrisingrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs"
+  },
+  {
+    "name": "Austin’s Pizza",
+    "slug": "austinspizza",
+    "category": "pizza",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://austinspizza.toast.site/order"
+  }
+]

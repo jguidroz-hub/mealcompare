@@ -1834,5 +1834,361 @@
     "metros": [
       "nyc"
     ]
+  },
+  {
+    "name": "Kuu",
+    "slug": "kuu",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Kyuramen",
+    "slug": "kyuramen",
+    "category": "japanese",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "MONO+MONO",
+    "slug": "monomono",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Spot Dessert Bar East Village",
+    "slug": "spotdessertbareastvillage",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Veselka",
+    "slug": "veselka",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Peter Luger Steak House",
+    "slug": "peterlugersteakhouse",
+    "category": "steakhouse",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Maison Premiere",
+    "slug": "maisonpremiere",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Amylos Taverna",
+    "slug": "amylostaverna",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Inca Paisa Restaurant Astoria",
+    "slug": "incapaisarestaurantastoria",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Stamatis",
+    "slug": "stamatis",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "SARAVANAA BHAVAN",
+    "slug": "saravanaabhavan",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Native Harlem",
+    "slug": "nativeharlem",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "5ive Spice Tacos & Banh Mi",
+    "slug": "5ivespicetacosbanhmi",
+    "category": "mexican",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Mom's Kitchen and Bar",
+    "slug": "momskitchenandbar",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Kashkaval Garden",
+    "slug": "kashkavalgarden",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Bocca di Bacco",
+    "slug": "boccadibacco",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Marseille",
+    "slug": "marseille",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "The Marshal",
+    "slug": "themarshal",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Manhatto",
+    "slug": "manhatto",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "SESAMO - Italian Restaurant Hell's Kitchen",
+    "slug": "sesamo-italianrestauranthellskitchen",
+    "category": "italian",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Katz's Delicatessen",
+    "slug": "katzsdelicatessen",
+    "category": "deli",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Le Jardin Bistro NYC",
+    "slug": "lejardinbistronyc",
+    "category": "french",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Dudleys",
+    "slug": "dudleys",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Clinton St. Baking Company",
+    "slug": "clintonstbakingcompany",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Fossetta",
+    "slug": "fossetta",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Barney Greengrass",
+    "slug": "barneygreengrass",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Mile End Deli",
+    "slug": "mileenddeli",
+    "category": "deli",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Jacob's Pickles",
+    "slug": "jacobspickles",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Felice Columbus",
+    "slug": "felicecolumbus",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "Zara Terrace Mediterranean Restaurant",
+    "slug": "zaraterracemediterraneanrestaurant",
+    "category": "mediterranean",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "ZOI MEDITERRANEAN UES",
+    "slug": "zoimediterraneanues",
+    "category": "mediterranean",
+    "metros": [
+      "nyc"
+    ]
+  },
+  {
+    "name": "The New York Restaurant 101 State Street",
+    "slug": "thenewyorkrestaurant101statestreet",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-new-york"
+  },
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/eatzazu"
+  },
+  {
+    "name": "Auction Barn Restaurant (NEW) 4016 New York 40",
+    "slug": "auctionbarnrestaurantnew4016newyork40",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/auction-barn-restaurant-new-4016-new-york-40"
+  },
+  {
+    "name": "New York City Pizza Buckwalter Bluffton",
+    "slug": "newyorkcitypizzabuckwalterbluffton",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/newyorkcitypizzabuckwalter"
+  },
+  {
+    "name": "How to set up online food ordering in an afternoon",
+    "slug": "howtosetuponlinefoodorderinginanafternoo",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
+  },
+  {
+    "name": "5 ways to ramp up your restaurant online ordering system",
+    "slug": "5waystorampupyourrestaurantonlineorderin",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-online-ordering-system"
+  },
+  {
+    "name": "Popmenu - New",
+    "slug": "popmenu-new",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/every-restaurant-needs-interactive-menu"
+  },
+  {
+    "name": "Popmenu: Case Study - The Hampton Social",
+    "slug": "popmenucasestudy-thehamptonsocial",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/improving-margins/the-hampton-social"
+  },
+  {
+    "name": "Key Strategies To Growing Your Restaurant In A Competitive Market",
+    "slug": "keystrategiestogrowingyourrestaurantinac",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/key-strategies-to-growing-your-restaurant-in-a-competitive-market"
+  },
+  {
+    "name": "ACS",
+    "slug": "acs",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://affordable-catering.popmenu.com/"
+  },
+  {
+    "name": "Tech the Halls with Popmenu",
+    "slug": "techthehallswithpopmenu",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/tech-the-halls-reach-more-guests"
+  },
+  {
+    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
+    "slug": "popmenutoolkittherestaurantgrowthplayboo",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
   }
 ]

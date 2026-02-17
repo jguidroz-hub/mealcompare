@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/chiko-washington"
+  },
+  {
+    "name": "ala | DC - ORDER ONLINE",
+    "slug": "aladc-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/aladc"
+  }
+]

@@ -472,5 +472,94 @@
     ],
     "placeId": "ChIJf0fzuvRmZIgR1Bnbo93dIjA",
     "website": "https://www.kayneprimenashville.com/"
+  },
+  {
+    "name": "Mother's Ruin",
+    "slug": "mothersruin",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ]
+  },
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cinco-de-mayo-mexican-restaurant-nashville"
+  },
+  {
+    "name": "5 ways to ramp up your restaurant online ordering system",
+    "slug": "5waystorampupyourrestaurantonlineorderin",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-online-ordering-system"
+  },
+  {
+    "name": "Why every restaurant needs an interactive menu",
+    "slug": "whyeveryrestaurantneedsaninteractivemenu",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/every-restaurant-needs-interactive-menu"
+  },
+  {
+    "name": "Key Strategies To Growing Your Restaurant In A Competitive Market",
+    "slug": "keystrategiestogrowingyourrestaurantinac",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/key-strategies-to-growing-your-restaurant-in-a-competitive-market"
+  },
+  {
+    "name": "Popmenu: Case Study - The Hampton Social",
+    "slug": "popmenucasestudy-thehamptonsocial",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/improving-margins/the-hampton-social"
+  },
+  {
+    "name": "Popmenu: Case Study - Phat Eatery",
+    "slug": "popmenucasestudy-phateatery",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/phat-eatery"
+  },
+  {
+    "name": "Tech the Halls with Popmenu",
+    "slug": "techthehallswithpopmenu",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/tech-the-halls-reach-more-guests"
+  },
+  {
+    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
+    "slug": "popmenutoolkittherestaurantgrowthplayboo",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+  },
+  {
+    "name": "4 tech-focused tips to fight rising restaurant costs",
+    "slug": "4tech-focusedtipstofightrisingrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nashville"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs"
   }
 ]

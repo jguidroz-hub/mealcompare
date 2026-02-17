@@ -485,5 +485,183 @@
     ],
     "placeId": "ChIJFZ4OdVsB9YgRSBdT8Ml1a8U",
     "website": "http://argosy-east.com/"
+  },
+  {
+    "name": "The Albert",
+    "slug": "thealbert",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Bread & Butterfly",
+    "slug": "breadbutterfly",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Wisteria",
+    "slug": "wisteria",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Folk Art Restaurant Inman Park",
+    "slug": "folkartrestaurantinmanpark",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Wheelhouse Craft Pub and Kitchen",
+    "slug": "wheelhousecraftpubandkitchen",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Platez Southern Kitchen & Cocktailz",
+    "slug": "platezsouthernkitchencocktailz",
+    "category": "southern",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "DESI TADKA INDIAN RESTAURANT - DECATUR",
+    "slug": "desitadkaindianrestaurant-decatur",
+    "category": "indian",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Raging Burrito",
+    "slug": "ragingburrito",
+    "category": "mexican",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Rumi's Kitchen Colony Square",
+    "slug": "rumiskitchencolonysquare",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Truva - Virginia Highland",
+    "slug": "truva-virginiahighland",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "The Southern Gentleman",
+    "slug": "thesoutherngentleman",
+    "category": "southern",
+    "metros": [
+      "atlanta"
+    ]
+  },
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/b.o.t-restaurant"
+  },
+  {
+    "name": "5 ways to ramp up your restaurant online ordering system",
+    "slug": "5waystorampupyourrestaurantonlineorderin",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-online-ordering-system"
+  },
+  {
+    "name": "Popmenu: Restaurant Tech Checklist",
+    "slug": "popmenurestauranttechchecklist",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/restaurant-tech-checklist"
+  },
+  {
+    "name": "Popmenu: Case Study - The Hampton Social",
+    "slug": "popmenucasestudy-thehamptonsocial",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/the-hampton-social"
+  },
+  {
+    "name": "Why every restaurant needs an interactive menu",
+    "slug": "whyeveryrestaurantneedsaninteractivemenu",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/every-restaurant-needs-interactive-menu"
+  },
+  {
+    "name": "Key Strategies To Growing Your Restaurant In A Competitive Market",
+    "slug": "keystrategiestogrowingyourrestaurantinac",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/key-strategies-to-growing-your-restaurant-in-a-competitive-market"
+  },
+  {
+    "name": "Tech the Halls with Popmenu",
+    "slug": "techthehallswithpopmenu",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/tech-the-halls-reach-more-guests"
+  },
+  {
+    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
+    "slug": "popmenutoolkittherestaurantgrowthplayboo",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+  },
+  {
+    "name": "4 tech-focused tips to fight rising restaurant costs",
+    "slug": "4tech-focusedtipstofightrisingrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs"
+  },
+  {
+    "name": "Popmenu: Case Study - Phat Eatery",
+    "slug": "popmenucasestudy-phateatery",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/phat-eatery"
   }
 ]

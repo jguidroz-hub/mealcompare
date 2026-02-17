@@ -551,5 +551,134 @@
     "placeId": "ChIJm-or0dknQYYR1wygmcxoJuE",
     "website": "http://katyvibes.com/",
     "websiteOrderUrl": "https://order.online/store/katy-vibes-katy-647286"
+  },
+  {
+    "name": "Rainbow Lodge",
+    "slug": "rainbowlodge",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Maison Pucha Bistro",
+    "slug": "maisonpuchabistro",
+    "category": "french",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Onion Creek",
+    "slug": "onioncreek",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Osso & Kristalla",
+    "slug": "ossokristalla",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Le Emperor",
+    "slug": "leemperor",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Di An Pho",
+    "slug": "dianpho",
+    "category": "vietnamese",
+    "metros": [
+      "houston"
+    ]
+  },
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/local-food-rice-village"
+  },
+  {
+    "name": "5 ways to ramp up your restaurant online ordering system",
+    "slug": "5waystorampupyourrestaurantonlineorderin",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-online-ordering-system"
+  },
+  {
+    "name": "Popmenu: Case Study - Phat Eatery",
+    "slug": "popmenucasestudy-phateatery",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/phat-eatery"
+  },
+  {
+    "name": "Why every restaurant needs an interactive menu",
+    "slug": "whyeveryrestaurantneedsaninteractivemenu",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/every-restaurant-needs-interactive-menu"
+  },
+  {
+    "name": "Key Strategies To Growing Your Restaurant In A Competitive Market",
+    "slug": "keystrategiestogrowingyourrestaurantinac",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/key-strategies-to-growing-your-restaurant-in-a-competitive-market"
+  },
+  {
+    "name": "Popmenu: Case Study - The Hampton Social",
+    "slug": "popmenucasestudy-thehamptonsocial",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/improving-margins/the-hampton-social"
+  },
+  {
+    "name": "Tech the Halls with Popmenu",
+    "slug": "techthehallswithpopmenu",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/tech-the-halls-reach-more-guests"
+  },
+  {
+    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
+    "slug": "popmenutoolkittherestaurantgrowthplayboo",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+  },
+  {
+    "name": "4 tech-focused tips to fight rising restaurant costs",
+    "slug": "4tech-focusedtipstofightrisingrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs"
   }
 ]
