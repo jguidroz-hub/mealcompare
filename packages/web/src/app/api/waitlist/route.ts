@@ -1,27 +1,27 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { promises as fs } from 'fs';
-import { join } from 'path';
+import { getDb } from '@/lib/db';
 
 /**
- * POST /api/waitlist
- * Collect email addresses for launch notification.
- * v0: Append to a JSON file. v1: Database.
+ * POST /api/waitlist — Collect email addresses
  */
-
 export async function POST(req: NextRequest) {
   try {
-    const { email, metro } = await req.json();
+    const { email, metro, source } = await req.json();
 
     if (!email || !email.includes('@')) {
       return NextResponse.json({ error: 'Invalid email' }, { status: 400 });
     }
 
-    // For now, log to console (Vercel logs) and return success
-    // In production: save to DB / send to Resend list
-    console.log(`[waitlist] ${email} (${metro ?? 'unknown'})`);
+    const sql = getDb();
+    await sql`
+      INSERT INTO waitlist (email, metro, source)
+      VALUES (${email}, ${metro || null}, ${source || 'web'})
+      ON CONFLICT (email) DO NOTHING
+    `;
 
-    return NextResponse.json({ ok: true, message: 'You\'re on the list!' });
+    return NextResponse.json({ ok: true, message: "You're on the list!" });
   } catch (err) {
+    console.error('[waitlist] Error:', err);
     return NextResponse.json({ error: 'Failed to join waitlist' }, { status: 500 });
   }
 }

@@ -93,10 +93,9 @@ export default function InstallPage() {
           <p style={{ fontSize: '14px', color: '#94a3b8', lineHeight: 1.6 }}>
             After installation, right-click the SkipTheFee icon and select &quot;Options&quot; to set your city:
           </p>
-          <ul style={{ fontSize: '14px', color: '#94a3b8', lineHeight: 1.8, paddingLeft: '20px', marginTop: '8px' }}>
-            <li><strong style={{ color: '#e2e8f0' }}>Austin, TX</strong> — Default</li>
-            <li><strong style={{ color: '#e2e8f0' }}>Washington, DC</strong> — Select if you&apos;re in the DC metro area</li>
-          </ul>
+          <p style={{ fontSize: '14px', color: '#94a3b8', lineHeight: 1.8, marginTop: '8px' }}>
+            SkipTheFee works across <strong style={{ color: '#e2e8f0' }}>30 cities</strong> including NYC, Chicago, LA, SF, Boston, Miami, DC, Austin, Houston, Atlanta, Seattle, Denver, Dallas, Phoenix, Portland, Nashville, New Orleans, and more.
+          </p>
         </div>
 
         {/* Waitlist for Chrome Web Store */}

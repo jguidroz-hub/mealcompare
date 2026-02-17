@@ -2,6 +2,8 @@
 import { useState, useEffect, useMemo, useCallback } from 'react';
 import Link from 'next/link';
 import { useParams } from 'next/navigation';
+import { trackPageView, trackSearch, trackMetroSelect, trackCategoryFilter, trackOrderClick } from '@/lib/analytics';
+import { isFavorite, toggleFavorite } from '@/lib/favorites';
 
 interface Restaurant {
   name: string;
@@ -107,6 +109,8 @@ export default function MetroPage() {
   const [category, setCategory] = useState('All');
 
   useEffect(() => {
+    trackPageView({ metro });
+    trackMetroSelect(metro);
     setLoading(true);
     fetch(`/api/restaurants?metro=${metro}`)
       .then(r => r.json())
@@ -139,6 +143,13 @@ export default function MetroPage() {
     result.sort((a, b) => (b.directUrl ? 1 : 0) - (a.directUrl ? 1 : 0));
     return result;
   }, [restaurants, search, category]);
+
+  // Debounced search tracking
+  useEffect(() => {
+    if (!search || search.length < 2) return;
+    const t = setTimeout(() => trackSearch(search, metro, filtered.length), 500);
+    return () => clearTimeout(t);
+  }, [search, metro, filtered.length]);
 
   const directCount = restaurants.filter(r => r.directUrl).length;
   const directPct = restaurants.length > 0 ? Math.round((directCount / restaurants.length) * 100) : 0;
@@ -295,14 +306,25 @@ function RestaurantRow({ restaurant: r, metro }: { restaurant: Restaurant; metro
   const hasDirect = !!r.directUrl;
   const catInfo = CATEGORY_MAP[r.category.toLowerCase()] || { emoji: '🍽️', label: r.category };
   const savings = useMemo(() => getSavingsEstimate(), []);
+  const slug = r.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+$/, '');
+  const [faved, setFaved] = useState(false);
+
+  useEffect(() => { setFaved(isFavorite(slug, metro)); }, [slug, metro]);
 
   const handleClick = useCallback(() => {
+    const platform = r.hasToast ? 'toast' : r.hasSquare ? 'square' : 'website';
+    trackOrderClick(r.name, metro, platform, r.directUrl || '');
     fetch('/api/track', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ restaurant: r.name, metro, source: 'pwa', directUrl: r.directUrl }),
+      body: JSON.stringify({ restaurant: r.name, slug, metro, source: 'pwa', directUrl: r.directUrl }),
     }).catch(() => {});
-  }, [r.name, metro, r.directUrl]);
+  }, [r.name, r.directUrl, r.hasToast, r.hasSquare, slug, metro]);
+
+  const handleFav = useCallback(() => {
+    const added = toggleFavorite(slug, r.name, metro, r.directUrl);
+    setFaved(added);
+  }, [slug, r.name, metro, r.directUrl]);
 
   return (
     <div className="glass-card glass-card-hover" style={{ padding: '14px 16px', marginBottom: 8 }}>
@@ -320,7 +342,12 @@ function RestaurantRow({ restaurant: r, metro }: { restaurant: Restaurant; metro
 
         {/* Info */}
         <div style={{ flex: 1, minWidth: 0 }}>
-          <div style={{ fontWeight: 700, fontSize: 15, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{r.name}</div>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
+            <span style={{ fontWeight: 700, fontSize: 15, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{r.name}</span>
+            <button onClick={handleFav} style={{ background: 'none', border: 'none', cursor: 'pointer', fontSize: 14, padding: 0, flexShrink: 0 }} title={faved ? 'Remove from favorites' : 'Add to favorites'}>
+              {faved ? '❤️' : '🤍'}
+            </button>
+          </div>
           <div style={{ fontSize: 12, color: '#475569', marginTop: 1, display: 'flex', alignItems: 'center', gap: 6 }}>
             <span>{catInfo.label}</span>
             {hasDirect && (

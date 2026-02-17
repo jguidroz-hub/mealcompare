@@ -1,10 +1,6 @@
-import type { Metadata } from 'next';
+'use client';
 import Link from 'next/link';
-
-export const metadata: Metadata = {
-  title: 'For Restaurants — SkipTheFee',
-  description: 'Get more direct orders. SkipTheFee sends hungry customers straight to your website — no commissions, no middlemen.',
-};
+import { useState } from 'react';
 
 export default function ForRestaurants() {
   return (
@@ -147,45 +143,7 @@ export default function ForRestaurants() {
           Not listed? We&apos;ll add you for free.
         </p>
 
-        <div className="glass-card" style={{ padding: 28, textAlign: 'left' }}>
-          <form action="https://formspree.io/f/placeholder" method="POST">
-            <div style={{ marginBottom: 16 }}>
-              <label style={{ display: 'block', fontSize: 13, fontWeight: 600, marginBottom: 6 }}>Restaurant Name</label>
-              <input name="restaurant" required placeholder="e.g. Joe's Pizza" style={{
-                width: '100%', padding: '12px 14px', background: 'rgba(255,255,255,0.04)',
-                border: '1px solid rgba(255,255,255,0.08)', borderRadius: 10, color: '#e2e8f0',
-                fontSize: 15, outline: 'none', boxSizing: 'border-box',
-              }} />
-            </div>
-            <div style={{ marginBottom: 16 }}>
-              <label style={{ display: 'block', fontSize: 13, fontWeight: 600, marginBottom: 6 }}>City</label>
-              <input name="city" required placeholder="e.g. New York" style={{
-                width: '100%', padding: '12px 14px', background: 'rgba(255,255,255,0.04)',
-                border: '1px solid rgba(255,255,255,0.08)', borderRadius: 10, color: '#e2e8f0',
-                fontSize: 15, outline: 'none', boxSizing: 'border-box',
-              }} />
-            </div>
-            <div style={{ marginBottom: 16 }}>
-              <label style={{ display: 'block', fontSize: 13, fontWeight: 600, marginBottom: 6 }}>Your Direct Ordering URL</label>
-              <input name="url" type="url" placeholder="https://order.toasttab.com/..." style={{
-                width: '100%', padding: '12px 14px', background: 'rgba(255,255,255,0.04)',
-                border: '1px solid rgba(255,255,255,0.08)', borderRadius: 10, color: '#e2e8f0',
-                fontSize: 15, outline: 'none', boxSizing: 'border-box',
-              }} />
-            </div>
-            <div style={{ marginBottom: 20 }}>
-              <label style={{ display: 'block', fontSize: 13, fontWeight: 600, marginBottom: 6 }}>Email</label>
-              <input name="email" type="email" required placeholder="owner@restaurant.com" style={{
-                width: '100%', padding: '12px 14px', background: 'rgba(255,255,255,0.04)',
-                border: '1px solid rgba(255,255,255,0.08)', borderRadius: 10, color: '#e2e8f0',
-                fontSize: 15, outline: 'none', boxSizing: 'border-box',
-              }} />
-            </div>
-            <button type="submit" className="btn-glow" style={{ width: '100%', justifyContent: 'center' }}>
-              🏪 Claim My Listing — Free
-            </button>
-          </form>
-        </div>
+        <ClaimFormComponent />
 
         <p style={{ fontSize: 12, color: '#334155', marginTop: 16 }}>
           No credit card. No contracts. No commissions. Ever.
@@ -201,5 +159,77 @@ export default function ForRestaurants() {
         <span>© 2026 SkipTheFee</span>
       </footer>
     </main>
+  );
+}
+
+function ClaimFormComponent() {
+  const [status, setStatus] = useState<'idle' | 'sending' | 'success' | 'error'>('idle');
+  const [restaurant, setRestaurant] = useState('');
+  const [city, setCity] = useState('');
+  const [url, setUrl] = useState('');
+  const [email, setEmail] = useState('');
+
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    setStatus('sending');
+    try {
+      const res = await fetch('/api/claim', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ restaurant, city, url, email }),
+      });
+      if (res.ok) {
+        setStatus('success');
+      } else {
+        setStatus('error');
+      }
+    } catch {
+      setStatus('error');
+    }
+  };
+
+  if (status === 'success') {
+    return (
+      <div className="glass-card" style={{ padding: 36, textAlign: 'center' }}>
+        <div style={{ fontSize: 48, marginBottom: 12 }}>🎉</div>
+        <h3 style={{ fontSize: 20, fontWeight: 800, marginBottom: 8 }}>Claim submitted!</h3>
+        <p style={{ color: '#64748b', fontSize: 14 }}>
+          We&apos;ll verify your listing and reach out to <strong style={{ color: '#e2e8f0' }}>{email}</strong> within 24 hours.
+        </p>
+      </div>
+    );
+  }
+
+  const inputStyle = {
+    width: '100%', padding: '12px 14px', background: 'rgba(255,255,255,0.04)',
+    border: '1px solid rgba(255,255,255,0.08)', borderRadius: 10, color: '#e2e8f0',
+    fontSize: 15, outline: 'none' as const, boxSizing: 'border-box' as const,
+  };
+
+  return (
+    <div className="glass-card" style={{ padding: 28, textAlign: 'left' }}>
+      <form onSubmit={handleSubmit}>
+        <div style={{ marginBottom: 16 }}>
+          <label style={{ display: 'block', fontSize: 13, fontWeight: 600, marginBottom: 6 }}>Restaurant Name *</label>
+          <input value={restaurant} onChange={e => setRestaurant(e.target.value)} required placeholder="e.g. Joe's Pizza" style={inputStyle} />
+        </div>
+        <div style={{ marginBottom: 16 }}>
+          <label style={{ display: 'block', fontSize: 13, fontWeight: 600, marginBottom: 6 }}>City *</label>
+          <input value={city} onChange={e => setCity(e.target.value)} required placeholder="e.g. New York" style={inputStyle} />
+        </div>
+        <div style={{ marginBottom: 16 }}>
+          <label style={{ display: 'block', fontSize: 13, fontWeight: 600, marginBottom: 6 }}>Your Direct Ordering URL</label>
+          <input value={url} onChange={e => setUrl(e.target.value)} type="url" placeholder="https://order.toasttab.com/..." style={inputStyle} />
+        </div>
+        <div style={{ marginBottom: 20 }}>
+          <label style={{ display: 'block', fontSize: 13, fontWeight: 600, marginBottom: 6 }}>Email *</label>
+          <input value={email} onChange={e => setEmail(e.target.value)} type="email" required placeholder="owner@restaurant.com" style={inputStyle} />
+        </div>
+        <button type="submit" className="btn-glow" style={{ width: '100%', justifyContent: 'center' }} disabled={status === 'sending'}>
+          {status === 'sending' ? '⏳ Submitting...' : '🏪 Claim My Listing — Free'}
+        </button>
+        {status === 'error' && <p style={{ color: '#ef4444', fontSize: 13, marginTop: 8, textAlign: 'center' }}>Something went wrong. Please try again.</p>}
+      </form>
+    </div>
   );
 }
