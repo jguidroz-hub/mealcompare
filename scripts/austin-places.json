@@ -1,17 +1,8 @@
 [
   {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/qi-austin"
-  },
-  {
     "name": "Anthem Rainey St - Austin - Anthem [Salads] Border",
     "slug": "anthemraineyst-austin-anthemsaladsborder",
-    "category": "restaurant",
+    "category": "healthy",
     "metros": [
       "austin"
     ],
@@ -23,17 +14,7 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-online-ordering-system"
-  },
-  {
-    "name": "Popmenu: Case Study - Phat Eatery",
-    "slug": "popmenucasestudy-phateatery",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/phat-eatery"
+    ]
   },
   {
     "name": "Why every restaurant needs an interactive menu",
@@ -41,44 +22,7 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/every-restaurant-needs-interactive-menu"
-  },
-  {
-    "name": "Key Strategies To Growing Your Restaurant In A Competitive Market",
-    "slug": "keystrategiestogrowingyourrestaurantinac",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/key-strategies-to-growing-your-restaurant-in-a-competitive-market"
-  },
-  {
-    "name": "Popmenu: Case Study - The Hampton Social",
-    "slug": "popmenucasestudy-thehamptonsocial",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/improving-margins/the-hampton-social"
-  },
-  {
-    "name": "Tech the Halls with Popmenu",
-    "slug": "techthehallswithpopmenu",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/tech-the-halls-reach-more-guests"
-  },
-  {
-    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
-    "slug": "popmenutoolkittherestaurantgrowthplayboo",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+    ]
   },
   {
     "name": "4 tech-focused tips to fight rising restaurant costs",
@@ -86,11 +30,10 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs"
+    ]
   },
   {
-    "name": "Austin\u2019s Pizza",
+    "name": "Austin’s Pizza",
     "slug": "austinspizza",
     "category": "pizza",
     "metros": [
@@ -99,49 +42,12 @@
     "toastUrl": "https://austinspizza.toast.site/order"
   },
   {
-    "name": "Online Ordering for Nanami Sushi Bar | Powered By ChowNow",
-    "slug": "onlineorderingfornanamisushibarpoweredby",
-    "category": "japanese",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/3896/locations"
-  },
-  {
-    "name": "Online ordering competitors every restaurant should know",
-    "slug": "onlineorderingcompetitorseveryrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know"
-  },
-  {
-    "name": "6 Best Popmenu Competitors to Consider (Pros & Cons)",
-    "slug": "6bestpopmenucompetitorstoconsiderproscon",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons"
-  },
-  {
     "name": "How to set up online food ordering in an afternoon",
     "slug": "howtosetuponlinefoodorderinginanafternoo",
     "category": "restaurant",
     "metros": [
       "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
-  },
-  {
-    "name": "Popmenu: We do more than grow your restaurant.",
-    "slug": "popmenuwedomorethangrowyourrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/"
+    ]
   },
   {
     "name": "12756",
@@ -164,7 +70,7 @@
   {
     "name": "Leyu Ethiopian Restaurant",
     "slug": "leyuethiopianrestaurant",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "austin"
     ],
@@ -272,7 +178,7 @@
   {
     "name": "979 springdale Rd, Stargazer Bar, Austin, TX",
     "slug": "979springdalerdstargazerbaraustintx",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "austin"
     ],
@@ -281,7 +187,7 @@
   {
     "name": "Bellissima Italian Mediterranean Restaurant",
     "slug": "bellissimaitalianmediterraneanrestaurant",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "austin"
     ],
@@ -371,7 +277,7 @@
   {
     "name": "Side Eye Pie - 3901 Promontory Point Drive, Austin, TX",
     "slug": "sideeyepie-3901promontorypointdriveausti",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "austin"
     ],
@@ -477,9 +383,9 @@
     "toastUrl": "https://order.toasttab.com/online/cafe-crepe-of-austin-200-san-jacinto-blvd-suite-a"
   },
   {
-    "name": "Ski Shores Caf\u00e9 - 2905 Pearce Road, Austin, TX",
+    "name": "Ski Shores Café - 2905 Pearce Road, Austin, TX",
     "slug": "skishorescaf-2905pearceroadaustintx",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "austin"
     ],
@@ -560,7 +466,7 @@
   {
     "name": "Rockstar Bagels East Austin",
     "slug": "rockstarbagelseastaustin",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "austin"
     ],
@@ -623,7 +529,7 @@
   {
     "name": "Via 313 East Side",
     "slug": "via313eastside",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "austin"
     ],
@@ -731,7 +637,7 @@
   {
     "name": "Mouth of the South Southern Grub 16909 Lakeside Hills ...",
     "slug": "mouthofthesouthsoutherngrub16909lakeside",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "austin"
     ],
@@ -785,7 +691,7 @@
   {
     "name": "Garbo's Lobster Restaurant (North) 12709 N Mopac",
     "slug": "garboslobsterrestaurantnorth12709nmopac",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "austin"
     ],
@@ -875,7 +781,7 @@
   {
     "name": "Ebisu Japanese restaurant Austin, TX",
     "slug": "ebisujapaneserestaurantaustintx",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "austin"
     ],
@@ -1010,7 +916,7 @@
   {
     "name": "Pho Saigon Austin",
     "slug": "phosaigonaustin",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "austin"
     ],
@@ -1060,141 +966,6 @@
       "austin"
     ],
     "toastUrl": "https://order.toasttab.com/online/oz-korean-bbq-sacramento"
-  },
-  {
-    "name": "Popmenu: Client Testimonials & Reviews",
-    "slug": "popmenuclienttestimonialsreviews",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-testimonials-reviews"
-  },
-  {
-    "name": "Popmenu: Case Study - Dos Salsas",
-    "slug": "popmenucasestudy-dossalsas",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
-  },
-  {
-    "name": "Popmenu: Case Study - Teppan Steakhouse",
-    "slug": "popmenucasestudy-teppansteakhouse",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/teppan-steakhouse"
-  },
-  {
-    "name": "Popmenu: Who We Help - Quick Service Restaurants",
-    "slug": "popmenuwhowehelp-quickservicerestaurants",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/who-we-help/quick-service-restaurants"
-  },
-  {
-    "name": "5 menu design Ideas for digital-first restaurants",
-    "slug": "5menudesignideasfordigital-firstrestaura",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
-  },
-  {
-    "name": "Popmenu - New",
-    "slug": "popmenu-new",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/automation-in-restaurants"
-  },
-  {
-    "name": "Popmenu: AI answering",
-    "slug": "popmenuaianswering",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/ai-answering"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
-  },
-  {
-    "name": "Best practices for food menu design",
-    "slug": "bestpracticesforfoodmenudesign",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/food-menu-design"
-  },
-  {
-    "name": "Popmenu: Press Releases",
-    "slug": "popmenupressreleases",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/press-releases"
-  },
-  {
-    "name": "Popmenu: Developer API Connections",
-    "slug": "popmenudeveloperapiconnections",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/developer-api"
-  },
-  {
-    "name": "Popmenu: Leadership",
-    "slug": "popmenuleadership",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/leadership"
-  },
-  {
-    "name": "Popmenu: About Us",
-    "slug": "popmenuaboutus",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/about-us"
-  },
-  {
-    "name": "Popmenu: Manage your restaurant's online reputation",
-    "slug": "popmenumanageyourrestaurantsonlinereputa",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/reputation-management"
-  },
-  {
-    "name": "Popmenu + Toast",
-    "slug": "popmenutoast",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/partner/toast"
   },
   {
     "name": "Home",
@@ -1283,17 +1054,7 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ],
-    "websiteOrderUrl": "https://southbamboobistro.menufy.com/"
-  },
-  {
-    "name": "Austin, TX - Delivery & Takeout",
-    "slug": "austintx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Austin"
+    ]
   },
   {
     "name": "Home - C Spot",
@@ -1301,26 +1062,7 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ],
-    "websiteOrderUrl": "https://cspot.menufy.com/"
-  },
-  {
-    "name": "Asian in Austin, TX - Delivery & Takeout",
-    "slug": "asianinaustintx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Austin/Asian"
-  },
-  {
-    "name": "Chinese in Austin, TX - Delivery & Takeout",
-    "slug": "chineseinaustintx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Austin/Chinese"
+    ]
   },
   {
     "name": "Nagoya Steak & Sushi - Austin, TX 78750 (Menu & Order ...",
@@ -1328,44 +1070,7 @@
     "category": "japanese",
     "metros": [
       "austin"
-    ],
-    "websiteOrderUrl": "https://eatnagoya.menufy.com/"
-  },
-  {
-    "name": "Thai in Austin, TX - Delivery & Takeout",
-    "slug": "thaiinaustintx-deliverytakeout",
-    "category": "thai",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Austin/Thai"
-  },
-  {
-    "name": "Cantonese in Austin, TX - Delivery & Takeout",
-    "slug": "cantoneseinaustintx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Austin/Cantonese"
-  },
-  {
-    "name": "Austin, Tx 78751, TX - Delivery & Takeout",
-    "slug": "austintx78751tx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Austin,%20Tx%2078751"
-  },
-  {
-    "name": "Vietnamese in Austin, TX - Delivery & Takeout",
-    "slug": "vietnameseinaustintx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Austin/Vietnamese"
+    ]
   },
   {
     "name": "C Spot - Austin, TX 78702 (Menu & Order Online)",
@@ -1375,42 +1080,6 @@
       "austin"
     ],
     "websiteOrderUrl": "https://cspot.menufy.com/order"
-  },
-  {
-    "name": "American in Austin, TX - Delivery & Takeout",
-    "slug": "americaninaustintx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Austin/American"
-  },
-  {
-    "name": "Chicken in Austin, TX - Delivery & Takeout",
-    "slug": "chickeninaustintx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Austin/Chicken"
-  },
-  {
-    "name": "Breakfast in Austin, Tx 78751, TX - Delivery & Takeout",
-    "slug": "breakfastinaustintx78751tx-deliverytakeo",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Austin,%20Tx%2078751/Breakfast"
-  },
-  {
-    "name": "Seafood in Austin, TX - Delivery & Takeout",
-    "slug": "seafoodinaustintx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Austin/Seafood"
   },
   {
     "name": "Golden Chick Austin Hwy 71",
@@ -1442,11 +1111,10 @@
   {
     "name": "Perry's Steakhouse & Grille",
     "slug": "perryssteakhousegrille",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "austin"
-    ],
-    "websiteOrderUrl": "https://perrysrestaurants.olo.com/"
+    ]
   },
   {
     "name": "Austin Catering",
@@ -1458,7 +1126,7 @@
     "websiteOrderUrl": "https://truefoodkitchencatering.olo.com/menu/austin-catering"
   },
   {
-    "name": "Austin - Congress Fogo de Ch\u00e3o",
+    "name": "Austin - Congress Fogo de Chão",
     "slug": "austin-congressfogodecho",
     "category": "restaurant",
     "metros": [
@@ -1550,7 +1218,7 @@
   {
     "name": "Perry's Steakhouse & Grille - Austin",
     "slug": "perryssteakhousegrille-austin",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "austin"
     ],
@@ -1593,7 +1261,7 @@
     "websiteOrderUrl": "https://postino.olo.com/menu/postino-south-lamar"
   },
   {
-    "name": "\u1405 Austin Pizza Delivery - Best Pizza Places in Austin 2026",
+    "name": "ᐅ Austin Pizza Delivery - Best Pizza Places in Austin 2026",
     "slug": "austinpizzadelivery-bestpizzaplacesinaus",
     "category": "pizza",
     "metros": [
@@ -1602,22 +1270,12 @@
     "websiteOrderUrl": "https://slicelife.com/pizza-delivery/tx-austin"
   },
   {
-    "name": "Kom\u00e9",
+    "name": "Komé",
     "slug": "kom",
     "category": "restaurant",
     "metros": [
       "austin"
-    ],
-    "websiteOrderUrl": "https://kome-austin.getbento.com/"
-  },
-  {
-    "name": "Best Restaurant Websites - Texas",
-    "slug": "bestrestaurantwebsites-texas",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-texas/"
+    ]
   },
   {
     "name": "Texas Honey Ham Company - Restaurant in Austin, TX",
@@ -1627,15 +1285,6 @@
       "austin"
     ],
     "websiteOrderUrl": "https://texashoneyham.getbento.com/catering-store-v2/"
-  },
-  {
-    "name": "The Best Restaurant Websites in Austin",
-    "slug": "thebestrestaurantwebsitesinaustin",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-austin/"
   },
   {
     "name": "Kababeque",
@@ -1670,8 +1319,7 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/the-best-online-ordering-system-for-restaurants/"
+    ]
   },
   {
     "name": "Restaurant Online Ordering",
@@ -1697,8 +1345,7 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/direct-online-ordering-system-for-restaurants/"
+    ]
   },
   {
     "name": "Take Online Orders Through Facebook & Instagram",
@@ -1706,8 +1353,7 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/facebook-instagram-online-order-now/"
+    ]
   },
   {
     "name": "Dine-in ordering",
@@ -1724,8 +1370,7 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/why-we-built-restaurant-pre-order-catering/"
+    ]
   },
   {
     "name": "Assistance and Resource Guide for Restaurants",
@@ -1733,22 +1378,20 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/assistance-and-resource-guide-for-restaurants/"
+    ]
   },
   {
     "name": "Looking For Delivery Fulfillment For Your Restaurant?",
     "slug": "lookingfordeliveryfulfillmentforyourrest",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "austin"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/benefits-of-delivery-fulfillment-for-restaurants/"
+    ]
   },
   {
     "name": "Takeout & Delivery",
     "slug": "takeoutdelivery",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "austin"
     ],
@@ -1802,7 +1445,7 @@
   {
     "name": "FRESH BOWL - Austin, TX",
     "slug": "freshbowl-austintx",
-    "category": "restaurant",
+    "category": "healthy",
     "metros": [
       "austin"
     ],
@@ -1829,7 +1472,7 @@
   {
     "name": "SOUTHERN HANDS AUSTIN PEAY - MEMPHIS, TN",
     "slug": "southernhandsaustinpeay-memphistn",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "austin"
     ],
@@ -1856,7 +1499,7 @@
   {
     "name": "BROOKLYN BREAKFAST SHOP - AUSTIN, TX - Clover",
     "slug": "brooklynbreakfastshop-austintx-clover",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "austin"
     ],
@@ -1874,7 +1517,7 @@
   {
     "name": "HABESHAH ETHIOPIAN RESTAURANT AND BAR",
     "slug": "habeshahethiopianrestaurantandbar",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "austin"
     ],
@@ -1910,7 +1553,7 @@
   {
     "name": "AUSTEA - AUSTIN, TX",
     "slug": "austea-austintx",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "austin"
     ],
@@ -1937,7 +1580,7 @@
   {
     "name": "Poke House Research Blvd",
     "slug": "pokehouseresearchblvd",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "austin"
     ],
@@ -1946,7 +1589,7 @@
   {
     "name": "Poke House Mueller",
     "slug": "pokehousemueller",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "austin"
     ],
@@ -1955,7 +1598,7 @@
   {
     "name": "Poke House Round Rock",
     "slug": "pokehouseroundrock",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "austin"
     ],
@@ -1964,7 +1607,7 @@
   {
     "name": "Poke-Poke 2601 East Cesar Chavez Street",
     "slug": "poke-poke2601eastcesarchavezstreet",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "austin"
     ],
@@ -1973,7 +1616,7 @@
   {
     "name": "Poke House Bee Cave Road",
     "slug": "pokehousebeecaveroad",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "austin"
     ],
@@ -2000,7 +1643,7 @@
   {
     "name": "NEW Siesta Poke 5206 Ocean Boulevard",
     "slug": "newsiestapoke5206oceanboulevard",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "austin"
     ],
@@ -2009,7 +1652,7 @@
   {
     "name": "Poke Poke West Loop",
     "slug": "pokepokewestloop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "austin"
     ],
@@ -2018,7 +1661,7 @@
   {
     "name": "Poke Poke Streeterville",
     "slug": "pokepokestreeterville",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "austin"
     ],
@@ -2027,7 +1670,7 @@
   {
     "name": "Poke OG - Downtown POKE OG DOWNTOWN",
     "slug": "pokeog-downtownpokeogdowntown",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "austin"
     ],
@@ -2189,7 +1832,7 @@
   {
     "name": "Radiant Juice + Smoothie Bar 702 Main St., Suite 103",
     "slug": "radiantjuicesmoothiebar702mainstsuite103",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "austin"
     ],
@@ -2207,7 +1850,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "austin"
     ],
@@ -2216,25 +1859,16 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "austin"
     ],
     "toastUrl": "https://order.toasttab.com/online/juice-world-89-passaic-st"
   },
   {
-    "name": "Online Ordering for Restaurants with No Commissions",
-    "slug": "onlineorderingforrestaurantswithnocommis",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/34489/locations/52141"
-  },
-  {
     "name": "La Traviata",
     "slug": "latraviata",
-    "category": "italian",
+    "category": "restaurant",
     "metros": [
       "austin"
     ],
@@ -2243,7 +1877,7 @@
   {
     "name": "Casa Tulum",
     "slug": "casatulum",
-    "category": "mexican",
+    "category": "restaurant",
     "metros": [
       "austin"
     ],
@@ -2261,7 +1895,7 @@
   {
     "name": "Fire Bowl Cafe",
     "slug": "firebowlcafe",
-    "category": "asian",
+    "category": "cafe",
     "metros": [
       "austin"
     ],
@@ -2279,7 +1913,7 @@
   {
     "name": "Mr. Chingon",
     "slug": "mrchingon",
-    "category": "mexican",
+    "category": "restaurant",
     "metros": [
       "austin"
     ],
@@ -2297,7 +1931,7 @@
   {
     "name": "Tropicana Cuban",
     "slug": "tropicanacuban",
-    "category": "cuban",
+    "category": "latin",
     "metros": [
       "austin"
     ],
@@ -2306,14 +1940,14 @@
   {
     "name": "Foreign & Domestic",
     "slug": "foreigndomestic",
-    "category": "american",
+    "category": "restaurant",
     "metros": [
       "austin"
     ],
     "toastUrl": "https://foreigndomestic.toast.site/"
   },
   {
-    "name": "Taco n Ma\u00edz",
+    "name": "Taco n Maíz",
     "slug": "taconmaiz",
     "category": "mexican",
     "metros": [
@@ -2324,7 +1958,7 @@
   {
     "name": "Ovenbird",
     "slug": "ovenbird",
-    "category": "american",
+    "category": "restaurant",
     "metros": [
       "austin"
     ],
@@ -2333,7 +1967,7 @@
   {
     "name": "Om-Le Road",
     "slug": "omleroad",
-    "category": "thai",
+    "category": "restaurant",
     "metros": [
       "austin"
     ],
@@ -2342,7 +1976,7 @@
   {
     "name": "Spread & Co.",
     "slug": "spreadco",
-    "category": "cafe",
+    "category": "restaurant",
     "metros": [
       "austin"
     ],
@@ -2351,7 +1985,7 @@
   {
     "name": "The Lokal Restaurant",
     "slug": "thelokal",
-    "category": "american",
+    "category": "restaurant",
     "metros": [
       "austin"
     ],
@@ -2360,7 +1994,7 @@
   {
     "name": "Relish Restaurant & Bar",
     "slug": "relish",
-    "category": "american",
+    "category": "restaurant",
     "metros": [
       "austin"
     ],
@@ -2369,7 +2003,7 @@
   {
     "name": "East Side Pies",
     "slug": "eastsidepies",
-    "category": "pizza",
+    "category": "restaurant",
     "metros": [
       "austin"
     ],
@@ -2378,7 +2012,7 @@
   {
     "name": "The Front Page",
     "slug": "thefrontpage",
-    "category": "sandwiches",
+    "category": "restaurant",
     "metros": [
       "austin"
     ],
@@ -2387,7 +2021,7 @@
   {
     "name": "Cedar Park Cafe",
     "slug": "cedarparkcafe",
-    "category": "american",
+    "category": "cafe",
     "metros": [
       "austin"
     ],
@@ -2405,7 +2039,7 @@
   {
     "name": "Aladdin Halal Grill",
     "slug": "aladdinhalal",
-    "category": "halal",
+    "category": "restaurant",
     "metros": [
       "austin"
     ],
@@ -2423,7 +2057,7 @@
   {
     "name": "Tejas Birria",
     "slug": "tejasbirria",
-    "category": "mexican",
+    "category": "restaurant",
     "metros": [
       "austin"
     ],
@@ -2450,7 +2084,7 @@
   {
     "name": "P. Terrys",
     "slug": "pterrys",
-    "category": "burgers",
+    "category": "restaurant",
     "metros": [
       "austin"
     ],
@@ -2467,7 +2101,7 @@
   {
     "name": "HEB Curbside",
     "slug": "heb",
-    "category": "grocery",
+    "category": "restaurant",
     "metros": [
       "austin"
     ],
@@ -2511,7 +2145,7 @@
   {
     "name": "Hopdoddy",
     "slug": "hopdoddy",
-    "category": "burgers",
+    "category": "restaurant",
     "metros": [
       "austin"
     ],
@@ -2528,7 +2162,7 @@
   {
     "name": "Cabo Bobs",
     "slug": "cabobobs",
-    "category": "mexican",
+    "category": "restaurant",
     "metros": [
       "austin"
     ]
@@ -2544,7 +2178,7 @@
   {
     "name": "Chuy\\",
     "slug": "chuys",
-    "category": "mexican",
+    "category": "restaurant",
     "metros": [
       "austin"
     ],
@@ -2570,7 +2204,7 @@
   {
     "name": "Uchi",
     "slug": "uchi",
-    "category": "japanese",
+    "category": "restaurant",
     "metros": [
       "austin"
     ]
@@ -2578,7 +2212,7 @@
   {
     "name": "Suerte",
     "slug": "suerte",
-    "category": "mexican",
+    "category": "restaurant",
     "metros": [
       "austin"
     ]
@@ -2586,7 +2220,7 @@
   {
     "name": "Veracruz All Natural",
     "slug": "veracruz",
-    "category": "mexican",
+    "category": "restaurant",
     "metros": [
       "austin"
     ]
@@ -2602,7 +2236,7 @@
   {
     "name": "Loro",
     "slug": "loro",
-    "category": "bbq",
+    "category": "restaurant",
     "metros": [
       "austin"
     ]
@@ -2658,7 +2292,7 @@
   {
     "name": "The Picnic",
     "slug": "thepicnic",
-    "category": "food-trucks",
+    "category": "restaurant",
     "metros": [
       "austin"
     ]
@@ -2666,7 +2300,7 @@
   {
     "name": "Favor",
     "slug": "favor",
-    "category": "delivery",
+    "category": "restaurant",
     "metros": [
       "austin"
     ]
@@ -2674,7 +2308,7 @@
   {
     "name": "Halal Bros",
     "slug": "halalbros",
-    "category": "halal",
+    "category": "restaurant",
     "metros": [
       "austin"
     ]
@@ -2685,8 +2319,7 @@
     "category": "chinese",
     "metros": [
       "austin"
-    ],
-    "websiteOrderUrl": "https://www.tsochinese.com/"
+    ]
   },
   {
     "name": "Wasota African Cuisine",
@@ -2707,7 +2340,7 @@
   {
     "name": "El Pollo Regio",
     "slug": "elpolloregio",
-    "category": "chicken",
+    "category": "restaurant",
     "metros": [
       "austin"
     ]
@@ -2715,7 +2348,7 @@
   {
     "name": "Tyson\\",
     "slug": "tysonstacos",
-    "category": "mexican",
+    "category": "restaurant",
     "metros": [
       "austin"
     ]
@@ -2723,7 +2356,7 @@
   {
     "name": "Chi\\",
     "slug": "chilantro",
-    "category": "korean",
+    "category": "restaurant",
     "metros": [
       "austin"
     ],
@@ -2732,7 +2365,7 @@
   {
     "name": "Pueblo Viejo",
     "slug": "puebloviejo",
-    "category": "mexican",
+    "category": "restaurant",
     "metros": [
       "austin"
     ]
@@ -2740,7 +2373,7 @@
   {
     "name": "Paperboy",
     "slug": "paperboy",
-    "category": "breakfast",
+    "category": "restaurant",
     "metros": [
       "austin"
     ]
@@ -2756,7 +2389,7 @@
   {
     "name": "Sap\\",
     "slug": "sapsfinethai",
-    "category": "thai",
+    "category": "restaurant",
     "metros": [
       "austin"
     ]
@@ -2764,7 +2397,7 @@
   {
     "name": "Din Ho Chinese BBQ",
     "slug": "dinho",
-    "category": "chinese",
+    "category": "bbq",
     "metros": [
       "austin"
     ]
@@ -2772,7 +2405,7 @@
   {
     "name": "Bouldin Creek Cafe",
     "slug": "bouldincreek",
-    "category": "vegetarian",
+    "category": "cafe",
     "metros": [
       "austin"
     ]
@@ -2780,7 +2413,7 @@
   {
     "name": "Counter Cafe",
     "slug": "countercafe",
-    "category": "breakfast",
+    "category": "cafe",
     "metros": [
       "austin"
     ]
@@ -2788,7 +2421,7 @@
   {
     "name": "Grizzeldas",
     "slug": "grizzeldas",
-    "category": "mexican",
+    "category": "restaurant",
     "metros": [
       "austin"
     ]
@@ -2796,7 +2429,7 @@
   {
     "name": "Mandola\\",
     "slug": "mandolas",
-    "category": "italian",
+    "category": "restaurant",
     "metros": [
       "austin"
     ]
@@ -2804,7 +2437,7 @@
   {
     "name": "Arpeggio Grill",
     "slug": "arpeggiogrill",
-    "category": "mediterranean",
+    "category": "breakfast",
     "metros": [
       "austin"
     ]
@@ -2828,7 +2461,7 @@
   {
     "name": "Lucky Robot",
     "slug": "luckyrobot",
-    "category": "japanese",
+    "category": "restaurant",
     "metros": [
       "austin"
     ]
@@ -2836,7 +2469,7 @@
   {
     "name": "Aba",
     "slug": "aba",
-    "category": "mediterranean",
+    "category": "restaurant",
     "metros": [
       "austin"
     ]
@@ -2844,7 +2477,7 @@
   {
     "name": "Blue Corn Harvest",
     "slug": "bluecornharvest",
-    "category": "southwestern",
+    "category": "restaurant",
     "metros": [
       "austin"
     ],

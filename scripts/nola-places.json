@@ -98,8 +98,7 @@
     ],
     "address": "144 Bourbon St",
     "placeId": "ChIJs_quaAymIIYRUwRs2-LHWqA",
-    "website": "http://bourbonhouse.com/",
-    "websiteOrderUrl": "https://media-cdn.getbento.com/eO3JbrnuRtuGTkRMXBq6_oystrmrk.png"
+    "website": "http://bourbonhouse.com/"
   },
   {
     "name": "Luke",
@@ -116,7 +115,7 @@
   {
     "name": "zesty creole",
     "slug": "zestycreole",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "nola"
     ],
@@ -127,7 +126,7 @@
   {
     "name": "Mulate's | The Original Cajun Restaurant",
     "slug": "mulatestheoriginalcajunrestaurant",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "nola"
     ],
@@ -184,7 +183,7 @@
   {
     "name": "Hot N Cajun Boil House",
     "slug": "hotncajunboilhouse",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "nola"
     ],
@@ -358,7 +357,7 @@
   {
     "name": "Beggars Banquet",
     "slug": "beggarsbanquet",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "nola"
     ],
@@ -449,7 +448,7 @@
   {
     "name": "Bratz Y'all! Bistro • Bakery • Biergarten",
     "slug": "bratzyallbistrobakerybiergarten",
-    "category": "french",
+    "category": "bakery",
     "metros": [
       "nola"
     ],
@@ -480,7 +479,7 @@
   {
     "name": "Social Peruvian Restaurant New Orleans",
     "slug": "socialperuvianrestaurantneworleans",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "nola"
     ],
@@ -513,7 +512,7 @@
   {
     "name": "Bistro Daisy",
     "slug": "bistrodaisy",
-    "category": "french",
+    "category": "restaurant",
     "metros": [
       "nola"
     ],
@@ -523,7 +522,7 @@
   {
     "name": "Baru Bistro & Tapas",
     "slug": "barubistrotapas",
-    "category": "french",
+    "category": "restaurant",
     "metros": [
       "nola"
     ],
@@ -551,15 +550,6 @@
     "toastUrl": "https://order.toasttab.com/online/the-real-new-orleans-style-restaurant-1700-fm-1431"
   },
   {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/sofia-new-orleans"
-  },
-  {
     "name": "Way Down Yonder New Orleans Finest Restaurant",
     "slug": "waydownyonderneworleansfinestrestaurant",
     "category": "restaurant",
@@ -574,8 +564,7 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ],
-    "websiteOrderUrl": "https://the-quarter-on-spring-restaurant.popmenu.com/"
+    ]
   },
   {
     "name": "How to set up online food ordering in an afternoon",
@@ -583,8 +572,7 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
+    ]
   },
   {
     "name": "5 ways to ramp up your restaurant online ordering system",
@@ -592,62 +580,7 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-online-ordering-system"
-  },
-  {
-    "name": "Popmenu - New",
-    "slug": "popmenu-new",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/every-restaurant-needs-interactive-menu"
-  },
-  {
-    "name": "Popmenu: Case Study - The Hampton Social",
-    "slug": "popmenucasestudy-thehamptonsocial",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/the-hampton-social"
-  },
-  {
-    "name": "Key Strategies To Growing Your Restaurant In A Competitive Market",
-    "slug": "keystrategiestogrowingyourrestaurantinac",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/key-strategies-to-growing-your-restaurant-in-a-competitive-market"
-  },
-  {
-    "name": "ACS",
-    "slug": "acs",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://affordable-catering.popmenu.com/"
-  },
-  {
-    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
-    "slug": "popmenutoolkittherestaurantgrowthplayboo",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
-  },
-  {
-    "name": "Tech the Halls with Popmenu",
-    "slug": "techthehallswithpopmenu",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/tech-the-halls-reach-more-guests"
+    ]
   },
   {
     "name": "Online Food Ordering System & App",
@@ -657,42 +590,6 @@
       "nola"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/14997/locations"
-  },
-  {
-    "name": "Online Ordering for Restaurants with No Commissions",
-    "slug": "onlineorderingforrestaurantswithnocommis",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5276/locations"
-  },
-  {
-    "name": "Online Ordering for Thai Taste | Powered By ChowNow",
-    "slug": "onlineorderingforthaitastepoweredbychown",
-    "category": "thai",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/8478/locations"
-  },
-  {
-    "name": "Online ordering competitors every restaurant should know",
-    "slug": "onlineorderingcompetitorseveryrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know"
-  },
-  {
-    "name": "6 Best Popmenu Competitors to Consider (Pros & Cons)",
-    "slug": "6bestpopmenucompetitorstoconsiderproscon",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons"
   },
   {
     "name": "New Orleans Hamburger & Seafood Company",
@@ -850,7 +747,7 @@
   {
     "name": "Nova Espresso New Orleans",
     "slug": "novaespressoneworleans",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "nola"
     ],
@@ -1147,7 +1044,7 @@
   {
     "name": "The Rum House Caribbean Taqueria 3128 Magazine Street",
     "slug": "therumhousecaribbeantaqueria3128magazine",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "nola"
     ],
@@ -1237,11 +1134,10 @@
   {
     "name": "Hoboken Trós Greek Street Food",
     "slug": "hobokentrsgreekstreetfood",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "nola"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/www.trosgrk.com"
+    ]
   },
   {
     "name": "Union Sandwich Co. 101 North Union Street",
@@ -1471,7 +1367,7 @@
   {
     "name": "KING'S HAWAIIAN - THE LOCAL PLACE (Western)",
     "slug": "kingshawaiian-thelocalplacewestern",
-    "category": "restaurant",
+    "category": "hawaiian",
     "metros": [
       "nola"
     ],
@@ -1480,7 +1376,7 @@
   {
     "name": "Onos Hawaiian at Artspace",
     "slug": "onoshawaiianatartspace",
-    "category": "restaurant",
+    "category": "hawaiian",
     "metros": [
       "nola"
     ],
@@ -1489,7 +1385,7 @@
   {
     "name": "Homestyle Hawaiian Tierrasanta",
     "slug": "homestylehawaiiantierrasanta",
-    "category": "restaurant",
+    "category": "hawaiian",
     "metros": [
       "nola"
     ],
@@ -1498,7 +1394,7 @@
   {
     "name": "NOLA CAJUN KITCHEN",
     "slug": "nolacajunkitchen",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "nola"
     ],
@@ -1516,7 +1412,7 @@
   {
     "name": "Order Online – Delivery & Pick-Up",
     "slug": "orderonlinedeliverypick-up",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "nola"
     ],
@@ -1525,7 +1421,7 @@
   {
     "name": "Cuban Kitchen, home of the Best Cubano",
     "slug": "cubankitchenhomeofthebestcubano",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "nola"
     ],
@@ -1534,7 +1430,7 @@
   {
     "name": "Paladar Cuban Eatery",
     "slug": "paladarcubaneatery",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "nola"
     ],
@@ -1543,7 +1439,7 @@
   {
     "name": "Baracoa Cuban Restaurant",
     "slug": "baracoacubanrestaurant",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "nola"
     ],
@@ -1561,7 +1457,7 @@
   {
     "name": "Guajiro Cuban Comfort Food",
     "slug": "guajirocubancomfortfood",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "nola"
     ],
@@ -1570,7 +1466,7 @@
   {
     "name": "Cuban Paradise Cigar & Café",
     "slug": "cubanparadisecigarcaf",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "nola"
     ],
@@ -1579,7 +1475,7 @@
   {
     "name": "Box of Cubans - New Tampa",
     "slug": "boxofcubans-newtampa",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "nola"
     ],
@@ -1588,7 +1484,7 @@
   {
     "name": "Peninsula Soul Food 4611 36th Ave SW",
     "slug": "peninsulasoulfood461136thavesw",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "nola"
     ],
@@ -1597,7 +1493,7 @@
   {
     "name": "The Soul Food Bistro - Westside 5310 Lenox Ave suite 1",
     "slug": "thesoulfoodbistro-westside5310lenoxavesu",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "nola"
     ],
@@ -1642,7 +1538,7 @@
   {
     "name": "Patricia Soul Food 194 S. Hanover st Suite 101",
     "slug": "patriciasoulfood194shanoverstsuite101",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "nola"
     ],
@@ -1651,7 +1547,7 @@
   {
     "name": "L&G Southern Soul Food",
     "slug": "lgsouthernsoulfood",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "nola"
     ],
@@ -1660,7 +1556,7 @@
   {
     "name": "Lady Sharon's Soul Food Kitchen",
     "slug": "ladysharonssoulfoodkitchen",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "nola"
     ],
@@ -1705,7 +1601,7 @@
   {
     "name": "6978 Soul Food",
     "slug": "6978soulfood",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "nola"
     ],
@@ -1726,26 +1622,7 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ],
-    "websiteOrderUrl": "https://blue-bayou.popmenu.com/"
-  },
-  {
-    "name": "Popmenu: Case Study - Locals Pub & Pizzeria",
-    "slug": "popmenucasestudy-localspubpizzeria",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/improving-margins/locals-pub-pizzeria"
-  },
-  {
-    "name": "Popmenu: Case Study - Dos Salsas",
-    "slug": "popmenucasestudy-dossalsas",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
+    ]
   },
   {
     "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
@@ -1753,58 +1630,12 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
-  },
-  {
-    "name": "5 menu design Ideas for digital-first restaurants",
-    "slug": "5menudesignideasfordigital-firstrestaura",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
-  },
-  {
-    "name": "Popmenu: Case Study - Taqueria Picoso",
-    "slug": "popmenucasestudy-taqueriapicoso",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/more-guests-larger-orders/taqueria-picoso"
-  },
-  {
-    "name": "Popmenu: Case Study - The Deck",
-    "slug": "popmenucasestudy-thedeck",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/the-deck"
-  },
-  {
-    "name": "Popmenu: Case Study - Phat Eatery",
-    "slug": "popmenucasestudy-phateatery",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/phat-eatery"
+    ]
   },
   {
     "name": "New Orleans Style Seafood Restaurant & Market",
     "slug": "neworleansstyleseafoodrestaurantmarket",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "nola"
     ],
@@ -1849,7 +1680,7 @@
   {
     "name": "Cajun, Creole, and New Orleans, Louisiana Food",
     "slug": "cajuncreoleandneworleanslouisianafood",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "nola"
     ],
@@ -1892,112 +1723,12 @@
     "squareUrl": "https://nayosrestaurant.square.site/"
   },
   {
-    "name": "New Orleans, LA - Delivery & Takeout",
-    "slug": "neworleansla-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/LA/New%20Orleans"
-  },
-  {
     "name": "New Orleans Trap Kitchen: Home",
     "slug": "neworleanstrapkitchenhome",
     "category": "restaurant",
     "metros": [
       "nola"
-    ],
-    "websiteOrderUrl": "https://neworleanstrapkitchen.menufy.com/"
-  },
-  {
-    "name": "Mexican in New Orleans, LA - Delivery & Takeout",
-    "slug": "mexicaninneworleansla-deliverytakeout",
-    "category": "mexican",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/LA/New%20Orleans/Mexican"
-  },
-  {
-    "name": "Restaurants - Delivery & Takeout",
-    "slug": "restaurants-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://cafedauphine.menufy.com/"
-  },
-  {
-    "name": "Tulsa, OK - Delivery & Takeout",
-    "slug": "tulsaok-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OK/Tulsa"
-  },
-  {
-    "name": "Baton Rouge, LA - Delivery & Takeout",
-    "slug": "batonrougela-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/LA/Baton%20Rouge"
-  },
-  {
-    "name": "Shreveport, LA - Delivery & Takeout",
-    "slug": "shreveportla-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/LA/Shreveport"
-  },
-  {
-    "name": "METAIRIE, LA - Delivery & Takeout",
-    "slug": "metairiela-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/LA/METAIRIE"
-  },
-  {
-    "name": "Mediterranean in Towson, MD - Delivery & Takeout",
-    "slug": "mediterraneanintowsonmd-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MD/Towson/Mediterranean"
-  },
-  {
-    "name": "Destrehan, LA - Delivery & Takeout",
-    "slug": "destrehanla-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/LA/Destrehan"
-  },
-  {
-    "name": "Oklahoma City, OK - Delivery & Takeout",
-    "slug": "oklahomacityok-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OK/Oklahoma%20City"
-  },
-  {
-    "name": "TALLAHASSEE, FL - Delivery & Takeout",
-    "slug": "tallahasseefl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/TALLAHASSEE"
+    ]
   },
   {
     "name": "New Restaurant Bank Deposits Schedule",
@@ -2009,31 +1740,12 @@
     "websiteOrderUrl": "https://restaurant.menufy.com/article/2013/new-deposits-schedule"
   },
   {
-    "name": "ANGOLA, NY - Delivery & Takeout",
-    "slug": "angolany-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NY/ANGOLA"
-  },
-  {
-    "name": "MESQUITE, TX - Delivery & Takeout",
-    "slug": "mesquitetx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/MESQUITE"
-  },
-  {
     "name": "Online Ordering and Restaurant Marketing System",
     "slug": "onlineorderingandrestaurantmarketingsyst",
     "category": "restaurant",
     "metros": [
       "nola"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/"
+    ]
   },
   {
     "name": "The State Of The Restaurant Industry In 2023 (Free Report)",
@@ -2041,17 +1753,7 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/blog/restaurant-industry"
-  },
-  {
-    "name": "Pricing",
-    "slug": "pricing",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/pricing"
+    ]
   },
   {
     "name": "Restaurant Website Builder with AI",
@@ -2090,15 +1792,6 @@
     "websiteOrderUrl": "https://www.owner.com/how-owner-works"
   },
   {
-    "name": "No Commission Delivery for Restaurants",
-    "slug": "nocommissiondeliveryforrestaurants",
-    "category": "restaurant",
-    "metros": [
-      "nola"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/delivery"
-  },
-  {
     "name": "Restaurant Online Ordering System",
     "slug": "restaurantonlineorderingsystem",
     "category": "restaurant",
@@ -2122,8 +1815,7 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/blog"
+    ]
   },
   {
     "name": "RestaurantGPT",
@@ -2191,7 +1883,7 @@
   {
     "name": "Kingfish",
     "slug": "kingfish",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "nola"
     ],
@@ -2263,7 +1955,7 @@
   {
     "name": "Five Guys New Orleans",
     "slug": "fiveguysneworleans",
-    "category": "restaurant",
+    "category": "burgers",
     "metros": [
       "nola"
     ],
@@ -2302,8 +1994,7 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ],
-    "websiteOrderUrl": "https://43northrestaurant.olo.com/"
+    ]
   },
   {
     "name": "Best Breakfast, Burgers & Coffee in New Orleans",
@@ -2347,13 +2038,12 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ],
-    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/7d089e0f8eb87240a6af8ffe6cd557b3/media/press_clippings/71Vq6NnETR2tE2ScleNw_top-10-new-orleans-restaurants.html"
+    ]
   },
   {
     "name": "District Donuts",
     "slug": "districtdonuts",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "nola"
     ],
@@ -2362,7 +2052,7 @@
   {
     "name": "Online Ordering",
     "slug": "onlineordering",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "nola"
     ],
@@ -2392,13 +2082,12 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ],
-    "websiteOrderUrl": "https://habanaoutpost.getbento.com/"
+    ]
   },
   {
     "name": "Peewee's Crab Cakes",
     "slug": "peeweescrabcakes",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "nola"
     ],
@@ -2410,8 +2099,7 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ],
-    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/a12e42755dcdefa74a55223378d8289b/media/PdgbMpFCRAuapsDTV6uC_BH%20Opening%20Release%20for%20Website.pdf"
+    ]
   },
   {
     "name": "Restaurant Online Ordering",
@@ -2428,17 +2116,15 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/the-best-online-ordering-system-for-restaurants/"
+    ]
   },
   {
     "name": "BentoBox Presents: Hospitality Now",
     "slug": "bentoboxpresentshospitalitynow",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "nola"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/hospitality-now/"
+    ]
   },
   {
     "name": "Which Restaurant Reservation System Should You Use?",
@@ -2446,8 +2132,7 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/online-restaurant-reservation-systems/"
+    ]
   },
   {
     "name": "Direct Online Ordering System Advantages for Restaurants",
@@ -2455,8 +2140,7 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/direct-online-ordering-system-for-restaurants/"
+    ]
   },
   {
     "name": "Restaurant Catering Software",
@@ -2515,7 +2199,7 @@
   {
     "name": "NONNO'S CAJUN CUISINE - NEW ORLEANS, LA",
     "slug": "nonnoscajuncuisine-neworleansla",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "nola"
     ],
@@ -2554,13 +2238,12 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ],
-    "websiteOrderUrl": "https://blog.clover.com/"
+    ]
   },
   {
     "name": "Clover’s got restaurant delivery covered: 4 services to try",
     "slug": "cloversgotrestaurantdeliverycovered4serv",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "nola"
     ],
@@ -2596,7 +2279,7 @@
   {
     "name": "Poke Poke Loop (Palmer House)",
     "slug": "pokepokelooppalmerhouse",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "nola"
     ],
@@ -2605,7 +2288,7 @@
   {
     "name": "Poke Poke Streeterville",
     "slug": "pokepokestreeterville",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "nola"
     ],
@@ -2614,7 +2297,7 @@
   {
     "name": "Poke OG - Downtown POKE OG DOWNTOWN",
     "slug": "pokeog-downtownpokeogdowntown",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "nola"
     ],
@@ -2623,7 +2306,7 @@
   {
     "name": "Poke Burri 3231 powelton ave",
     "slug": "pokeburri3231poweltonave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "nola"
     ],
@@ -2641,7 +2324,7 @@
   {
     "name": "NEW Siesta Poke 5206 Ocean Boulevard",
     "slug": "newsiestapoke5206oceanboulevard",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "nola"
     ],
@@ -2650,7 +2333,7 @@
   {
     "name": "Poke Poke West Loop",
     "slug": "pokepokewestloop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "nola"
     ],
@@ -2659,7 +2342,7 @@
   {
     "name": "Poke OG @ 1800 143 NW 23 ST",
     "slug": "pokeog1800143nw23st",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "nola"
     ],
@@ -2668,7 +2351,7 @@
   {
     "name": "Seaside Poke Understory",
     "slug": "seasidepokeunderstory",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "nola"
     ],
@@ -2677,7 +2360,7 @@
   {
     "name": "Poke Fresh Churned - PF Howell",
     "slug": "pokefreshchurned-pfhowell",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "nola"
     ],
@@ -2686,7 +2369,7 @@
   {
     "name": "Poke Burrito Astoria 37-07 30th Ave.",
     "slug": "pokeburritoastoria37-0730thave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "nola"
     ],
@@ -2695,7 +2378,7 @@
   {
     "name": "Poke Row 2735 NW Crossing Dr #105",
     "slug": "pokerow2735nwcrossingdr105",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "nola"
     ],
@@ -2704,7 +2387,7 @@
   {
     "name": "Poke Cafe - West Ashley Location and Ordering Hours",
     "slug": "pokecafe-westashleylocationandorderingho",
-    "category": "cafe",
+    "category": "japanese",
     "metros": [
       "nola"
     ],
@@ -2713,7 +2396,7 @@
   {
     "name": "poke cafe - fayetteville",
     "slug": "pokecafe-fayetteville",
-    "category": "cafe",
+    "category": "japanese",
     "metros": [
       "nola"
     ],
@@ -2722,7 +2405,7 @@
   {
     "name": "Poke Spot Manchester",
     "slug": "pokespotmanchester",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "nola"
     ],
@@ -2731,7 +2414,7 @@
   {
     "name": "Manoa Poke Shop",
     "slug": "manoapokeshop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "nola"
     ],
@@ -2749,7 +2432,7 @@
   {
     "name": "Poke-City Cambridge 1722 Massachusetts Avenue",
     "slug": "poke-citycambridge1722massachusettsavenu",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "nola"
     ],
@@ -2875,7 +2558,7 @@
   {
     "name": "Mr. Greek of Buffalo 1122 Elmwood Ave.",
     "slug": "mrgreekofbuffalo1122elmwoodave",
-    "category": "mediterranean",
+    "category": "wings",
     "metros": [
       "nola"
     ],
@@ -2965,7 +2648,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "nola"
     ],
@@ -2974,7 +2657,7 @@
   {
     "name": "Radiant Juice + Smoothie Bar 702 Main St., Suite 103",
     "slug": "radiantjuicesmoothiebar702mainstsuite103",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "nola"
     ],
@@ -2983,7 +2666,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "nola"
     ],
@@ -2992,7 +2675,7 @@
   {
     "name": "Juice For Life New Hyde Park",
     "slug": "juiceforlifenewhydepark",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "nola"
     ],
@@ -3001,7 +2684,7 @@
   {
     "name": "Juice Crafters Downtown LA",
     "slug": "juicecraftersdowntownla",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "nola"
     ],
@@ -3010,7 +2693,7 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "nola"
     ],
@@ -3028,7 +2711,7 @@
   {
     "name": "Juva Juice Highland Village Juva Juice- Jackson",
     "slug": "juvajuicehighlandvillagejuvajuice-jackso",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "nola"
     ],
@@ -3037,7 +2720,7 @@
   {
     "name": "Base Smoothies + Juice Frisco Frisco",
     "slug": "basesmoothiesjuicefriscofrisco",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "nola"
     ],

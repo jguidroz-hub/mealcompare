@@ -75,20 +75,18 @@
     ],
     "address": "8400 Santa Monica Blvd",
     "placeId": "ChIJG1JMPbm-woARxO_a-oFFDck",
-    "website": "http://labohemeweho.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "http://labohemeweho.com/"
   },
   {
     "name": "Superba Food + Bread Hollywood",
     "slug": "superbafoodbreadhollywood",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "la"
     ],
     "address": "6530 Sunset Blvd",
     "placeId": "ChIJa8iBzvq_woARBT8YLSK_h-s",
-    "website": "https://www.lifesuperba.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "https://www.lifesuperba.com/"
   },
   {
     "name": "The Little Door",
@@ -246,8 +244,7 @@
     ],
     "address": "1920 Hyperion Ave",
     "placeId": "ChIJo_w0jDXHwoARJqN9IGss68Q",
-    "website": "http://casitadelcampo.net/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "http://casitadelcampo.net/"
   },
   {
     "name": "Javier's",
@@ -275,7 +272,7 @@
   {
     "name": "Hae Jang Chon Korean BBQ Restaurant",
     "slug": "haejangchonkoreanbbqrestaurant",
-    "category": "korean",
+    "category": "bbq",
     "metros": [
       "la"
     ],
@@ -307,7 +304,7 @@
   {
     "name": "Hanu K BBQ",
     "slug": "hanukbbq",
-    "category": "korean",
+    "category": "bbq",
     "metros": [
       "la"
     ],
@@ -318,7 +315,7 @@
   {
     "name": "Park's BBQ",
     "slug": "parksbbq",
-    "category": "korean",
+    "category": "bbq",
     "metros": [
       "la"
     ],
@@ -429,7 +426,7 @@
   {
     "name": "Izakaya Osen",
     "slug": "izakayaosen",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "la"
     ],
@@ -446,8 +443,7 @@
     ],
     "address": "2815 Sunset Blvd",
     "placeId": "ChIJZ51JDYPHwoARpGunSth6oME",
-    "website": "https://www.tacolina.la/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "https://www.tacolina.la/"
   },
   {
     "name": "Ceviche Project",
@@ -469,8 +465,7 @@
     ],
     "address": "3909 Sunset Blvd",
     "placeId": "ChIJlWQz40jHwoARksV_oqyYK5o",
-    "website": "https://theblackcatla.getbento.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/fuji/73f2977.fuji/assets/js/head.min.js"
+    "website": "https://theblackcatla.getbento.com/"
   },
   {
     "name": "Santo Silverlake",
@@ -491,8 +486,7 @@
       "la"
     ],
     "placeId": "ChIJBQzSwKO7woAR0v_z1Ae-rOc",
-    "website": "https://www.bellesbeachhouse.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "https://www.bellesbeachhouse.com/"
   },
   {
     "name": "The Waterfront Venice",
@@ -650,7 +644,7 @@
   {
     "name": "Eggslut",
     "slug": "eggslut",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "la"
     ],
@@ -764,7 +758,7 @@
   {
     "name": "Meet in Paris French Bistro",
     "slug": "meetinparisfrenchbistro",
-    "category": "french",
+    "category": "restaurant",
     "metros": [
       "la"
     ]
@@ -836,7 +830,7 @@
   {
     "name": "Tsujita LA Artisan Noodles",
     "slug": "tsujitalaartisannoodles",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "la"
     ]
@@ -988,7 +982,7 @@
   {
     "name": "L.A. CRAZY CRAB",
     "slug": "lacrazycrab",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "la"
     ]
@@ -1037,14 +1031,6 @@
     "name": "Malibu Seafood",
     "slug": "malibuseafood",
     "category": "seafood",
-    "metros": [
-      "la"
-    ]
-  },
-  {
-    "name": "The Raymond 1886 - Modern American Cuisine & Craft Cocktails in Pasadena",
-    "slug": "theraymond1886-modernamericancuisinecraf",
-    "category": "restaurant",
     "metros": [
       "la"
     ]
@@ -1260,24 +1246,15 @@
   {
     "name": "Craft by Smoke and Fire",
     "slug": "craftbysmokeandfire",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "la"
     ]
   },
   {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/alltime"
-  },
-  {
     "name": "Marie Callender's Restaurant & Bakery 017 - Order Online",
     "slug": "mariecallendersrestaurantbakery017-order",
-    "category": "cafe",
+    "category": "bakery",
     "metros": [
       "la"
     ],
@@ -1298,8 +1275,7 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-online-ordering-system"
+    ]
   },
   {
     "name": "Why every restaurant needs an interactive menu",
@@ -1307,17 +1283,7 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/every-restaurant-needs-interactive-menu"
-  },
-  {
-    "name": "Key Strategies To Growing Your Restaurant In A Competitive Market",
-    "slug": "keystrategiestogrowingyourrestaurantinac",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/key-strategies-to-growing-your-restaurant-in-a-competitive-market"
+    ]
   },
   {
     "name": "4 tech-focused tips to fight rising restaurant costs",
@@ -1325,44 +1291,15 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs"
-  },
-  {
-    "name": "Tech the Halls with Popmenu",
-    "slug": "techthehallswithpopmenu",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/tech-the-halls-reach-more-guests"
-  },
-  {
-    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
-    "slug": "popmenutoolkittherestaurantgrowthplayboo",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
-  },
-  {
-    "name": "Popmenu: Case Study - Phat Eatery",
-    "slug": "popmenucasestudy-phateatery",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/phat-eatery"
+    ]
   },
   {
     "name": "Order Online - TAKENAKA - Japanese Food Truck & Co",
     "slug": "orderonline-takenaka-japanesefoodtruckco",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "la"
-    ],
-    "websiteOrderUrl": "https://takenaka.popmenu.com/"
+    ]
   },
   {
     "name": "Online Food Ordering System & App",
@@ -1374,40 +1311,12 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/13983/locations"
   },
   {
-    "name": "Online ordering competitors every restaurant should know",
-    "slug": "onlineorderingcompetitorseveryrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know"
-  },
-  {
-    "name": "6 Best Popmenu Competitors to Consider (Pros & Cons)",
-    "slug": "6bestpopmenucompetitorstoconsiderproscon",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
-  },
-  {
     "name": "How to set up online food ordering in an afternoon",
     "slug": "howtosetuponlinefoodorderinginanafternoo",
     "category": "restaurant",
     "metros": [
       "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
+    ]
   },
   {
     "name": "order-page-wrapper.order-online",
@@ -1439,7 +1348,7 @@
   {
     "name": "R&B Tea Downtown Los Angeles DTLA",
     "slug": "rbteadowntownlosangelesdtla",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "la"
     ],
@@ -1457,7 +1366,7 @@
   {
     "name": "Phoenix Inn Chinese Cuisine Los Angeles",
     "slug": "phoenixinnchinesecuisinelosangeles",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "la"
     ],
@@ -1615,15 +1524,6 @@
       "la"
     ],
     "toastUrl": "https://order.toasttab.com/online/good-day-thai-kitchen-and-cafe"
-  },
-  {
-    "name": "Online Ordering for Dulan's Soul Food Kitchen - Los Angeles",
-    "slug": "onlineorderingfordulanssoulfoodkitchen-l",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/6149/locations/8107"
   },
   {
     "name": "Order Food Online - American (New) Restaurant in Los ...",
@@ -1817,7 +1717,7 @@
   {
     "name": "Wokcano West Hollywood",
     "slug": "wokcanowesthollywood",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "la"
     ],
@@ -1889,7 +1789,7 @@
   {
     "name": "Vito's Pizzeria West Hollywood 846 N LaCienega Blvd",
     "slug": "vitospizzeriawesthollywood846nlacienegab",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "la"
     ],
@@ -1912,15 +1812,6 @@
       "la"
     ],
     "toastUrl": "https://order.toasttab.com/online/prince-st-dtla"
-  },
-  {
-    "name": "Online Ordering for Restaurants with No Commissions",
-    "slug": "onlineorderingforrestaurantswithnocommis",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/1282/locations/1693"
   },
   {
     "name": "Asian Fusion Restaurant in Woodbridge, VA - Dosirock",
@@ -2069,7 +1960,7 @@
   {
     "name": "MONICA CAFÉ 508 Santa Monica Blvd",
     "slug": "monicacaf508santamonicablvd",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "la"
     ],
@@ -2114,7 +2005,7 @@
   {
     "name": "Juice Crafters Santa Monica",
     "slug": "juicecrafterssantamonica",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "la"
     ],
@@ -2150,7 +2041,7 @@
   {
     "name": "Beach & Brew Venice",
     "slug": "beachbrewvenice",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "la"
     ],
@@ -2402,7 +2293,7 @@
   {
     "name": "Fruit and Salad Co 680 Pittsford Victor Road",
     "slug": "fruitandsaladco680pittsfordvictorroad",
-    "category": "restaurant",
+    "category": "healthy",
     "metros": [
       "la"
     ],
@@ -2411,7 +2302,7 @@
   {
     "name": "The Salad Boss FTL",
     "slug": "thesaladbossftl",
-    "category": "restaurant",
+    "category": "healthy",
     "metros": [
       "la"
     ],
@@ -2420,7 +2311,7 @@
   {
     "name": "salad world",
     "slug": "saladworld",
-    "category": "restaurant",
+    "category": "healthy",
     "metros": [
       "la"
     ],
@@ -2429,7 +2320,7 @@
   {
     "name": "305 Peruvian 261 SW 8 TH ST",
     "slug": "305peruvian261sw8thst",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "la"
     ],
@@ -2438,7 +2329,7 @@
   {
     "name": "Delicias Peruvian Kitchen",
     "slug": "deliciasperuviankitchen",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "la"
     ],
@@ -2447,7 +2338,7 @@
   {
     "name": "Lima Nation Peruvian Kitchen",
     "slug": "limanationperuviankitchen",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "la"
     ],
@@ -2456,7 +2347,7 @@
   {
     "name": "LOMITO Peruvian Food Westport",
     "slug": "lomitoperuvianfoodwestport",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "la"
     ],
@@ -2465,7 +2356,7 @@
   {
     "name": "Origen Signature Peruvian Cuisine 10000 Stirling Rd ste 8",
     "slug": "origensignatureperuviancuisine10000stirl",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "la"
     ],
@@ -2474,7 +2365,7 @@
   {
     "name": "Autentico - Real Peruvian Flavor",
     "slug": "autentico-realperuvianflavor",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "la"
     ],
@@ -2555,7 +2446,7 @@
   {
     "name": "Lala's Grill 7229 Melrose Ave – Order pickup and delivery",
     "slug": "lalasgrill7229melroseaveorderpickupandde",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "la"
     ],
@@ -2573,11 +2464,10 @@
   {
     "name": "Which delivery service is best for restaurants?",
     "slug": "whichdeliveryserviceisbestforrestaurants",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/which-delivery-service-is-best-for-restaurants"
+    ]
   },
   {
     "name": "Ivory on Sunset",
@@ -2589,76 +2479,12 @@
     "websiteOrderUrl": "https://ivory.popmenu.com/menus/dinner-menu"
   },
   {
-    "name": "Popmenu: Case Study - Emporium Thai",
-    "slug": "popmenucasestudy-emporiumthai",
-    "category": "thai",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/emporium-thai"
-  },
-  {
-    "name": "Popmenu: About Us",
-    "slug": "popmenuaboutus",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/about-us"
-  },
-  {
-    "name": "Popmenu: Case Study - Taqueria Picoso",
-    "slug": "popmenucasestudy-taqueriapicoso",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/more-guests-larger-orders/taqueria-picoso"
-  },
-  {
-    "name": "Popmenu - New",
-    "slug": "popmenu-new",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-websites"
-  },
-  {
     "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
     "slug": "restaurantmenuideas9ofthebestmenustoinsp",
     "category": "restaurant",
     "metros": [
       "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
-  },
-  {
-    "name": "Popmenu: Dynamic, interactive restaurant menus",
-    "slug": "popmenudynamicinteractiverestaurantmenus",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/dynamic-menu-tech"
-  },
-  {
-    "name": "11 of the best restaurant menu designs to inspire you",
-    "slug": "11ofthebestrestaurantmenudesignstoinspir",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-menu-designs"
-  },
-  {
-    "name": "Popmenu: We do more than grow your restaurant.",
-    "slug": "popmenuwedomorethangrowyourrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/"
+    ]
   },
   {
     "name": "Restaurant analytics: How to collect (and use) guest data",
@@ -2666,58 +2492,12 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-analytics-data-guide"
-  },
-  {
-    "name": "Popmenu: Restaurant online ordering",
-    "slug": "popmenurestaurantonlineordering",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
-  },
-  {
-    "name": "Popmenu: Photography",
-    "slug": "popmenuphotography",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/photography"
-  },
-  {
-    "name": "Popmenu: Case Study - Libby's Neighborhood Brasserie",
-    "slug": "popmenucasestudy-libbysneighborhoodbrass",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/more-guests-larger-orders/libbys-neighborhood-brasserie"
-  },
-  {
-    "name": "Popmenu: Case Study - The Deck",
-    "slug": "popmenucasestudy-thedeck",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/the-deck"
-  },
-  {
-    "name": "Top Trending Dishes - eat.popmenu.com",
-    "slug": "toptrendingdishes-eatpopmenucom",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://eat.popmenu.com/places/global/dishes/3177684-the-original"
+    ]
   },
   {
     "name": "Ranked #1 Italian food truck in Los Angeles",
     "slug": "ranked1italianfoodtruckinlosangeles",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "la"
     ],
@@ -2787,94 +2567,12 @@
     "squareUrl": "https://calipeaches-cuisine-llc.square.site/"
   },
   {
-    "name": "LOS ANGELES, CA - Delivery & Takeout",
-    "slug": "losangelesca-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CA/LOS%20ANGELES"
-  },
-  {
-    "name": "WEST LOS ANGELES, CA - Delivery & Takeout",
-    "slug": "westlosangelesca-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CA/WEST%20LOS%20ANGELES"
-  },
-  {
     "name": "Home - TasteBuds",
     "slug": "home-tastebuds",
     "category": "restaurant",
     "metros": [
       "la"
-    ],
-    "websiteOrderUrl": "https://tastebuds.menufy.com/"
-  },
-  {
-    "name": "METAIRIE, LA - Delivery & Takeout",
-    "slug": "metairiela-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/LA/METAIRIE"
-  },
-  {
-    "name": "Lafayette, LA - Delivery & Takeout",
-    "slug": "lafayettela-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/LA/Lafayette"
-  },
-  {
-    "name": "New Orleans, LA - Delivery & Takeout",
-    "slug": "neworleansla-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/LA/New%20Orleans"
-  },
-  {
-    "name": "Shreveport, LA - Delivery & Takeout",
-    "slug": "shreveportla-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/LA/Shreveport"
-  },
-  {
-    "name": "Alexandria, LA - Delivery & Takeout",
-    "slug": "alexandriala-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/LA/Alexandria"
-  },
-  {
-    "name": "Seafood in Las-Vegas, NV - Delivery & Takeout",
-    "slug": "seafoodinlas-vegasnv-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NV/Las-Vegas/Seafood"
-  },
-  {
-    "name": "Pineville, LA - Delivery & Takeout",
-    "slug": "pinevillela-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/LA/Pineville"
+    ]
   },
   {
     "name": "Washington, Order Food Online!",
@@ -2884,69 +2582,6 @@
       "la"
     ],
     "websiteOrderUrl": "https://www.menufy.com/WA"
-  },
-  {
-    "name": "BOUTTE, LA - Delivery & Takeout",
-    "slug": "bouttela-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/LA/BOUTTE"
-  },
-  {
-    "name": "Baton Rouge, LA - Delivery & Takeout",
-    "slug": "batonrougela-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/LA/Baton%20Rouge"
-  },
-  {
-    "name": "Baton, LA - Delivery & Takeout",
-    "slug": "batonla-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/LA/Baton"
-  },
-  {
-    "name": "Restaurants - Delivery & Takeout",
-    "slug": "restaurants-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/"
-  },
-  {
-    "name": "Leeds, AL - Delivery & Takeout",
-    "slug": "leedsal-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/AL/Leeds"
-  },
-  {
-    "name": "Santa Monica, CA - Delivery & Takeout",
-    "slug": "santamonicaca-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CA/Santa%20Monica"
-  },
-  {
-    "name": "Jamaican in LOS ANGELES, CA - Delivery & Takeout",
-    "slug": "jamaicaninlosangelesca-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CA/LOS%20ANGELES/Jamaican"
   },
   {
     "name": "Owner.com Reviews",
@@ -2965,15 +2600,6 @@
       "la"
     ],
     "websiteOrderUrl": "https://www.owner.com/mobile"
-  },
-  {
-    "name": "No Commission Delivery for Restaurants",
-    "slug": "nocommissiondeliveryforrestaurants",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/delivery"
   },
   {
     "name": "Owner.com & California Restaurant Association",
@@ -3003,15 +2629,6 @@
     "websiteOrderUrl": "https://www.owner.com/online-ordering"
   },
   {
-    "name": "Pricing",
-    "slug": "pricing",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/pricing"
-  },
-  {
     "name": "Platform Terms",
     "slug": "platformterms",
     "category": "restaurant",
@@ -3035,8 +2652,7 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/"
+    ]
   },
   {
     "name": "Owner Product Updates and Releases",
@@ -3046,15 +2662,6 @@
       "la"
     ],
     "websiteOrderUrl": "https://www.owner.com/releases"
-  },
-  {
-    "name": "Owner.com Competitors",
-    "slug": "ownercomcompetitors",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/comparison"
   },
   {
     "name": "Scale Your Restaurant",
@@ -3071,8 +2678,7 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ],
-    "websiteOrderUrl": "https://compare.owner.com/"
+    ]
   },
   {
     "name": "Owner.com Series C Memo",
@@ -3122,7 +2728,7 @@
   {
     "name": "Panini Kabob Grill - Downtown LA",
     "slug": "paninikabobgrill-downtownla",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "la"
     ],
@@ -3140,7 +2746,7 @@
   {
     "name": "Hollywood Blvd.",
     "slug": "hollywoodblvd",
-    "category": "restaurant",
+    "category": "burgers",
     "metros": [
       "la"
     ],
@@ -3257,20 +2863,11 @@
   {
     "name": "YOGURTLAND MIDTOWN",
     "slug": "yogurtlandmidtown",
-    "category": "restaurant",
+    "category": "dessert",
     "metros": [
       "la"
     ],
     "websiteOrderUrl": "https://yogurt-land.olo.com/menu/yogurtland-midtown"
-  },
-  {
-    "name": "The Best Restaurant Websites in Los Angeles",
-    "slug": "thebestrestaurantwebsitesinlosangeles",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-los-angeles/"
   },
   {
     "name": "Berlins",
@@ -3280,15 +2877,6 @@
       "la"
     ],
     "websiteOrderUrl": "https://eatberlins.getbento.com/online-ordering/"
-  },
-  {
-    "name": "The 20 Best Restaurant Websites of 2024",
-    "slug": "the20bestrestaurantwebsitesof2024",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-design/"
   },
   {
     "name": "Ggiata",
@@ -3302,11 +2890,10 @@
   {
     "name": "Cesare Ristorante",
     "slug": "cesareristorante",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "la"
-    ],
-    "websiteOrderUrl": "https://cesareristorante.getbento.com/"
+    ]
   },
   {
     "name": "LUMIÈRE",
@@ -3314,8 +2901,7 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ],
-    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/6781c25e1e15e300a57bb79c09bcdae1/media/Yj0SDsMgSz68ZzoOJf8B_xOLMC5csSSO5uMIF0GQd_tiEmdsZFTk8afVMKGUPY_Lumi_re_Dinner_Menu_Draft_03.06.2020-converted.pdf"
+    ]
   },
   {
     "name": "Before & After: The Best New Restaurant Websites of 2021",
@@ -3323,13 +2909,12 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/restaurant-website-redesigns-2021/"
+    ]
   },
   {
     "name": "Bagel Broker - Bagel Shop in Los Angeles, CA",
     "slug": "bagelbroker-bagelshopinlosangelesca",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "la"
     ],
@@ -3368,8 +2953,7 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/facebook-instagram-online-order-now/"
+    ]
   },
   {
     "name": "The Best Online Ordering System for Restaurants in 2024",
@@ -3377,8 +2961,7 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/the-best-online-ordering-system-for-restaurants/"
+    ]
   },
   {
     "name": "Which Restaurant Reservation System Should You Use?",
@@ -3386,26 +2969,7 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/online-restaurant-reservation-systems/"
-  },
-  {
-    "name": "The Best Restaurant Websites in Denver",
-    "slug": "thebestrestaurantwebsitesindenver",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-denver/"
-  },
-  {
-    "name": "The Best Restaurant Websites of 2016",
-    "slug": "thebestrestaurantwebsitesof2016",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-2016-designs/"
+    ]
   },
   {
     "name": "Assistance and Resource Guide for Restaurants",
@@ -3413,17 +2977,7 @@
     "category": "restaurant",
     "metros": [
       "la"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/assistance-and-resource-guide-for-restaurants/"
-  },
-  {
-    "name": "The Best Restaurant Websites in Dallas",
-    "slug": "thebestrestaurantwebsitesindallas",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-dallas/"
+    ]
   },
   {
     "name": "LEVANT BISTRO + BAKE SHOP - LOS ANGELES, CA",
@@ -3608,74 +3162,11 @@
   {
     "name": "Order Salad Farm Pasadena Online",
     "slug": "ordersaladfarmpasadenaonline",
-    "category": "restaurant",
+    "category": "healthy",
     "metros": [
       "la"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/7962/locations/10809"
-  },
-  {
-    "name": "Online Ordering for Carousel Restaurant - Glendale",
-    "slug": "onlineorderingforcarouselrestaurant-glen",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/169/locations/221"
-  },
-  {
-    "name": "Online Ordering for Floret Vegan Kitchen - Glendale",
-    "slug": "onlineorderingforfloretvegankitchen-glen",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/6625/locations/8789"
-  },
-  {
-    "name": "Online Ordering for Full O' Life - Burbank",
-    "slug": "onlineorderingforfullolife-burbank",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/4581/locations/5932"
-  },
-  {
-    "name": "Online Ordering for Wokcano - Burbank",
-    "slug": "onlineorderingforwokcano-burbank",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/1129/locations/1620"
-  },
-  {
-    "name": "Online Ordering for Simplethings - Burbank / Toluca Lake",
-    "slug": "onlineorderingforsimplethings-burbanktol",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/3014/locations/3952"
-  },
-  {
-    "name": "Online Ordering for Dog Haus - Burbank",
-    "slug": "onlineorderingfordoghaus-burbank",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/1750/locations/2709"
-  },
-  {
-    "name": "Online Ordering for Philly's Best - Burbank",
-    "slug": "onlineorderingforphillysbest-burbank",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/973/locations/3478"
   },
   {
     "name": "The Pan-Torrance 3160 Pacific Coast Hwy",
@@ -3689,7 +3180,7 @@
   {
     "name": "Rascals Teriyaki Grill Torrance",
     "slug": "rascalsteriyakigrilltorrance",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "la"
     ],
@@ -3698,7 +3189,7 @@
   {
     "name": "Pho Hana Torrance 22815 Hawthorne Blvd",
     "slug": "phohanatorrance22815hawthorneblvd",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "la"
     ],
@@ -3725,7 +3216,7 @@
   {
     "name": "FishBonz Grill Torrance",
     "slug": "fishbonzgrilltorrance",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "la"
     ],
@@ -3734,7 +3225,7 @@
   {
     "name": "Red Car Brewery & Restaurant",
     "slug": "redcarbreweryrestaurant",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "la"
     ],
@@ -3779,7 +3270,7 @@
   {
     "name": "Philly's Best Cheesesteaks Torrance",
     "slug": "phillysbestcheesesteakstorrance",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "la"
     ],
@@ -3833,7 +3324,7 @@
   {
     "name": "ᐅ Best Local Appetizers in Torrance, California",
     "slug": "bestlocalappetizersintorrancecalifornia",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "la"
     ],
@@ -3842,7 +3333,7 @@
   {
     "name": "ᐅ Best Local Salads in Torrance, California",
     "slug": "bestlocalsaladsintorrancecalifornia",
-    "category": "restaurant",
+    "category": "healthy",
     "metros": [
       "la"
     ],
@@ -4013,7 +3504,7 @@
   {
     "name": "Hoke Poke 8th & Hope",
     "slug": "hokepoke8thhope",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "la"
     ],
@@ -4022,7 +3513,7 @@
   {
     "name": "Poke Dot 17921 MacArthur Blvd",
     "slug": "pokedot17921macarthurblvd",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "la"
     ],
@@ -4031,7 +3522,7 @@
   {
     "name": "The Poke Shack Melrose",
     "slug": "thepokeshackmelrose",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "la"
     ],
@@ -4040,7 +3531,7 @@
   {
     "name": "Big Daddy's Poke Shack",
     "slug": "bigdaddyspokeshack",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "la"
     ],
@@ -4049,7 +3540,7 @@
   {
     "name": "Poke Poke West Loop",
     "slug": "pokepokewestloop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "la"
     ],
@@ -4067,7 +3558,7 @@
   {
     "name": "Poke Burri 3231 powelton ave",
     "slug": "pokeburri3231poweltonave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "la"
     ],
@@ -4076,7 +3567,7 @@
   {
     "name": "Poke Poke Loop (Palmer House)",
     "slug": "pokepokelooppalmerhouse",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "la"
     ],
@@ -4085,7 +3576,7 @@
   {
     "name": "Poke Row 2735 NW Crossing Dr #105",
     "slug": "pokerow2735nwcrossingdr105",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "la"
     ],
@@ -4094,7 +3585,7 @@
   {
     "name": "Poke OG - Downtown POKE OG DOWNTOWN",
     "slug": "pokeog-downtownpokeogdowntown",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "la"
     ],
@@ -4103,7 +3594,7 @@
   {
     "name": "Seaside Poke Understory",
     "slug": "seasidepokeunderstory",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "la"
     ],
@@ -4112,7 +3603,7 @@
   {
     "name": "Poke Poke Streeterville",
     "slug": "pokepokestreeterville",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "la"
     ],
@@ -4121,7 +3612,7 @@
   {
     "name": "Poke Cafe - West Ashley Location and Ordering Hours",
     "slug": "pokecafe-westashleylocationandorderingho",
-    "category": "cafe",
+    "category": "japanese",
     "metros": [
       "la"
     ],
@@ -4130,7 +3621,7 @@
   {
     "name": "Poke Burrito Astoria 37-07 30th Ave.",
     "slug": "pokeburritoastoria37-0730thave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "la"
     ],
@@ -4139,7 +3630,7 @@
   {
     "name": "Fresh Catch Poke Co. - Hertel Ave.",
     "slug": "freshcatchpokeco-hertelave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "la"
     ],
@@ -4157,7 +3648,7 @@
   {
     "name": "Lei'd Poke",
     "slug": "leidpoke",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "la"
     ],
@@ -4166,7 +3657,7 @@
   {
     "name": "Poke Bunny 100 East Gay Street, Unit 1",
     "slug": "pokebunny100eastgaystreetunit1",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "la"
     ],
@@ -4301,7 +3792,7 @@
   {
     "name": "NOLA CAJUN KITCHEN",
     "slug": "nolacajunkitchen",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "la"
     ],
@@ -4409,7 +3900,7 @@
   {
     "name": "Mr. Greek of Buffalo 1122 Elmwood Ave.",
     "slug": "mrgreekofbuffalo1122elmwoodave",
-    "category": "mediterranean",
+    "category": "wings",
     "metros": [
       "la"
     ],
@@ -4526,7 +4017,7 @@
   {
     "name": "Juice Crafters Downtown LA",
     "slug": "juicecraftersdowntownla",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "la"
     ],
@@ -4535,7 +4026,7 @@
   {
     "name": "Juice Crafters Marina Del Rey",
     "slug": "juicecraftersmarinadelrey",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "la"
     ],
@@ -4544,7 +4035,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "la"
     ],
@@ -4553,7 +4044,7 @@
   {
     "name": "Juice Crafters Beverly Hills",
     "slug": "juicecraftersbeverlyhills",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "la"
     ],
@@ -4562,7 +4053,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "la"
     ],
@@ -4571,7 +4062,7 @@
   {
     "name": "Radiant Juice + Smoothie Bar 702 Main St., Suite 103",
     "slug": "radiantjuicesmoothiebar702mainstsuite103",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "la"
     ],
@@ -4580,7 +4071,7 @@
   {
     "name": "Rock Solid Reboot Juice, Inc LA Fitness",
     "slug": "rocksolidrebootjuiceinclafitness",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "la"
     ],
@@ -4589,7 +4080,7 @@
   {
     "name": "Planta Organic Juice Bar 131 Pine Street",
     "slug": "plantaorganicjuicebar131pinestreet",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "la"
     ],
@@ -4607,7 +4098,7 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "la"
     ],
@@ -4621,168 +4112,6 @@
       "la"
     ],
     "toastUrl": "https://order.toasttab.com/online/method-juice-cafe-downtown-718-w-riverside"
-  },
-  {
-    "name": "Online Ordering for Pitfire Pizza - West Los Angeles",
-    "slug": "onlineorderingforpitfirepizza-westlosang",
-    "category": "pizza",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/590/locations/799"
-  },
-  {
-    "name": "Online Ordering for Cruzer Pizza - Los Angeles",
-    "slug": "onlineorderingforcruzerpizza-losangeles",
-    "category": "pizza",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/4756/locations/6171"
-  },
-  {
-    "name": "Online Ordering for Joe's Pizza - Los Angeles",
-    "slug": "onlineorderingforjoespizza-losangeles",
-    "category": "pizza",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/9715/locations/14639"
-  },
-  {
-    "name": "Online Ordering for Pizza Della Nonna - Los Angeles",
-    "slug": "onlineorderingforpizzadellanonna-losange",
-    "category": "pizza",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5916/locations/7761"
-  },
-  {
-    "name": "Online Ordering for The Pizza Joint - Evans",
-    "slug": "onlineorderingforthepizzajoint-evans",
-    "category": "pizza",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5378/locations/7043"
-  },
-  {
-    "name": "Online Ordering for Angie's Pizza - Mentor",
-    "slug": "onlineorderingforangiespizza-mentor",
-    "category": "pizza",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/3572/locations/4650"
-  },
-  {
-    "name": "Online Ordering for Station Pizza",
-    "slug": "onlineorderingforstationpizza",
-    "category": "pizza",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/1760/locations/2286"
-  },
-  {
-    "name": "Online Ordering for La Casa Pizza & Pasta",
-    "slug": "onlineorderingforlacasapizzapasta",
-    "category": "pizza",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/2742/locations"
-  },
-  {
-    "name": "Online Ordering for Papa Joe's Pizza Inc.",
-    "slug": "onlineorderingforpapajoespizzainc",
-    "category": "pizza",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/960/locations"
-  },
-  {
-    "name": "Online Ordering for Ted's Pizza Palace - Menomonie",
-    "slug": "onlineorderingfortedspizzapalace-menomon",
-    "category": "pizza",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/3406/locations/4440"
-  },
-  {
-    "name": "Online Ordering for Your Pizza Shop - Akron",
-    "slug": "onlineorderingforyourpizzashop-akron",
-    "category": "pizza",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/4127/locations/5378"
-  },
-  {
-    "name": "Online Ordering for Delicious Pizza",
-    "slug": "onlineorderingfordeliciouspizza",
-    "category": "pizza",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/2771/locations"
-  },
-  {
-    "name": "Online Ordering for DaVinci's Pizzeria",
-    "slug": "onlineorderingfordavincispizzeria",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/3857/locations"
-  },
-  {
-    "name": "Online Ordering for Your Pizza Shop - DO NOT USE",
-    "slug": "onlineorderingforyourpizzashop-donotuse",
-    "category": "pizza",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/3555/locations/5266"
-  },
-  {
-    "name": "Online Ordering for PR Pizza LLC",
-    "slug": "onlineorderingforprpizzallc",
-    "category": "pizza",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/1984/locations/2606"
-  },
-  {
-    "name": "Online Ordering for Hearth Pizza Tavern",
-    "slug": "onlineorderingforhearthpizzatavern",
-    "category": "pizza",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/7560/locations"
-  },
-  {
-    "name": "Online Ordering for The Pizza Shop",
-    "slug": "onlineorderingforthepizzashop",
-    "category": "pizza",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/8581/locations"
-  },
-  {
-    "name": "Online Ordering for Tawanna Thai - Los Angeles",
-    "slug": "onlineorderingfortawannathai-losangeles",
-    "category": "thai",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/4731/locations/6137"
   },
   {
     "name": "Order Pimai Online - Thai Restaurant in Los Angeles, CA",

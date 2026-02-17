@@ -154,7 +154,7 @@
   {
     "name": "The Breakfast Club MPLS",
     "slug": "thebreakfastclubmpls",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "minneapolis"
     ]
@@ -346,7 +346,7 @@
   {
     "name": "Savouré Vietnamese Eatery",
     "slug": "savourvietnameseeatery",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "minneapolis"
     ]
@@ -370,7 +370,7 @@
   {
     "name": "Mi-Sant Kitchen & Bakery",
     "slug": "mi-santkitchenbakery",
-    "category": "cafe",
+    "category": "bakery",
     "metros": [
       "minneapolis"
     ]
@@ -427,15 +427,6 @@
     "toastUrl": "https://order.toasttab.com/online/broadway-pizza-eagles-nest-lounge-4106-lakeland-ave-n"
   },
   {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/bricksworth-brewing-co-north-loop"
-  },
-  {
     "name": "Uptown Pizza 323 West Lake Street",
     "slug": "uptownpizza323westlakestreet",
     "category": "pizza",
@@ -465,7 +456,7 @@
   {
     "name": "Day Block Brewing Company Minneapolis",
     "slug": "dayblockbrewingcompanyminneapolis",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "minneapolis"
     ],
@@ -564,7 +555,7 @@
   {
     "name": "St Paul Bagelry",
     "slug": "stpaulbagelry",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "minneapolis"
     ],
@@ -582,7 +573,7 @@
   {
     "name": "St Paul Bagelry Minneapolis - Order Online",
     "slug": "stpaulbagelryminneapolis-orderonline",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "minneapolis"
     ],
@@ -735,7 +726,7 @@
   {
     "name": "Order Confirmation",
     "slug": "orderconfirmation",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "minneapolis"
     ],
@@ -861,7 +852,7 @@
   {
     "name": "Hope Breakfast Bar North Loop",
     "slug": "hopebreakfastbarnorthloop",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "minneapolis"
     ],
@@ -891,8 +882,7 @@
     "category": "mexican",
     "metros": [
       "minneapolis"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/myaychiwawa.com"
+    ]
   },
   {
     "name": "Backstory Coffee Roasters North Loop - MPLS",
@@ -951,7 +941,7 @@
   {
     "name": "Erta Ale Ethiopian Restaurant St Paul- Lowertown",
     "slug": "ertaaleethiopianrestaurantstpaul-lowerto",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "minneapolis"
     ],
@@ -969,7 +959,7 @@
   {
     "name": "Tono Pizzeria + Cheesesteaks St Paul",
     "slug": "tonopizzeriacheesesteaksstpaul",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "minneapolis"
     ],
@@ -987,7 +977,7 @@
   {
     "name": "Hope Breakfast Bar Saint Paul",
     "slug": "hopebreakfastbarsaintpaul",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "minneapolis"
     ],
@@ -996,7 +986,7 @@
   {
     "name": "Meskerem Ethiopian Restaurant",
     "slug": "meskeremethiopianrestaurant",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "minneapolis"
     ],
@@ -1005,7 +995,7 @@
   {
     "name": "Leyu Ethiopian Restaurant",
     "slug": "leyuethiopianrestaurant",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "minneapolis"
     ],
@@ -1014,7 +1004,7 @@
   {
     "name": "Demera Ethiopian Restaurant",
     "slug": "demeraethiopianrestaurant",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "minneapolis"
     ],
@@ -1023,7 +1013,7 @@
   {
     "name": "Tana Ethiopian Cuisine",
     "slug": "tanaethiopiancuisine",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "minneapolis"
     ],
@@ -1032,7 +1022,7 @@
   {
     "name": "Bolé Ethiopian Cuisine Como",
     "slug": "bolethiopiancuisinecomo",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "minneapolis"
     ],
@@ -1041,7 +1031,7 @@
   {
     "name": "Das Ethiopian Cuisine",
     "slug": "dasethiopiancuisine",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "minneapolis"
     ],
@@ -1050,7 +1040,7 @@
   {
     "name": "Letena Ethiopian Restaurant",
     "slug": "letenaethiopianrestaurant",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "minneapolis"
     ],
@@ -1311,7 +1301,7 @@
   {
     "name": "St Paul Bagelry Minneapolis",
     "slug": "stpaulbagelryminneapolis",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "minneapolis"
     ],
@@ -1410,7 +1400,7 @@
   {
     "name": "Mezcal Restaurante and Taqueria 1855 East Lake Street",
     "slug": "mezcalrestauranteandtaqueria1855eastlake",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "minneapolis"
     ],
@@ -1419,7 +1409,7 @@
   {
     "name": "McDonald's 4435 Lyndale Ave N – Order pickup and delivery",
     "slug": "mcdonalds4435lyndaleavenorderpickupandde",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "minneapolis"
     ],
@@ -1428,7 +1418,7 @@
   {
     "name": "McDonald's 916 W Broadway Ave – Order pickup and delivery",
     "slug": "mcdonalds916wbroadwayaveorderpickupandde",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "minneapolis"
     ],
@@ -1449,26 +1439,7 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ],
-    "websiteOrderUrl": "https://the-nicollet-diner.popmenu.com/"
-  },
-  {
-    "name": "Popmenu: About Us",
-    "slug": "popmenuaboutus",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/about-us"
-  },
-  {
-    "name": "Popmenu: We do more than grow your restaurant.",
-    "slug": "popmenuwedomorethangrowyourrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/"
+    ]
   },
   {
     "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
@@ -1476,62 +1447,7 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
-  },
-  {
-    "name": "Popmenu - New",
-    "slug": "popmenu-new",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-websites"
-  },
-  {
-    "name": "Popmenu: Restaurant online ordering",
-    "slug": "popmenurestaurantonlineordering",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
-  },
-  {
-    "name": "11 of the best restaurant menu designs to inspire you",
-    "slug": "11ofthebestrestaurantmenudesignstoinspir",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-menu-designs"
-  },
-  {
-    "name": "ACS",
-    "slug": "acs",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://affordable-catering.popmenu.com/"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
-  },
-  {
-    "name": "Popmenu: Photography",
-    "slug": "popmenuphotography",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/photography"
+    ]
   },
   {
     "name": "How to set up online food ordering in an afternoon",
@@ -1539,44 +1455,7 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
-  },
-  {
-    "name": "Popmenu: Dynamic, interactive restaurant menus",
-    "slug": "popmenudynamicinteractiverestaurantmenus",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/dynamic-menu-tech"
-  },
-  {
-    "name": "Popmenu: OrderNerd powered by Popmenu",
-    "slug": "popmenuordernerdpoweredbypopmenu",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/ordernerd"
-  },
-  {
-    "name": "Popmenu: Case Study - B&B Butchers Restaurant",
-    "slug": "popmenucasestudy-bbbutchersrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/b-b-butchers-restaurant"
-  },
-  {
-    "name": "5 menu design Ideas for digital-first restaurants",
-    "slug": "5menudesignideasfordigital-firstrestaura",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
+    ]
   },
   {
     "name": "The ultimate guide to restaurant branding",
@@ -1584,8 +1463,7 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-branding-guide"
+    ]
   },
   {
     "name": "Join the group text: Text message marketing for restaurants",
@@ -1593,17 +1471,7 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/text-message-marketing-for-restaurants"
-  },
-  {
-    "name": "Popmenu: Case Study - Taqueria Picoso",
-    "slug": "popmenucasestudy-taqueriapicoso",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/more-guests-larger-orders/taqueria-picoso"
+    ]
   },
   {
     "name": "How to create a menu online in a few easy steps",
@@ -1611,8 +1479,7 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/make-an-online-menu-for-your-restaurant"
+    ]
   },
   {
     "name": "Chef Shack Food Truck",
@@ -1653,7 +1520,7 @@
   {
     "name": "Krishna's Delight",
     "slug": "krishnasdelight",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "minneapolis"
     ],
@@ -1662,7 +1529,7 @@
   {
     "name": "Angelea's Soul Food Kitchen",
     "slug": "angeleassoulfoodkitchen",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "minneapolis"
     ],
@@ -1678,184 +1545,12 @@
     "squareUrl": "https://iflmarket.square.site/shop/food-products/10"
   },
   {
-    "name": "Minneapolis, MN - Delivery & Takeout",
-    "slug": "minneapolismn-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MN/Minneapolis"
-  },
-  {
-    "name": "Thai in Minneapolis, MN - Delivery & Takeout",
-    "slug": "thaiinminneapolismn-deliverytakeout",
-    "category": "thai",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MN/Minneapolis/Thai"
-  },
-  {
-    "name": "South Minneapolis, MN - Delivery & Takeout",
-    "slug": "southminneapolismn-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MN/South%20Minneapolis"
-  },
-  {
-    "name": "Chinese in South Minneapolis, MN - Delivery & Takeout",
-    "slug": "chineseinsouthminneapolismn-deliverytake",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MN/South%20Minneapolis/Chinese"
-  },
-  {
-    "name": "Chinese in Minneapolis, MN - Delivery & Takeout",
-    "slug": "chineseinminneapolismn-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MN/Minneapolis/Chinese"
-  },
-  {
-    "name": "Mediterranean in Minneapolis, MN - Delivery & Takeout",
-    "slug": "mediterraneaninminneapolismn-deliverytak",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MN/Minneapolis/Mediterranean"
-  },
-  {
-    "name": "Lunch in Minneapolis, MN - Delivery & Takeout",
-    "slug": "lunchinminneapolismn-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MN/Minneapolis/Lunch"
-  },
-  {
-    "name": "MN - Delivery & Takeout",
-    "slug": "mn-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MN"
-  },
-  {
-    "name": "Mexican in Minneapolis, MN - Delivery & Takeout",
-    "slug": "mexicaninminneapolismn-deliverytakeout",
-    "category": "mexican",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MN/Minneapolis/Mexican"
-  },
-  {
-    "name": "Breakfast in Minneapolis, MN - Delivery & Takeout",
-    "slug": "breakfastinminneapolismn-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MN/Minneapolis/Breakfast"
-  },
-  {
-    "name": "Indian in Minneapolis, MN - Delivery & Takeout",
-    "slug": "indianinminneapolismn-deliverytakeout",
-    "category": "indian",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MN/Minneapolis/Indian"
-  },
-  {
     "name": "Home - THAI CUISINE XPRESS",
     "slug": "home-thaicuisinexpress",
     "category": "thai",
     "metros": [
       "minneapolis"
-    ],
-    "websiteOrderUrl": "https://thaicuisinexpress.menufy.com/"
-  },
-  {
-    "name": "Lunch in South Minneapolis, MN - Delivery & Takeout",
-    "slug": "lunchinsouthminneapolismn-deliverytakeou",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MN/South%20Minneapolis/Lunch"
-  },
-  {
-    "name": "Italian in Minneapolis, MN - Delivery & Takeout",
-    "slug": "italianinminneapolismn-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MN/Minneapolis/Italian"
-  },
-  {
-    "name": "Asian Fusion in South Minneapolis, MN - Delivery & Takeout",
-    "slug": "asianfusioninsouthminneapolismn-delivery",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MN/South%20Minneapolis/Asian%20Fusion"
-  },
-  {
-    "name": "Vegetarian in Minneapolis, MN - Delivery & Takeout",
-    "slug": "vegetarianinminneapolismn-deliverytakeou",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MN/Minneapolis/Vegetarian"
-  },
-  {
-    "name": "Mediterranean in South Minneapolis, MN - Delivery & Takeout",
-    "slug": "mediterraneaninsouthminneapolismn-delive",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MN/South%20Minneapolis/Mediterranean"
-  },
-  {
-    "name": "Dessert in Minneapolis, MN - Delivery & Takeout",
-    "slug": "dessertinminneapolismn-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MN/Minneapolis/Dessert"
-  },
-  {
-    "name": "Subs in Minneapolis, MN - Delivery & Takeout",
-    "slug": "subsinminneapolismn-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MN/Minneapolis/Subs"
-  },
-  {
-    "name": "Indo-Chinese in South Minneapolis, MN - Delivery & Takeout",
-    "slug": "indo-chineseinsouthminneapolismn-deliver",
-    "category": "restaurant",
-    "metros": [
-      "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MN/South%20Minneapolis/Indo-Chinese"
+    ]
   },
   {
     "name": "Minneapolis - Fogo de Chão",
@@ -1917,8 +1612,7 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ],
-    "websiteOrderUrl": "https://norms.olo.com/"
+    ]
   },
   {
     "name": "Dunn Brothers LaSalle Plaza",
@@ -1998,8 +1692,7 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ],
-    "websiteOrderUrl": "https://normscatering.olo.com/"
+    ]
   },
   {
     "name": "Catering",
@@ -2016,8 +1709,7 @@
     "category": "pizza",
     "metros": [
       "minneapolis"
-    ],
-    "websiteOrderUrl": "https://pizzerialola.getbento.com/"
+    ]
   },
   {
     "name": "BentoBox",
@@ -2052,8 +1744,7 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/"
+    ]
   },
   {
     "name": "Which Restaurant Reservation System Should You Use?",
@@ -2061,8 +1752,7 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/online-restaurant-reservation-systems/"
+    ]
   },
   {
     "name": "Rajo Kitchen",
@@ -2070,8 +1760,7 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ],
-    "websiteOrderUrl": "https://rajokitchen-archive.getbento.com/"
+    ]
   },
   {
     "name": "Restaurant Catering Software",
@@ -2088,8 +1777,7 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/why-we-built-restaurant-pre-order-catering/"
+    ]
   },
   {
     "name": "Restaurant Reservation Software",
@@ -2103,11 +1791,10 @@
   {
     "name": "Looking For Delivery Fulfillment For Your Restaurant?",
     "slug": "lookingfordeliveryfulfillmentforyourrest",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/benefits-of-delivery-fulfillment-for-restaurants/"
+    ]
   },
   {
     "name": "Direct Online Ordering System Advantages for Restaurants",
@@ -2115,8 +1802,7 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/direct-online-ordering-system-for-restaurants/"
+    ]
   },
   {
     "name": "Dine-in ordering",
@@ -2133,8 +1819,7 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/facebook-instagram-online-order-now/"
+    ]
   },
   {
     "name": "Restaurant Payment Processing",
@@ -2400,7 +2085,7 @@
   {
     "name": "Graze Provisions + Libations Fish Bowl Poke",
     "slug": "grazeprovisionslibationsfishbowlpoke",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "minneapolis"
     ],
@@ -2409,7 +2094,7 @@
   {
     "name": "Hawaii Poke Bowl West Lake St",
     "slug": "hawaiipokebowlwestlakest",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "minneapolis"
     ],
@@ -2418,7 +2103,7 @@
   {
     "name": "Hawaii Poke Bowl - West St. Paul 1375 South Robert Street",
     "slug": "hawaiipokebowl-weststpaul1375southrobert",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "minneapolis"
     ],
@@ -2427,7 +2112,7 @@
   {
     "name": "Poke Poke West Loop",
     "slug": "pokepokewestloop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "minneapolis"
     ],
@@ -2445,7 +2130,7 @@
   {
     "name": "Poke OG - Downtown POKE OG DOWNTOWN",
     "slug": "pokeog-downtownpokeogdowntown",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "minneapolis"
     ],
@@ -2454,7 +2139,7 @@
   {
     "name": "Poke Fresh - East Lansing",
     "slug": "pokefresh-eastlansing",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "minneapolis"
     ],
@@ -2463,7 +2148,7 @@
   {
     "name": "Poke OG @ 1800 143 NW 23 ST",
     "slug": "pokeog1800143nw23st",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "minneapolis"
     ],
@@ -2472,7 +2157,7 @@
   {
     "name": "Poke Row 2735 NW Crossing Dr #105",
     "slug": "pokerow2735nwcrossingdr105",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "minneapolis"
     ],
@@ -2481,7 +2166,7 @@
   {
     "name": "Poke Dot 17921 MacArthur Blvd",
     "slug": "pokedot17921macarthurblvd",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "minneapolis"
     ],
@@ -2490,7 +2175,7 @@
   {
     "name": "Poke Burri 3231 powelton ave",
     "slug": "pokeburri3231poweltonave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "minneapolis"
     ],
@@ -2499,7 +2184,7 @@
   {
     "name": "Fresh Catch Poke Co. - Hertel Ave.",
     "slug": "freshcatchpokeco-hertelave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "minneapolis"
     ],
@@ -2508,7 +2193,7 @@
   {
     "name": "TwoFish Poke",
     "slug": "twofishpoke",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "minneapolis"
     ],
@@ -2517,7 +2202,7 @@
   {
     "name": "Seaside Poke Understory",
     "slug": "seasidepokeunderstory",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "minneapolis"
     ],
@@ -2526,7 +2211,7 @@
   {
     "name": "Bloomington Dang Boba, Poke & Banh Mi",
     "slug": "bloomingtondangbobapokebanhmi",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "minneapolis"
     ],
@@ -2535,7 +2220,7 @@
   {
     "name": "Mammoth Poke Bowl",
     "slug": "mammothpokebowl",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "minneapolis"
     ],
@@ -2553,7 +2238,7 @@
   {
     "name": "Mo's Seafood & Chowder - Original 622 SW Blvd",
     "slug": "mosseafoodchowder-original622swblvd",
-    "category": "seafood",
+    "category": "chinese",
     "metros": [
       "minneapolis"
     ],
@@ -2589,7 +2274,7 @@
   {
     "name": "Mo's Seafood & Chowder Seaside",
     "slug": "mosseafoodchowderseaside",
-    "category": "seafood",
+    "category": "chinese",
     "metros": [
       "minneapolis"
     ],
@@ -2616,7 +2301,7 @@
   {
     "name": "Mo's Seafood & Chowder - Lincoln City",
     "slug": "mosseafoodchowder-lincolncity",
-    "category": "seafood",
+    "category": "chinese",
     "metros": [
       "minneapolis"
     ],
@@ -2643,7 +2328,7 @@
   {
     "name": "Mo's Seafood & Chowder Florence",
     "slug": "mosseafoodchowderflorence",
-    "category": "seafood",
+    "category": "chinese",
     "metros": [
       "minneapolis"
     ],
@@ -2769,7 +2454,7 @@
   {
     "name": "Norma's Breakfast",
     "slug": "normasbreakfast",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "minneapolis"
     ],
@@ -2778,7 +2463,7 @@
   {
     "name": "The Breakfast Spot",
     "slug": "thebreakfastspot",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "minneapolis"
     ],
@@ -2787,7 +2472,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "minneapolis"
     ],
@@ -2796,7 +2481,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "minneapolis"
     ],
@@ -2805,7 +2490,7 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "minneapolis"
     ],
@@ -2814,7 +2499,7 @@
   {
     "name": "Juice It - 13th Ave S",
     "slug": "juiceit-13thaves",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "minneapolis"
     ],
@@ -2823,7 +2508,7 @@
   {
     "name": "Base Smoothies + Juice Frisco Frisco",
     "slug": "basesmoothiesjuicefriscofrisco",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "minneapolis"
     ],
@@ -2832,7 +2517,7 @@
   {
     "name": "Juice Pharm - Acai Bowl",
     "slug": "juicepharm-acaibowl",
-    "category": "hawaiian",
+    "category": "poke",
     "metros": [
       "minneapolis"
     ],
@@ -2841,7 +2526,7 @@
   {
     "name": "Juice Crafters Downtown LA",
     "slug": "juicecraftersdowntownla",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "minneapolis"
     ],
@@ -2850,7 +2535,7 @@
   {
     "name": "Fresco Juice Co. downtown Billings",
     "slug": "frescojuicecodowntownbillings",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "minneapolis"
     ],
@@ -2859,7 +2544,7 @@
   {
     "name": "Awake Juice Bar - Apple Valley 18855 Bear Valley Rd",
     "slug": "awakejuicebar-applevalley18855bearvalley",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "minneapolis"
     ],
@@ -2868,7 +2553,7 @@
   {
     "name": "Blended Health & Smoothie Bar Olympia Plaza",
     "slug": "blendedhealthsmoothiebarolympiaplaza",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "minneapolis"
     ],
@@ -2877,7 +2562,7 @@
   {
     "name": "Grateful Juice Bar",
     "slug": "gratefuljuicebar",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "minneapolis"
     ],
@@ -2886,7 +2571,7 @@
   {
     "name": "Juice Crafters Santa Monica",
     "slug": "juicecrafterssantamonica",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "minneapolis"
     ],
@@ -2895,7 +2580,7 @@
   {
     "name": "Very Juice - Avenue P 422 Avenue P",
     "slug": "veryjuice-avenuep422avenuep",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "minneapolis"
     ],

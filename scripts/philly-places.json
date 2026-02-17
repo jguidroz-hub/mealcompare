@@ -63,8 +63,7 @@
     ],
     "address": "One N 19th St",
     "placeId": "ChIJzX5a9zTHxokRhnKJZzW5vok",
-    "website": "https://www.jean-georgesphiladelphia.com/?utm_source=google&utm_medium=organicsearch&utm_campaign=tor-phi-fab-mid-seo-na&utm_content=na-na&utm_term=na",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "https://www.jean-georgesphiladelphia.com/?utm_source=google&utm_medium=organicsearch&utm_campaign=tor-phi-fab-mid-seo-na&utm_content=na-na&utm_term=na"
   },
   {
     "name": "Butcher and Singer",
@@ -108,8 +107,7 @@
     ],
     "address": "One N 19th St",
     "placeId": "ChIJBXexubHHxokR-vJPttmO90M",
-    "website": "https://www.skyhighphiladelphia.com/?utm_source=google&utm_medium=organicsearch&utm_campaign=tor-phi-fab-mid-seo-na&utm_content=na-na&utm_term=na",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/fuji/73f2977.fuji/assets/js/head.min.js"
+    "website": "https://www.skyhighphiladelphia.com/?utm_source=google&utm_medium=organicsearch&utm_campaign=tor-phi-fab-mid-seo-na&utm_content=na-na&utm_term=na"
   },
   {
     "name": "Osteria Ama Philly",
@@ -154,18 +152,6 @@
     "address": "1108 Frankford Ave",
     "placeId": "ChIJBy3vHE3JxokRyJFviUaJD3Y",
     "website": "https://fabrikaphilly.com/?utm_source=gmb"
-  },
-  {
-    "name": "LMNO",
-    "slug": "lmno",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "address": "1739-1749 N Front St",
-    "placeId": "ChIJWbriqxnJxokRAj8O1W4BIlA",
-    "website": "https://lmnophilly.com/?utm_source=GoogleBusinessProfile&utm_medium=Website&utm_campaign=MapLabs",
-    "websiteOrderUrl": "https://order.online/store/lmno-philadelphia-23716656"
   },
   {
     "name": "Elwood",
@@ -343,8 +329,7 @@
       "philly"
     ],
     "placeId": "ChIJPTADrSjJxokRWjUR8_ZpdsI",
-    "website": "http://www.set-hospitality.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "http://www.set-hospitality.com/"
   },
   {
     "name": "Silk City",
@@ -369,7 +354,7 @@
   {
     "name": "Urban Village Brewing Company",
     "slug": "urbanvillagebrewingcompany",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "philly"
     ],
@@ -559,8 +544,7 @@
       "philly"
     ],
     "placeId": "ChIJxV6oLs3HxokRAzDNE-V7_pQ",
-    "website": "http://www.sabrinascafe.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "http://www.sabrinascafe.com/"
   },
   {
     "name": "CO-OP Restaurant & Bar",
@@ -570,8 +554,7 @@
       "philly"
     ],
     "placeId": "ChIJe4XbJVDGxokReZKEED7Ojys",
-    "website": "https://www.coopphilly.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "https://www.coopphilly.com/"
   },
   {
     "name": "New Deck Tavern",
@@ -601,8 +584,7 @@
       "philly"
     ],
     "placeId": "ChIJES72cYXIxokR911D5us7LDs",
-    "website": "http://www.handynasty.net/oldcity",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "http://www.handynasty.net/oldcity"
   },
   {
     "name": "Bao Nine",
@@ -632,17 +614,7 @@
       "philly"
     ],
     "placeId": "ChIJAVBFFDDGxokRYwMSM3B5Q2Q",
-    "website": "https://www.honeygrow.com/?utm_source=gmb&utm_medium=Yext&y_source=1_MTc5NjcwNTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
-  },
-  {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/1goal-philly"
+    "website": "https://www.honeygrow.com/?utm_source=gmb&utm_medium=Yext&y_source=1_MTc5NjcwNTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
   },
   {
     "name": "South Philadelphia Tap Room - Order Online",
@@ -668,8 +640,7 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-online-ordering-system"
+    ]
   },
   {
     "name": "Why every restaurant needs an interactive menu",
@@ -677,35 +648,7 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/every-restaurant-needs-interactive-menu"
-  },
-  {
-    "name": "Key Strategies To Growing Your Restaurant In A Competitive Market",
-    "slug": "keystrategiestogrowingyourrestaurantinac",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/key-strategies-to-growing-your-restaurant-in-a-competitive-market"
-  },
-  {
-    "name": "Popmenu: Case Study - The Hampton Social",
-    "slug": "popmenucasestudy-thehamptonsocial",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/improving-margins/the-hampton-social"
-  },
-  {
-    "name": "Tech the Halls with Popmenu",
-    "slug": "techthehallswithpopmenu",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/tech-the-halls-reach-more-guests"
+    ]
   },
   {
     "name": "4 tech-focused tips to fight rising restaurant costs",
@@ -713,26 +656,7 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs"
-  },
-  {
-    "name": "Popmenu: Case Study - Phat Eatery",
-    "slug": "popmenucasestudy-phateatery",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/phat-eatery"
-  },
-  {
-    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
-    "slug": "popmenutoolkittherestaurantgrowthplayboo",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+    ]
   },
   {
     "name": "Online Food Ordering System & App",
@@ -744,40 +668,12 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/1445/locations"
   },
   {
-    "name": "Online ordering competitors every restaurant should know",
-    "slug": "onlineorderingcompetitorseveryrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know"
-  },
-  {
-    "name": "6 Best Popmenu Competitors to Consider (Pros & Cons)",
-    "slug": "6bestpopmenucompetitorstoconsiderproscon",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
-  },
-  {
     "name": "How to set up online food ordering in an afternoon",
     "slug": "howtosetuponlinefoodorderinginanafternoo",
     "category": "restaurant",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
+    ]
   },
   {
     "name": "Opera House Chinatown, Philadelphia",
@@ -827,7 +723,7 @@
   {
     "name": "Freebyrd Chicken Philadelphia",
     "slug": "freebyrdchickenphiladelphia",
-    "category": "restaurant",
+    "category": "chicken",
     "metros": [
       "philly"
     ],
@@ -890,7 +786,7 @@
   {
     "name": "Barra Rossa Ristorante 503 - Philadelphia",
     "slug": "barrarossaristorante503-philadelphia",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "philly"
     ],
@@ -956,8 +852,7 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/southjazzkitchen.com"
+    ]
   },
   {
     "name": "Philly Flats",
@@ -1034,7 +929,7 @@
   {
     "name": "Philly Cheesesteaks Berwyn",
     "slug": "phillycheesesteaksberwyn",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "philly"
     ],
@@ -1050,18 +945,9 @@
     "toastUrl": "https://order.toasttab.com/online/palace-pizza-downtown"
   },
   {
-    "name": "Online Ordering for Square on Square Restaurant PA",
-    "slug": "onlineorderingforsquareonsquarerestauran",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/7317/locations/9788"
-  },
-  {
     "name": "Korea Taqueria - Fishtown",
     "slug": "koreataqueria-fishtown",
-    "category": "seafood",
+    "category": "mexican",
     "metros": [
       "philly"
     ],
@@ -1079,7 +965,7 @@
   {
     "name": "Wokworks Fishtown",
     "slug": "wokworksfishtown",
-    "category": "seafood",
+    "category": "chinese",
     "metros": [
       "philly"
     ],
@@ -1169,7 +1055,7 @@
   {
     "name": "Olde City Cheesesteaks & Brew 66 Madison Ave",
     "slug": "oldecitycheesesteaksbrew66madisonave",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "philly"
     ],
@@ -1178,7 +1064,7 @@
   {
     "name": "Philly Style Bagels Old City 218 Arch Street",
     "slug": "phillystylebagelsoldcity218archstreet",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "philly"
     ],
@@ -1205,7 +1091,7 @@
   {
     "name": "Olde City Cheesesteaks & Brew 201 8th Ave",
     "slug": "oldecitycheesesteaksbrew2018thave",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "philly"
     ],
@@ -1259,7 +1145,7 @@
   {
     "name": "Old City Hall Brewery",
     "slug": "oldcityhallbrewery",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "philly"
     ],
@@ -1295,7 +1181,7 @@
   {
     "name": "South Philly Steaks Avalon Park Orlando",
     "slug": "southphillysteaksavalonparkorlando",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "philly"
     ],
@@ -1304,7 +1190,7 @@
   {
     "name": "South Philly Hoagies",
     "slug": "southphillyhoagies",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "philly"
     ],
@@ -1313,7 +1199,7 @@
   {
     "name": "Frankie's South Philadelphia Cheesesteak",
     "slug": "frankiessouthphiladelphiacheesesteak",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "philly"
     ],
@@ -1322,7 +1208,7 @@
   {
     "name": "South Philly Steaks - Winter Garden 13848 Tilden Rd, #178",
     "slug": "southphillysteaks-wintergarden13848tilde",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "philly"
     ],
@@ -1340,7 +1226,7 @@
   {
     "name": "South Bowl",
     "slug": "southbowl",
-    "category": "restaurant",
+    "category": "healthy",
     "metros": [
       "philly"
     ],
@@ -1367,7 +1253,7 @@
   {
     "name": "KING'S HAWAIIAN - THE LOCAL PLACE (Western)",
     "slug": "kingshawaiian-thelocalplacewestern",
-    "category": "restaurant",
+    "category": "hawaiian",
     "metros": [
       "philly"
     ],
@@ -1376,7 +1262,7 @@
   {
     "name": "Da Hawaiian Kitchen",
     "slug": "dahawaiiankitchen",
-    "category": "restaurant",
+    "category": "hawaiian",
     "metros": [
       "philly"
     ],
@@ -1403,7 +1289,7 @@
   {
     "name": "Pollo Inka Express - Hawaiian Gardens ...",
     "slug": "polloinkaexpress-hawaiiangardens",
-    "category": "restaurant",
+    "category": "hawaiian",
     "metros": [
       "philly"
     ],
@@ -1412,7 +1298,7 @@
   {
     "name": "Taffach Ethiopian Restaurant 113 D Street",
     "slug": "taffachethiopianrestaurant113dstreet",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "philly"
     ],
@@ -1421,7 +1307,7 @@
   {
     "name": "Tana Ethiopian Cuisine",
     "slug": "tanaethiopiancuisine",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "philly"
     ],
@@ -1430,7 +1316,7 @@
   {
     "name": "LeYou Ethiopian 1100 N First St suite c",
     "slug": "leyouethiopian1100nfirststsuitec",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "philly"
     ],
@@ -1439,7 +1325,7 @@
   {
     "name": "Leyu Ethiopian Restaurant",
     "slug": "leyuethiopianrestaurant",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "philly"
     ],
@@ -1448,7 +1334,7 @@
   {
     "name": "Meskerem Ethiopian Restaurant",
     "slug": "meskeremethiopianrestaurant",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "philly"
     ],
@@ -1457,7 +1343,7 @@
   {
     "name": "Demera Ethiopian Restaurant",
     "slug": "demeraethiopianrestaurant",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "philly"
     ],
@@ -1466,7 +1352,7 @@
   {
     "name": "Letena Ethiopian Restaurant",
     "slug": "letenaethiopianrestaurant",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "philly"
     ],
@@ -1475,7 +1361,7 @@
   {
     "name": "Das Ethiopian Cuisine",
     "slug": "dasethiopiancuisine",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "philly"
     ],
@@ -1484,7 +1370,7 @@
   {
     "name": "Bolé Ethiopian Cuisine Como",
     "slug": "bolethiopiancuisinecomo",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "philly"
     ],
@@ -1502,7 +1388,7 @@
   {
     "name": "Poke Burri - Philadelphia",
     "slug": "pokeburri-philadelphia",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "philly"
     ],
@@ -1556,7 +1442,7 @@
   {
     "name": "Bosphorous Turkish Cuisine - Winter Park 1",
     "slug": "bosphorousturkishcuisine-winterpark1",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "philly"
     ],
@@ -1574,7 +1460,7 @@
   {
     "name": "Bosphorous Turkish Cuisine - Winter Garden 4",
     "slug": "bosphorousturkishcuisine-wintergarden4",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "philly"
     ],
@@ -1583,7 +1469,7 @@
   {
     "name": "Bosphorous Turkish Cuisine - Dr Phillips 2",
     "slug": "bosphorousturkishcuisine-drphillips2",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "philly"
     ],
@@ -1619,7 +1505,7 @@
   {
     "name": "Philly Salads & Smoothies 116 South 11th Street",
     "slug": "phillysaladssmoothies116south11thstreet",
-    "category": "restaurant",
+    "category": "healthy",
     "metros": [
       "philly"
     ],
@@ -1631,8 +1517,7 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-profit-margins"
+    ]
   },
   {
     "name": "J-N-G Grill - Restaurant in New Philadelphia, OH",
@@ -1649,8 +1534,7 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
+    ]
   },
   {
     "name": "Restaurant analytics: How to collect (and use) guest data",
@@ -1658,8 +1542,7 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-analytics-data-guide"
+    ]
   },
   {
     "name": "How technology can help with the restaurant labor shortage",
@@ -1667,26 +1550,7 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-labor-shortage"
-  },
-  {
-    "name": "Best restaurant websites: 4 examples to steal from",
-    "slug": "bestrestaurantwebsites4examplestostealfr",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-websites"
-  },
-  {
-    "name": "Popmenu: Case Study - Cliff View",
-    "slug": "popmenucasestudy-cliffview",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/cliff-view"
+    ]
   },
   {
     "name": "The ultimate guide to restaurant branding",
@@ -1694,35 +1558,7 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-branding-guide"
-  },
-  {
-    "name": "5 menu design Ideas for digital-first restaurants",
-    "slug": "5menudesignideasfordigital-firstrestaura",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
-  },
-  {
-    "name": "Popmenu: Manage your restaurant's online reputation",
-    "slug": "popmenumanageyourrestaurantsonlinereputa",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/reputation-management"
-  },
-  {
-    "name": "Popmenu: Photography",
-    "slug": "popmenuphotography",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/photography"
+    ]
   },
   {
     "name": "Home",
@@ -1745,7 +1581,7 @@
   {
     "name": "Philly's Finest Cheesesteaks and Hoagies",
     "slug": "phillysfinestcheesesteaksandhoagies",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "philly"
     ],
@@ -1754,7 +1590,7 @@
   {
     "name": "Philly Hots Home Meal Delivery",
     "slug": "phillyhotshomemealdelivery",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "philly"
     ],
@@ -1772,7 +1608,7 @@
   {
     "name": "Forîn Café",
     "slug": "forncaf",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "philly"
     ],
@@ -1811,17 +1647,15 @@
     "category": "mexican",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://tacodelphia.menufy.com/"
+    ]
   },
   {
     "name": "VEGANISH - WEST PHILADELPHIA, PA 19131 (Menu ...",
     "slug": "veganish-westphiladelphiapa19131menu",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://veganish.menufy.com/"
+    ]
   },
   {
     "name": "Cray Taste - Philadelphia, PA 19106 (Menu & Order Online)",
@@ -1829,35 +1663,15 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://oldcitycraytaste.menufy.com/"
+    ]
   },
   {
     "name": "Home - Tandoori of India",
     "slug": "home-tandooriofindia",
-    "category": "restaurant",
+    "category": "indian",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://tandooriofindia.menufy.com/"
-  },
-  {
-    "name": "APG, MD - Delivery & Takeout",
-    "slug": "apgmd-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MD/APG"
-  },
-  {
-    "name": "Restaurants - Delivery & Takeout",
-    "slug": "restaurants-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://philadelphiasubspa.menufy.com/"
+    ]
   },
   {
     "name": "Home - Fresh Pizza",
@@ -1865,71 +1679,7 @@
     "category": "pizza",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://freshpizza.menufy.com/"
-  },
-  {
-    "name": "Philadelphia, PA - Delivery & Takeout",
-    "slug": "philadelphiapa-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/PA/Philadelphia"
-  },
-  {
-    "name": "Hibachi in Philadelphia, PA - Delivery & Takeout",
-    "slug": "hibachiinphiladelphiapa-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/PA/Philadelphia/Hibachi"
-  },
-  {
-    "name": "PA - Delivery & Takeout",
-    "slug": "pa-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/PA"
-  },
-  {
-    "name": "MEDIA, PA - Delivery & Takeout",
-    "slug": "mediapa-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/PA/MEDIA"
-  },
-  {
-    "name": "Pizza in Philadelphia, PA - Delivery & Takeout",
-    "slug": "pizzainphiladelphiapa-deliverytakeout",
-    "category": "pizza",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/PA/Philadelphia/Pizza"
-  },
-  {
-    "name": "Pakistani in Philadelphia, PA - Delivery & Takeout",
-    "slug": "pakistaniinphiladelphiapa-deliverytakeou",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/PA/Philadelphia/Pakistani"
-  },
-  {
-    "name": "Wings in Media, PA - Delivery & Takeout",
-    "slug": "wingsinmediapa-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/PA/Media/Wings"
+    ]
   },
   {
     "name": "Online Ordering and Restaurant Marketing System",
@@ -1937,8 +1687,7 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/"
+    ]
   },
   {
     "name": "The Owner.com Story",
@@ -1979,20 +1728,11 @@
   {
     "name": "Owner.com Leadership Team",
     "slug": "ownercomleadershipteam",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "philly"
     ],
     "websiteOrderUrl": "https://www.owner.com/leadership"
-  },
-  {
-    "name": "No Commission Delivery for Restaurants",
-    "slug": "nocommissiondeliveryforrestaurants",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/delivery"
   },
   {
     "name": "Owner.com Reviews",
@@ -2011,15 +1751,6 @@
       "philly"
     ],
     "websiteOrderUrl": "https://www.owner.com/how-owner-works"
-  },
-  {
-    "name": "Pricing",
-    "slug": "pricing",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/pricing"
   },
   {
     "name": "Restaurant Manager Hiring Guide",
@@ -2096,7 +1827,7 @@
   {
     "name": "Fishtown",
     "slug": "fishtown",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "philly"
     ],
@@ -2150,7 +1881,7 @@
   {
     "name": "California Tortilla Red LionX",
     "slug": "californiatortillaredlionx",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "philly"
     ],
@@ -2184,31 +1915,20 @@
     "websiteOrderUrl": "https://honeygrow.olo.com/menu/16th-street/products/35977576"
   },
   {
-    "name": "The Best Restaurant Websites in Philadelphia",
-    "slug": "thebestrestaurantwebsitesinphiladelphia",
-    "category": "restaurant",
-    "metros": [
-      "philly"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-philadelphia/"
-  },
-  {
     "name": "Chef Green at Shealita's Place",
     "slug": "chefgreenatshealitasplace",
     "category": "restaurant",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://shealitasplace.getbento.com/"
+    ]
   },
   {
     "name": "Breakfast & Lunch Catering in Rittenhouse Square & Fishtown",
     "slug": "breakfastlunchcateringinrittenhousesquar",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://milestable.getbento.com/"
+    ]
   },
   {
     "name": "Online Ordering",
@@ -2225,8 +1945,7 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://kinmepa.getbento.com/"
+    ]
   },
   {
     "name": "NY to Philly",
@@ -2234,13 +1953,12 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://nytophilly.getbento.com/"
+    ]
   },
   {
     "name": "Source Brewing",
     "slug": "sourcebrewing",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "philly"
     ],
@@ -2252,8 +1970,7 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://bestpricephilly.getbento.com/"
+    ]
   },
   {
     "name": "Restaurant Online Ordering",
@@ -2270,8 +1987,7 @@
     "category": "cafe",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://iloveveganvibes-archive.getbento.com/"
+    ]
   },
   {
     "name": "BentoBox",
@@ -2285,11 +2001,10 @@
   {
     "name": "Looking For Delivery Fulfillment For Your Restaurant?",
     "slug": "lookingfordeliveryfulfillmentforyourrest",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/benefits-of-delivery-fulfillment-for-restaurants/"
+    ]
   },
   {
     "name": "Menus",
@@ -2306,8 +2021,7 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/a-letter-from-the-ceo/"
+    ]
   },
   {
     "name": "Which Restaurant Reservation System Should You Use?",
@@ -2315,8 +2029,7 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/online-restaurant-reservation-systems/"
+    ]
   },
   {
     "name": "Restaurant Catering Software",
@@ -2330,16 +2043,15 @@
   {
     "name": "4 Tips to Improve Food Delivery Packaging",
     "slug": "4tipstoimprovefooddeliverypackaging",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "philly"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/food-delivery-packaging/"
+    ]
   },
   {
     "name": "BREWERYTOWN FOOD HALL - PHILADELPHIA, PA",
     "slug": "brewerytownfoodhall-philadelphiapa",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "philly"
     ],
@@ -2384,7 +2096,7 @@
   {
     "name": "CAKE - PHILADELPHIA, PA",
     "slug": "cake-philadelphiapa",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "philly"
     ],
@@ -2429,7 +2141,7 @@
   {
     "name": "Avenues Café - PHILADELPHIA, PA",
     "slug": "avenuescaf-philadelphiapa",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "philly"
     ],
@@ -2465,7 +2177,7 @@
   {
     "name": "THE MARKET BAKERY - PHILADELPHIA, PA",
     "slug": "themarketbakery-philadelphiapa",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "philly"
     ],
@@ -2492,7 +2204,7 @@
   {
     "name": "Poke Burri 3231 powelton ave",
     "slug": "pokeburri3231poweltonave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "philly"
     ],
@@ -2510,7 +2222,7 @@
   {
     "name": "Vegas Poke Company - Catering Menu ...",
     "slug": "vegaspokecompany-cateringmenu",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "philly"
     ],
@@ -2519,7 +2231,7 @@
   {
     "name": "Aloha Poke Merchandise Mart",
     "slug": "alohapokemerchandisemart",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "philly"
     ],
@@ -2528,7 +2240,7 @@
   {
     "name": "Poke Poke Loop (Palmer House)",
     "slug": "pokepokelooppalmerhouse",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "philly"
     ],
@@ -2546,7 +2258,7 @@
   {
     "name": "Fresh Catch Poke Co. - Hertel Ave.",
     "slug": "freshcatchpokeco-hertelave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "philly"
     ],
@@ -2555,7 +2267,7 @@
   {
     "name": "Poke Row 2735 NW Crossing Dr #105",
     "slug": "pokerow2735nwcrossingdr105",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "philly"
     ],
@@ -2564,7 +2276,7 @@
   {
     "name": "Poke OG - Downtown POKE OG DOWNTOWN",
     "slug": "pokeog-downtownpokeogdowntown",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "philly"
     ],
@@ -2573,7 +2285,7 @@
   {
     "name": "Big Daddy's Poke Shack",
     "slug": "bigdaddyspokeshack",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "philly"
     ],
@@ -2582,7 +2294,7 @@
   {
     "name": "POKE JAWS 3245 Business Park Drive",
     "slug": "pokejaws3245businessparkdrive",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "philly"
     ],
@@ -2591,7 +2303,7 @@
   {
     "name": "Poke Bunny 100 East Gay Street, Unit 1",
     "slug": "pokebunny100eastgaystreetunit1",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "philly"
     ],
@@ -2600,7 +2312,7 @@
   {
     "name": "Manoa Poke Shop",
     "slug": "manoapokeshop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "philly"
     ],
@@ -2609,7 +2321,7 @@
   {
     "name": "Lei'd Poke",
     "slug": "leidpoke",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "philly"
     ],
@@ -2618,7 +2330,7 @@
   {
     "name": "Poke Dot 17921 MacArthur Blvd",
     "slug": "pokedot17921macarthurblvd",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "philly"
     ],
@@ -2627,7 +2339,7 @@
   {
     "name": "Aloha Poke Co. Dupont Circle",
     "slug": "alohapokecodupontcircle",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "philly"
     ],
@@ -2636,7 +2348,7 @@
   {
     "name": "Seaside Poke Understory",
     "slug": "seasidepokeunderstory",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "philly"
     ],
@@ -2816,7 +2528,7 @@
   {
     "name": "Mr. Greek of Buffalo 1122 Elmwood Ave.",
     "slug": "mrgreekofbuffalo1122elmwoodave",
-    "category": "mediterranean",
+    "category": "wings",
     "metros": [
       "philly"
     ],
@@ -2879,7 +2591,7 @@
   {
     "name": "Padelis Street Greek SLC",
     "slug": "padelisstreetgreekslc",
-    "category": "deli",
+    "category": "mediterranean",
     "metros": [
       "philly"
     ],
@@ -2960,7 +2672,7 @@
   {
     "name": "Crave Breakfast & Philly Cheesesteaks",
     "slug": "cravebreakfastphillycheesesteaks",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "philly"
     ],
@@ -2987,7 +2699,7 @@
   {
     "name": "The Board and Brew Philadelphia",
     "slug": "theboardandbrewphiladelphia",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "philly"
     ],
@@ -3005,7 +2717,7 @@
   {
     "name": "The Breakfast Spot",
     "slug": "thebreakfastspot",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "philly"
     ],
@@ -3014,7 +2726,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "philly"
     ],
@@ -3023,7 +2735,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "philly"
     ],
@@ -3032,7 +2744,7 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "philly"
     ],
@@ -3041,7 +2753,7 @@
   {
     "name": "Base Smoothies + Juice Frisco Frisco",
     "slug": "basesmoothiesjuicefriscofrisco",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "philly"
     ],
@@ -3059,7 +2771,7 @@
   {
     "name": "Juva Juice - Starkville",
     "slug": "juvajuice-starkville",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "philly"
     ],
@@ -3068,7 +2780,7 @@
   {
     "name": "Juice It - 13th Ave S",
     "slug": "juiceit-13thaves",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "philly"
     ],
@@ -3077,7 +2789,7 @@
   {
     "name": "Grateful Juice Bar",
     "slug": "gratefuljuicebar",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "philly"
     ],
@@ -3095,7 +2807,7 @@
   {
     "name": "Juice Crafters Downtown LA",
     "slug": "juicecraftersdowntownla",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "philly"
     ],
@@ -3104,7 +2816,7 @@
   {
     "name": "Juice Crafters Los Feliz",
     "slug": "juicecrafterslosfeliz",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "philly"
     ],
@@ -3113,7 +2825,7 @@
   {
     "name": "Smoothie Time",
     "slug": "smoothietime",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "philly"
     ],
@@ -3122,7 +2834,7 @@
   {
     "name": "Blended Health & Smoothie Bar Olympia Plaza",
     "slug": "blendedhealthsmoothiebarolympiaplaza",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "philly"
     ],
@@ -3131,7 +2843,7 @@
   {
     "name": "Juice Portal",
     "slug": "juiceportal",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "philly"
     ],

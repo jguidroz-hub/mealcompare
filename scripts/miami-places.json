@@ -46,7 +46,7 @@
   {
     "name": "Old's Havana Cuban Bar & Cocina",
     "slug": "oldshavanacubanbarcocina",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "miami"
     ],
@@ -57,7 +57,7 @@
   {
     "name": "Versailles Restaurant Cuban Cuisine",
     "slug": "versaillesrestaurantcubancuisine",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "miami"
     ],
@@ -69,7 +69,7 @@
   {
     "name": "La Mulata | Cuban Restaurant Miami Beach",
     "slug": "lamulatacubanrestaurantmiamibeach",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "miami"
     ],
@@ -80,7 +80,7 @@
   {
     "name": "Esquina Cubana | Cuban Restaurant Miami Beach",
     "slug": "esquinacubanacubanrestaurantmiamibeach",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "miami"
     ],
@@ -91,7 +91,7 @@
   {
     "name": "Havana Vieja | Latin Restaurant Miami Beach",
     "slug": "havanaviejalatinrestaurantmiamibeach",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "miami"
     ],
@@ -102,7 +102,7 @@
   {
     "name": "Sala'o Cuban Restaurant & Bar - Live music",
     "slug": "salaocubanrestaurantbar-livemusic",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "miami"
     ],
@@ -125,7 +125,7 @@
   {
     "name": "Alma Cubana | Cuban Restaurant Miami Beach",
     "slug": "almacubanacubanrestaurantmiamibeach",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "miami"
     ],
@@ -136,7 +136,7 @@
   {
     "name": "Casa Cubana | Restaurant & Live Music",
     "slug": "casacubanarestaurantlivemusic",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "miami"
     ],
@@ -153,8 +153,7 @@
     ],
     "address": "1051 Collins Ave",
     "placeId": "ChIJB91mn3Wy2YgRNWDBhM0NGjE",
-    "website": "http://www.littlehavanarestaurant.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "http://www.littlehavanarestaurant.com/"
   },
   {
     "name": "Mayami Wynwood",
@@ -199,8 +198,7 @@
     ],
     "address": "2801 NW 2nd Ave",
     "placeId": "ChIJlyPZ16q32YgR2cpjqI36uDQ",
-    "website": "https://www.bakanwynwood.com/",
-    "websiteOrderUrl": "https://media-cdn.getbento.com/lkc8y0TQIiBrjVMq5Y3i_favicon.png"
+    "website": "https://www.bakanwynwood.com/"
   },
   {
     "name": "Astra Miami Rooftop",
@@ -211,8 +209,7 @@
     ],
     "address": "2121 NW 2nd Ave",
     "placeId": "ChIJyxSDUge32YgRHfTLkzof5k8",
-    "website": "https://www.astramiami.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "https://www.astramiami.com/"
   },
   {
     "name": "Le Chick Miami",
@@ -228,7 +225,7 @@
   {
     "name": "Ossobuco Miami - Steak house",
     "slug": "ossobucomiami-steakhouse",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "miami"
     ],
@@ -245,8 +242,7 @@
     ],
     "address": "251 NW 25th St",
     "placeId": "ChIJ1RIPXbK22YgRWFRMDfJuic8",
-    "website": "https://www.kyurestaurants.com/location/kyu-miami-1/?utm_source=gmb",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "https://www.kyurestaurants.com/location/kyu-miami-1/?utm_source=gmb"
   },
   {
     "name": "Manta Wynwood",
@@ -273,7 +269,7 @@
   {
     "name": "Joe's Stone Crab",
     "slug": "joesstonecrab",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "miami"
     ],
@@ -325,8 +321,7 @@
     ],
     "address": "700 Ocean Dr",
     "placeId": "ChIJbQDyqJK02YgR6kKjr7ipYiA",
-    "website": "http://afishcalledavalon.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "http://afishcalledavalon.com/"
   },
   {
     "name": "CORALLO 🇮🇹 Amalfi coast",
@@ -375,7 +370,7 @@
   {
     "name": "CJ's Crab Shack",
     "slug": "cjscrabshack",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "miami"
     ],
@@ -443,8 +438,7 @@
       "miami"
     ],
     "placeId": "ChIJZzgtHTW32YgR-k9p8IqD5m0",
-    "website": "https://www.cafelatrova.com/",
-    "websiteOrderUrl": "https://media-cdn.getbento.com/hnKkBt0RFiJdeHYqik3w_LaTrova-favicon.png"
+    "website": "https://www.cafelatrova.com/"
   },
   {
     "name": "BALL & CHAIN",
@@ -579,16 +573,6 @@
     "website": "http://aztecasouthbeach.com/"
   },
   {
-    "name": "ll Pastaiolo - Best Italian Restaurant South Beach, Miami Florida",
-    "slug": "llpastaiolo-bestitalianrestaurantsouthbe",
-    "category": "italian",
-    "metros": [
-      "miami"
-    ],
-    "placeId": "ChIJqSUo67K12YgR3T5kOxPXdF0",
-    "website": "https://ilpastaiolosouthbeach.com/"
-  },
-  {
     "name": "Santorini by Georgios",
     "slug": "santorinibygeorgios",
     "category": "restaurant",
@@ -624,7 +608,7 @@
   {
     "name": "Café Bastille Miami Beach",
     "slug": "cafbastillemiamibeach",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "miami"
     ],
@@ -675,7 +659,7 @@
   {
     "name": "305 Peruvian Modern Cuisine",
     "slug": "305peruvianmoderncuisine",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "miami"
     ],
@@ -695,7 +679,7 @@
   {
     "name": "Taipa Peruvian Restaurant- (Coral Gables-57 Ave)",
     "slug": "taipaperuvianrestaurant-coralgables-57av",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "miami"
     ],
@@ -763,15 +747,6 @@
     ]
   },
   {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/hiro-3007-ne-163rd-st"
-  },
-  {
     "name": "Mau Miami",
     "slug": "maumiami",
     "category": "restaurant",
@@ -790,49 +765,13 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/8559/locations"
   },
   {
-    "name": "Online ordering competitors every restaurant should know",
-    "slug": "onlineorderingcompetitorseveryrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know"
-  },
-  {
-    "name": "6 Best Popmenu Competitors to Consider (Pros & Cons)",
-    "slug": "6bestpopmenucompetitorstoconsiderproscon",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
-  },
-  {
     "name": "ChowNow vs. Square | Compare the difference",
     "slug": "chownowvssquarecomparethedifference",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "miami"
     ],
     "websiteOrderUrl": "https://www.owner.com/compare/chownow-vs-square"
-  },
-  {
-    "name": "Popmenu + Toast",
-    "slug": "popmenutoast",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/partner/toast"
   },
   {
     "name": "How to set up online food ordering in an afternoon",
@@ -840,26 +779,7 @@
     "category": "restaurant",
     "metros": [
       "miami"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
-  },
-  {
-    "name": "Popmenu Support Center",
-    "slug": "popmenusupportcenter",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://support.popmenu.com/s/article/Configuring-the-Popmenu-Toast-Integration"
-  },
-  {
-    "name": "Popmenu: We do more than grow your restaurant.",
-    "slug": "popmenuwedomorethangrowyourrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/"
+    ]
   },
   {
     "name": "All Star Pizza Miami , FL Call 305-385-1400",
@@ -918,7 +838,7 @@
   {
     "name": "Goodfella's Pizzeria Miami Location",
     "slug": "goodfellaspizzeriamiamilocation",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "miami"
     ],
@@ -1062,7 +982,7 @@
   {
     "name": "El Bagel - MiMo 6910 Biscayne Blvd, Miami, FL 33138",
     "slug": "elbagel-mimo6910biscayneblvdmiamifl33138",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "miami"
     ],
@@ -1177,42 +1097,6 @@
     "toastUrl": "https://order.toasttab.com/online/ironsidecafe"
   },
   {
-    "name": "Online Ordering for Halves & Wholes - Miami Beach",
-    "slug": "onlineorderingforhalveswholes-miamibeach",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5752/locations/7529"
-  },
-  {
-    "name": "Online Ordering for Restaurants with No Commissions",
-    "slug": "onlineorderingforrestaurantswithnocommis",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/11167/locations"
-  },
-  {
-    "name": "Online Ordering for Beach Mex",
-    "slug": "onlineorderingforbeachmex",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/387/locations"
-  },
-  {
-    "name": "Online Ordering for Rolling Harvest Food Truck",
-    "slug": "onlineorderingforrollingharvestfoodtruck",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/4462/locations/5795"
-  },
-  {
     "name": "Grazianos Restaurant Coral Gables - Order Online",
     "slug": "grazianosrestaurantcoralgables-orderonli",
     "category": "restaurant",
@@ -1224,7 +1108,7 @@
   {
     "name": "Rice Mediterranean Kitchen Coral Gables",
     "slug": "ricemediterraneankitchencoralgables",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "miami"
     ],
@@ -1332,7 +1216,7 @@
   {
     "name": "Cao Bakery #18 Coral Gables",
     "slug": "caobakery18coralgables",
-    "category": "cafe",
+    "category": "bakery",
     "metros": [
       "miami"
     ],
@@ -1395,7 +1279,7 @@
   {
     "name": "Doggi's Arepa Bar - Wynwood WW",
     "slug": "doggisarepabar-wynwoodww",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "miami"
     ],
@@ -1485,7 +1369,7 @@
   {
     "name": "Dimitrios Mediterranean Cuisine",
     "slug": "dimitriosmediterraneancuisine",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "miami"
     ],
@@ -1494,7 +1378,7 @@
   {
     "name": "DC PIE CO. 1010 Brickell ave",
     "slug": "dcpieco1010brickellave",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "miami"
     ],
@@ -1557,7 +1441,7 @@
   {
     "name": "Benihana Brickell",
     "slug": "benihanabrickell",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "miami"
     ],
@@ -1593,7 +1477,7 @@
   {
     "name": "Power Pizzeria Brickell",
     "slug": "powerpizzeriabrickell",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "miami"
     ],
@@ -1611,7 +1495,7 @@
   {
     "name": "Southern Grounds & Company Neptune Beach",
     "slug": "southerngroundscompanyneptunebeach",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "miami"
     ],
@@ -1647,7 +1531,7 @@
   {
     "name": "Mcks Tavern & Brewery 218 S. Beach Street",
     "slug": "mckstavernbrewery218sbeachstreet",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "miami"
     ],
@@ -1674,7 +1558,7 @@
   {
     "name": "Earlybird Breakfast Burritos Pacific Beach",
     "slug": "earlybirdbreakfastburritospacificbeach",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "miami"
     ],
@@ -1710,7 +1594,7 @@
   {
     "name": "Voodoo Brewing Co - VA Beach Virginia Beach",
     "slug": "voodoobrewingco-vabeachvirginiabeach",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "miami"
     ],
@@ -1872,7 +1756,7 @@
   {
     "name": "Checkout",
     "slug": "checkout",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "miami"
     ],
@@ -1881,7 +1765,7 @@
   {
     "name": "Koa Poke South Beach",
     "slug": "koapokesouthbeach",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "miami"
     ],
@@ -1890,7 +1774,7 @@
   {
     "name": "Poke OG - Downtown POKE OG DOWNTOWN",
     "slug": "pokeog-downtownpokeogdowntown",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "miami"
     ],
@@ -1899,7 +1783,7 @@
   {
     "name": "Poke OG @ 1800 143 NW 23 ST",
     "slug": "pokeog1800143nw23st",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "miami"
     ],
@@ -1908,7 +1792,7 @@
   {
     "name": "Sovereign: Poke, Boba, Asian Kitchen (Miami)",
     "slug": "sovereignpokebobaasiankitchenmiami",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "miami"
     ],
@@ -1917,7 +1801,7 @@
   {
     "name": "Sunny Poke Sunny Poke Miami Beach",
     "slug": "sunnypokesunnypokemiamibeach",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "miami"
     ],
@@ -1926,7 +1810,7 @@
   {
     "name": "Dang Boba, Poke & Banh Mi",
     "slug": "dangbobapokebanhmi",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "miami"
     ],
@@ -1935,7 +1819,7 @@
   {
     "name": "Poke Poke West Loop",
     "slug": "pokepokewestloop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "miami"
     ],
@@ -1944,7 +1828,7 @@
   {
     "name": "Seaside Poke Understory",
     "slug": "seasidepokeunderstory",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "miami"
     ],
@@ -1953,7 +1837,7 @@
   {
     "name": "Miyako Poke 867 S. Broadway Ste. 110",
     "slug": "miyakopoke867sbroadwayste110",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "miami"
     ],
@@ -1962,7 +1846,7 @@
   {
     "name": "NEW Siesta Poke 5206 Ocean Boulevard",
     "slug": "newsiestapoke5206oceanboulevard",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "miami"
     ],
@@ -1971,7 +1855,7 @@
   {
     "name": "Maui Poke",
     "slug": "mauipoke",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "miami"
     ],
@@ -1980,7 +1864,7 @@
   {
     "name": "Bloomington Dang Boba, Poke & Banh Mi",
     "slug": "bloomingtondangbobapokebanhmi",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "miami"
     ],
@@ -1989,7 +1873,7 @@
   {
     "name": "Mammoth Poke Bowl",
     "slug": "mammothpokebowl",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "miami"
     ],
@@ -2016,7 +1900,7 @@
   {
     "name": "The Chicken Spot - Miami 114 SW North River Dr",
     "slug": "thechickenspot-miami114swnorthriverdr",
-    "category": "restaurant",
+    "category": "chicken",
     "metros": [
       "miami"
     ],
@@ -2034,7 +1918,7 @@
   {
     "name": "Drunken Wok 2304 NW 36 ST, Miami, FL 33142",
     "slug": "drunkenwok2304nw36stmiamifl33142",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "miami"
     ],
@@ -2124,74 +2008,11 @@
   {
     "name": "ChowNow",
     "slug": "chownow",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "miami"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/2880/locations"
-  },
-  {
-    "name": "Popmenu: About Us",
-    "slug": "popmenuaboutus",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/about-us"
-  },
-  {
-    "name": "11 of the best restaurant menu designs to inspire you",
-    "slug": "11ofthebestrestaurantmenudesignstoinspir",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-menu-designs"
-  },
-  {
-    "name": "Popmenu - New",
-    "slug": "popmenu-new",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-websites"
-  },
-  {
-    "name": "Popmenu: Case Study - Taqueria Picoso",
-    "slug": "popmenucasestudy-taqueriapicoso",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/more-guests-larger-orders/taqueria-picoso"
-  },
-  {
-    "name": "Popmenu: Photography",
-    "slug": "popmenuphotography",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/photography"
-  },
-  {
-    "name": "Popmenu: Case Study - The Deck",
-    "slug": "popmenucasestudy-thedeck",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/the-deck"
-  },
-  {
-    "name": "Popmenu: Restaurant online ordering",
-    "slug": "popmenurestaurantonlineordering",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
   },
   {
     "name": "The ultimate guide to restaurant branding",
@@ -2199,26 +2020,7 @@
     "category": "restaurant",
     "metros": [
       "miami"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-branding-guide"
-  },
-  {
-    "name": "5 menu design Ideas for digital-first restaurants",
-    "slug": "5menudesignideasfordigital-firstrestaura",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
-  },
-  {
-    "name": "Popmenu: Case Study - B&B Butchers Restaurant",
-    "slug": "popmenucasestudy-bbbutchersrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/b-b-butchers-restaurant"
+    ]
   },
   {
     "name": "Virtual restaurants need these 6 digital tools",
@@ -2226,35 +2028,7 @@
     "category": "restaurant",
     "metros": [
       "miami"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/virtual-restaurants-need-these-6-digital-tools"
-  },
-  {
-    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
-    "slug": "popmenutoolkittherestaurantgrowthplayboo",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
-  },
-  {
-    "name": "Popmenu: Dynamic, interactive restaurant menus",
-    "slug": "popmenudynamicinteractiverestaurantmenus",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/dynamic-menu-tech"
-  },
-  {
-    "name": "Popmenu: Popmenu Pro",
-    "slug": "popmenupopmenupro",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/popmenu-pro"
+    ]
   },
   {
     "name": "Do you need a restaurant waitlist app?",
@@ -2262,8 +2036,7 @@
     "category": "restaurant",
     "metros": [
       "miami"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/do-you-need-a-restaurant-waitlist-app"
+    ]
   },
   {
     "name": "Best Venezuelan Food Truck",
@@ -2304,7 +2077,7 @@
   {
     "name": "Exclusive 900 Building Sagrado delivery",
     "slug": "exclusive900buildingsagradodelivery",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "miami"
     ],
@@ -2340,7 +2113,7 @@
   {
     "name": "Miami Food Photographer",
     "slug": "miamifoodphotographer",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "miami"
     ],
@@ -2403,7 +2176,7 @@
   {
     "name": "Thursday 8:20PM Miami Slice* (Full Pie)",
     "slug": "thursday820pmmiamislicefullpie",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "miami"
     ],
@@ -2428,184 +2201,12 @@
     "squareUrl": "https://unleashednutrition.square.site/product/miami-vice-32oz/327"
   },
   {
-    "name": "Miami, FL - Delivery & Takeout",
-    "slug": "miamifl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/Miami"
-  },
-  {
-    "name": "Miami Beach, FL - Delivery & Takeout",
-    "slug": "miamibeachfl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/Miami%20Beach"
-  },
-  {
     "name": "Major Food Catering - Miami, FL 33131 (Menu & Order Online)",
     "slug": "majorfoodcatering-miamifl33131menuordero",
     "category": "restaurant",
     "metros": [
       "miami"
-    ],
-    "websiteOrderUrl": "https://majorfoodcatering.menufy.com/"
-  },
-  {
-    "name": "Miami Gardens, FL - Delivery & Takeout",
-    "slug": "miamigardensfl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/Miami%20Gardens"
-  },
-  {
-    "name": "North Miami, FL - Delivery & Takeout",
-    "slug": "northmiamifl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/North%20Miami"
-  },
-  {
-    "name": "Hialeah, FL - Delivery & Takeout",
-    "slug": "hialeahfl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/Hialeah"
-  },
-  {
-    "name": "Venezuelan in North Miami Beach, FL - Delivery & Takeout",
-    "slug": "venezuelaninnorthmiamibeachfl-deliveryta",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/North%20Miami%20Beach/Venezuelan"
-  },
-  {
-    "name": "Miami Lakes, FL - Delivery & Takeout",
-    "slug": "miamilakesfl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/Miami%20Lakes"
-  },
-  {
-    "name": "Sandwiches in Miami, FL - Delivery & Takeout",
-    "slug": "sandwichesinmiamifl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/Miami/Sandwiches"
-  },
-  {
-    "name": "Haitian in Miami, FL - Delivery & Takeout",
-    "slug": "haitianinmiamifl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/Miami/Haitian"
-  },
-  {
-    "name": "Asian in Miami Gardens, FL - Delivery & Takeout",
-    "slug": "asianinmiamigardensfl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/Miami%20Gardens/Asian"
-  },
-  {
-    "name": "North Miami Beach, FL - Delivery & Takeout",
-    "slug": "northmiamibeachfl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/North%20Miami%20Beach"
-  },
-  {
-    "name": "Caribbean in South Miami, FL - Delivery & Takeout",
-    "slug": "caribbeaninsouthmiamifl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/South%20Miami/Caribbean"
-  },
-  {
-    "name": "Chicken in Miami, FL - Delivery & Takeout",
-    "slug": "chickeninmiamifl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/Miami/Chicken"
-  },
-  {
-    "name": "Caribbean in Miami Beach, FL - Delivery & Takeout",
-    "slug": "caribbeaninmiamibeachfl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/Miami%20Beach/Caribbean"
-  },
-  {
-    "name": "Cuban Food in North Miami, FL - Delivery & Takeout",
-    "slug": "cubanfoodinnorthmiamifl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/North%20Miami/Cuban%20Food"
-  },
-  {
-    "name": "American in North Miami, FL - Delivery & Takeout",
-    "slug": "americaninnorthmiamifl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/North%20Miami/American"
-  },
-  {
-    "name": "Mediterranean in Miami Gardens, FL - Delivery & Takeout",
-    "slug": "mediterraneaninmiamigardensfl-deliveryta",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/Miami%20Gardens/Mediterranean"
-  },
-  {
-    "name": "Chinese in Miami Gardens, FL - Delivery & Takeout",
-    "slug": "chineseinmiamigardensfl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/Miami%20Gardens/Chinese"
-  },
-  {
-    "name": "Hawaiian in MIAMI, FL - Delivery & Takeout",
-    "slug": "hawaiianinmiamifl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/MIAMI/Hawaiian"
+    ]
   },
   {
     "name": "Miami Catering",
@@ -2685,8 +2286,7 @@
     "category": "restaurant",
     "metros": [
       "miami"
-    ],
-    "websiteOrderUrl": "https://puravidacatering.olo.com/"
+    ]
   },
   {
     "name": "Alton Road / South Beach",
@@ -2788,15 +2388,6 @@
     "websiteOrderUrl": "https://slicelife.com/pizza-delivery/fl-miami"
   },
   {
-    "name": "The Best Restaurant Websites in Miami",
-    "slug": "thebestrestaurantwebsitesinmiami",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-miami/"
-  },
-  {
     "name": "Online Ordering",
     "slug": "onlineordering",
     "category": "restaurant",
@@ -2829,8 +2420,7 @@
     "category": "restaurant",
     "metros": [
       "miami"
-    ],
-    "websiteOrderUrl": "https://kitchen57miami.getbento.com/"
+    ]
   },
   {
     "name": "Tacos \"El Porky\"",
@@ -2838,8 +2428,7 @@
     "category": "mexican",
     "metros": [
       "miami"
-    ],
-    "websiteOrderUrl": "https://tacoselporky.getbento.com/"
+    ]
   },
   {
     "name": "Salsa Fiesta Grill",
@@ -2874,17 +2463,7 @@
     "category": "restaurant",
     "metros": [
       "miami"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/chef-to-chef-mia-2022/"
-  },
-  {
-    "name": "The Best Restaurant Websites in Los Angeles",
-    "slug": "thebestrestaurantwebsitesinlosangeles",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-los-angeles/"
+    ]
   },
   {
     "name": "Upcoming Events",
@@ -2961,7 +2540,7 @@
   {
     "name": "AREPAS Y MUCHO MAS - MIAMI, FL",
     "slug": "arepasymuchomas-miamifl",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "miami"
     ],
@@ -3060,7 +2639,7 @@
   {
     "name": "Peruvian Fusion (Downtown Miami)",
     "slug": "peruvianfusiondowntownmiami",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "miami"
     ],
@@ -3078,7 +2657,7 @@
   {
     "name": "PHO 79 - MIAMI, FL",
     "slug": "pho79-miamifl",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "miami"
     ],
@@ -3105,20 +2684,11 @@
   {
     "name": "Pho 79 III - MIAMI, FL",
     "slug": "pho79iii-miamifl",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "miami"
     ],
     "websiteOrderUrl": "https://www.clover.com/online-ordering/pho-79-miami-2"
-  },
-  {
-    "name": "Miami, FL Catering Near Me",
-    "slug": "miamiflcateringnearme",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.ezcater.com/catering/FL/MIAMI"
   },
   {
     "name": "Shahs of Kabob Catering in South Miami, FL - 5975 Sunset Dr",
@@ -3128,15 +2698,6 @@
       "miami"
     ],
     "websiteOrderUrl": "https://www.ezcater.com/catering/shahs-of-kabob-3"
-  },
-  {
-    "name": "Downtown Miami, FL Catering Near Me",
-    "slug": "downtownmiamiflcateringnearme",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.ezcater.com/catering/fl/downtown-miami"
   },
   {
     "name": "El Mio Catering in Miami, FL - 12362 Quail Roost Dr",
@@ -3193,15 +2754,6 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/sergios-restaurant-miami"
   },
   {
-    "name": "South Miami, FL Catering Near Me",
-    "slug": "southmiamiflcateringnearme",
-    "category": "restaurant",
-    "metros": [
-      "miami"
-    ],
-    "websiteOrderUrl": "https://www.ezcater.com/catering/fl/south-miami"
-  },
-  {
     "name": "Grand Cafe Menu",
     "slug": "grandcafemenu",
     "category": "cafe",
@@ -3231,7 +2783,7 @@
   {
     "name": "Padrino's Cuban Restaurant Boca Raton",
     "slug": "padrinoscubanrestaurantbocaraton",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "miami"
     ],
@@ -3276,7 +2828,7 @@
   {
     "name": "Gyromania Grill - Boca",
     "slug": "gyromaniagrill-boca",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "miami"
     ],
@@ -3330,7 +2882,7 @@
   {
     "name": "Bagel Inn Boca Raton",
     "slug": "bagelinnbocaraton",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "miami"
     ],
@@ -3348,7 +2900,7 @@
   {
     "name": "IL FIORI - View Menu & - 9874 Yamato Rd, Boca Raton, ...",
     "slug": "ilfiori-viewmenu-9874yamatordbocaraton",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "miami"
     ],
@@ -3465,7 +3017,7 @@
   {
     "name": "Manoa Poke Shop",
     "slug": "manoapokeshop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "miami"
     ],
@@ -3474,7 +3026,7 @@
   {
     "name": "Poke Boba 360 GREENWICH AVE",
     "slug": "pokeboba360greenwichave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "miami"
     ],
@@ -3483,7 +3035,7 @@
   {
     "name": "mammoth poke the loop ( lake street)",
     "slug": "mammothpokethelooplakestreet",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "miami"
     ],
@@ -3546,7 +3098,7 @@
   {
     "name": "Meraki Greek Gyro & Bakery Miami Beach",
     "slug": "merakigreekgyrobakerymiamibeach",
-    "category": "bakery",
+    "category": "mediterranean",
     "metros": [
       "miami"
     ],
@@ -3609,7 +3161,7 @@
   {
     "name": "GreenG Juice & Acai Edgewater Miami",
     "slug": "greengjuiceacaiedgewatermiami",
-    "category": "hawaiian",
+    "category": "poke",
     "metros": [
       "miami"
     ],
@@ -3618,7 +3170,7 @@
   {
     "name": "Mr. Greek of Buffalo 1122 Elmwood Ave.",
     "slug": "mrgreekofbuffalo1122elmwoodave",
-    "category": "mediterranean",
+    "category": "wings",
     "metros": [
       "miami"
     ],
@@ -3708,7 +3260,7 @@
   {
     "name": "Gofruit Juice Bar Miami",
     "slug": "gofruitjuicebarmiami",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "miami"
     ],
@@ -3717,7 +3269,7 @@
   {
     "name": "Devia Juice Bar - Upper Buena Vista",
     "slug": "deviajuicebar-upperbuenavista",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "miami"
     ],
@@ -3726,7 +3278,7 @@
   {
     "name": "GreenG Juice & Acai Miracle Mile",
     "slug": "greengjuiceacaimiraclemile",
-    "category": "hawaiian",
+    "category": "poke",
     "metros": [
       "miami"
     ],
@@ -3735,7 +3287,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "miami"
     ],
@@ -3744,7 +3296,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "miami"
     ],
@@ -3771,7 +3323,7 @@
   {
     "name": "Grateful Juice Bar",
     "slug": "gratefuljuicebar",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "miami"
     ],
@@ -3780,7 +3332,7 @@
   {
     "name": "EXOTI'KAZ Juice Bar 195 Northwest 40th Street",
     "slug": "exotikazjuicebar195northwest40thstreet",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "miami"
     ],

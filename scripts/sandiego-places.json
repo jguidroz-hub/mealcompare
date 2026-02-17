@@ -18,7 +18,7 @@
   {
     "name": "Freddy’s Chophouse",
     "slug": "freddyschophouse",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "sandiego"
     ]
@@ -66,7 +66,7 @@
   {
     "name": "The Fish Market",
     "slug": "thefishmarket",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "sandiego"
     ]
@@ -306,7 +306,7 @@
   {
     "name": "Mitch's Seafood",
     "slug": "mitchsseafood",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "sandiego"
     ]
@@ -314,7 +314,7 @@
   {
     "name": "Blue Water Seafood Market & Grill",
     "slug": "bluewaterseafoodmarketgrill",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "sandiego"
     ]
@@ -330,7 +330,7 @@
   {
     "name": "Ironside Fish & Oyster",
     "slug": "ironsidefishoyster",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "sandiego"
     ]
@@ -346,7 +346,7 @@
   {
     "name": "The Fishery",
     "slug": "thefishery",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "sandiego"
     ]
@@ -354,7 +354,7 @@
   {
     "name": "Point Loma Seafoods",
     "slug": "pointlomaseafoods",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "sandiego"
     ]
@@ -362,7 +362,7 @@
   {
     "name": "Eddie V's Prime Seafood",
     "slug": "eddievsprimeseafood",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "sandiego"
     ]
@@ -370,7 +370,7 @@
   {
     "name": "Brigantine Seafood & Oyster Bar",
     "slug": "brigantineseafoodoysterbar",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "sandiego"
     ]
@@ -466,7 +466,7 @@
   {
     "name": "Morning Glory",
     "slug": "morningglory",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "sandiego"
     ]
@@ -482,7 +482,7 @@
   {
     "name": "Benedict's Brunch",
     "slug": "benedictsbrunch",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "sandiego"
     ]
@@ -498,7 +498,7 @@
   {
     "name": "Mission Valley Breakfast Company",
     "slug": "missionvalleybreakfastcompany",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "sandiego"
     ]
@@ -506,7 +506,7 @@
   {
     "name": "Breakfast Republic",
     "slug": "breakfastrepublic",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "sandiego"
     ]
@@ -526,15 +526,6 @@
     "metros": [
       "sandiego"
     ]
-  },
-  {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/ladonaob"
   },
   {
     "name": "Evolution Fast Food",
@@ -593,7 +584,7 @@
   {
     "name": "Phoenix Dessert San Diego",
     "slug": "phoenixdessertsandiego",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "sandiego"
     ],
@@ -611,7 +602,7 @@
   {
     "name": "Karl Strauss Brewing Company Downtown San Diego",
     "slug": "karlstraussbrewingcompanydowntownsandieg",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "sandiego"
     ],
@@ -971,7 +962,7 @@
   {
     "name": "Tavola Nostra Pizzeria E Cucina Hillcrest, CA",
     "slug": "tavolanostrapizzeriaecucinahillcrestca",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "sandiego"
     ],
@@ -1034,7 +1025,7 @@
   {
     "name": "Hillcrest Brewing Company",
     "slug": "hillcrestbrewingcompany",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "sandiego"
     ],
@@ -1052,7 +1043,7 @@
   {
     "name": "Breakfast Company Gaslamp Breakfast Co",
     "slug": "breakfastcompanygaslampbreakfastco",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "sandiego"
     ],
@@ -1196,7 +1187,7 @@
   {
     "name": "Earlybird Breakfast Burritos Pacific Beach",
     "slug": "earlybirdbreakfastburritospacificbeach",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "sandiego"
     ],
@@ -1277,7 +1268,7 @@
   {
     "name": "Italian Homemade - Long Beach 6460 Pacific Coast Hwy # ...",
     "slug": "italianhomemade-longbeach6460pacificcoas",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "sandiego"
     ],
@@ -1295,7 +1286,7 @@
   {
     "name": "Pop Pie Co. & Stella Jean's Ice Cream Pacific Beach",
     "slug": "poppiecostellajeansicecreampacificbeach",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "sandiego"
     ],
@@ -1619,7 +1610,7 @@
   {
     "name": "Order Gyu-kaku Japanese BBQ - San Diego, CA Online",
     "slug": "ordergyu-kakujapanesebbq-sandiegocaonlin",
-    "category": "bbq",
+    "category": "japanese",
     "metros": [
       "sandiego"
     ],
@@ -1637,7 +1628,7 @@
   {
     "name": "Trending Salads near San Diego, CA",
     "slug": "trendingsaladsnearsandiegoca",
-    "category": "restaurant",
+    "category": "healthy",
     "metros": [
       "sandiego"
     ],
@@ -1646,7 +1637,7 @@
   {
     "name": "Trending Fried Chicken near San Diego, CA",
     "slug": "trendingfriedchickennearsandiegoca",
-    "category": "restaurant",
+    "category": "chicken",
     "metros": [
       "sandiego"
     ],
@@ -1676,139 +1667,12 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
-  },
-  {
-    "name": "Popmenu: About Us",
-    "slug": "popmenuaboutus",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/about-us"
-  },
-  {
-    "name": "Popmenu: Case Study - The Deck",
-    "slug": "popmenucasestudy-thedeck",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/the-deck"
-  },
-  {
-    "name": "11 of the best restaurant menu designs to inspire you",
-    "slug": "11ofthebestrestaurantmenudesignstoinspir",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-menu-designs"
-  },
-  {
-    "name": "ACS",
-    "slug": "acs",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://affordable-catering.popmenu.com/"
-  },
-  {
-    "name": "Popmenu - New",
-    "slug": "popmenu-new",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-websites"
-  },
-  {
-    "name": "Top Trending Dishes - eat.popmenu.com",
-    "slug": "toptrendingdishes-eatpopmenucom",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://eat.popmenu.com/places/global/dishes/3177684-the-original"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
-  },
-  {
-    "name": "Popmenu: Case Study - Dos Salsas",
-    "slug": "popmenucasestudy-dossalsas",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
-  },
-  {
-    "name": "Popmenu: Case Study - B&B Butchers Restaurant",
-    "slug": "popmenucasestudy-bbbutchersrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/b-b-butchers-restaurant"
-  },
-  {
-    "name": "5 menu design Ideas for digital-first restaurants",
-    "slug": "5menudesignideasfordigital-firstrestaura",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
-  },
-  {
-    "name": "Popmenu: Restaurant online ordering",
-    "slug": "popmenurestaurantonlineordering",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
-  },
-  {
-    "name": "Popmenu: Case Study - Alfred's Restaurant",
-    "slug": "popmenucasestudy-alfredsrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/alfreds-restaurant"
-  },
-  {
-    "name": "Popmenu: Photography",
-    "slug": "popmenuphotography",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/photography"
-  },
-  {
-    "name": "Popmenu: We do more than grow your restaurant.",
-    "slug": "popmenuwedomorethangrowyourrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/"
+    ]
   },
   {
     "name": "Vegan Street Food",
     "slug": "veganstreetfood",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "sandiego"
     ],
@@ -1853,7 +1717,7 @@
   {
     "name": "Bowls",
     "slug": "bowls",
-    "category": "restaurant",
+    "category": "healthy",
     "metros": [
       "sandiego"
     ],
@@ -1905,168 +1769,6 @@
     "squareUrl": "https://san-diego-decals-co.square.site/"
   },
   {
-    "name": "San Diego, CA - Delivery & Takeout",
-    "slug": "sandiegoca-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Diego"
-  },
-  {
-    "name": "Deep Dish in San Diego, CA - Delivery & Takeout",
-    "slug": "deepdishinsandiegoca-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Diego/Deep%20Dish"
-  },
-  {
-    "name": "Indian in San Diego, CA - Delivery & Takeout",
-    "slug": "indianinsandiegoca-deliverytakeout",
-    "category": "indian",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Diego/Indian"
-  },
-  {
-    "name": "Vietnamese in San Diego, CA - Delivery & Takeout",
-    "slug": "vietnameseinsandiegoca-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Diego/Vietnamese"
-  },
-  {
-    "name": "Mexican in San Diego, CA - Delivery & Takeout",
-    "slug": "mexicaninsandiegoca-deliverytakeout",
-    "category": "mexican",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Diego/Mexican"
-  },
-  {
-    "name": "Japanese in San Diego, CA - Delivery & Takeout",
-    "slug": "japaneseinsandiegoca-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Diego/Japanese"
-  },
-  {
-    "name": "Indo-Chinese in San Diego, CA - Delivery & Takeout",
-    "slug": "indo-chineseinsandiegoca-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Diego/Indo-Chinese"
-  },
-  {
-    "name": "Soul Food in San Diego, CA - Delivery & Takeout",
-    "slug": "soulfoodinsandiegoca-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Diego/Soul%20Food"
-  },
-  {
-    "name": "Asian in San Diego, CA - Delivery & Takeout",
-    "slug": "asianinsandiegoca-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Diego/Asian"
-  },
-  {
-    "name": "Dessert in San Diego, CA - Delivery & Takeout",
-    "slug": "dessertinsandiegoca-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CA/San Diego/Dessert"
-  },
-  {
-    "name": "San Ysidro, CA - Delivery & Takeout",
-    "slug": "sanysidroca-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Ysidro"
-  },
-  {
-    "name": "Restaurants - Delivery & Takeout",
-    "slug": "restaurants-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://urbanindia.menufy.com/"
-  },
-  {
-    "name": "Energy Drinks in SAN DIEGO, CA - Delivery & Takeout",
-    "slug": "energydrinksinsandiegoca-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CA/SAN%20DIEGO/Energy%20Drinks"
-  },
-  {
-    "name": "SAN CLEMENTE, CA - Delivery & Takeout",
-    "slug": "sanclementeca-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CA/SAN%20CLEMENTE"
-  },
-  {
-    "name": "SAN BERNARDINO, CA - Delivery & Takeout",
-    "slug": "sanbernardinoca-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CA/SAN%20BERNARDINO"
-  },
-  {
-    "name": "Mexican in SAN DIMAS, CA - Delivery & Takeout",
-    "slug": "mexicaninsandimasca-deliverytakeout",
-    "category": "mexican",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CA/SAN%20DIMAS/Mexican"
-  },
-  {
-    "name": "SAN DIMAS, CA - Delivery & Takeout",
-    "slug": "sandimasca-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CA/SAN%20DIMAS"
-  },
-  {
-    "name": "San Rafael, CA - Delivery & Takeout",
-    "slug": "sanrafaelca-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Rafael"
-  },
-  {
     "name": "San Diego UTC Catering",
     "slug": "sandiegoutccatering",
     "category": "restaurant",
@@ -2087,7 +1789,7 @@
   {
     "name": "Panini Kabob Grill - UTC",
     "slug": "paninikabobgrill-utc",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "sandiego"
     ],
@@ -2114,7 +1816,7 @@
   {
     "name": "Panini Kabob Grill - Mission Valley",
     "slug": "paninikabobgrill-missionvalley",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "sandiego"
     ],
@@ -2159,7 +1861,7 @@
   {
     "name": "Panini Kabob Grill - Del Mar",
     "slug": "paninikabobgrill-delmar",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "sandiego"
     ],
@@ -2177,7 +1879,7 @@
   {
     "name": "Randy’s Donuts Aero Drive",
     "slug": "randysdonutsaerodrive",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "sandiego"
     ],
@@ -2213,7 +1915,7 @@
   {
     "name": "Lee's Sandwiches San Diego",
     "slug": "leessandwichessandiego",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "sandiego"
     ],
@@ -2222,7 +1924,7 @@
   {
     "name": "Sammy's Scripps Ranch",
     "slug": "sammysscrippsranch",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "sandiego"
     ],
@@ -2231,7 +1933,7 @@
   {
     "name": "Pita 22 - Mediterranean Restaurant in San Diego, CA",
     "slug": "pita22-mediterraneanrestaurantinsandiego",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "sandiego"
     ],
@@ -2243,8 +1945,7 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ],
-    "websiteOrderUrl": "https://gallegosmexicanfood.getbento.com"
+    ]
   },
   {
     "name": "Mexican Food & Catering - Del Mar & Carmel Valley, San Diego",
@@ -2252,8 +1953,7 @@
     "category": "mexican",
     "metros": [
       "sandiego"
-    ],
-    "websiteOrderUrl": "https://goporkyland-archive.getbento.com/"
+    ]
   },
   {
     "name": "Tocaya Organica",
@@ -2261,8 +1961,7 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ],
-    "websiteOrderUrl": "https://tocayaorganica.getbento.com/"
+    ]
   },
   {
     "name": "Online Ordering",
@@ -2276,7 +1975,7 @@
   {
     "name": "Bánh Mì Hội An - Vietnamese restaurant in San Diego, CA",
     "slug": "bnhmhian-vietnameserestaurantinsandiegoc",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "sandiego"
     ],
@@ -2288,8 +1987,7 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ],
-    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/da0852b18398aa96542d852e7f5a44d2/media/menus_files/sIw00KNRkKi67t8sUSbW_Flora%20dinner%2010.09.18.pdf"
+    ]
   },
   {
     "name": "DINNER Fall 2021 STARTERS",
@@ -2297,8 +1995,7 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ],
-    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/b9ff056cb393704c55946141b6b4c65f/media/Owzcr742Q52aBPJXx0vF_FW%20Fall%20Dinner%20Menu%209.27.pdf"
+    ]
   },
   {
     "name": "Restaurant Online Ordering",
@@ -2315,8 +2012,7 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/assistance-and-resource-guide-for-restaurants/"
+    ]
   },
   {
     "name": "Which Restaurant Reservation System Should You Use?",
@@ -2324,8 +2020,7 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/online-restaurant-reservation-systems/"
+    ]
   },
   {
     "name": "Dine-in ordering",
@@ -2342,8 +2037,7 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/facebook-instagram-online-order-now/"
+    ]
   },
   {
     "name": "Direct Online Ordering System Advantages for Restaurants",
@@ -2351,44 +2045,7 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/direct-online-ordering-system-for-restaurants/"
-  },
-  {
-    "name": "The Best Restaurant Websites in Los Angeles",
-    "slug": "thebestrestaurantwebsitesinlosangeles",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-los-angeles/"
-  },
-  {
-    "name": "The 20 Best Restaurant Websites of 2024",
-    "slug": "the20bestrestaurantwebsitesof2024",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-design/"
-  },
-  {
-    "name": "Best Restaurant Websites - Texas",
-    "slug": "bestrestaurantwebsites-texas",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-texas/"
-  },
-  {
-    "name": "The Best Restaurant Websites in San Francisco",
-    "slug": "thebestrestaurantwebsitesinsanfrancisco",
-    "category": "restaurant",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-san-francisco/"
+    ]
   },
   {
     "name": "UMI SUSHI - SAN DIEGO, CA",
@@ -2420,7 +2077,7 @@
   {
     "name": "BURRITO SANTANA - SAN DIEGO, CA",
     "slug": "burritosantana-sandiegoca",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "sandiego"
     ],
@@ -2447,7 +2104,7 @@
   {
     "name": "Awash Ethiopian Restaurant & Market - SAN DIEGO, CA",
     "slug": "awashethiopianrestaurantmarket-sandiegoc",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "sandiego"
     ],
@@ -2483,7 +2140,7 @@
   {
     "name": "Mimoza Mediterranean Restaurant - SAN DIEGO, CA",
     "slug": "mimozamediterraneanrestaurant-sandiegoca",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "sandiego"
     ],
@@ -2492,7 +2149,7 @@
   {
     "name": "Mimoza Mediterranean Restaurant",
     "slug": "mimozamediterraneanrestaurant",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "sandiego"
     ],
@@ -2519,7 +2176,7 @@
   {
     "name": "SIDNYS BAGELS & DELI - SAN DIEGO, CA",
     "slug": "sidnysbagelsdeli-sandiegoca",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "sandiego"
     ],
@@ -2582,7 +2239,7 @@
   {
     "name": "Seaside Poke Understory",
     "slug": "seasidepokeunderstory",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "sandiego"
     ],
@@ -2591,7 +2248,7 @@
   {
     "name": "Poke OG - Downtown POKE OG DOWNTOWN",
     "slug": "pokeog-downtownpokeogdowntown",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "sandiego"
     ],
@@ -2600,7 +2257,7 @@
   {
     "name": "Lei'd Poke",
     "slug": "leidpoke",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "sandiego"
     ],
@@ -2609,7 +2266,7 @@
   {
     "name": "Poke Burrito Astoria 37-07 30th Ave.",
     "slug": "pokeburritoastoria37-0730thave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "sandiego"
     ],
@@ -2618,7 +2275,7 @@
   {
     "name": "Manoa Poke Shop",
     "slug": "manoapokeshop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "sandiego"
     ],
@@ -2627,7 +2284,7 @@
   {
     "name": "Fresh Catch Poke Co. - Hertel Ave.",
     "slug": "freshcatchpokeco-hertelave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "sandiego"
     ],
@@ -2654,7 +2311,7 @@
   {
     "name": "paradise biryani - san diego",
     "slug": "paradisebiryani-sandiego",
-    "category": "restaurant",
+    "category": "indian",
     "metros": [
       "sandiego"
     ],
@@ -2672,7 +2329,7 @@
   {
     "name": "Mo's Seafood & Chowder Seaside",
     "slug": "mosseafoodchowderseaside",
-    "category": "seafood",
+    "category": "chinese",
     "metros": [
       "sandiego"
     ],
@@ -2843,7 +2500,7 @@
   {
     "name": "Sunday Breakfast Society 2322 Proctor Valley Road, suite ...",
     "slug": "sundaybreakfastsociety2322proctorvalleyr",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "sandiego"
     ],
@@ -2852,7 +2509,7 @@
   {
     "name": "Grab & Go Subs One American Plaza Downtown San ...",
     "slug": "grabgosubsoneamericanplazadowntownsan",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "sandiego"
     ],
@@ -2870,7 +2527,7 @@
   {
     "name": "Juice Adventure 935 Otay Lakes Rd",
     "slug": "juiceadventure935otaylakesrd",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "sandiego"
     ],
@@ -2879,7 +2536,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "sandiego"
     ],
@@ -2888,7 +2545,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "sandiego"
     ],
@@ -2906,7 +2563,7 @@
   {
     "name": "Rock 'n Juice",
     "slug": "rocknjuice",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "sandiego"
     ],
@@ -2915,7 +2572,7 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "sandiego"
     ],
@@ -2942,7 +2599,7 @@
   {
     "name": "Juice Portal",
     "slug": "juiceportal",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "sandiego"
     ],
@@ -2951,7 +2608,7 @@
   {
     "name": "Juice It - 13th Ave S",
     "slug": "juiceit-13thaves",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "sandiego"
     ],
@@ -2960,7 +2617,7 @@
   {
     "name": "Fresco Juice Co. downtown Billings",
     "slug": "frescojuicecodowntownbillings",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "sandiego"
     ],
@@ -2969,19 +2626,10 @@
   {
     "name": "Smoothie Time",
     "slug": "smoothietime",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "sandiego"
     ],
     "toastUrl": "https://order.toasttab.com/online/smoothie-time"
-  },
-  {
-    "name": "Online Ordering for Sanfratello's Pizza",
-    "slug": "onlineorderingforsanfratellospizza",
-    "category": "pizza",
-    "metros": [
-      "sandiego"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/2592/locations/3386"
   }
 ]

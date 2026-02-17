@@ -18,7 +18,7 @@
   {
     "name": "Nick's Fish House",
     "slug": "nicksfishhouse",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "baltimore"
     ]
@@ -98,7 +98,7 @@
   {
     "name": "Thames Street Oyster House",
     "slug": "thamesstreetoysterhouse",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "baltimore"
     ]
@@ -146,7 +146,7 @@
   {
     "name": "Max's Taphouse",
     "slug": "maxstaphouse",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "baltimore"
     ]
@@ -154,7 +154,7 @@
   {
     "name": "Tre Fratelli Italian Ristorante",
     "slug": "trefratelliitalianristorante",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "baltimore"
     ]
@@ -200,17 +200,9 @@
     ]
   },
   {
-    "name": "YARD",
-    "slug": "yard",
-    "category": "restaurant",
-    "metros": [
-      "baltimore"
-    ]
-  },
-  {
     "name": "Riverside Taphouse",
     "slug": "riversidetaphouse",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "baltimore"
     ]
@@ -218,7 +210,7 @@
   {
     "name": "Baltimore Seafood",
     "slug": "baltimoreseafood",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "baltimore"
     ]
@@ -234,7 +226,7 @@
   {
     "name": "Angie's Seafood",
     "slug": "angiesseafood",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "baltimore"
     ]
@@ -242,7 +234,7 @@
   {
     "name": "L.P. Steamers",
     "slug": "lpsteamers",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "baltimore"
     ]
@@ -250,7 +242,7 @@
   {
     "name": "Jimmy's Famous Seafood",
     "slug": "jimmysfamousseafood",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "baltimore"
     ]
@@ -258,7 +250,7 @@
   {
     "name": "Phillips Seafood",
     "slug": "phillipsseafood",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "baltimore"
     ]
@@ -282,7 +274,7 @@
   {
     "name": "Everybody Loves Brunch",
     "slug": "everybodylovesbrunch",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "baltimore"
     ]
@@ -346,7 +338,7 @@
   {
     "name": "Café Dear Leon",
     "slug": "cafdearleon",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "baltimore"
     ]
@@ -371,25 +363,16 @@
   {
     "name": "R&R Taqueria DOWNTOWN BALTIMORE ...",
     "slug": "rrtaqueriadowntownbaltimore",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "baltimore"
     ],
     "toastUrl": "https://order.toasttab.com/online/r-r-taqueria-2-e-lombard-st"
   },
   {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "baltimore"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/marta"
-  },
-  {
     "name": "Baltimore Brewhouse",
     "slug": "baltimorebrewhouse",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "baltimore"
     ],
@@ -398,7 +381,7 @@
   {
     "name": "Creole Soul Restaurant R. House Baltimore",
     "slug": "creolesoulrestaurantrhousebaltimore",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "baltimore"
     ],
@@ -587,7 +570,7 @@
   {
     "name": "Facci Ristorante Baltimore",
     "slug": "facciristorantebaltimore",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "baltimore"
     ],
@@ -704,7 +687,7 @@
   {
     "name": "Papi's Fells Point Fells Point",
     "slug": "papisfellspointfellspoint",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "baltimore"
     ],
@@ -812,7 +795,7 @@
   {
     "name": "Angeli's Pizzeria III Federal Hill",
     "slug": "angelispizzeriaiiifederalhill",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "baltimore"
     ],
@@ -920,7 +903,7 @@
   {
     "name": "Trillium Brewing - Forever Home Canton",
     "slug": "trilliumbrewing-foreverhomecanton",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "baltimore"
     ],
@@ -938,7 +921,7 @@
   {
     "name": "American Flatbread - Canton 110 Albany Turnpike",
     "slug": "americanflatbread-canton110albanyturnpik",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "baltimore"
     ],
@@ -1001,7 +984,7 @@
   {
     "name": "Brewster's Bar & Grill 3595 Canton Rd ste 326",
     "slug": "brewstersbargrill3595cantonrdste326",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "baltimore"
     ],
@@ -1064,7 +1047,7 @@
   {
     "name": "The Brewer's Art Midtown / Mount Vernon",
     "slug": "thebrewersartmidtownmountvernon",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "baltimore"
     ],
@@ -1073,7 +1056,7 @@
   {
     "name": "Sammy's Trattoria - Mt. Vernon",
     "slug": "sammystrattoria-mtvernon",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "baltimore"
     ],
@@ -1136,7 +1119,7 @@
   {
     "name": "The Time Brewpub 600 Mount Vernon Drive",
     "slug": "thetimebrewpub600mountvernondrive",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "baltimore"
     ],
@@ -1163,7 +1146,7 @@
   {
     "name": "Attman's Baltimore Deli",
     "slug": "attmansbaltimoredeli",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "baltimore"
     ],
@@ -1220,8 +1203,7 @@
     "category": "indian",
     "metros": [
       "baltimore"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/marylandtandoor.com"
+    ]
   },
   {
     "name": "Basmati Indian Restaurant",
@@ -1289,7 +1271,7 @@
   {
     "name": "Bosphorous Turkish Cuisine - Winter Park 1",
     "slug": "bosphorousturkishcuisine-winterpark1",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "baltimore"
     ],
@@ -1298,7 +1280,7 @@
   {
     "name": "Bosphorous Turkish Cuisine - Winter Garden 4",
     "slug": "bosphorousturkishcuisine-wintergarden4",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "baltimore"
     ],
@@ -1343,7 +1325,7 @@
   {
     "name": "Vegan Juiceology",
     "slug": "veganjuiceology",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "baltimore"
     ],
@@ -1352,7 +1334,7 @@
   {
     "name": "Chihuahua Brothers Vegan Taqueria",
     "slug": "chihuahuabrothersvegantaqueria",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "baltimore"
     ],
@@ -1361,7 +1343,7 @@
   {
     "name": "Vegan Snack Attack",
     "slug": "vegansnackattack",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "baltimore"
     ],
@@ -1467,40 +1449,13 @@
     "squareUrl": "https://live-baltimore.square.site/"
   },
   {
-    "name": "Baltimore, MD - Delivery & Takeout",
-    "slug": "baltimoremd-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "baltimore"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MD/Baltimore"
-  },
-  {
     "name": "Delivery & Takeout - Maryland, Order Food Online!",
     "slug": "deliverytakeout-marylandorderfoodonline",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "baltimore"
     ],
     "websiteOrderUrl": "https://www.menufy.com/MD"
-  },
-  {
-    "name": "NEW BALTIMORE, MI - Delivery & Takeout",
-    "slug": "newbaltimoremi-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "baltimore"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MI/NEW%20BALTIMORE"
-  },
-  {
-    "name": "Hot Pot in Baltimore, MD - Delivery & Takeout",
-    "slug": "hotpotinbaltimoremd-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "baltimore"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MD/Baltimore/Hot%20Pot"
   },
   {
     "name": "The Spot - Baltimore, MD 21202 (Menu & Order Online)",
@@ -1512,139 +1467,12 @@
     "websiteOrderUrl": "https://thespotpizzeria.menufy.com/order"
   },
   {
-    "name": "Curtis Bay, MD - Delivery & Takeout",
-    "slug": "curtisbaymd-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "baltimore"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MD/Curtis%20Bay"
-  },
-  {
     "name": "Jasa Kabob - Baltimore, MD 21224 (Menu & Order Online)",
     "slug": "jasakabob-baltimoremd21224menuorderonlin",
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ],
-    "websiteOrderUrl": "https://jasakaboborder.menufy.com/"
-  },
-  {
-    "name": "Balitimore, MD - Delivery & Takeout",
-    "slug": "balitimoremd-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "baltimore"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MD/Balitimore"
-  },
-  {
-    "name": "Hot Pot in Owings Mills, MD - Delivery & Takeout",
-    "slug": "hotpotinowingsmillsmd-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "baltimore"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MD/Owings%20Mills/Hot%20Pot"
-  },
-  {
-    "name": "RANDALLSTOWN, MD - Delivery & Takeout",
-    "slug": "randallstownmd-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "baltimore"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MD/RANDALLSTOWN"
-  },
-  {
-    "name": "Baltimore, OH - Delivery & Takeout",
-    "slug": "baltimoreoh-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "baltimore"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OH/Baltimore"
-  },
-  {
-    "name": "Seafood in Baltimore, OH - Delivery & Takeout",
-    "slug": "seafoodinbaltimoreoh-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "baltimore"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OH/Baltimore/Seafood"
-  },
-  {
-    "name": "Taco in Baltimore, MD - Delivery & Takeout",
-    "slug": "tacoinbaltimoremd-deliverytakeout",
-    "category": "mexican",
-    "metros": [
-      "baltimore"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MD/Baltimore/Taco"
-  },
-  {
-    "name": "Soul Food in Baltimore, MD - Delivery & Takeout",
-    "slug": "soulfoodinbaltimoremd-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "baltimore"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MD/Baltimore/Soul%20Food"
-  },
-  {
-    "name": "Columbia, MD - Delivery & Takeout",
-    "slug": "columbiamd-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "baltimore"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MD/Columbia"
-  },
-  {
-    "name": "Breakfast in Baltimore, MD - Delivery & Takeout",
-    "slug": "breakfastinbaltimoremd-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "baltimore"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MD/Baltimore/Breakfast"
-  },
-  {
-    "name": "HALETHORPE, MD - Delivery & Takeout",
-    "slug": "halethorpemd-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "baltimore"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MD/HALETHORPE"
-  },
-  {
-    "name": "Pizza in Baltimore, MD - Delivery & Takeout",
-    "slug": "pizzainbaltimoremd-deliverytakeout",
-    "category": "pizza",
-    "metros": [
-      "baltimore"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MD/Baltimore/Pizza"
-  },
-  {
-    "name": "Seafood in Baltimore, MD - Delivery & Takeout",
-    "slug": "seafoodinbaltimoremd-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "baltimore"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MD/Baltimore/Seafood"
-  },
-  {
-    "name": "Filipino in Baltimore, MD - Delivery & Takeout",
-    "slug": "filipinoinbaltimoremd-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "baltimore"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MD/Baltimore/Filipino"
+    ]
   },
   {
     "name": "Kona Grill Baltimore",
@@ -1676,7 +1504,7 @@
   {
     "name": "California Tortilla Quarry Lake",
     "slug": "californiatortillaquarrylake",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "baltimore"
     ],
@@ -1712,7 +1540,7 @@
   {
     "name": "Capriotti's Sandwich Shop",
     "slug": "capriottissandwichshop",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "baltimore"
     ],
@@ -1724,8 +1552,7 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ],
-    "websiteOrderUrl": "https://truefoodmarket.olo.com/"
+    ]
   },
   {
     "name": "Gaithersburg Catering",
@@ -1739,7 +1566,7 @@
   {
     "name": "BJ's Restaurants and Brewhouse",
     "slug": "bjsrestaurantsandbrewhouse",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "baltimore"
     ],
@@ -1748,7 +1575,7 @@
   {
     "name": "Vernon",
     "slug": "vernon",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "baltimore"
     ],
@@ -1757,7 +1584,7 @@
   {
     "name": "Puyallup",
     "slug": "puyallup",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "baltimore"
     ],
@@ -1766,7 +1593,7 @@
   {
     "name": "Bellevue",
     "slug": "bellevue",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "baltimore"
     ],
@@ -1802,7 +1629,7 @@
   {
     "name": "Online Ordering",
     "slug": "onlineordering",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "baltimore"
     ],
@@ -1811,7 +1638,7 @@
   {
     "name": "Ovenbird Bakery - Bakery in Baltimore, MD",
     "slug": "ovenbirdbakery-bakeryinbaltimoremd",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "baltimore"
     ],
@@ -1859,17 +1686,15 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/facebook-instagram-online-order-now/"
+    ]
   },
   {
     "name": "Looking For Delivery Fulfillment For Your Restaurant?",
     "slug": "lookingfordeliveryfulfillmentforyourrest",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "baltimore"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/benefits-of-delivery-fulfillment-for-restaurants/"
+    ]
   },
   {
     "name": "Diner Database",
@@ -1895,17 +1720,15 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/direct-online-ordering-system-for-restaurants/"
+    ]
   },
   {
     "name": "How Restaurants Can Start In-House Delivery",
     "slug": "howrestaurantscanstartin-housedelivery",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "baltimore"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/how-restaurants-can-start-in-house-delivery/"
+    ]
   },
   {
     "name": "Tell your guests about Online Ordering on Google",
@@ -1922,13 +1745,12 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/why-we-built-restaurant-pre-order-catering/"
+    ]
   },
   {
     "name": "Takeout & Delivery",
     "slug": "takeoutdelivery",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "baltimore"
     ],
@@ -2027,7 +1849,7 @@
   {
     "name": "BLOOMING DELI - BALTIMORE, MD",
     "slug": "bloomingdeli-baltimoremd",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "baltimore"
     ],
@@ -2054,7 +1876,7 @@
   {
     "name": "Taqueria Los Perez Baltimore - Annapolis Rd",
     "slug": "taquerialosperezbaltimore-annapolisrd",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "baltimore"
     ],
@@ -2063,7 +1885,7 @@
   {
     "name": "EMMAS TEA SPOT LLC - BALTIMORE, MD",
     "slug": "emmasteaspotllc-baltimoremd",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "baltimore"
     ],
@@ -2090,7 +1912,7 @@
   {
     "name": "BELVEDERE BAGELS & GRILL - BALTIMORE, MD",
     "slug": "belvederebagelsgrill-baltimoremd",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "baltimore"
     ],
@@ -2126,7 +1948,7 @@
   {
     "name": "Poke Poke Loop (Palmer House)",
     "slug": "pokepokelooppalmerhouse",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "baltimore"
     ],
@@ -2135,7 +1957,7 @@
   {
     "name": "Poke Poke West Loop",
     "slug": "pokepokewestloop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "baltimore"
     ],
@@ -2144,7 +1966,7 @@
   {
     "name": "Poke Burri 3231 powelton ave",
     "slug": "pokeburri3231poweltonave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "baltimore"
     ],
@@ -2162,7 +1984,7 @@
   {
     "name": "Poke OG - Downtown POKE OG DOWNTOWN",
     "slug": "pokeog-downtownpokeogdowntown",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "baltimore"
     ],
@@ -2171,7 +1993,7 @@
   {
     "name": "Blowfish Poke & Grill",
     "slug": "blowfishpokegrill",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "baltimore"
     ],
@@ -2180,7 +2002,7 @@
   {
     "name": "Manoa Poke Shop",
     "slug": "manoapokeshop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "baltimore"
     ],
@@ -2189,7 +2011,7 @@
   {
     "name": "Poke Row 2735 NW Crossing Dr #105",
     "slug": "pokerow2735nwcrossingdr105",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "baltimore"
     ],
@@ -2198,7 +2020,7 @@
   {
     "name": "Fresh Catch Poke Co. - Hertel Ave.",
     "slug": "freshcatchpokeco-hertelave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "baltimore"
     ],
@@ -2207,7 +2029,7 @@
   {
     "name": "Poke-City Cambridge 1722 Massachusetts Avenue",
     "slug": "poke-citycambridge1722massachusettsavenu",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "baltimore"
     ],
@@ -2216,7 +2038,7 @@
   {
     "name": "Lei'd Poke",
     "slug": "leidpoke",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "baltimore"
     ],
@@ -2225,7 +2047,7 @@
   {
     "name": "The Ono Poke - Summit 325 Summit Boulevard",
     "slug": "theonopoke-summit325summitboulevard",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "baltimore"
     ],
@@ -2351,7 +2173,7 @@
   {
     "name": "Mr. Greek of Buffalo 1122 Elmwood Ave.",
     "slug": "mrgreekofbuffalo1122elmwoodave",
-    "category": "mediterranean",
+    "category": "wings",
     "metros": [
       "baltimore"
     ],
@@ -2405,7 +2227,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "baltimore"
     ],
@@ -2414,7 +2236,7 @@
   {
     "name": "Radiant Juice + Smoothie Bar 702 Main St., Suite 103",
     "slug": "radiantjuicesmoothiebar702mainstsuite103",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "baltimore"
     ],
@@ -2423,7 +2245,7 @@
   {
     "name": "Blended Health & Smoothie Bar Olympia Plaza",
     "slug": "blendedhealthsmoothiebarolympiaplaza",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "baltimore"
     ],
@@ -2432,7 +2254,7 @@
   {
     "name": "Juice For Life Bayside",
     "slug": "juiceforlifebayside",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "baltimore"
     ],
@@ -2441,7 +2263,7 @@
   {
     "name": "Juva Juice Highland Village Juva Juice- Jackson",
     "slug": "juvajuicehighlandvillagejuvajuice-jackso",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "baltimore"
     ],
@@ -2459,7 +2281,7 @@
   {
     "name": "Pressed Juice Bar 19550 Grand River Avenue",
     "slug": "pressedjuicebar19550grandriveravenue",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "baltimore"
     ],
@@ -2468,7 +2290,7 @@
   {
     "name": "Juice It - 13th Ave S",
     "slug": "juiceit-13thaves",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "baltimore"
     ],
@@ -2477,7 +2299,7 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "baltimore"
     ],
@@ -2486,7 +2308,7 @@
   {
     "name": "Juice For Life New Hyde Park",
     "slug": "juiceforlifenewhydepark",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "baltimore"
     ],

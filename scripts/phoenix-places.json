@@ -2,7 +2,7 @@
   {
     "name": "Miel De Agave Phoenix",
     "slug": "mieldeagavephoenix",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ]
@@ -314,7 +314,7 @@
   {
     "name": "Bourbon & Bones Chophouse | Bar",
     "slug": "bourbonboneschophousebar",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "phoenix"
     ]
@@ -394,7 +394,7 @@
   {
     "name": "Gus's World Famous Fried Chicken",
     "slug": "gussworldfamousfriedchicken",
-    "category": "restaurant",
+    "category": "chicken",
     "metros": [
       "phoenix"
     ]
@@ -410,7 +410,7 @@
   {
     "name": "Pizzeria Bianco",
     "slug": "pizzeriabianco",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "phoenix"
     ]
@@ -426,7 +426,7 @@
   {
     "name": "The Parlor Pizzeria",
     "slug": "theparlorpizzeria",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "phoenix"
     ]
@@ -434,14 +434,6 @@
   {
     "name": "Humble Bistro",
     "slug": "humblebistro",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ]
-  },
-  {
-    "name": "CIBO",
-    "slug": "cibo",
     "category": "restaurant",
     "metros": [
       "phoenix"
@@ -490,7 +482,7 @@
   {
     "name": "Hope’s Brunch House",
     "slug": "hopesbrunchhouse",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "phoenix"
     ]
@@ -498,7 +490,7 @@
   {
     "name": "Brunch & Sip",
     "slug": "brunchsip",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "phoenix"
     ]
@@ -506,7 +498,7 @@
   {
     "name": "Brunch",
     "slug": "brunch",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "phoenix"
     ]
@@ -522,7 +514,7 @@
   {
     "name": "Brunch Snob",
     "slug": "brunchsnob",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "phoenix"
     ]
@@ -546,7 +538,7 @@
   {
     "name": "Pekesbachi - Hottest Hibachi Food Truck! See More",
     "slug": "pekesbachi-hottesthibachifoodtruckseemor",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "phoenix"
     ],
@@ -555,7 +547,7 @@
   {
     "name": "Phoenix Food & Spirits - South 11212 Richland Drive",
     "slug": "phoenixfoodspirits-south11212richlanddri",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -564,7 +556,7 @@
   {
     "name": "PYRO PYRO The Grove - Phoenix",
     "slug": "pyropyrothegrove-phoenix",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -582,7 +574,7 @@
   {
     "name": "Fate Brewing Company - Phoenix",
     "slug": "fatebrewingcompany-phoenix",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "phoenix"
     ],
@@ -591,7 +583,7 @@
   {
     "name": "The Phoenix Kitchen and Cocktails Phoenix - Homer Glen",
     "slug": "thephoenixkitchenandcocktailsphoenix-hom",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -600,7 +592,7 @@
   {
     "name": "Los Reyes De La Torta - Phoenix",
     "slug": "losreyesdelatorta-phoenix",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -609,7 +601,7 @@
   {
     "name": "Phoenix Food Boutique Rowland Heights",
     "slug": "phoenixfoodboutiquerowlandheights",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -618,7 +610,7 @@
   {
     "name": "The Phoenix House",
     "slug": "thephoenixhouse",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -627,7 +619,7 @@
   {
     "name": "Phoenix Public House",
     "slug": "phoenixpublichouse",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -636,7 +628,7 @@
   {
     "name": "Phoenix Smokehouse 21 Sonja Drive",
     "slug": "phoenixsmokehouse21sonjadrive",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "phoenix"
     ],
@@ -659,15 +651,6 @@
       "phoenix"
     ],
     "toastUrl": "https://order.toasttab.com/online/ellys-brunch-and-cafe-phoenix-100-east-camelback-road"
-  },
-  {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/lucis-urban-concepts-at-the-orchard-7100-north-12th-street-building-two"
   },
   {
     "name": "Bertha's Cafe",
@@ -735,7 +718,7 @@
   {
     "name": "Pomo Pizzeria Napoletana Scottsdale",
     "slug": "pomopizzerianapoletanascottsdale",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "phoenix"
     ],
@@ -753,7 +736,7 @@
   {
     "name": "Fired Pie-Zocallo Plaza 15425 n scottsdale rd, #100",
     "slug": "firedpie-zocalloplaza15425nscottsdalerd1",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "phoenix"
     ],
@@ -798,7 +781,7 @@
   {
     "name": "Maui Pasta Scottsdale",
     "slug": "mauipastascottsdale",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "phoenix"
     ],
@@ -978,7 +961,7 @@
   {
     "name": "Chin Up Donuts Old Town 7021 E Main Street",
     "slug": "chinupdonutsoldtown7021emainstreet",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "phoenix"
     ],
@@ -1302,7 +1285,7 @@
   {
     "name": "Pokitrition- Phoenix",
     "slug": "pokitrition-phoenix",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -1311,7 +1294,7 @@
   {
     "name": "Phoenix Kitchen Temple City",
     "slug": "phoenixkitchentemplecity",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -1383,7 +1366,7 @@
   {
     "name": "Colombian's Place",
     "slug": "colombiansplace",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "phoenix"
     ],
@@ -1392,7 +1375,7 @@
   {
     "name": "El Colombiano - Colombian Cuisine",
     "slug": "elcolombiano-colombiancuisine",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "phoenix"
     ],
@@ -1401,7 +1384,7 @@
   {
     "name": "La Casa de Juana Phoenix",
     "slug": "lacasadejuanaphoenix",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -1489,49 +1472,12 @@
     "toastUrl": "https://order.toasttab.com/online/la-finca-foods"
   },
   {
-    "name": "Trending Dishes in Phoenix, AZ - eat.popmenu.com",
-    "slug": "trendingdishesinphoenixaz-eatpopmenucom",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://eat.popmenu.com/places/phoenix-az"
-  },
-  {
-    "name": "Pasta Giovanni in Phoenix, AZ - eat.popmenu.com",
-    "slug": "pastagiovanniinphoenixaz-eatpopmenucom",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://eat.popmenu.com/places/phoenix-az/categories/pasta/dishes/15463823-pasta-giovanni"
-  },
-  {
     "name": "Restaurant analytics: How to collect (and use) guest data",
     "slug": "restaurantanalyticshowtocollectandusegue",
     "category": "restaurant",
     "metros": [
       "phoenix"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-analytics-data-guide"
-  },
-  {
-    "name": "Popmenu: We do more than grow your restaurant.",
-    "slug": "popmenuwedomorethangrowyourrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/"
-  },
-  {
-    "name": "Popmenu: Case Study - Dos Salsas",
-    "slug": "popmenucasestudy-dossalsas",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
+    ]
   },
   {
     "name": "Is restaurant membership just a fad or here to stay?",
@@ -1539,35 +1485,7 @@
     "category": "restaurant",
     "metros": [
       "phoenix"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-memberships-trend-or-fad"
-  },
-  {
-    "name": "Popmenu: Modern restaurant website builder with SEO built in",
-    "slug": "popmenumodernrestaurantwebsitebuilderwit",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/restaurant-website-design"
-  },
-  {
-    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
-    "slug": "popmenutoolkittherestaurantgrowthplayboo",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
+    ]
   },
   {
     "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
@@ -1575,62 +1493,7 @@
     "category": "restaurant",
     "metros": [
       "phoenix"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
-  },
-  {
-    "name": "5 menu design Ideas for digital-first restaurants",
-    "slug": "5menudesignideasfordigital-firstrestaura",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
-  },
-  {
-    "name": "11 of the best restaurant menu designs to inspire you",
-    "slug": "11ofthebestrestaurantmenudesignstoinspir",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-menu-designs"
-  },
-  {
-    "name": "Popmenu: Manage your restaurant's online reputation",
-    "slug": "popmenumanageyourrestaurantsonlinereputa",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/reputation-management"
-  },
-  {
-    "name": "Best restaurant websites: 4 examples to steal from",
-    "slug": "bestrestaurantwebsites4examplestostealfr",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-websites"
-  },
-  {
-    "name": "Popmenu: About Us",
-    "slug": "popmenuaboutus",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/about-us"
-  },
-  {
-    "name": "Popmenu: Client Testimonials & Reviews",
-    "slug": "popmenuclienttestimonialsreviews",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-testimonials-reviews"
+    ]
   },
   {
     "name": "How to create (and use) a restaurant email list",
@@ -1638,8 +1501,7 @@
     "category": "restaurant",
     "metros": [
       "phoenix"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-email-list-guide"
+    ]
   },
   {
     "name": "The ultimate guide to restaurant branding",
@@ -1647,17 +1509,7 @@
     "category": "restaurant",
     "metros": [
       "phoenix"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-branding-guide"
-  },
-  {
-    "name": "Why restaurant menu design matters",
-    "slug": "whyrestaurantmenudesignmatters",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-design-guide"
+    ]
   },
   {
     "name": "How to set up online food ordering in an afternoon",
@@ -1665,8 +1517,7 @@
     "category": "restaurant",
     "metros": [
       "phoenix"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
+    ]
   },
   {
     "name": "Mexican Food in Downtown Phoenix Order Online",
@@ -1689,7 +1540,7 @@
   {
     "name": "Phoenix Coqui",
     "slug": "phoenixcoqui",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -1716,7 +1567,7 @@
   {
     "name": "Phoenix Restaurant Concepts LLc",
     "slug": "phoenixrestaurantconceptsllc",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -1725,7 +1576,7 @@
   {
     "name": "Urban Phoenix Foods Homepage",
     "slug": "urbanphoenixfoodshomepage",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -1752,7 +1603,7 @@
   {
     "name": "27 Phoenix llc",
     "slug": "27phoenixllc",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -1761,7 +1612,7 @@
   {
     "name": "Phoenix Resource Centre: Home",
     "slug": "phoenixresourcecentrehome",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -1770,7 +1621,7 @@
   {
     "name": "My Blue Phoenix LLC: Appointments",
     "slug": "mybluephoenixllcappointments",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -1779,7 +1630,7 @@
   {
     "name": "Phoenix Plex Code: Home",
     "slug": "phoenixplexcodehome",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -1788,7 +1639,7 @@
   {
     "name": "WonderPho",
     "slug": "wonderpho",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -1797,7 +1648,7 @@
   {
     "name": "Lake Phoenix: Home",
     "slug": "lakephoenixhome",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -1806,38 +1657,19 @@
   {
     "name": "The PHOENIX EVENT CENTER",
     "slug": "thephoenixeventcenter",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
     "squareUrl": "https://thephoenixeventcenter.square.site/s/shop"
   },
   {
-    "name": "Phoenix, AZ - Delivery & Takeout",
-    "slug": "phoenixaz-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/AZ/Phoenix"
-  },
-  {
     "name": "Bowl Of Greens - Phoenix, AZ 85004 (Menu & Order Online)",
     "slug": "bowlofgreens-phoenixaz85004menuorderonli",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
-    ],
-    "websiteOrderUrl": "https://bowlofgreens.menufy.com/"
-  },
-  {
-    "name": "Hoagies in Phoenix, AZ - Delivery & Takeout",
-    "slug": "hoagiesinphoenixaz-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/AZ/Phoenix/Hoagies"
+    ]
   },
   {
     "name": "Phoenix Flame Cafe - NILES, IL 607143031 (Menu & Order ...",
@@ -1845,17 +1677,15 @@
     "category": "cafe",
     "metros": [
       "phoenix"
-    ],
-    "websiteOrderUrl": "https://phoenixflamecafe.menufy.com/"
+    ]
   },
   {
     "name": "Home - Reggie's Barbecue LLC",
     "slug": "home-reggiesbarbecuellc",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "phoenix"
-    ],
-    "websiteOrderUrl": "https://reggiesbar-b-que.menufy.com"
+    ]
   },
   {
     "name": "Home - Nancy's Greek Cafe",
@@ -1863,98 +1693,7 @@
     "category": "cafe",
     "metros": [
       "phoenix"
-    ],
-    "websiteOrderUrl": "https://nancysgreekcafe.menufy.com/"
-  },
-  {
-    "name": "Restaurants - Delivery & Takeout",
-    "slug": "restaurants-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://nibarizona.menufy.com/"
-  },
-  {
-    "name": "Memphis, TN - Delivery & Takeout",
-    "slug": "memphistn-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TN/Memphis"
-  },
-  {
-    "name": "Sunland Park, NM - Delivery & Takeout",
-    "slug": "sunlandparknm-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NM/Sunland%20Park"
-  },
-  {
-    "name": "FORNEY, TX - Delivery & Takeout",
-    "slug": "forneytx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/FORNEY"
-  },
-  {
-    "name": "Houston, TX - Delivery & Takeout",
-    "slug": "houstontx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Houston"
-  },
-  {
-    "name": "Pho in Tampa, FL - Delivery & Takeout",
-    "slug": "phointampafl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/Tampa/Pho"
-  },
-  {
-    "name": "Lunch in Phoenix, AZ - Delivery & Takeout",
-    "slug": "lunchinphoenixaz-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/AZ/Phoenix/Lunch"
-  },
-  {
-    "name": "Asian in Phoenix, AZ - Delivery & Takeout",
-    "slug": "asianinphoenixaz-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/AZ/Phoenix/Asian"
-  },
-  {
-    "name": "Mexican in Phoenix, AZ - Delivery & Takeout",
-    "slug": "mexicaninphoenixaz-deliverytakeout",
-    "category": "mexican",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/AZ/Phoenix/Mexican"
-  },
-  {
-    "name": "Deli in Phoenix, AZ - Delivery & Takeout",
-    "slug": "deliinphoenixaz-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/AZ/Phoenix/Deli"
+    ]
   },
   {
     "name": "Owner.com Reviews",
@@ -1971,8 +1710,7 @@
     "category": "restaurant",
     "metros": [
       "phoenix"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/"
+    ]
   },
   {
     "name": "Owner.com App",
@@ -1991,15 +1729,6 @@
       "phoenix"
     ],
     "websiteOrderUrl": "https://www.owner.com/releases"
-  },
-  {
-    "name": "Pricing",
-    "slug": "pricing",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/pricing"
   },
   {
     "name": "Online Ordering System Checklist Download",
@@ -2022,7 +1751,7 @@
   {
     "name": "Owner.com Leadership Team",
     "slug": "ownercomleadershipteam",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "phoenix"
     ],
@@ -2092,15 +1821,6 @@
     "websiteOrderUrl": "https://www.owner.com/partner-with-owner"
   },
   {
-    "name": "No Commission Delivery for Restaurants",
-    "slug": "nocommissiondeliveryforrestaurants",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/delivery"
-  },
-  {
     "name": "Automatic Marketing for Restaurants",
     "slug": "automaticmarketingforrestaurants",
     "category": "restaurant",
@@ -2121,7 +1841,7 @@
   {
     "name": "Firebirds Catering Phoenix",
     "slug": "firebirdscateringphoenix",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -2130,7 +1850,7 @@
   {
     "name": "Sauce - Norterra",
     "slug": "sauce-norterra",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "phoenix"
     ],
@@ -2148,7 +1868,7 @@
   {
     "name": "Sauce - Uptown",
     "slug": "sauce-uptown",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "phoenix"
     ],
@@ -2184,7 +1904,7 @@
   {
     "name": "Randy's Donuts Pilot",
     "slug": "randysdonutspilot",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "phoenix"
     ],
@@ -2193,7 +1913,7 @@
   {
     "name": "Pita Jungle Downtown Phoenix",
     "slug": "pitajungledowntownphoenix",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "phoenix"
     ],
@@ -2205,8 +1925,7 @@
     "category": "pizza",
     "metros": [
       "phoenix"
-    ],
-    "websiteOrderUrl": "https://saucepizzaandwine.olo.com/"
+    ]
   },
   {
     "name": "Park Central",
@@ -2229,7 +1948,7 @@
   {
     "name": "Sauce - Madison",
     "slug": "sauce-madison",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "phoenix"
     ],
@@ -2265,7 +1984,7 @@
   {
     "name": "Sauce - Waterfront",
     "slug": "sauce-waterfront",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "phoenix"
     ],
@@ -2283,7 +2002,7 @@
   {
     "name": "Pita Jungle Uptown",
     "slug": "pitajungleuptown",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "phoenix"
     ],
@@ -2313,8 +2032,7 @@
     "category": "restaurant",
     "metros": [
       "phoenix"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/the-best-online-ordering-system-for-restaurants/"
+    ]
   },
   {
     "name": "Restaurant Online Ordering",
@@ -2331,17 +2049,15 @@
     "category": "restaurant",
     "metros": [
       "phoenix"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/online-restaurant-reservation-systems/"
+    ]
   },
   {
     "name": "Looking For Delivery Fulfillment For Your Restaurant?",
     "slug": "lookingfordeliveryfulfillmentforyourrest",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "phoenix"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/benefits-of-delivery-fulfillment-for-restaurants/"
+    ]
   },
   {
     "name": "How to Use Restaurant Waitlists for Happier Diners",
@@ -2349,8 +2065,7 @@
     "category": "restaurant",
     "metros": [
       "phoenix"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/restaurant-waitlist-management-system/"
+    ]
   },
   {
     "name": "Dine-in ordering",
@@ -2367,8 +2082,7 @@
     "category": "restaurant",
     "metros": [
       "phoenix"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/why-we-built-restaurant-pre-order-catering/"
+    ]
   },
   {
     "name": "Restaurant Catering Software",
@@ -2378,15 +2092,6 @@
       "phoenix"
     ],
     "websiteOrderUrl": "https://www.getbento.com/products/preorder-catering/"
-  },
-  {
-    "name": "Best Restaurant Websites - Texas",
-    "slug": "bestrestaurantwebsites-texas",
-    "category": "restaurant",
-    "metros": [
-      "phoenix"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-texas/"
   },
   {
     "name": "Restaurant Payment Processing",
@@ -2412,8 +2117,7 @@
     "category": "restaurant",
     "metros": [
       "phoenix"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/direct-online-ordering-system-for-restaurants/"
+    ]
   },
   {
     "name": "Restaurant Events Management Software",
@@ -2436,11 +2140,10 @@
   {
     "name": "How Restaurants Can Start In-House Delivery",
     "slug": "howrestaurantscanstartin-housedelivery",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "phoenix"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/how-restaurants-can-start-in-house-delivery/"
+    ]
   },
   {
     "name": "Restaurant Reservation Software",
@@ -2454,7 +2157,7 @@
   {
     "name": "BentoBox",
     "slug": "bentobox",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "phoenix"
     ],
@@ -2463,7 +2166,7 @@
   {
     "name": "EARTH PLANT BASED CUIS - PHOENIX, AZ",
     "slug": "earthplantbasedcuis-phoenixaz",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "phoenix"
     ],
@@ -2481,7 +2184,7 @@
   {
     "name": "Restaurant - PHOENIX, AZ",
     "slug": "restaurant-phoenixaz",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -2490,7 +2193,7 @@
   {
     "name": "SWEET MAGIC LLC - PHOENIX, AZ",
     "slug": "sweetmagicllc-phoenixaz",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -2508,7 +2211,7 @@
   {
     "name": "SWEET MAGIC - PHOENIX, AZ",
     "slug": "sweetmagic-phoenixaz",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -2517,7 +2220,7 @@
   {
     "name": "PITIC RESTAURANT & LOUNG - PHOENIX, AZ",
     "slug": "piticrestaurantloung-phoenixaz",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -2535,7 +2238,7 @@
   {
     "name": "EL MR.CAMARON LLC - PHOENIX, AZ",
     "slug": "elmrcamaronllc-phoenixaz",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -2544,7 +2247,7 @@
   {
     "name": "QUE HUONG RESTAURANT - PHOENIX, AZ",
     "slug": "quehuongrestaurant-phoenixaz",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -2553,7 +2256,7 @@
   {
     "name": "Pho Noodles - 7th ave - PHOENIX, AZ",
     "slug": "phonoodles-7thave-phoenixaz",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "phoenix"
     ],
@@ -2580,7 +2283,7 @@
   {
     "name": "PHOENIX FLAME - ROLLING MDWS, IL",
     "slug": "phoenixflame-rollingmdwsil",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -2598,7 +2301,7 @@
   {
     "name": "BY THE BUCKET - LAVEEN - Phoenix, AZ",
     "slug": "bythebucket-laveen-phoenixaz",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -2607,7 +2310,7 @@
   {
     "name": "CORNER ON THE MARKET - PHOENIX, AZ",
     "slug": "corneronthemarket-phoenixaz",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -2616,7 +2319,7 @@
   {
     "name": "LA TAPATIA - PHOENIX, AZ",
     "slug": "latapatia-phoenixaz",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -2625,7 +2328,7 @@
   {
     "name": "PRESIDIO - PHOENIX, AZ",
     "slug": "presidio-phoenixaz",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -2643,7 +2346,7 @@
   {
     "name": "order-page-wrapper.order",
     "slug": "order-page-wrapperorder",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "phoenix"
     ],
@@ -2715,7 +2418,7 @@
   {
     "name": "Padelis Street Greek SLC",
     "slug": "padelisstreetgreekslc",
-    "category": "deli",
+    "category": "mediterranean",
     "metros": [
       "phoenix"
     ],
@@ -2805,7 +2508,7 @@
   {
     "name": "Breakfast Club Biltmore",
     "slug": "breakfastclubbiltmore",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "phoenix"
     ],
@@ -2814,7 +2517,7 @@
   {
     "name": "Breakfast Bitch Phoenix",
     "slug": "breakfastbitchphoenix",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "phoenix"
     ],
@@ -2823,7 +2526,7 @@
   {
     "name": "Sunshine Breakfast Bar - Phoenix",
     "slug": "sunshinebreakfastbar-phoenix",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "phoenix"
     ],
@@ -2832,7 +2535,7 @@
   {
     "name": "Lo-Lo's Chicken & Waffles Phoenix (Downtown)",
     "slug": "lo-loschickenwafflesphoenixdowntown",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "phoenix"
     ],
@@ -2841,7 +2544,7 @@
   {
     "name": "Breakfast Club Scottsdale",
     "slug": "breakfastclubscottsdale",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "phoenix"
     ],
@@ -2868,7 +2571,7 @@
   {
     "name": "Rylee's Diner 120 Phoenix Mills Plaza",
     "slug": "ryleesdiner120phoenixmillsplaza",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "phoenix"
     ],
@@ -2877,7 +2580,7 @@
   {
     "name": "Radiant Juice + Smoothie Bar 702 Main St., Suite 103",
     "slug": "radiantjuicesmoothiebar702mainstsuite103",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "phoenix"
     ],
@@ -2886,7 +2589,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "phoenix"
     ],
@@ -2895,7 +2598,7 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "phoenix"
     ],
@@ -2904,7 +2607,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "phoenix"
     ],
@@ -2913,7 +2616,7 @@
   {
     "name": "Juice Crafters Downtown LA",
     "slug": "juicecraftersdowntownla",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "phoenix"
     ],
@@ -2922,7 +2625,7 @@
   {
     "name": "Juva Juice Highland Village Juva Juice- Jackson",
     "slug": "juvajuicehighlandvillagejuvajuice-jackso",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "phoenix"
     ],
@@ -2940,7 +2643,7 @@
   {
     "name": "Juice For Life New Hyde Park",
     "slug": "juiceforlifenewhydepark",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "phoenix"
     ],
@@ -2967,7 +2670,7 @@
   {
     "name": "Grateful Juice Bar",
     "slug": "gratefuljuicebar",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "phoenix"
     ],

@@ -13,7 +13,7 @@
   {
     "name": "River Roast",
     "slug": "riverroast",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "chicago"
     ],
@@ -30,8 +30,7 @@
     ],
     "address": "145 N Dearborn St",
     "placeId": "ChIJ-XdXNKUsDogRW-m5g5Siao8",
-    "website": "http://www.thedearborntavern.com/",
-    "websiteOrderUrl": "https://media-cdn.getbento.com/QQnNRFX9QXiQtqmAyr4n_TheDearborn_FavIcon.png"
+    "website": "http://www.thedearborntavern.com/"
   },
   {
     "name": "The Purple Pig Restaurant",
@@ -92,7 +91,7 @@
   {
     "name": "Quartino Ristorante",
     "slug": "quartinoristorante",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "chicago"
     ],
@@ -109,13 +108,12 @@
     ],
     "address": "43 E Ohio St",
     "placeId": "ChIJe_Fq2lctDogRTpK221p4Fmg",
-    "website": "https://www.eataly.com/us_en/stores/chicago",
-    "websiteOrderUrl": "https://eataly.olo.com/"
+    "website": "https://www.eataly.com/us_en/stores/chicago"
   },
   {
     "name": "Pizzeria Portofino",
     "slug": "pizzeriaportofino",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "chicago"
     ],
@@ -149,7 +147,7 @@
   {
     "name": "Zarella Pizzeria & Taverna",
     "slug": "zarellapizzeriataverna",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "chicago"
     ],
@@ -172,7 +170,7 @@
   {
     "name": "Spacca Napoli Pizzeria",
     "slug": "spaccanapolipizzeria",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "chicago"
     ],
@@ -183,7 +181,7 @@
   {
     "name": "Lou Malnati's Pizzeria",
     "slug": "loumalnatispizzeria",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "chicago"
     ],
@@ -206,7 +204,7 @@
   {
     "name": "Labriola Ristorante - Chicago",
     "slug": "labriolaristorante-chicago",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "chicago"
     ],
@@ -238,8 +236,7 @@
     ],
     "address": "1531 N Damen Ave",
     "placeId": "ChIJwwvDb8fSD4gRb54qO3OOpVA",
-    "website": "http://www.bigstarchicago.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "http://www.bigstarchicago.com/"
   },
   {
     "name": "Paradise Park | Pizza & Patio",
@@ -302,7 +299,7 @@
   {
     "name": "Piece Pizzeria and Brewery",
     "slug": "piecepizzeriaandbrewery",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "chicago"
     ],
@@ -527,7 +524,7 @@
   {
     "name": "Café No Sé",
     "slug": "cafnos",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "chicago"
     ],
@@ -589,8 +586,7 @@
     ],
     "address": "720 N State St",
     "placeId": "ChIJ6WN3LkvTD4gRTXjLu5f5udU",
-    "website": "http://www.tzuco.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "http://www.tzuco.com/"
   },
   {
     "name": "Momento Cantina",
@@ -613,17 +609,6 @@
     "address": "535 N Wells St",
     "placeId": "ChIJV5RAKCstDogRe3Lp16i6fq8",
     "website": "http://www.matildachicago.com/"
-  },
-  {
-    "name": "XOCO",
-    "slug": "xoco",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "address": "65 W Illinois St",
-    "placeId": "ChIJFyS_LLIsDogRfYRCJl5tTRk",
-    "website": "https://xocochicago.com/"
   },
   {
     "name": "La Luna",
@@ -651,7 +636,7 @@
   {
     "name": "Green Street Smoked Meats",
     "slug": "greenstreetsmokedmeats",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "chicago"
     ],
@@ -662,7 +647,7 @@
   {
     "name": "Smoque BBQ",
     "slug": "smoquebbq",
-    "category": "korean",
+    "category": "bbq",
     "metros": [
       "chicago"
     ],
@@ -684,7 +669,7 @@
   {
     "name": "Chubby Cattle BBQ | Chicago",
     "slug": "chubbycattlebbqchicago",
-    "category": "korean",
+    "category": "bbq",
     "metros": [
       "chicago"
     ],
@@ -695,7 +680,7 @@
   {
     "name": "Offset BBQ",
     "slug": "offsetbbq",
-    "category": "korean",
+    "category": "bbq",
     "metros": [
       "chicago"
     ],
@@ -706,7 +691,7 @@
   {
     "name": "Honky Tonk BBQ / The Tonk",
     "slug": "honkytonkbbqthetonk",
-    "category": "korean",
+    "category": "bbq",
     "metros": [
       "chicago"
     ],
@@ -727,20 +712,9 @@
     "website": "https://chicagoqrestaurant.com/"
   },
   {
-    "name": "Carson’s Prime Steaks & Famous Barbecue – Chicago (Streeterville)",
-    "slug": "carsonsprimesteaksfamousbarbecuechicagos",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "address": "465 E Illinois St",
-    "placeId": "ChIJb0J6irQsDogRs6c6XNo9G6o",
-    "website": "http://www.ribs.com/"
-  },
-  {
     "name": "Soul & Smoke - Avondale at Rockwell on the River",
     "slug": "soulsmoke-avondaleatrockwellontheriver",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "chicago"
     ],
@@ -752,7 +726,7 @@
   {
     "name": "Smoke Daddy BBQ - Wrigleyville",
     "slug": "smokedaddybbq-wrigleyville",
-    "category": "korean",
+    "category": "bbq",
     "metros": [
       "chicago"
     ],
@@ -875,7 +849,7 @@
   {
     "name": "The Izakaya",
     "slug": "theizakaya",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "chicago"
     ]
@@ -1355,7 +1329,7 @@
   {
     "name": "5 Rabanitos Restaurante & Taqueria",
     "slug": "5rabanitosrestaurantetaqueria",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "chicago"
     ]
@@ -1379,7 +1353,7 @@
   {
     "name": "Taqueria Los Comales Pilsen",
     "slug": "taquerialoscomalespilsen",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "chicago"
     ]
@@ -1465,15 +1439,6 @@
     ]
   },
   {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/kasama-1001-north-winchester-avenue"
-  },
-  {
     "name": "Range Chicago - Order Online",
     "slug": "rangechicago-orderonline",
     "category": "restaurant",
@@ -1488,35 +1453,7 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-online-ordering-system"
-  },
-  {
-    "name": "Key Strategies To Growing Your Restaurant In A Competitive Market",
-    "slug": "keystrategiestogrowingyourrestaurantinac",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/key-strategies-to-growing-your-restaurant-in-a-competitive-market"
-  },
-  {
-    "name": "Tech the Halls with Popmenu",
-    "slug": "techthehallswithpopmenu",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/tech-the-halls-reach-more-guests"
-  },
-  {
-    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
-    "slug": "popmenutoolkittherestaurantgrowthplayboo",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+    ]
   },
   {
     "name": "4 tech-focused tips to fight rising restaurant costs",
@@ -1524,17 +1461,7 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs"
-  },
-  {
-    "name": "Popmenu: Case Study - Phat Eatery",
-    "slug": "popmenucasestudy-phateatery",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/phat-eatery"
+    ]
   },
   {
     "name": "Online Food Ordering System & App",
@@ -1546,49 +1473,12 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/16322/locations"
   },
   {
-    "name": "Online ordering competitors every restaurant should know",
-    "slug": "onlineorderingcompetitorseveryrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know"
-  },
-  {
-    "name": "Online Ordering for Restaurants with No Commissions",
-    "slug": "onlineorderingforrestaurantswithnocommis",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/10492/locations/14375"
-  },
-  {
-    "name": "6 Best Popmenu Competitors to Consider (Pros & Cons)",
-    "slug": "6bestpopmenucompetitorstoconsiderproscon",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
-  },
-  {
     "name": "How to set up online food ordering in an afternoon",
     "slug": "howtosetuponlinefoodorderinginanafternoo",
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
+    ]
   },
   {
     "name": "Order Food Online - American (New) Restaurant in Los ...",
@@ -1620,7 +1510,7 @@
   {
     "name": "Chicago Bros Pizzeria 10423 San Diego Mission Rd",
     "slug": "chicagobrospizzeria10423sandiegomissionr",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "chicago"
     ],
@@ -1728,7 +1618,7 @@
   {
     "name": "The Warehouse Bar & Pizzeria Chicago",
     "slug": "thewarehousebarpizzeriachicago",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "chicago"
     ],
@@ -1737,7 +1627,7 @@
   {
     "name": "Crushed Pizzeria Chicago",
     "slug": "crushedpizzeriachicago",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "chicago"
     ],
@@ -1854,7 +1744,7 @@
   {
     "name": "Firenze - Italian Street Food Chicago French Market",
     "slug": "firenze-italianstreetfoodchicagofrenchma",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "chicago"
     ],
@@ -1926,7 +1816,7 @@
   {
     "name": "Spoken Cafe",
     "slug": "spokencafe",
-    "category": "cafe",
+    "category": "japanese",
     "metros": [
       "chicago"
     ],
@@ -2124,7 +2014,7 @@
   {
     "name": "Firecakes Lincoln Park",
     "slug": "firecakeslincolnpark",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "chicago"
     ],
@@ -2160,7 +2050,7 @@
   {
     "name": "Giardino Trattoria & Pizzeria 12 North River Street",
     "slug": "giardinotrattoriapizzeria12northriverstr",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "chicago"
     ],
@@ -2178,7 +2068,7 @@
   {
     "name": "Firecakes River North",
     "slug": "firecakesrivernorth",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "chicago"
     ],
@@ -2232,7 +2122,7 @@
   {
     "name": "Poke Poke West Loop",
     "slug": "pokepokewestloop",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "chicago"
     ],
@@ -2412,7 +2302,7 @@
   {
     "name": "Lakeview Bagel 78 Lakeview Avenue",
     "slug": "lakeviewbagel78lakeviewavenue",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "chicago"
     ],
@@ -2421,7 +2311,7 @@
   {
     "name": "Breakfast House Lakeview",
     "slug": "breakfasthouselakeview",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "chicago"
     ],
@@ -2439,7 +2329,7 @@
   {
     "name": "Zazas Pizzeria Clark 3037 N Clark St, Chicago, IL",
     "slug": "zazaspizzeriaclark3037nclarkstchicagoil",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "chicago"
     ],
@@ -2529,7 +2419,7 @@
   {
     "name": "Yeah Man Jamaican Restaurant 302 Veterans Memorial ...",
     "slug": "yeahmanjamaicanrestaurant302veteransmemo",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "chicago"
     ],
@@ -2538,7 +2428,7 @@
   {
     "name": "Yeah man Good Vibes Jamaican Restaurant -McDonough ...",
     "slug": "yeahmangoodvibesjamaicanrestaurant-mcdon",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "chicago"
     ],
@@ -2547,7 +2437,7 @@
   {
     "name": "Strait Jamaican Cuisine LLC 15 School St",
     "slug": "straitjamaicancuisinellc15schoolst",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "chicago"
     ],
@@ -2556,7 +2446,7 @@
   {
     "name": "Country Style Jamaican Restaurant",
     "slug": "countrystylejamaicanrestaurant",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "chicago"
     ],
@@ -2565,7 +2455,7 @@
   {
     "name": "Jamaican Flavors - 358 Kosciuszko Street",
     "slug": "jamaicanflavors-358kosciuszkostreet",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "chicago"
     ],
@@ -2574,7 +2464,7 @@
   {
     "name": "Carena's Jamaican Grille",
     "slug": "carenasjamaicangrille",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "chicago"
     ],
@@ -2592,7 +2482,7 @@
   {
     "name": "Maroon Girl Jamaican Cuisine",
     "slug": "maroongirljamaicancuisine",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "chicago"
     ],
@@ -2610,7 +2500,7 @@
   {
     "name": "Jamaican Vibes 2 - Airline Hwy",
     "slug": "jamaicanvibes2-airlinehwy",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "chicago"
     ],
@@ -2619,7 +2509,7 @@
   {
     "name": "Irie Jamaican Kitchen - (WEST SIDE) Old Brooklyn",
     "slug": "iriejamaicankitchen-westsideoldbrooklyn",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "chicago"
     ],
@@ -2628,7 +2518,7 @@
   {
     "name": "Jamaican cuisine",
     "slug": "jamaicancuisine",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "chicago"
     ],
@@ -2637,7 +2527,7 @@
   {
     "name": "Sun Island Bar-BQ & Jerk Jamaican Restaurant",
     "slug": "sunislandbar-bqjerkjamaicanrestaurant",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "chicago"
     ],
@@ -2646,7 +2536,7 @@
   {
     "name": "Irie Jamaican Kitchen (EAST SIDE) EUCLID",
     "slug": "iriejamaicankitcheneastsideeuclid",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "chicago"
     ],
@@ -2655,7 +2545,7 @@
   {
     "name": "Irie Jamaican Kitchen (Lakewood)",
     "slug": "iriejamaicankitchenlakewood",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "chicago"
     ],
@@ -2664,7 +2554,7 @@
   {
     "name": "Sunnin Lebanese Café 1776 Westwood Blvd",
     "slug": "sunninlebanesecaf1776westwoodblvd",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "chicago"
     ],
@@ -2709,7 +2599,7 @@
   {
     "name": "Noon-O-Kabab Takeout & Delivery Chicago, IL",
     "slug": "noon-o-kababtakeoutdeliverychicagoil",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "chicago"
     ],
@@ -2874,17 +2764,7 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://blue-bayou.popmenu.com/"
-  },
-  {
-    "name": "11 of the best restaurant menu designs to inspire you",
-    "slug": "11ofthebestrestaurantmenudesignstoinspir",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-menu-designs"
+    ]
   },
   {
     "name": "Why every restaurant needs an interactive menu",
@@ -2892,26 +2772,7 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/every-restaurant-needs-interactive-menu"
-  },
-  {
-    "name": "5 menu design Ideas for digital-first restaurants",
-    "slug": "5menudesignideasfordigital-firstrestaura",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
-  },
-  {
-    "name": "Popmenu: Case Study - The Hampton Social",
-    "slug": "popmenucasestudy-thehamptonsocial",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/improving-margins/the-hampton-social"
+    ]
   },
   {
     "name": "Virtual restaurants need these 6 digital tools",
@@ -2919,8 +2780,7 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/virtual-restaurants-need-these-6-digital-tools"
+    ]
   },
   {
     "name": "Restaurant analytics: How to collect (and use) guest data",
@@ -2928,26 +2788,7 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-analytics-data-guide"
-  },
-  {
-    "name": "Popmenu toolkit: 2025 Trends Report",
-    "slug": "popmenutoolkit2025trendsreport",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/2025-trends-report"
-  },
-  {
-    "name": "Popmenu - New",
-    "slug": "popmenu-new",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/beverage-strategies-for-restaurants"
+    ]
   },
   {
     "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
@@ -2955,8 +2796,7 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
+    ]
   },
   {
     "name": "Home",
@@ -2979,7 +2819,7 @@
   {
     "name": "Arepas & Venezuelan Food in Chicago",
     "slug": "arepasvenezuelanfoodinchicago",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "chicago"
     ],
@@ -3054,8 +2894,7 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://jibaritosonharlem.menufy.com/"
+    ]
   },
   {
     "name": "Bulerias Tapas Bar - Chicago, IL 60647 (Menu & Order Online)",
@@ -3063,8 +2902,7 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://orderbuleriastapas.menufy.com/"
+    ]
   },
   {
     "name": "Bliss Resto - Chicago, IL 60613 (Menu & Order Online)",
@@ -3072,8 +2910,7 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://blissresto.menufy.com/"
+    ]
   },
   {
     "name": "Home - [inactive] Southside Chicago BBQ",
@@ -3081,8 +2918,7 @@
     "category": "bbq",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://southsidechicagobbq.menufy.com/"
+    ]
   },
   {
     "name": "Home - Jerez Restaurant",
@@ -3090,8 +2926,7 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://jerezrestaurant.menufy.com/"
+    ]
   },
   {
     "name": "Home - Taste of Chicago 2",
@@ -3099,8 +2934,7 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://71stordertasteofchicago.menufy.com/"
+    ]
   },
   {
     "name": "Mandala Cafe - CHICAGO, IL 60608 (Menu & Order Online)",
@@ -3108,8 +2942,7 @@
     "category": "cafe",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://mandalacafe.menufy.com/"
+    ]
   },
   {
     "name": "Home - D.A's Corned Beef Stand",
@@ -3117,8 +2950,7 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://dascalumetcity.menufy.com/"
+    ]
   },
   {
     "name": "Jin Thai Cuisine - Chicago, IL 60640 (Menu & Order Online)",
@@ -3126,8 +2958,7 @@
     "category": "thai",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://jinthaicuisine.menufy.com/"
+    ]
   },
   {
     "name": "Jerez Restaurant - Chicago, IL 60630 (Menu & Order Online)",
@@ -3144,17 +2975,7 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://rosatis.menufy.com/"
-  },
-  {
-    "name": "Restaurants - Delivery & Takeout",
-    "slug": "restaurants-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://tasteofindiawillowbrook.menufy.com/"
+    ]
   },
   {
     "name": "Home - Taste of ChiTown",
@@ -3162,8 +2983,7 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://638763784100190234.menufy.com/"
+    ]
   },
   {
     "name": "POCKETS - CHICAGO, IL 60645 (Menu & Order Online)",
@@ -3171,8 +2991,7 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://pockets.menufy.com/"
+    ]
   },
   {
     "name": "Ten Reasons to Order Online with Menufy",
@@ -3189,8 +3008,7 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/"
+    ]
   },
   {
     "name": "Restaurant Participation Agreement",
@@ -3211,15 +3029,6 @@
     "websiteOrderUrl": "https://www.owner.com/how-owner-works"
   },
   {
-    "name": "Pricing",
-    "slug": "pricing",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/pricing"
-  },
-  {
     "name": "Owner.com Reviews",
     "slug": "ownercomreviews",
     "category": "restaurant",
@@ -3229,22 +3038,12 @@
     "websiteOrderUrl": "https://www.owner.com/reviews"
   },
   {
-    "name": "No Commission Delivery for Restaurants",
-    "slug": "nocommissiondeliveryforrestaurants",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/delivery"
-  },
-  {
     "name": "Restaurant Marketing Blog",
     "slug": "restaurantmarketingblog",
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/blog"
+    ]
   },
   {
     "name": "Scale Your Restaurant",
@@ -3261,8 +3060,7 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://dashboard.owner.com/"
+    ]
   },
   {
     "name": "Restaurant Online Ordering System",
@@ -3281,15 +3079,6 @@
       "chicago"
     ],
     "websiteOrderUrl": "https://www.owner.com/mobile"
-  },
-  {
-    "name": "Owner.com Competitors",
-    "slug": "ownercomcompetitors",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/comparison"
   },
   {
     "name": "The Owner.com Story",
@@ -3357,7 +3146,7 @@
   {
     "name": "Solita - Chicago",
     "slug": "solita-chicago",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "chicago"
     ],
@@ -3378,8 +3167,7 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://oldchicagocatering.olo.com/"
+    ]
   },
   {
     "name": "Stan's Damen Order Ahead",
@@ -3465,7 +3253,7 @@
   {
     "name": "Stan's Donuts Roosevelt Rd",
     "slug": "stansdonutsrooseveltrd",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "chicago"
     ],
@@ -3474,7 +3262,7 @@
   {
     "name": "Stan's Donuts Hyde Park",
     "slug": "stansdonutshydepark",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "chicago"
     ],
@@ -3492,7 +3280,7 @@
   {
     "name": "Stan's Donuts Washington St Order Ahead",
     "slug": "stansdonutswashingtonstorderahead",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "chicago"
     ],
@@ -3515,24 +3303,6 @@
       "chicago"
     ],
     "websiteOrderUrl": "https://jenis.olo.com/menu/armitage/categories/53820_85829"
-  },
-  {
-    "name": "Chicago Pizza Near Me - Locations, Hours, & Menus - Slice",
-    "slug": "chicagopizzanearme-locationshoursmenus-s",
-    "category": "pizza",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://slicelife.com/brands/chicago-pizza"
-  },
-  {
-    "name": "Chicago's Pizza Near Me - Locations, Hours, & Menus - Slice.",
-    "slug": "chicagospizzanearme-locationshoursmenus-",
-    "category": "pizza",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://slicelife.com/brands/chicago-s-pizza"
   },
   {
     "name": "ᐅ Chicago Pizza Delivery - Best Pizza Places in Chicago 2025",
@@ -3571,22 +3341,12 @@
     "websiteOrderUrl": "https://bighillchicago.getbento.com/online-ordering/big-hill/menu"
   },
   {
-    "name": "The Best Restaurant Websites in Chicago",
-    "slug": "thebestrestaurantwebsitesinchicago",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-chicago/"
-  },
-  {
     "name": "Chicago Restaurant Week 2025 DINNER MENU",
     "slug": "chicagorestaurantweek2025dinnermenu",
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/f6ff01c46a03f776e4903e197ac135d5/media/8bY3STx9QqKP8AbUo527_BLVD_Restaurant%20Week%20Menu%20(2025).pdf"
+    ]
   },
   {
     "name": "Catering",
@@ -3603,8 +3363,7 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ],
-    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/268228e5996e8411061b3005bd80dab6/media/nnInYdaTXCInPb15yi4G_Chicago%20Restaurant%20Week%20Menu%202026.pdf"
+    ]
   },
   {
     "name": "Hangry Cluck",
@@ -3618,7 +3377,7 @@
   {
     "name": "Manny's Deli - Delicatessen in Chicago, IL",
     "slug": "mannysdeli-delicatesseninchicagoil",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "chicago"
     ],
@@ -3627,7 +3386,7 @@
   {
     "name": "Haire's Gulf Shrimp",
     "slug": "hairesgulfshrimp",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "chicago"
     ],
@@ -3690,7 +3449,7 @@
   {
     "name": "PITA EXPRESS - CHICAGO, IL",
     "slug": "pitaexpress-chicagoil",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "chicago"
     ],
@@ -3708,7 +3467,7 @@
   {
     "name": "Sandwich Queen Express - CHICAGO, IL",
     "slug": "sandwichqueenexpress-chicagoil",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "chicago"
     ],
@@ -3753,7 +3512,7 @@
   {
     "name": "JOSEPHINE'S SOUTHERN COOKING - CHICAGO, IL",
     "slug": "josephinessoutherncooking-chicagoil",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "chicago"
     ],
@@ -3787,27 +3546,9 @@
     "websiteOrderUrl": "https://partners.clover.com/restaurant-depot/home/"
   },
   {
-    "name": "Online Ordering for Bricks Wood Fired Pizza - Oak Park",
-    "slug": "onlineorderingforbrickswoodfiredpizza-oa",
-    "category": "pizza",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/9970/locations/16092"
-  },
-  {
-    "name": "Online Ordering for Sanfratello's Pizza - Naperville",
-    "slug": "onlineorderingforsanfratellospizza-naper",
-    "category": "pizza",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/2592/locations/6141"
-  },
-  {
     "name": "Poke Poke Loop (Palmer House)",
     "slug": "pokepokelooppalmerhouse",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "chicago"
     ],
@@ -3816,7 +3557,7 @@
   {
     "name": "Poke Poke Streeterville",
     "slug": "pokepokestreeterville",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "chicago"
     ],
@@ -3825,7 +3566,7 @@
   {
     "name": "PokeSan Chicago",
     "slug": "pokesanchicago",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "chicago"
     ],
@@ -3834,7 +3575,7 @@
   {
     "name": "mammoth poke the loop ( lake street)",
     "slug": "mammothpokethelooplakestreet",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "chicago"
     ],
@@ -3843,7 +3584,7 @@
   {
     "name": "Poke Poke Chicago",
     "slug": "pokepokechicago",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "chicago"
     ],
@@ -3996,7 +3737,7 @@
   {
     "name": "Mr. Greek of Buffalo 1122 Elmwood Ave.",
     "slug": "mrgreekofbuffalo1122elmwoodave",
-    "category": "mediterranean",
+    "category": "wings",
     "metros": [
       "chicago"
     ],
@@ -4050,7 +3791,7 @@
   {
     "name": "Kanela Breakfast Club Streeterville",
     "slug": "kanelabreakfastclubstreeterville",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "chicago"
     ],
@@ -4077,7 +3818,7 @@
   {
     "name": "Breakfast House - Lincoln Park 501 West Diversey Parkway",
     "slug": "breakfasthouse-lincolnpark501westdiverse",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "chicago"
     ],
@@ -4086,7 +3827,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "chicago"
     ],
@@ -4095,7 +3836,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "chicago"
     ],
@@ -4104,7 +3845,7 @@
   {
     "name": "Juice For Life New Hyde Park",
     "slug": "juiceforlifenewhydepark",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "chicago"
     ],
@@ -4140,7 +3881,7 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "chicago"
     ],
@@ -4149,7 +3890,7 @@
   {
     "name": "Base Smoothies + Juice Frisco Frisco",
     "slug": "basesmoothiesjuicefriscofrisco",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "chicago"
     ],
@@ -4158,7 +3899,7 @@
   {
     "name": "The Juice House 103200 Overseas Hwy ste13",
     "slug": "thejuicehouse103200overseashwyste13",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "chicago"
     ],
@@ -4167,7 +3908,7 @@
   {
     "name": "Juva Juice Highland Village Juva Juice- Jackson",
     "slug": "juvajuicehighlandvillagejuvajuice-jackso",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "chicago"
     ],
@@ -4176,7 +3917,7 @@
   {
     "name": "Blended Health & Smoothie Bar Olympia Plaza",
     "slug": "blendedhealthsmoothiebarolympiaplaza",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "chicago"
     ],
@@ -4185,7 +3926,7 @@
   {
     "name": "Planta Organic Juice Bar 131 Pine Street",
     "slug": "plantaorganicjuicebar131pinestreet",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "chicago"
     ],
@@ -4194,7 +3935,7 @@
   {
     "name": "Juva Juice - Starkville",
     "slug": "juvajuice-starkville",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "chicago"
     ],
@@ -4203,191 +3944,20 @@
   {
     "name": "Fresco Juice Co. downtown Billings",
     "slug": "frescojuicecodowntownbillings",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "chicago"
     ],
     "toastUrl": "https://order.toasttab.com/online/fresco-juice-co"
   },
   {
-    "name": "Online Ordering for Chicago's Pizza With A Twist - Natomas",
-    "slug": "onlineorderingforchicagospizzawithatwist",
-    "category": "pizza",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/3437/locations/4479"
-  },
-  {
-    "name": "Online Ordering for Rance's Chicago Pizza - Long Beach",
-    "slug": "onlineorderingforranceschicagopizza-long",
-    "category": "pizza",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/939/9230/items"
-  },
-  {
-    "name": "Online Ordering for Rance's Chicago Pizza - Costa Mesa",
-    "slug": "onlineorderingforranceschicagopizza-cost",
-    "category": "pizza",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/939/locations/1238"
-  },
-  {
     "name": "Calo Ristorante - Italian Restaurant in Chicago, IL",
     "slug": "caloristorante-italianrestaurantinchicag",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "chicago"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/1329/locations/"
-  },
-  {
-    "name": "Online Ordering for Thai Taste",
-    "slug": "onlineorderingforthaitaste",
-    "category": "thai",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/8478/locations"
-  },
-  {
-    "name": "Online Ordering for Best Thai Signature",
-    "slug": "onlineorderingforbestthaisignature",
-    "category": "thai",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5022/locations"
-  },
-  {
-    "name": "Online Ordering for TS THAI RESTAURANT LLC",
-    "slug": "onlineorderingfortsthairestaurantllc",
-    "category": "thai",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/10353/locations"
-  },
-  {
-    "name": "Online Ordering for Thai on 1 - Seattle",
-    "slug": "onlineorderingforthaion1-seattle",
-    "category": "thai",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5875/locations/7689"
-  },
-  {
-    "name": "Online Ordering for Trike Thai Noodle & Sushi",
-    "slug": "onlineorderingfortrikethainoodlesushi",
-    "category": "japanese",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/1194/locations/1569"
-  },
-  {
-    "name": "Online Ordering for Thai Stars Thai Food",
-    "slug": "onlineorderingforthaistarsthaifood",
-    "category": "thai",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/7388/locations"
-  },
-  {
-    "name": "Online Ordering for District Thai - York",
-    "slug": "onlineorderingfordistrictthai-york",
-    "category": "thai",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/6725/locations/8930"
-  },
-  {
-    "name": "Online Ordering for Salee Thai Restaurant",
-    "slug": "onlineorderingforsaleethairestaurant",
-    "category": "thai",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5374/locations"
-  },
-  {
-    "name": "Online Ordering for Malii Thai Kitchen",
-    "slug": "onlineorderingformaliithaikitchen",
-    "category": "thai",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/3293/locations"
-  },
-  {
-    "name": "Online Ordering for Lucky Thai Kitchen",
-    "slug": "onlineorderingforluckythaikitchen",
-    "category": "thai",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/7635/locations"
-  },
-  {
-    "name": "Online Ordering for Thai Holic - Brooklyn",
-    "slug": "onlineorderingforthaiholic-brooklyn",
-    "category": "thai",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/6576/locations"
-  },
-  {
-    "name": "Online Ordering for Enthaice Thai Kitchen",
-    "slug": "onlineorderingforenthaicethaikitchen",
-    "category": "thai",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/10046/locations"
-  },
-  {
-    "name": "Online Ordering for Lucky Thai LLC",
-    "slug": "onlineorderingforluckythaillc",
-    "category": "thai",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/9627/locations"
-  },
-  {
-    "name": "Online Ordering for Top Spice Thai & Malaysian Cuisine",
-    "slug": "onlineorderingfortopspicethaimalaysiancu",
-    "category": "thai",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/10340/locations"
-  },
-  {
-    "name": "Online Ordering for Best Thai Signature - Dallas",
-    "slug": "onlineorderingforbestthaisignature-dalla",
-    "category": "thai",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5022/locations/6502"
-  },
-  {
-    "name": "Online Ordering for Amazing Thailand - Minneapolis",
-    "slug": "onlineorderingforamazingthailand-minneap",
-    "category": "thai",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/4741/locations/6150"
   },
   {
     "name": "Order Enthaice Thai Kitchen Online",

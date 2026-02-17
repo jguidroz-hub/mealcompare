@@ -80,9 +80,15 @@ function getPlatformLabel(r: Restaurant): string {
   return 'Direct';
 }
 
-function getSavingsEstimate(): string {
-  const amounts = ['$3.50', '$4.20', '$5.10', '$6.80', '$7.50', '$8.20', '$9.40', '$11.20'];
-  return amounts[Math.floor(Math.random() * amounts.length)];
+function getSavingsEstimate(name: string): string {
+  // Deterministic hash based on restaurant name — same restaurant always shows same savings
+  let hash = 0;
+  for (let i = 0; i < name.length; i++) hash = ((hash << 5) - hash + name.charCodeAt(i)) | 0;
+  // Range: $3.50 - $11.50 (realistic delivery app markup on $25-40 orders)
+  const base = 350; // $3.50 min
+  const range = 800; // $8.00 range
+  const cents = base + (Math.abs(hash) % range);
+  return '$' + (cents / 100).toFixed(2);
 }
 
 function addUtm(url: string): string {
@@ -256,11 +262,11 @@ export default function MetroPage() {
       {/* Results count */}
       <div style={{ maxWidth: 640, margin: '0 auto', padding: '16px 16px 8px', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
         <span style={{ fontSize: 13, color: '#64748b' }}>
-          {filtered.length} restaurant{filtered.length !== 1 ? 's' : ''}
+          {filtered.filter(r => r.directUrl).length} restaurant{filtered.filter(r => r.directUrl).length !== 1 ? 's' : ''} with direct ordering
           {category !== 'All' && ` · ${CATEGORY_MAP[category]?.emoji || ''} ${CATEGORY_MAP[category]?.label || category}`}
         </span>
         <span style={{ fontSize: 12, color: '#10b981', fontWeight: 600 }}>
-          🟢 {directCount} with direct ordering
+          {directPct}% coverage
         </span>
       </div>
 
@@ -280,9 +286,23 @@ export default function MetroPage() {
             {search && <button onClick={() => setSearch('')} style={{ color: '#10b981', background: 'none', border: 'none', cursor: 'pointer', fontSize: 14 }}>Clear search</button>}
           </div>
         ) : (
-          filtered.map((r, i) => (
-            <RestaurantRow key={`${r.name}-${i}`} restaurant={r} metro={metro} />
-          ))
+          <>
+            {filtered.filter(r => r.directUrl).map((r, i) => (
+              <RestaurantRow key={`${r.name}-${i}`} restaurant={r} metro={metro} />
+            ))}
+            {filtered.some(r => !r.directUrl) && (
+              <details style={{ marginTop: 16 }}>
+                <summary style={{ fontSize: 13, color: '#475569', cursor: 'pointer', padding: '8px 0', userSelect: 'none' }}>
+                  + {filtered.filter(r => !r.directUrl).length} more restaurants (no direct ordering yet)
+                </summary>
+                <div style={{ marginTop: 8 }}>
+                  {filtered.filter(r => !r.directUrl).map((r, i) => (
+                    <RestaurantRow key={`no-${r.name}-${i}`} restaurant={r} metro={metro} />
+                  ))}
+                </div>
+              </details>
+            )}
+          </>
         )}
       </div>
 
@@ -305,7 +325,7 @@ export default function MetroPage() {
 function RestaurantRow({ restaurant: r, metro }: { restaurant: Restaurant; metro: string }) {
   const hasDirect = !!r.directUrl;
   const catInfo = CATEGORY_MAP[r.category.toLowerCase()] || { emoji: '🍽️', label: r.category };
-  const savings = useMemo(() => getSavingsEstimate(), []);
+  const savings = useMemo(() => getSavingsEstimate(r.name), [r.name]);
   const slug = r.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+$/, '');
   const [faved, setFaved] = useState(false);
 

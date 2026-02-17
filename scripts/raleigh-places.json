@@ -72,14 +72,6 @@
     ]
   },
   {
-    "name": "STIR",
-    "slug": "stir",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ]
-  },
-  {
     "name": "Guglhupf Restaurant",
     "slug": "guglhupfrestaurant",
     "category": "restaurant",
@@ -98,7 +90,7 @@
   {
     "name": "It's a Southern thing - Downtown Durham",
     "slug": "itsasouthernthing-downtowndurham",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "raleigh"
     ]
@@ -146,7 +138,7 @@
   {
     "name": "Mothers & Sons Trattoria",
     "slug": "motherssonstrattoria",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "raleigh"
     ]
@@ -202,7 +194,7 @@
   {
     "name": "Top of the Hill Restaurant & Brewery",
     "slug": "topofthehillrestaurantbrewery",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "raleigh"
     ]
@@ -210,7 +202,7 @@
   {
     "name": "Stoney River Steakhouse and Grill",
     "slug": "stoneyriversteakhouseandgrill",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "raleigh"
     ]
@@ -250,7 +242,7 @@
   {
     "name": "Midwood Smokehouse",
     "slug": "midwoodsmokehouse",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "raleigh"
     ]
@@ -358,7 +350,7 @@
   {
     "name": "Ponysaurus Brewing Co. Raleigh",
     "slug": "ponysaurusbrewingcoraleigh",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "raleigh"
     ],
@@ -372,15 +364,6 @@
       "raleigh"
     ],
     "toastUrl": "https://order.toasttab.com/online/raleighpizzatimes"
-  },
-  {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/benchwarmers-transfer-co"
   },
   {
     "name": "Trophy Brewing & Pizza",
@@ -545,24 +528,6 @@
     "toastUrl": "https://order.toasttab.com/online/tobacco-road"
   },
   {
-    "name": "Online Ordering for Dame's Chicken & Waffles - Cary",
-    "slug": "onlineorderingfordameschickenwaffles-car",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5532/locations/7242"
-  },
-  {
-    "name": "Online Ordering for Dame's Chicken & Waffles - Greensboro",
-    "slug": "onlineorderingfordameschickenwaffles-gre",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5532/locations/7241"
-  },
-  {
     "name": "Online Food Ordering System & App",
     "slug": "onlinefoodorderingsystemapp",
     "category": "restaurant",
@@ -610,7 +575,7 @@
   {
     "name": "Neomonde Mediterranean Raleigh Catering",
     "slug": "neomondemediterraneanraleighcatering",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "raleigh"
     ],
@@ -682,7 +647,7 @@
   {
     "name": "Heyday Brewing Raleigh",
     "slug": "heydaybrewingraleigh",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "raleigh"
     ],
@@ -754,7 +719,7 @@
   {
     "name": "Fonda Lupita Durham 905 West Main Street",
     "slug": "fondalupitadurham905westmainstreet",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "raleigh"
     ],
@@ -871,7 +836,7 @@
   {
     "name": "Isaac's Bagels 1003 West Chapel Hill Street",
     "slug": "isaacsbagels1003westchapelhillstreet",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "raleigh"
     ],
@@ -925,7 +890,7 @@
   {
     "name": "Brunches - Cary",
     "slug": "brunches-cary",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "raleigh"
     ],
@@ -1024,7 +989,7 @@
   {
     "name": "Greek Fiesta Brier Creek, Raleigh",
     "slug": "greekfiestabriercreekraleigh",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "raleigh"
     ],
@@ -1096,7 +1061,7 @@
   {
     "name": "Greek Feast",
     "slug": "greekfeast",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "raleigh"
     ],
@@ -1105,7 +1070,7 @@
   {
     "name": "Greek on Cary",
     "slug": "greekoncary",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "raleigh"
     ],
@@ -1114,7 +1079,7 @@
   {
     "name": "The Greek Taverna 1903 Staples Mill Rd",
     "slug": "thegreektaverna1903staplesmillrd",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "raleigh"
     ],
@@ -1123,7 +1088,7 @@
   {
     "name": "Simply Greek Express",
     "slug": "simplygreekexpress",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "raleigh"
     ],
@@ -1132,7 +1097,7 @@
   {
     "name": "simply greek 44 Centennial Drive",
     "slug": "simplygreek44centennialdrive",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "raleigh"
     ],
@@ -1141,7 +1106,7 @@
   {
     "name": "Meltemi Greek Restaurant Ridgewood",
     "slug": "meltemigreekrestaurantridgewood",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "raleigh"
     ],
@@ -1159,7 +1124,7 @@
   {
     "name": "go to greek",
     "slug": "gotogreek",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "raleigh"
     ],
@@ -1168,7 +1133,7 @@
   {
     "name": "It's Greek to Me - Fort Lee 1611 Palisade Ave.",
     "slug": "itsgreektome-fortlee1611palisadeave",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "raleigh"
     ],
@@ -1177,7 +1142,7 @@
   {
     "name": "Strait Jamaican Cuisine LLC 15 School St",
     "slug": "straitjamaicancuisinellc15schoolst",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "raleigh"
     ],
@@ -1186,7 +1151,7 @@
   {
     "name": "Yeah Man Jamaican Restaurant 302 Veterans Memorial ...",
     "slug": "yeahmanjamaicanrestaurant302veteransmemo",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "raleigh"
     ],
@@ -1195,7 +1160,7 @@
   {
     "name": "Country Style Jamaican Restaurant",
     "slug": "countrystylejamaicanrestaurant",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "raleigh"
     ],
@@ -1204,7 +1169,7 @@
   {
     "name": "Yeah man Good Vibes Jamaican Restaurant -McDonough ...",
     "slug": "yeahmangoodvibesjamaicanrestaurant-mcdon",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "raleigh"
     ],
@@ -1213,7 +1178,7 @@
   {
     "name": "Sun Island Bar-BQ & Jerk Jamaican Restaurant",
     "slug": "sunislandbar-bqjerkjamaicanrestaurant",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "raleigh"
     ],
@@ -1222,7 +1187,7 @@
   {
     "name": "Maroon Girl Jamaican Cuisine",
     "slug": "maroongirljamaicancuisine",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "raleigh"
     ],
@@ -1240,7 +1205,7 @@
   {
     "name": "Jamaican Vibes 2 - Airline Hwy",
     "slug": "jamaicanvibes2-airlinehwy",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "raleigh"
     ],
@@ -1258,7 +1223,7 @@
   {
     "name": "Jamaican Flavors - 358 Kosciuszko Street",
     "slug": "jamaicanflavors-358kosciuszkostreet",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "raleigh"
     ],
@@ -1267,7 +1232,7 @@
   {
     "name": "Paradise Jamaican Restaurant 452 North Park Avenue",
     "slug": "paradisejamaicanrestaurant452northparkav",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "raleigh"
     ],
@@ -1276,7 +1241,7 @@
   {
     "name": "Jamaican cuisine",
     "slug": "jamaicancuisine",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "raleigh"
     ],
@@ -1285,7 +1250,7 @@
   {
     "name": "Irie Jamaican Kitchen (EAST SIDE) EUCLID",
     "slug": "iriejamaicankitcheneastsideeuclid",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "raleigh"
     ],
@@ -1303,7 +1268,7 @@
   {
     "name": "Pure Vegan Café 8369 Creedmoor Rd",
     "slug": "purevegancaf8369creedmoorrd",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "raleigh"
     ],
@@ -1321,7 +1286,7 @@
   {
     "name": "The Vegan Joint - West LA 10438 National Boulevard",
     "slug": "theveganjoint-westla10438nationalbouleva",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "raleigh"
     ],
@@ -1330,7 +1295,7 @@
   {
     "name": "West Coast Vegan Grill 2023 100 W CENTRAL AVE",
     "slug": "westcoastvegangrill2023100wcentralave",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "raleigh"
     ],
@@ -1339,7 +1304,7 @@
   {
     "name": "Vegan International Co 13751 N Nebraska Ave",
     "slug": "veganinternationalco13751nnebraskaave",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "raleigh"
     ],
@@ -1348,7 +1313,7 @@
   {
     "name": "The Vegan Joint - Downtown LA 980 San Pedro St.",
     "slug": "theveganjoint-downtownla980sanpedrost",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "raleigh"
     ],
@@ -1357,7 +1322,7 @@
   {
     "name": "Vegan On The Fly Midtown",
     "slug": "veganontheflymidtown",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "raleigh"
     ],
@@ -1366,7 +1331,7 @@
   {
     "name": "Vegan Plate",
     "slug": "veganplate",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "raleigh"
     ],
@@ -1375,7 +1340,7 @@
   {
     "name": "Dope Vegan",
     "slug": "dopevegan",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "raleigh"
     ],
@@ -1393,7 +1358,7 @@
   {
     "name": "Hayashi Japanese Restaurant 13200 Falls of Neuse Road",
     "slug": "hayashijapaneserestaurant13200fallsofneu",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "raleigh"
     ],
@@ -1402,11 +1367,10 @@
   {
     "name": "Home - Taverna Agora - Greek Restaurant in Raleigh, NC",
     "slug": "home-tavernaagora-greekrestaurantinralei",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "raleigh"
-    ],
-    "websiteOrderUrl": "https://taverna-agora.popmenu.com/"
+    ]
   },
   {
     "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
@@ -1414,17 +1378,7 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
+    ]
   },
   {
     "name": "Restaurant analytics: How to collect (and use) guest data",
@@ -1432,98 +1386,7 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-analytics-data-guide"
-  },
-  {
-    "name": "Popmenu: Case Study - Cliff View",
-    "slug": "popmenucasestudy-cliffview",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/cliff-view"
-  },
-  {
-    "name": "Popmenu: Case Study - The Deck",
-    "slug": "popmenucasestudy-thedeck",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/the-deck"
-  },
-  {
-    "name": "5 menu design Ideas for digital-first restaurants",
-    "slug": "5menudesignideasfordigital-firstrestaura",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
-  },
-  {
-    "name": "Popmenu: Case Study - Dos Salsas",
-    "slug": "popmenucasestudy-dossalsas",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
-  },
-  {
-    "name": "Popmenu: Manage your restaurant's online reputation",
-    "slug": "popmenumanageyourrestaurantsonlinereputa",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/reputation-management"
-  },
-  {
-    "name": "Popmenu: About Us",
-    "slug": "popmenuaboutus",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/about-us"
-  },
-  {
-    "name": "Popmenu: Client Stories - Better Customer Service",
-    "slug": "popmenuclientstories-bettercustomerservi",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service"
-  },
-  {
-    "name": "Popmenu: OrderNerd powered by Popmenu",
-    "slug": "popmenuordernerdpoweredbypopmenu",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/ordernerd"
-  },
-  {
-    "name": "Popmenu: Restaurant online ordering",
-    "slug": "popmenurestaurantonlineordering",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
-  },
-  {
-    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
-    "slug": "popmenutoolkittherestaurantgrowthplayboo",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+    ]
   },
   {
     "name": "Square",
@@ -1616,180 +1479,18 @@
     "squareUrl": "https://the-raleigh-ringers.square.site/"
   },
   {
-    "name": "Raleigh, NC - Delivery & Takeout",
-    "slug": "raleighnc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh"
-  },
-  {
-    "name": "Jamaican in Raleigh, NC - Delivery & Takeout",
-    "slug": "jamaicaninraleighnc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Jamaican"
-  },
-  {
-    "name": "Chinese in Raleigh, NC - Delivery & Takeout",
-    "slug": "chineseinraleighnc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Chinese"
-  },
-  {
     "name": "Hibachi & Company - Raleigh, NC 27607 (Menu & Order Online)",
     "slug": "hibachicompany-raleighnc27607menuorderon",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "raleigh"
     ],
     "websiteOrderUrl": "https://hibachicompany.menufy.com/order"
   },
   {
-    "name": "Soul Food in Raleigh, NC - Delivery & Takeout",
-    "slug": "soulfoodinraleighnc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Soul%20Food"
-  },
-  {
-    "name": "Colombian in Raleigh, NC - Delivery & Takeout",
-    "slug": "colombianinraleighnc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Colombian"
-  },
-  {
-    "name": "Soup in Raleigh, NC - Delivery & Takeout",
-    "slug": "soupinraleighnc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Soup"
-  },
-  {
-    "name": "Chicken in Raleigh, NC - Delivery & Takeout",
-    "slug": "chickeninraleighnc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Chicken"
-  },
-  {
-    "name": "Nepalese in Raleigh, NC - Delivery & Takeout",
-    "slug": "nepaleseinraleighnc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Nepalese"
-  },
-  {
-    "name": "Sushi in Raleigh, NC - Delivery & Takeout",
-    "slug": "sushiinraleighnc-deliverytakeout",
-    "category": "japanese",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Sushi"
-  },
-  {
-    "name": "Breakfast in Raleigh, NC - Delivery & Takeout",
-    "slug": "breakfastinraleighnc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Breakfast"
-  },
-  {
-    "name": "Salads in Raleigh, NC - Delivery & Takeout",
-    "slug": "saladsinraleighnc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Salads"
-  },
-  {
-    "name": "Szechuan in Raleigh, NC - Delivery & Takeout",
-    "slug": "szechuaninraleighnc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Szechuan"
-  },
-  {
-    "name": "Mexican in Raleigh, NC - Delivery & Takeout",
-    "slug": "mexicaninraleighnc-deliverytakeout",
-    "category": "mexican",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Mexican"
-  },
-  {
-    "name": "Gyro in Raleigh, NC - Delivery & Takeout",
-    "slug": "gyroinraleighnc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Gyro"
-  },
-  {
-    "name": "Dominican in Raleigh, NC - Delivery & Takeout",
-    "slug": "dominicaninraleighnc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Dominican"
-  },
-  {
-    "name": "Lunch in Raleigh, NC - Delivery & Takeout",
-    "slug": "lunchinraleighnc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Lunch"
-  },
-  {
-    "name": "Indian in Raleigh, NC - Delivery & Takeout",
-    "slug": "indianinraleighnc-deliverytakeout",
-    "category": "indian",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Indian"
-  },
-  {
-    "name": "Taiwanese in Raleigh, NC - Delivery & Takeout",
-    "slug": "taiwaneseinraleighnc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Taiwanese"
-  },
-  {
     "name": "Perry's Steakhouse & Grille - Raleigh",
     "slug": "perryssteakhousegrille-raleigh",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "raleigh"
     ],
@@ -1807,7 +1508,7 @@
   {
     "name": "Alpaca Peruvian Catering HILLSBOROUGH ST",
     "slug": "alpacaperuviancateringhillsboroughst",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "raleigh"
     ],
@@ -1870,7 +1571,7 @@
   {
     "name": "Gigi's Cupcakes Raleigh",
     "slug": "gigiscupcakesraleigh",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "raleigh"
     ],
@@ -1879,7 +1580,7 @@
   {
     "name": "Millbrook Road",
     "slug": "millbrookroad",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "raleigh"
     ],
@@ -1933,7 +1634,7 @@
   {
     "name": "Alpaca Peruvian Charcoal Chicken Catering CAPITAL BLVD",
     "slug": "alpacaperuviancharcoalchickencateringcap",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "raleigh"
     ],
@@ -1960,7 +1661,7 @@
   {
     "name": "Getbento",
     "slug": "getbento",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "raleigh"
     ],
@@ -1972,8 +1673,7 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ],
-    "websiteOrderUrl": "https://eastendbistrotraleigh.getbento.com/"
+    ]
   },
   {
     "name": "Side Street Restaurant 225 North Bloodworth Street Raleigh",
@@ -1981,8 +1681,7 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ],
-    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/e014230b746ee0c78a9d11d048ca0349/media/1n8FDvfaTTqQs0z7fcFw_Side_Street_Restaurant.pdf"
+    ]
   },
   {
     "name": "Menus",
@@ -1999,8 +1698,7 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/north-carolina-restaurants/"
+    ]
   },
   {
     "name": "BentoBox",
@@ -2014,11 +1712,10 @@
   {
     "name": "9 Ideas for Super Bowl Restaurant Promotions",
     "slug": "9ideasforsuperbowlrestaurantpromotions",
-    "category": "restaurant",
+    "category": "healthy",
     "metros": [
       "raleigh"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/super-bowl-restaurant-promotions/"
+    ]
   },
   {
     "name": "Restaurant Online Ordering",
@@ -2041,11 +1738,10 @@
   {
     "name": "Eggxactly Home",
     "slug": "eggxactlyhome",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "raleigh"
-    ],
-    "websiteOrderUrl": "https://eggxactlymemphis.getbento.com/"
+    ]
   },
   {
     "name": "12 Valentine’s Day Restaurant Ideas for 2024",
@@ -2053,8 +1749,7 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/valentines-day-restaurant-ideas/"
+    ]
   },
   {
     "name": "Restaurant Catering Software",
@@ -2077,7 +1772,7 @@
   {
     "name": "WARAJI JAPANESE RESTAURANT - RALEIGH, NC",
     "slug": "warajijapaneserestaurant-raleighnc",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "raleigh"
     ],
@@ -2086,7 +1781,7 @@
   {
     "name": "KABAB AND CURRY - RALEIGH, NC",
     "slug": "kababandcurry-raleighnc",
-    "category": "restaurant",
+    "category": "indian",
     "metros": [
       "raleigh"
     ],
@@ -2113,7 +1808,7 @@
   {
     "name": "BOMBAY CURRY - RALEIGH, NC",
     "slug": "bombaycurry-raleighnc",
-    "category": "restaurant",
+    "category": "indian",
     "metros": [
       "raleigh"
     ],
@@ -2194,7 +1889,7 @@
   {
     "name": "Budacai - RALEIGH, NC",
     "slug": "budacai-raleighnc",
-    "category": "restaurant",
+    "category": "poke",
     "metros": [
       "raleigh"
     ],
@@ -2212,7 +1907,7 @@
   {
     "name": "PITA BOWL - RALEIGH, NC",
     "slug": "pitabowl-raleighnc",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "raleigh"
     ],
@@ -2257,7 +1952,7 @@
   {
     "name": "Poke Bowl Fargo 560 2nd Avenue N Suite A",
     "slug": "pokebowlfargo5602ndavenuensuitea",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "raleigh"
     ],
@@ -2266,7 +1961,7 @@
   {
     "name": "Poke Poke Streeterville",
     "slug": "pokepokestreeterville",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "raleigh"
     ],
@@ -2275,7 +1970,7 @@
   {
     "name": "Poke Row 2735 NW Crossing Dr #105",
     "slug": "pokerow2735nwcrossingdr105",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "raleigh"
     ],
@@ -2284,7 +1979,7 @@
   {
     "name": "Poke Poke West Loop",
     "slug": "pokepokewestloop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "raleigh"
     ],
@@ -2293,7 +1988,7 @@
   {
     "name": "Poke Poke Loop (Palmer House)",
     "slug": "pokepokelooppalmerhouse",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "raleigh"
     ],
@@ -2302,7 +1997,7 @@
   {
     "name": "Fresh Catch Poke Co. - Hertel Ave.",
     "slug": "freshcatchpokeco-hertelave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "raleigh"
     ],
@@ -2311,7 +2006,7 @@
   {
     "name": "Poke Burri 3231 powelton ave",
     "slug": "pokeburri3231poweltonave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "raleigh"
     ],
@@ -2329,7 +2024,7 @@
   {
     "name": "Poke OG @ 1800 143 NW 23 ST",
     "slug": "pokeog1800143nw23st",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "raleigh"
     ],
@@ -2338,7 +2033,7 @@
   {
     "name": "Poke Dot 17921 MacArthur Blvd",
     "slug": "pokedot17921macarthurblvd",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "raleigh"
     ],
@@ -2347,7 +2042,7 @@
   {
     "name": "Poke OG - Downtown POKE OG DOWNTOWN",
     "slug": "pokeog-downtownpokeogdowntown",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "raleigh"
     ],
@@ -2464,7 +2159,7 @@
   {
     "name": "Che Empanadas Transfer Co. Food Hall, Raleigh NC",
     "slug": "cheempanadastransfercofoodhallraleighnc",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "raleigh"
     ],
@@ -2491,7 +2186,7 @@
   {
     "name": "The Breakfast Spot",
     "slug": "thebreakfastspot",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "raleigh"
     ],
@@ -2518,7 +2213,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "raleigh"
     ],
@@ -2527,7 +2222,7 @@
   {
     "name": "Radiant Juice + Smoothie Bar 702 Main St., Suite 103",
     "slug": "radiantjuicesmoothiebar702mainstsuite103",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "raleigh"
     ],
@@ -2545,7 +2240,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "raleigh"
     ],
@@ -2554,7 +2249,7 @@
   {
     "name": "Juice Crafters Downtown LA",
     "slug": "juicecraftersdowntownla",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "raleigh"
     ],
@@ -2572,7 +2267,7 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "raleigh"
     ],
@@ -2590,7 +2285,7 @@
   {
     "name": "Juice Crafters Marina Del Rey",
     "slug": "juicecraftersmarinadelrey",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "raleigh"
     ],
@@ -2622,14 +2317,5 @@
       "raleigh"
     ],
     "toastUrl": "https://order.toasttab.com/online/method-juice-cafe-downtown-718-w-riverside"
-  },
-  {
-    "name": "Online Ordering for Restaurants with No Commissions",
-    "slug": "onlineorderingforrestaurantswithnocommis",
-    "category": "restaurant",
-    "metros": [
-      "raleigh"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/4612/locations"
   }
 ]

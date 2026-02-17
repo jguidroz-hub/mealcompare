@@ -65,8 +65,7 @@
     ],
     "address": "1 Birdsall St",
     "placeId": "ChIJG3farMjAQIYRebM366xkNhs",
-    "website": "https://www.brennerssteakhouse.com/location/brenners-on-the-bayou/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "https://www.brennerssteakhouse.com/location/brenners-on-the-bayou/"
   },
   {
     "name": "Hull & Oak",
@@ -88,8 +87,7 @@
     ],
     "address": "520 Westheimer Rd",
     "placeId": "ChIJScX7w-W_QIYRnJUZzJInHrg",
-    "website": "http://www.travelerstable.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "http://www.travelerstable.com/"
   },
   {
     "name": "Taste of Texas",
@@ -140,7 +138,7 @@
   {
     "name": "Fielding's Steak",
     "slug": "fieldingssteak",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "houston"
     ],
@@ -201,8 +199,7 @@
     ],
     "address": "1600 Westheimer Rd",
     "placeId": "ChIJWZy-UJnAQIYRJwZNRAGa6JI",
-    "website": "http://www.hugosrestaurant.net/?y_source=1_MTAzMTYxNjcyOC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "http://www.hugosrestaurant.net/?y_source=1_MTAzMTYxNjcyOC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
   },
   {
     "name": "La Lucha",
@@ -344,8 +341,7 @@
       "houston"
     ],
     "placeId": "ChIJQYwrJSK_QIYRxg9V72ZshzE",
-    "website": "https://www.grottorestaurants.com/location/grotto-downtown-houston-tx/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "https://www.grottorestaurants.com/location/grotto-downtown-houston-tx/"
   },
   {
     "name": "Tiny Champions",
@@ -481,7 +477,7 @@
   {
     "name": "Whiskey Cake Kitchen & Bar",
     "slug": "whiskeycakekitchenbar",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "houston"
     ],
@@ -496,8 +492,7 @@
       "houston"
     ],
     "placeId": "ChIJwbxsuD8kQYYRmGueq2_YeLM",
-    "website": "https://blackbeardiner.com/location/katy/",
-    "websiteOrderUrl": "https://blackbeardinercatering.olo.com/"
+    "website": "https://blackbeardiner.com/location/katy/"
   },
   {
     "name": "Little Italy Restaurant",
@@ -507,8 +502,7 @@
       "houston"
     ],
     "placeId": "ChIJ6wdXeYknQYYRUWK1uKk3OKU",
-    "website": "https://www.littleitalyktx.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "https://www.littleitalyktx.com/"
   },
   {
     "name": "Postino Cinco Ranch",
@@ -565,7 +559,7 @@
   {
     "name": "Maison Pucha Bistro",
     "slug": "maisonpuchabistro",
-    "category": "french",
+    "category": "restaurant",
     "metros": [
       "houston"
     ],
@@ -612,31 +606,12 @@
     "placeId": "ChIJ50N48undQIYR_-UqTKpDPzY"
   },
   {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/local-food-rice-village"
-  },
-  {
     "name": "5 ways to ramp up your restaurant online ordering system",
     "slug": "5waystorampupyourrestaurantonlineorderin",
     "category": "restaurant",
     "metros": [
       "houston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-online-ordering-system"
-  },
-  {
-    "name": "Popmenu: Case Study - Phat Eatery",
-    "slug": "popmenucasestudy-phateatery",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/phat-eatery"
+    ]
   },
   {
     "name": "Why every restaurant needs an interactive menu",
@@ -644,44 +619,7 @@
     "category": "restaurant",
     "metros": [
       "houston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/every-restaurant-needs-interactive-menu"
-  },
-  {
-    "name": "Key Strategies To Growing Your Restaurant In A Competitive Market",
-    "slug": "keystrategiestogrowingyourrestaurantinac",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/key-strategies-to-growing-your-restaurant-in-a-competitive-market"
-  },
-  {
-    "name": "Popmenu: Case Study - The Hampton Social",
-    "slug": "popmenucasestudy-thehamptonsocial",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/improving-margins/the-hampton-social"
-  },
-  {
-    "name": "Tech the Halls with Popmenu",
-    "slug": "techthehallswithpopmenu",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/tech-the-halls-reach-more-guests"
-  },
-  {
-    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
-    "slug": "popmenutoolkittherestaurantgrowthplayboo",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+    ]
   },
   {
     "name": "4 tech-focused tips to fight rising restaurant costs",
@@ -689,35 +627,7 @@
     "category": "restaurant",
     "metros": [
       "houston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs"
-  },
-  {
-    "name": "Online Ordering for Thai Taste | Powered By ChowNow",
-    "slug": "onlineorderingforthaitastepoweredbychown",
-    "category": "thai",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/8478/locations"
-  },
-  {
-    "name": "Online Ordering for Restaurants with No Commissions",
-    "slug": "onlineorderingforrestaurantswithnocommis",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/4223/locations"
-  },
-  {
-    "name": "Online Ordering for Ramen Bowls | Powered By ChowNow",
-    "slug": "onlineorderingforramenbowlspoweredbychow",
-    "category": "japanese",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/7005/locations"
+    ]
   },
   {
     "name": "Online Food Ordering System & App",
@@ -729,15 +639,6 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/10839/locations"
   },
   {
-    "name": "Online Ordering for BBQ House | Powered By ChowNow",
-    "slug": "onlineorderingforbbqhousepoweredbychowno",
-    "category": "bbq",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/1196/locations/"
-  },
-  {
     "name": "Montrose, NY",
     "slug": "montroseny",
     "category": "restaurant",
@@ -747,40 +648,12 @@
     "websiteOrderUrl": "https://www.menufy.com/NY/Montrose"
   },
   {
-    "name": "Online ordering competitors every restaurant should know",
-    "slug": "onlineorderingcompetitorseveryrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know"
-  },
-  {
-    "name": "6 Best Popmenu Competitors to Consider (Pros & Cons)",
-    "slug": "6bestpopmenucompetitorstoconsiderproscon",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
-  },
-  {
     "name": "How to set up online food ordering in an afternoon",
     "slug": "howtosetuponlinefoodorderinginanafternoo",
     "category": "restaurant",
     "metros": [
       "houston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
+    ]
   },
   {
     "name": "Order Food Online - American (New) Restaurant in Los ...",
@@ -790,24 +663,6 @@
       "houston"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/28003/locations"
-  },
-  {
-    "name": "Popmenu + Toast",
-    "slug": "popmenutoast",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/partner/toast"
-  },
-  {
-    "name": "Popmenu: We do more than grow your restaurant.",
-    "slug": "popmenuwedomorethangrowyourrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/"
   },
   {
     "name": "Pastel Pizza - Houston Houston",
@@ -902,7 +757,7 @@
   {
     "name": "DK Japanese Street Food - Order Online",
     "slug": "dkjapanesestreetfood-orderonline",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "houston"
     ],
@@ -1163,7 +1018,7 @@
   {
     "name": "RoccoVino's Italian Restaurant | Harwood Heights ...",
     "slug": "roccovinositalianrestaurantharwoodheight",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "houston"
     ],
@@ -1370,7 +1225,7 @@
   {
     "name": "Midtown - Order Online",
     "slug": "midtown-orderonline",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "houston"
     ],
@@ -1494,69 +1349,6 @@
     "toastUrl": "https://order.toasttab.com/online/hungrys-rice-village-2356-rice-blvd"
   },
   {
-    "name": "Online Ordering for Rice Restaurant - Washington",
-    "slug": "onlineorderingforricerestaurant-washingt",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/3725/4822/items"
-  },
-  {
-    "name": "Online Ordering for Rice Bar",
-    "slug": "onlineorderingforricebar",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5020/6499/items"
-  },
-  {
-    "name": "Online Ordering for Lucky Thai Kitchen",
-    "slug": "onlineorderingforluckythaikitchen",
-    "category": "thai",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/7635/locations"
-  },
-  {
-    "name": "Online Ordering for Time-Out Restaurant",
-    "slug": "onlineorderingfortime-outrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/505/locations/660"
-  },
-  {
-    "name": "Online Ordering for Papa-San Rice Bowl",
-    "slug": "onlineorderingforpapa-sanricebowl",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5720/locations"
-  },
-  {
-    "name": "Online Ordering for Little Thai Restaurant",
-    "slug": "onlineorderingforlittlethairestaurant",
-    "category": "thai",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/7253/locations"
-  },
-  {
-    "name": "Online Ordering for Kay's Restaurant",
-    "slug": "onlineorderingforkaysrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/93/locations"
-  },
-  {
     "name": "Cascabel Mexican Vegan Spring Branch",
     "slug": "cascabelmexicanveganspringbranch",
     "category": "mexican",
@@ -1568,7 +1360,7 @@
   {
     "name": "Amy's Ice Creams Houston Shepherd",
     "slug": "amysicecreamshoustonshepherd",
-    "category": "restaurant",
+    "category": "dessert",
     "metros": [
       "houston"
     ],
@@ -1577,7 +1369,7 @@
   {
     "name": "Vegan On The Fly Midtown",
     "slug": "veganontheflymidtown",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "houston"
     ],
@@ -1586,7 +1378,7 @@
   {
     "name": "Vegan International Co 13751 N Nebraska Ave",
     "slug": "veganinternationalco13751nnebraskaave",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "houston"
     ],
@@ -1836,22 +1628,12 @@
     "toastUrl": "https://order.toasttab.com/online/breakfast-spot"
   },
   {
-    "name": "Online Ordering for Asia Market Thai Lao Food - Houston",
-    "slug": "onlineorderingforasiamarketthailaofood-h",
-    "category": "thai",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/3329/4342/items"
-  },
-  {
     "name": "Home - Masraff's - New American restaurant in Houston, TX",
     "slug": "home-masraffs-newamericanrestaurantinhou",
     "category": "restaurant",
     "metros": [
       "houston"
-    ],
-    "websiteOrderUrl": "https://masraffs2.popmenu.com/"
+    ]
   },
   {
     "name": "Home - Aga's Restaurant - Indian Restaurant in Houston, TX",
@@ -1859,26 +1641,15 @@
     "category": "indian",
     "metros": [
       "houston"
-    ],
-    "websiteOrderUrl": "https://agas-restaurant.popmenu.com/"
+    ]
   },
   {
     "name": "Home - Laurenzo's Prime Rib - Steak House in TX",
     "slug": "home-laurenzosprimerib-steakhouseintx",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "houston"
-    ],
-    "websiteOrderUrl": "https://laurenzos-restaurant.popmenu.com/"
-  },
-  {
-    "name": "Popmenu",
-    "slug": "popmenu",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://b-and-b-butchers-and-restaurant.popmenu.com/files/houston-wine-and-cocktails-pdf.pdf"
+    ]
   },
   {
     "name": "Order Online - The Back Porch - Restaurant in Kilgore, TX",
@@ -1886,8 +1657,7 @@
     "category": "restaurant",
     "metros": [
       "houston"
-    ],
-    "websiteOrderUrl": "https://the-back-porch2.popmenu.com/"
+    ]
   },
   {
     "name": "Reducing food waste: 11 strategies any restaurant can use",
@@ -1895,8 +1665,7 @@
     "category": "restaurant",
     "metros": [
       "houston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/reducing-food-waste"
+    ]
   },
   {
     "name": "Latitude 26°",
@@ -1904,8 +1673,7 @@
     "category": "restaurant",
     "metros": [
       "houston"
-    ],
-    "websiteOrderUrl": "https://latitude-26.popmenu.com/"
+    ]
   },
   {
     "name": "Kabo Kitchen",
@@ -1913,8 +1681,7 @@
     "category": "restaurant",
     "metros": [
       "houston"
-    ],
-    "websiteOrderUrl": "https://kabo-kitchen.popmenu.com/"
+    ]
   },
   {
     "name": "Menu - Beths Cafe",
@@ -1931,8 +1698,7 @@
     "category": "restaurant",
     "metros": [
       "houston"
-    ],
-    "websiteOrderUrl": "https://quatro.popmenu.com/"
+    ]
   },
   {
     "name": "Home - Wabi House",
@@ -1940,8 +1706,7 @@
     "category": "restaurant",
     "metros": [
       "houston"
-    ],
-    "websiteOrderUrl": "https://wabi-house-fort-worth.popmenu.com/"
+    ]
   },
   {
     "name": "Restaurant",
@@ -1982,7 +1747,7 @@
   {
     "name": "Houston's Barbecue",
     "slug": "houstonsbarbecue",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "houston"
     ],
@@ -2009,7 +1774,7 @@
   {
     "name": "Sandwich - California Club",
     "slug": "sandwich-californiaclub",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "houston"
     ],
@@ -2045,7 +1810,7 @@
   {
     "name": "Sandwich - Stacker",
     "slug": "sandwich-stacker",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "houston"
     ],
@@ -2063,29 +1828,18 @@
   {
     "name": "Wok & Roll - Houston, TX 77002 (Menu & Order Online)",
     "slug": "wokroll-houstontx77002menuorderonline",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "houston"
-    ],
-    "websiteOrderUrl": "https://wokandrollhoustonmain.menufy.com/"
+    ]
   },
   {
     "name": "Wok & Roll - Houston, TX 77010 (Menu & Order Online)",
     "slug": "wokroll-houstontx77010menuorderonline",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "houston"
-    ],
-    "websiteOrderUrl": "https://woknrollmckinney.menufy.com/"
-  },
-  {
-    "name": "CYPRESS, TX - Delivery & Takeout",
-    "slug": "cypresstx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/CYPRESS"
+    ]
   },
   {
     "name": "Home - Chunk's Burger",
@@ -2093,71 +1847,16 @@
     "category": "burgers",
     "metros": [
       "houston"
-    ],
-    "websiteOrderUrl": "https://chunksburger.menufy.com/"
-  },
-  {
-    "name": "Dominican in Houston, TX - Delivery & Takeout",
-    "slug": "dominicaninhoustontx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Houston/Dominican"
-  },
-  {
-    "name": "Pizza in Houston, TX - Delivery & Takeout",
-    "slug": "pizzainhoustontx-deliverytakeout",
-    "category": "pizza",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Houston/Pizza"
+    ]
   },
   {
     "name": "Golden Hunan II - Houston, TX 77055 (Menu & Order Online)",
     "slug": "goldenhunanii-houstontx77055menuorderonl",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "houston"
     ],
     "websiteOrderUrl": "https://goldenhunanii.menufy.com/order"
-  },
-  {
-    "name": "Hoston, TX - Delivery & Takeout",
-    "slug": "hostontx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Hoston"
-  },
-  {
-    "name": "San-Antonio, TX - Delivery & Takeout",
-    "slug": "san-antoniotx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/San-Antonio"
-  },
-  {
-    "name": "TX - Delivery & Takeout",
-    "slug": "tx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX"
-  },
-  {
-    "name": "Sugarland, TX - Delivery & Takeout",
-    "slug": "sugarlandtx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Sugarland"
   },
   {
     "name": "Menu - Daddy's Daiquiri",
@@ -2171,11 +1870,10 @@
   {
     "name": "Home - Saruzzo's New York Pizzeria",
     "slug": "home-saruzzosnewyorkpizzeria",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "houston"
-    ],
-    "websiteOrderUrl": "https://saruzzosnypizzeria.menufy.com"
+    ]
   },
   {
     "name": "Home - AMAR INDIAN CUISINE",
@@ -2183,8 +1881,7 @@
     "category": "indian",
     "metros": [
       "houston"
-    ],
-    "websiteOrderUrl": "https://amarindiancuisine.menufy.com/"
+    ]
   },
   {
     "name": "Privacy Policy",
@@ -2194,15 +1891,6 @@
       "houston"
     ],
     "websiteOrderUrl": "https://restaurant.menufy.com/privacy"
-  },
-  {
-    "name": "Restaurants - Delivery & Takeout",
-    "slug": "restaurants-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://kottukorner.menufy.com/"
   },
   {
     "name": "Accessibility Statement",
@@ -2219,8 +1907,7 @@
     "category": "restaurant",
     "metros": [
       "houston"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/"
+    ]
   },
   {
     "name": "Hillstone - Houston",
@@ -2414,20 +2101,11 @@
   {
     "name": "Mandola's Deli - Italian comfort in Houston, TX",
     "slug": "mandolasdeli-italiancomfortinhoustontx",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "houston"
     ],
     "websiteOrderUrl": "https://mandolasdeli.getbento.com/online-ordering/mandolas-deli/menu"
-  },
-  {
-    "name": "The Best Restaurant Websites in Houston",
-    "slug": "thebestrestaurantwebsitesinhouston",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-houston/"
   },
   {
     "name": "Kings BBQ",
@@ -2437,15 +2115,6 @@
       "houston"
     ],
     "websiteOrderUrl": "https://kingsbbq.getbento.com/online-ordering/"
-  },
-  {
-    "name": "Best Restaurant Websites - Texas",
-    "slug": "bestrestaurantwebsites-texas",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-texas/"
   },
   {
     "name": "Rumi's Kitchen - Persian Restaurant in GA, DC & TX",
@@ -2462,8 +2131,7 @@
     "category": "restaurant",
     "metros": [
       "houston"
-    ],
-    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/fe2210da04b358bed82d0430bab7b113/media/blTZBhjkQEKnFVYE1Ceg_GRT%20HRW%202021%20Dinner%20Menu.pdf"
+    ]
   },
   {
     "name": "Catering",
@@ -2477,7 +2145,7 @@
   {
     "name": "Baguettes & Noodles",
     "slug": "baguettesnoodles",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "houston"
     ],
@@ -2486,7 +2154,7 @@
   {
     "name": "Sandwiches, soups, and salads in Houston, TX",
     "slug": "sandwichessoupsandsaladsinhoustontx",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "houston"
     ],
@@ -2498,13 +2166,12 @@
     "category": "restaurant",
     "metros": [
       "houston"
-    ],
-    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/c31ee7a22b8a5de7f98fbe0d9d8c0438/media/gC2mbBtfSaGXsKumwMrP_2180617%20LGRG%20-%20Banquet%20Menu%20--%2010-23%20(1).pdf"
+    ]
   },
   {
     "name": "Señor Burrito Drives 150% More Orders With BentoBox & Clover",
     "slug": "seorburritodrives150moreorderswithbentob",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "houston"
     ],
@@ -2513,7 +2180,7 @@
   {
     "name": "Hospitality Groups",
     "slug": "hospitalitygroups",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "houston"
     ],
@@ -2534,8 +2201,7 @@
     "category": "restaurant",
     "metros": [
       "houston"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/chef-to-chef-houston-2022/"
+    ]
   },
   {
     "name": "Restaurant Online Ordering",
@@ -2639,7 +2305,7 @@
   {
     "name": "Barbar Mediterranean Grill - Houston, Texas",
     "slug": "barbarmediterraneangrill-houstontexas",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "houston"
     ],
@@ -2702,7 +2368,7 @@
   {
     "name": "K TEA BOBA - HOUSTON, TX",
     "slug": "kteaboba-houstontx",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "houston"
     ],
@@ -2711,7 +2377,7 @@
   {
     "name": "BAO BAO BOBA - HOUSTON, TX",
     "slug": "baobaoboba-houstontx",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "houston"
     ],
@@ -2729,7 +2395,7 @@
   {
     "name": "Seaside Poke Understory",
     "slug": "seasidepokeunderstory",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "houston"
     ],
@@ -2747,7 +2413,7 @@
   {
     "name": "Seaside Poke East Downtown",
     "slug": "seasidepokeeastdowntown",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "houston"
     ],
@@ -2756,7 +2422,7 @@
   {
     "name": "Poke House Research Blvd",
     "slug": "pokehouseresearchblvd",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "houston"
     ],
@@ -2774,7 +2440,7 @@
   {
     "name": "Poke OG - Downtown POKE OG DOWNTOWN",
     "slug": "pokeog-downtownpokeogdowntown",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "houston"
     ],
@@ -2783,7 +2449,7 @@
   {
     "name": "Poke Poke Loop (Palmer House)",
     "slug": "pokepokelooppalmerhouse",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "houston"
     ],
@@ -2792,7 +2458,7 @@
   {
     "name": "Poke Poke West Loop",
     "slug": "pokepokewestloop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "houston"
     ],
@@ -2810,7 +2476,7 @@
   {
     "name": "Poke Dot 17921 MacArthur Blvd",
     "slug": "pokedot17921macarthurblvd",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "houston"
     ],
@@ -2819,7 +2485,7 @@
   {
     "name": "NEW Siesta Poke 5206 Ocean Boulevard",
     "slug": "newsiestapoke5206oceanboulevard",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "houston"
     ],
@@ -2828,7 +2494,7 @@
   {
     "name": "Poke Burri 3231 powelton ave",
     "slug": "pokeburri3231poweltonave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "houston"
     ],
@@ -2837,7 +2503,7 @@
   {
     "name": "Poke Burrito Astoria 37-07 30th Ave.",
     "slug": "pokeburritoastoria37-0730thave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "houston"
     ],
@@ -2846,7 +2512,7 @@
   {
     "name": "Manoa Poke Shop",
     "slug": "manoapokeshop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "houston"
     ],
@@ -2855,7 +2521,7 @@
   {
     "name": "Poke House Round Rock",
     "slug": "pokehouseroundrock",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "houston"
     ],
@@ -2927,7 +2593,7 @@
   {
     "name": "Acme Oyster House Houston",
     "slug": "acmeoysterhousehouston",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "houston"
     ],
@@ -3008,7 +2674,7 @@
   {
     "name": "Mr. Greek of Buffalo 1122 Elmwood Ave.",
     "slug": "mrgreekofbuffalo1122elmwoodave",
-    "category": "mediterranean",
+    "category": "wings",
     "metros": [
       "houston"
     ],
@@ -3080,7 +2746,7 @@
   {
     "name": "Radiant Juice + Smoothie Bar 702 Main St., Suite 103",
     "slug": "radiantjuicesmoothiebar702mainstsuite103",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "houston"
     ],
@@ -3089,7 +2755,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "houston"
     ],
@@ -3098,7 +2764,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "houston"
     ],
@@ -3107,7 +2773,7 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "houston"
     ],
@@ -3125,7 +2791,7 @@
   {
     "name": "The Juice Room",
     "slug": "thejuiceroom",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "houston"
     ],

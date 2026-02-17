@@ -164,8 +164,7 @@
       "denver"
     ],
     "placeId": "ChIJccWEGAZ5bIcRocT3qmn25y0",
-    "website": "https://www.foxandthehen.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "https://www.foxandthehen.com/"
   },
   {
     "name": "Postino LoHi",
@@ -290,8 +289,7 @@
       "denver"
     ],
     "placeId": "ChIJxz3k85Z-bIcRQcAPJ0SZzO4",
-    "website": "https://www.truefoodkitchen.com/locations/denver/",
-    "websiteOrderUrl": "https://truefoodkitchen.olo.com"
+    "website": "https://www.truefoodkitchen.com/locations/denver/"
   },
   {
     "name": "Culinary Dropout",
@@ -352,8 +350,7 @@
       "denver"
     ],
     "placeId": "ChIJM7onVpd-bIcRBvE0lfrRRLA",
-    "website": "https://www.delfriscosgrille.com/location/del-friscos-grille-cherry-creek-co/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "https://www.delfriscosgrille.com/location/del-friscos-grille-cherry-creek-co/"
   },
   {
     "name": "Postino Boulder",
@@ -440,7 +437,7 @@
   {
     "name": "Brasserie Ten Ten",
     "slug": "brasserietenten",
-    "category": "french",
+    "category": "restaurant",
     "metros": [
       "denver"
     ],
@@ -458,15 +455,6 @@
     "website": "https://cozobifondafina.com/"
   },
   {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/restaurant-olivia-290-s-downing-st-denver-co-80209"
-  },
-  {
     "name": "The Longmonter Restaurant - Order Online",
     "slug": "thelongmonterrestaurant-orderonline",
     "category": "restaurant",
@@ -476,49 +464,12 @@
     "toastUrl": "https://order.toasttab.com/online/thelongmonter"
   },
   {
-    "name": "Online ordering competitors every restaurant should know",
-    "slug": "onlineorderingcompetitorseveryrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know"
-  },
-  {
-    "name": "6 Best Popmenu Competitors to Consider (Pros & Cons)",
-    "slug": "6bestpopmenucompetitorstoconsiderproscon",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
-  },
-  {
-    "name": "Popmenu: We do more than grow your restaurant.",
-    "slug": "popmenuwedomorethangrowyourrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/"
-  },
-  {
     "name": "5 ways to ramp up your restaurant online ordering system",
     "slug": "5waystorampupyourrestaurantonlineorderin",
     "category": "restaurant",
     "metros": [
       "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-online-ordering-system"
+    ]
   },
   {
     "name": "Why every restaurant needs an interactive menu",
@@ -526,53 +477,7 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/every-restaurant-needs-interactive-menu"
-  },
-  {
-    "name": "Key Strategies To Growing Your Restaurant In A Competitive Market",
-    "slug": "keystrategiestogrowingyourrestaurantinac",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/key-strategies-to-growing-your-restaurant-in-a-competitive-market"
-  },
-  {
-    "name": "Popmenu: Case Study - The Hampton Social",
-    "slug": "popmenucasestudy-thehamptonsocial",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/improving-margins/the-hampton-social"
-  },
-  {
-    "name": "Popmenu: Case Study - Phat Eatery",
-    "slug": "popmenucasestudy-phateatery",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/phat-eatery"
-  },
-  {
-    "name": "Tech the Halls with Popmenu",
-    "slug": "techthehallswithpopmenu",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/tech-the-halls-reach-more-guests"
-  },
-  {
-    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
-    "slug": "popmenutoolkittherestaurantgrowthplayboo",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+    ]
   },
   {
     "name": "4 tech-focused tips to fight rising restaurant costs",
@@ -580,8 +485,7 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs"
+    ]
   },
   {
     "name": "Oblio's Pizza & Italian",
@@ -746,15 +650,6 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/5745/7519/items"
   },
   {
-    "name": "Online Ordering for Restaurants with No Commissions",
-    "slug": "onlineorderingforrestaurantswithnocommis",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/43056/locations/64905"
-  },
-  {
     "name": "Cafe Aion + Brasserie Boulder: Order Online",
     "slug": "cafeaionbrasserieboulderorderonline",
     "category": "cafe",
@@ -811,7 +706,7 @@
   {
     "name": "Gondolier Italian Eatery Gondolier Boulder",
     "slug": "gondolieritalianeaterygondolierboulder",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "denver"
     ],
@@ -937,7 +832,7 @@
   {
     "name": "Boulder - Order Online",
     "slug": "boulder-orderonline",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "denver"
     ],
@@ -1036,7 +931,7 @@
   {
     "name": "Hot Cakes Capitol Hill",
     "slug": "hotcakescapitolhill",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "denver"
     ],
@@ -1054,7 +949,7 @@
   {
     "name": "Junction Bistro, Bar & Bakery Capitol Hill 238 ...",
     "slug": "junctionbistrobarbakerycapitolhill238",
-    "category": "cafe",
+    "category": "bakery",
     "metros": [
       "denver"
     ],
@@ -1072,7 +967,7 @@
   {
     "name": "Top of the Hill Restaurant & Brewery",
     "slug": "topofthehillrestaurantbrewery",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "denver"
     ],
@@ -1090,7 +985,7 @@
   {
     "name": "Capitol East - Vintage Brewing Company",
     "slug": "capitoleast-vintagebrewingcompany",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "denver"
     ],
@@ -1153,7 +1048,7 @@
   {
     "name": "Doro Soul Food 2108 8th St NW",
     "slug": "dorosoulfood21088thstnw",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "denver"
     ],
@@ -1279,7 +1174,7 @@
   {
     "name": "Poke House - Denver",
     "slug": "pokehouse-denver",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "denver"
     ],
@@ -1297,7 +1192,7 @@
   {
     "name": "Poke Me 7357 W Alaska Dr",
     "slug": "pokeme7357walaskadr",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "denver"
     ],
@@ -1306,7 +1201,7 @@
   {
     "name": "Menya #1 Menya 1 Noodle Bar",
     "slug": "menya1menya1noodlebar",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "denver"
     ],
@@ -1315,7 +1210,7 @@
   {
     "name": "Poke OG - Downtown POKE OG DOWNTOWN",
     "slug": "pokeog-downtownpokeogdowntown",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "denver"
     ],
@@ -1324,7 +1219,7 @@
   {
     "name": "Poke Poke West Loop",
     "slug": "pokepokewestloop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "denver"
     ],
@@ -1333,7 +1228,7 @@
   {
     "name": "Poke Poke Loop (Palmer House)",
     "slug": "pokepokelooppalmerhouse",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "denver"
     ],
@@ -1342,7 +1237,7 @@
   {
     "name": "Blowfish Poke & Grill",
     "slug": "blowfishpokegrill",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "denver"
     ],
@@ -1351,7 +1246,7 @@
   {
     "name": "Poke Poke Streeterville",
     "slug": "pokepokestreeterville",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "denver"
     ],
@@ -1372,13 +1267,12 @@
     "category": "indian",
     "metros": [
       "denver"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/denvercurryhouse.com"
+    ]
   },
   {
     "name": "100 Knox ct Denver CO 80219",
     "slug": "100knoxctdenverco80219",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "denver"
     ],
@@ -1387,7 +1281,7 @@
   {
     "name": "Salad or Bust Downtown 8 E. Bijou St.",
     "slug": "saladorbustdowntown8ebijoust",
-    "category": "restaurant",
+    "category": "healthy",
     "metros": [
       "denver"
     ],
@@ -1396,7 +1290,7 @@
   {
     "name": "Yampa Sandwich Co. Denver/DTC",
     "slug": "yampasandwichcodenverdtc",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "denver"
     ],
@@ -1423,7 +1317,7 @@
   {
     "name": "Morning Story - Denver",
     "slug": "morningstory-denver",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "denver"
     ],
@@ -1432,7 +1326,7 @@
   {
     "name": "Cuban Kitchen, home of the Best Cubano",
     "slug": "cubankitchenhomeofthebestcubano",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "denver"
     ],
@@ -1441,7 +1335,7 @@
   {
     "name": "Paladar Cuban Eatery",
     "slug": "paladarcubaneatery",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "denver"
     ],
@@ -1450,7 +1344,7 @@
   {
     "name": "Baracoa Cuban Restaurant",
     "slug": "baracoacubanrestaurant",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "denver"
     ],
@@ -1585,20 +1479,11 @@
   {
     "name": "Mediterranean Grill & Pizzeria Attleboro",
     "slug": "mediterraneangrillpizzeriaattleboro",
-    "category": "mediterranean",
+    "category": "pizza",
     "metros": [
       "denver"
     ],
     "toastUrl": "https://order.toasttab.com/online/ilovemed"
-  },
-  {
-    "name": "Online Ordering for Sports Page Food & Spirits - Denver",
-    "slug": "onlineorderingforsportspagefoodspirits-d",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5464/locations/7160"
   },
   {
     "name": "Online Food Ordering System & App",
@@ -1610,54 +1495,9 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/17490/25011/items"
   },
   {
-    "name": "Online Ordering for The District - Denver",
-    "slug": "onlineorderingforthedistrict-denver",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5123/locations/6647"
-  },
-  {
-    "name": "Online Ordering for Denver Deep Dish",
-    "slug": "onlineorderingfordenverdeepdish",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5121/locations"
-  },
-  {
-    "name": "Online Ordering for Rendezvous Cafe",
-    "slug": "onlineorderingforrendezvouscafe",
-    "category": "cafe",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5366/locations"
-  },
-  {
-    "name": "Online Ordering for DenverDeep Dish - Denver",
-    "slug": "onlineorderingfordenverdeepdish-denver",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5121/locations/6642"
-  },
-  {
-    "name": "Online Ordering for Rolling Harvest Food Truck",
-    "slug": "onlineorderingforrollingharvestfoodtruck",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/4462/locations/5795"
-  },
-  {
     "name": "Breakfast Inn & Dinner Too 6135 East Evans Avenue",
     "slug": "breakfastinndinnertoo6135eastevansavenue",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "denver"
     ],
@@ -1675,7 +1515,7 @@
   {
     "name": "Pho & Bar 1600 East 17th Avenue – Order pickup and delivery",
     "slug": "phobar1600east17thavenueorderpickupandde",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "denver"
     ],
@@ -1684,29 +1524,11 @@
   {
     "name": "Pho 15 665 East 70th Avenue – Order pickup and delivery",
     "slug": "pho15665east70thavenueorderpickupanddeli",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "denver"
     ],
     "websiteOrderUrl": "https://order.online/store/pho-15-denver-35475/"
-  },
-  {
-    "name": "5 menu design Ideas for digital-first restaurants",
-    "slug": "5menudesignideasfordigital-firstrestaura",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
-  },
-  {
-    "name": "Popmenu: About Us",
-    "slug": "popmenuaboutus",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/about-us"
   },
   {
     "name": "Virtual restaurants need these 6 digital tools",
@@ -1714,17 +1536,7 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/virtual-restaurants-need-these-6-digital-tools"
-  },
-  {
-    "name": "Popmenu: Dynamic, interactive restaurant menus",
-    "slug": "popmenudynamicinteractiverestaurantmenus",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/dynamic-menu-tech"
+    ]
   },
   {
     "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
@@ -1732,53 +1544,7 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
-  },
-  {
-    "name": "Popmenu: Photography",
-    "slug": "popmenuphotography",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/photography"
-  },
-  {
-    "name": "Popmenu: Case Study - The Deck",
-    "slug": "popmenucasestudy-thedeck",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/the-deck"
-  },
-  {
-    "name": "Popmenu: Case Study - Dos Salsas",
-    "slug": "popmenucasestudy-dossalsas",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
-  },
-  {
-    "name": "Popmenu: OrderNerd powered by Popmenu",
-    "slug": "popmenuordernerdpoweredbypopmenu",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/ordernerd"
-  },
-  {
-    "name": "Popmenu - New",
-    "slug": "popmenu-new",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/every-restaurant-needs-interactive-menu"
+    ]
   },
   {
     "name": "How to create (and use) a restaurant email list",
@@ -1786,17 +1552,7 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-email-list-guide"
-  },
-  {
-    "name": "ACS",
-    "slug": "acs",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://affordable-catering.popmenu.com/"
+    ]
   },
   {
     "name": "The ultimate guide to restaurant branding",
@@ -1804,8 +1560,7 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-branding-guide"
+    ]
   },
   {
     "name": "Slow Food Denver",
@@ -1846,7 +1601,7 @@
   {
     "name": "Order Italian Food in Denver Online",
     "slug": "orderitalianfoodindenveronline",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "denver"
     ],
@@ -1891,7 +1646,7 @@
   {
     "name": "Barbecue, Pre",
     "slug": "barbecuepre",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "denver"
     ],
@@ -1916,31 +1671,12 @@
     "squareUrl": "https://macncheezary.square.site/"
   },
   {
-    "name": "Denver, CO - Delivery & Takeout",
-    "slug": "denverco-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CO/Denver"
-  },
-  {
-    "name": "American in Denver, CO - Delivery & Takeout",
-    "slug": "americanindenverco-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CO/Denver/American"
-  },
-  {
     "name": "Home - Kahlo's Restaurant",
     "slug": "home-kahlosrestaurant",
     "category": "restaurant",
     "metros": [
       "denver"
-    ],
-    "websiteOrderUrl": "https://kahlos.menufy.com/"
+    ]
   },
   {
     "name": "Kahlo's Restaurant - Denver, CO 80219 (Menu & Order Online)",
@@ -1952,139 +1688,13 @@
     "websiteOrderUrl": "https://kahlos.menufy.com/order"
   },
   {
-    "name": "DENVER, NC - Delivery & Takeout",
-    "slug": "denvernc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/DENVER"
-  },
-  {
-    "name": "Italian in Denver, CO - Delivery & Takeout",
-    "slug": "italianindenverco-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CO/Denver/Italian"
-  },
-  {
-    "name": "Golden, CO - Delivery & Takeout",
-    "slug": "goldenco-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CO/Golden"
-  },
-  {
-    "name": "Szechuan in Denver, CO - Delivery & Takeout",
-    "slug": "szechuanindenverco-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CO/Denver/Szechuan"
-  },
-  {
-    "name": "Loveland, CO - Delivery & Takeout",
-    "slug": "lovelandco-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CO/Loveland"
-  },
-  {
-    "name": "Hawaiian in Denver, CO - Delivery & Takeout",
-    "slug": "hawaiianindenverco-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CO/Denver/Hawaiian"
-  },
-  {
-    "name": "Soul Food in Denver, CO - Delivery & Takeout",
-    "slug": "soulfoodindenverco-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CO/Denver/Soul%20Food"
-  },
-  {
-    "name": "Sushi in Denver, CO - Delivery & Takeout",
-    "slug": "sushiindenverco-deliverytakeout",
-    "category": "japanese",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CO/Denver/Sushi"
-  },
-  {
-    "name": "Breakfast in Denver, CO - Delivery & Takeout",
-    "slug": "breakfastindenverco-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CO/Denver/Breakfast"
-  },
-  {
-    "name": "Middle Eastern in Denver, CO - Delivery & Takeout",
-    "slug": "middleeasternindenverco-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CO/Denver/Middle%20Eastern"
-  },
-  {
-    "name": "Taiwanese in Denver, CO - Delivery & Takeout",
-    "slug": "taiwaneseindenverco-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CO/Denver/Taiwanese"
-  },
-  {
-    "name": "Deli in Denver, CO - Delivery & Takeout",
-    "slug": "deliindenverco-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CO/Denver/Deli"
-  },
-  {
-    "name": "Ethiopian in DENVER, CO - Delivery & Takeout",
-    "slug": "ethiopianindenverco-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CO/DENVER/Ethiopian"
-  },
-  {
     "name": "Delivery & Takeout - Colorado, Order Food Online!",
     "slug": "deliverytakeout-coloradoorderfoodonline",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "denver"
     ],
     "websiteOrderUrl": "https://www.menufy.com/CO"
-  },
-  {
-    "name": "Pho in DENVER, NC - Delivery & Takeout",
-    "slug": "phoindenvernc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/DENVER/Pho"
   },
   {
     "name": "Kona Grill Denver",
@@ -2137,8 +1747,7 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ],
-    "websiteOrderUrl": "https://jalexanders.olo.com/"
+    ]
   },
   {
     "name": "Denver, CO",
@@ -2155,8 +1764,7 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ],
-    "websiteOrderUrl": "https://eatatsantiagos.olo.com/"
+    ]
   },
   {
     "name": "Rock Bottom South Denver",
@@ -2200,8 +1808,7 @@
     "category": "mexican",
     "metros": [
       "denver"
-    ],
-    "websiteOrderUrl": "https://solcocina.olo.com/"
+    ]
   },
   {
     "name": "Postino Broadway",
@@ -2267,15 +1874,6 @@
     "websiteOrderUrl": "https://slicelife.com/pizza-delivery/co-denver"
   },
   {
-    "name": "The Best Restaurant Websites in Denver",
-    "slug": "thebestrestaurantwebsitesindenver",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-denver/"
-  },
-  {
     "name": "Online Ordering",
     "slug": "onlineordering",
     "category": "restaurant",
@@ -2308,8 +1906,7 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ],
-    "websiteOrderUrl": "https://citrusthediner.getbento.com/"
+    ]
   },
   {
     "name": "Cimera",
@@ -2317,8 +1914,7 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ],
-    "websiteOrderUrl": "https://v2-cimeradenver.getbento.com/"
+    ]
   },
   {
     "name": "Playground Asian Food Hall",
@@ -2326,8 +1922,7 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ],
-    "websiteOrderUrl": "https://eatplayground-archive.getbento.com/"
+    ]
   },
   {
     "name": "16 Prime",
@@ -2335,8 +1930,7 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ],
-    "websiteOrderUrl": "https://16prime.getbento.com/"
+    ]
   },
   {
     "name": "Barbed Wire Reef",
@@ -2344,17 +1938,7 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ],
-    "websiteOrderUrl": "https://barbedwirereef.getbento.com/"
-  },
-  {
-    "name": "The 20 Best Restaurant Websites of 2024",
-    "slug": "the20bestrestaurantwebsitesof2024",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-design/"
+    ]
   },
   {
     "name": "Bar Amorina",
@@ -2362,17 +1946,15 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ],
-    "websiteOrderUrl": "https://baramorina.getbento.com/"
+    ]
   },
   {
     "name": "Denver Steakhouse",
     "slug": "denversteakhouse",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "denver"
-    ],
-    "websiteOrderUrl": "https://buckhorn.getbento.com/"
+    ]
   },
   {
     "name": "Restaurant Online Ordering",
@@ -2389,8 +1971,7 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/the-best-online-ordering-system-for-restaurants/"
+    ]
   },
   {
     "name": "Los Chingones Mexican",
@@ -2398,8 +1979,7 @@
     "category": "mexican",
     "metros": [
       "denver"
-    ],
-    "websiteOrderUrl": "https://loschingonesmexican.getbento.com/"
+    ]
   },
   {
     "name": "Which Restaurant Reservation System Should You Use?",
@@ -2407,8 +1987,7 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/online-restaurant-reservation-systems/"
+    ]
   },
   {
     "name": "GODAVARI DENVER - CENTENNIAL, CO",
@@ -2440,7 +2019,7 @@
   {
     "name": "GAIA MASALA & BURGER LODO LOCATION - DENVER, CO",
     "slug": "gaiamasalaburgerlodolocation-denverco",
-    "category": "burgers",
+    "category": "indian",
     "metros": [
       "denver"
     ],
@@ -2476,7 +2055,7 @@
   {
     "name": "GAIA MASALA & BURGER - DENVER, CO",
     "slug": "gaiamasalaburger-denverco",
-    "category": "burgers",
+    "category": "indian",
     "metros": [
       "denver"
     ],
@@ -2494,7 +2073,7 @@
   {
     "name": "TEA STREET DENVER - DENVER, CO",
     "slug": "teastreetdenver-denverco",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "denver"
     ],
@@ -2546,24 +2125,6 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/ctr-for-sustainability-denver"
   },
   {
-    "name": "Online Ordering for Slyce Pizza Co. - Fort Collins",
-    "slug": "onlineorderingforslycepizzaco-fortcollin",
-    "category": "pizza",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/6612/locations/8766"
-  },
-  {
-    "name": "Online Ordering for Wing Shack - Fort Collins",
-    "slug": "onlineorderingforwingshack-fortcollins",
-    "category": "wings",
-    "metros": [
-      "denver"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5288/locations/6904"
-  },
-  {
     "name": "Denver West Deli 14143 Denver W Pkwy",
     "slug": "denverwestdeli14143denverwpkwy",
     "category": "deli",
@@ -2593,7 +2154,7 @@
   {
     "name": "Den Deli and Seafood Market Ototo",
     "slug": "dendeliandseafoodmarketototo",
-    "category": "deli",
+    "category": "seafood",
     "metros": [
       "denver"
     ],
@@ -2656,7 +2217,7 @@
   {
     "name": "Poke Dot 17921 MacArthur Blvd",
     "slug": "pokedot17921macarthurblvd",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "denver"
     ],
@@ -2827,7 +2388,7 @@
   {
     "name": "Mr. Greek of Buffalo 1122 Elmwood Ave.",
     "slug": "mrgreekofbuffalo1122elmwoodave",
-    "category": "mediterranean",
+    "category": "wings",
     "metros": [
       "denver"
     ],
@@ -2962,7 +2523,7 @@
   {
     "name": "Shack Breakfast & Lunch Shack Creve Coeur",
     "slug": "shackbreakfastlunchshackcrevecoeur",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "denver"
     ],
@@ -2980,7 +2541,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "denver"
     ],
@@ -2989,7 +2550,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "denver"
     ],
@@ -2998,7 +2559,7 @@
   {
     "name": "Radiant Juice + Smoothie Bar 702 Main St., Suite 103",
     "slug": "radiantjuicesmoothiebar702mainstsuite103",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "denver"
     ],
@@ -3007,7 +2568,7 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "denver"
     ],
@@ -3016,7 +2577,7 @@
   {
     "name": "Eden's Juice & Detox Bar 13048 W Rancho Sante Fe blvd",
     "slug": "edensjuicedetoxbar13048wranchosantefeblv",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "denver"
     ],
@@ -3025,7 +2586,7 @@
   {
     "name": "The Juice Room",
     "slug": "thejuiceroom",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "denver"
     ],
@@ -3034,7 +2595,7 @@
   {
     "name": "Base Smoothies + Juice Frisco Frisco",
     "slug": "basesmoothiesjuicefriscofrisco",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "denver"
     ],
@@ -3043,7 +2604,7 @@
   {
     "name": "Awake Juice Bar Legends",
     "slug": "awakejuicebarlegends",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "denver"
     ],

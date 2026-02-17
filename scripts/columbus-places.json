@@ -90,7 +90,7 @@
   {
     "name": "Elevator Brewery & Draught Haus",
     "slug": "elevatorbrewerydraughthaus",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "columbus"
     ]
@@ -178,7 +178,7 @@
   {
     "name": "Cilantro Latin - Grandview Food Truck 993 King Avenue",
     "slug": "cilantrolatin-grandviewfoodtruck993kinga",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "columbus"
     ],
@@ -194,15 +194,6 @@
     "toastUrl": "https://order.toasttab.com/online/olive-lime-columbus-4519-n-high-street"
   },
   {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/mw-sandwiches-171-n-4th-st"
-  },
-  {
     "name": "ROOH Columbus",
     "slug": "roohcolumbus",
     "category": "restaurant",
@@ -214,7 +205,7 @@
   {
     "name": "Columbus Ohio Brewing Company",
     "slug": "columbusohiobrewingcompany",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "columbus"
     ],
@@ -574,7 +565,7 @@
   {
     "name": "Big Mamma's Burritos - Grandview 1359 Grandview Avenue",
     "slug": "bigmammasburritos-grandview1359grandview",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "columbus"
     ],
@@ -583,7 +574,7 @@
   {
     "name": "Zest Juice Co Grandview",
     "slug": "zestjuicecograndview",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "columbus"
     ],
@@ -637,7 +628,7 @@
   {
     "name": "Family Restaurant & Bakery",
     "slug": "familyrestaurantbakery",
-    "category": "cafe",
+    "category": "bakery",
     "metros": [
       "columbus"
     ],
@@ -718,7 +709,7 @@
   {
     "name": "Pasta Villa - Columbus",
     "slug": "pastavilla-columbus",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "columbus"
     ],
@@ -763,7 +754,7 @@
   {
     "name": "NOLA CAJUN KITCHEN",
     "slug": "nolacajunkitchen",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "columbus"
     ],
@@ -781,7 +772,7 @@
   {
     "name": "Ya Better Eat Cajun Smokehouse 711 2nd Avenue North",
     "slug": "yabettereatcajunsmokehouse7112ndavenueno",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "columbus"
     ],
@@ -790,7 +781,7 @@
   {
     "name": "Cajun Corner - Uptown 23rd St",
     "slug": "cajuncorner-uptown23rdst",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "columbus"
     ],
@@ -799,7 +790,7 @@
   {
     "name": "Crawdaddys Cajun 13 Tomlinson Mill Rd",
     "slug": "crawdaddyscajun13tomlinsonmillrd",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "columbus"
     ],
@@ -826,7 +817,7 @@
   {
     "name": "Cajun Queen",
     "slug": "cajunqueen",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "columbus"
     ],
@@ -835,7 +826,7 @@
   {
     "name": "Rockin Cajun Carson",
     "slug": "rockincajuncarson",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "columbus"
     ],
@@ -844,7 +835,7 @@
   {
     "name": "Cajun Corner - NW Expressway",
     "slug": "cajuncorner-nwexpressway",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "columbus"
     ],
@@ -853,7 +844,7 @@
   {
     "name": "Boudreau & Thibodeau's Cajun Cookin'",
     "slug": "boudreauthibodeauscajuncookin",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "columbus"
     ],
@@ -871,7 +862,7 @@
   {
     "name": "Taffach Ethiopian Restaurant 113 D Street",
     "slug": "taffachethiopianrestaurant113dstreet",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "columbus"
     ],
@@ -880,7 +871,7 @@
   {
     "name": "Tana Ethiopian Cuisine",
     "slug": "tanaethiopiancuisine",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "columbus"
     ],
@@ -889,7 +880,7 @@
   {
     "name": "Konjo Ethiopian Food Edgewater Public Market",
     "slug": "konjoethiopianfoodedgewaterpublicmarket",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "columbus"
     ],
@@ -898,7 +889,7 @@
   {
     "name": "Demera Ethiopian Restaurant",
     "slug": "demeraethiopianrestaurant",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "columbus"
     ],
@@ -907,7 +898,7 @@
   {
     "name": "Leyu Ethiopian Restaurant",
     "slug": "leyuethiopianrestaurant",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "columbus"
     ],
@@ -916,7 +907,7 @@
   {
     "name": "Bolé Ethiopian Cuisine Como",
     "slug": "bolethiopiancuisinecomo",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "columbus"
     ],
@@ -925,7 +916,7 @@
   {
     "name": "Das Ethiopian Cuisine",
     "slug": "dasethiopiancuisine",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "columbus"
     ],
@@ -934,7 +925,7 @@
   {
     "name": "Konjo Ethiopian Food Denver Milk Market",
     "slug": "konjoethiopianfooddenvermilkmarket",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "columbus"
     ],
@@ -943,7 +934,7 @@
   {
     "name": "Meskerem Ethiopian Restaurant",
     "slug": "meskeremethiopianrestaurant",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "columbus"
     ],
@@ -952,7 +943,7 @@
   {
     "name": "Letena Ethiopian Restaurant",
     "slug": "letenaethiopianrestaurant",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "columbus"
     ],
@@ -961,7 +952,7 @@
   {
     "name": "Modern Bread & Bagel 472 Columbus Ave",
     "slug": "modernbreadbagel472columbusave",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "columbus"
     ],
@@ -970,7 +961,7 @@
   {
     "name": "Cleveland Vegan 17112 Detroit Ave",
     "slug": "clevelandvegan17112detroitave",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "columbus"
     ],
@@ -979,7 +970,7 @@
   {
     "name": "Vegan International Co 13751 N Nebraska Ave",
     "slug": "veganinternationalco13751nnebraskaave",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "columbus"
     ],
@@ -988,7 +979,7 @@
   {
     "name": "Vegan On The Fly Midtown",
     "slug": "veganontheflymidtown",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "columbus"
     ],
@@ -997,7 +988,7 @@
   {
     "name": "Vegan Plate",
     "slug": "veganplate",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "columbus"
     ],
@@ -1006,7 +997,7 @@
   {
     "name": "Dope Vegan",
     "slug": "dopevegan",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "columbus"
     ],
@@ -1015,29 +1006,11 @@
   {
     "name": "Vegan Treats Retail",
     "slug": "vegantreatsretail",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "columbus"
     ],
     "toastUrl": "https://order.toasttab.com/online/vegan-treats"
-  },
-  {
-    "name": "5 menu design Ideas for digital-first restaurants",
-    "slug": "5menudesignideasfordigital-firstrestaura",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
-  },
-  {
-    "name": "Popmenu: Case Study - Cliff View",
-    "slug": "popmenucasestudy-cliffview",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/cliff-view"
   },
   {
     "name": "Virtual restaurants need these 6 digital tools",
@@ -1045,26 +1018,7 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/virtual-restaurants-need-these-6-digital-tools"
-  },
-  {
-    "name": "Popmenu",
-    "slug": "popmenu",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://colombos-cafe-and-pastries.popmenu.com/popmenu-order"
-  },
-  {
-    "name": "Popmenu: About Us",
-    "slug": "popmenuaboutus",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/about-us"
+    ]
   },
   {
     "name": "How to set up online food ordering in an afternoon",
@@ -1072,17 +1026,7 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
-  },
-  {
-    "name": "Popmenu - New",
-    "slug": "popmenu-new",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/what-is-seo-for-restaurants"
+    ]
   },
   {
     "name": "How to build emails for restaurants",
@@ -1090,62 +1034,7 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-build-emails-for-restaurants"
-  },
-  {
-    "name": "Popmenu: Client Testimonials & Reviews",
-    "slug": "popmenuclienttestimonialsreviews",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-testimonials-reviews"
-  },
-  {
-    "name": "Popmenu: Who We Help - Quick Service Restaurants",
-    "slug": "popmenuwhowehelp-quickservicerestaurants",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/who-we-help/quick-service-restaurants"
-  },
-  {
-    "name": "Popmenu: Careers",
-    "slug": "popmenucareers",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/careers"
-  },
-  {
-    "name": "Popmenu: How We Help",
-    "slug": "popmenuhowwehelp",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/how-we-help"
-  },
-  {
-    "name": "Popmenu: Search Results",
-    "slug": "popmenusearchresults",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/search"
-  },
-  {
-    "name": "Popmenu + OpenTable",
-    "slug": "popmenuopentable",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/partner/opentable"
+    ]
   },
   {
     "name": "Restaurant analytics: How to collect (and use) guest data",
@@ -1153,8 +1042,7 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-analytics-data-guide"
+    ]
   },
   {
     "name": "Home",
@@ -1195,7 +1083,7 @@
   {
     "name": "Columbus Brewing Company",
     "slug": "columbusbrewingcompany",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "columbus"
     ],
@@ -1229,130 +1117,12 @@
     "squareUrl": "https://columbusnaturals.square.site/ourstory"
   },
   {
-    "name": "Columbus, NJ - Delivery & Takeout",
-    "slug": "columbusnj-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NJ/Columbus"
-  },
-  {
-    "name": "COLUMBUS, OH - Delivery & Takeout",
-    "slug": "columbusoh-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OH/COLUMBUS"
-  },
-  {
-    "name": "Healthy in Columbus, OH - Delivery & Takeout",
-    "slug": "healthyincolumbusoh-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OH/Columbus/Healthy"
-  },
-  {
     "name": "Home - Cinnamon Indian Grill",
     "slug": "home-cinnamonindiangrill",
     "category": "indian",
     "metros": [
       "columbus"
-    ],
-    "websiteOrderUrl": "https://cinnamonindiangrill.menufy.com/"
-  },
-  {
-    "name": "Columbus, IN - Delivery & Takeout",
-    "slug": "columbusin-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/IN/Columbus"
-  },
-  {
-    "name": "Indian in Columbus, OH - Delivery & Takeout",
-    "slug": "indianincolumbusoh-deliverytakeout",
-    "category": "indian",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OH/Columbus/Indian"
-  },
-  {
-    "name": "Cliffside, NJ - Delivery & Takeout",
-    "slug": "cliffsidenj-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NJ/Cliffside"
-  },
-  {
-    "name": "North Tampa, FL - Delivery & Takeout",
-    "slug": "northtampafl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/North%20Tampa"
-  },
-  {
-    "name": "Cincinnati, OH - Delivery & Takeout",
-    "slug": "cincinnatioh-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OH/Cincinnati"
-  },
-  {
-    "name": "West Chester, OH - Delivery & Takeout",
-    "slug": "westchesteroh-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OH/West%20Chester"
-  },
-  {
-    "name": "Lumberton, NJ - Delivery & Takeout",
-    "slug": "lumbertonnj-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NJ/Lumberton"
-  },
-  {
-    "name": "Marysville, OH - Delivery & Takeout",
-    "slug": "marysvilleoh-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OH/Marysville"
-  },
-  {
-    "name": "CARROLLWOOD, FL - Delivery & Takeout",
-    "slug": "carrollwoodfl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/CARROLLWOOD"
-  },
-  {
-    "name": "BOULDER, CO - Delivery & Takeout",
-    "slug": "boulderco-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CO/BOULDER"
+    ]
   },
   {
     "name": "Menufy Restaurant Portal",
@@ -1364,31 +1134,12 @@
     "websiteOrderUrl": "https://restaurant.menufy.com/article/2014/menufy-restaurant-portal"
   },
   {
-    "name": "Columbia, MO - Delivery & Takeout",
-    "slug": "columbiamo-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MO/Columbia"
-  },
-  {
-    "name": "Columbia, SC - Delivery & Takeout",
-    "slug": "columbiasc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/SC/Columbia"
-  },
-  {
     "name": "Online Ordering and Restaurant Marketing System",
     "slug": "onlineorderingandrestaurantmarketingsyst",
     "category": "restaurant",
     "metros": [
       "columbus"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/"
+    ]
   },
   {
     "name": "Owner Product Updates and Releases",
@@ -1411,7 +1162,7 @@
   {
     "name": "Owner.com Leadership Team",
     "slug": "ownercomleadershipteam",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "columbus"
     ],
@@ -1443,15 +1194,6 @@
       "columbus"
     ],
     "websiteOrderUrl": "https://www.owner.com/reviews"
-  },
-  {
-    "name": "Pricing",
-    "slug": "pricing",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/pricing"
   },
   {
     "name": "RestaurantGPT",
@@ -1600,7 +1342,7 @@
   {
     "name": "Restaurant Delivery Management Software",
     "slug": "restaurantdeliverymanagementsoftware",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "columbus"
     ],
@@ -1681,7 +1423,7 @@
   {
     "name": "8 Ways to Increase Restaurant Delivery Sales",
     "slug": "8waystoincreaserestaurantdeliverysales",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "columbus"
     ],
@@ -1708,7 +1450,7 @@
   {
     "name": "ᐅ Best Local Italian Sub in Columbus, Ohio",
     "slug": "bestlocalitaliansubincolumbusohio",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "columbus"
     ],
@@ -1796,15 +1538,6 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/mcl-restaurant-and-bakery-columbus"
   },
   {
-    "name": "Columbus, OH Catering Near Me",
-    "slug": "columbusohcateringnearme",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://www.ezcater.com/catering/OH/COLUMBUS"
-  },
-  {
     "name": "Top 5 Boxed Lunch Restaurants in Columbus, Ohio - Lunch Rush",
     "slug": "top5boxedlunchrestaurantsincolumbusohio-",
     "category": "restaurant",
@@ -1816,7 +1549,7 @@
   {
     "name": "Subway Catering in Columbus, GA - 5600 Milgen Rd",
     "slug": "subwaycateringincolumbusga-5600milgenrd",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "columbus"
     ],
@@ -1888,7 +1621,7 @@
   {
     "name": "The Cottage Bakery & Café LLC",
     "slug": "thecottagebakerycafllc",
-    "category": "bakery",
+    "category": "cafe",
     "metros": [
       "columbus"
     ],
@@ -1969,7 +1702,7 @@
   {
     "name": "Saucy Brew Works Columbus",
     "slug": "saucybrewworkscolumbus",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "columbus"
     ],
@@ -2014,7 +1747,7 @@
   {
     "name": "Marx Bagels - Columbus 6115 McNaughten Rd",
     "slug": "marxbagels-columbus6115mcnaughtenrd",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "columbus"
     ],
@@ -2077,7 +1810,7 @@
   {
     "name": "Pure Taqueria Columbus",
     "slug": "puretaqueriacolumbus",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "columbus"
     ],
@@ -2086,7 +1819,7 @@
   {
     "name": "VARA Juice - Columbus 2019 Polaris Parkway",
     "slug": "varajuice-columbus2019polarisparkway",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "columbus"
     ],
@@ -2095,7 +1828,7 @@
   {
     "name": "Li's Smoothie Bar",
     "slug": "lissmoothiebar",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "columbus"
     ],
@@ -2113,7 +1846,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "columbus"
     ],
@@ -2131,7 +1864,7 @@
   {
     "name": "Juva Juice - Columbus",
     "slug": "juvajuice-columbus",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "columbus"
     ],
@@ -2140,7 +1873,7 @@
   {
     "name": "Juva Juice - Starkville",
     "slug": "juvajuice-starkville",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "columbus"
     ],
@@ -2149,7 +1882,7 @@
   {
     "name": "Juva Juice - Tupelo",
     "slug": "juvajuice-tupelo",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "columbus"
     ],
@@ -2158,7 +1891,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "columbus"
     ],
@@ -2176,7 +1909,7 @@
   {
     "name": "Juice It - 13th Ave S",
     "slug": "juiceit-13thaves",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "columbus"
     ],
@@ -2185,7 +1918,7 @@
   {
     "name": "The Smoothie Spot- Colonial Heights",
     "slug": "thesmoothiespot-colonialheights",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "columbus"
     ],
@@ -2203,19 +1936,10 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "columbus"
     ],
     "toastUrl": "https://order.toasttab.com/online/juice-world-89-passaic-st"
-  },
-  {
-    "name": "Online Ordering for Restaurants with No Commissions",
-    "slug": "onlineorderingforrestaurantswithnocommis",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/1616/locations"
   }
 ]

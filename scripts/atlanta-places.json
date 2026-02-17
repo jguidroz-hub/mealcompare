@@ -24,7 +24,7 @@
   {
     "name": "Mary Mac's Tea Room",
     "slug": "marymacstearoom",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "atlanta"
     ],
@@ -74,8 +74,7 @@
     ],
     "address": "240 Peachtree St",
     "placeId": "ChIJww40UHgE9YgR66AJn9YJKuE",
-    "website": "https://raysrestaurants.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "https://raysrestaurants.com/"
   },
   {
     "name": "Ladybird Grove & Mess Hall",
@@ -500,7 +499,7 @@
   {
     "name": "Bread & Butterfly",
     "slug": "breadbutterfly",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "atlanta"
     ],
@@ -600,40 +599,12 @@
     "toastUrl": "https://order.toasttab.com/online/the-southern-gentleman"
   },
   {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/b.o.t-restaurant"
-  },
-  {
     "name": "5 ways to ramp up your restaurant online ordering system",
     "slug": "5waystorampupyourrestaurantonlineorderin",
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-online-ordering-system"
-  },
-  {
-    "name": "Popmenu: Restaurant Tech Checklist",
-    "slug": "popmenurestauranttechchecklist",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/restaurant-tech-checklist"
-  },
-  {
-    "name": "Popmenu: Case Study - The Hampton Social",
-    "slug": "popmenucasestudy-thehamptonsocial",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/the-hampton-social"
+    ]
   },
   {
     "name": "Why every restaurant needs an interactive menu",
@@ -641,35 +612,7 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/every-restaurant-needs-interactive-menu"
-  },
-  {
-    "name": "Key Strategies To Growing Your Restaurant In A Competitive Market",
-    "slug": "keystrategiestogrowingyourrestaurantinac",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/key-strategies-to-growing-your-restaurant-in-a-competitive-market"
-  },
-  {
-    "name": "Tech the Halls with Popmenu",
-    "slug": "techthehallswithpopmenu",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/tech-the-halls-reach-more-guests"
-  },
-  {
-    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
-    "slug": "popmenutoolkittherestaurantgrowthplayboo",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+    ]
   },
   {
     "name": "4 tech-focused tips to fight rising restaurant costs",
@@ -677,26 +620,7 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs"
-  },
-  {
-    "name": "Popmenu: Case Study - Phat Eatery",
-    "slug": "popmenucasestudy-phateatery",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/phat-eatery"
-  },
-  {
-    "name": "Online Ordering for Restaurants with No Commissions",
-    "slug": "onlineorderingforrestaurantswithnocommis",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/2586/locations"
+    ]
   },
   {
     "name": "Online Food Ordering System & App",
@@ -708,49 +632,12 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/5241/locations"
   },
   {
-    "name": "Online ordering competitors every restaurant should know",
-    "slug": "onlineorderingcompetitorseveryrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know"
-  },
-  {
-    "name": "Popmenu: We do more than grow your restaurant.",
-    "slug": "popmenuwedomorethangrowyourrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/"
-  },
-  {
-    "name": "6 Best Popmenu Competitors to Consider (Pros & Cons)",
-    "slug": "6bestpopmenucompetitorstoconsiderproscon",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons"
-  },
-  {
     "name": "How to set up online food ordering in an afternoon",
     "slug": "howtosetuponlinefoodorderinginanafternoo",
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
+    ]
   },
   {
     "name": "Buckhead Pizza Co.",
@@ -908,7 +795,7 @@
   {
     "name": "Nakato Japanese Restaurant - Atlanta",
     "slug": "nakatojapaneserestaurant-atlanta",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "atlanta"
     ],
@@ -935,7 +822,7 @@
   {
     "name": "New Realm Brewing Company Atlanta",
     "slug": "newrealmbrewingcompanyatlanta",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "atlanta"
     ],
@@ -1113,78 +1000,6 @@
     "toastUrl": "https://order.toasttab.com/online/mezcalitos-decatur"
   },
   {
-    "name": "Online Ordering for Thai Basil - Midtown",
-    "slug": "onlineorderingforthaibasil-midtown",
-    "category": "thai",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/189/locations/247"
-  },
-  {
-    "name": "Online Ordering for Midtown Deli & Grill",
-    "slug": "onlineorderingformidtowndeligrill",
-    "category": "deli",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5480/locations"
-  },
-  {
-    "name": "Online Ordering for MINDBODY Bistro",
-    "slug": "onlineorderingformindbodybistro",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/2285/locations"
-  },
-  {
-    "name": "Online Ordering for Mikimotos Asian Grill - Wilmington",
-    "slug": "onlineorderingformikimotosasiangrill-wil",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/10897/locations/14999"
-  },
-  {
-    "name": "Online Ordering for Mariachi Loco",
-    "slug": "onlineorderingformariachiloco",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/4455/locations"
-  },
-  {
-    "name": "Online Ordering for North Bend Bar and Grill",
-    "slug": "onlineorderingfornorthbendbarandgrill",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/10326/locations"
-  },
-  {
-    "name": "Online Ordering for Village Deli and Grill",
-    "slug": "onlineorderingforvillagedeliandgrill",
-    "category": "deli",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/9305/locations"
-  },
-  {
-    "name": "Online Ordering for Umami Ramen & Dumpling Bar",
-    "slug": "onlineorderingforumamiramendumplingbar",
-    "category": "japanese",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/7076/locations"
-  },
-  {
     "name": "Online Ordering",
     "slug": "onlineordering",
     "category": "restaurant",
@@ -1192,15 +1007,6 @@
       "atlanta"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/6897/locations/9907"
-  },
-  {
-    "name": "Online Ordering for Butcher and the Burger",
-    "slug": "onlineorderingforbutcherandtheburger",
-    "category": "burgers",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/3640/locations"
   },
   {
     "name": "Rina Old Fourth Ward",
@@ -1358,7 +1164,7 @@
   {
     "name": "The Great Greek Atlanta, GA",
     "slug": "thegreatgreekatlantaga",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "atlanta"
     ],
@@ -1367,7 +1173,7 @@
   {
     "name": "The Greek Pizzeria -----3400 Clairmont Rd",
     "slug": "thegreekpizzeria-----3400clairmontrd",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "atlanta"
     ],
@@ -1376,7 +1182,7 @@
   {
     "name": "Acropolis Greek Cuisine",
     "slug": "acropolisgreekcuisine",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "atlanta"
     ],
@@ -1385,7 +1191,7 @@
   {
     "name": "Greek Souvlaki Downtown",
     "slug": "greeksouvlakidowntown",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "atlanta"
     ],
@@ -1403,7 +1209,7 @@
   {
     "name": "Opa Greek Yeeros 378 Highland Ave",
     "slug": "opagreekyeeros378highlandave",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "atlanta"
     ],
@@ -1412,7 +1218,7 @@
   {
     "name": "Mr. Greek of Buffalo 1122 Elmwood Ave.",
     "slug": "mrgreekofbuffalo1122elmwoodave",
-    "category": "restaurant",
+    "category": "wings",
     "metros": [
       "atlanta"
     ],
@@ -1421,7 +1227,7 @@
   {
     "name": "simply greek 44 Centennial Drive",
     "slug": "simplygreek44centennialdrive",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "atlanta"
     ],
@@ -1430,7 +1236,7 @@
   {
     "name": "Grilla Greek Kouzina 224 Broadway",
     "slug": "grillagreekkouzina224broadway",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "atlanta"
     ],
@@ -1448,7 +1254,7 @@
   {
     "name": "Eat Greek",
     "slug": "eatgreek",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "atlanta"
     ],
@@ -1457,7 +1263,7 @@
   {
     "name": "The Greek Corner 2366 Massachusetts Avenue",
     "slug": "thegreekcorner2366massachusettsavenue",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "atlanta"
     ],
@@ -1466,7 +1272,7 @@
   {
     "name": "Greek Town Gyros Rutherford",
     "slug": "greektowngyrosrutherford",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "atlanta"
     ],
@@ -1475,7 +1281,7 @@
   {
     "name": "go to greek",
     "slug": "gotogreek",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "atlanta"
     ],
@@ -1484,7 +1290,7 @@
   {
     "name": "Just Greek in Livingston",
     "slug": "justgreekinlivingston",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "atlanta"
     ],
@@ -1493,7 +1299,7 @@
   {
     "name": "GReKo Greek Street Food",
     "slug": "grekogreekstreetfood",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "atlanta"
     ],
@@ -1547,7 +1353,7 @@
   {
     "name": "Sunnin Lebanese Café 1776 Westwood Blvd",
     "slug": "sunninlebanesecaf1776westwoodblvd",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "atlanta"
     ],
@@ -1658,8 +1464,7 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ],
-    "websiteOrderUrl": "https://sweenz.popmenu.com/"
+    ]
   },
   {
     "name": "Home - Cafe in the City",
@@ -1667,8 +1472,7 @@
     "category": "cafe",
     "metros": [
       "atlanta"
-    ],
-    "websiteOrderUrl": "https://cafe-in-the-city.popmenu.com/"
+    ]
   },
   {
     "name": "Accessibility Review - Restaurant in Atlanta, GA",
@@ -1676,8 +1480,7 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ],
-    "websiteOrderUrl": "https://accessibility-review.popmenu.com/"
+    ]
   },
   {
     "name": "Petite Violette - French Restaurant in Atlanta, GA",
@@ -1685,62 +1488,7 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ],
-    "websiteOrderUrl": "https://petite-violette2.popmenu.com/"
-  },
-  {
-    "name": "Popmenu: Press Releases",
-    "slug": "popmenupressreleases",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/press-releases"
-  },
-  {
-    "name": "Popmenu: Case Study - Henri's Bakery Deli",
-    "slug": "popmenucasestudy-henrisbakerydeli",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/more-guests-larger-orders/henris-bakery-deli"
-  },
-  {
-    "name": "Popmenu: Case Study - Alfred's Restaurant",
-    "slug": "popmenucasestudy-alfredsrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/alfreds-restaurant"
-  },
-  {
-    "name": "Popmenu: Who We Help - Quick Service Restaurants",
-    "slug": "popmenuwhowehelp-quickservicerestaurants",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/who-we-help/quick-service-restaurants"
-  },
-  {
-    "name": "Popmenu: Restaurant online ordering",
-    "slug": "popmenurestaurantonlineordering",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
-  },
-  {
-    "name": "Popmenu: Client Stories - Simplified Technology",
-    "slug": "popmenuclientstories-simplifiedtechnolog",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/simplified-technology"
+    ]
   },
   {
     "name": "Clover Production Test Company - Restaurant in Atlanta, GA",
@@ -1748,44 +1496,7 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ],
-    "websiteOrderUrl": "https://clover-production-test-company.popmenu.com/"
-  },
-  {
-    "name": "Popmenu: Press",
-    "slug": "popmenupress",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/press"
-  },
-  {
-    "name": "Popmenu: Restaurant technology solutions",
-    "slug": "popmenurestauranttechnologysolutions",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/solutions"
-  },
-  {
-    "name": "Trending Dishes in Atlanta, GA - eat.popmenu.com",
-    "slug": "trendingdishesinatlantaga-eatpopmenucom",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://eat.popmenu.com/places/atlanta-ga/dishes/15684315-parmesan-truffle-fries-2"
-  },
-  {
-    "name": "Popmenu: Partnerships",
-    "slug": "popmenupartnerships",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/partnerships"
+    ]
   },
   {
     "name": "Georgian Cuisine",
@@ -1914,130 +1625,12 @@
     "squareUrl": "https://ou-club-of-atlanta.square.site/s/shop"
   },
   {
-    "name": "Atlanta, GA - Delivery & Takeout",
-    "slug": "atlantaga-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/GA/Atlanta"
-  },
-  {
     "name": "Mr. Everything - Atlanta, GA 30314 (Menu & Order Online)",
     "slug": "mreverything-atlantaga30314menuorderonli",
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ],
-    "websiteOrderUrl": "https://mreverythingmlk.menufy.com/"
-  },
-  {
-    "name": "Pub Food in Atlanta, GA - Delivery & Takeout",
-    "slug": "pubfoodinatlantaga-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/GA/Atlanta/Pub%20Food"
-  },
-  {
-    "name": "Atlanta, TX - Delivery & Takeout",
-    "slug": "atlantatx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Atlanta"
-  },
-  {
-    "name": "Deli in Atlanta, GA - Delivery & Takeout",
-    "slug": "deliinatlantaga-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/GA/Atlanta/Deli"
-  },
-  {
-    "name": "Seafood in Atlanta, GA - Delivery & Takeout",
-    "slug": "seafoodinatlantaga-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/GA/Atlanta/Seafood"
-  },
-  {
-    "name": "Middle Eastern in Atlanta, GA - Delivery & Takeout",
-    "slug": "middleeasterninatlantaga-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/GA/Atlanta/Middle%20Eastern"
-  },
-  {
-    "name": "Venezuelan in Atlanta, GA - Delivery & Takeout",
-    "slug": "venezuelaninatlantaga-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/GA/Atlanta/Venezuelan"
-  },
-  {
-    "name": "Loganville, GA - Delivery & Takeout",
-    "slug": "loganvillega-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/GA/Loganville"
-  },
-  {
-    "name": "Afghan in Atlanta, GA - Delivery & Takeout",
-    "slug": "afghaninatlantaga-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/GA/Atlanta/Afghan"
-  },
-  {
-    "name": "Pakistani in Atlanta, GA - Delivery & Takeout",
-    "slug": "pakistaniinatlantaga-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/GA/Atlanta/Pakistani"
-  },
-  {
-    "name": "Halal in Atlanta, GA - Delivery & Takeout",
-    "slug": "halalinatlantaga-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/GA/Atlanta/Halal"
-  },
-  {
-    "name": "Dessert in Atlanta, GA - Delivery & Takeout",
-    "slug": "dessertinatlantaga-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/GA/Atlanta/Dessert"
-  },
-  {
-    "name": "GA - Delivery & Takeout",
-    "slug": "ga-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/GA"
+    ]
   },
   {
     "name": "Atlanta Catering",
@@ -2126,13 +1719,12 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ],
-    "websiteOrderUrl": "https://www.olo.com/"
+    ]
   },
   {
     "name": "BGR Atlanta",
     "slug": "bgratlanta",
-    "category": "restaurant",
+    "category": "burgers",
     "metros": [
       "atlanta"
     ],
@@ -2168,7 +1760,7 @@
   {
     "name": "Randy's Donuts Lenox",
     "slug": "randysdonutslenox",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "atlanta"
     ],
@@ -2177,7 +1769,7 @@
   {
     "name": "Cumberland",
     "slug": "cumberland",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "atlanta"
     ],
@@ -2200,15 +1792,6 @@
       "atlanta"
     ],
     "websiteOrderUrl": "https://slicelife.com/pizza-delivery/ga-atlanta"
-  },
-  {
-    "name": "The Best Restaurant Websites in Atlanta",
-    "slug": "thebestrestaurantwebsitesinatlanta",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-atlanta/"
   },
   {
     "name": "Rumi's Kitchen - Persian Restaurant in GA, DC & TX",
@@ -2252,17 +1835,15 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ],
-    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/7c0ad2126cc4ece31d7bd142419beab6/media/SsPUdeT3QJW2r3RKY5y4_Soho%20Private%20Dining%20Brochure%2010_19.pdf"
+    ]
   },
   {
     "name": "Dat Fire Jerk",
     "slug": "datfirejerk",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "atlanta"
-    ],
-    "websiteOrderUrl": "https://v2-datfirejerkchicken.getbento.com/"
+    ]
   },
   {
     "name": "Adele's",
@@ -2270,8 +1851,7 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ],
-    "websiteOrderUrl": "https://adelesrestaurant.getbento.com/"
+    ]
   },
   {
     "name": "Memphis Best BBQ and Wings",
@@ -2279,17 +1859,7 @@
     "category": "bbq",
     "metros": [
       "atlanta"
-    ],
-    "websiteOrderUrl": "https://memphisbestbbqandwings-archive.getbento.com/"
-  },
-  {
-    "name": "The 20 Best Restaurant Websites of 2024",
-    "slug": "the20bestrestaurantwebsitesof2024",
-    "category": "restaurant",
-    "metros": [
-      "atlanta"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-design/"
+    ]
   },
   {
     "name": "Customer Stories",
@@ -2303,7 +1873,7 @@
   {
     "name": "Tea House in Brooklyn and Atlanta",
     "slug": "teahouseinbrooklynandatlanta",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "atlanta"
     ],
@@ -2375,7 +1945,7 @@
   {
     "name": "SOUL FOOD & CULTURE - ATLANTA, GA",
     "slug": "soulfoodculture-atlantaga",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "atlanta"
     ],
@@ -2420,7 +1990,7 @@
   {
     "name": "JJ FISH & CHICKEN PRYOR - ATLANTA, GA",
     "slug": "jjfishchickenpryor-atlantaga",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "atlanta"
     ],
@@ -2483,7 +2053,7 @@
   {
     "name": "GYRO BROS - ATLANTA, GA",
     "slug": "gyrobros-atlantaga",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "atlanta"
     ],
@@ -2501,7 +2071,7 @@
   {
     "name": "GoldenCrown Kitchen - African Restaurant in Morrow, GA",
     "slug": "goldencrownkitchen-africanrestaurantinmo",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "atlanta"
     ],
@@ -2510,7 +2080,7 @@
   {
     "name": "Poke Burri Battery Ave",
     "slug": "pokeburribatteryave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "atlanta"
     ],
@@ -2528,7 +2098,7 @@
   {
     "name": "Manoa Poke Shop",
     "slug": "manoapokeshop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "atlanta"
     ],
@@ -2537,7 +2107,7 @@
   {
     "name": "Poke Poke Loop (Palmer House)",
     "slug": "pokepokelooppalmerhouse",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "atlanta"
     ],
@@ -2555,7 +2125,7 @@
   {
     "name": "poke cafe - fayetteville",
     "slug": "pokecafe-fayetteville",
-    "category": "cafe",
+    "category": "japanese",
     "metros": [
       "atlanta"
     ],
@@ -2564,7 +2134,7 @@
   {
     "name": "Poke Poke West Loop",
     "slug": "pokepokewestloop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "atlanta"
     ],
@@ -2573,7 +2143,7 @@
   {
     "name": "Poke Burri 3231 powelton ave",
     "slug": "pokeburri3231poweltonave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "atlanta"
     ],
@@ -2582,7 +2152,7 @@
   {
     "name": "Poke Burrito Astoria 37-07 30th Ave.",
     "slug": "pokeburritoastoria37-0730thave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "atlanta"
     ],
@@ -2600,7 +2170,7 @@
   {
     "name": "Mammoth Poke Bowl",
     "slug": "mammothpokebowl",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "atlanta"
     ],
@@ -2609,7 +2179,7 @@
   {
     "name": "Fresh Catch Poke Co. - Hertel Ave.",
     "slug": "freshcatchpokeco-hertelave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "atlanta"
     ],
@@ -2618,7 +2188,7 @@
   {
     "name": "mammoth poke the loop ( lake street)",
     "slug": "mammothpokethelooplakestreet",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "atlanta"
     ],
@@ -2627,7 +2197,7 @@
   {
     "name": "NEW Siesta Poke 5206 Ocean Boulevard",
     "slug": "newsiestapoke5206oceanboulevard",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "atlanta"
     ],
@@ -2636,7 +2206,7 @@
   {
     "name": "Poke Bunny 100 East Gay Street, Unit 1",
     "slug": "pokebunny100eastgaystreetunit1",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "atlanta"
     ],
@@ -2645,7 +2215,7 @@
   {
     "name": "Poke OG - Downtown POKE OG DOWNTOWN",
     "slug": "pokeog-downtownpokeogdowntown",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "atlanta"
     ],
@@ -2654,7 +2224,7 @@
   {
     "name": "Big Daddy's Poke Shack",
     "slug": "bigdaddyspokeshack",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "atlanta"
     ],
@@ -2663,7 +2233,7 @@
   {
     "name": "Poke Row 2735 NW Crossing Dr #105",
     "slug": "pokerow2735nwcrossingdr105",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "atlanta"
     ],
@@ -2753,7 +2323,7 @@
   {
     "name": "The Breakfast Spot",
     "slug": "thebreakfastspot",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "atlanta"
     ],
@@ -2762,7 +2332,7 @@
   {
     "name": "The Breakfast Bar Atlantic Ave",
     "slug": "thebreakfastbaratlanticave",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "atlanta"
     ],
@@ -2771,7 +2341,7 @@
   {
     "name": "Radiant Juice + Smoothie Bar 702 Main St., Suite 103",
     "slug": "radiantjuicesmoothiebar702mainstsuite103",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "atlanta"
     ],
@@ -2780,7 +2350,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "atlanta"
     ],
@@ -2789,7 +2359,7 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "atlanta"
     ],
@@ -2798,7 +2368,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "atlanta"
     ],
@@ -2816,7 +2386,7 @@
   {
     "name": "Wholesum Juice Bar",
     "slug": "wholesumjuicebar",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "atlanta"
     ],
@@ -2825,7 +2395,7 @@
   {
     "name": "Sol Bean Juice Bar and Kitchen 221 S Main St",
     "slug": "solbeanjuicebarandkitchen221smainst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "atlanta"
     ],
@@ -2834,7 +2404,7 @@
   {
     "name": "Blended Health & Smoothie Bar Olympia Plaza",
     "slug": "blendedhealthsmoothiebarolympiaplaza",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "atlanta"
     ],
@@ -2852,7 +2422,7 @@
   {
     "name": "The Juice Room",
     "slug": "thejuiceroom",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "atlanta"
     ],

@@ -42,7 +42,7 @@
   {
     "name": "Carnevor | Milwaukee’s Premier Steakhouse",
     "slug": "carnevormilwaukeespremiersteakhouse",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "milwaukee"
     ]
@@ -98,7 +98,7 @@
   {
     "name": "Axolotl Café",
     "slug": "axolotlcaf",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "milwaukee"
     ]
@@ -138,7 +138,7 @@
   {
     "name": "Tenuta's Italian Restaurant",
     "slug": "tenutasitalianrestaurant",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "milwaukee"
     ]
@@ -154,7 +154,7 @@
   {
     "name": "Centraal Grand Café & Tappery",
     "slug": "centraalgrandcaftappery",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "milwaukee"
     ]
@@ -162,7 +162,7 @@
   {
     "name": "Uncle Wolfie's Breakfast Tavern",
     "slug": "unclewolfiesbreakfasttavern",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "milwaukee"
     ]
@@ -178,7 +178,7 @@
   {
     "name": "Brunch Berry",
     "slug": "brunchberry",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "milwaukee"
     ]
@@ -194,7 +194,7 @@
   {
     "name": "Brunch.",
     "slug": "brunch",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "milwaukee"
     ]
@@ -210,7 +210,7 @@
   {
     "name": "Blue's Egg + Bakery",
     "slug": "blueseggbakery",
-    "category": "cafe",
+    "category": "breakfast",
     "metros": [
       "milwaukee"
     ]
@@ -241,18 +241,9 @@
     "toastUrl": "https://order.toasttab.com/online/milwaukee-street-pizza"
   },
   {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/transfer-pizzeria-cafe"
-  },
-  {
     "name": "Bacci Pizzeria Of Jefferson Park 4367 North Milwaukee ...",
     "slug": "baccipizzeriaofjeffersonpark4367northmil",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "milwaukee"
     ],
@@ -342,7 +333,7 @@
   {
     "name": "Cubanitas - Milwaukee",
     "slug": "cubanitas-milwaukee",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "milwaukee"
     ],
@@ -360,7 +351,7 @@
   {
     "name": "Indeed Brewing Company - Milwaukee",
     "slug": "indeedbrewingcompany-milwaukee",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "milwaukee"
     ],
@@ -369,7 +360,7 @@
   {
     "name": "Brunch It Up - Milwaukee 714 N MILWAUKEE ST",
     "slug": "brunchitup-milwaukee714nmilwaukeest",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "milwaukee"
     ],
@@ -513,7 +504,7 @@
   {
     "name": "Transfer Pizzeria Cafe",
     "slug": "transferpizzeriacafe",
-    "category": "cafe",
+    "category": "pizza",
     "metros": [
       "milwaukee"
     ],
@@ -666,7 +657,7 @@
   {
     "name": "Trapezium Brewing 423 Third Street",
     "slug": "trapeziumbrewing423thirdstreet",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "milwaukee"
     ],
@@ -747,7 +738,7 @@
   {
     "name": "The Pizzeria of Bay Shore",
     "slug": "thepizzeriaofbayshore",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "milwaukee"
     ],
@@ -819,7 +810,7 @@
   {
     "name": "East Side Eatery",
     "slug": "eastsideeatery",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "milwaukee"
     ],
@@ -828,7 +819,7 @@
   {
     "name": "Allie Boy's Bagelry & Luncheonette East National Avenue",
     "slug": "allieboysbagelryluncheonetteeastnational",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "milwaukee"
     ],
@@ -882,7 +873,7 @@
   {
     "name": "Richard Walker's Pancake House",
     "slug": "richardwalkerspancakehouse",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "milwaukee"
     ],
@@ -918,7 +909,7 @@
   {
     "name": "Richard Walker's Pancake House Carlsbad",
     "slug": "richardwalkerspancakehousecarlsbad",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "milwaukee"
     ],
@@ -1044,7 +1035,7 @@
   {
     "name": "Aloha Poke Co. Milwaukee",
     "slug": "alohapokecomilwaukee",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "milwaukee"
     ],
@@ -1053,7 +1044,7 @@
   {
     "name": "Poke Okie 2945 North Milwaukee Avenue",
     "slug": "pokeokie2945northmilwaukeeavenue",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "milwaukee"
     ],
@@ -1062,7 +1053,7 @@
   {
     "name": "Poke Poke West Loop",
     "slug": "pokepokewestloop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "milwaukee"
     ],
@@ -1071,7 +1062,7 @@
   {
     "name": "Poke Poke Loop (Palmer House)",
     "slug": "pokepokelooppalmerhouse",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "milwaukee"
     ],
@@ -1089,7 +1080,7 @@
   {
     "name": "Poke Poke Streeterville",
     "slug": "pokepokestreeterville",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "milwaukee"
     ],
@@ -1098,7 +1089,7 @@
   {
     "name": "Bloomington Dang Boba, Poke & Banh Mi",
     "slug": "bloomingtondangbobapokebanhmi",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "milwaukee"
     ],
@@ -1107,7 +1098,7 @@
   {
     "name": "Poke Bowl Fargo 560 2nd Avenue N Suite A",
     "slug": "pokebowlfargo5602ndavenuensuitea",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "milwaukee"
     ],
@@ -1116,7 +1107,7 @@
   {
     "name": "Poke OG @ 1800 143 NW 23 ST",
     "slug": "pokeog1800143nw23st",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "milwaukee"
     ],
@@ -1125,7 +1116,7 @@
   {
     "name": "Aloha Poke Co. Wauwatosa",
     "slug": "alohapokecowauwatosa",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "milwaukee"
     ],
@@ -1134,7 +1125,7 @@
   {
     "name": "Fresh Catch Poke Co. - Hertel Ave.",
     "slug": "freshcatchpokeco-hertelave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "milwaukee"
     ],
@@ -1170,7 +1161,7 @@
   {
     "name": "Mediterranean Grill & Pizzeria Attleboro",
     "slug": "mediterraneangrillpizzeriaattleboro",
-    "category": "mediterranean",
+    "category": "pizza",
     "metros": [
       "milwaukee"
     ],
@@ -1215,7 +1206,7 @@
   {
     "name": "Allie's Vegan Pizzeria 1314 S Grand Blvd",
     "slug": "alliesveganpizzeria1314sgrandblvd",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "milwaukee"
     ],
@@ -1224,7 +1215,7 @@
   {
     "name": "Vegan On The Fly Midtown",
     "slug": "veganontheflymidtown",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "milwaukee"
     ],
@@ -1242,7 +1233,7 @@
   {
     "name": "Mike's Vegan Food Truck - 11.24 2501 W Gate City Blvd",
     "slug": "mikesveganfoodtruck-11242501wgatecityblv",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "milwaukee"
     ],
@@ -1251,7 +1242,7 @@
   {
     "name": "Vegan Plate",
     "slug": "veganplate",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "milwaukee"
     ],
@@ -1260,7 +1251,7 @@
   {
     "name": "Vegan International Co 13751 N Nebraska Ave",
     "slug": "veganinternationalco13751nnebraskaave",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "milwaukee"
     ],
@@ -1269,7 +1260,7 @@
   {
     "name": "Dope Vegan",
     "slug": "dopevegan",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "milwaukee"
     ],
@@ -1278,7 +1269,7 @@
   {
     "name": "Riley's Sandwich Company",
     "slug": "rileyssandwichcompany",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "milwaukee"
     ],
@@ -1303,76 +1294,12 @@
     "websiteOrderUrl": "https://order.online/store/frankies-restaurant-and-catering-milwaukee-226349/"
   },
   {
-    "name": "Popmenu: Who We Help - Quick Service Restaurants",
-    "slug": "popmenuwhowehelp-quickservicerestaurants",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/who-we-help/quick-service-restaurants"
-  },
-  {
-    "name": "Popmenu: Case Study - Dos Salsas",
-    "slug": "popmenucasestudy-dossalsas",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
-  },
-  {
-    "name": "Popmenu: About Us",
-    "slug": "popmenuaboutus",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/about-us"
-  },
-  {
-    "name": "Popmenu: Client Stories - Simplified Technology",
-    "slug": "popmenuclientstories-simplifiedtechnolog",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/simplified-technology"
-  },
-  {
-    "name": "Popmenu: Popmenu for Owners App",
-    "slug": "popmenupopmenuforownersapp",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/popmenu-for-owners-app"
-  },
-  {
-    "name": "Popmenu: Case Study - Teppan Steakhouse",
-    "slug": "popmenucasestudy-teppansteakhouse",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/teppan-steakhouse"
-  },
-  {
     "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
     "slug": "restaurantmenuideas9ofthebestmenustoinsp",
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
-  },
-  {
-    "name": "Popmenu: Client Testimonials & Reviews",
-    "slug": "popmenuclienttestimonialsreviews",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-testimonials-reviews"
+    ]
   },
   {
     "name": "Restaurant analytics: How to collect (and use) guest data",
@@ -1380,44 +1307,15 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-analytics-data-guide"
+    ]
   },
   {
     "name": "Which delivery service is best for restaurants?",
     "slug": "whichdeliveryserviceisbestforrestaurants",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/which-delivery-service-is-best-for-restaurants"
-  },
-  {
-    "name": "Popmenu: AI answering",
-    "slug": "popmenuaianswering",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/ai-answering"
-  },
-  {
-    "name": "Popmenu toolkit: 2025 Trends Report",
-    "slug": "popmenutoolkit2025trendsreport",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/2025-trends-report"
-  },
-  {
-    "name": "Popmenu: We do more than grow your restaurant.",
-    "slug": "popmenuwedomorethangrowyourrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/"
+    ]
   },
   {
     "name": "Join the group text: Text message marketing for restaurants",
@@ -1425,107 +1323,7 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/text-message-marketing-for-restaurants"
-  },
-  {
-    "name": "11 of the best restaurant menu designs to inspire you",
-    "slug": "11ofthebestrestaurantmenudesignstoinspir",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-menu-designs"
-  },
-  {
-    "name": "Popmenu: Careers",
-    "slug": "popmenucareers",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/careers"
-  },
-  {
-    "name": "Popmenu: Case Study - Taqueria Picoso",
-    "slug": "popmenucasestudy-taqueriapicoso",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/taqueria-picoso"
-  },
-  {
-    "name": "Popmenu: OrderNerd powered by Popmenu",
-    "slug": "popmenuordernerdpoweredbypopmenu",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/ordernerd"
-  },
-  {
-    "name": "Popmenu: Photography",
-    "slug": "popmenuphotography",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/photography"
-  },
-  {
-    "name": "Popmenu - New",
-    "slug": "popmenu-new",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-websites"
-  },
-  {
-    "name": "Popmenu: Restaurant online ordering",
-    "slug": "popmenurestaurantonlineordering",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
-  },
-  {
-    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
-    "slug": "popmenutoolkittherestaurantgrowthplayboo",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
-  },
-  {
-    "name": "Popmenu: Developer API Connections",
-    "slug": "popmenudeveloperapiconnections",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/developer-api"
-  },
-  {
-    "name": "Popmenu: Case Study - Locals Pub & Pizzeria",
-    "slug": "popmenucasestudy-localspubpizzeria",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/improving-margins/locals-pub-pizzeria"
-  },
-  {
-    "name": "Popmenu: Press Releases",
-    "slug": "popmenupressreleases",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/press-releases"
+    ]
   },
   {
     "name": "Artisan crackers & snacks from Milwaukee, WI",
@@ -1593,7 +1391,7 @@
   {
     "name": "Smash and dash",
     "slug": "smashanddash",
-    "category": "restaurant",
+    "category": "burgers",
     "metros": [
       "milwaukee"
     ],
@@ -1602,7 +1400,7 @@
   {
     "name": "Vegan & Gluten Free bakery and Juice Bar",
     "slug": "veganglutenfreebakeryandjuicebar",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "milwaukee"
     ],
@@ -1611,20 +1409,11 @@
   {
     "name": "411 Classic Breakfast",
     "slug": "411classicbreakfast",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "milwaukee"
     ],
     "squareUrl": "https://davians-at-411-cafe.square.site/product/411-classic-breakfast/1"
-  },
-  {
-    "name": "MILWAUKEE, WI - Delivery & Takeout",
-    "slug": "milwaukeewi-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WI/MILWAUKEE"
   },
   {
     "name": "Wisconsin, Order Food Online!",
@@ -1636,49 +1425,12 @@
     "websiteOrderUrl": "https://www.menufy.com/WI"
   },
   {
-    "name": "Soul Food in MILWAUKEE, WI - Delivery & Takeout",
-    "slug": "soulfoodinmilwaukeewi-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WI/MILWAUKEE/Soul%20Food"
-  },
-  {
-    "name": "Breakfast in MILWAUKEE, WI - Delivery & Takeout",
-    "slug": "breakfastinmilwaukeewi-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WI/MILWAUKEE/Breakfast"
-  },
-  {
     "name": "MOMO MEE - Milwaukee, WI 53204 (Menu & Order Online)",
     "slug": "momomee-milwaukeewi53204menuorderonline",
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ],
-    "websiteOrderUrl": "https://momomee.menufy.com/"
-  },
-  {
-    "name": "Lunch in MILWAUKEE, WI - Delivery & Takeout",
-    "slug": "lunchinmilwaukeewi-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WI/MILWAUKEE/Lunch"
-  },
-  {
-    "name": "Vegetarian in MILWAUKEE, WI - Delivery & Takeout",
-    "slug": "vegetarianinmilwaukeewi-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WI/MILWAUKEE/Vegetarian"
+    ]
   },
   {
     "name": "Home - Lebnani House Inc",
@@ -1686,116 +1438,7 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ],
-    "websiteOrderUrl": "https://lebnanihouseinc.menufy.com/"
-  },
-  {
-    "name": "SOUTH MILWAUKEE, WI - Delivery & Takeout",
-    "slug": "southmilwaukeewi-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WI/SOUTH%20MILWAUKEE"
-  },
-  {
-    "name": "Soup in South Milwaukee, WI - Delivery & Takeout",
-    "slug": "soupinsouthmilwaukeewi-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WI/South Milwaukee/Soup"
-  },
-  {
-    "name": "Seafood in Milwaukee, WI - Delivery & Takeout",
-    "slug": "seafoodinmilwaukeewi-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WI/Milwaukee/Seafood"
-  },
-  {
-    "name": "Pasta in MILWAUKEE, WI - Delivery & Takeout",
-    "slug": "pastainmilwaukeewi-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WI/MILWAUKEE/Pasta"
-  },
-  {
-    "name": "Dessert in Milwaukee, WI - Delivery & Takeout",
-    "slug": "dessertinmilwaukeewi-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WI/Milwaukee/Dessert/"
-  },
-  {
-    "name": "Mexican in MILWAUKEE, WI - Delivery & Takeout",
-    "slug": "mexicaninmilwaukeewi-deliverytakeout",
-    "category": "mexican",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WI/MILWAUKEE/Mexican"
-  },
-  {
-    "name": "Chinese in SOUTH MILWAUKEE, WI - Delivery & Takeout",
-    "slug": "chineseinsouthmilwaukeewi-deliverytakeou",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WI/SOUTH%20MILWAUKEE/Chinese"
-  },
-  {
-    "name": "Mediterranean in SOUTH MILWAUKEE, WI - Delivery & Takeout",
-    "slug": "mediterraneaninsouthmilwaukeewi-delivery",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WI/SOUTH%20MILWAUKEE/Mediterranean"
-  },
-  {
-    "name": "Mediterranean in MILWAUKEE, WI - Delivery & Takeout",
-    "slug": "mediterraneaninmilwaukeewi-deliverytakeo",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WI/MILWAUKEE/Mediterranean"
-  },
-  {
-    "name": "Breakfast in SOUTH MILWAUKEE, WI - Delivery & Takeout",
-    "slug": "breakfastinsouthmilwaukeewi-deliverytake",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WI/SOUTH%20MILWAUKEE/Breakfast"
-  },
-  {
-    "name": "Chicken in Milwaukee, WI - Delivery & Takeout",
-    "slug": "chickeninmilwaukeewi-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WI/Milwaukee/Chicken"
-  },
-  {
-    "name": "Brunch in South Milwaukee, WI - Delivery & Takeout",
-    "slug": "brunchinsouthmilwaukeewi-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WI/South%20Milwaukee/Brunch"
+    ]
   },
   {
     "name": "Milwaukee Burger Company",
@@ -1803,8 +1446,7 @@
     "category": "burgers",
     "metros": [
       "milwaukee"
-    ],
-    "websiteOrderUrl": "https://milwaukeeburger.olo.com/"
+    ]
   },
   {
     "name": "Restaurant Consulting Group",
@@ -1812,8 +1454,7 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ],
-    "websiteOrderUrl": "https://restaurantconsulting.olo.com/"
+    ]
   },
   {
     "name": "Olo",
@@ -1827,7 +1468,7 @@
   {
     "name": "Restaurant Delivery Management Software",
     "slug": "restaurantdeliverymanagementsoftware",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "milwaukee"
     ],
@@ -1857,8 +1498,7 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.olo.com/"
+    ]
   },
   {
     "name": "Restaurant Payment Processing Platform",
@@ -1962,7 +1602,7 @@
   {
     "name": "Vientiane Noodle Shop - Laotian Cuisine in Milwaukee, WI",
     "slug": "vientianenoodleshop-laotiancuisineinmilw",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "milwaukee"
     ],
@@ -1971,11 +1611,10 @@
   {
     "name": "BLACK SHOE HOSPITALITY – APPLICATION JOB APPLICATION",
     "slug": "blackshoehospitalityapplicationjobapplic",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "milwaukee"
-    ],
-    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/b67afb7c6203b8a4a64f90c85896c05b/media/hgIGhYRqSRuuZiDn5JSQ_Black_Shoe_Application.pdf"
+    ]
   },
   {
     "name": "The Best Online Ordering System for Restaurants in 2024",
@@ -1983,8 +1622,7 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/the-best-online-ordering-system-for-restaurants/"
+    ]
   },
   {
     "name": "Restaurant Online Ordering",
@@ -2001,8 +1639,7 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/restaurant-musings-how-restaurants-are-giving-back/"
+    ]
   },
   {
     "name": "Take Online Orders Through Facebook & Instagram",
@@ -2010,17 +1647,15 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/facebook-instagram-online-order-now/"
+    ]
   },
   {
     "name": "Looking For Delivery Fulfillment For Your Restaurant?",
     "slug": "lookingfordeliveryfulfillmentforyourrest",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/benefits-of-delivery-fulfillment-for-restaurants/"
+    ]
   },
   {
     "name": "Direct Online Ordering System Advantages for Restaurants",
@@ -2028,8 +1663,7 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/direct-online-ordering-system-for-restaurants/"
+    ]
   },
   {
     "name": "Which Restaurant Reservation System Should You Use?",
@@ -2037,8 +1671,7 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/online-restaurant-reservation-systems/"
+    ]
   },
   {
     "name": "Restaurant Catering Software",
@@ -2050,22 +1683,12 @@
     "websiteOrderUrl": "https://www.getbento.com/products/preorder-catering/"
   },
   {
-    "name": "The Best Restaurant Websites in Chicago",
-    "slug": "thebestrestaurantwebsitesinchicago",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-chicago/"
-  },
-  {
     "name": "Pre",
     "slug": "pre",
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/why-we-built-restaurant-pre-order-catering/"
+    ]
   },
   {
     "name": "Dine-in ordering",
@@ -2079,7 +1702,7 @@
   {
     "name": "Takeout & Delivery Commission Calculator",
     "slug": "takeoutdeliverycommissioncalculator",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "milwaukee"
     ],
@@ -2124,7 +1747,7 @@
   {
     "name": "MILW WATERFRONT DELI - MILWAUKEE, WI",
     "slug": "milwwaterfrontdeli-milwaukeewi",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "milwaukee"
     ],
@@ -2142,7 +1765,7 @@
   {
     "name": "MKE WATERFRONT DELI - MILWAUKEE, WI",
     "slug": "mkewaterfrontdeli-milwaukeewi",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "milwaukee"
     ],
@@ -2160,7 +1783,7 @@
   {
     "name": "BreaD HousE - MILWAUKEE, WI",
     "slug": "breadhouse-milwaukeewi",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "milwaukee"
     ],
@@ -2169,7 +1792,7 @@
   {
     "name": "MKE FISH & CHICKEN - MILWAUKEE, WI",
     "slug": "mkefishchicken-milwaukeewi",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "milwaukee"
     ],
@@ -2187,7 +1810,7 @@
   {
     "name": "JJ Fish and Chicken - Milwaukee, WI",
     "slug": "jjfishandchicken-milwaukeewi",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "milwaukee"
     ],
@@ -2259,7 +1882,7 @@
   {
     "name": "VIENTIANE NOODLE SHOP - MILWAUKEE, WI",
     "slug": "vientianenoodleshop-milwaukeewi",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "milwaukee"
     ],
@@ -2268,16 +1891,15 @@
   {
     "name": "HONEYPIE CAFE - MILWAUKEE, WI 53207 (Menu & Order Online)",
     "slug": "honeypiecafe-milwaukeewi53207menuorderon",
-    "category": "cafe",
+    "category": "pizza",
     "metros": [
       "milwaukee"
-    ],
-    "websiteOrderUrl": "https://honeypiecafe.menufy.com/"
+    ]
   },
   {
     "name": "Miyako Poke 867 S. Broadway Ste. 110",
     "slug": "miyakopoke867sbroadwayste110",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "milwaukee"
     ],
@@ -2286,7 +1908,7 @@
   {
     "name": "Hawaii Poke Bowl - West St. Paul 1375 South Robert Street",
     "slug": "hawaiipokebowl-weststpaul1375southrobert",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "milwaukee"
     ],
@@ -2322,7 +1944,7 @@
   {
     "name": "Milwaukee Steakhouse",
     "slug": "milwaukeesteakhouse",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "milwaukee"
     ],
@@ -2448,7 +2070,7 @@
   {
     "name": "Mr. Greek of Buffalo 1122 Elmwood Ave.",
     "slug": "mrgreekofbuffalo1122elmwoodave",
-    "category": "mediterranean",
+    "category": "wings",
     "metros": [
       "milwaukee"
     ],
@@ -2529,7 +2151,7 @@
   {
     "name": "Kanela Breakfast Club Wicker Park",
     "slug": "kanelabreakfastclubwickerpark",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "milwaukee"
     ],
@@ -2547,7 +2169,7 @@
   {
     "name": "The Egg Came First Cracked on Milwaukee",
     "slug": "theeggcamefirstcrackedonmilwaukee",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "milwaukee"
     ],
@@ -2583,7 +2205,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "milwaukee"
     ],
@@ -2592,7 +2214,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "milwaukee"
     ],
@@ -2601,7 +2223,7 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "milwaukee"
     ],
@@ -2610,7 +2232,7 @@
   {
     "name": "Juice For Life New Hyde Park",
     "slug": "juiceforlifenewhydepark",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "milwaukee"
     ],
@@ -2628,7 +2250,7 @@
   {
     "name": "Juva Juice Highland Village Juva Juice- Jackson",
     "slug": "juvajuicehighlandvillagejuvajuice-jackso",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "milwaukee"
     ],
@@ -2637,7 +2259,7 @@
   {
     "name": "Base Smoothies + Juice Frisco Frisco",
     "slug": "basesmoothiesjuicefriscofrisco",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "milwaukee"
     ],
@@ -2646,7 +2268,7 @@
   {
     "name": "Juice Crafters Downtown LA",
     "slug": "juicecraftersdowntownla",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "milwaukee"
     ],
@@ -2655,7 +2277,7 @@
   {
     "name": "Juice For Life Bayside",
     "slug": "juiceforlifebayside",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "milwaukee"
     ],
@@ -2664,7 +2286,7 @@
   {
     "name": "Juice It - 13th Ave S",
     "slug": "juiceit-13thaves",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "milwaukee"
     ],
@@ -2673,7 +2295,7 @@
   {
     "name": "Blended Health & Smoothie Bar Olympia Plaza",
     "slug": "blendedhealthsmoothiebarolympiaplaza",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "milwaukee"
     ],

@@ -10,7 +10,7 @@
   {
     "name": "STK Steakhouse",
     "slug": "stksteakhouse",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "charlotte"
     ]
@@ -58,7 +58,7 @@
   {
     "name": "Dean's Italian Steakhouse",
     "slug": "deansitaliansteakhouse",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "charlotte"
     ]
@@ -160,14 +160,6 @@
     ]
   },
   {
-    "name": "STIR",
-    "slug": "stir",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ]
-  },
-  {
     "name": "Culinary Dropout",
     "slug": "culinarydropout",
     "category": "restaurant",
@@ -178,7 +170,7 @@
   {
     "name": "La Capital MX",
     "slug": "lacapitalmx",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "charlotte"
     ]
@@ -234,7 +226,7 @@
   {
     "name": "Midwood Smokehouse",
     "slug": "midwoodsmokehouse",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "charlotte"
     ]
@@ -242,7 +234,7 @@
   {
     "name": "Noble Smoke",
     "slug": "noblesmoke",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "charlotte"
     ]
@@ -266,7 +258,7 @@
   {
     "name": "McKoy's Smokehouse and Saloon",
     "slug": "mckoyssmokehouseandsaloon",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "charlotte"
     ]
@@ -274,7 +266,7 @@
   {
     "name": "THE SMOKE PIT",
     "slug": "thesmokepit",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "charlotte"
     ]
@@ -330,7 +322,7 @@
   {
     "name": "Moo & Brew",
     "slug": "moobrew",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "charlotte"
     ]
@@ -418,15 +410,6 @@
       "charlotte"
     ],
     "toastUrl": "https://order.toasttab.com/online/gravity-sourdough-pizza-co-1824-statesville-avenue-suite-101"
-  },
-  {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/thejimmyclt"
   },
   {
     "name": "Charlotte Beer Garden",
@@ -557,7 +540,7 @@
   {
     "name": "Chima Steakhouse Charlotte",
     "slug": "chimasteakhousecharlotte",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "charlotte"
     ],
@@ -647,7 +630,7 @@
   {
     "name": "Online Ordering at Heist Brewery NoDa",
     "slug": "onlineorderingatheistbrewerynoda",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "charlotte"
     ],
@@ -656,7 +639,7 @@
   {
     "name": "Jeni's Splendid Ice Creams NoDa",
     "slug": "jenissplendidicecreamsnoda",
-    "category": "restaurant",
+    "category": "dessert",
     "metros": [
       "charlotte"
     ],
@@ -674,7 +657,7 @@
   {
     "name": "Uh oh... Something went wrong",
     "slug": "uhohsomethingwentwrong",
-    "category": "restaurant",
+    "category": "burgers",
     "metros": [
       "charlotte"
     ],
@@ -728,7 +711,7 @@
   {
     "name": "Legion Brewing Plaza Midwood",
     "slug": "legionbrewingplazamidwood",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "charlotte"
     ],
@@ -773,7 +756,7 @@
   {
     "name": "Cilantro Noodle Plaza-Midwood",
     "slug": "cilantronoodleplaza-midwood",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "charlotte"
     ],
@@ -782,7 +765,7 @@
   {
     "name": "Midwood Smokehouse - 1401 Central Ave., Charlotte, NC",
     "slug": "midwoodsmokehouse-1401centralavecharlott",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "charlotte"
     ],
@@ -791,7 +774,7 @@
   {
     "name": "Capishe: Real Italian Kitchen Dilworth/Charlotte",
     "slug": "capisherealitaliankitchendilworthcharlot",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "charlotte"
     ],
@@ -834,15 +817,6 @@
     "toastUrl": "https://order.toasttab.com/online/dovetailcharlestown"
   },
   {
-    "name": "Our Best Restaurant",
-    "slug": "ourbestrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/ourbest"
-  },
-  {
     "name": "Delicias restaurant 18119 Egret Bay Boulevard",
     "slug": "deliciasrestaurant18119egretbayboulevard",
     "category": "deli",
@@ -872,7 +846,7 @@
   {
     "name": "Village Juice & Kitchen Optimist Hall - Charlotte",
     "slug": "villagejuicekitchenoptimisthall-charlott",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "charlotte"
     ],
@@ -881,7 +855,7 @@
   {
     "name": "51st Deli charlotte pike 7104 charlotte pike",
     "slug": "51stdelicharlottepike7104charlottepike",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "charlotte"
     ],
@@ -1088,7 +1062,7 @@
   {
     "name": "Sunnin Lebanese Café 1776 Westwood Blvd",
     "slug": "sunninlebanesecaf1776westwoodblvd",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "charlotte"
     ],
@@ -1178,11 +1152,10 @@
   {
     "name": "Home - Joa Korean Food - Korean Restaurant in NC",
     "slug": "home-joakoreanfood-koreanrestaurantinnc",
-    "category": "restaurant",
+    "category": "korean",
     "metros": [
       "charlotte"
-    ],
-    "websiteOrderUrl": "https://joa-korean-food.popmenu.com/"
+    ]
   },
   {
     "name": "The Corner Pub – Uptown Charlotte Bar & Restaurant",
@@ -1190,8 +1163,7 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ],
-    "websiteOrderUrl": "https://corner-pub.popmenu.com/"
+    ]
   },
   {
     "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
@@ -1199,8 +1171,7 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
+    ]
   },
   {
     "name": "Is restaurant membership just a fad or here to stay?",
@@ -1208,8 +1179,7 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-memberships-trend-or-fad"
+    ]
   },
   {
     "name": "Restaurant analytics: How to collect (and use) guest data",
@@ -1217,26 +1187,7 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-analytics-data-guide"
-  },
-  {
-    "name": "Popmenu: Case Study - Alfred's Restaurant",
-    "slug": "popmenucasestudy-alfredsrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/alfreds-restaurant"
-  },
-  {
-    "name": "Popmenu: Modern restaurant website builder with SEO built in",
-    "slug": "popmenumodernrestaurantwebsitebuilderwit",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/restaurant-website-design"
+    ]
   },
   {
     "name": "How to create (and use) a restaurant email list",
@@ -1244,35 +1195,7 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-email-list-guide"
-  },
-  {
-    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
-    "slug": "popmenutoolkittherestaurantgrowthplayboo",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
-  },
-  {
-    "name": "Best restaurant websites: 4 examples to steal from",
-    "slug": "bestrestaurantwebsites4examplestostealfr",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-websites"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
+    ]
   },
   {
     "name": "Why every restaurant needs an interactive menu",
@@ -1280,8 +1203,7 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/every-restaurant-needs-interactive-menu"
+    ]
   },
   {
     "name": "The ultimate guide to restaurant branding",
@@ -1289,17 +1211,7 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-branding-guide"
-  },
-  {
-    "name": "Popmenu: Manage your restaurant's online reputation",
-    "slug": "popmenumanageyourrestaurantsonlinereputa",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/reputation-management"
+    ]
   },
   {
     "name": "Charlotte's Kitchenette",
@@ -1379,125 +1291,15 @@
     "category": "cafe",
     "metros": [
       "charlotte"
-    ],
-    "websiteOrderUrl": "https://binkicafe.menufy.com/"
-  },
-  {
-    "name": "Charlotte, NC - Delivery & Takeout",
-    "slug": "charlottenc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Charlotte"
+    ]
   },
   {
     "name": "The Crab Cracker - Charlotte, NC 28213 (Menu & Order Online)",
     "slug": "thecrabcracker-charlottenc28213menuorder",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "charlotte"
-    ],
-    "websiteOrderUrl": "https://thecrabcracker.menufy.com/"
-  },
-  {
-    "name": "Soul Food in Charlotte, NC - Delivery & Takeout",
-    "slug": "soulfoodincharlottenc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Charlotte/Soul%20Food"
-  },
-  {
-    "name": "Asian Fusion in Charlotte, NC - Delivery & Takeout",
-    "slug": "asianfusionincharlottenc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Charlotte/Asian%20Fusion"
-  },
-  {
-    "name": "Filipino in Charlotte, NC - Delivery & Takeout",
-    "slug": "filipinoincharlottenc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Charlotte/Filipino"
-  },
-  {
-    "name": "Wraps in Charlotte, NC - Delivery & Takeout",
-    "slug": "wrapsincharlottenc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Charlotte/Wraps"
-  },
-  {
-    "name": "Pho in Charlotte, NC - Delivery & Takeout",
-    "slug": "phoincharlottenc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Charlotte/Pho"
-  },
-  {
-    "name": "Szechuan in CHARLOTTE, NC - Delivery & Takeout",
-    "slug": "szechuanincharlottenc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/CHARLOTTE/Szechuan"
-  },
-  {
-    "name": "Charlotte, TN - Delivery & Takeout",
-    "slug": "charlottetn-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TN/Charlotte"
-  },
-  {
-    "name": "MATTHEWS, NC - Delivery & Takeout",
-    "slug": "matthewsnc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/MATTHEWS"
-  },
-  {
-    "name": "Breakfast in Charlotte, NC - Delivery & Takeout",
-    "slug": "breakfastincharlottenc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Charlotte/Breakfast"
-  },
-  {
-    "name": "Mediterranean in Charlotte, NC - Delivery & Takeout",
-    "slug": "mediterraneanincharlottenc-deliverytakeo",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Charlotte/Mediterranean"
-  },
-  {
-    "name": "Sushi in Charlotte, NC - Delivery & Takeout",
-    "slug": "sushiincharlottenc-deliverytakeout",
-    "category": "japanese",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NC/Charlotte/Sushi"
+    ]
   },
   {
     "name": "Online Ordering and Restaurant Marketing System",
@@ -1505,8 +1307,7 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/"
+    ]
   },
   {
     "name": "RestaurantGPT",
@@ -1516,15 +1317,6 @@
       "charlotte"
     ],
     "websiteOrderUrl": "https://grader.owner.com/tra"
-  },
-  {
-    "name": "Owner.com Competitors",
-    "slug": "ownercomcompetitors",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/comparison"
   },
   {
     "name": "Scale Your Restaurant",
@@ -1543,15 +1335,6 @@
       "charlotte"
     ],
     "websiteOrderUrl": "https://www.owner.com/california-ra"
-  },
-  {
-    "name": "Pricing",
-    "slug": "pricing",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/pricing"
   },
   {
     "name": "How Owner.com Works",
@@ -1590,15 +1373,6 @@
     "websiteOrderUrl": "https://www.owner.com/releases"
   },
   {
-    "name": "No Commission Delivery for Restaurants",
-    "slug": "nocommissiondeliveryforrestaurants",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/delivery"
-  },
-  {
     "name": "Restaurant Participation Agreement",
     "slug": "restaurantparticipationagreement",
     "category": "restaurant",
@@ -1613,8 +1387,7 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/blog"
+    ]
   },
   {
     "name": "Online Ordering System Checklist Download",
@@ -1781,7 +1554,7 @@
   {
     "name": "Five Guys Port Charlotte",
     "slug": "fiveguysportcharlotte",
-    "category": "restaurant",
+    "category": "burgers",
     "metros": [
       "charlotte"
     ],
@@ -1829,13 +1602,12 @@
     "category": "japanese",
     "metros": [
       "charlotte"
-    ],
-    "websiteOrderUrl": "https://sushi-machi.getbento.com/"
+    ]
   },
   {
     "name": "Getbento",
     "slug": "getbento",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "charlotte"
     ],
@@ -1853,20 +1625,11 @@
   {
     "name": "The Cowfish Charlotte",
     "slug": "thecowfishcharlotte",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "charlotte"
     ],
     "websiteOrderUrl": "https://thecowfishcharlotte.getbento.com/make-a-reservation/locations"
-  },
-  {
-    "name": "Menu",
-    "slug": "menu",
-    "category": "restaurant",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://sushi-machi.getbento.com/menus/"
   },
   {
     "name": "La Belle Helene",
@@ -1874,8 +1637,7 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ],
-    "websiteOrderUrl": "https://labellehelenerestaurant.getbento.com/"
+    ]
   },
   {
     "name": "Special Sushi Roll",
@@ -1889,7 +1651,7 @@
   {
     "name": "Catering",
     "slug": "catering",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "charlotte"
     ],
@@ -1919,8 +1681,7 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ],
-    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/6781c25e1e15e300a57bb79c09bcdae1/media/Yj0SDsMgSz68ZzoOJf8B_xOLMC5csSSO5uMIF0GQd_tiEmdsZFTk8afVMKGUPY_Lumi_re_Dinner_Menu_Draft_03.06.2020-converted.pdf"
+    ]
   },
   {
     "name": "Restaurant Catering Software",
@@ -1946,8 +1707,7 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/facebook-instagram-online-order-now/"
+    ]
   },
   {
     "name": "MAD GREEK CAFE - CHARLOTTE, NC",
@@ -2024,7 +1784,7 @@
   {
     "name": "BIG APPLE DELI - CHARLOTTE, NC",
     "slug": "bigappledeli-charlottenc",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "charlotte"
     ],
@@ -2042,7 +1802,7 @@
   {
     "name": "CURRY AND KABAB - PORT CHARLOTTE, FL",
     "slug": "curryandkabab-portcharlottefl",
-    "category": "restaurant",
+    "category": "indian",
     "metros": [
       "charlotte"
     ],
@@ -2121,18 +1881,9 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/chex-sardis-charlotte/03VCX0SVHAWHP"
   },
   {
-    "name": "Online Ordering for Thai Tamarind - Matthews",
-    "slug": "onlineorderingforthaitamarind-matthews",
-    "category": "thai",
-    "metros": [
-      "charlotte"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5719/locations/7492"
-  },
-  {
     "name": "Pokenash - 4101 Charlotte Avenue, G120, Nashville, TN",
     "slug": "pokenash-4101charlotteavenueg120nashvill",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "charlotte"
     ],
@@ -2150,7 +1901,7 @@
   {
     "name": "Poke Poke Loop (Palmer House)",
     "slug": "pokepokelooppalmerhouse",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "charlotte"
     ],
@@ -2168,7 +1919,7 @@
   {
     "name": "Poke Dot 17921 MacArthur Blvd",
     "slug": "pokedot17921macarthurblvd",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "charlotte"
     ],
@@ -2177,7 +1928,7 @@
   {
     "name": "Poke Bunny 100 East Gay Street, Unit 1",
     "slug": "pokebunny100eastgaystreetunit1",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "charlotte"
     ],
@@ -2186,7 +1937,7 @@
   {
     "name": "poke cafe - fayetteville",
     "slug": "pokecafe-fayetteville",
-    "category": "cafe",
+    "category": "japanese",
     "metros": [
       "charlotte"
     ],
@@ -2195,7 +1946,7 @@
   {
     "name": "Poke OG @ 1800 143 NW 23 ST",
     "slug": "pokeog1800143nw23st",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "charlotte"
     ],
@@ -2204,7 +1955,7 @@
   {
     "name": "Poke Cafe - West Ashley Location and Ordering Hours",
     "slug": "pokecafe-westashleylocationandorderingho",
-    "category": "cafe",
+    "category": "japanese",
     "metros": [
       "charlotte"
     ],
@@ -2213,7 +1964,7 @@
   {
     "name": "NEW Siesta Poke 5206 Ocean Boulevard",
     "slug": "newsiestapoke5206oceanboulevard",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "charlotte"
     ],
@@ -2222,7 +1973,7 @@
   {
     "name": "Poke OG - Downtown POKE OG DOWNTOWN",
     "slug": "pokeog-downtownpokeogdowntown",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "charlotte"
     ],
@@ -2231,7 +1982,7 @@
   {
     "name": "Poke Poke West Loop",
     "slug": "pokepokewestloop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "charlotte"
     ],
@@ -2240,7 +1991,7 @@
   {
     "name": "Seaside Poke Understory",
     "slug": "seasidepokeunderstory",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "charlotte"
     ],
@@ -2258,7 +2009,7 @@
   {
     "name": "Poke Bowl Fargo 560 2nd Avenue N Suite A",
     "slug": "pokebowlfargo5602ndavenuensuitea",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "charlotte"
     ],
@@ -2321,7 +2072,7 @@
   {
     "name": "Catch 25 Seafood & Brewery 220 Holmes Avenue Northeast",
     "slug": "catch25seafoodbrewery220holmesavenuenort",
-    "category": "seafood",
+    "category": "cafe",
     "metros": [
       "charlotte"
     ],
@@ -2375,7 +2126,7 @@
   {
     "name": "Mr. Greek of Buffalo 1122 Elmwood Ave.",
     "slug": "mrgreekofbuffalo1122elmwoodave",
-    "category": "mediterranean",
+    "category": "wings",
     "metros": [
       "charlotte"
     ],
@@ -2492,7 +2243,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "charlotte"
     ],
@@ -2501,7 +2252,7 @@
   {
     "name": "Radiant Juice + Smoothie Bar 702 Main St., Suite 103",
     "slug": "radiantjuicesmoothiebar702mainstsuite103",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "charlotte"
     ],
@@ -2510,7 +2261,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "charlotte"
     ],
@@ -2519,7 +2270,7 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "charlotte"
     ],
@@ -2528,7 +2279,7 @@
   {
     "name": "The Juice Room",
     "slug": "thejuiceroom",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "charlotte"
     ],
@@ -2537,7 +2288,7 @@
   {
     "name": "Juva Juice Highland Village Juva Juice- Jackson",
     "slug": "juvajuicehighlandvillagejuvajuice-jackso",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "charlotte"
     ],

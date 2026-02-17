@@ -82,7 +82,7 @@
   {
     "name": "Teak",
     "slug": "teak",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "tampa"
     ]
@@ -194,7 +194,7 @@
   {
     "name": "Box of Cubans",
     "slug": "boxofcubans",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "tampa"
     ]
@@ -202,7 +202,7 @@
   {
     "name": "A lo cubanisimo",
     "slug": "alocubanisimo",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "tampa"
     ]
@@ -218,7 +218,7 @@
   {
     "name": "El Cubano",
     "slug": "elcubano",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "tampa"
     ]
@@ -290,7 +290,7 @@
   {
     "name": "Bern's Steak House",
     "slug": "bernssteakhouse",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "tampa"
     ]
@@ -314,7 +314,7 @@
   {
     "name": "Oystercatchers",
     "slug": "oystercatchers",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "tampa"
     ]
@@ -322,7 +322,7 @@
   {
     "name": "Eddie V's Prime Seafood",
     "slug": "eddievsprimeseafood",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "tampa"
     ]
@@ -338,7 +338,7 @@
   {
     "name": "Harpoon Harry's Crab House - Tampa",
     "slug": "harpoonharryscrabhouse-tampa",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "tampa"
     ]
@@ -354,7 +354,7 @@
   {
     "name": "DUMMY CRABBY",
     "slug": "dummycrabby",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "tampa"
     ]
@@ -362,7 +362,7 @@
   {
     "name": "Big Ray's Fish Camp",
     "slug": "bigraysfishcamp",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "tampa"
     ]
@@ -375,15 +375,6 @@
       "tampa"
     ],
     "toastUrl": "https://order.toasttab.com/online/bavaros-pos-tampa"
-  },
-  {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/cappys"
   },
   {
     "name": "Reziero's NY Pizza",
@@ -442,7 +433,7 @@
   {
     "name": "GiGi's Pizzeria 1346 Tampa Rd",
     "slug": "gigispizzeria1346tampard",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "tampa"
     ],
@@ -467,15 +458,6 @@
     "toastUrl": "https://order.toasttab.com/online/sunda-tampa-3648-midtown-dr"
   },
   {
-    "name": "Online Ordering for Restaurants with No Commissions",
-    "slug": "onlineorderingforrestaurantswithnocommis",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/11517/locations"
-  },
-  {
     "name": "El Churrascaso Grill Tampa Food Truck 8603 N Dale ...",
     "slug": "elchurrascasogrilltampafoodtruck8603ndal",
     "category": "restaurant",
@@ -487,7 +469,7 @@
   {
     "name": "Florida Avenue Brewing Co. Tampa",
     "slug": "floridaavenuebrewingcotampa",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "tampa"
     ],
@@ -649,7 +631,7 @@
   {
     "name": "Sonic Sports Bar 400 49th St S",
     "slug": "sonicsportsbar40049thsts",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "tampa"
     ],
@@ -784,7 +766,7 @@
   {
     "name": "Tampa Bay Brewing Company - Ybor City",
     "slug": "tampabaybrewingcompany-yborcity",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "tampa"
     ],
@@ -811,7 +793,7 @@
   {
     "name": "Riverview",
     "slug": "riverview",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "tampa"
     ],
@@ -973,7 +955,7 @@
   {
     "name": "Pesky Pelican Brew Pub 923 72nd ST N",
     "slug": "peskypelicanbrewpub92372ndstn",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "tampa"
     ],
@@ -991,7 +973,7 @@
   {
     "name": "Pirrone's Pizzeria-St. Peters St. Peter",
     "slug": "pirronespizzeria-stpetersstpeter",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "tampa"
     ],
@@ -1000,7 +982,7 @@
   {
     "name": "Pete's Restaurant & Brewhouse - Redding",
     "slug": "petesrestaurantbrewhouse-redding",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "tampa"
     ],
@@ -1054,7 +1036,7 @@
   {
     "name": "Bosphorous Turkish Cuisine - South Tampa 5",
     "slug": "bosphorousturkishcuisine-southtampa5",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "tampa"
     ],
@@ -1063,7 +1045,7 @@
   {
     "name": "Bosphorous Turkish Cuisine - Winter Park 1",
     "slug": "bosphorousturkishcuisine-winterpark1",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "tampa"
     ],
@@ -1081,7 +1063,7 @@
   {
     "name": "Bosphorous Turkish Cuisine - Winter Garden 4",
     "slug": "bosphorousturkishcuisine-wintergarden4",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "tampa"
     ],
@@ -1090,7 +1072,7 @@
   {
     "name": "Bosphorous Turkish Cuisine - Dr Phillips 2",
     "slug": "bosphorousturkishcuisine-drphillips2",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "tampa"
     ],
@@ -1279,7 +1261,7 @@
   {
     "name": "Charley's Steakhouse: Tampa 4444 West Cypress Street",
     "slug": "charleyssteakhousetampa4444westcypressst",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "tampa"
     ],
@@ -1288,7 +1270,7 @@
   {
     "name": "Tampa Bay Brewing Company - Westchase",
     "slug": "tampabaybrewingcompany-westchase",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "tampa"
     ],
@@ -1297,7 +1279,7 @@
   {
     "name": "Cousin Vinny's Sandwich Co Tampa",
     "slug": "cousinvinnyssandwichcotampa",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "tampa"
     ],
@@ -1306,7 +1288,7 @@
   {
     "name": "Box of Cubans - New Tampa",
     "slug": "boxofcubans-newtampa",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "tampa"
     ],
@@ -1315,7 +1297,7 @@
   {
     "name": "EggTown New Tampa",
     "slug": "eggtownnewtampa",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "tampa"
     ],
@@ -1486,7 +1468,7 @@
   {
     "name": "Are Pitas 1727 W Fletcher Ave – Order pickup and delivery",
     "slug": "arepitas1727wfletcheraveorderpickupandde",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "tampa"
     ],
@@ -1495,7 +1477,7 @@
   {
     "name": "U-NITID 1905 E Fletcher Ave – Order pickup and delivery",
     "slug": "u-nitid1905efletcheraveorderpickupanddel",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "tampa"
     ],
@@ -1504,7 +1486,7 @@
   {
     "name": "Poke Island Plus 4058 Tampa Road – Order pickup and delivery",
     "slug": "pokeislandplus4058tamparoadorderpickupan",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "tampa"
     ],
@@ -1513,7 +1495,7 @@
   {
     "name": "Poke Paradise 4644 West Gandy Boulevard",
     "slug": "pokeparadise4644westgandyboulevard",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "tampa"
     ],
@@ -1522,146 +1504,11 @@
   {
     "name": "El Shaddai Latin Restaurant 7315 East Broadway Avenue",
     "slug": "elshaddailatinrestaurant7315eastbroadway",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "tampa"
     ],
     "websiteOrderUrl": "https://wayback.order.online/store/el-shaddai-latin-restaurant-tampa-611816"
-  },
-  {
-    "name": "Popmenu: We do more than grow your restaurant.",
-    "slug": "popmenuwedomorethangrowyourrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
-  },
-  {
-    "name": "Popmenu: Client Testimonials & Reviews",
-    "slug": "popmenuclienttestimonialsreviews",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-testimonials-reviews"
-  },
-  {
-    "name": "Popmenu: Photography",
-    "slug": "popmenuphotography",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/photography"
-  },
-  {
-    "name": "Popmenu: Case Study - Phat Eatery",
-    "slug": "popmenucasestudy-phateatery",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/phat-eatery"
-  },
-  {
-    "name": "Popmenu: Restaurant online ordering",
-    "slug": "popmenurestaurantonlineordering",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
-  },
-  {
-    "name": "Popmenu: About Us",
-    "slug": "popmenuaboutus",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/about-us"
-  },
-  {
-    "name": "Popmenu: Case Study - Alfred's Restaurant",
-    "slug": "popmenucasestudy-alfredsrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/alfreds-restaurant"
-  },
-  {
-    "name": "Popmenu: Case Study - B&B Butchers Restaurant",
-    "slug": "popmenucasestudy-bbbutchersrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/b-b-butchers-restaurant"
-  },
-  {
-    "name": "Popmenu: Dynamic, interactive restaurant menus",
-    "slug": "popmenudynamicinteractiverestaurantmenus",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/dynamic-menu-tech"
-  },
-  {
-    "name": "Popmenu: OrderNerd powered by Popmenu",
-    "slug": "popmenuordernerdpoweredbypopmenu",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/ordernerd"
-  },
-  {
-    "name": "Popmenu: Popmenu Pro",
-    "slug": "popmenupopmenupro",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/popmenu-pro"
-  },
-  {
-    "name": "Popmenu: Case Study - The Freakin Incan",
-    "slug": "popmenucasestudy-thefreakinincan",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/simplified-technology/the-freakin-incan"
-  },
-  {
-    "name": "Popmenu + Toast",
-    "slug": "popmenutoast",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/partner/toast"
-  },
-  {
-    "name": "Popmenu: Case Study - Dos Salsas",
-    "slug": "popmenucasestudy-dossalsas",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
   },
   {
     "name": "How to set up online food ordering in an afternoon",
@@ -1669,35 +1516,7 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
-  },
-  {
-    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
-    "slug": "popmenutoolkittherestaurantgrowthplayboo",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
-  },
-  {
-    "name": "Popmenu: Case Study - Locals Pub & Pizzeria",
-    "slug": "popmenucasestudy-localspubpizzeria",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/improving-margins/locals-pub-pizzeria"
-  },
-  {
-    "name": "Popmenu: Who We Help - Quick Service Restaurants",
-    "slug": "popmenuwhowehelp-quickservicerestaurants",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/who-we-help/quick-service-restaurants"
+    ]
   },
   {
     "name": "Uptown, Tampa Diner: Home",
@@ -1705,8 +1524,7 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ],
-    "websiteOrderUrl": "https://uptowntampadiner.menufy.com/"
+    ]
   },
   {
     "name": "Blue Flame - TAMPA, FL 33612 (Menu & Order Online)",
@@ -1714,17 +1532,7 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ],
-    "websiteOrderUrl": "https://blueflame.menufy.com/"
-  },
-  {
-    "name": "Pho in Tampa, FL - Delivery & Takeout",
-    "slug": "phointampafl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/Tampa/Pho"
+    ]
   },
   {
     "name": "Home - Ginza",
@@ -1732,125 +1540,7 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ],
-    "websiteOrderUrl": "https://ginza.menufy.com/"
-  },
-  {
-    "name": "Tampa, FL - Delivery & Takeout",
-    "slug": "tampafl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/Tampa"
-  },
-  {
-    "name": "Dominican in North Tampa, FL - Delivery & Takeout",
-    "slug": "dominicaninnorthtampafl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/North%20Tampa/Dominican"
-  },
-  {
-    "name": "Vietnamese in Tampa, FL - Delivery & Takeout",
-    "slug": "vietnameseintampafl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/Tampa/Vietnamese"
-  },
-  {
-    "name": "Thonotosassa, FL - Delivery & Takeout",
-    "slug": "thonotosassafl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/Thonotosassa"
-  },
-  {
-    "name": "North Tampa, FL - Delivery & Takeout",
-    "slug": "northtampafl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/North%20Tampa"
-  },
-  {
-    "name": "Noodles in Tampa, FL - Delivery & Takeout",
-    "slug": "noodlesintampafl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/Tampa/Noodles"
-  },
-  {
-    "name": "Sandwiches in Tampa, FL - Delivery & Takeout",
-    "slug": "sandwichesintampafl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/Tampa/Sandwiches"
-  },
-  {
-    "name": "Pakistani in Tampa, FL - Delivery & Takeout",
-    "slug": "pakistaniintampafl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/Tampa/Pakistani"
-  },
-  {
-    "name": "Pho in North Tampa, FL - Delivery & Takeout",
-    "slug": "phoinnorthtampafl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/North%20Tampa/Pho"
-  },
-  {
-    "name": "Latin American in Tampa, FL - Delivery & Takeout",
-    "slug": "latinamericanintampafl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/Tampa/Latin%20American"
-  },
-  {
-    "name": "FL - Delivery & Takeout",
-    "slug": "fl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL"
-  },
-  {
-    "name": "CARROLLWOOD, FL - Delivery & Takeout",
-    "slug": "carrollwoodfl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/CARROLLWOOD"
-  },
-  {
-    "name": "Palm Harbor, FL - Delivery & Takeout",
-    "slug": "palmharborfl-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/FL/Palm%20Harbor"
+    ]
   },
   {
     "name": "Online Ordering and Restaurant Marketing System",
@@ -1858,8 +1548,7 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/"
+    ]
   },
   {
     "name": "RestaurantGPT",
@@ -1871,15 +1560,6 @@
     "websiteOrderUrl": "https://grader.owner.com/tra"
   },
   {
-    "name": "Pricing",
-    "slug": "pricing",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/pricing"
-  },
-  {
     "name": "Owner.com & Texas Restaurant Association",
     "slug": "ownercomtexasrestaurantassociation",
     "category": "restaurant",
@@ -1889,15 +1569,6 @@
     "websiteOrderUrl": "https://www.owner.com/texas-ra"
   },
   {
-    "name": "No Commission Delivery for Restaurants",
-    "slug": "nocommissiondeliveryforrestaurants",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/delivery"
-  },
-  {
     "name": "Owner Product Updates and Releases",
     "slug": "ownerproductupdatesandreleases",
     "category": "restaurant",
@@ -1905,15 +1576,6 @@
       "tampa"
     ],
     "websiteOrderUrl": "https://www.owner.com/releases"
-  },
-  {
-    "name": "Owner.com Competitors",
-    "slug": "ownercomcompetitors",
-    "category": "restaurant",
-    "metros": [
-      "tampa"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/comparison"
   },
   {
     "name": "Owner.com Reviews",
@@ -1975,8 +1637,7 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/blog"
+    ]
   },
   {
     "name": "Restaurant Online Ordering System",
@@ -2062,7 +1723,7 @@
   {
     "name": "Village Bowls",
     "slug": "villagebowls",
-    "category": "restaurant",
+    "category": "healthy",
     "metros": [
       "tampa"
     ],
@@ -2116,7 +1777,7 @@
   {
     "name": "Ling's Dumplings Tampa",
     "slug": "lingsdumplingstampa",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "tampa"
     ],
@@ -2125,7 +1786,7 @@
   {
     "name": "Jeremiah's Italian Ice of Carrollwood",
     "slug": "jeremiahsitalianiceofcarrollwood",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "tampa"
     ],
@@ -2134,7 +1795,7 @@
   {
     "name": "Gigi's Cupcakes Tampa",
     "slug": "gigiscupcakestampa",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "tampa"
     ],
@@ -2170,7 +1831,7 @@
   {
     "name": "Jeremiah's Italian Ice of Westchase",
     "slug": "jeremiahsitalianiceofwestchase",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "tampa"
     ],
@@ -2191,8 +1852,7 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ],
-    "websiteOrderUrl": "https://nytophilly.getbento.com/"
+    ]
   },
   {
     "name": "La Canasta Food Truck",
@@ -2200,8 +1860,7 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ],
-    "websiteOrderUrl": "https://lacanastafoodtruck.getbento.com/"
+    ]
   },
   {
     "name": "lunch",
@@ -2218,8 +1877,7 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ],
-    "websiteOrderUrl": "https://eatpsomi.getbento.com/"
+    ]
   },
   {
     "name": "Pizza in Tampa, FL",
@@ -2251,11 +1909,10 @@
   {
     "name": "Fish Restaurant Miami Beach",
     "slug": "fishrestaurantmiamibeach",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "tampa"
-    ],
-    "websiteOrderUrl": "https://afishcalledavalon.getbento.com/"
+    ]
   },
   {
     "name": "Meat Market",
@@ -2263,8 +1920,7 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ],
-    "websiteOrderUrl": "https://meatmarket-copy.getbento.com/"
+    ]
   },
   {
     "name": "Restaurant Website Inspiration for 2020",
@@ -2272,8 +1928,7 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/restaurant-website-design-inspiration-for-2020/"
+    ]
   },
   {
     "name": "Restaurant Catering Software",
@@ -2341,7 +1996,7 @@
   {
     "name": "TRAN NOODLE - TAMPA, FL",
     "slug": "trannoodle-tampafl",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "tampa"
     ],
@@ -2359,7 +2014,7 @@
   {
     "name": "CUBAN FOODIES - TAMPA, FL",
     "slug": "cubanfoodies-tampafl",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "tampa"
     ],
@@ -2386,7 +2041,7 @@
   {
     "name": "Online Ordering",
     "slug": "onlineordering",
-    "category": "restaurant",
+    "category": "burgers",
     "metros": [
       "tampa"
     ],
@@ -2431,7 +2086,7 @@
   {
     "name": "JAMAICAN ON THE GO - TAMPA, FL",
     "slug": "jamaicanonthego-tampafl",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "tampa"
     ],
@@ -2485,7 +2140,7 @@
   {
     "name": "Poke Poke Loop (Palmer House)",
     "slug": "pokepokelooppalmerhouse",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "tampa"
     ],
@@ -2494,7 +2149,7 @@
   {
     "name": "Poke Poke Streeterville",
     "slug": "pokepokestreeterville",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "tampa"
     ],
@@ -2503,7 +2158,7 @@
   {
     "name": "NEW Siesta Poke 5206 Ocean Boulevard",
     "slug": "newsiestapoke5206oceanboulevard",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "tampa"
     ],
@@ -2521,7 +2176,7 @@
   {
     "name": "Poke OG - Downtown POKE OG DOWNTOWN",
     "slug": "pokeog-downtownpokeogdowntown",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "tampa"
     ],
@@ -2530,7 +2185,7 @@
   {
     "name": "Seaside Poke Understory",
     "slug": "seasidepokeunderstory",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "tampa"
     ],
@@ -2539,7 +2194,7 @@
   {
     "name": "poke cafe - fayetteville",
     "slug": "pokecafe-fayetteville",
-    "category": "cafe",
+    "category": "japanese",
     "metros": [
       "tampa"
     ],
@@ -2557,7 +2212,7 @@
   {
     "name": "Poke Burri 3231 powelton ave",
     "slug": "pokeburri3231poweltonave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "tampa"
     ],
@@ -2575,7 +2230,7 @@
   {
     "name": "Poke Surf Hampton",
     "slug": "pokesurfhampton",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "tampa"
     ],
@@ -2584,7 +2239,7 @@
   {
     "name": "Poke-City Cambridge 1722 Massachusetts Avenue",
     "slug": "poke-citycambridge1722massachusettsavenu",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "tampa"
     ],
@@ -2593,7 +2248,7 @@
   {
     "name": "Manoa Poke Shop",
     "slug": "manoapokeshop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "tampa"
     ],
@@ -2602,7 +2257,7 @@
   {
     "name": "Poke Row 2735 NW Crossing Dr #105",
     "slug": "pokerow2735nwcrossingdr105",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "tampa"
     ],
@@ -2611,7 +2266,7 @@
   {
     "name": "Fresh Catch Poke Co. - Hertel Ave.",
     "slug": "freshcatchpokeco-hertelave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "tampa"
     ],
@@ -2629,7 +2284,7 @@
   {
     "name": "Kobe Japanese Steakhouse Tampa/N. Dale Mabry",
     "slug": "kobejapanesesteakhousetampandalemabry",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "tampa"
     ],
@@ -2746,7 +2401,7 @@
   {
     "name": "Mr. Greek of Buffalo 1122 Elmwood Ave.",
     "slug": "mrgreekofbuffalo1122elmwoodave",
-    "category": "mediterranean",
+    "category": "wings",
     "metros": [
       "tampa"
     ],
@@ -2764,7 +2419,7 @@
   {
     "name": "Himes Breakfast House South Tampa",
     "slug": "himesbreakfasthousesouthtampa",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "tampa"
     ],
@@ -2782,7 +2437,7 @@
   {
     "name": "The Breakfast Company Landings",
     "slug": "thebreakfastcompanylandings",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "tampa"
     ],
@@ -2791,7 +2446,7 @@
   {
     "name": "Gofruit Juice Bar Tampa",
     "slug": "gofruitjuicebartampa",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "tampa"
     ],
@@ -2800,7 +2455,7 @@
   {
     "name": "Gofruit Juice Bar Sarasota",
     "slug": "gofruitjuicebarsarasota",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "tampa"
     ],
@@ -2809,7 +2464,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "tampa"
     ],
@@ -2818,7 +2473,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "tampa"
     ],
@@ -2827,7 +2482,7 @@
   {
     "name": "Gofruit Juice Bar Miami",
     "slug": "gofruitjuicebarmiami",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "tampa"
     ],
@@ -2845,7 +2500,7 @@
   {
     "name": "Planta Organic Juice Bar 131 Pine Street",
     "slug": "plantaorganicjuicebar131pinestreet",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "tampa"
     ],
@@ -2854,7 +2509,7 @@
   {
     "name": "Plant and Juice Bar 447 Rohnert Park expy",
     "slug": "plantandjuicebar447rohnertparkexpy",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "tampa"
     ],
@@ -2872,7 +2527,7 @@
   {
     "name": "Juice For Life New Hyde Park",
     "slug": "juiceforlifenewhydepark",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "tampa"
     ],

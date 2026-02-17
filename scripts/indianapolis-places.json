@@ -26,7 +26,7 @@
   {
     "name": "St. Elmo Steak House",
     "slug": "stelmosteakhouse",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "indianapolis"
     ]
@@ -186,7 +186,7 @@
   {
     "name": "Rosemary & Olive Italian Restaurant",
     "slug": "rosemaryoliveitalianrestaurant",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "indianapolis"
     ]
@@ -210,7 +210,7 @@
   {
     "name": "Café Patachou",
     "slug": "cafpatachou",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "indianapolis"
     ]
@@ -218,7 +218,7 @@
   {
     "name": "Good Morning Mama's",
     "slug": "goodmorningmamas",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "indianapolis"
     ]
@@ -248,15 +248,6 @@
       "indianapolis"
     ],
     "toastUrl": "https://order.toasttab.com/online/samssquarepie"
-  },
-  {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "indianapolis"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/sams-square-pie-5301-winthrop-avenue"
   },
   {
     "name": "Greek's Pizzeria Sheridan - PIZZA",
@@ -374,15 +365,6 @@
       "indianapolis"
     ],
     "toastUrl": "https://order.toasttab.com/online/post-alley-pizza-1123-post-avenue"
-  },
-  {
-    "name": "Online Ordering for Ocean World Restaurant - Indianapolis",
-    "slug": "onlineorderingforoceanworldrestaurant-in",
-    "category": "indian",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/3740/locations/4852"
   },
   {
     "name": "Illinois Street Food Emporium",
@@ -666,7 +648,7 @@
   {
     "name": "Broad Leaf Brewery & Spirits",
     "slug": "broadleafbreweryspirits",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "indianapolis"
     ],
@@ -675,7 +657,7 @@
   {
     "name": "Crispi's Italian Cuisine 136 Broad St, Bridgewater MA",
     "slug": "crispisitaliancuisine136broadstbridgewat",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "indianapolis"
     ],
@@ -765,7 +747,7 @@
   {
     "name": "Upland Brewing - Fountain Square 1201 Prospect Street",
     "slug": "uplandbrewing-fountainsquare1201prospect",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "indianapolis"
     ],
@@ -927,7 +909,7 @@
   {
     "name": "Cuban Kitchen, home of the Best Cubano",
     "slug": "cubankitchenhomeofthebestcubano",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "indianapolis"
     ],
@@ -936,7 +918,7 @@
   {
     "name": "Order Online – Delivery & Pick-Up",
     "slug": "orderonlinedeliverypick-up",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "indianapolis"
     ],
@@ -945,7 +927,7 @@
   {
     "name": "Baracoa Cuban Restaurant",
     "slug": "baracoacubanrestaurant",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "indianapolis"
     ],
@@ -963,7 +945,7 @@
   {
     "name": "Paladar Cuban Eatery",
     "slug": "paladarcubaneatery",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "indianapolis"
     ],
@@ -972,7 +954,7 @@
   {
     "name": "Poke Poke Loop (Palmer House)",
     "slug": "pokepokelooppalmerhouse",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "indianapolis"
     ],
@@ -981,7 +963,7 @@
   {
     "name": "Bloomington Dang Boba, Poke & Banh Mi",
     "slug": "bloomingtondangbobapokebanhmi",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "indianapolis"
     ],
@@ -990,7 +972,7 @@
   {
     "name": "Poke Cafe - West Ashley Location and Ordering Hours",
     "slug": "pokecafe-westashleylocationandorderingho",
-    "category": "cafe",
+    "category": "japanese",
     "metros": [
       "indianapolis"
     ],
@@ -999,7 +981,7 @@
   {
     "name": "Poke Poke West Loop",
     "slug": "pokepokewestloop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "indianapolis"
     ],
@@ -1008,7 +990,7 @@
   {
     "name": "Poke Dot 17921 MacArthur Blvd",
     "slug": "pokedot17921macarthurblvd",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "indianapolis"
     ],
@@ -1017,7 +999,7 @@
   {
     "name": "Poke Poke Streeterville",
     "slug": "pokepokestreeterville",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "indianapolis"
     ],
@@ -1026,7 +1008,7 @@
   {
     "name": "Poke Burri 3231 powelton ave",
     "slug": "pokeburri3231poweltonave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "indianapolis"
     ],
@@ -1035,7 +1017,7 @@
   {
     "name": "Manoa Poke Shop",
     "slug": "manoapokeshop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "indianapolis"
     ],
@@ -1044,7 +1026,7 @@
   {
     "name": "Poke OG - Downtown POKE OG DOWNTOWN",
     "slug": "pokeog-downtownpokeogdowntown",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "indianapolis"
     ],
@@ -1053,7 +1035,7 @@
   {
     "name": "Mammoth Poke Bowl",
     "slug": "mammothpokebowl",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "indianapolis"
     ],
@@ -1062,7 +1044,7 @@
   {
     "name": "Fresh Catch Poke Co. - Hertel Ave.",
     "slug": "freshcatchpokeco-hertelave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "indianapolis"
     ],
@@ -1080,7 +1062,7 @@
   {
     "name": "Poke Bunny 100 East Gay Street, Unit 1",
     "slug": "pokebunny100eastgaystreetunit1",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "indianapolis"
     ],
@@ -1089,7 +1071,7 @@
   {
     "name": "Poke Row 2735 NW Crossing Dr #105",
     "slug": "pokerow2735nwcrossingdr105",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "indianapolis"
     ],
@@ -1098,7 +1080,7 @@
   {
     "name": "Hawaii Poke Bowl - West St. Paul 1375 South Robert Street",
     "slug": "hawaiipokebowl-weststpaul1375southrobert",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "indianapolis"
     ],
@@ -1107,7 +1089,7 @@
   {
     "name": "The Ono Poke - Summit 325 Summit Boulevard",
     "slug": "theonopoke-summit325summitboulevard",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "indianapolis"
     ],
@@ -1116,7 +1098,7 @@
   {
     "name": "Poke House Research Blvd",
     "slug": "pokehouseresearchblvd",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "indianapolis"
     ],
@@ -1314,7 +1296,7 @@
   {
     "name": "Mediterranean Grill & Pizzeria Attleboro",
     "slug": "mediterraneangrillpizzeriaattleboro",
-    "category": "mediterranean",
+    "category": "pizza",
     "metros": [
       "indianapolis"
     ],
@@ -1431,7 +1413,7 @@
   {
     "name": "Deproof African Restaurant 4903 West Washington Street",
     "slug": "deproofafricanrestaurant4903westwashingt",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "indianapolis"
     ],
@@ -1440,38 +1422,11 @@
   {
     "name": "Chicken Fingers - Our Menu - TAYLOR'S PUB - Restaurant in IN",
     "slug": "chickenfingers-ourmenu-taylorspub-restau",
-    "category": "restaurant",
+    "category": "chicken",
     "metros": [
       "indianapolis"
     ],
     "websiteOrderUrl": "https://taylors-pub-at-nora.popmenu.com/items/chicken-fingers"
-  },
-  {
-    "name": "11 of the best restaurant menu designs to inspire you",
-    "slug": "11ofthebestrestaurantmenudesignstoinspir",
-    "category": "restaurant",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-menu-designs"
-  },
-  {
-    "name": "Popmenu - New",
-    "slug": "popmenu-new",
-    "category": "restaurant",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-websites"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
   },
   {
     "name": "How to create (and use) a restaurant email list",
@@ -1479,8 +1434,7 @@
     "category": "restaurant",
     "metros": [
       "indianapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-email-list-guide"
+    ]
   },
   {
     "name": "How to set up online food ordering in an afternoon",
@@ -1488,8 +1442,7 @@
     "category": "restaurant",
     "metros": [
       "indianapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
+    ]
   },
   {
     "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
@@ -1497,80 +1450,7 @@
     "category": "restaurant",
     "metros": [
       "indianapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
-  },
-  {
-    "name": "Popmenu: We do more than grow your restaurant.",
-    "slug": "popmenuwedomorethangrowyourrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/"
-  },
-  {
-    "name": "Popmenu: About Us",
-    "slug": "popmenuaboutus",
-    "category": "restaurant",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/about-us"
-  },
-  {
-    "name": "5 menu design Ideas for digital-first restaurants",
-    "slug": "5menudesignideasfordigital-firstrestaura",
-    "category": "restaurant",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
-  },
-  {
-    "name": "Popmenu: Restaurant online ordering",
-    "slug": "popmenurestaurantonlineordering",
-    "category": "restaurant",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
-  },
-  {
-    "name": "Popmenu: Popmenu Pro",
-    "slug": "popmenupopmenupro",
-    "category": "restaurant",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/popmenu-pro"
-  },
-  {
-    "name": "Popmenu: Photography",
-    "slug": "popmenuphotography",
-    "category": "restaurant",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/photography"
-  },
-  {
-    "name": "Popmenu: Case Study - B&B Butchers Restaurant",
-    "slug": "popmenucasestudy-bbbutchersrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/b-b-butchers-restaurant"
-  },
-  {
-    "name": "Popmenu: Dynamic, interactive restaurant menus",
-    "slug": "popmenudynamicinteractiverestaurantmenus",
-    "category": "restaurant",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/dynamic-menu-tech"
+    ]
   },
   {
     "name": "The ultimate guide to restaurant branding",
@@ -1578,8 +1458,7 @@
     "category": "restaurant",
     "metros": [
       "indianapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-branding-guide"
+    ]
   },
   {
     "name": "How to create a menu online in a few easy steps",
@@ -1587,17 +1466,7 @@
     "category": "restaurant",
     "metros": [
       "indianapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/make-an-online-menu-for-your-restaurant"
-  },
-  {
-    "name": "Popmenu: OrderNerd powered by Popmenu",
-    "slug": "popmenuordernerdpoweredbypopmenu",
-    "category": "restaurant",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/ordernerd"
+    ]
   },
   {
     "name": "Home",
@@ -1665,7 +1534,7 @@
   {
     "name": "1832 Brew Espresso Bar",
     "slug": "1832brewespressobar",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "indianapolis"
     ],
@@ -1699,31 +1568,12 @@
     "squareUrl": "https://indiasflavor.square.site/"
   },
   {
-    "name": "Indianapolis, IN - Delivery & Takeout",
-    "slug": "indianapolisin-deliverytakeout",
-    "category": "indian",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/IN/Indianapolis"
-  },
-  {
     "name": "Home - Stacey & Rick's Soul Food",
     "slug": "home-staceyrickssoulfood",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "indianapolis"
-    ],
-    "websiteOrderUrl": "https://staceyandrickssoulfood.menufy.com/"
-  },
-  {
-    "name": "Soul Food in Indianapolis, IN - Delivery & Takeout",
-    "slug": "soulfoodinindianapolisin-deliverytakeout",
-    "category": "indian",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/IN/Indianapolis/Soul%20Food"
+    ]
   },
   {
     "name": "Home - The Jollof Buka",
@@ -1731,107 +1581,7 @@
     "category": "restaurant",
     "metros": [
       "indianapolis"
-    ],
-    "websiteOrderUrl": "https://thejollofbuka.menufy.com/"
-  },
-  {
-    "name": "Sandwiches in Indianapolis, IN - Delivery & Takeout",
-    "slug": "sandwichesinindianapolisin-deliverytakeo",
-    "category": "indian",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/IN/Indianapolis/Sandwiches"
-  },
-  {
-    "name": "Deli in Indianapolis, IN - Delivery & Takeout",
-    "slug": "deliinindianapolisin-deliverytakeout",
-    "category": "indian",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/IN/Indianapolis/Deli"
-  },
-  {
-    "name": "Hamburgers in Indianapolis, IN - Delivery & Takeout",
-    "slug": "hamburgersinindianapolisin-deliverytakeo",
-    "category": "indian",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/IN/Indianapolis/Hamburgers"
-  },
-  {
-    "name": "GARY, IN - Delivery & Takeout",
-    "slug": "garyin-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/IN/GARY"
-  },
-  {
-    "name": "Hot Dogs in Indianapolis, IN - Delivery & Takeout",
-    "slug": "hotdogsinindianapolisin-deliverytakeout",
-    "category": "indian",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/IN/Indianapolis/Hot%20Dogs"
-  },
-  {
-    "name": "Breakfast in Indianapolis, IN - Delivery & Takeout",
-    "slug": "breakfastinindianapolisin-deliverytakeou",
-    "category": "indian",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/IN/Indianapolis/Breakfast"
-  },
-  {
-    "name": "Fish in Indianapolis, IN - Delivery & Takeout",
-    "slug": "fishinindianapolisin-deliverytakeout",
-    "category": "indian",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/IN/Indianapolis/Fish"
-  },
-  {
-    "name": "Mediterranean in Indianapolis, IN - Delivery & Takeout",
-    "slug": "mediterraneaninindianapolisin-deliveryta",
-    "category": "indian",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/IN/Indianapolis/Mediterranean"
-  },
-  {
-    "name": "Seafood in Indianapolis, IN - Delivery & Takeout",
-    "slug": "seafoodinindianapolisin-deliverytakeout",
-    "category": "indian",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/IN/Indianapolis/Seafood"
-  },
-  {
-    "name": "Korean in Indianapolis, IN - Delivery & Takeout",
-    "slug": "koreaninindianapolisin-deliverytakeout",
-    "category": "indian",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/IN/Indianapolis/Korean"
-  },
-  {
-    "name": "HIGHLAND, IN - Delivery & Takeout",
-    "slug": "highlandin-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/IN/HIGHLAND"
+    ]
   },
   {
     "name": "Delivery & Takeout - Indiana, Order Food Online!",
@@ -1841,24 +1591,6 @@
       "indianapolis"
     ],
     "websiteOrderUrl": "https://www.menufy.com/IN"
-  },
-  {
-    "name": "Haitian in Indianapolis, IN - Delivery & Takeout",
-    "slug": "haitianinindianapolisin-deliverytakeout",
-    "category": "indian",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/IN/Indianapolis/Haitian"
-  },
-  {
-    "name": "Wings in Indianapolis, IN - Delivery & Takeout",
-    "slug": "wingsinindianapolisin-deliverytakeout",
-    "category": "indian",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/IN/Indianapolis/Wings"
   },
   {
     "name": "Ocean Prime Indianapolis",
@@ -1890,7 +1622,7 @@
   {
     "name": "Restaurant Delivery Management Software",
     "slug": "restaurantdeliverymanagementsoftware",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "indianapolis"
     ],
@@ -1920,8 +1652,7 @@
     "category": "restaurant",
     "metros": [
       "indianapolis"
-    ],
-    "websiteOrderUrl": "https://www.olo.com/"
+    ]
   },
   {
     "name": "Restaurant Payment Processing Platform",
@@ -1947,8 +1678,7 @@
     "category": "restaurant",
     "metros": [
       "indianapolis"
-    ],
-    "websiteOrderUrl": "https://oceanprime.olo.com/"
+    ]
   },
   {
     "name": "Restaurant Catering Software for Driving High-Margin Revenue",
@@ -2032,15 +1762,6 @@
     "websiteOrderUrl": "https://www.gloriafood.com/ios-app-for-restaurants-release"
   },
   {
-    "name": "GloriaFood Online Ordering: Testimonials",
-    "slug": "gloriafoodonlineorderingtestimonials",
-    "category": "restaurant",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://www.gloriafood.com/reviews"
-  },
-  {
     "name": "GloriaFood Online Ordering: Restaurant Website Builder",
     "slug": "gloriafoodonlineorderingrestaurantwebsit",
     "category": "restaurant",
@@ -2111,15 +1832,6 @@
       "indianapolis"
     ],
     "websiteOrderUrl": "https://www.ezcater.com/catering/mcl-restaurant-and-bakery-indianapolis-castleton-corner-dr"
-  },
-  {
-    "name": "Indianapolis, IN Catering Near Me",
-    "slug": "indianapolisincateringnearme",
-    "category": "indian",
-    "metros": [
-      "indianapolis"
-    ],
-    "websiteOrderUrl": "https://www.ezcater.com/catering/IN/INDIANAPOLIS"
   },
   {
     "name": "MCL Catering in Indianapolis, IN - 2370 W 86th St",
@@ -2547,7 +2259,7 @@
   {
     "name": "The Breakfast Spot",
     "slug": "thebreakfastspot",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "indianapolis"
     ],
@@ -2556,7 +2268,7 @@
   {
     "name": "Hope Breakfast Bar Edina",
     "slug": "hopebreakfastbaredina",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "indianapolis"
     ],
@@ -2565,7 +2277,7 @@
   {
     "name": "Hope Breakfast Bar Saint Paul",
     "slug": "hopebreakfastbarsaintpaul",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "indianapolis"
     ],
@@ -2583,7 +2295,7 @@
   {
     "name": "Breakfast Club Biltmore",
     "slug": "breakfastclubbiltmore",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "indianapolis"
     ],
@@ -2592,7 +2304,7 @@
   {
     "name": "Gina's Juice Bar",
     "slug": "ginasjuicebar",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "indianapolis"
     ],
@@ -2601,7 +2313,7 @@
   {
     "name": "Greenleaf Juice Indy Cold-Pressed Juice / Catering",
     "slug": "greenleafjuiceindycold-pressedjuicecater",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "indianapolis"
     ],
@@ -2610,7 +2322,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "indianapolis"
     ],
@@ -2619,7 +2331,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "indianapolis"
     ],
@@ -2637,7 +2349,7 @@
   {
     "name": "Base Smoothies + Juice Frisco Frisco",
     "slug": "basesmoothiesjuicefriscofrisco",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "indianapolis"
     ],
@@ -2646,7 +2358,7 @@
   {
     "name": "The Smoothie Spot- Colonial Heights",
     "slug": "thesmoothiespot-colonialheights",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "indianapolis"
     ],
@@ -2655,7 +2367,7 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "indianapolis"
     ],
@@ -2664,7 +2376,7 @@
   {
     "name": "Juice It - 13th Ave S",
     "slug": "juiceit-13thaves",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "indianapolis"
     ],
@@ -2682,7 +2394,7 @@
   {
     "name": "Blended Health & Smoothie Bar Olympia Plaza",
     "slug": "blendedhealthsmoothiebarolympiaplaza",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "indianapolis"
     ],
@@ -2691,7 +2403,7 @@
   {
     "name": "Pressed Juice Bar 19550 Grand River Avenue",
     "slug": "pressedjuicebar19550grandriveravenue",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "indianapolis"
     ],

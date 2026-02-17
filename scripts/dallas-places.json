@@ -434,7 +434,7 @@
   {
     "name": "Bellatrino Pizzeria",
     "slug": "bellatrinopizzeria",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "dallas"
     ]
@@ -474,7 +474,7 @@
   {
     "name": "Pizzeria Carina",
     "slug": "pizzeriacarina",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "dallas"
     ]
@@ -490,7 +490,7 @@
   {
     "name": "Partenope Ristorante",
     "slug": "partenoperistorante",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "dallas"
     ]
@@ -530,7 +530,7 @@
   {
     "name": "Tupelo Honey Southern Kitchen & Bar",
     "slug": "tupelohoneysouthernkitchenbar",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "dallas"
     ]
@@ -562,7 +562,7 @@
   {
     "name": "Salute Italian Restaurant Frisco",
     "slug": "saluteitalianrestaurantfrisco",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "dallas"
     ]
@@ -616,15 +616,6 @@
       "dallas"
     ],
     "toastUrl": "https://order.toasttab.com/online/zaap-kitchen-lao-thai-street-eats-fitzhugh-2325-n-fitzhugh-ave-suite-105"
-  },
-  {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/dalat-restaurant-bar"
   },
   {
     "name": "La Marmite Dallas",
@@ -800,7 +791,7 @@
   {
     "name": "Texan Cafe & Pie Shop",
     "slug": "texancafepieshop",
-    "category": "cafe",
+    "category": "pizza",
     "metros": [
       "dallas"
     ],
@@ -915,15 +906,6 @@
     "toastUrl": "https://order.toasttab.com/online/enos3"
   },
   {
-    "name": "Online Ordering for Restaurants with No Commissions",
-    "slug": "onlineorderingforrestaurantswithnocommis",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/41970/locations/"
-  },
-  {
     "name": "Cookshack, Fort Worth, TX",
     "slug": "cookshackfortworthtx",
     "category": "restaurant",
@@ -989,7 +971,7 @@
   {
     "name": "BREWED - Fort Worth 801 W Magnolia Ave",
     "slug": "brewed-fortworth801wmagnoliaave",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "dallas"
     ],
@@ -998,7 +980,7 @@
   {
     "name": "Unrefined Bakery Fort Worth",
     "slug": "unrefinedbakeryfortworth",
-    "category": "cafe",
+    "category": "bakery",
     "metros": [
       "dallas"
     ],
@@ -1050,24 +1032,6 @@
     "toastUrl": "https://order.toasttab.com/online/old-west-cafe-denton-2420-south-interstate-35"
   },
   {
-    "name": "Online Ordering for Righteous Foods - Fort Worth",
-    "slug": "onlineorderingforrighteousfoods-fortwort",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/7364/locations/9855"
-  },
-  {
-    "name": "Online Ordering for Rolling Harvest Food Truck",
-    "slug": "onlineorderingforrollingharvestfoodtruck",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/4462/locations/5795"
-  },
-  {
     "name": "Online Food Ordering System & App",
     "slug": "onlinefoodorderingsystemapp",
     "category": "restaurant",
@@ -1075,42 +1039,6 @@
       "dallas"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/12278/locations"
-  },
-  {
-    "name": "Online Ordering for Fired Up - Mclean",
-    "slug": "onlineorderingforfiredup-mclean",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/6936/locations/9237"
-  },
-  {
-    "name": "Online Ordering for Little Fatty",
-    "slug": "onlineorderingforlittlefatty",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/1963/locations"
-  },
-  {
-    "name": "Online Ordering for Time-Out Restaurant",
-    "slug": "onlineorderingfortime-outrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/505/locations/660"
-  },
-  {
-    "name": "Online Ordering for Skirted Heifer - Downtown",
-    "slug": "onlineorderingforskirtedheifer-downtown",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/4964/locations/6438"
   },
   {
     "name": "Twisted Root - Deep Ellum",
@@ -1142,7 +1070,7 @@
   {
     "name": "Westlake Brewing Company Deep Ellum",
     "slug": "westlakebrewingcompanydeepellum",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "dallas"
     ],
@@ -1178,7 +1106,7 @@
   {
     "name": "Deep End Subs",
     "slug": "deependsubs",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "dallas"
     ],
@@ -1331,7 +1259,7 @@
   {
     "name": "Salsa's Taqueria II Bishop",
     "slug": "salsastaqueriaiibishop",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "dallas"
     ],
@@ -1475,7 +1403,7 @@
   {
     "name": "Greek Feast",
     "slug": "greekfeast",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "dallas"
     ],
@@ -1484,7 +1412,7 @@
   {
     "name": "Mr. Greek of Buffalo 1122 Elmwood Ave.",
     "slug": "mrgreekofbuffalo1122elmwoodave",
-    "category": "restaurant",
+    "category": "wings",
     "metros": [
       "dallas"
     ],
@@ -1493,7 +1421,7 @@
   {
     "name": "The Greek Corner 2366 Massachusetts Avenue",
     "slug": "thegreekcorner2366massachusettsavenue",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "dallas"
     ],
@@ -1511,7 +1439,7 @@
   {
     "name": "The Great Greek - Allen Park",
     "slug": "thegreatgreek-allenpark",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "dallas"
     ],
@@ -1520,7 +1448,7 @@
   {
     "name": "Greek Souvlaki Downtown",
     "slug": "greeksouvlakidowntown",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "dallas"
     ],
@@ -1529,7 +1457,7 @@
   {
     "name": "Greek Spot San Jose",
     "slug": "greekspotsanjose",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "dallas"
     ],
@@ -1538,7 +1466,7 @@
   {
     "name": "Acropolis Greek Cuisine",
     "slug": "acropolisgreekcuisine",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "dallas"
     ],
@@ -1547,7 +1475,7 @@
   {
     "name": "Opa Greek Yeeros 378 Highland Ave",
     "slug": "opagreekyeeros378highlandave",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "dallas"
     ],
@@ -1556,7 +1484,7 @@
   {
     "name": "It's Greek to Me - Fort Lee 1611 Palisade Ave.",
     "slug": "itsgreektome-fortlee1611palisadeave",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "dallas"
     ],
@@ -1565,7 +1493,7 @@
   {
     "name": "Eat Greek",
     "slug": "eatgreek",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "dallas"
     ],
@@ -1574,7 +1502,7 @@
   {
     "name": "go to greek",
     "slug": "gotogreek",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "dallas"
     ],
@@ -1601,7 +1529,7 @@
   {
     "name": "Padelis Street Greek SLC",
     "slug": "padelisstreetgreekslc",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "dallas"
     ],
@@ -1691,7 +1619,7 @@
   {
     "name": "Dope Vegan",
     "slug": "dopevegan",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "dallas"
     ],
@@ -1709,7 +1637,7 @@
   {
     "name": "West Coast Vegan Grill 2023 100 W CENTRAL AVE",
     "slug": "westcoastvegangrill2023100wcentralave",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "dallas"
     ],
@@ -1718,7 +1646,7 @@
   {
     "name": "Vegan On The Fly Midtown",
     "slug": "veganontheflymidtown",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "dallas"
     ],
@@ -1763,7 +1691,7 @@
   {
     "name": "Birria Hands 921 W Commerce St – Order pickup and delivery",
     "slug": "birriahands921wcommercestorderpickupandd",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "dallas"
     ],
@@ -1784,44 +1712,16 @@
     "category": "pizza",
     "metros": [
       "dallas"
-    ],
-    "websiteOrderUrl": "https://pie-tap-pizza-workshop-bar.popmenu.com/"
+    ]
   },
   {
     "name": "Trending Sandwiches near Dallas, TX",
     "slug": "trendingsandwichesneardallastx",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "dallas"
     ],
     "websiteOrderUrl": "https://eat.popmenu.com/places/dallas-tx/categories/sandwiches"
-  },
-  {
-    "name": "Popmenu: We do more than grow your restaurant.",
-    "slug": "popmenuwedomorethangrowyourrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/"
-  },
-  {
-    "name": "ACS",
-    "slug": "acs",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://affordable-catering.popmenu.com/"
-  },
-  {
-    "name": "Popmenu: Case Study - B&B Butchers Restaurant",
-    "slug": "popmenucasestudy-bbbutchersrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/b-b-butchers-restaurant"
   },
   {
     "name": "How to create (and use) a restaurant email list",
@@ -1829,35 +1729,7 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-email-list-guide"
-  },
-  {
-    "name": "Popmenu - New",
-    "slug": "popmenu-new",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-websites"
-  },
-  {
-    "name": "Popmenu: Case Study - Dos Salsas",
-    "slug": "popmenucasestudy-dossalsas",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
-  },
-  {
-    "name": "Why restaurant menu design matters",
-    "slug": "whyrestaurantmenudesignmatters",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-design-guide"
+    ]
   },
   {
     "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
@@ -1865,44 +1737,7 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
-  },
-  {
-    "name": "Popmenu: About Us",
-    "slug": "popmenuaboutus",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/about-us"
-  },
-  {
-    "name": "11 of the best restaurant menu designs to inspire you",
-    "slug": "11ofthebestrestaurantmenudesignstoinspir",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-menu-designs"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
-  },
-  {
-    "name": "Popmenu: Dynamic, interactive restaurant menus",
-    "slug": "popmenudynamicinteractiverestaurantmenus",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/dynamic-menu-tech"
+    ]
   },
   {
     "name": "The ultimate guide to restaurant branding",
@@ -1910,31 +1745,12 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-branding-guide"
-  },
-  {
-    "name": "Popmenu: Restaurant online ordering",
-    "slug": "popmenurestaurantonlineordering",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
-  },
-  {
-    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
-    "slug": "popmenutoolkittherestaurantgrowthplayboo",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+    ]
   },
   {
     "name": "Korean Street Food & Bar",
     "slug": "koreanstreetfoodbar",
-    "category": "restaurant",
+    "category": "korean",
     "metros": [
       "dallas"
     ],
@@ -1952,7 +1768,7 @@
   {
     "name": "Vegan Food House",
     "slug": "veganfoodhouse",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "dallas"
     ],
@@ -1979,7 +1795,7 @@
   {
     "name": "Soul Food Burrito",
     "slug": "soulfoodburrito",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "dallas"
     ],
@@ -2085,184 +1901,12 @@
     "squareUrl": "https://echalesalsitadallas.square.site"
   },
   {
-    "name": "Dallas, TX - Delivery & Takeout",
-    "slug": "dallastx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Dallas"
-  },
-  {
-    "name": "Dallas, GA - Delivery & Takeout",
-    "slug": "dallasga-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/GA/Dallas"
-  },
-  {
     "name": "Home - CH Food Corp",
     "slug": "home-chfoodcorp",
     "category": "restaurant",
     "metros": [
       "dallas"
-    ],
-    "websiteOrderUrl": "http://inactive.chfoodcorp.menufy.com/"
-  },
-  {
-    "name": "Asian Fusion in Dallas, TX - Delivery & Takeout",
-    "slug": "asianfusionindallastx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Dallas/Asian%20Fusion"
-  },
-  {
-    "name": "Soul Food in Dallas, TX - Delivery & Takeout",
-    "slug": "soulfoodindallastx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Dallas/Soul%20Food"
-  },
-  {
-    "name": "Venezuelan in NORTH DALLAS, TX - Delivery & Takeout",
-    "slug": "venezuelaninnorthdallastx-deliverytakeou",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/NORTH%20DALLAS/Venezuelan"
-  },
-  {
-    "name": "Pizza in Dallas, TX - Delivery & Takeout",
-    "slug": "pizzaindallastx-deliverytakeout",
-    "category": "pizza",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Dallas/Pizza"
-  },
-  {
-    "name": "Asian in FAR NORTH DALLAS, TX - Delivery & Takeout",
-    "slug": "asianinfarnorthdallastx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/FAR%20NORTH%20DALLAS/Asian"
-  },
-  {
-    "name": "Mediterranean in FAR NORTH DALLAS, TX - Delivery & Takeout",
-    "slug": "mediterraneaninfarnorthdallastx-delivery",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/FAR%20NORTH%20DALLAS/Mediterranean"
-  },
-  {
-    "name": "Chinese in NORTH DALLAS, TX - Delivery & Takeout",
-    "slug": "chineseinnorthdallastx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/NORTH%20DALLAS/Chinese"
-  },
-  {
-    "name": "Frisco, TX - Delivery & Takeout",
-    "slug": "friscotx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Frisco"
-  },
-  {
-    "name": "Taiwanese in Dallas, TX - Delivery & Takeout",
-    "slug": "taiwaneseindallastx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Dallas/Taiwanese"
-  },
-  {
-    "name": "Gyro in Dallas, TX - Delivery & Takeout",
-    "slug": "gyroindallastx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Dallas/Gyro"
-  },
-  {
-    "name": "Lake Dallas, TX - Delivery & Takeout",
-    "slug": "lakedallastx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Lake%20Dallas"
-  },
-  {
-    "name": "Korean in Dallas, TX - Delivery & Takeout",
-    "slug": "koreanindallastx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Dallas/Korean"
-  },
-  {
-    "name": "Irving, TX - Delivery & Takeout",
-    "slug": "irvingtx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Irving"
-  },
-  {
-    "name": "Allen, TX - Delivery & Takeout",
-    "slug": "allentx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Allen"
-  },
-  {
-    "name": "Seafood in Dallas, TX - Delivery & Takeout",
-    "slug": "seafoodindallastx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Dallas/Seafood"
-  },
-  {
-    "name": "Soup in Dallas, TX - Delivery & Takeout",
-    "slug": "soupindallastx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Dallas/Soup"
-  },
-  {
-    "name": "Lunch in Carrollton, TX - Delivery & Takeout",
-    "slug": "lunchincarrolltontx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Carrollton/Lunch"
+    ]
   },
   {
     "name": "Scale Your Restaurant",
@@ -2272,24 +1916,6 @@
       "dallas"
     ],
     "websiteOrderUrl": "https://www.owner.com/scale-your-restaurant"
-  },
-  {
-    "name": "Pricing",
-    "slug": "pricing",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/pricing"
-  },
-  {
-    "name": "No Commission Delivery for Restaurants",
-    "slug": "nocommissiondeliveryforrestaurants",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/delivery"
   },
   {
     "name": "Owner.com Reviews",
@@ -2315,8 +1941,7 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ],
-    "websiteOrderUrl": "https://compare.owner.com/"
+    ]
   },
   {
     "name": "How Owner.com Works",
@@ -2333,8 +1958,7 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/"
+    ]
   },
   {
     "name": "Owner Product Updates and Releases",
@@ -2389,15 +2013,6 @@
       "dallas"
     ],
     "websiteOrderUrl": "https://www.owner.com/california-ra"
-  },
-  {
-    "name": "Owner.com Competitors",
-    "slug": "ownercomcompetitors",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/comparison"
   },
   {
     "name": "Owner.com: Get a Demo",
@@ -2607,15 +2222,6 @@
     "websiteOrderUrl": "https://localrestaurant.getbento.com/online-ordering/"
   },
   {
-    "name": "The Best Restaurant Websites in Dallas",
-    "slug": "thebestrestaurantwebsitesindallas",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-dallas/"
-  },
-  {
     "name": "Dallas",
     "slug": "dallas",
     "category": "restaurant",
@@ -2630,17 +2236,15 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ],
-    "websiteOrderUrl": "https://billycancan.getbento.com/"
+    ]
   },
   {
     "name": "Snappy Salads in Dallas, TX",
     "slug": "snappysaladsindallastx",
-    "category": "restaurant",
+    "category": "healthy",
     "metros": [
       "dallas"
-    ],
-    "websiteOrderUrl": "https://snappysalads.getbento.com/"
+    ]
   },
   {
     "name": "Sadelle's - Major Food Group Restaurant",
@@ -2661,22 +2265,12 @@
     "websiteOrderUrl": "https://sadelles.getbento.com/location/highland-park-dallas-holiday/"
   },
   {
-    "name": "Best Restaurant Websites - Texas",
-    "slug": "bestrestaurantwebsites-texas",
-    "category": "restaurant",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-texas/"
-  },
-  {
     "name": "Home",
     "slug": "home",
     "category": "restaurant",
     "metros": [
       "dallas"
-    ],
-    "websiteOrderUrl": "https://preciosamarket.getbento.com/"
+    ]
   },
   {
     "name": "New The Finch Dallas LBW Menu 10.2.24",
@@ -2684,8 +2278,7 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ],
-    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/dd1a47fbd9ff0e1595f0b8b7a8c89839/media/F474tXORky0gJ33nSIVf_New%20The%20Finch%20Dallas%20LBW%20Menu%2010.2.24.pdf"
+    ]
   },
   {
     "name": "Vino Carbone",
@@ -2702,8 +2295,7 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ],
-    "websiteOrderUrl": "https://thereservehighland.getbento.com/"
+    ]
   },
   {
     "name": "BentoBox",
@@ -2720,8 +2312,7 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ],
-    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/c31ee7a22b8a5de7f98fbe0d9d8c0438/media/gC2mbBtfSaGXsKumwMrP_2180617%20LGRG%20-%20Banquet%20Menu%20--%2010-23%20(1).pdf"
+    ]
   },
   {
     "name": "Menus",
@@ -2738,13 +2329,12 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ],
-    "websiteOrderUrl": "https://thalunchroom.getbento.com/"
+    ]
   },
   {
     "name": "STEAKYARD - DALLAS, TX",
     "slug": "steakyard-dallastx",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "dallas"
     ],
@@ -2753,7 +2343,7 @@
   {
     "name": "OLORI AFRICAN CUISINE - Dallas, Texas",
     "slug": "oloriafricancuisine-dallastexas",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "dallas"
     ],
@@ -2780,7 +2370,7 @@
   {
     "name": "LA VUI VIETNAMESE RESTAURANT - DALLAS, TX",
     "slug": "lavuivietnameserestaurant-dallastx",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "dallas"
     ],
@@ -2816,7 +2406,7 @@
   {
     "name": "Clover’s got restaurant delivery covered: 4 services to try",
     "slug": "cloversgotrestaurantdeliverycovered4serv",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "dallas"
     ],
@@ -2870,7 +2460,7 @@
   {
     "name": "Mola Mola Poke Restaurant Dallas, TX",
     "slug": "molamolapokerestaurantdallastx",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "dallas"
     ],
@@ -2879,7 +2469,7 @@
   {
     "name": "Poke Poke West Loop",
     "slug": "pokepokewestloop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "dallas"
     ],
@@ -2888,7 +2478,7 @@
   {
     "name": "Seaside Poke Understory",
     "slug": "seasidepokeunderstory",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "dallas"
     ],
@@ -2906,7 +2496,7 @@
   {
     "name": "Poke Poke Streeterville",
     "slug": "pokepokestreeterville",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "dallas"
     ],
@@ -2915,7 +2505,7 @@
   {
     "name": "Poke Poke Loop (Palmer House)",
     "slug": "pokepokelooppalmerhouse",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "dallas"
     ],
@@ -2924,7 +2514,7 @@
   {
     "name": "Poke OG - Downtown POKE OG DOWNTOWN",
     "slug": "pokeog-downtownpokeogdowntown",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "dallas"
     ],
@@ -2942,7 +2532,7 @@
   {
     "name": "Fresh Catch Poke Co. - Hertel Ave.",
     "slug": "freshcatchpokeco-hertelave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "dallas"
     ],
@@ -2951,7 +2541,7 @@
   {
     "name": "Aloha Poke Co. Dupont Circle",
     "slug": "alohapokecodupontcircle",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "dallas"
     ],
@@ -2960,7 +2550,7 @@
   {
     "name": "Big Daddy's Poke Shack",
     "slug": "bigdaddyspokeshack",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "dallas"
     ],
@@ -3077,7 +2667,7 @@
   {
     "name": "360 Brunch House Dallas",
     "slug": "360brunchhousedallas",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "dallas"
     ],
@@ -3086,7 +2676,7 @@
   {
     "name": "High Tower Café HT-Millennium Dallas Pkwy",
     "slug": "hightowercafht-millenniumdallaspkwy",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "dallas"
     ],
@@ -3104,7 +2694,7 @@
   {
     "name": "Gather Café Dallas",
     "slug": "gathercafdallas",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "dallas"
     ],
@@ -3122,7 +2712,7 @@
   {
     "name": "Radiant Juice + Smoothie Bar 702 Main St., Suite 103",
     "slug": "radiantjuicesmoothiebar702mainstsuite103",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "dallas"
     ],
@@ -3131,7 +2721,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "dallas"
     ],
@@ -3140,7 +2730,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "dallas"
     ],
@@ -3149,7 +2739,7 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "dallas"
     ],
@@ -3158,28 +2748,10 @@
   {
     "name": "Base Smoothies + Juice Frisco Frisco",
     "slug": "basesmoothiesjuicefriscofrisco",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "dallas"
     ],
     "toastUrl": "https://order.toasttab.com/online/base-smoothies-juice-frisco"
-  },
-  {
-    "name": "Online Ordering for Stonedeck Pizza Pub - Dallas",
-    "slug": "onlineorderingforstonedeckpizzapub-dalla",
-    "category": "pizza",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/7886/locations/10593"
-  },
-  {
-    "name": "Online Ordering for DO NOT USE - ZaLat Pizza - Dallas",
-    "slug": "onlineorderingfordonotuse-zalatpizza-dal",
-    "category": "pizza",
-    "metros": [
-      "dallas"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/3972/locations/5161"
   }
 ]

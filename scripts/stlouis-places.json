@@ -18,7 +18,7 @@
   {
     "name": "Pappy's Smokehouse",
     "slug": "pappyssmokehouse",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "stlouis"
     ]
@@ -114,7 +114,7 @@
   {
     "name": "Edera Italian Eatery",
     "slug": "ederaitalianeatery",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "stlouis"
     ]
@@ -146,7 +146,7 @@
   {
     "name": "Salt + Smoke",
     "slug": "saltsmoke",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "stlouis"
     ]
@@ -178,7 +178,7 @@
   {
     "name": "Noodle Story小面故事",
     "slug": "noodlestory",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "stlouis"
     ]
@@ -218,7 +218,7 @@
   {
     "name": "Sugarfire Smoke House",
     "slug": "sugarfiresmokehouse",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "stlouis"
     ]
@@ -226,7 +226,7 @@
   {
     "name": "Bogart's Smokehouse",
     "slug": "bogartssmokehouse",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "stlouis"
     ]
@@ -234,7 +234,7 @@
   {
     "name": "Adam's Smokehouse",
     "slug": "adamssmokehouse",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "stlouis"
     ]
@@ -250,7 +250,7 @@
   {
     "name": "Dalie's Smokehouse",
     "slug": "daliessmokehouse",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "stlouis"
     ]
@@ -258,7 +258,7 @@
   {
     "name": "Hogtown Smokehouse",
     "slug": "hogtownsmokehouse",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "stlouis"
     ]
@@ -266,7 +266,7 @@
   {
     "name": "The Shaved Duck Smokehouse",
     "slug": "theshavedducksmokehouse",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "stlouis"
     ]
@@ -322,7 +322,7 @@
   {
     "name": "1860 Saloon, Game Room, & Hardshell Café",
     "slug": "1860saloongameroomhardshellcaf",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "stlouis"
     ]
@@ -402,15 +402,6 @@
     "toastUrl": "https://order.toasttab.com/online/stlpw4925hampton"
   },
   {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/pizzaheadstl"
-  },
-  {
     "name": "St. Louis Pizza & Wings - Tesson Ferry",
     "slug": "stlouispizzawings-tessonferry",
     "category": "pizza",
@@ -440,7 +431,7 @@
   {
     "name": "yum! kitchen & bakery st. louis park",
     "slug": "yumkitchenbakerystlouispark",
-    "category": "cafe",
+    "category": "bakery",
     "metros": [
       "stlouis"
     ],
@@ -665,7 +656,7 @@
   {
     "name": "Pirrone's Pizzeria-St. Peters St. Peter",
     "slug": "pirronespizzeria-stpetersstpeter",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "stlouis"
     ],
@@ -710,7 +701,7 @@
   {
     "name": "Super Rico Colombian Restaurant & Bar 57 West Central ...",
     "slug": "superricocolombianrestaurantbar57westcen",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "stlouis"
     ],
@@ -755,7 +746,7 @@
   {
     "name": "Two Fat Cats Bakery West End",
     "slug": "twofatcatsbakerywestend",
-    "category": "cafe",
+    "category": "bakery",
     "metros": [
       "stlouis"
     ],
@@ -809,7 +800,7 @@
   {
     "name": "West Side Wok",
     "slug": "westsidewok",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "stlouis"
     ],
@@ -827,7 +818,7 @@
   {
     "name": "STL SUBS Delmar Loop",
     "slug": "stlsubsdelmarloop",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "stlouis"
     ],
@@ -836,7 +827,7 @@
   {
     "name": "Loop Brewing Company The LBC",
     "slug": "loopbrewingcompanythelbc",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "stlouis"
     ],
@@ -908,7 +899,7 @@
   {
     "name": "Poke Poke West Loop",
     "slug": "pokepokewestloop",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "stlouis"
     ],
@@ -917,7 +908,7 @@
   {
     "name": "Hope Breakfast Bar North Loop",
     "slug": "hopebreakfastbarnorthloop",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "stlouis"
     ],
@@ -962,7 +953,7 @@
   {
     "name": "Soul Food Glasgow Giffnock",
     "slug": "soulfoodglasgowgiffnock",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "stlouis"
     ],
@@ -971,7 +962,7 @@
   {
     "name": "Herman's Soul Food & Catering",
     "slug": "hermanssoulfoodcatering",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "stlouis"
     ],
@@ -980,7 +971,7 @@
   {
     "name": "Doro Soul Food 2108 8th St NW",
     "slug": "dorosoulfood21088thstnw",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "stlouis"
     ],
@@ -989,7 +980,7 @@
   {
     "name": "SoFul Soul Food",
     "slug": "sofulsoulfood",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "stlouis"
     ],
@@ -998,7 +989,7 @@
   {
     "name": "Bertha's Soul Food Bar & Grill",
     "slug": "berthassoulfoodbargrill",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "stlouis"
     ],
@@ -1007,7 +998,7 @@
   {
     "name": "Esther's Soul Food + Kitchen Sandhills",
     "slug": "estherssoulfoodkitchensandhills",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "stlouis"
     ],
@@ -1019,13 +1010,12 @@
     "category": "restaurant",
     "metros": [
       "stlouis"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/swolefood4lifeonlineordering.com"
+    ]
   },
   {
     "name": "Lady Sharon's Soul Food Kitchen",
     "slug": "ladysharonssoulfoodkitchen",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "stlouis"
     ],
@@ -1133,7 +1123,7 @@
   {
     "name": "The Grove Brewing Company",
     "slug": "thegrovebrewingcompany",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "stlouis"
     ],
@@ -1160,7 +1150,7 @@
   {
     "name": "Big Grove Brewery Iowa City",
     "slug": "biggrovebreweryiowacity",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "stlouis"
     ],
@@ -1322,7 +1312,7 @@
   {
     "name": "Strait Jamaican Cuisine LLC 15 School St",
     "slug": "straitjamaicancuisinellc15schoolst",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "stlouis"
     ],
@@ -1331,7 +1321,7 @@
   {
     "name": "Yeah Man Jamaican Restaurant 302 Veterans Memorial ...",
     "slug": "yeahmanjamaicanrestaurant302veteransmemo",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "stlouis"
     ],
@@ -1340,7 +1330,7 @@
   {
     "name": "Country Style Jamaican Restaurant",
     "slug": "countrystylejamaicanrestaurant",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "stlouis"
     ],
@@ -1349,7 +1339,7 @@
   {
     "name": "Jamaican Flavors - 358 Kosciuszko Street",
     "slug": "jamaicanflavors-358kosciuszkostreet",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "stlouis"
     ],
@@ -1358,7 +1348,7 @@
   {
     "name": "Jamaican Vibes 2 - Airline Hwy",
     "slug": "jamaicanvibes2-airlinehwy",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "stlouis"
     ],
@@ -1367,7 +1357,7 @@
   {
     "name": "Yeah man Good Vibes Jamaican Restaurant -McDonough ...",
     "slug": "yeahmangoodvibesjamaicanrestaurant-mcdon",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "stlouis"
     ],
@@ -1376,7 +1366,7 @@
   {
     "name": "Maroon Girl Jamaican Cuisine",
     "slug": "maroongirljamaicancuisine",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "stlouis"
     ],
@@ -1394,7 +1384,7 @@
   {
     "name": "Carena's Jamaican Grille",
     "slug": "carenasjamaicangrille",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "stlouis"
     ],
@@ -1403,7 +1393,7 @@
   {
     "name": "Jamaican cuisine",
     "slug": "jamaicancuisine",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "stlouis"
     ],
@@ -1412,7 +1402,7 @@
   {
     "name": "Irie Jamaican Kitchen - (WEST SIDE) Old Brooklyn",
     "slug": "iriejamaicankitchen-westsideoldbrooklyn",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "stlouis"
     ],
@@ -1421,7 +1411,7 @@
   {
     "name": "Irie Jamaican Kitchen (Lakewood)",
     "slug": "iriejamaicankitchenlakewood",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "stlouis"
     ],
@@ -1439,7 +1429,7 @@
   {
     "name": "Irie Jamaican Kitchen (EAST SIDE) EUCLID",
     "slug": "iriejamaicankitcheneastsideeuclid",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "stlouis"
     ],
@@ -1610,7 +1600,7 @@
   {
     "name": "Cajun Corner - Uptown 23rd St",
     "slug": "cajuncorner-uptown23rdst",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "stlouis"
     ],
@@ -1619,7 +1609,7 @@
   {
     "name": "NOLA CAJUN KITCHEN",
     "slug": "nolacajunkitchen",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "stlouis"
     ],
@@ -1637,7 +1627,7 @@
   {
     "name": "nola cajun kitchen west boylston",
     "slug": "nolacajunkitchenwestboylston",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "stlouis"
     ],
@@ -1646,7 +1636,7 @@
   {
     "name": "Boudreau & Thibodeau's Cajun Cookin'",
     "slug": "boudreauthibodeauscajuncookin",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "stlouis"
     ],
@@ -1655,7 +1645,7 @@
   {
     "name": "Dodies Cajun Diner at The Harbor",
     "slug": "dodiescajundinerattheharbor",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "stlouis"
     ],
@@ -1664,7 +1654,7 @@
   {
     "name": "Cajun Corner - NW Expressway",
     "slug": "cajuncorner-nwexpressway",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "stlouis"
     ],
@@ -1682,7 +1672,7 @@
   {
     "name": "nola cajun kitchen shrewsbury",
     "slug": "nolacajunkitchenshrewsbury",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "stlouis"
     ],
@@ -1700,7 +1690,7 @@
   {
     "name": "Rockin Cajun Carson",
     "slug": "rockincajuncarson",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "stlouis"
     ],
@@ -1709,7 +1699,7 @@
   {
     "name": "Ya Better Eat Cajun Smokehouse 711 2nd Avenue North",
     "slug": "yabettereatcajunsmokehouse7112ndavenueno",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "stlouis"
     ],
@@ -1718,7 +1708,7 @@
   {
     "name": "The Cajun Spot 17731 Fairgrove Park Dr",
     "slug": "thecajunspot17731fairgroveparkdr",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "stlouis"
     ],
@@ -1736,7 +1726,7 @@
   {
     "name": "Cajun Queen",
     "slug": "cajunqueen",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "stlouis"
     ],
@@ -1745,7 +1735,7 @@
   {
     "name": "Crawdaddys Cajun 13 Tomlinson Mill Rd",
     "slug": "crawdaddyscajun13tomlinsonmillrd",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "stlouis"
     ],
@@ -1754,7 +1744,7 @@
   {
     "name": "Jingo Cajun Eatery Lumberton 133 #A North Lhs Dr.",
     "slug": "jingocajuneaterylumberton133anorthlhsdr",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "stlouis"
     ],
@@ -1779,94 +1769,12 @@
     "websiteOrderUrl": "https://order.online/store/brasserie-st-louis-sorel-tracy-2503966/"
   },
   {
-    "name": "Popmenu: Case Study - Dos Salsas",
-    "slug": "popmenucasestudy-dossalsas",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
-  },
-  {
-    "name": "Popmenu: Client Testimonials & Reviews",
-    "slug": "popmenuclienttestimonialsreviews",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-testimonials-reviews"
-  },
-  {
-    "name": "Popmenu: Case Study - Alfred's Restaurant",
-    "slug": "popmenucasestudy-alfredsrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/alfreds-restaurant"
-  },
-  {
-    "name": "Popmenu + OpenTable",
-    "slug": "popmenuopentable",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/partner/opentable"
-  },
-  {
-    "name": "Popmenu: Case Study - The Deck",
-    "slug": "popmenucasestudy-thedeck",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/the-deck"
-  },
-  {
-    "name": "Popmenu: Case Study - B&B Butchers Restaurant",
-    "slug": "popmenucasestudy-bbbutchersrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/b-b-butchers-restaurant"
-  },
-  {
     "name": "Join the group text: Text message marketing for restaurants",
     "slug": "jointhegrouptexttextmessagemarketingforr",
     "category": "restaurant",
     "metros": [
       "stlouis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/text-message-marketing-for-restaurants"
-  },
-  {
-    "name": "Popmenu: Case Study - Taqueria Picoso",
-    "slug": "popmenucasestudy-taqueriapicoso",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/more-guests-larger-orders/taqueria-picoso"
-  },
-  {
-    "name": "Popmenu: Case Study - The Hampton Social",
-    "slug": "popmenucasestudy-thehamptonsocial",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/the-hampton-social"
-  },
-  {
-    "name": "Best restaurant websites: 4 examples to steal from",
-    "slug": "bestrestaurantwebsites4examplestostealfr",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-websites"
+    ]
   },
   {
     "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
@@ -1874,17 +1782,7 @@
     "category": "restaurant",
     "metros": [
       "stlouis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
-  },
-  {
-    "name": "Popmenu: Popmenu Pro",
-    "slug": "popmenupopmenupro",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/popmenu-pro"
+    ]
   },
   {
     "name": "How to set up online food ordering in an afternoon",
@@ -1892,17 +1790,7 @@
     "category": "restaurant",
     "metros": [
       "stlouis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
-  },
-  {
-    "name": "Popmenu: Search Results",
-    "slug": "popmenusearchresults",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/search"
+    ]
   },
   {
     "name": "How to create (and use) a restaurant email list",
@@ -1910,26 +1798,7 @@
     "category": "restaurant",
     "metros": [
       "stlouis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-email-list-guide"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
-  },
-  {
-    "name": "Popmenu: AI answering",
-    "slug": "popmenuaianswering",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/ai-answering"
+    ]
   },
   {
     "name": "St Louis Bistro: Home",
@@ -1966,15 +1835,6 @@
       "stlouis"
     ],
     "squareUrl": "https://flavor360.square.site/"
-  },
-  {
-    "name": "About Us",
-    "slug": "aboutus",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "squareUrl": "https://stlouisbistro.square.site/about-us"
   },
   {
     "name": "St Louis Bistro Menu",
@@ -2022,166 +1882,20 @@
     "squareUrl": "https://eatsonthestreet.square.site/"
   },
   {
-    "name": "St Louis, MO - Delivery & Takeout",
-    "slug": "stlouismo-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MO/St%20Louis"
-  },
-  {
-    "name": "Saint Louis, MO - Delivery & Takeout",
-    "slug": "saintlouismo-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MO/Saint%20Louis"
-  },
-  {
-    "name": "Soul Food in St Louis, MO - Delivery & Takeout",
-    "slug": "soulfoodinstlouismo-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MO/St%20Louis/Soul%20Food"
-  },
-  {
     "name": "El Indio Hampton - St. Louis, MO 63139 (Menu & Order Online)",
     "slug": "elindiohampton-stlouismo63139menuorderon",
     "category": "restaurant",
     "metros": [
       "stlouis"
-    ],
-    "websiteOrderUrl": "https://eltapatiostltogo.menufy.com/"
+    ]
   },
   {
     "name": "Home - Majeed Mediterranean Restaurant",
     "slug": "home-majeedmediterraneanrestaurant",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "stlouis"
-    ],
-    "websiteOrderUrl": "https://majeedmediterraneanrestaurant.menufy.com/"
-  },
-  {
-    "name": "Chinese in St Louis, MO - Delivery & Takeout",
-    "slug": "chineseinstlouismo-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MO/St%20Louis/Chinese"
-  },
-  {
-    "name": "Soup in St Louis, MO - Delivery & Takeout",
-    "slug": "soupinstlouismo-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MO/St%20Louis/Soup"
-  },
-  {
-    "name": "Pizza in St Louis, MO - Delivery & Takeout",
-    "slug": "pizzainstlouismo-deliverytakeout",
-    "category": "pizza",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MO/St%20Louis/Pizza"
-  },
-  {
-    "name": "Thai in ST LOUIS, MO - Delivery & Takeout",
-    "slug": "thaiinstlouismo-deliverytakeout",
-    "category": "thai",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MO/ST%20LOUIS/Thai"
-  },
-  {
-    "name": "Affton, MO - Delivery & Takeout",
-    "slug": "afftonmo-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MO/Affton"
-  },
-  {
-    "name": "Hibachi in St Louis, MO - Delivery & Takeout",
-    "slug": "hibachiinstlouismo-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MO/St%20Louis/Hibachi"
-  },
-  {
-    "name": "Wings in St Louis, MO - Delivery & Takeout",
-    "slug": "wingsinstlouismo-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MO/St%20Louis/Wings"
-  },
-  {
-    "name": "MO - Delivery & Takeout",
-    "slug": "mo-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MO"
-  },
-  {
-    "name": "Las Vegas, NV - Delivery & Takeout",
-    "slug": "lasvegasnv-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NV/Las%20Vegas"
-  },
-  {
-    "name": "Dessert in St Louis,, MO - Delivery & Takeout",
-    "slug": "dessertinstlouismo-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MO/St%20Louis,/Dessert"
-  },
-  {
-    "name": "Webster Groves, MO - Delivery & Takeout",
-    "slug": "webstergrovesmo-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MO/Webster%20Groves"
-  },
-  {
-    "name": "Breakfast in St Louis, MO - Delivery & Takeout",
-    "slug": "breakfastinstlouismo-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MO/St%20Louis/Breakfast"
-  },
-  {
-    "name": "Saint Charles, MO - Delivery & Takeout",
-    "slug": "saintcharlesmo-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MO/Saint%20Charles"
+    ]
   },
   {
     "name": "Central West End",
@@ -2231,7 +1945,7 @@
   {
     "name": "Slim Chickens Missouri - St. Louis (Hampton Ave.)",
     "slug": "slimchickensmissouri-stlouishamptonave",
-    "category": "restaurant",
+    "category": "chicken",
     "metros": [
       "stlouis"
     ],
@@ -2267,7 +1981,7 @@
   {
     "name": "Five Guys Creve Coeur",
     "slug": "fiveguyscrevecoeur",
-    "category": "restaurant",
+    "category": "burgers",
     "metros": [
       "stlouis"
     ],
@@ -2297,17 +2011,7 @@
     "category": "restaurant",
     "metros": [
       "stlouis"
-    ],
-    "websiteOrderUrl": "https://restaurantconsulting.olo.com/"
-  },
-  {
-    "name": "Imo's Pizza Near Me - Locations, Hours, & Menus - Slice",
-    "slug": "imospizzanearme-locationshoursmenus-slic",
-    "category": "pizza",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://slicelife.com/brands/imo-s-pizza"
+    ]
   },
   {
     "name": "GloriaFood Online Ordering: Contact - Get In Touch",
@@ -2326,15 +2030,6 @@
       "stlouis"
     ],
     "websiteOrderUrl": "https://www.gloriafood.com/mobile-app-for-clients"
-  },
-  {
-    "name": "GloriaFood Online Ordering: Testimonials",
-    "slug": "gloriafoodonlineorderingtestimonials",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://www.gloriafood.com/reviews"
   },
   {
     "name": "GloriaFood Online Ordering Software",
@@ -2391,15 +2086,6 @@
     "websiteOrderUrl": "https://www.gloriafood.com/hotel-ordering-system"
   },
   {
-    "name": "Saint Louis, MO Catering Near Me",
-    "slug": "saintlouismocateringnearme",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://www.ezcater.com/catering/mo/saint-louis"
-  },
-  {
     "name": "Collina Eatery Catering in St. Louis, MO - 2030 Macklind Ave",
     "slug": "collinaeaterycateringinstlouismo-2030mac",
     "category": "restaurant",
@@ -2434,15 +2120,6 @@
       "stlouis"
     ],
     "websiteOrderUrl": "https://www.ezcater.com/best-st-louis-caterers"
-  },
-  {
-    "name": "Lake Saint Louis, MO Catering Near Me",
-    "slug": "lakesaintlouismocateringnearme",
-    "category": "restaurant",
-    "metros": [
-      "stlouis"
-    ],
-    "websiteOrderUrl": "https://www.ezcater.com/catering/mo/lake-saint-louis"
   },
   {
     "name": "Patty Long Catering in St. Louis, MO - 412 N Euclid Ave",
@@ -2501,7 +2178,7 @@
   {
     "name": "Subway Catering in St. Louis, MO - 10443 Page Ave",
     "slug": "subwaycateringinstlouismo-10443pageave",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "stlouis"
     ],
@@ -2510,7 +2187,7 @@
   {
     "name": "The Pasta House Catering in St. Louis, MO - 8831 Ladue Rd",
     "slug": "thepastahousecateringinstlouismo-8831lad",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "stlouis"
     ],
@@ -2519,7 +2196,7 @@
   {
     "name": "City Foundry Group - Hello Poke FS 10",
     "slug": "cityfoundrygroup-hellopokefs10",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "stlouis"
     ],
@@ -2528,7 +2205,7 @@
   {
     "name": "Hawaii Poke Bowl West Lake St",
     "slug": "hawaiipokebowlwestlakest",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "stlouis"
     ],
@@ -2546,7 +2223,7 @@
   {
     "name": "Hawaii Poke Bowl - West St. Paul 1375 South Robert Street",
     "slug": "hawaiipokebowl-weststpaul1375southrobert",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "stlouis"
     ],
@@ -2555,7 +2232,7 @@
   {
     "name": "Poke Poke Streeterville",
     "slug": "pokepokestreeterville",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "stlouis"
     ],
@@ -2564,7 +2241,7 @@
   {
     "name": "Pokehana 436 W Market St",
     "slug": "pokehana436wmarketst",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "stlouis"
     ],
@@ -2573,7 +2250,7 @@
   {
     "name": "Poke Poke Loop (Palmer House)",
     "slug": "pokepokelooppalmerhouse",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "stlouis"
     ],
@@ -2582,7 +2259,7 @@
   {
     "name": "Poke OG @ 1800 143 NW 23 ST",
     "slug": "pokeog1800143nw23st",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "stlouis"
     ],
@@ -2600,7 +2277,7 @@
   {
     "name": "Field's Steak & Oyster Bar Bay St. Louis",
     "slug": "fieldssteakoysterbarbaystlouis",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "stlouis"
     ],
@@ -2807,7 +2484,7 @@
   {
     "name": "Mr. Greek of Buffalo 1122 Elmwood Ave.",
     "slug": "mrgreekofbuffalo1122elmwoodave",
-    "category": "mediterranean",
+    "category": "wings",
     "metros": [
       "stlouis"
     ],
@@ -2879,7 +2556,7 @@
   {
     "name": "Hope Breakfast Bar West End",
     "slug": "hopebreakfastbarwestend",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "stlouis"
     ],
@@ -2888,7 +2565,7 @@
   {
     "name": "Pastaria St. Louis Location and Ordering Hours",
     "slug": "pastariastlouislocationandorderinghours",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "stlouis"
     ],
@@ -2915,7 +2592,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "stlouis"
     ],
@@ -2924,7 +2601,7 @@
   {
     "name": "Radiant Juice + Smoothie Bar 702 Main St., Suite 103",
     "slug": "radiantjuicesmoothiebar702mainstsuite103",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "stlouis"
     ],
@@ -2933,7 +2610,7 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "stlouis"
     ],
@@ -2951,7 +2628,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "stlouis"
     ],
@@ -2960,7 +2637,7 @@
   {
     "name": "GoodNatured Juice and Smoothie Bar - Laconia 569 Main St",
     "slug": "goodnaturedjuiceandsmoothiebar-laconia56",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "stlouis"
     ],
@@ -2969,7 +2646,7 @@
   {
     "name": "Sol Bean Juice Bar and Kitchen 221 S Main St",
     "slug": "solbeanjuicebarandkitchen221smainst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "stlouis"
     ],
@@ -2978,7 +2655,7 @@
   {
     "name": "Juice Crafters Downtown LA",
     "slug": "juicecraftersdowntownla",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "stlouis"
     ],

@@ -42,7 +42,7 @@
   {
     "name": "The Capital Grille",
     "slug": "thecapitalgrille",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "pittsburgh"
     ]
@@ -66,7 +66,7 @@
   {
     "name": "Monterey Bay Fish Grotto",
     "slug": "montereybayfishgrotto",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "pittsburgh"
     ]
@@ -106,7 +106,7 @@
   {
     "name": "The Church Brew Works",
     "slug": "thechurchbrewworks",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "pittsburgh"
     ]
@@ -170,7 +170,7 @@
   {
     "name": "Roland's Seafood Grill",
     "slug": "rolandsseafoodgrill",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "pittsburgh"
     ]
@@ -370,7 +370,7 @@
   {
     "name": "Café Momentum Pittsburgh",
     "slug": "cafmomentumpittsburgh",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "pittsburgh"
     ]
@@ -387,7 +387,7 @@
   {
     "name": "Ephesus Mediterranean Restaurant Pittsburgh",
     "slug": "ephesusmediterraneanrestaurantpittsburgh",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "pittsburgh"
     ],
@@ -405,20 +405,11 @@
   {
     "name": "Southern Tier Pittsburgh",
     "slug": "southerntierpittsburgh",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "pittsburgh"
     ],
     "toastUrl": "https://order.toasttab.com/online/stbcpgh"
-  },
-  {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "pittsburgh"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/tana-ethiopian-cuisine-5929-baum-blvd"
   },
   {
     "name": "Community Kitchen Pittsburgh",
@@ -450,7 +441,7 @@
   {
     "name": "Sly Fox Taphouse Downtown Pittsburgh",
     "slug": "slyfoxtaphousedowntownpittsburgh",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "pittsburgh"
     ],
@@ -711,7 +702,7 @@
   {
     "name": "TERIYAKI BOX Lawrenceville",
     "slug": "teriyakiboxlawrenceville",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "pittsburgh"
     ],
@@ -729,7 +720,7 @@
   {
     "name": "1430 five forks trickum rd, lawrenceville, ga",
     "slug": "1430fiveforkstrickumrdlawrencevillega",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "pittsburgh"
     ],
@@ -837,7 +828,7 @@
   {
     "name": "Chicken District - The Insider Food Hall",
     "slug": "chickendistrict-theinsiderfoodhall",
-    "category": "restaurant",
+    "category": "chicken",
     "metros": [
       "pittsburgh"
     ],
@@ -882,7 +873,7 @@
   {
     "name": "Doce Taqueria",
     "slug": "docetaqueria",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "pittsburgh"
     ],
@@ -909,7 +900,7 @@
   {
     "name": "Tinker Latin Food Restaurant 502 South Main Street",
     "slug": "tinkerlatinfoodrestaurant502southmainstr",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "pittsburgh"
     ],
@@ -927,7 +918,7 @@
   {
     "name": "Medusa Greek Street Food South Orange, NJ",
     "slug": "medusagreekstreetfoodsouthorangenj",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "pittsburgh"
     ],
@@ -981,7 +972,7 @@
   {
     "name": "Uh oh... Something went wrong",
     "slug": "uhohsomethingwentwrong",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "pittsburgh"
     ],
@@ -990,7 +981,7 @@
   {
     "name": "Bubble Bee - Shadyside 4815 Centre Avenue Unit 3",
     "slug": "bubblebee-shadyside4815centreavenueunit3",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "pittsburgh"
     ],
@@ -1008,7 +999,7 @@
   {
     "name": "Cuban Kitchen, home of the Best Cubano",
     "slug": "cubankitchenhomeofthebestcubano",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "pittsburgh"
     ],
@@ -1017,7 +1008,7 @@
   {
     "name": "Order Online – Delivery & Pick-Up",
     "slug": "orderonlinedeliverypick-up",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "pittsburgh"
     ],
@@ -1035,7 +1026,7 @@
   {
     "name": "Baracoa Cuban Restaurant",
     "slug": "baracoacubanrestaurant",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "pittsburgh"
     ],
@@ -1044,7 +1035,7 @@
   {
     "name": "Paladar Cuban Eatery",
     "slug": "paladarcubaneatery",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "pittsburgh"
     ],
@@ -1053,7 +1044,7 @@
   {
     "name": "Santiago's Cuban Cuisine Location and Ordering Hours",
     "slug": "santiagoscubancuisinelocationandordering",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "pittsburgh"
     ],
@@ -1062,7 +1053,7 @@
   {
     "name": "Cuban Paradise Cigar & Café",
     "slug": "cubanparadisecigarcaf",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "pittsburgh"
     ],
@@ -1071,7 +1062,7 @@
   {
     "name": "Padrino's Cuban Restaurant Fort Lauderdale",
     "slug": "padrinoscubanrestaurantfortlauderdale",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "pittsburgh"
     ],
@@ -1080,7 +1071,7 @@
   {
     "name": "Gustazo Cuban Kitchen & Bar - Cambridge",
     "slug": "gustazocubankitchenbar-cambridge",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "pittsburgh"
     ],
@@ -1089,7 +1080,7 @@
   {
     "name": "Cajun Corner - Uptown 23rd St",
     "slug": "cajuncorner-uptown23rdst",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "pittsburgh"
     ],
@@ -1107,7 +1098,7 @@
   {
     "name": "The Cajun Spot 17731 Fairgrove Park Dr",
     "slug": "thecajunspot17731fairgroveparkdr",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "pittsburgh"
     ],
@@ -1116,7 +1107,7 @@
   {
     "name": "Crawdaddys Cajun 13 Tomlinson Mill Rd",
     "slug": "crawdaddyscajun13tomlinsonmillrd",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "pittsburgh"
     ],
@@ -1125,7 +1116,7 @@
   {
     "name": "Ya Better Eat Cajun Smokehouse 711 2nd Avenue North",
     "slug": "yabettereatcajunsmokehouse7112ndavenueno",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "pittsburgh"
     ],
@@ -1143,7 +1134,7 @@
   {
     "name": "Rockin Cajun Carson",
     "slug": "rockincajuncarson",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "pittsburgh"
     ],
@@ -1152,7 +1143,7 @@
   {
     "name": "nola cajun kitchen shrewsbury",
     "slug": "nolacajunkitchenshrewsbury",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "pittsburgh"
     ],
@@ -1170,7 +1161,7 @@
   {
     "name": "Cajun Corner - NW Expressway",
     "slug": "cajuncorner-nwexpressway",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "pittsburgh"
     ],
@@ -1179,7 +1170,7 @@
   {
     "name": "nola cajun kitchen west boylston",
     "slug": "nolacajunkitchenwestboylston",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "pittsburgh"
     ],
@@ -1188,7 +1179,7 @@
   {
     "name": "Crazy Cajun",
     "slug": "crazycajun",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "pittsburgh"
     ],
@@ -1197,7 +1188,7 @@
   {
     "name": "NOLA CAJUN KITCHEN",
     "slug": "nolacajunkitchen",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "pittsburgh"
     ],
@@ -1206,7 +1197,7 @@
   {
     "name": "Cajun Queen",
     "slug": "cajunqueen",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "pittsburgh"
     ],
@@ -1323,7 +1314,7 @@
   {
     "name": "Mo's Seafood & Chowder Seaside",
     "slug": "mosseafoodchowderseaside",
-    "category": "seafood",
+    "category": "chinese",
     "metros": [
       "pittsburgh"
     ],
@@ -1528,58 +1519,12 @@
     "toastUrl": "https://order.toasttab.com/online/indianfoodandspices"
   },
   {
-    "name": "11 of the best restaurant menu designs to inspire you",
-    "slug": "11ofthebestrestaurantmenudesignstoinspir",
-    "category": "restaurant",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-menu-designs"
-  },
-  {
-    "name": "Popmenu: Case Study - Cliff View",
-    "slug": "popmenucasestudy-cliffview",
-    "category": "restaurant",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/cliff-view"
-  },
-  {
-    "name": "5 menu design Ideas for digital-first restaurants",
-    "slug": "5menudesignideasfordigital-firstrestaura",
-    "category": "restaurant",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
-  },
-  {
-    "name": "Popmenu: Case Study - Locals Pub & Pizzeria",
-    "slug": "popmenucasestudy-localspubpizzeria",
-    "category": "restaurant",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/improving-margins/locals-pub-pizzeria"
-  },
-  {
-    "name": "Popmenu: Case Study - Poppy's Pizza & Grill",
-    "slug": "popmenucasestudy-poppyspizzagrill",
-    "category": "pizza",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/simplified-technology/poppys-pizza-grill"
-  },
-  {
     "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
     "slug": "restaurantmenuideas9ofthebestmenustoinsp",
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
+    ]
   },
   {
     "name": "Join the group text: Text message marketing for restaurants",
@@ -1587,80 +1532,7 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/text-message-marketing-for-restaurants"
-  },
-  {
-    "name": "Popmenu: Case Study - Dos Salsas",
-    "slug": "popmenucasestudy-dossalsas",
-    "category": "restaurant",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
-  },
-  {
-    "name": "Popmenu: Case Study - The Deck",
-    "slug": "popmenucasestudy-thedeck",
-    "category": "restaurant",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/the-deck"
-  },
-  {
-    "name": "Popmenu: OrderNerd powered by Popmenu",
-    "slug": "popmenuordernerdpoweredbypopmenu",
-    "category": "restaurant",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/ordernerd"
-  },
-  {
-    "name": "Popmenu: Client Testimonials & Reviews",
-    "slug": "popmenuclienttestimonialsreviews",
-    "category": "restaurant",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-testimonials-reviews"
-  },
-  {
-    "name": "Popmenu: Press Releases",
-    "slug": "popmenupressreleases",
-    "category": "restaurant",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/press-releases"
-  },
-  {
-    "name": "Popmenu: Careers",
-    "slug": "popmenucareers",
-    "category": "restaurant",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/careers"
-  },
-  {
-    "name": "Popmenu: Case Study - Taqueria Picoso",
-    "slug": "popmenucasestudy-taqueriapicoso",
-    "category": "restaurant",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/more-guests-larger-orders/taqueria-picoso"
-  },
-  {
-    "name": "Popmenu: Case Study - Kapow! Noodle Bar",
-    "slug": "popmenucasestudy-kapownoodlebar",
-    "category": "restaurant",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/kapow-noodle-bar"
+    ]
   },
   {
     "name": "Why every restaurant needs an interactive menu",
@@ -1668,22 +1540,12 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/every-restaurant-needs-interactive-menu"
-  },
-  {
-    "name": "Popmenu: Case Study - The Hampton Social",
-    "slug": "popmenucasestudy-thehamptonsocial",
-    "category": "restaurant",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/improving-margins/the-hampton-social"
+    ]
   },
   {
     "name": "Nurture Pittsburgh, A Food Delivery Service",
     "slug": "nurturepittsburghafooddeliveryservice",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "pittsburgh"
     ],
@@ -1692,7 +1554,7 @@
   {
     "name": "Italian Restaurant",
     "slug": "italianrestaurant",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "pittsburgh"
     ],
@@ -1710,7 +1572,7 @@
   {
     "name": "Smoke and Blessings Catering Pittsburgh",
     "slug": "smokeandblessingscateringpittsburgh",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "pittsburgh"
     ],
@@ -1728,7 +1590,7 @@
   {
     "name": "Pittsburgh Sandwich Society: Home",
     "slug": "pittsburghsandwichsocietyhome",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "pittsburgh"
     ],
@@ -1773,7 +1635,7 @@
   {
     "name": "Real Big Fish Sandwich",
     "slug": "realbigfishsandwich",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "pittsburgh"
     ],
@@ -1789,27 +1651,17 @@
     "squareUrl": "https://ruckus-business-catering.square.site/"
   },
   {
-    "name": "PITTSBURGH, PA - Delivery & Takeout",
-    "slug": "pittsburghpa-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/PA/PITTSBURGH"
-  },
-  {
     "name": "HOME - Red Tea House",
     "slug": "home-redteahouse",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://redteahouse.menufy.com/"
+    ]
   },
   {
     "name": "Red Tea House - Pittsburgh, PA 15220 (Menu & Order Online)",
     "slug": "redteahouse-pittsburghpa15220menuorderon",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "pittsburgh"
     ],
@@ -1821,8 +1673,7 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://theurbantapsouthside.menufy.com/"
+    ]
   },
   {
     "name": "Pizza Italia - Pittsburgh, PA 15224 (Menu & Order Online)",
@@ -1839,8 +1690,7 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://fabledtable.menufy.com/"
+    ]
   },
   {
     "name": "Home - Dijlah Restaurant & Cafe",
@@ -1848,17 +1698,7 @@
     "category": "cafe",
     "metros": [
       "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://dijlahrestaurantcafe.menufy.com/"
-  },
-  {
-    "name": "Restaurants - Delivery & Takeout",
-    "slug": "restaurants-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://flavorsfamousstreetfood.menufy.com/"
+    ]
   },
   {
     "name": "NORTH SHORE CAFE - PITTSBURGH, PA 15233 (Menu ...",
@@ -1866,13 +1706,12 @@
     "category": "cafe",
     "metros": [
       "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://northshorecafe.menufy.com/"
+    ]
   },
   {
     "name": "GALLERY - Red Tea House",
     "slug": "gallery-redteahouse",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "pittsburgh"
     ],
@@ -1884,8 +1723,7 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://severina.menufy.com/"
+    ]
   },
   {
     "name": "SAUSALIDO - Pittsburgh, PA 152241922 (Menu & Order Online)",
@@ -1893,8 +1731,7 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://sausalido.menufy.com/"
+    ]
   },
   {
     "name": "Home - THE SPOT",
@@ -1902,8 +1739,7 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://thespot.menufy.com/"
+    ]
   },
   {
     "name": "Online Ordering and Restaurant Marketing System",
@@ -1911,8 +1747,7 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/"
+    ]
   },
   {
     "name": "Owner Product Updates and Releases",
@@ -1929,17 +1764,7 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://compare.owner.com/"
-  },
-  {
-    "name": "No Commission Delivery for Restaurants",
-    "slug": "nocommissiondeliveryforrestaurants",
-    "category": "restaurant",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/delivery"
+    ]
   },
   {
     "name": "Online Catering System",
@@ -1958,15 +1783,6 @@
       "pittsburgh"
     ],
     "websiteOrderUrl": "https://www.owner.com/support"
-  },
-  {
-    "name": "Pricing",
-    "slug": "pricing",
-    "category": "restaurant",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/pricing"
   },
   {
     "name": "Online Ordering System Checklist Download",
@@ -2064,17 +1880,15 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/blog"
+    ]
   },
   {
     "name": "Pita Jungle",
     "slug": "pitajungle",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://pitajungle.olo.com/"
+    ]
   },
   {
     "name": "Olo",
@@ -2091,8 +1905,7 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://familyexpress.olo.com/"
+    ]
   },
   {
     "name": "Norms",
@@ -2100,8 +1913,7 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://norms.olo.com/"
+    ]
   },
   {
     "name": "Olo - Restaurant Technology & Digital Ordering Platform",
@@ -2109,8 +1921,7 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://www.olo.com/"
+    ]
   },
   {
     "name": "Norms Pico Rivera",
@@ -2142,11 +1953,10 @@
   {
     "name": "Pita Jungle Catering",
     "slug": "pitajunglecatering",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://pitajunglecatering.olo.com/"
+    ]
   },
   {
     "name": "Lowell South",
@@ -2163,8 +1973,7 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://modernmarket.olo.com/"
+    ]
   },
   {
     "name": "Chesterton",
@@ -2196,7 +2005,7 @@
   {
     "name": "ᐅ Best Local Sandwiches in Pittsburgh, Pennsylvania",
     "slug": "bestlocalsandwichesinpittsburghpennsylva",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "pittsburgh"
     ],
@@ -2302,15 +2111,6 @@
     "websiteOrderUrl": "https://www.gloriafood.com/wordpress-restaurant-plugin"
   },
   {
-    "name": "Pittsburgh, PA Catering Near Me",
-    "slug": "pittsburghpacateringnearme",
-    "category": "restaurant",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://www.ezcater.com/catering/PA/PITTSBURGH"
-  },
-  {
     "name": "Turkish Grille Catering in Pittsburgh, PA - 272 Melwood Ave",
     "slug": "turkishgrillecateringinpittsburghpa-272m",
     "category": "restaurant",
@@ -2340,7 +2140,7 @@
   {
     "name": "Subway Catering in Pittsburgh, PA - 418 S Craig St",
     "slug": "subwaycateringinpittsburghpa-418scraigst",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "pittsburgh"
     ],
@@ -2358,7 +2158,7 @@
   {
     "name": "Subway Catering in Pittsburgh, PA - 971 Ohio River Blvd",
     "slug": "subwaycateringinpittsburghpa-971ohiorive",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "pittsburgh"
     ],
@@ -2367,7 +2167,7 @@
   {
     "name": "BJ's Restaurant & Brewhouse Catering Pittsburgh",
     "slug": "bjsrestaurantbrewhousecateringpittsburgh",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "pittsburgh"
     ],
@@ -2376,7 +2176,7 @@
   {
     "name": "Subway Catering in Pittsburgh, PA - 809 W View Park Dr",
     "slug": "subwaycateringinpittsburghpa-809wviewpar",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "pittsburgh"
     ],
@@ -2412,7 +2212,7 @@
   {
     "name": "Poke Poke Loop (Palmer House)",
     "slug": "pokepokelooppalmerhouse",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "pittsburgh"
     ],
@@ -2421,7 +2221,7 @@
   {
     "name": "Fresh Catch Poke Co. - Hertel Ave.",
     "slug": "freshcatchpokeco-hertelave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "pittsburgh"
     ],
@@ -2430,7 +2230,7 @@
   {
     "name": "Poke OG - Downtown POKE OG DOWNTOWN",
     "slug": "pokeog-downtownpokeogdowntown",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "pittsburgh"
     ],
@@ -2439,7 +2239,7 @@
   {
     "name": "Poke Burri - Philadelphia",
     "slug": "pokeburri-philadelphia",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "pittsburgh"
     ],
@@ -2448,7 +2248,7 @@
   {
     "name": "Poke Burri 3231 powelton ave",
     "slug": "pokeburri3231poweltonave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "pittsburgh"
     ],
@@ -2457,7 +2257,7 @@
   {
     "name": "Seaside Poke Understory",
     "slug": "seasidepokeunderstory",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "pittsburgh"
     ],
@@ -2466,7 +2266,7 @@
   {
     "name": "Ono Poke Downtown",
     "slug": "onopokedowntown",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "pittsburgh"
     ],
@@ -2475,7 +2275,7 @@
   {
     "name": "Poke Poke West Loop",
     "slug": "pokepokewestloop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "pittsburgh"
     ],
@@ -2484,7 +2284,7 @@
   {
     "name": "Poke Row 2735 NW Crossing Dr #105",
     "slug": "pokerow2735nwcrossingdr105",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "pittsburgh"
     ],
@@ -2493,7 +2293,7 @@
   {
     "name": "Poke Dot 17921 MacArthur Blvd",
     "slug": "pokedot17921macarthurblvd",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "pittsburgh"
     ],
@@ -2520,7 +2320,7 @@
   {
     "name": "Manoa Poke Shop",
     "slug": "manoapokeshop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "pittsburgh"
     ],
@@ -2529,7 +2329,7 @@
   {
     "name": "Poke Bunny 100 East Gay Street, Unit 1",
     "slug": "pokebunny100eastgaystreetunit1",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "pittsburgh"
     ],
@@ -2538,7 +2338,7 @@
   {
     "name": "The Ono Poke - Summit 325 Summit Boulevard",
     "slug": "theonopoke-summit325summitboulevard",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "pittsburgh"
     ],
@@ -2592,7 +2392,7 @@
   {
     "name": "The Greek Pizzeria -----3400 Clairmont Rd",
     "slug": "thegreekpizzeria-----3400clairmontrd",
-    "category": "mediterranean",
+    "category": "pizza",
     "metros": [
       "pittsburgh"
     ],
@@ -2628,7 +2428,7 @@
   {
     "name": "Mr. Greek of Buffalo 1122 Elmwood Ave.",
     "slug": "mrgreekofbuffalo1122elmwoodave",
-    "category": "mediterranean",
+    "category": "wings",
     "metros": [
       "pittsburgh"
     ],
@@ -2745,7 +2545,7 @@
   {
     "name": "The Breakfast Spot",
     "slug": "thebreakfastspot",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "pittsburgh"
     ],
@@ -2763,7 +2563,7 @@
   {
     "name": "Prelude Breakfast Bar - Rogers",
     "slug": "preludebreakfastbar-rogers",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "pittsburgh"
     ],
@@ -2772,7 +2572,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "pittsburgh"
     ],
@@ -2781,7 +2581,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "pittsburgh"
     ],
@@ -2790,7 +2590,7 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "pittsburgh"
     ],
@@ -2799,7 +2599,7 @@
   {
     "name": "Nourish Organic Juice",
     "slug": "nourishorganicjuice",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "pittsburgh"
     ],
@@ -2817,7 +2617,7 @@
   {
     "name": "Juice It - 13th Ave S",
     "slug": "juiceit-13thaves",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "pittsburgh"
     ],
@@ -2826,7 +2626,7 @@
   {
     "name": "Pressed Juice Bar 19550 Grand River Avenue",
     "slug": "pressedjuicebar19550grandriveravenue",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "pittsburgh"
     ],
@@ -2844,7 +2644,7 @@
   {
     "name": "Base Smoothies + Juice Frisco Frisco",
     "slug": "basesmoothiesjuicefriscofrisco",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "pittsburgh"
     ],
@@ -2853,7 +2653,7 @@
   {
     "name": "Very Juice - Avenue P 422 Avenue P",
     "slug": "veryjuice-avenuep422avenuep",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "pittsburgh"
     ],
@@ -2862,7 +2662,7 @@
   {
     "name": "Grateful Juice Bar",
     "slug": "gratefuljuicebar",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "pittsburgh"
     ],
@@ -2871,7 +2671,7 @@
   {
     "name": "Fresco Juice Co. downtown Billings",
     "slug": "frescojuicecodowntownbillings",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "pittsburgh"
     ],
@@ -2887,15 +2687,6 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/590/locations/796"
   },
   {
-    "name": "Online Ordering for The Pizza Joint - Evans",
-    "slug": "onlineorderingforthepizzajoint-evans",
-    "category": "pizza",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5378/locations/7043"
-  },
-  {
     "name": "Online Food Ordering System & App",
     "slug": "onlinefoodorderingsystemapp",
     "category": "restaurant",
@@ -2903,42 +2694,6 @@
       "pittsburgh"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/590/locations"
-  },
-  {
-    "name": "Online Ordering for Planet Pizza - Westport",
-    "slug": "onlineorderingforplanetpizza-westport",
-    "category": "pizza",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/4628/locations/6000"
-  },
-  {
-    "name": "Online Ordering for PR Pizza LLC",
-    "slug": "onlineorderingforprpizzallc",
-    "category": "pizza",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/1984/locations/2606"
-  },
-  {
-    "name": "Online Ordering for Restaurants with No Commissions",
-    "slug": "onlineorderingforrestaurantswithnocommis",
-    "category": "restaurant",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5276/locations"
-  },
-  {
-    "name": "Online Ordering for Pizza Paul's",
-    "slug": "onlineorderingforpizzapauls",
-    "category": "pizza",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/10448/locations"
   },
   {
     "name": "Colvitto's Pizza & Bakery Menu",
@@ -2950,33 +2705,6 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/632/locations"
   },
   {
-    "name": "Online Ordering for Pizza Johny's",
-    "slug": "onlineorderingforpizzajohnys",
-    "category": "pizza",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/11568/locations"
-  },
-  {
-    "name": "Online Ordering for Flying Saucer Pizza Company - Salem",
-    "slug": "onlineorderingforflyingsaucerpizzacompan",
-    "category": "pizza",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/340/locations/448"
-  },
-  {
-    "name": "Online Ordering for Fire Slice Pizzeria",
-    "slug": "onlineorderingforfireslicepizzeria",
-    "category": "restaurant",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/2796/locations/3656"
-  },
-  {
     "name": "Online Ordering",
     "slug": "onlineordering",
     "category": "restaurant",
@@ -2984,14 +2712,5 @@
       "pittsburgh"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/16292/locations"
-  },
-  {
-    "name": "Online Ordering for NY Pizza Palace",
-    "slug": "onlineorderingfornypizzapalace",
-    "category": "pizza",
-    "metros": [
-      "pittsburgh"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/12681/locations"
   }
 ]

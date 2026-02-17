@@ -19,8 +19,7 @@
     ],
     "address": "279 Dartmouth St",
     "placeId": "ChIJX531iwt644kRaJ9LqHM3rRk",
-    "website": "http://www.saltiegirl.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "http://www.saltiegirl.com/"
   },
   {
     "name": "Beehive Restaurant",
@@ -42,8 +41,7 @@
     ],
     "address": "3 N Square #1",
     "placeId": "ChIJVbrdD4lw44kRdZLKJo0e02o",
-    "website": "http://www.mammamaria.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "http://www.mammamaria.com/"
   },
   {
     "name": "Grill 23 & Bar",
@@ -66,8 +64,7 @@
     ],
     "address": "450 Summer St",
     "placeId": "ChIJ3Qi-6hJ744kRWJDoZFSms6U",
-    "website": "https://www.coquetteboston.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "https://www.coquetteboston.com/"
   },
   {
     "name": "Atlantic Fish Company",
@@ -90,8 +87,7 @@
     ],
     "address": "80 Atlantic Ave",
     "placeId": "ChIJKz7ENohw44kR-Aq6LJoK9Sg",
-    "website": "https://www.thebostonsailloft.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "https://www.thebostonsailloft.com/"
   },
   {
     "name": "Legal Sea Foods - Harborside",
@@ -136,8 +132,7 @@
     ],
     "address": "40 Court St",
     "placeId": "ChIJUxHf-oRw44kRbwK0pAYkV94",
-    "website": "https://www.theoceanaire.com/location/boston-ma/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "https://www.theoceanaire.com/location/boston-ma/"
   },
   {
     "name": "Chart House",
@@ -148,8 +143,7 @@
     ],
     "address": "60 Long Wharf",
     "placeId": "ChIJ6QwfVH1w44kRKLxCXvk2XsY",
-    "website": "https://www.chart-house.com/location/chart-house-boston-ma/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "https://www.chart-house.com/location/chart-house-boston-ma/"
   },
   {
     "name": "Union Oyster House",
@@ -165,14 +159,13 @@
   {
     "name": "STK Steakhouse",
     "slug": "stksteakhouse",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "boston"
     ],
     "address": "222 Berkeley St",
     "placeId": "ChIJaeUD4cd744kRazL4bmbMAgk",
-    "website": "https://stksteakhouse.com/venues/boston/",
-    "websiteOrderUrl": "https://stksteakhouse.olo.com/"
+    "website": "https://stksteakhouse.com/venues/boston/"
   },
   {
     "name": "Wusong Tiki Bar",
@@ -298,8 +291,7 @@
     ],
     "address": "346 Hanover St",
     "placeId": "ChIJMx_bcYlw44kRpCQWPuurowA",
-    "website": "http://www.cantinaitaliana.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "http://www.cantinaitaliana.com/"
   },
   {
     "name": "Caroline",
@@ -321,8 +313,7 @@
     ],
     "address": "1011 S Congress Ave Suite 170",
     "placeId": "ChIJrWlIEea1RIYRdLjavaYqIdM",
-    "website": "https://www.twohandshospitality.com/location/austin/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "https://www.twohandshospitality.com/location/austin/"
   },
   {
     "name": "Corinne Austin",
@@ -392,26 +383,6 @@
     "placeId": "ChIJuysRHR1644kRRkXMVhlbbu4",
     "website": "http://www.lorettaslastcall.com/",
     "websiteOrderUrl": "https://order.online/store/loretta"
-  },
-  {
-    "name": "MIDA",
-    "slug": "mida",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "placeId": "ChIJrSFKORR644kR7Rnj3V5W4cE",
-    "website": "https://www.midarestaurant.com/"
-  },
-  {
-    "name": "SRV",
-    "slug": "srv",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "placeId": "ChIJpSjEwhZ644kRUk-NlLAlxmk",
-    "website": "http://www.srvboston.com/"
   },
   {
     "name": "South End Buttery",
@@ -494,8 +465,7 @@
       "boston"
     ],
     "placeId": "ChIJ7YVnn8h544kRfiv1BvK0xAA",
-    "website": "https://www.hopewellboston.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/osaka/76c49d2.osaka/assets/js/head.min.js"
+    "website": "https://www.hopewellboston.com/"
   },
   {
     "name": "The Stockyard Restaurant",
@@ -550,7 +520,7 @@
   {
     "name": "Seoul Soulongtang",
     "slug": "seoulsoulongtang",
-    "category": "southern",
+    "category": "restaurant",
     "metros": [
       "boston"
     ],
@@ -649,17 +619,6 @@
     ],
     "placeId": "ChIJ3RjowFB744kRCF-FoQERwn4",
     "website": "http://yunnankitchensouthend.com/"
-  },
-  {
-    "name": "RUKA",
-    "slug": "ruka",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "placeId": "ChIJ6yS40oJw44kRuI5-v3is2yg",
-    "website": "http://www.rukarestobar.com/",
-    "websiteOrderUrl": "https://order.online/store/ruka-boston-28075467"
   },
   {
     "name": "KChickin (Korean, Sushi, Hand roll and Japanese Cuisine)",
@@ -768,7 +727,7 @@
   {
     "name": "Petit Robert Bistro",
     "slug": "petitrobertbistro",
-    "category": "french",
+    "category": "restaurant",
     "metros": [
       "boston"
     ],
@@ -928,15 +887,6 @@
     ]
   },
   {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/thebostonrestaurant"
-  },
-  {
     "name": "Causeway Restaurant & Bar - Order Online",
     "slug": "causewayrestaurantbar-orderonline",
     "category": "restaurant",
@@ -951,8 +901,7 @@
     "category": "restaurant",
     "metros": [
       "boston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-online-ordering-system"
+    ]
   },
   {
     "name": "Why every restaurant needs an interactive menu",
@@ -960,35 +909,7 @@
     "category": "restaurant",
     "metros": [
       "boston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/every-restaurant-needs-interactive-menu"
-  },
-  {
-    "name": "Key Strategies To Growing Your Restaurant In A Competitive Market",
-    "slug": "keystrategiestogrowingyourrestaurantinac",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/key-strategies-to-growing-your-restaurant-in-a-competitive-market"
-  },
-  {
-    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
-    "slug": "popmenutoolkittherestaurantgrowthplayboo",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
-  },
-  {
-    "name": "Tech the Halls with Popmenu",
-    "slug": "techthehallswithpopmenu",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/tech-the-halls-reach-more-guests"
+    ]
   },
   {
     "name": "4 tech-focused tips to fight rising restaurant costs",
@@ -996,17 +917,7 @@
     "category": "restaurant",
     "metros": [
       "boston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs"
-  },
-  {
-    "name": "Popmenu: Case Study - Phat Eatery",
-    "slug": "popmenucasestudy-phateatery",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/phat-eatery"
+    ]
   },
   {
     "name": "Online Food Ordering System & App",
@@ -1018,49 +929,12 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/2398/locations/3175"
   },
   {
-    "name": "Online ordering competitors every restaurant should know",
-    "slug": "onlineorderingcompetitorseveryrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know"
-  },
-  {
-    "name": "6 Best Popmenu Competitors to Consider (Pros & Cons)",
-    "slug": "6bestpopmenucompetitorstoconsiderproscon",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
-  },
-  {
     "name": "How to set up online food ordering in an afternoon",
     "slug": "howtosetuponlinefoodorderinginanafternoo",
     "category": "restaurant",
     "metros": [
       "boston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
-  },
-  {
-    "name": "Popmenu: Case Study - The Hampton Social",
-    "slug": "popmenucasestudy-thehamptonsocial",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/improving-margins/the-hampton-social"
+    ]
   },
   {
     "name": "The Boston Restaurant 100 NE Central Ave",
@@ -1119,7 +993,7 @@
   {
     "name": "Dragon Bowl Chinese Cuisine Boston",
     "slug": "dragonbowlchinesecuisineboston",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "boston"
     ],
@@ -1236,7 +1110,7 @@
   {
     "name": "Little Steve's Pizzeria Boston",
     "slug": "littlestevespizzeriaboston",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "boston"
     ],
@@ -1288,15 +1162,6 @@
     "toastUrl": "https://order.toasttab.com/online/union-park-pizza"
   },
   {
-    "name": "Online Ordering for No Name Restaurant - Boston",
-    "slug": "onlineorderingfornonamerestaurant-boston",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5369/locations/7031"
-  },
-  {
     "name": "Cambridge Common 1667 Massachusetts Avenue",
     "slug": "cambridgecommon1667massachusettsavenue",
     "category": "restaurant",
@@ -1344,7 +1209,7 @@
   {
     "name": "Gustazo Cuban Kitchen & Bar - Cambridge",
     "slug": "gustazocubankitchenbar-cambridge",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "boston"
     ],
@@ -1549,24 +1414,6 @@
     "toastUrl": "https://order.toasttab.com/online/2nd-street-cafe-89-2nd-street"
   },
   {
-    "name": "Online Ordering for Restaurants with No Commissions",
-    "slug": "onlineorderingforrestaurantswithnocommis",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/2595/locations"
-  },
-  {
-    "name": "Online Ordering for Rolling Harvest Food Truck",
-    "slug": "onlineorderingforrollingharvestfoodtruck",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/4462/locations/5795"
-  },
-  {
     "name": "Online Ordering",
     "slug": "onlineordering",
     "category": "restaurant",
@@ -1574,24 +1421,6 @@
       "boston"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/9796/locations"
-  },
-  {
-    "name": "Online Ordering for Little Fatty",
-    "slug": "onlineorderingforlittlefatty",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/1963/locations"
-  },
-  {
-    "name": "Online Ordering for Polpettina",
-    "slug": "onlineorderingforpolpettina",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/778/locations"
   },
   {
     "name": "The Pub 682 Broadway.Somerville,Ma.02144",
@@ -1614,7 +1443,7 @@
   {
     "name": "American Flatbread Somerville",
     "slug": "americanflatbreadsomerville",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "boston"
     ],
@@ -1632,7 +1461,7 @@
   {
     "name": "Grainmaker Somerville",
     "slug": "grainmakersomerville",
-    "category": "restaurant",
+    "category": "healthy",
     "metros": [
       "boston"
     ],
@@ -1641,7 +1470,7 @@
   {
     "name": "Checkout",
     "slug": "checkout",
-    "category": "restaurant",
+    "category": "burgers",
     "metros": [
       "boston"
     ],
@@ -1677,7 +1506,7 @@
   {
     "name": "Picante Taqueria Somerville (Union Square) 253 ...",
     "slug": "picantetaqueriasomervilleunionsquare253",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "boston"
     ],
@@ -1713,7 +1542,7 @@
   {
     "name": "Cooper Bluff Oyster Bay Harbor Food Truck 5 Bay Avenue",
     "slug": "cooperbluffoysterbayharborfoodtruck5baya",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "boston"
     ],
@@ -1731,7 +1560,7 @@
   {
     "name": "The Crab Bay",
     "slug": "thecrabbay",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "boston"
     ],
@@ -2028,7 +1857,7 @@
   {
     "name": "Machu Chicken Somerville",
     "slug": "machuchickensomerville",
-    "category": "restaurant",
+    "category": "chicken",
     "metros": [
       "boston"
     ],
@@ -2163,7 +1992,7 @@
   {
     "name": "Orinoco: A Latin Kitchen Brookline",
     "slug": "orinocoalatinkitchenbrookline",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "boston"
     ],
@@ -2190,7 +2019,7 @@
   {
     "name": "Mediterranean Grill & Pizzeria Attleboro",
     "slug": "mediterraneangrillpizzeriaattleboro",
-    "category": "mediterranean",
+    "category": "pizza",
     "metros": [
       "boston"
     ],
@@ -2334,7 +2163,7 @@
   {
     "name": "Vegan On The Fly Midtown",
     "slug": "veganontheflymidtown",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "boston"
     ],
@@ -2343,7 +2172,7 @@
   {
     "name": "Cleveland Vegan 17112 Detroit Ave",
     "slug": "clevelandvegan17112detroitave",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "boston"
     ],
@@ -2352,7 +2181,7 @@
   {
     "name": "Cabo Vegan Restaurant & Market",
     "slug": "caboveganrestaurantmarket",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "boston"
     ],
@@ -2361,7 +2190,7 @@
   {
     "name": "Order Online – Delivery & Pick-Up",
     "slug": "orderonlinedeliverypick-up",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "boston"
     ],
@@ -2370,7 +2199,7 @@
   {
     "name": "Cachita Cuban Cuisine 1116 normandy dr",
     "slug": "cachitacubancuisine1116normandydr",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "boston"
     ],
@@ -2379,7 +2208,7 @@
   {
     "name": "Cuban Kitchen, home of the Best Cubano",
     "slug": "cubankitchenhomeofthebestcubano",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "boston"
     ],
@@ -2388,7 +2217,7 @@
   {
     "name": "Cuban Pete's",
     "slug": "cubanpetes",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "boston"
     ],
@@ -2397,7 +2226,7 @@
   {
     "name": "Baracoa Cuban Restaurant",
     "slug": "baracoacubanrestaurant",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "boston"
     ],
@@ -2415,7 +2244,7 @@
   {
     "name": "Paladar Cuban Eatery",
     "slug": "paladarcubaneatery",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "boston"
     ],
@@ -2424,7 +2253,7 @@
   {
     "name": "Cuban Paradise Cigar & Café",
     "slug": "cubanparadisecigarcaf",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "boston"
     ],
@@ -2487,7 +2316,7 @@
   {
     "name": "Castle Island Brewing Company South Boston",
     "slug": "castleislandbrewingcompanysouthboston",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "boston"
     ],
@@ -2505,7 +2334,7 @@
   {
     "name": "Row 34 383 Congress Street – Order pickup and delivery",
     "slug": "row34383congressstreetorderpickupanddeli",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "boston"
     ],
@@ -2523,218 +2352,10 @@
   {
     "name": "Boston Fish Supreme",
     "slug": "bostonfishsupreme",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "boston"
-    ],
-    "websiteOrderUrl": "https://boston-fish-supreme.popmenu.com/"
-  },
-  {
-    "name": "Popmenu: Case Study - B&B Butchers Restaurant",
-    "slug": "popmenucasestudy-bbbutchersrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/b-b-butchers-restaurant"
-  },
-  {
-    "name": "Popmenu: We do more than grow your restaurant.",
-    "slug": "popmenuwedomorethangrowyourrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/"
-  },
-  {
-    "name": "Popmenu: Restaurant online ordering",
-    "slug": "popmenurestaurantonlineordering",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
-  },
-  {
-    "name": "Popmenu - Turn More First Time Guests Into Regulars",
-    "slug": "popmenu-turnmorefirsttimeguestsintoregul",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/lp1/restaurant-strategy"
-  },
-  {
-    "name": "Popmenu: OrderNerd powered by Popmenu",
-    "slug": "popmenuordernerdpoweredbypopmenu",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/ordernerd"
-  },
-  {
-    "name": "Popmenu toolkit: 2025 Trends Report",
-    "slug": "popmenutoolkit2025trendsreport",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/2025-trends-report"
-  },
-  {
-    "name": "Popmenu: About Us",
-    "slug": "popmenuaboutus",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/about-us"
-  },
-  {
-    "name": "Popmenu: Popmenu Pro",
-    "slug": "popmenupopmenupro",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/popmenu-pro"
-  },
-  {
-    "name": "Popmenu: Case Study - Dos Salsas",
-    "slug": "popmenucasestudy-dossalsas",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
-  },
-  {
-    "name": "Popmenu - New",
-    "slug": "popmenu-new",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/beverage-strategies-for-restaurants"
-  },
-  {
-    "name": "WELLESLEY, MA - Delivery & Takeout",
-    "slug": "wellesleyma-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MA/WELLESLEY"
-  },
-  {
-    "name": "Boston, MA - Delivery & Takeout",
-    "slug": "bostonma-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MA/Boston"
-  },
-  {
-    "name": "ACTON, MA - Delivery & Takeout",
-    "slug": "actonma-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MA/ACTON"
-  },
-  {
-    "name": "WORCESTER, MA - Delivery & Takeout",
-    "slug": "worcesterma-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MA/WORCESTER"
-  },
-  {
-    "name": "DRACUT, MA - Delivery & Takeout",
-    "slug": "dracutma-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MA/DRACUT"
-  },
-  {
-    "name": "Chelmsford, MA - Delivery & Takeout",
-    "slug": "chelmsfordma-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MA/Chelmsford"
-  },
-  {
-    "name": "CHICOPEE, MA - Delivery & Takeout",
-    "slug": "chicopeema-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MA/CHICOPEE"
-  },
-  {
-    "name": "Nepalese in Boston, MA - Delivery & Takeout",
-    "slug": "nepaleseinbostonma-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MA/Boston/Nepalese"
-  },
-  {
-    "name": "Bridgeport, CT - Delivery & Takeout",
-    "slug": "bridgeportct-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CT/Bridgeport"
-  },
-  {
-    "name": "Brazilian in Boston, MA - Delivery & Takeout",
-    "slug": "brazilianinbostonma-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MA/Boston/Brazilian"
-  },
-  {
-    "name": "Orange, CT - Delivery & Takeout",
-    "slug": "orangect-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CT/Orange"
-  },
-  {
-    "name": "Watertown, MA - Delivery & Takeout",
-    "slug": "watertownma-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MA/Watertown"
-  },
-  {
-    "name": "MA - Delivery & Takeout",
-    "slug": "ma-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MA"
+    ]
   },
   {
     "name": "Mai Thai restaurant - Orange, CT 06477 (Menu & Order Online)",
@@ -2742,53 +2363,7 @@
     "category": "thai",
     "metros": [
       "boston"
-    ],
-    "websiteOrderUrl": "https://maithairestaurant.menufy.com/"
-  },
-  {
-    "name": "Salads in Waterford, CT - Delivery & Takeout",
-    "slug": "saladsinwaterfordct-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CT/Waterford/Salads"
-  },
-  {
-    "name": "SOUTH BOSTON, VA - Delivery & Takeout",
-    "slug": "southbostonva-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/VA/SOUTH%20BOSTON"
-  },
-  {
-    "name": "Persian in BOSTON, MA - Delivery & Takeout",
-    "slug": "persianinbostonma-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MA/BOSTON/Persian"
-  },
-  {
-    "name": "Breakfast in WILBRAHAM, MA - Delivery & Takeout",
-    "slug": "breakfastinwilbrahamma-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MA/WILBRAHAM/Breakfast"
-  },
-  {
-    "name": "Bronx, NY - Delivery & Takeout",
-    "slug": "bronxny-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NY/Bronx"
+    ]
   },
   {
     "name": "Ocean Prime Boston",
@@ -2802,7 +2377,7 @@
   {
     "name": "Boston (Fenway)",
     "slug": "bostonfenway",
-    "category": "restaurant",
+    "category": "burgers",
     "metros": [
       "boston"
     ],
@@ -2832,8 +2407,7 @@
     "category": "restaurant",
     "metros": [
       "boston"
-    ],
-    "websiteOrderUrl": "https://bostonmarket.olo.com/"
+    ]
   },
   {
     "name": "Pink Taco Catering Boston",
@@ -2877,13 +2451,12 @@
     "category": "burgers",
     "metros": [
       "boston"
-    ],
-    "websiteOrderUrl": "https://wahlburgersrestaurant.olo.com/"
+    ]
   },
   {
     "name": "Lee’s Sandwiches Worcester - Boston",
     "slug": "leessandwichesworcester-boston",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "boston"
     ],
@@ -2931,8 +2504,7 @@
     "category": "cafe",
     "metros": [
       "boston"
-    ],
-    "websiteOrderUrl": "https://bostonnewscafe.getbento.com/"
+    ]
   },
   {
     "name": "State Street",
@@ -2958,8 +2530,7 @@
     "category": "seafood",
     "metros": [
       "boston"
-    ],
-    "websiteOrderUrl": "https://summershackrestaurant.getbento.com/"
+    ]
   },
   {
     "name": "Catering",
@@ -2989,22 +2560,12 @@
     "websiteOrderUrl": "https://tuscanbrands.getbento.com/tuscankitchen-seaport/"
   },
   {
-    "name": "Best Restaurant Websites - Boston",
-    "slug": "bestrestaurantwebsites-boston",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-boston/"
-  },
-  {
     "name": "Piattini",
     "slug": "piattini",
     "category": "restaurant",
     "metros": [
       "boston"
-    ],
-    "websiteOrderUrl": "https://piattini.getbento.com/"
+    ]
   },
   {
     "name": "Arch Street",
@@ -3027,7 +2588,7 @@
   {
     "name": "Soup and Salad",
     "slug": "soupandsalad",
-    "category": "restaurant",
+    "category": "healthy",
     "metros": [
       "boston"
     ],
@@ -3039,17 +2600,15 @@
     "category": "restaurant",
     "metros": [
       "boston"
-    ],
-    "websiteOrderUrl": "https://chinapearlrestaurants.getbento.com/"
+    ]
   },
   {
     "name": "27 Subject Line Ideas for Your Restaurant Emails",
     "slug": "27subjectlineideasforyourrestaurantemail",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "boston"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/restaurant-email-subject-lines/"
+    ]
   },
   {
     "name": "Reunion",
@@ -3057,8 +2616,7 @@
     "category": "restaurant",
     "metros": [
       "boston"
-    ],
-    "websiteOrderUrl": "https://reunion.getbento.com/"
+    ]
   },
   {
     "name": "Restaurant Online Ordering",
@@ -3117,7 +2675,7 @@
   {
     "name": "R & S JAMAICAN RESTAURANT - BOSTON, MA",
     "slug": "rsjamaicanrestaurant-bostonma",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "boston"
     ],
@@ -3144,7 +2702,7 @@
   {
     "name": "WICHIT Sandwich - BOSTON, MA",
     "slug": "wichitsandwich-bostonma",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "boston"
     ],
@@ -3405,7 +2963,7 @@
   {
     "name": "Atlantic Poké Marlborough 237 Boston Post Road West",
     "slug": "atlanticpokmarlborough237bostonpostroadw",
-    "category": "restaurant",
+    "category": "poke",
     "metros": [
       "boston"
     ],
@@ -3414,7 +2972,7 @@
   {
     "name": "Manoa Poke Shop",
     "slug": "manoapokeshop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "boston"
     ],
@@ -3423,7 +2981,7 @@
   {
     "name": "Poke-City Cambridge 1722 Massachusetts Avenue",
     "slug": "poke-citycambridge1722massachusettsavenu",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "boston"
     ],
@@ -3432,7 +2990,7 @@
   {
     "name": "Grainmaker Boston",
     "slug": "grainmakerboston",
-    "category": "restaurant",
+    "category": "healthy",
     "metros": [
       "boston"
     ],
@@ -3459,7 +3017,7 @@
   {
     "name": "Seaside Poke Understory",
     "slug": "seasidepokeunderstory",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "boston"
     ],
@@ -3468,7 +3026,7 @@
   {
     "name": "Poke Poke West Loop",
     "slug": "pokepokewestloop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "boston"
     ],
@@ -3477,7 +3035,7 @@
   {
     "name": "Mammoth Poke Bowl",
     "slug": "mammothpokebowl",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "boston"
     ],
@@ -3486,7 +3044,7 @@
   {
     "name": "Poke Burri 3231 powelton ave",
     "slug": "pokeburri3231poweltonave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "boston"
     ],
@@ -3495,7 +3053,7 @@
   {
     "name": "mammoth poke the loop ( lake street)",
     "slug": "mammothpokethelooplakestreet",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "boston"
     ],
@@ -3504,7 +3062,7 @@
   {
     "name": "Poke Bunny 100 East Gay Street, Unit 1",
     "slug": "pokebunny100eastgaystreetunit1",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "boston"
     ],
@@ -3513,7 +3071,7 @@
   {
     "name": "Poke Burrito Astoria 37-07 30th Ave.",
     "slug": "pokeburritoastoria37-0730thave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "boston"
     ],
@@ -3522,7 +3080,7 @@
   {
     "name": "Fresh Catch Poke Co. - Hertel Ave.",
     "slug": "freshcatchpokeco-hertelave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "boston"
     ],
@@ -3531,7 +3089,7 @@
   {
     "name": "Poke Poke Streeterville",
     "slug": "pokepokestreeterville",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "boston"
     ],
@@ -3558,7 +3116,7 @@
   {
     "name": "Royal Roast Beef and Seafood",
     "slug": "royalroastbeefandseafood",
-    "category": "seafood",
+    "category": "cafe",
     "metros": [
       "boston"
     ],
@@ -3684,7 +3242,7 @@
   {
     "name": "Mr. Greek of Buffalo 1122 Elmwood Ave.",
     "slug": "mrgreekofbuffalo1122elmwoodave",
-    "category": "mediterranean",
+    "category": "wings",
     "metros": [
       "boston"
     ],

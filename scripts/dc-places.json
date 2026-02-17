@@ -1,14 +1,5 @@
 [
   {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/chiko-washington"
-  },
-  {
     "name": "ala | DC - ORDER ONLINE",
     "slug": "aladc-orderonline",
     "category": "restaurant",
@@ -18,58 +9,12 @@
     "toastUrl": "https://order.toasttab.com/online/aladc"
   },
   {
-    "name": "Online ordering competitors every restaurant should know",
-    "slug": "onlineorderingcompetitorseveryrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know"
-  },
-  {
-    "name": "6 Best Popmenu Competitors to Consider (Pros & Cons)",
-    "slug": "6bestpopmenucompetitorstoconsiderproscon",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
-  },
-  {
     "name": "How to set up online food ordering in an afternoon",
     "slug": "howtosetuponlinefoodorderinginanafternoo",
     "category": "restaurant",
     "metros": [
       "dc"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
-  },
-  {
-    "name": "Popmenu + Toast",
-    "slug": "popmenutoast",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/partner/toast"
-  },
-  {
-    "name": "Popmenu: We do more than grow your restaurant.",
-    "slug": "popmenuwedomorethangrowyourrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/"
+    ]
   },
   {
     "name": "Scarlet Oak/Side Door Pizza",
@@ -146,7 +91,7 @@
   {
     "name": "The DC Chi Pie",
     "slug": "thedcchipie",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "dc"
     ],
@@ -225,15 +170,6 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/3639/locations"
   },
   {
-    "name": "Online Ordering for Rice Restaurant - Washington",
-    "slug": "onlineorderingforricerestaurant-washingt",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/3725/4822/items"
-  },
-  {
     "name": "Immigrant Food @ Ballston 4245 N Fairfax Drive",
     "slug": "immigrantfoodballston4245nfairfaxdrive",
     "category": "restaurant",
@@ -245,7 +181,7 @@
   {
     "name": "Anita's New Mexico Style Arlington",
     "slug": "anitasnewmexicostylearlington",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "dc"
     ],
@@ -351,7 +287,7 @@
     "toastUrl": "https://order.toasttab.com/online/lost-dog-cafe-south-arlington"
   },
   {
-    "name": "R\u0100KO - Arlington Cafe",
+    "name": "RĀKO - Arlington Cafe",
     "slug": "rko-arlingtoncafe",
     "category": "cafe",
     "metros": [
@@ -443,7 +379,7 @@
   {
     "name": "Bethesda Bagels",
     "slug": "bethesdabagels",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "dc"
     ],
@@ -452,7 +388,7 @@
   {
     "name": "Bethesda Bagels Navy Yard",
     "slug": "bethesdabagelsnavyyard",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "dc"
     ],
@@ -470,7 +406,7 @@
   {
     "name": "Bethesda Bagels Arlington",
     "slug": "bethesdabagelsarlington",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "dc"
     ],
@@ -479,7 +415,7 @@
   {
     "name": "Bethesda Bagels Cabin John Village",
     "slug": "bethesdabagelscabinjohnvillage",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "dc"
     ],
@@ -488,7 +424,7 @@
   {
     "name": "Bethesda Bagels Wildwood",
     "slug": "bethesdabagelswildwood",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "dc"
     ],
@@ -533,38 +469,11 @@
   {
     "name": "Bethesda Bagels Locations and Ordering Hours",
     "slug": "bethesdabagelslocationsandorderinghours",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "dc"
     ],
     "toastUrl": "https://order.toasttab.com/online/bethesdabagelswildwood/checkout"
-  },
-  {
-    "name": "Online Ordering for Sala Thai - Bethesda",
-    "slug": "onlineorderingforsalathai-bethesda",
-    "category": "thai",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/6610/locations/8761"
-  },
-  {
-    "name": "Online Ordering for Restaurants with No Commissions",
-    "slug": "onlineorderingforrestaurantswithnocommis",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/3518/locations/4577"
-  },
-  {
-    "name": "Online Ordering for Time-Out Restaurant",
-    "slug": "onlineorderingfortime-outrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/505/locations/660"
   },
   {
     "name": "Online Food Ordering System & App",
@@ -574,15 +483,6 @@
       "dc"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/12917/locations/18093"
-  },
-  {
-    "name": "Online Ordering for Butcher and the Burger",
-    "slug": "onlineorderingforbutcherandtheburger",
-    "category": "burgers",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/3640/locations"
   },
   {
     "name": "Just Love Coffee & Cafe Georgetown",
@@ -623,7 +523,7 @@
   {
     "name": "George's King of Falafel & Cheesesteak Georgetown",
     "slug": "georgeskingoffalafelcheesesteakgeorgetow",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "dc"
     ],
@@ -677,7 +577,7 @@
   {
     "name": "Country Boy Brewing- Georgetown 101 Innovation Way",
     "slug": "countryboybrewing-georgetown101innovatio",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "dc"
     ],
@@ -695,7 +595,7 @@
   {
     "name": "The Georgetown Bakery",
     "slug": "thegeorgetownbakery",
-    "category": "cafe",
+    "category": "bakery",
     "metros": [
       "dc"
     ],
@@ -713,7 +613,7 @@
   {
     "name": "Juliet Italian Kitchen Georgetown",
     "slug": "julietitaliankitchengeorgetown",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "dc"
     ],
@@ -722,7 +622,7 @@
   {
     "name": "Georgetown Bagelry",
     "slug": "georgetownbagelry",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "dc"
     ],
@@ -738,7 +638,7 @@
     "toastUrl": "https://order.toasttab.com/online/812-pizza-company"
   },
   {
-    "name": "ch\u012bko dupont - dc",
+    "name": "chīko dupont - dc",
     "slug": "chkodupont-dc",
     "category": "restaurant",
     "metros": [
@@ -776,7 +676,7 @@
   {
     "name": "Compliments Only Subs - DuPont Circle 2029 P St NW",
     "slug": "complimentsonlysubs-dupontcircle2029pstn",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "dc"
     ],
@@ -794,7 +694,7 @@
   {
     "name": "Pizzeria Paradiso Dupont Circle",
     "slug": "pizzeriaparadisodupontcircle",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "dc"
     ],
@@ -803,7 +703,7 @@
   {
     "name": "Tatte Bakery",
     "slug": "tattebakery",
-    "category": "cafe",
+    "category": "bakery",
     "metros": [
       "dc"
     ],
@@ -848,7 +748,7 @@
   {
     "name": "Taqueria Al Lado - Adams Morgan",
     "slug": "taqueriaallado-adamsmorgan",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "dc"
     ],
@@ -900,7 +800,7 @@
     "toastUrl": "https://order.toasttab.com/online/kensington-cafe-4141-adams-ave"
   },
   {
-    "name": "ch\u012bko capitol hill - dc",
+    "name": "chīko capitol hill - dc",
     "slug": "chkocapitolhill-dc",
     "category": "restaurant",
     "metros": [
@@ -911,7 +811,7 @@
   {
     "name": "Junction Bistro, Bar & Bakery Capitol Hill 238 ...",
     "slug": "junctionbistrobarbakerycapitolhill238",
-    "category": "cafe",
+    "category": "bakery",
     "metros": [
       "dc"
     ],
@@ -983,7 +883,7 @@
   {
     "name": "Hot Cakes Capitol Hill",
     "slug": "hotcakescapitolhill",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "dc"
     ],
@@ -1323,18 +1223,18 @@
     "websiteOrderUrl": "https://order.online/store/muzette-karaoke-&-restaurant-washington-666053/"
   },
   {
-    "name": "Etto 1541 14th Street Northwest \u2013 Order pickup and delivery",
+    "name": "Etto 1541 14th Street Northwest – Order pickup and delivery",
     "slug": "etto154114thstreetnorthwestorderpickupan",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "dc"
     ],
     "websiteOrderUrl": "https://order.online/store/etto-washington-96290"
   },
   {
-    "name": "Wasai 716 7th Street Northwest \u2013 Order pickup and delivery",
+    "name": "Wasai 716 7th Street Northwest – Order pickup and delivery",
     "slug": "wasai7167thstreetnorthwestorderpickupand",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "dc"
     ],
@@ -1346,17 +1246,15 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ],
-    "websiteOrderUrl": "https://mangialardos.popmenu.com/"
+    ]
   },
   {
     "name": "Wok and Roll Karaoke - Washington, DC",
     "slug": "wokandrollkaraoke-washingtondc",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "dc"
-    ],
-    "websiteOrderUrl": "https://wokandroll-karaoke.popmenu.com/"
+    ]
   },
   {
     "name": "Our Menu - Mangialardo's - Restaurant in Washington, DC",
@@ -1368,40 +1266,12 @@
     "websiteOrderUrl": "https://mangialardos.popmenu.com/menus/our-menu"
   },
   {
-    "name": "Popmenu: Restaurant online ordering",
-    "slug": "popmenurestaurantonlineordering",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
-  },
-  {
-    "name": "Popmenu: About Us",
-    "slug": "popmenuaboutus",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/about-us"
-  },
-  {
     "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
     "slug": "restaurantmenuideas9ofthebestmenustoinsp",
     "category": "restaurant",
     "metros": [
       "dc"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
-  },
-  {
-    "name": "Best restaurant websites: 4 examples to steal from",
-    "slug": "bestrestaurantwebsites4examplestostealfr",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-websites"
+    ]
   },
   {
     "name": "Home - El Gitano Bellingham - Restaurant in WA",
@@ -1409,89 +1279,7 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ],
-    "websiteOrderUrl": "https://el-gitano-bellingham.popmenu.com/"
-  },
-  {
-    "name": "Popmenu: Case Study - Kapow! Noodle Bar",
-    "slug": "popmenucasestudy-kapownoodlebar",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/kapow-noodle-bar"
-  },
-  {
-    "name": "Popmenu: Case Study - Taqueria Picoso",
-    "slug": "popmenucasestudy-taqueriapicoso",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/taqueria-picoso"
-  },
-  {
-    "name": "Top Trending Dishes - eat.popmenu.com",
-    "slug": "toptrendingdishes-eatpopmenucom",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://eat.popmenu.com/places/global/dishes/3177684-the-original"
-  },
-  {
-    "name": "Popmenu: OrderNerd powered by Popmenu",
-    "slug": "popmenuordernerdpoweredbypopmenu",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/ordernerd"
-  },
-  {
-    "name": "Popmenu: Case Study - The Deck",
-    "slug": "popmenucasestudy-thedeck",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/the-deck"
-  },
-  {
-    "name": "Popmenu: Case Study - The Hampton Social",
-    "slug": "popmenucasestudy-thehamptonsocial",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/the-hampton-social"
-  },
-  {
-    "name": "Popmenu: Case Study - Teppan Steakhouse",
-    "slug": "popmenucasestudy-teppansteakhouse",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/teppan-steakhouse"
-  },
-  {
-    "name": "Popmenu: Who We Help - Quick Service Restaurants",
-    "slug": "popmenuwhowehelp-quickservicerestaurants",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/who-we-help/quick-service-restaurants"
-  },
-  {
-    "name": "Popmenu: Case Study - Cliff View",
-    "slug": "popmenucasestudy-cliffview",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/cliff-view"
+    ]
   },
   {
     "name": "Accessibility Review - Restaurant in Atlanta, GA",
@@ -1499,17 +1287,7 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ],
-    "websiteOrderUrl": "https://accessibility-review.popmenu.com/"
-  },
-  {
-    "name": "Popmenu: Case Study - Dos Salsas",
-    "slug": "popmenucasestudy-dossalsas",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
+    ]
   },
   {
     "name": "Home",
@@ -1523,7 +1301,7 @@
   {
     "name": "Menu Tango Pastry Dc",
     "slug": "menutangopastrydc",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "dc"
     ],
@@ -1568,7 +1346,7 @@
   {
     "name": "Order Online Happy Teriyaki 12 Centralia Chehalis Restaurant",
     "slug": "orderonlinehappyteriyaki12centraliacheha",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "dc"
     ],
@@ -1602,7 +1380,7 @@
     "squareUrl": "https://washington-whirlyball.square.site/"
   },
   {
-    "name": "Savor\u00e9",
+    "name": "Savoré",
     "slug": "savor",
     "category": "restaurant",
     "metros": [
@@ -1611,184 +1389,13 @@
     "squareUrl": "https://savore-brooklyn.square.site/"
   },
   {
-    "name": "Washington DC, DC - Delivery & Takeout",
-    "slug": "washingtondcdc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/DC/Washington%20DC"
-  },
-  {
-    "name": "Washington, DC - Delivery & Takeout",
-    "slug": "washingtondc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/DC/Washington"
-  },
-  {
-    "name": "Healthy in Washington DC, DC - Delivery & Takeout",
-    "slug": "healthyinwashingtondcdc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/DC/Washington%20DC/Healthy"
-  },
-  {
-    "name": "Latin American in Washington, DC - Delivery & Takeout",
-    "slug": "latinamericaninwashingtondc-deliverytake",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/DC/Washington/Latin%20American"
-  },
-  {
-    "name": "Soul Food in Washington, DC - Delivery & Takeout",
-    "slug": "soulfoodinwashingtondc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/DC/Washington/Soul%20Food"
-  },
-  {
-    "name": "Lunch in Washington DC, DC - Delivery & Takeout",
-    "slug": "lunchinwashingtondcdc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/DC/Washington%20DC/Lunch"
-  },
-  {
-    "name": "Middle Eastern in Washington DC, DC - Delivery & Takeout",
-    "slug": "middleeasterninwashingtondcdc-deliveryta",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/DC/Washington%20DC/Middle%20Eastern"
-  },
-  {
-    "name": "Szechuan in Washington, DC - Delivery & Takeout",
-    "slug": "szechuaninwashingtondc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/DC/Washington/Szechuan"
-  },
-  {
-    "name": "Pizza in Washington, DC - Delivery & Takeout",
-    "slug": "pizzainwashingtondc-deliverytakeout",
-    "category": "pizza",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/DC/Washington/Pizza"
-  },
-  {
-    "name": "African in Washington, DC - Delivery & Takeout",
-    "slug": "africaninwashingtondc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/DC/Washington/African"
-  },
-  {
-    "name": "Tamales in Washington DC, DC - Delivery & Takeout",
-    "slug": "tamalesinwashingtondcdc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/DC/Washington%20DC/Tamales"
-  },
-  {
-    "name": "Pho in Washington DC, DC - Delivery & Takeout",
-    "slug": "phoinwashingtondcdc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/DC/Washington%20DC/Pho"
-  },
-  {
     "name": "Menufy - Washington, DC Vegetarian Delivery & Takeout",
     "slug": "menufy-washingtondcvegetariandeliverytak",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "dc"
     ],
     "websiteOrderUrl": "https://www.menufy.com/DC/Washington/Vegetarian"
-  },
-  {
-    "name": "Hot Pot in Washington, DC - Delivery & Takeout",
-    "slug": "hotpotinwashingtondc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/DC/Washington/Hot%20Pot"
-  },
-  {
-    "name": "Szechuan in Washington DC, DC - Delivery & Takeout",
-    "slug": "szechuaninwashingtondcdc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/DC/Washington%20DC/Szechuan"
-  },
-  {
-    "name": "Soup in Washington, DC - Delivery & Takeout",
-    "slug": "soupinwashingtondc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/DC/Washington/Soup"
-  },
-  {
-    "name": "Latin American in Washington DC, DC - Delivery & Takeout",
-    "slug": "latinamericaninwashingtondcdc-deliveryta",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/DC/Washington%20DC/Latin%20American"
-  },
-  {
-    "name": "Hawaiian in NORTHWEST WASHINGTON, DC - Delivery & Takeout",
-    "slug": "hawaiianinnorthwestwashingtondc-delivery",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/DC/NORTHWEST%20WASHINGTON/Hawaiian"
-  },
-  {
-    "name": "Deli in Washington, DC - Delivery & Takeout",
-    "slug": "deliinwashingtondc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/DC/Washington/Deli"
-  },
-  {
-    "name": "Mediterranean in Washington, DC - Delivery & Takeout",
-    "slug": "mediterraneaninwashingtondc-deliverytake",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/DC/Washington/Mediterranean"
   },
   {
     "name": "Restaurant Participation Agreement",
@@ -1805,26 +1412,7 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/"
-  },
-  {
-    "name": "Pricing",
-    "slug": "pricing",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/pricing"
-  },
-  {
-    "name": "No Commission Delivery for Restaurants",
-    "slug": "nocommissiondeliveryforrestaurants",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/delivery"
+    ]
   },
   {
     "name": "Owner.com Reviews",
@@ -1850,17 +1438,7 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ],
-    "websiteOrderUrl": "https://compare.owner.com/"
-  },
-  {
-    "name": "Owner.com Competitors",
-    "slug": "ownercomcompetitors",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/comparison"
+    ]
   },
   {
     "name": "The Owner.com Story",
@@ -1913,8 +1491,7 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/blog"
+    ]
   },
   {
     "name": "Online Ordering System Checklist Download",
@@ -1964,7 +1541,7 @@
   {
     "name": "California Tortilla Ronald Reagan Building",
     "slug": "californiatortillaronaldreaganbuilding",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "dc"
     ],
@@ -1989,7 +1566,7 @@
     "websiteOrderUrl": "https://pinstripesbistro.olo.com/menu/pinstripes-georgetown"
   },
   {
-    "name": "Washington DC - Fogo de Ch\u00e3o",
+    "name": "Washington DC - Fogo de Chão",
     "slug": "washingtondc-fogodecho",
     "category": "restaurant",
     "metros": [
@@ -2030,8 +1607,7 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ],
-    "websiteOrderUrl": "https://www.olo.com/"
+    ]
   },
   {
     "name": "Wings to Go Menu: Pizza Delivery Washington, DC",
@@ -2216,7 +1792,7 @@
   {
     "name": "54 NOODLES BAR - WASHINGTON, DC",
     "slug": "54noodlesbar-washingtondc",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "dc"
     ],
@@ -2225,7 +1801,7 @@
   {
     "name": "THE BEST SANDWICH PLACE - WASHINGTON, DC",
     "slug": "thebestsandwichplace-washingtondc",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "dc"
     ],
@@ -2243,7 +1819,7 @@
   {
     "name": "Curry and Pie - WASHINGTON, DC",
     "slug": "curryandpie-washingtondc",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "dc"
     ],
@@ -2261,7 +1837,7 @@
   {
     "name": "PHO 88 NOODLES & GRILL - WASHINGTON, DC",
     "slug": "pho88noodlesgrill-washingtondc",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "dc"
     ],
@@ -2270,7 +1846,7 @@
   {
     "name": "CHERCHER ETHIOPIAN RESTAURANT",
     "slug": "chercherethiopianrestaurant",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "dc"
     ],
@@ -2279,7 +1855,7 @@
   {
     "name": "PHO 54 - WASHINGTON, DC",
     "slug": "pho54-washingtondc",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "dc"
     ],
@@ -2306,7 +1882,7 @@
   {
     "name": "54 NOODLES BAR - Washington, District of Columbia",
     "slug": "54noodlesbar-washingtondistrictofcolumbi",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "dc"
     ],
@@ -2333,7 +1909,7 @@
   {
     "name": "Blowfish Poke & Grill",
     "slug": "blowfishpokegrill",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "dc"
     ],
@@ -2342,7 +1918,7 @@
   {
     "name": "Aloha Poke Co. Dupont Circle",
     "slug": "alohapokecodupontcircle",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "dc"
     ],
@@ -2351,7 +1927,7 @@
   {
     "name": "Aloha Poke Co. Union Station",
     "slug": "alohapokecounionstation",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "dc"
     ],
@@ -2360,7 +1936,7 @@
   {
     "name": "Poke Poke Streeterville",
     "slug": "pokepokestreeterville",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "dc"
     ],
@@ -2369,7 +1945,7 @@
   {
     "name": "Poke Cafe - West Ashley Location and Ordering Hours",
     "slug": "pokecafe-westashleylocationandorderingho",
-    "category": "cafe",
+    "category": "japanese",
     "metros": [
       "dc"
     ],
@@ -2378,7 +1954,7 @@
   {
     "name": "Poke-City Cambridge 1722 Massachusetts Avenue",
     "slug": "poke-citycambridge1722massachusettsavenu",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "dc"
     ],
@@ -2405,7 +1981,7 @@
   {
     "name": "Poke Bunny 100 East Gay Street, Unit 1",
     "slug": "pokebunny100eastgaystreetunit1",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "dc"
     ],
@@ -2414,7 +1990,7 @@
   {
     "name": "Poke Poke West Loop",
     "slug": "pokepokewestloop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "dc"
     ],
@@ -2432,7 +2008,7 @@
   {
     "name": "The Ono Poke - Summit 325 Summit Boulevard",
     "slug": "theonopoke-summit325summitboulevard",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "dc"
     ],
@@ -2441,7 +2017,7 @@
   {
     "name": "Manoa Poke Shop",
     "slug": "manoapokeshop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "dc"
     ],
@@ -2450,7 +2026,7 @@
   {
     "name": "Hawaii Poke Bowl - West St. Paul 1375 South Robert Street",
     "slug": "hawaiipokebowl-weststpaul1375southrobert",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "dc"
     ],
@@ -2468,7 +2044,7 @@
   {
     "name": "Miss Toya's Southern Cajun Kitchen - DC",
     "slug": "misstoyassoutherncajunkitchen-dc",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "dc"
     ],
@@ -2520,7 +2096,7 @@
     "toastUrl": "https://order.toasttab.com/online/just-greek-142-south-livingston-avenue"
   },
   {
-    "name": "Mer\u00e1ki Greek Grill",
+    "name": "Meráki Greek Grill",
     "slug": "merkigreekgrill",
     "category": "mediterranean",
     "metros": [
@@ -2567,7 +2143,7 @@
   {
     "name": "Norma's Breakfast",
     "slug": "normasbreakfast",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "dc"
     ],
@@ -2585,7 +2161,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "dc"
     ],
@@ -2594,7 +2170,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "dc"
     ],
@@ -2603,7 +2179,7 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "dc"
     ],
@@ -2612,7 +2188,7 @@
   {
     "name": "The Smoothie Spot- Colonial Heights",
     "slug": "thesmoothiespot-colonialheights",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "dc"
     ],
@@ -2630,7 +2206,7 @@
   {
     "name": "Juice For Life New Hyde Park",
     "slug": "juiceforlifenewhydepark",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "dc"
     ],
@@ -2639,7 +2215,7 @@
   {
     "name": "Awake Juice Bar - Apple Valley 18855 Bear Valley Rd",
     "slug": "awakejuicebar-applevalley18855bearvalley",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "dc"
     ],
@@ -2648,7 +2224,7 @@
   {
     "name": "Juva Juice Highland Village Juva Juice- Jackson",
     "slug": "juvajuicehighlandvillagejuvajuice-jackso",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "dc"
     ],
@@ -2657,7 +2233,7 @@
   {
     "name": "Juice It - 13th Ave S",
     "slug": "juiceit-13thaves",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "dc"
     ],
@@ -2666,7 +2242,7 @@
   {
     "name": "Juice Crafters Downtown LA",
     "slug": "juicecraftersdowntownla",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "dc"
     ],
@@ -2675,7 +2251,7 @@
   {
     "name": "Blended Health & Smoothie Bar Olympia Plaza",
     "slug": "blendedhealthsmoothiebarolympiaplaza",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "dc"
     ],
@@ -2684,7 +2260,7 @@
   {
     "name": "Pressed Juice Bar 19550 Grand River Avenue",
     "slug": "pressedjuicebar19550grandriveravenue",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "dc"
     ],
@@ -2693,7 +2269,7 @@
   {
     "name": "Awake Juice Bar Legends",
     "slug": "awakejuicebarlegends",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "dc"
     ],
@@ -2711,7 +2287,7 @@
   {
     "name": "Ometeo",
     "slug": "ometeo",
-    "category": "mexican",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -2729,7 +2305,7 @@
   {
     "name": "Your Only Friend",
     "slug": "youronlyfriend",
-    "category": "bar",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -2745,7 +2321,7 @@
     "toastUrl": "https://grillmarxsteakhouserawbar.toast.site/"
   },
   {
-    "name": "Social Eats Caf\u00e9",
+    "name": "Social Eats Café",
     "slug": "socialeats",
     "category": "cafe",
     "metros": [
@@ -2756,7 +2332,7 @@
   {
     "name": "Central Bar & Restaurant",
     "slug": "centralbar",
-    "category": "american",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -2774,7 +2350,7 @@
   {
     "name": "Portofino Restaurant",
     "slug": "portofino",
-    "category": "italian",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -2783,7 +2359,7 @@
   {
     "name": "Northside Social",
     "slug": "northsidesocial",
-    "category": "cafe",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -2801,7 +2377,7 @@
   {
     "name": "On Toast",
     "slug": "ontoast",
-    "category": "cafe",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -2810,7 +2386,7 @@
   {
     "name": "Downtown Shawarma",
     "slug": "downtownshawarma",
-    "category": "middle-eastern",
+    "category": "mediterranean",
     "metros": [
       "dc"
     ],
@@ -2828,7 +2404,7 @@
   {
     "name": "Qui Qui",
     "slug": "quiqui",
-    "category": "latin",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -2846,7 +2422,7 @@
   {
     "name": "Cactus Cantina",
     "slug": "cactuscantina",
-    "category": "mexican",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -2855,7 +2431,7 @@
   {
     "name": "Jack Rose Dining Saloon",
     "slug": "jackrose",
-    "category": "american",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -2882,7 +2458,7 @@
   {
     "name": "Sisters Sandwiches & Such",
     "slug": "sisterssandwiches",
-    "category": "sandwiches",
+    "category": "deli",
     "metros": [
       "dc"
     ],
@@ -2891,7 +2467,7 @@
   {
     "name": "Tout de Sweet",
     "slug": "toutdesweet",
-    "category": "bakery",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -2909,7 +2485,7 @@
   {
     "name": "Flavor Hive",
     "slug": "flavorhive",
-    "category": "asian",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -2952,9 +2528,9 @@
     "toastUrl": "https://notacosamigo.toast.site/"
   },
   {
-    "name": "Ladur\u00e9e Bethesda",
+    "name": "Ladurée Bethesda",
     "slug": "laduree",
-    "category": "bakery",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -2963,7 +2539,7 @@
   {
     "name": "Rien Tong Thai & Sushi Bar",
     "slug": "rientong",
-    "category": "thai",
+    "category": "japanese",
     "metros": [
       "dc"
     ],
@@ -2990,7 +2566,7 @@
   {
     "name": "The Dabney",
     "slug": "thedabney",
-    "category": "american",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -2999,7 +2575,7 @@
   {
     "name": "Rendezvous",
     "slug": "rendezvous",
-    "category": "french",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -3008,7 +2584,7 @@
   {
     "name": "Red Rocks",
     "slug": "redrocks",
-    "category": "pizza",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -3017,7 +2593,7 @@
   {
     "name": "Rito Loco",
     "slug": "ritoloco",
-    "category": "mexican",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -3035,7 +2611,7 @@
   {
     "name": "Flavor After Ours",
     "slug": "flavorafterours",
-    "category": "multicultural",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -3044,25 +2620,23 @@
   {
     "name": "Sweetgreen",
     "slug": "sweetgreen",
-    "category": "salads",
+    "category": "restaurant",
     "metros": [
       "dc"
-    ],
-    "websiteOrderUrl": "https://order.sweetgreen.com"
+    ]
   },
   {
     "name": "Halal Guys",
     "slug": "halalguys",
-    "category": "halal",
+    "category": "restaurant",
     "metros": [
       "dc"
-    ],
-    "websiteOrderUrl": "https://order.thehalalguys.com"
+    ]
   },
   {
     "name": "Founding Farmers",
     "slug": "foundingfarmers",
-    "category": "american",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3070,7 +2644,7 @@
   {
     "name": "Nandos Peri-Peri",
     "slug": "nandos",
-    "category": "chicken",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -3079,7 +2653,7 @@
   {
     "name": "Busboys and Poets",
     "slug": "busboysandpoets",
-    "category": "american",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3087,7 +2661,7 @@
   {
     "name": "Bens Chili Bowl",
     "slug": "benschilibowl",
-    "category": "american",
+    "category": "healthy",
     "metros": [
       "dc"
     ]
@@ -3095,7 +2669,7 @@
   {
     "name": "Clyde\\",
     "slug": "clydes",
-    "category": "american",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3103,7 +2677,7 @@
   {
     "name": "Rasika",
     "slug": "rasika",
-    "category": "indian",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3111,7 +2685,7 @@
   {
     "name": "Maketto",
     "slug": "maketto",
-    "category": "asian",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3119,7 +2693,7 @@
   {
     "name": "Daikaya",
     "slug": "daikaya",
-    "category": "japanese",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3127,7 +2701,7 @@
   {
     "name": "Bantam King",
     "slug": "bantamking",
-    "category": "japanese",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3135,7 +2709,7 @@
   {
     "name": "Doi Moi",
     "slug": "doimoi",
-    "category": "vietnamese",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3159,7 +2733,7 @@
   {
     "name": "Amsterdam Falafelshop",
     "slug": "amsterdamfalafel",
-    "category": "falafel",
+    "category": "mediterranean",
     "metros": [
       "dc"
     ]
@@ -3167,7 +2741,7 @@
   {
     "name": "Bonchon",
     "slug": "bonchon",
-    "category": "korean",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3175,7 +2749,7 @@
   {
     "name": "Good Stuff Eatery",
     "slug": "goodstuffeatery",
-    "category": "burgers",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3183,7 +2757,7 @@
   {
     "name": "Le Diplomate",
     "slug": "lediplomate",
-    "category": "french",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3191,7 +2765,7 @@
   {
     "name": "Compass Rose",
     "slug": "compassrose",
-    "category": "international",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3199,7 +2773,7 @@
   {
     "name": "Old Ebbitt Grill",
     "slug": "oldebbittgrill",
-    "category": "american",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3207,7 +2781,7 @@
   {
     "name": "Duke\\",
     "slug": "dukesgrocery",
-    "category": "burgers",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3215,7 +2789,7 @@
   {
     "name": "Baked & Wired",
     "slug": "bakedandwired",
-    "category": "bakery",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3223,7 +2797,7 @@
   {
     "name": "Call Your Mother",
     "slug": "callyourmother",
-    "category": "deli",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3239,7 +2813,7 @@
   {
     "name": "Rose\\",
     "slug": "rosesluxury",
-    "category": "american",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3247,7 +2821,7 @@
   {
     "name": "Immigrant Food",
     "slug": "immigrantfood",
-    "category": "international",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3255,7 +2829,7 @@
   {
     "name": "Federalist Pig",
     "slug": "federalistpig",
-    "category": "bbq",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3263,7 +2837,7 @@
   {
     "name": "Bub and Pop\\",
     "slug": "bubandpops",
-    "category": "sandwiches",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3305,7 +2879,7 @@
   {
     "name": "Joselito",
     "slug": "joselito",
-    "category": "latin",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -3314,7 +2888,7 @@
   {
     "name": "Eat Today",
     "slug": "eattoday",
-    "category": "american",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -3323,7 +2897,7 @@
   {
     "name": "Oohh\\",
     "slug": "oohhsaaahhs",
-    "category": "soul-food",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -3332,7 +2906,7 @@
   {
     "name": "The Cornerstone Grill & Loft",
     "slug": "cornerstonegrill",
-    "category": "sports-bar",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -3348,9 +2922,9 @@
     "toastUrl": "https://winnerbakery.toast.site/"
   },
   {
-    "name": "Ladur\u00e9e DC",
+    "name": "Ladurée DC",
     "slug": "ladurreedc",
-    "category": "bakery",
+    "category": "restaurant",
     "metros": [
       "dc"
     ],
@@ -3359,7 +2933,7 @@
   {
     "name": "All-Purpose",
     "slug": "allpurpose",
-    "category": "pizza",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3367,7 +2941,7 @@
   {
     "name": "Henry\\",
     "slug": "henryssoulcafe",
-    "category": "soul-food",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3375,7 +2949,7 @@
   {
     "name": "The Prime Rib",
     "slug": "theprimerib",
-    "category": "steakhouse",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3383,7 +2957,7 @@
   {
     "name": "Bar Chinois",
     "slug": "barchinois",
-    "category": "chinese",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3391,7 +2965,7 @@
   {
     "name": "Cru Lounge",
     "slug": "crulounge",
-    "category": "lounge",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3399,7 +2973,7 @@
   {
     "name": "Catalogue",
     "slug": "catalogue",
-    "category": "american",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3407,7 +2981,7 @@
   {
     "name": "The Diner",
     "slug": "thediner",
-    "category": "diner",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3424,7 +2998,7 @@
   {
     "name": "Jaleo",
     "slug": "jaleo",
-    "category": "spanish",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3432,7 +3006,7 @@
   {
     "name": "Zaytinya",
     "slug": "zaytinya",
-    "category": "mediterranean",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3440,7 +3014,7 @@
   {
     "name": "Medium Rare",
     "slug": "mediumrare",
-    "category": "steakhouse",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]
@@ -3456,7 +3030,7 @@
   {
     "name": "Centrolina",
     "slug": "centrolina",
-    "category": "italian",
+    "category": "restaurant",
     "metros": [
       "dc"
     ]

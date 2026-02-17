@@ -114,7 +114,7 @@
   {
     "name": "Deschutes Brewery Portland Public House",
     "slug": "deschutesbreweryportlandpublichouse",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "portland"
     ]
@@ -266,7 +266,7 @@
   {
     "name": "AFURI IZAKAYA SE PORTLAND",
     "slug": "afuriizakayaseportland",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "portland"
     ]
@@ -346,7 +346,7 @@
   {
     "name": "Eggs & Co.",
     "slug": "eggsco",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "portland"
     ]
@@ -601,7 +601,7 @@
   {
     "name": "AFURI Izakaya - SE Portland 923 SE 7th Ave",
     "slug": "afuriizakaya-seportland923se7thave",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "portland"
     ],
@@ -734,15 +734,6 @@
     "toastUrl": "https://order.toasttab.com/online/harlow%203715-se-division-st"
   },
   {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/tin-shed"
-  },
-  {
     "name": "Navis Cafe",
     "slug": "naviscafe",
     "category": "cafe",
@@ -754,7 +745,7 @@
   {
     "name": "NYC Pizzeria",
     "slug": "nycpizzeria",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "portland"
     ],
@@ -772,7 +763,7 @@
   {
     "name": "Broadway Bowl - South Portland, ME",
     "slug": "broadwaybowl-southportlandme",
-    "category": "restaurant",
+    "category": "healthy",
     "metros": [
       "portland"
     ],
@@ -790,7 +781,7 @@
   {
     "name": "Greenleaf Juice Pearl District",
     "slug": "greenleafjuicepearldistrict",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "portland"
     ],
@@ -799,7 +790,7 @@
   {
     "name": "Pearl of the Island Caribbean - Margate",
     "slug": "pearloftheislandcaribbean-margate",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "portland"
     ],
@@ -862,7 +853,7 @@
   {
     "name": "Pearl's Bagels",
     "slug": "pearlsbagels",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "portland"
     ],
@@ -1033,7 +1024,7 @@
   {
     "name": "Fried Egg I'm In Love Hawthorne",
     "slug": "friedeggiminlovehawthorne",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "portland"
     ],
@@ -1123,7 +1114,7 @@
   {
     "name": "Ava Ava RBL Latin Fusion 13 Division Street",
     "slug": "avaavarbllatinfusion13divisionstreet",
-    "category": "restaurant",
+    "category": "latin",
     "metros": [
       "portland"
     ],
@@ -1159,7 +1150,7 @@
   {
     "name": "Noodle Express - N. Division Spokane ...",
     "slug": "noodleexpress-ndivisionspokane",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "portland"
     ],
@@ -1267,7 +1258,7 @@
   {
     "name": "Luke's Lobster Portland Pier",
     "slug": "lukeslobsterportlandpier",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "portland"
     ],
@@ -1285,7 +1276,7 @@
   {
     "name": "Portland Lobster Company",
     "slug": "portlandlobstercompany",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "portland"
     ],
@@ -1348,7 +1339,7 @@
   {
     "name": "Longview",
     "slug": "longview",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "portland"
     ],
@@ -1393,7 +1384,7 @@
   {
     "name": "Vegan Van 5155 E 39th Ave",
     "slug": "veganvan5155e39thave",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "portland"
     ],
@@ -1492,7 +1483,7 @@
   {
     "name": "Portland Pie Co. 92 Maine Street",
     "slug": "portlandpieco92mainestreet",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "portland"
     ],
@@ -1508,76 +1499,12 @@
     "websiteOrderUrl": "https://billmiller.order.online/store/MuchasGraciasMexicanFood-577215"
   },
   {
-    "name": "11 of the best restaurant menu designs to inspire you",
-    "slug": "11ofthebestrestaurantmenudesignstoinspir",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-menu-designs"
-  },
-  {
-    "name": "Popmenu + OpenTable",
-    "slug": "popmenuopentable",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/partner/opentable"
-  },
-  {
-    "name": "Popmenu: We do more than grow your restaurant.",
-    "slug": "popmenuwedomorethangrowyourrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/"
-  },
-  {
     "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
     "slug": "restaurantmenuideas9ofthebestmenustoinsp",
     "category": "restaurant",
     "metros": [
       "portland"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
-  },
-  {
-    "name": "Popmenu - New",
-    "slug": "popmenu-new",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-websites"
-  },
-  {
-    "name": "Popmenu: About Us",
-    "slug": "popmenuaboutus",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/about-us"
-  },
-  {
-    "name": "Popmenu: Restaurant online ordering",
-    "slug": "popmenurestaurantonlineordering",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
-  },
-  {
-    "name": "Popmenu: Photography",
-    "slug": "popmenuphotography",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/photography"
+    ]
   },
   {
     "name": "Mama Rosa – Mexican Food in Olive Branch",
@@ -1585,26 +1512,7 @@
     "category": "mexican",
     "metros": [
       "portland"
-    ],
-    "websiteOrderUrl": "https://mama-rosa-mexican-food.popmenu.com/"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
-  },
-  {
-    "name": "5 menu design Ideas for digital-first restaurants",
-    "slug": "5menudesignideasfordigital-firstrestaura",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
+    ]
   },
   {
     "name": "How to create (and use) a restaurant email list",
@@ -1612,8 +1520,7 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-email-list-guide"
+    ]
   },
   {
     "name": "The ultimate guide to restaurant branding",
@@ -1621,58 +1528,12 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-branding-guide"
-  },
-  {
-    "name": "Popmenu: Dynamic, interactive restaurant menus",
-    "slug": "popmenudynamicinteractiverestaurantmenus",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/dynamic-menu-tech"
-  },
-  {
-    "name": "Popmenu: Case Study - Poppy's Pizza & Grill",
-    "slug": "popmenucasestudy-poppyspizzagrill",
-    "category": "pizza",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/simplified-technology/poppys-pizza-grill"
-  },
-  {
-    "name": "Popmenu: OrderNerd powered by Popmenu",
-    "slug": "popmenuordernerdpoweredbypopmenu",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/ordernerd"
-  },
-  {
-    "name": "Popmenu: Careers",
-    "slug": "popmenucareers",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/careers"
-  },
-  {
-    "name": "Popmenu: Case Study - B&B Butchers Restaurant",
-    "slug": "popmenucasestudy-bbbutchersrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/b-b-butchers-restaurant"
+    ]
   },
   {
     "name": "Vegan Food Portland",
     "slug": "veganfoodportland",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "portland"
     ],
@@ -1690,7 +1551,7 @@
   {
     "name": "Best Vegetarian-Vegan-Gluten Free Restaurant in Portland",
     "slug": "bestvegetarian-vegan-glutenfreerestauran",
-    "category": "restaurant",
+    "category": "vegan",
     "metros": [
       "portland"
     ],
@@ -1717,7 +1578,7 @@
   {
     "name": "SANDWICHES & SIDES",
     "slug": "sandwichessides",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "portland"
     ],
@@ -1787,166 +1648,12 @@
     "squareUrl": "https://portland-caphe.square.site/s/order"
   },
   {
-    "name": "SOUTH PORTLAND, ME - Delivery & Takeout",
-    "slug": "southportlandme-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/ME/SOUTH%20PORTLAND"
-  },
-  {
     "name": "Home - THAI HOT POT HEAVEN",
     "slug": "home-thaihotpotheaven",
     "category": "thai",
     "metros": [
       "portland"
-    ],
-    "websiteOrderUrl": "https://thaihotpotheaven.menufy.com/"
-  },
-  {
-    "name": "PORTLAND, ME - Delivery & Takeout",
-    "slug": "portlandme-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/ME/PORTLAND"
-  },
-  {
-    "name": "Dessert in PORTLAND, ME - Delivery & Takeout",
-    "slug": "dessertinportlandme-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/ME/PORTLAND/Dessert"
-  },
-  {
-    "name": "Wings in Portland, ME - Delivery & Takeout",
-    "slug": "wingsinportlandme-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/ME/Portland/Wings"
-  },
-  {
-    "name": "Sushi in Portland, CT - Delivery & Takeout",
-    "slug": "sushiinportlandct-deliverytakeout",
-    "category": "japanese",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CT/Portland/Sushi"
-  },
-  {
-    "name": "Asian in Portland, CT - Delivery & Takeout",
-    "slug": "asianinportlandct-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/CT/Portland/Asian"
-  },
-  {
-    "name": "Chicken in PORTLAND, TX - Delivery & Takeout",
-    "slug": "chickeninportlandtx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/PORTLAND/Chicken"
-  },
-  {
-    "name": "Soup in PORTLAND, ME - Delivery & Takeout",
-    "slug": "soupinportlandme-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/ME/PORTLAND/Soup"
-  },
-  {
-    "name": "Pho in PORTLAND, ME - Delivery & Takeout",
-    "slug": "phoinportlandme-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/ME/PORTLAND/Pho"
-  },
-  {
-    "name": "Portland, OR - Delivery & Takeout",
-    "slug": "portlandor-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OR/Portland"
-  },
-  {
-    "name": "Vietnamese in Portland, OR - Delivery & Takeout",
-    "slug": "vietnameseinportlandor-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OR/Portland/Vietnamese"
-  },
-  {
-    "name": "Asian in Portland, OR - Delivery & Takeout",
-    "slug": "asianinportlandor-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OR/Portland/Asian"
-  },
-  {
-    "name": "Asian Fusion in Portland, OR - Delivery & Takeout",
-    "slug": "asianfusioninportlandor-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OR/Portland/Asian%20Fusion"
-  },
-  {
-    "name": "Pho in Portland, OR - Delivery & Takeout",
-    "slug": "phoinportlandor-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OR/Portland/Pho"
-  },
-  {
-    "name": "SOUTHWEST PORTLAND, OR - Delivery & Takeout",
-    "slug": "southwestportlandor-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OR/SOUTHWEST%20PORTLAND"
-  },
-  {
-    "name": "NEWBERG, OR - Delivery & Takeout",
-    "slug": "newbergor-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OR/NEWBERG"
-  },
-  {
-    "name": "Russian in PORTLAND, OR - Delivery & Takeout",
-    "slug": "russianinportlandor-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OR/PORTLAND/Russian"
+    ]
   },
   {
     "name": "Portland - Fogo de Chão",
@@ -1987,7 +1694,7 @@
   {
     "name": "LEE'S SANDWICHES PORTLAND",
     "slug": "leessandwichesportland",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "portland"
     ],
@@ -2014,7 +1721,7 @@
   {
     "name": "82nd & Otty - Clackamas",
     "slug": "82ndotty-clackamas",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "portland"
     ],
@@ -2023,7 +1730,7 @@
   {
     "name": "Sizzle Pie Downtown",
     "slug": "sizzlepiedowntown",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "portland"
     ],
@@ -2041,7 +1748,7 @@
   {
     "name": "Sizzle Pie Central EastsideX",
     "slug": "sizzlepiecentraleastsidex",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "portland"
     ],
@@ -2050,7 +1757,7 @@
   {
     "name": "Sizzle Pie Hollywood DistrictX",
     "slug": "sizzlepiehollywooddistrictx",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "portland"
     ],
@@ -2086,7 +1793,7 @@
   {
     "name": "Sizzle Pie DowntownX",
     "slug": "sizzlepiedowntownx",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "portland"
     ],
@@ -2134,8 +1841,7 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ],
-    "websiteOrderUrl": "https://studioonetheater.getbento.com/"
+    ]
   },
   {
     "name": "The Best Online Ordering System for Restaurants in 2024",
@@ -2143,8 +1849,7 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/the-best-online-ordering-system-for-restaurants/"
+    ]
   },
   {
     "name": "Restaurant Online Ordering",
@@ -2161,8 +1866,7 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/online-restaurant-reservation-systems/"
+    ]
   },
   {
     "name": "Dine-in ordering",
@@ -2179,8 +1883,7 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/"
+    ]
   },
   {
     "name": "Restaurant Catering Software",
@@ -2197,8 +1900,7 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ],
-    "websiteOrderUrl": "https://carinalounge.getbento.com/"
+    ]
   },
   {
     "name": "Direct Online Ordering System Advantages for Restaurants",
@@ -2206,17 +1908,15 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/direct-online-ordering-system-for-restaurants/"
+    ]
   },
   {
     "name": "Looking For Delivery Fulfillment For Your Restaurant?",
     "slug": "lookingfordeliveryfulfillmentforyourrest",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "portland"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/benefits-of-delivery-fulfillment-for-restaurants/"
+    ]
   },
   {
     "name": "Pre",
@@ -2224,8 +1924,7 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/why-we-built-restaurant-pre-order-catering/"
+    ]
   },
   {
     "name": "COLIBRI - Portland, Oregon",
@@ -2284,7 +1983,7 @@
   {
     "name": "SHAMI CAFÉ - Portland, Oregon",
     "slug": "shamicaf-portlandoregon",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "portland"
     ],
@@ -2320,7 +2019,7 @@
   {
     "name": "MI BURRITO 2021 - PORTLAND, OR",
     "slug": "miburrito2021-portlandor",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "portland"
     ],
@@ -2338,7 +2037,7 @@
   {
     "name": "Sisters Ethiopian Restaurant - PORTLAND, OR",
     "slug": "sistersethiopianrestaurant-portlandor",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "portland"
     ],
@@ -2392,7 +2091,7 @@
   {
     "name": "DRUNKEN NOODLE - PORTLAND, OR",
     "slug": "drunkennoodle-portlandor",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "portland"
     ],
@@ -2401,43 +2100,16 @@
   {
     "name": "FANTASTEA @ PSU - PORTLAND, OR",
     "slug": "fantasteapsu-portlandor",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "portland"
     ],
     "websiteOrderUrl": "https://www.clover.com/online-ordering/fantastea-psu"
   },
   {
-    "name": "Online Ordering for Flying Saucer Pizza Company - Salem",
-    "slug": "onlineorderingforflyingsaucerpizzacompan",
-    "category": "pizza",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/340/448/items"
-  },
-  {
-    "name": "Online Ordering for Chad Anthony's To Go - Salem",
-    "slug": "onlineorderingforchadanthonystogo-salem",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/1789/locations/6817"
-  },
-  {
-    "name": "Online Ordering for Restaurants with No Commissions",
-    "slug": "onlineorderingforrestaurantswithnocommis",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/22662/locations"
-  },
-  {
     "name": "Big Fin Poké South Portland",
     "slug": "bigfinpoksouthportland",
-    "category": "restaurant",
+    "category": "poke",
     "metros": [
       "portland"
     ],
@@ -2446,7 +2118,7 @@
   {
     "name": "Poke Poke Loop (Palmer House)",
     "slug": "pokepokelooppalmerhouse",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "portland"
     ],
@@ -2455,7 +2127,7 @@
   {
     "name": "Poke OG - Downtown POKE OG DOWNTOWN",
     "slug": "pokeog-downtownpokeogdowntown",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "portland"
     ],
@@ -2464,7 +2136,7 @@
   {
     "name": "Poke Poke Streeterville",
     "slug": "pokepokestreeterville",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "portland"
     ],
@@ -2473,7 +2145,7 @@
   {
     "name": "Poke Dot 17921 MacArthur Blvd",
     "slug": "pokedot17921macarthurblvd",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "portland"
     ],
@@ -2482,7 +2154,7 @@
   {
     "name": "Poke Burrito Astoria 37-07 30th Ave.",
     "slug": "pokeburritoastoria37-0730thave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "portland"
     ],
@@ -2491,7 +2163,7 @@
   {
     "name": "Poke Burri 3231 powelton ave",
     "slug": "pokeburri3231poweltonave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "portland"
     ],
@@ -2500,7 +2172,7 @@
   {
     "name": "Seaside Poke Understory",
     "slug": "seasidepokeunderstory",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "portland"
     ],
@@ -2509,7 +2181,7 @@
   {
     "name": "Poke OG @ 1800 143 NW 23 ST",
     "slug": "pokeog1800143nw23st",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "portland"
     ],
@@ -2518,7 +2190,7 @@
   {
     "name": "Fresh Catch Poke Co. - Hertel Ave.",
     "slug": "freshcatchpokeco-hertelave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "portland"
     ],
@@ -2527,7 +2199,7 @@
   {
     "name": "Poke Row 2735 NW Crossing Dr #105",
     "slug": "pokerow2735nwcrossingdr105",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "portland"
     ],
@@ -2536,7 +2208,7 @@
   {
     "name": "Big Daddy's Poke Shack",
     "slug": "bigdaddyspokeshack",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "portland"
     ],
@@ -2545,7 +2217,7 @@
   {
     "name": "TwoFish Poke",
     "slug": "twofishpoke",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "portland"
     ],
@@ -2554,7 +2226,7 @@
   {
     "name": "Poke Poke West Loop",
     "slug": "pokepokewestloop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "portland"
     ],
@@ -2563,7 +2235,7 @@
   {
     "name": "Poke Bunny 100 East Gay Street, Unit 1",
     "slug": "pokebunny100eastgaystreetunit1",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "portland"
     ],
@@ -2635,7 +2307,7 @@
   {
     "name": "Mr. Greek of Buffalo 1122 Elmwood Ave.",
     "slug": "mrgreekofbuffalo1122elmwoodave",
-    "category": "mediterranean",
+    "category": "wings",
     "metros": [
       "portland"
     ],
@@ -2671,7 +2343,7 @@
   {
     "name": "Radiant Juice + Smoothie Bar 702 Main St., Suite 103",
     "slug": "radiantjuicesmoothiebar702mainstsuite103",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "portland"
     ],
@@ -2680,7 +2352,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "portland"
     ],
@@ -2689,7 +2361,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "portland"
     ],
@@ -2707,7 +2379,7 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "portland"
     ],
@@ -2716,7 +2388,7 @@
   {
     "name": "Smoothie Time",
     "slug": "smoothietime",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "portland"
     ],
@@ -2725,7 +2397,7 @@
   {
     "name": "Awake Juice Bar Legends",
     "slug": "awakejuicebarlegends",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "portland"
     ],
@@ -2743,29 +2415,11 @@
   {
     "name": "Juice It - 13th Ave S",
     "slug": "juiceit-13thaves",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "portland"
     ],
     "toastUrl": "https://order.toasttab.com/online/juice-it-13th-ave-s-4302-13th-ave-s"
-  },
-  {
-    "name": "Online Ordering for Primo’s Pizza",
-    "slug": "onlineorderingforprimospizza",
-    "category": "pizza",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/11030/locations"
-  },
-  {
-    "name": "Online Ordering for Pronto Pizza - New Milford",
-    "slug": "onlineorderingforprontopizza-newmilford",
-    "category": "pizza",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/6660/locations"
   },
   {
     "name": "Online Food Ordering System & App",
@@ -2775,23 +2429,5 @@
       "portland"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/415/9797/items"
-  },
-  {
-    "name": "Online Ordering for Paesano's Pronto",
-    "slug": "onlineorderingforpaesanospronto",
-    "category": "restaurant",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/23/locations"
-  },
-  {
-    "name": "Online Ordering for Taco Pronto",
-    "slug": "onlineorderingfortacopronto",
-    "category": "mexican",
-    "metros": [
-      "portland"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/1535/1984/items"
   }
 ]

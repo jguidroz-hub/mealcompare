@@ -26,7 +26,7 @@
   {
     "name": "Sexy Steak",
     "slug": "sexysteak",
-    "category": "restaurant",
+    "category": "steakhouse",
     "metros": [
       "detroit"
     ]
@@ -106,7 +106,7 @@
   {
     "name": "Ima Izakaya",
     "slug": "imaizakaya",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "detroit"
     ]
@@ -138,7 +138,7 @@
   {
     "name": "Batch Brewing Company",
     "slug": "batchbrewingcompany",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "detroit"
     ]
@@ -218,7 +218,7 @@
   {
     "name": "Royal Eats Brunch & Dinner",
     "slug": "royaleatsbrunchdinner",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "detroit"
     ]
@@ -226,7 +226,7 @@
   {
     "name": "Tom's Oyster Bar",
     "slug": "tomsoysterbar",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "detroit"
     ]
@@ -242,7 +242,7 @@
   {
     "name": "Lily's Seafood Grill & Brewery",
     "slug": "lilysseafoodgrillbrewery",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "detroit"
     ]
@@ -306,7 +306,7 @@
   {
     "name": "Pop's For Italian",
     "slug": "popsforitalian",
-    "category": "restaurant",
+    "category": "italian",
     "metros": [
       "detroit"
     ]
@@ -354,7 +354,7 @@
   {
     "name": "Mootz Pizzeria + Bar",
     "slug": "mootzpizzeriabar",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "detroit"
     ]
@@ -402,7 +402,7 @@
   {
     "name": "Sicily's pizzeria and subs",
     "slug": "sicilyspizzeriaandsubs",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "detroit"
     ]
@@ -433,18 +433,9 @@
     "toastUrl": "https://order.toasttab.com/online/hygrade-deli-3640-michigan-avenue"
   },
   {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/yum-village-new-center-6500-woodward-ave"
-  },
-  {
     "name": "Coneytown, Gyroland Food Court",
     "slug": "coneytowngyrolandfoodcourt",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "detroit"
     ],
@@ -714,7 +705,7 @@
   {
     "name": "Gyrosa Saanich - Royal Oak",
     "slug": "gyrosasaanich-royaloak",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "detroit"
     ],
@@ -759,7 +750,7 @@
   {
     "name": "Publican Quality Bread -Oak Park",
     "slug": "publicanqualitybread-oakpark",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "detroit"
     ],
@@ -813,7 +804,7 @@
   {
     "name": "Oak's Korean Kitchen",
     "slug": "oakskoreankitchen",
-    "category": "restaurant",
+    "category": "korean",
     "metros": [
       "detroit"
     ],
@@ -1047,7 +1038,7 @@
   {
     "name": "Midtown Oyster Bar",
     "slug": "midtownoysterbar",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "detroit"
     ],
@@ -1092,7 +1083,7 @@
   {
     "name": "New York Bagel Ferndale",
     "slug": "newyorkbagelferndale",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "detroit"
     ],
@@ -1254,7 +1245,7 @@
   {
     "name": "order-page-wrapper.order",
     "slug": "order-page-wrapperorder",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "detroit"
     ],
@@ -1281,7 +1272,7 @@
   {
     "name": "House of Gumbo - West Detroit",
     "slug": "houseofgumbo-westdetroit",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "detroit"
     ],
@@ -1290,7 +1281,7 @@
   {
     "name": "Dodies Cajun Diner at The Harbor",
     "slug": "dodiescajundinerattheharbor",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "detroit"
     ],
@@ -1299,7 +1290,7 @@
   {
     "name": "Jingo Cajun Eatery Lumberton 133 #A North Lhs Dr.",
     "slug": "jingocajuneaterylumberton133anorthlhsdr",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "detroit"
     ],
@@ -1308,7 +1299,7 @@
   {
     "name": "The Cajun Spot 17731 Fairgrove Park Dr",
     "slug": "thecajunspot17731fairgroveparkdr",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "detroit"
     ],
@@ -1317,7 +1308,7 @@
   {
     "name": "Cajun Corner - Uptown 23rd St",
     "slug": "cajuncorner-uptown23rdst",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "detroit"
     ],
@@ -1326,7 +1317,7 @@
   {
     "name": "Boudreau & Thibodeau's Cajun Cookin'",
     "slug": "boudreauthibodeauscajuncookin",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "detroit"
     ],
@@ -1335,7 +1326,7 @@
   {
     "name": "Crazy Cajun",
     "slug": "crazycajun",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "detroit"
     ],
@@ -1344,7 +1335,7 @@
   {
     "name": "Cajun Corner - NW Expressway",
     "slug": "cajuncorner-nwexpressway",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "detroit"
     ],
@@ -1353,7 +1344,7 @@
   {
     "name": "Crawdaddys Cajun 13 Tomlinson Mill Rd",
     "slug": "crawdaddyscajun13tomlinsonmillrd",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "detroit"
     ],
@@ -1362,7 +1353,7 @@
   {
     "name": "Ya Better Eat Cajun Smokehouse 711 2nd Avenue North",
     "slug": "yabettereatcajunsmokehouse7112ndavenueno",
-    "category": "restaurant",
+    "category": "bbq",
     "metros": [
       "detroit"
     ],
@@ -1515,7 +1506,7 @@
   {
     "name": "Detroit Eatery 200 5th Avenue – Order pickup and delivery",
     "slug": "detroiteatery2005thavenueorderpickupandd",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "detroit"
     ],
@@ -1536,35 +1527,15 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ],
-    "websiteOrderUrl": "https://hub-41.popmenu.com/"
+    ]
   },
   {
     "name": "Home - Social Brews",
     "slug": "home-socialbrews",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "detroit"
-    ],
-    "websiteOrderUrl": "https://social-brews-detroit.popmenu.com/"
-  },
-  {
-    "name": "Popmenu: Restaurant online ordering",
-    "slug": "popmenurestaurantonlineordering",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
-  },
-  {
-    "name": "Popmenu: About Us",
-    "slug": "popmenuaboutus",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/about-us"
+    ]
   },
   {
     "name": "Restaurant analytics: How to collect (and use) guest data",
@@ -1572,17 +1543,7 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-analytics-data-guide"
-  },
-  {
-    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
-    "slug": "popmenutoolkittherestaurantgrowthplayboo",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+    ]
   },
   {
     "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
@@ -1590,58 +1551,12 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
-  },
-  {
-    "name": "Popmenu: Manage your restaurant's online reputation",
-    "slug": "popmenumanageyourrestaurantsonlinereputa",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/reputation-management"
-  },
-  {
-    "name": "Popmenu: Modern restaurant website builder with SEO built in",
-    "slug": "popmenumodernrestaurantwebsitebuilderwit",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/restaurant-website-design"
-  },
-  {
-    "name": "Popmenu: Case Study - B&B Butchers Restaurant",
-    "slug": "popmenucasestudy-bbbutchersrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/b-b-butchers-restaurant"
-  },
-  {
-    "name": "Popmenu toolkit: 2025 Trends Report",
-    "slug": "popmenutoolkit2025trendsreport",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/2025-trends-report"
+    ]
   },
   {
     "name": "Detroit Deli",
     "slug": "detroitdeli",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "detroit"
     ],
@@ -1677,7 +1592,7 @@
   {
     "name": "Spicy Grilled Fish Bowls",
     "slug": "spicygrilledfishbowls",
-    "category": "restaurant",
+    "category": "seafood",
     "metros": [
       "detroit"
     ],
@@ -1749,7 +1664,7 @@
   {
     "name": "About Detroit Sandwich Party",
     "slug": "aboutdetroitsandwichparty",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "detroit"
     ],
@@ -1761,8 +1676,7 @@
     "category": "pizza",
     "metros": [
       "detroit"
-    ],
-    "websiteOrderUrl": "https://firepizza.menufy.com/"
+    ]
   },
   {
     "name": "Fire Pizza Detroit - Detroit, MI 48228 (Menu & Order Online)",
@@ -1774,157 +1688,12 @@
     "websiteOrderUrl": "https://firepizza.menufy.com/order"
   },
   {
-    "name": "CLEVELAND, OH - Delivery & Takeout",
-    "slug": "clevelandoh-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OH/CLEVELAND"
-  },
-  {
-    "name": "Restaurants - Delivery & Takeout",
-    "slug": "restaurants-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://orderladolcevita.menufy.com/"
-  },
-  {
-    "name": "Midwest City, OK - Delivery & Takeout",
-    "slug": "midwestcityok-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OK/Midwest%20City"
-  },
-  {
-    "name": "Kansas City, MO - Delivery & Takeout",
-    "slug": "kansascitymo-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MO/Kansas%20City"
-  },
-  {
-    "name": "Baltimore, MD - Delivery & Takeout",
-    "slug": "baltimoremd-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MD/Baltimore"
-  },
-  {
-    "name": "DELAWARE, OH - Delivery & Takeout",
-    "slug": "delawareoh-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OH/DELAWARE"
-  },
-  {
-    "name": "NY - Delivery & Takeout",
-    "slug": "ny-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NY"
-  },
-  {
-    "name": "Cleveland Heights, OH - Delivery & Takeout",
-    "slug": "clevelandheightsoh-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OH/Cleveland%20Heights"
-  },
-  {
-    "name": "WALL TOWNSHIP, NJ - Delivery & Takeout",
-    "slug": "walltownshipnj-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NJ/WALL%20TOWNSHIP"
-  },
-  {
-    "name": "San Antonio, TX - Delivery & Takeout",
-    "slug": "sanantoniotx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/San%20Antonio"
-  },
-  {
-    "name": "Kearney, MO - Delivery & Takeout",
-    "slug": "kearneymo-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/MO/Kearney"
-  },
-  {
-    "name": "DC - Delivery & Takeout",
-    "slug": "dc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/DC"
-  },
-  {
-    "name": "Carrollton, TX - Delivery & Takeout",
-    "slug": "carrolltontx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/Carrollton"
-  },
-  {
-    "name": "Sayreville, NJ - Delivery & Takeout",
-    "slug": "sayrevillenj-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NJ/Sayreville"
-  },
-  {
-    "name": "The Colony, TX - Delivery & Takeout",
-    "slug": "thecolonytx-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/TX/The%20Colony"
-  },
-  {
-    "name": "Neptune City, NJ - Delivery & Takeout",
-    "slug": "neptunecitynj-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NJ/Neptune%20City"
-  },
-  {
     "name": "Online Ordering and Restaurant Marketing System",
     "slug": "onlineorderingandrestaurantmarketingsyst",
     "category": "restaurant",
     "metros": [
       "detroit"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/"
+    ]
   },
   {
     "name": "RestaurantGPT",
@@ -1945,15 +1714,6 @@
     "websiteOrderUrl": "https://www.owner.com/reviews"
   },
   {
-    "name": "Pricing",
-    "slug": "pricing",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/pricing"
-  },
-  {
     "name": "How Owner.com Works",
     "slug": "howownercomworks",
     "category": "restaurant",
@@ -1963,31 +1723,12 @@
     "websiteOrderUrl": "https://www.owner.com/how-owner-works"
   },
   {
-    "name": "No Commission Delivery for Restaurants",
-    "slug": "nocommissiondeliveryforrestaurants",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/delivery"
-  },
-  {
-    "name": "Owner.com Competitors",
-    "slug": "ownercomcompetitors",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/comparison"
-  },
-  {
     "name": "Restaurant Marketing Blog",
     "slug": "restaurantmarketingblog",
     "category": "restaurant",
     "metros": [
       "detroit"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/blog"
+    ]
   },
   {
     "name": "Owner.com App",
@@ -2139,13 +1880,12 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ],
-    "websiteOrderUrl": "https://www.olo.com/"
+    ]
   },
   {
     "name": "Restaurant Delivery Management Software",
     "slug": "restaurantdeliverymanagementsoftware",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "detroit"
     ],
@@ -2193,8 +1933,7 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ],
-    "websiteOrderUrl": "https://norms.olo.com/"
+    ]
   },
   {
     "name": "Olo Sync",
@@ -2249,15 +1988,6 @@
       "detroit"
     ],
     "websiteOrderUrl": "https://norms.olo.com/menu/norms-riverside"
-  },
-  {
-    "name": "ᐅ Detroit Pizza Near Me - Detroit Pizza Delivery on Slice",
-    "slug": "detroitpizzanearme-detroitpizzadeliveryo",
-    "category": "pizza",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://slicelife.com/pizza-types/detroit-pizza"
   },
   {
     "name": "ᐅ Detroit Pizza Delivery - Best Pizza Places in Detroit 2025",
@@ -2332,15 +2062,6 @@
     "websiteOrderUrl": "https://www.gloriafood.com/restaurant-website-builder"
   },
   {
-    "name": "GloriaFood Online Ordering: Testimonials",
-    "slug": "gloriafoodonlineorderingtestimonials",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://www.gloriafood.com/reviews"
-  },
-  {
     "name": "GloriaFood Online Ordering: WordPress food menu plugin",
     "slug": "gloriafoodonlineorderingwordpressfoodmen",
     "category": "restaurant",
@@ -2386,15 +2107,6 @@
     "websiteOrderUrl": "https://www.ezcater.com/lunchrush/office/top-5-boxed-lunch-restaurants-in-detroit-michigan/"
   },
   {
-    "name": "Detroit, MI Catering Near Me",
-    "slug": "detroitmicateringnearme",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://www.ezcater.com/catering/mi/detroit"
-  },
-  {
     "name": "Detroit Eatery Catering in Royal Oak, MI - 200 W 5th Ave",
     "slug": "detroiteaterycateringinroyaloakmi-200w5t",
     "category": "restaurant",
@@ -2406,7 +2118,7 @@
   {
     "name": "Breadless Catering in Detroit, MI - 2760 E Larned St",
     "slug": "breadlesscateringindetroitmi-2760elarned",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "detroit"
     ],
@@ -2424,7 +2136,7 @@
   {
     "name": "Discover top breakfast catering in Detroit",
     "slug": "discovertopbreakfastcateringindetroit",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "detroit"
     ],
@@ -2496,7 +2208,7 @@
   {
     "name": "Otter Creek Bakery & Deli - in town Middlebury location",
     "slug": "ottercreekbakerydeli-intownmiddleburyloc",
-    "category": "bakery",
+    "category": "deli",
     "metros": [
       "detroit"
     ],
@@ -2550,7 +2262,7 @@
   {
     "name": "New Leaf Chinese & Japanese Cuisine",
     "slug": "newleafchinesejapanesecuisine",
-    "category": "chinese",
+    "category": "japanese",
     "metros": [
       "detroit"
     ],
@@ -2577,7 +2289,7 @@
   {
     "name": "The Big Salad Grosse Pointe",
     "slug": "thebigsaladgrossepointe",
-    "category": "restaurant",
+    "category": "healthy",
     "metros": [
       "detroit"
     ],

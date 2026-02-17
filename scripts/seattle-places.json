@@ -161,8 +161,7 @@
       "seattle"
     ],
     "placeId": "ChIJS6quTsYVkFQRCqzcs081o0M",
-    "website": "http://www.asaderoprime.com/",
-    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
+    "website": "http://www.asaderoprime.com/"
   },
   {
     "name": "Ray's Boathouse",
@@ -177,7 +176,7 @@
   {
     "name": "Sabine Café & Bar",
     "slug": "sabinecafbar",
-    "category": "restaurant",
+    "category": "cafe",
     "metros": [
       "seattle"
     ],
@@ -413,7 +412,7 @@
   {
     "name": "Fremont Brewing's Urban Beer Garden",
     "slug": "fremontbrewingsurbanbeergarden",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "seattle"
     ],
@@ -484,15 +483,6 @@
     "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
-    "name": "Order Online",
-    "slug": "orderonline",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/monsoon-seattle-615-19th-ave-e"
-  },
-  {
     "name": "Alki Beach - Order Online",
     "slug": "alkibeach-orderonline",
     "category": "restaurant",
@@ -511,40 +501,12 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/5241/locations"
   },
   {
-    "name": "Online ordering competitors every restaurant should know",
-    "slug": "onlineorderingcompetitorseveryrestaurant",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know"
-  },
-  {
-    "name": "6 Best Popmenu Competitors to Consider (Pros & Cons)",
-    "slug": "6bestpopmenucompetitorstoconsiderproscon",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons"
-  },
-  {
-    "name": "Popmenu: Pricing",
-    "slug": "popmenupricing",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/pricing"
-  },
-  {
     "name": "How to set up online food ordering in an afternoon",
     "slug": "howtosetuponlinefoodorderinginanafternoo",
     "category": "restaurant",
     "metros": [
       "seattle"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
+    ]
   },
   {
     "name": "5 ways to ramp up your restaurant online ordering system",
@@ -552,8 +514,7 @@
     "category": "restaurant",
     "metros": [
       "seattle"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-online-ordering-system"
+    ]
   },
   {
     "name": "Why every restaurant needs an interactive menu",
@@ -561,53 +522,7 @@
     "category": "restaurant",
     "metros": [
       "seattle"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/every-restaurant-needs-interactive-menu"
-  },
-  {
-    "name": "Key Strategies To Growing Your Restaurant In A Competitive Market",
-    "slug": "keystrategiestogrowingyourrestaurantinac",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/key-strategies-to-growing-your-restaurant-in-a-competitive-market"
-  },
-  {
-    "name": "Popmenu: Case Study - The Hampton Social",
-    "slug": "popmenucasestudy-thehamptonsocial",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/improving-margins/the-hampton-social"
-  },
-  {
-    "name": "Tech the Halls with Popmenu",
-    "slug": "techthehallswithpopmenu",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/tech-the-halls-reach-more-guests"
-  },
-  {
-    "name": "Popmenu: Case Study - Phat Eatery",
-    "slug": "popmenucasestudy-phateatery",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-story/phat-eatery"
-  },
-  {
-    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
-    "slug": "popmenutoolkittherestaurantgrowthplayboo",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+    ]
   },
   {
     "name": "4 tech-focused tips to fight rising restaurant costs",
@@ -615,8 +530,7 @@
     "category": "restaurant",
     "metros": [
       "seattle"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs"
+    ]
   },
   {
     "name": "Food Junction 1165 Harrison st, Ste A",
@@ -630,7 +544,7 @@
   {
     "name": "Peninsula Soul Food 4611 36th Ave SW",
     "slug": "peninsulasoulfood461136thavesw",
-    "category": "restaurant",
+    "category": "southern",
     "metros": [
       "seattle"
     ],
@@ -648,7 +562,7 @@
   {
     "name": "Nana's Green Tea Downtown Seattle",
     "slug": "nanasgreenteadowntownseattle",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "seattle"
     ],
@@ -702,7 +616,7 @@
   {
     "name": "Drip Tea Seattle",
     "slug": "dripteaseattle",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "seattle"
     ],
@@ -711,7 +625,7 @@
   {
     "name": "Elliott Bay Brewing - West Seattle",
     "slug": "elliottbaybrewing-westseattle",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "seattle"
     ],
@@ -853,15 +767,6 @@
     "toastUrl": "https://order.toasttab.com/online/cafe-lago-2305-24th-ave-e"
   },
   {
-    "name": "Online Ordering for Sweetgrass Food Co. - Seattle",
-    "slug": "onlineorderingforsweetgrassfoodco-seattl",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/4062/locations/5303"
-  },
-  {
     "name": "Crawfish Chef - Bellevue 1645 140th Avenue Northeast",
     "slug": "crawfishchef-bellevue1645140thavenuenort",
     "category": "seafood",
@@ -981,7 +886,7 @@
   {
     "name": "Drip Tea Bellevue",
     "slug": "dripteabellevue",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "seattle"
     ],
@@ -1044,7 +949,7 @@
   {
     "name": "Hot Cakes Capitol Hill",
     "slug": "hotcakescapitolhill",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "seattle"
     ],
@@ -1098,7 +1003,7 @@
   {
     "name": "Junction Bistro, Bar & Bakery Capitol Hill 238 ...",
     "slug": "junctionbistrobarbakerycapitolhill238",
-    "category": "cafe",
+    "category": "bakery",
     "metros": [
       "seattle"
     ],
@@ -1143,7 +1048,7 @@
   {
     "name": "Tandoori 9344 Ballard Road",
     "slug": "tandoori9344ballardroad",
-    "category": "restaurant",
+    "category": "indian",
     "metros": [
       "seattle"
     ],
@@ -1179,7 +1084,7 @@
   {
     "name": "Cookie's Country Chicken - BALLARD",
     "slug": "cookiescountrychicken-ballard",
-    "category": "restaurant",
+    "category": "bakery",
     "metros": [
       "seattle"
     ],
@@ -1242,7 +1147,7 @@
   {
     "name": "Stoup Brewing - Ballard",
     "slug": "stoupbrewing-ballard",
-    "category": "wings",
+    "category": "cafe",
     "metros": [
       "seattle"
     ],
@@ -1269,7 +1174,7 @@
   {
     "name": "Chicken G's - Fremont 40839 Fremont Boulevard",
     "slug": "chickengs-fremont40839fremontboulevard",
-    "category": "restaurant",
+    "category": "chicken",
     "metros": [
       "seattle"
     ],
@@ -1305,7 +1210,7 @@
   {
     "name": "Fremont Pizzeria of Kingston LLC",
     "slug": "fremontpizzeriaofkingstonllc",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "seattle"
     ],
@@ -1323,11 +1228,10 @@
   {
     "name": "Rose Tea Lounge - FREMONT",
     "slug": "rosetealounge-fremont",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "seattle"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/rosetealounge.com"
+    ]
   },
   {
     "name": "Pizza Hub 40986 Fremont Boulevard",
@@ -1377,7 +1281,7 @@
   {
     "name": "paradise biryani - fremont",
     "slug": "paradisebiryani-fremont",
-    "category": "restaurant",
+    "category": "indian",
     "metros": [
       "seattle"
     ],
@@ -1409,15 +1313,6 @@
       "seattle"
     ],
     "toastUrl": "https://order.toasttab.com/online/fresh-love-7434-ne-fremont-st"
-  },
-  {
-    "name": "Online Ordering for Restaurants with No Commissions",
-    "slug": "onlineorderingforrestaurantswithnocommis",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/3467/locations"
   },
   {
     "name": "Outsider BBQ & Beer Garden",
@@ -1611,7 +1506,7 @@
   {
     "name": "Taffach Ethiopian Restaurant 113 D Street",
     "slug": "taffachethiopianrestaurant113dstreet",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "seattle"
     ],
@@ -1620,7 +1515,7 @@
   {
     "name": "Tana Ethiopian Cuisine",
     "slug": "tanaethiopiancuisine",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "seattle"
     ],
@@ -1629,7 +1524,7 @@
   {
     "name": "Ledet Ethiopian Restaurant and Bar 4975 Memorial Dr",
     "slug": "ledetethiopianrestaurantandbar4975memori",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "seattle"
     ],
@@ -1638,7 +1533,7 @@
   {
     "name": "Letena Ethiopian Restaurant",
     "slug": "letenaethiopianrestaurant",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "seattle"
     ],
@@ -1647,7 +1542,7 @@
   {
     "name": "Meskerem Ethiopian Restaurant",
     "slug": "meskeremethiopianrestaurant",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "seattle"
     ],
@@ -1656,7 +1551,7 @@
   {
     "name": "Das Ethiopian Cuisine",
     "slug": "dasethiopiancuisine",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "seattle"
     ],
@@ -1665,7 +1560,7 @@
   {
     "name": "Konjo Ethiopian Food Edgewater Public Market",
     "slug": "konjoethiopianfoodedgewaterpublicmarket",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "seattle"
     ],
@@ -1674,7 +1569,7 @@
   {
     "name": "Demera Ethiopian Restaurant",
     "slug": "demeraethiopianrestaurant",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "seattle"
     ],
@@ -1683,7 +1578,7 @@
   {
     "name": "LeYou Ethiopian 1100 N First St suite c",
     "slug": "leyouethiopian1100nfirststsuitec",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "seattle"
     ],
@@ -1692,7 +1587,7 @@
   {
     "name": "Leyu Ethiopian Restaurant",
     "slug": "leyuethiopianrestaurant",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "seattle"
     ],
@@ -1701,7 +1596,7 @@
   {
     "name": "Bolé Ethiopian Cuisine Como",
     "slug": "bolethiopiancuisinecomo",
-    "category": "restaurant",
+    "category": "african",
     "metros": [
       "seattle"
     ],
@@ -1719,7 +1614,7 @@
   {
     "name": "The Greek Corner 2366 Massachusetts Avenue",
     "slug": "thegreekcorner2366massachusettsavenue",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "seattle"
     ],
@@ -1728,7 +1623,7 @@
   {
     "name": "Greek Souvlaki Downtown",
     "slug": "greeksouvlakidowntown",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "seattle"
     ],
@@ -1737,7 +1632,7 @@
   {
     "name": "Meraki Greek Bistro Downtown",
     "slug": "merakigreekbistrodowntown",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "seattle"
     ],
@@ -1746,7 +1641,7 @@
   {
     "name": "The Greek Spot Sunnyvale",
     "slug": "thegreekspotsunnyvale",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "seattle"
     ],
@@ -1755,7 +1650,7 @@
   {
     "name": "Opa Greek Yeeros 378 Highland Ave",
     "slug": "opagreekyeeros378highlandave",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "seattle"
     ],
@@ -1764,7 +1659,7 @@
   {
     "name": "The Greek Taverna 1903 Staples Mill Rd",
     "slug": "thegreektaverna1903staplesmillrd",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "seattle"
     ],
@@ -1782,7 +1677,7 @@
   {
     "name": "It's Greek to Me - Fort Lee 1611 Palisade Ave.",
     "slug": "itsgreektome-fortlee1611palisadeave",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "seattle"
     ],
@@ -1800,7 +1695,7 @@
   {
     "name": "Grilla Greek Kouzina 224 Broadway",
     "slug": "grillagreekkouzina224broadway",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "seattle"
     ],
@@ -1809,7 +1704,7 @@
   {
     "name": "Taste Greek Street Food",
     "slug": "tastegreekstreetfood",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "seattle"
     ],
@@ -1818,7 +1713,7 @@
   {
     "name": "GReKo Greek Street Food",
     "slug": "grekogreekstreetfood",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "seattle"
     ],
@@ -1836,7 +1731,7 @@
   {
     "name": "simply greek 44 Centennial Drive",
     "slug": "simplygreek44centennialdrive",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "seattle"
     ],
@@ -1845,7 +1740,7 @@
   {
     "name": "Eat Greek",
     "slug": "eatgreek",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "seattle"
     ],
@@ -1854,7 +1749,7 @@
   {
     "name": "Just Greek in Livingston",
     "slug": "justgreekinlivingston",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "seattle"
     ],
@@ -1863,7 +1758,7 @@
   {
     "name": "Meltemi Greek Restaurant Ridgewood",
     "slug": "meltemigreekrestaurantridgewood",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "seattle"
     ],
@@ -1872,47 +1767,11 @@
   {
     "name": "Meraki Greek Bistro Coconut Grove",
     "slug": "merakigreekbistrococonutgrove",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "seattle"
     ],
     "toastUrl": "https://order.toasttab.com/online/merakibistrogrove"
-  },
-  {
-    "name": "Popmenu: Restaurant online ordering",
-    "slug": "popmenurestaurantonlineordering",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
-  },
-  {
-    "name": "5 menu design Ideas for digital-first restaurants",
-    "slug": "5menudesignideasfordigital-firstrestaura",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
-  },
-  {
-    "name": "Popmenu: Case Study - Dos Salsas",
-    "slug": "popmenucasestudy-dossalsas",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
-  },
-  {
-    "name": "Popmenu: Manage your restaurant's online reputation",
-    "slug": "popmenumanageyourrestaurantsonlinereputa",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/reputation-management"
   },
   {
     "name": "Restaurant promotions are a powerful marketing tool",
@@ -1920,26 +1779,7 @@
     "category": "restaurant",
     "metros": [
       "seattle"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-promotions"
-  },
-  {
-    "name": "Popmenu: About Us",
-    "slug": "popmenuaboutus",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/about-us"
-  },
-  {
-    "name": "Popmenu: Client Testimonials & Reviews",
-    "slug": "popmenuclienttestimonialsreviews",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/client-testimonials-reviews"
+    ]
   },
   {
     "name": "The ultimate guide to restaurant branding",
@@ -1947,8 +1787,7 @@
     "category": "restaurant",
     "metros": [
       "seattle"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-branding-guide"
+    ]
   },
   {
     "name": "Do you need a restaurant waitlist app?",
@@ -1956,8 +1795,7 @@
     "category": "restaurant",
     "metros": [
       "seattle"
-    ],
-    "websiteOrderUrl": "https://get.popmenu.com/post/do-you-need-a-restaurant-waitlist-app"
+    ]
   },
   {
     "name": "Daimonji Sushi Bar & Grill Japanese Restaurant Seattle",
@@ -1989,7 +1827,7 @@
   {
     "name": "Acai Smoothies Lattes",
     "slug": "acaismoothieslattes",
-    "category": "restaurant",
+    "category": "poke",
     "metros": [
       "seattle"
     ],
@@ -2050,157 +1888,21 @@
     "squareUrl": "https://yoroshiku1.square.site/"
   },
   {
-    "name": "Seattle, WA - Delivery & Takeout",
-    "slug": "seattlewa-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WA/Seattle"
-  },
-  {
-    "name": "LAKE STEVENS, WA - Delivery & Takeout",
-    "slug": "lakestevenswa-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WA/LAKE%20STEVENS"
-  },
-  {
-    "name": "WA - Delivery & Takeout",
-    "slug": "wa-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WA"
-  },
-  {
-    "name": "Edmonds, WA - Delivery & Takeout",
-    "slug": "edmondswa-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WA/Edmonds"
-  },
-  {
-    "name": "Restaurants - Delivery & Takeout",
-    "slug": "restaurants-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://chopstickscuisineseattlewa.menufy.com/"
-  },
-  {
-    "name": "CAMAS, WA - Delivery & Takeout",
-    "slug": "camaswa-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WA/CAMAS"
-  },
-  {
-    "name": "Washington, DC - Delivery & Takeout",
-    "slug": "washingtondc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/DC/Washington"
-  },
-  {
     "name": "Customer Success Team",
     "slug": "customersuccessteam",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "seattle"
     ],
     "websiteOrderUrl": "https://restaurant.menufy.com/customer-success-team"
   },
   {
-    "name": "Marysville, WA - Delivery & Takeout",
-    "slug": "marysvillewa-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WA/Marysville"
-  },
-  {
-    "name": "OLYMPIA, WA - Delivery & Takeout",
-    "slug": "olympiawa-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WA/OLYMPIA"
-  },
-  {
-    "name": "Washington DC, DC - Delivery & Takeout",
-    "slug": "washingtondcdc-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/DC/Washington%20DC"
-  },
-  {
-    "name": "Port Angeles, WA - Delivery & Takeout",
-    "slug": "portangeleswa-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/WA/Port%20Angeles"
-  },
-  {
     "name": "Home - MB Sandwich House",
     "slug": "home-mbsandwichhouse",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "seattle"
-    ],
-    "websiteOrderUrl": "https://mbsandwichhouse.menufy.com/"
-  },
-  {
-    "name": "Dessert in Port Washington, NY - Delivery & Takeout",
-    "slug": "dessertinportwashingtonny-deliverytakeou",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NY/Port%20Washington/Dessert"
-  },
-  {
-    "name": "SOUTH PORTLAND, ME - Delivery & Takeout",
-    "slug": "southportlandme-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/ME/SOUTH%20PORTLAND"
-  },
-  {
-    "name": "Midwest City, OK - Delivery & Takeout",
-    "slug": "midwestcityok-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/OK/Midwest%20City"
-  },
-  {
-    "name": "NY - Delivery & Takeout",
-    "slug": "ny-deliverytakeout",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://www.menufy.com/NY"
+    ]
   },
   {
     "name": "The Owner.com Story",
@@ -2217,17 +1919,7 @@
     "category": "restaurant",
     "metros": [
       "seattle"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/"
-  },
-  {
-    "name": "No Commission Delivery for Restaurants",
-    "slug": "nocommissiondeliveryforrestaurants",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/delivery"
+    ]
   },
   {
     "name": "Owner Product Updates and Releases",
@@ -2237,15 +1929,6 @@
       "seattle"
     ],
     "websiteOrderUrl": "https://www.owner.com/releases"
-  },
-  {
-    "name": "Pricing",
-    "slug": "pricing",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/pricing"
   },
   {
     "name": "Owner.com Reviews",
@@ -2361,8 +2044,7 @@
     "category": "restaurant",
     "metros": [
       "seattle"
-    ],
-    "websiteOrderUrl": "https://www.owner.com/blog"
+    ]
   },
   {
     "name": "Partner With Owner",
@@ -2376,7 +2058,7 @@
   {
     "name": "Roosevelt",
     "slug": "roosevelt",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "seattle"
     ],
@@ -2403,7 +2085,7 @@
   {
     "name": "Convention Center",
     "slug": "conventioncenter",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "seattle"
     ],
@@ -2448,7 +2130,7 @@
   {
     "name": "Greenwood",
     "slug": "greenwood",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "seattle"
     ],
@@ -2457,7 +2139,7 @@
   {
     "name": "West Seattle",
     "slug": "westseattle",
-    "category": "restaurant",
+    "category": "pizza",
     "metros": [
       "seattle"
     ],
@@ -2475,7 +2157,7 @@
   {
     "name": "Ballard",
     "slug": "ballard",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "seattle"
     ],
@@ -2493,7 +2175,7 @@
   {
     "name": "Seattle University",
     "slug": "seattleuniversity",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "seattle"
     ],
@@ -2520,7 +2202,7 @@
   {
     "name": "Northgate Village",
     "slug": "northgatevillage",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "seattle"
     ],
@@ -2529,7 +2211,7 @@
   {
     "name": "1st & Blanchard",
     "slug": "1stblanchard",
-    "category": "restaurant",
+    "category": "mexican",
     "metros": [
       "seattle"
     ],
@@ -2583,20 +2265,10 @@
   {
     "name": "Easy Caribbean",
     "slug": "easycaribbean",
-    "category": "restaurant",
+    "category": "caribbean",
     "metros": [
       "seattle"
-    ],
-    "websiteOrderUrl": "https://easycaribbeanfoods.getbento.com/"
-  },
-  {
-    "name": "BentoBox Launches Online Ordering for Restaurants",
-    "slug": "bentoboxlaunchesonlineorderingforrestaur",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/bento-ordering/"
+    ]
   },
   {
     "name": "Restaurant Online Ordering",
@@ -2613,17 +2285,15 @@
     "category": "restaurant",
     "metros": [
       "seattle"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/the-best-online-ordering-system-for-restaurants/"
+    ]
   },
   {
     "name": "Brunch & Mediterranean Food in Downtown Seattle",
     "slug": "brunchmediterraneanfoodindowntownseattle",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "seattle"
-    ],
-    "websiteOrderUrl": "https://lolaseattle.getbento.com/"
+    ]
   },
   {
     "name": "Fully at Your Service",
@@ -2640,8 +2310,7 @@
     "category": "restaurant",
     "metros": [
       "seattle"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/online-restaurant-reservation-systems/"
+    ]
   },
   {
     "name": "A Letter from the CEO",
@@ -2649,8 +2318,7 @@
     "category": "restaurant",
     "metros": [
       "seattle"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/a-letter-from-the-ceo/"
+    ]
   },
   {
     "name": "BentoBox",
@@ -2664,20 +2332,10 @@
   {
     "name": "Looking For Delivery Fulfillment For Your Restaurant?",
     "slug": "lookingfordeliveryfulfillmentforyourrest",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "seattle"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/benefits-of-delivery-fulfillment-for-restaurants/"
-  },
-  {
-    "name": "Considering Online Ordering for Your Restaurant?",
-    "slug": "consideringonlineorderingforyourrestaura",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://www.getbento.com/blog/online-ordering-grubhub-doordash-postmates-ubereats-caviar-chownow/"
+    ]
   },
   {
     "name": "Dine-in ordering",
@@ -2718,7 +2376,7 @@
   {
     "name": "Miss Pho - SEATTLE, WA",
     "slug": "misspho-seattlewa",
-    "category": "restaurant",
+    "category": "vietnamese",
     "metros": [
       "seattle"
     ],
@@ -2736,7 +2394,7 @@
   {
     "name": "SODAM CHICKEN 2 - SEATTLE, WA",
     "slug": "sodamchicken2-seattlewa",
-    "category": "restaurant",
+    "category": "chicken",
     "metros": [
       "seattle"
     ],
@@ -2754,7 +2412,7 @@
   {
     "name": "Online Ordering",
     "slug": "onlineordering",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "seattle"
     ],
@@ -2808,7 +2466,7 @@
   {
     "name": "OKINAWA TERIYAKI - SEATTLE, WA",
     "slug": "okinawateriyaki-seattlewa",
-    "category": "restaurant",
+    "category": "japanese",
     "metros": [
       "seattle"
     ],
@@ -2853,7 +2511,7 @@
   {
     "name": "FALAFELVILLE - SEATTLE, WA",
     "slug": "falafelville-seattlewa",
-    "category": "restaurant",
+    "category": "mediterranean",
     "metros": [
       "seattle"
     ],
@@ -2862,7 +2520,7 @@
   {
     "name": "SHARETEA SEATTLE chinatown",
     "slug": "shareteaseattlechinatown",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "seattle"
     ],
@@ -2880,7 +2538,7 @@
   {
     "name": "Musubi Kai Seattle 108 Union Street",
     "slug": "musubikaiseattle108unionstreet",
-    "category": "restaurant",
+    "category": "deli",
     "metros": [
       "seattle"
     ],
@@ -2889,7 +2547,7 @@
   {
     "name": "Seaside Poke Understory",
     "slug": "seasidepokeunderstory",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "seattle"
     ],
@@ -2898,7 +2556,7 @@
   {
     "name": "Aloha Poke Co. Dupont Circle",
     "slug": "alohapokecodupontcircle",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "seattle"
     ],
@@ -2907,7 +2565,7 @@
   {
     "name": "Poke Poke Loop (Palmer House)",
     "slug": "pokepokelooppalmerhouse",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "seattle"
     ],
@@ -2916,7 +2574,7 @@
   {
     "name": "Fish Face Poke Bar 1104 R STREET SUITE 100",
     "slug": "fishfacepokebar1104rstreetsuite100",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "seattle"
     ],
@@ -2934,7 +2592,7 @@
   {
     "name": "Poke Poke Streeterville",
     "slug": "pokepokestreeterville",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "seattle"
     ],
@@ -2943,7 +2601,7 @@
   {
     "name": "Seaside Poke East Downtown",
     "slug": "seasidepokeeastdowntown",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "seattle"
     ],
@@ -2952,7 +2610,7 @@
   {
     "name": "Poke OG - Downtown POKE OG DOWNTOWN",
     "slug": "pokeog-downtownpokeogdowntown",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "seattle"
     ],
@@ -2961,7 +2619,7 @@
   {
     "name": "Poke Burri 3231 powelton ave",
     "slug": "pokeburri3231poweltonave",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "seattle"
     ],
@@ -2970,7 +2628,7 @@
   {
     "name": "Manoa Poke Shop",
     "slug": "manoapokeshop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "seattle"
     ],
@@ -2979,7 +2637,7 @@
   {
     "name": "Poke Cafe - West Ashley Location and Ordering Hours",
     "slug": "pokecafe-westashleylocationandorderingho",
-    "category": "cafe",
+    "category": "japanese",
     "metros": [
       "seattle"
     ],
@@ -2988,7 +2646,7 @@
   {
     "name": "Poke OG @ 1800 143 NW 23 ST",
     "slug": "pokeog1800143nw23st",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "seattle"
     ],
@@ -2997,7 +2655,7 @@
   {
     "name": "Poke Poke West Loop",
     "slug": "pokepokewestloop",
-    "category": "poke",
+    "category": "japanese",
     "metros": [
       "seattle"
     ],
@@ -3033,7 +2691,7 @@
   {
     "name": "Breakwater Seafood and Chowder",
     "slug": "breakwaterseafoodandchowder",
-    "category": "seafood",
+    "category": "chinese",
     "metros": [
       "seattle"
     ],
@@ -3114,7 +2772,7 @@
   {
     "name": "Mr. Greek of Buffalo 1122 Elmwood Ave.",
     "slug": "mrgreekofbuffalo1122elmwoodave",
-    "category": "mediterranean",
+    "category": "wings",
     "metros": [
       "seattle"
     ],
@@ -3186,7 +2844,7 @@
   {
     "name": "Norma's Breakfast",
     "slug": "normasbreakfast",
-    "category": "restaurant",
+    "category": "breakfast",
     "metros": [
       "seattle"
     ],
@@ -3195,7 +2853,7 @@
   {
     "name": "Radiant Juice + Smoothie Bar 702 Main St., Suite 103",
     "slug": "radiantjuicesmoothiebar702mainstsuite103",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "seattle"
     ],
@@ -3204,7 +2862,7 @@
   {
     "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
     "slug": "hellojuicesmoothie-thegrove1000snewstead",
-    "category": "restaurant",
+    "category": "tea",
     "metros": [
       "seattle"
     ],
@@ -3213,7 +2871,7 @@
   {
     "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
     "slug": "hellojuicesmoothie-kirkwood10463manchest",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "seattle"
     ],
@@ -3222,7 +2880,7 @@
   {
     "name": "Juice World 89 Passaic St",
     "slug": "juiceworld89passaicst",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "seattle"
     ],
@@ -3231,7 +2889,7 @@
   {
     "name": "The Juice Room",
     "slug": "thejuiceroom",
-    "category": "restaurant",
+    "category": "juice",
     "metros": [
       "seattle"
     ],
@@ -3247,42 +2905,6 @@
     "toastUrl": "https://order.toasttab.com/online/juice-bar-norton-commons-10512-meeting-street"
   },
   {
-    "name": "Online Ordering for Station Pizza",
-    "slug": "onlineorderingforstationpizza",
-    "category": "pizza",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/1760/locations/2286"
-  },
-  {
-    "name": "Online Ordering for Your Pizza Shop - DO NOT USE",
-    "slug": "onlineorderingforyourpizzashop-donotuse",
-    "category": "pizza",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/3555/locations/5266"
-  },
-  {
-    "name": "Online Ordering for Two Guys Pasta & Pizza",
-    "slug": "onlineorderingfortwoguyspastapizza",
-    "category": "pizza",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5632/locations"
-  },
-  {
-    "name": "Online Ordering for Delicious Pizza",
-    "slug": "onlineorderingfordeliciouspizza",
-    "category": "pizza",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/2771/locations"
-  },
-  {
     "name": "Order Pitfire Pizza Online",
     "slug": "orderpitfirepizzaonline",
     "category": "pizza",
@@ -3290,15 +2912,6 @@
       "seattle"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/590/locations/796"
-  },
-  {
-    "name": "Online Ordering for Taste of India - Seattle",
-    "slug": "onlineorderingfortasteofindia-seattle",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5423/locations"
   },
   {
     "name": "Colvitto's Pizza & Bakery Menu",
@@ -3310,147 +2923,12 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/632/locations"
   },
   {
-    "name": "Online Ordering for Pizza Johny's",
-    "slug": "onlineorderingforpizzajohnys",
-    "category": "pizza",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/11568/locations"
-  },
-  {
     "name": "ChowNow",
     "slug": "chownow",
-    "category": "restaurant",
+    "category": "chinese",
     "metros": [
       "seattle"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/10227/locations"
-  },
-  {
-    "name": "Online Ordering for Thai 65 Seattle - Seattle",
-    "slug": "onlineorderingforthai65seattle-seattle",
-    "category": "thai",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/7533/locations/10090"
-  },
-  {
-    "name": "Online Ordering for Thai Fusion Bistro - Seattle",
-    "slug": "onlineorderingforthaifusionbistro-seattl",
-    "category": "thai",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/6011/locations/7927"
-  },
-  {
-    "name": "Online Ordering for Thai on 1 - Seattle",
-    "slug": "onlineorderingforthaion1-seattle",
-    "category": "thai",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5875/locations/7689"
-  },
-  {
-    "name": "Online Ordering for Mae Phim @ Pike Thai Cuisine - Seattle",
-    "slug": "onlineorderingformaephimpikethaicuisine-",
-    "category": "thai",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/8128/locations/10931"
-  },
-  {
-    "name": "Online Ordering for District Thai - York",
-    "slug": "onlineorderingfordistrictthai-york",
-    "category": "thai",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/6725/locations/8930"
-  },
-  {
-    "name": "Online Ordering for Best Thai Signature",
-    "slug": "onlineorderingforbestthaisignature",
-    "category": "thai",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5022/locations"
-  },
-  {
-    "name": "Online Ordering for Monkey Thai - Alameda",
-    "slug": "onlineorderingformonkeythai-alameda",
-    "category": "thai",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/6755/locations"
-  },
-  {
-    "name": "Online Ordering for Best Thai Signature - Dallas",
-    "slug": "onlineorderingforbestthaisignature-dalla",
-    "category": "thai",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5022/locations/6502"
-  },
-  {
-    "name": "Online Ordering for Enthaice Thai Kitchen",
-    "slug": "onlineorderingforenthaicethaikitchen",
-    "category": "thai",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/10046/locations"
-  },
-  {
-    "name": "Online Ordering for Top Spice Thai & Malaysian Cuisine",
-    "slug": "onlineorderingfortopspicethaimalaysiancu",
-    "category": "thai",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/10340/locations"
-  },
-  {
-    "name": "Online Ordering for Thailicious - New York",
-    "slug": "onlineorderingforthailicious-newyork",
-    "category": "thai",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/7235/locations"
-  },
-  {
-    "name": "Online Ordering for Sage Garden Cafe",
-    "slug": "onlineorderingforsagegardencafe",
-    "category": "cafe",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/5000/locations"
-  },
-  {
-    "name": "Online Ordering for Morsel - University Way",
-    "slug": "onlineorderingformorsel-universityway",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/3629/locations/4712"
-  },
-  {
-    "name": "Online Ordering for Taïm - Nolita",
-    "slug": "onlineorderingfortam-nolita",
-    "category": "restaurant",
-    "metros": [
-      "seattle"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/6494/locations/8597"
   }
 ]
