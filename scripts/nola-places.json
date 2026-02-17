@@ -422,7 +422,9 @@
     "category": "seafood",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJ28cfCwymIIYRmTnBVitvmZ0",
+    "website": "https://deanies.com/metairie-deanie-s-seafood-restaurant-and-seafood-market-bucktown-main-location-downtown"
   },
   {
     "name": "Fives",
@@ -430,7 +432,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJnZdUmRmnIIYRor8dOGKgs2w",
+    "website": "http://fives.bar/"
   },
   {
     "name": "Salted Pearl (inside St. Roch Market)",
@@ -438,7 +442,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJM0c8SKqnIIYRZRx-fEM6WwI",
+    "website": "http://thesaltedpearl.com/"
   },
   {
     "name": "Bratz Y'all! Bistro • Bakery • Biergarten",
@@ -446,7 +452,9 @@
     "category": "french",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJdUaU4jGmIIYR2DbqAfE-4bw",
+    "website": "http://www.bratzyall.com/"
   },
   {
     "name": "Monday | Restaurant + Bar",
@@ -454,7 +462,10 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJP50Y6HyvIIYRUJPWqfD5zkw",
+    "website": "http://mondaynola.com/",
+    "toastUrl": "http://order.toasttab.com/online/monday-restaurant-bar-4327-bienville-ave"
   },
   {
     "name": "The Rum House",
@@ -462,7 +473,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJETttTjKkIIYRfnaTcqDqbnw",
+    "website": "https://www.therumhouse.com/"
   },
   {
     "name": "Social Peruvian Restaurant New Orleans",
@@ -470,7 +483,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJa-adDeelIIYR_NC_q0ukc-A",
+    "website": "https://www.socialrestaurant.co/"
   },
   {
     "name": "Coquette",
@@ -478,7 +493,11 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJ8dFCFi2kIIYR5cXQfaTpL-g",
+    "website": "http://www.coquettenola.com/",
+    "toastUrl": "https://order.toasttab.com/online/coquette-2800-magazine-st",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Osteria Lupo",
@@ -486,7 +505,10 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJHzg8L3WlIIYRLJA2WqrIqfo",
+    "website": "http://www.osterialupo.com/",
+    "toastUrl": "https://order.toasttab.com/online/osteria-lupo-4609-magazine-street"
   },
   {
     "name": "Bistro Daisy",
@@ -494,7 +516,9 @@
     "category": "french",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJ6Wt4ffukIIYR2anmtBcpkk4",
+    "website": "http://www.bistrodaisy.com/"
   },
   {
     "name": "Baru Bistro & Tapas",
@@ -502,7 +526,10 @@
     "category": "french",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJN19qAjakIIYRF42uCkucbkI",
+    "website": "http://barutapasnola.com/",
+    "toastUrl": "https://order.toasttab.com/online/baru-bistro-tapas-new-orleans-3700-magazine-st"
   },
   {
     "name": "Red Dog Diner",
@@ -510,7 +537,9 @@
     "category": "restaurant",
     "metros": [
       "nola"
-    ]
+    ],
+    "placeId": "ChIJ3yk8UjKkIIYRT3qu4uKT1ro",
+    "website": "https://www.reddogdiner.com/"
   },
   {
     "name": "The Real New Orleans - Order Online | Marble Falls, TX",

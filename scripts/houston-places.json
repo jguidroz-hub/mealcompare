@@ -558,7 +558,9 @@
     "category": "restaurant",
     "metros": [
       "houston"
-    ]
+    ],
+    "placeId": "ChIJW_s0SRvHQIYREXn0DXARk9U",
+    "website": "http://rainbow-lodge.com/"
   },
   {
     "name": "Maison Pucha Bistro",
@@ -566,7 +568,9 @@
     "category": "french",
     "metros": [
       "houston"
-    ]
+    ],
+    "placeId": "ChIJM8fpB6S4QIYRe2w5KsGXsKE",
+    "website": "http://www.maisonpucha.com/"
   },
   {
     "name": "Onion Creek",
@@ -574,7 +578,9 @@
     "category": "restaurant",
     "metros": [
       "houston"
-    ]
+    ],
+    "placeId": "ChIJO2UE9Ki4QIYRjxtJzROLhMc",
+    "website": "https://www.onioncreekcafe.com/"
   },
   {
     "name": "Osso & Kristalla",
@@ -582,7 +588,9 @@
     "category": "restaurant",
     "metros": [
       "houston"
-    ]
+    ],
+    "placeId": "ChIJh4_KFyS_QIYRHv9hv2AO8_M",
+    "website": "http://www.ossoandkristalla.com/"
   },
   {
     "name": "Le Emperor",
@@ -590,7 +598,9 @@
     "category": "restaurant",
     "metros": [
       "houston"
-    ]
+    ],
+    "placeId": "ChIJbbNhIoXTQIYRvjewdK4CfCc",
+    "website": "https://leemperor.com/"
   },
   {
     "name": "Di An Pho",
@@ -598,7 +608,8 @@
     "category": "vietnamese",
     "metros": [
       "houston"
-    ]
+    ],
+    "placeId": "ChIJ50N48undQIYR_-UqTKpDPzY"
   },
   {
     "name": "Order Online",

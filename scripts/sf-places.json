@@ -147,7 +147,7 @@
     ],
     "address": "2327 Mission St",
     "placeId": "ChIJD-djDAR_j4ARSEv9xiaTy6w",
-    "website": "https://sangriaandsalt.com/"
+    "website": "https://sangriaandsalt.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-website-link"
   },
   {
     "name": "Lolinda",
@@ -675,7 +675,10 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJbTB3bKKAhYAR8Yqc6dEIMbQ",
+    "website": "https://www.souvla.com/location/hayes-valley/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Dumpling Home",
@@ -683,7 +686,9 @@
     "category": "chinese",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJlYL0Wa-BhYARJi6qr49Ncv0",
+    "website": "http://www.dumplinghome.com/"
   },
   {
     "name": "Yank Sing (Spear St.)",
@@ -691,7 +696,9 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJE_x2VGSAhYARoXDSoUvUjkI",
+    "website": "http://www.yanksing.com/"
   },
   {
     "name": "Farmhouse Kitchen Thai Cuisine",
@@ -699,7 +706,9 @@
     "category": "thai",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJNZloNTd-j4ARxGMOXZp7KfI",
+    "website": "https://farmhousethai.com/san-francisco?utm_source=google"
   },
   {
     "name": "Parche",
@@ -707,7 +716,9 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJG1pb93OBj4ARzhiDnWVUWEg",
+    "website": "http://parcheoak.com/"
   },
   {
     "name": "Brotzeit Lokal",
@@ -715,7 +726,10 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJ6TOJJyaHj4ARR5WoSytkThY",
+    "website": "http://brotzeitbiergarten.com/",
+    "toastUrl": "https://order.toasttab.com/online/brotzeit-lokal-oakland"
   },
   {
     "name": "Grand Lake Kitchen - Lake Merritt",
@@ -723,7 +737,10 @@
     "category": "restaurant",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJw2p00yyHj4ARsb-O2FTlD1Y",
+    "website": "https://www.grandlakekitchen.com/location/lake-merritt/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Castro Indian Restaurant & Bar",
@@ -731,7 +748,9 @@
     "category": "indian",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJETxWCZN_j4ARf1B301i5-ys",
+    "website": "http://www.castrorb.com/"
   },
   {
     "name": "Cafe Mystique",
@@ -739,7 +758,8 @@
     "category": "cafe",
     "metros": [
       "sf"
-    ]
+    ],
+    "placeId": "ChIJPbV6qhx-j4ARJcmiQMJhbaM"
   },
   {
     "name": "Order Online",

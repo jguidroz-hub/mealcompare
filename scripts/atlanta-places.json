@@ -492,7 +492,10 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJtctXZQEE9YgR9Y8_tUlnMVw",
+    "website": "http://www.thealbertatlanta.com/",
+    "toastUrl": "https://order.toasttab.com/online/the-albert-new"
   },
   {
     "name": "Bread & Butterfly",
@@ -500,7 +503,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJHwhNYAEE9YgRCs-R7L-_uWI",
+    "website": "http://www.bread-and-butterfly.com/"
   },
   {
     "name": "Wisteria",
@@ -508,7 +513,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJPTAgFagG9YgRB8djK1Bwhiw",
+    "website": "http://www.wisteria-atlanta.com/"
   },
   {
     "name": "Folk Art Restaurant Inman Park",
@@ -516,7 +523,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJiV-HFagG9YgRYQl_S8sqKKU",
+    "website": "https://folkartrestaurant.com/folkartrestaurant-inmanpark?utm_source=google"
   },
   {
     "name": "Wheelhouse Craft Pub and Kitchen",
@@ -524,7 +533,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJNYKbAKgH9YgRuD6nAddeTRY",
+    "website": "https://www.wheelhousepubdecatur.com/"
   },
   {
     "name": "Platez Southern Kitchen & Cocktailz",
@@ -532,7 +543,10 @@
     "category": "southern",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJGYpUvvYH9YgRNN-3Nvh7LOg",
+    "website": "https://www.platezsouthernkitchencocktails.com/",
+    "websiteOrderUrl": "https://ordering.chownow.com/order/42586/locations/64291"
   },
   {
     "name": "DESI TADKA INDIAN RESTAURANT - DECATUR",
@@ -540,7 +554,9 @@
     "category": "indian",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJC10x4jgH9YgRgTpZk2Km_Dc",
+    "website": "https://thedesitadka.com/?utm_source=google"
   },
   {
     "name": "Raging Burrito",
@@ -548,7 +564,9 @@
     "category": "mexican",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJ7d-HZT4H9YgRPzfm-aueQmo",
+    "website": "https://ragingburrito.com/?utm_source=google"
   },
   {
     "name": "Rumi's Kitchen Colony Square",
@@ -556,7 +574,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJPT9qzJEF9YgREibRRtmpkVg",
+    "website": "https://www.rumiskitchen.com/"
   },
   {
     "name": "Truva - Virginia Highland",
@@ -564,7 +584,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJAQDQa6AG9YgRjKrM04MTpKU",
+    "website": "https://www.truvahighland.com/"
   },
   {
     "name": "The Southern Gentleman",
@@ -572,7 +594,10 @@
     "category": "southern",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJucdxco4F9YgR_EKa1gppziE",
+    "website": "http://www.thesoutherngentlemanatl.com/",
+    "toastUrl": "https://order.toasttab.com/online/the-southern-gentleman"
   },
   {
     "name": "Order Online",

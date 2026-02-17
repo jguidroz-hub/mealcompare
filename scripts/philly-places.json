@@ -589,7 +589,9 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ]
+    ],
+    "placeId": "ChIJSajJP83HxokRqoLYdDTKvWw",
+    "website": "http://www.stinapizzeria.com/"
   },
   {
     "name": "Han Dynasty - Old City",
@@ -597,7 +599,10 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ]
+    ],
+    "placeId": "ChIJES72cYXIxokR911D5us7LDs",
+    "website": "http://www.handynasty.net/oldcity",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Bao Nine",
@@ -605,7 +610,9 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ]
+    ],
+    "placeId": "ChIJO2-PQt3HxokRs2-nOgHwDN4",
+    "website": "http://eatbaonine.com/"
   },
   {
     "name": "Dim Sum House by Jane G's - University City",
@@ -613,7 +620,9 @@
     "category": "chinese",
     "metros": [
       "philly"
-    ]
+    ],
+    "placeId": "ChIJAUdEcfjGxokRGdEc94ZBvWc",
+    "website": "http://www.dimsum.house/"
   },
   {
     "name": "honeygrow",
@@ -621,7 +630,10 @@
     "category": "restaurant",
     "metros": [
       "philly"
-    ]
+    ],
+    "placeId": "ChIJAVBFFDDGxokRYwMSM3B5Q2Q",
+    "website": "https://www.honeygrow.com/?utm_source=gmb&utm_medium=Yext&y_source=1_MTc5NjcwNTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Order Online",
