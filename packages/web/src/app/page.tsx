@@ -27,6 +27,7 @@ export default function Home() {
             <a href="#fees" className="desktop-only" style={{ color: '#64748b', textDecoration: 'none', fontSize: 14, fontWeight: 500 }}>Hidden Fees</a>
             <Link href="/savings" style={{ color: '#64748b', textDecoration: 'none', fontSize: 14, fontWeight: 500 }}>💰 Calculator</Link>
             <Link href="/restaurants" style={{ color: '#10b981', textDecoration: 'none', fontSize: 14, fontWeight: 600 }}>Restaurants</Link>
+            <Link href="/favorites" style={{ color: '#64748b', textDecoration: 'none', fontSize: 14, fontWeight: 500 }}>❤️</Link>
             <Link href="/for-restaurants" style={{ color: '#3b82f6', textDecoration: 'none', fontSize: 14, fontWeight: 600 }}>For Restaurants</Link>
             <Link href="/install" className="btn-glow" style={{ padding: '8px 20px', fontSize: 13, borderRadius: 10 }}>
               Install Free
@@ -191,9 +192,9 @@ export default function Home() {
           FAQ
         </h2>
         {[
-          { q: 'Is it really free?', a: 'Yes. No premium tier, no hidden catches, no account needed.' },
+          { q: 'Is it really free?', a: 'Yes. The app, extension, and restaurant listings are free. We offer optional featured placement for restaurants ($29/mo) — that\'s how we keep the lights on.' },
           { q: 'How do you get the prices?', a: 'Public APIs and menu data. Uber Eats prices come from their API. DoorDash and Grubhub are estimated from known fee models and verified with real orders.' },
-          { q: 'What cities?', a: '30 cities including NYC, Chicago, LA, Boston, Miami, SF, DC, Dallas, Phoenix, Portland, Detroit, Minneapolis, Tampa, San Diego, and more. New cities added weekly.' },
+          { q: 'What cities?', a: '30 cities including NYC, Chicago, LA, SF, Boston, Miami, DC, Austin, Houston, Atlanta, Seattle, Denver, Dallas, Phoenix, Portland, Nashville, New Orleans, and more. 10,000+ restaurants with 8,700+ direct ordering links.' },
           { q: 'What is "direct ordering"?', a: "Many restaurants let you order delivery through their own website (Toast, Square, etc.). No 28-33% platform commission = 10-20% cheaper for you." },
           { q: 'DashPass / Uber One / GH+ support?', a: 'Coming soon. Currently compares standard (non-subscriber) pricing.' },
         ].map((faq) => (
