@@ -25,7 +25,9 @@ export default function Home() {
           <div style={{ display: 'flex', gap: 28, alignItems: 'center' }}>
             <a href="#how" className="desktop-only" style={{ color: '#64748b', textDecoration: 'none', fontSize: 14, fontWeight: 500, transition: 'color 0.15s' }}>How It Works</a>
             <a href="#fees" className="desktop-only" style={{ color: '#64748b', textDecoration: 'none', fontSize: 14, fontWeight: 500 }}>Hidden Fees</a>
+            <Link href="/savings" style={{ color: '#64748b', textDecoration: 'none', fontSize: 14, fontWeight: 500 }}>💰 Calculator</Link>
             <Link href="/restaurants" style={{ color: '#10b981', textDecoration: 'none', fontSize: 14, fontWeight: 600 }}>Restaurants</Link>
+            <Link href="/for-restaurants" style={{ color: '#3b82f6', textDecoration: 'none', fontSize: 14, fontWeight: 600 }}>For Restaurants</Link>
             <Link href="/install" className="btn-glow" style={{ padding: '8px 20px', fontSize: 13, borderRadius: 10 }}>
               Install Free
             </Link>
