@@ -71,6 +71,22 @@ export async function ensureSchema() {
     )
   `;
 
+  // Feedback
+  await sql`
+    CREATE TABLE IF NOT EXISTS feedback (
+      id SERIAL PRIMARY KEY,
+      type TEXT NOT NULL DEFAULT 'general',
+      message TEXT NOT NULL,
+      email TEXT,
+      page TEXT,
+      meta JSONB DEFAULT '{}',
+      status TEXT NOT NULL DEFAULT 'new',
+      created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+    )
+  `;
+  await sql`CREATE INDEX IF NOT EXISTS idx_feedback_type ON feedback(type)`;
+  await sql`CREATE INDEX IF NOT EXISTS idx_feedback_created ON feedback(created_at)`;
+
   // User favorites (localStorage backup for future auth)
   await sql`
     CREATE TABLE IF NOT EXISTS user_favorites (

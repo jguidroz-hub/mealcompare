@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from 'next';
 import './globals.css';
+import FeedbackWidget from './components/FeedbackWidget';
 
 export const metadata: Metadata = {
   title: 'SkipTheFee — Find the Cheapest Food Delivery',
@@ -78,6 +79,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           }}
         />
         {children}
+        <FeedbackWidget />
         <ServiceWorkerRegistration />
       </body>
     </html>
