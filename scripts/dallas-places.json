@@ -2866,5 +2866,320 @@
       "dallas"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/40908/locations/62009"
+  },
+  {
+    "name": "Mola Mola Poke Restaurant Dallas, TX",
+    "slug": "molamolapokerestaurantdallastx",
+    "category": "poke",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mola-mola-poke-restaurant"
+  },
+  {
+    "name": "Poke Poke West Loop",
+    "slug": "pokepokewestloop",
+    "category": "poke",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-poke-west-loop-1100-w-madison"
+  },
+  {
+    "name": "Seaside Poke Understory",
+    "slug": "seasidepokeunderstory",
+    "category": "poke",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/seaside-poke-downtown"
+  },
+  {
+    "name": "Poke Sushi 1720 Washington Road",
+    "slug": "pokesushi1720washingtonroad",
+    "category": "japanese",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-sushi-1720-washington-road"
+  },
+  {
+    "name": "Poke Poke Streeterville",
+    "slug": "pokepokestreeterville",
+    "category": "poke",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/streeterville"
+  },
+  {
+    "name": "Poke Poke Loop (Palmer House)",
+    "slug": "pokepokelooppalmerhouse",
+    "category": "poke",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-poke-wabash-118-s-wabash-ave"
+  },
+  {
+    "name": "Poke OG - Downtown POKE OG DOWNTOWN",
+    "slug": "pokeog-downtownpokeogdowntown",
+    "category": "poke",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-og-downtown-161-se-1st-street"
+  },
+  {
+    "name": "Oshi Poke and Sushi 201 Jefferson Street North",
+    "slug": "oshipokeandsushi201jeffersonstreetnorth",
+    "category": "japanese",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/oshi-poke-and-sushi-new-201-jefferson-street-north"
+  },
+  {
+    "name": "Fresh Catch Poke Co. - Hertel Ave.",
+    "slug": "freshcatchpokeco-hertelave",
+    "category": "poke",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fresh-catch-poke-co-hertel-ave-1375-hertel-ave"
+  },
+  {
+    "name": "Aloha Poke Co. Dupont Circle",
+    "slug": "alohapokecodupontcircle",
+    "category": "poke",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/aloha-poke-co-dc-2"
+  },
+  {
+    "name": "Big Daddy's Poke Shack",
+    "slug": "bigdaddyspokeshack",
+    "category": "poke",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/big-daddys-poke-shack"
+  },
+  {
+    "name": "TJ's Seafood Market and Grill - Royal",
+    "slug": "tjsseafoodmarketandgrill-royal",
+    "category": "seafood",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tj-s-seafood-market-and-grill-north-dallas-6025-royal-lane-ste-110"
+  },
+  {
+    "name": "Lovers Seafood & Market 214-414-9880",
+    "slug": "loversseafoodmarket214-414-9880",
+    "category": "seafood",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lovers-seafood"
+  },
+  {
+    "name": "Rex's Seafood and Market Dallas Farmers Market",
+    "slug": "rexsseafoodandmarketdallasfarmersmarket",
+    "category": "seafood",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rexs-seafood-at-the-market"
+  },
+  {
+    "name": "Big EZ Seafood",
+    "slug": "bigezseafood",
+    "category": "seafood",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/big-ez-seafood-dallas-3810-s-cooper-st-suite-102"
+  },
+  {
+    "name": "Rockfish Seafood Grill 7639 Campbell Rd. #800",
+    "slug": "rockfishseafoodgrill7639campbellrd800",
+    "category": "seafood",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rockfishrichardson"
+  },
+  {
+    "name": "Rex's Seafood and Market Northwest Highway",
+    "slug": "rexsseafoodandmarketnorthwesthighway",
+    "category": "seafood",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rexs-seafood-and-market-2"
+  },
+  {
+    "name": "Shell Shack Dallas Henderson Ave",
+    "slug": "shellshackdallashendersonave",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/shell-shack-dallas-henderson-ave"
+  },
+  {
+    "name": "Shell Shack Plano Dallas Parkway",
+    "slug": "shellshackplanodallasparkway",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/shell-shack-plano-dallas-parkway"
+  },
+  {
+    "name": "Rockfish Seafood Grill - Camp Bowie ...",
+    "slug": "rockfishseafoodgrill-campbowie",
+    "category": "seafood",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rockfishcampbowie"
+  },
+  {
+    "name": "Greek City Cafe Brooksville",
+    "slug": "greekcitycafebrooksville",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/greek-city-cafe-brooksville"
+  },
+  {
+    "name": "Greek City Cafe Countryside",
+    "slug": "greekcitycafecountryside",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/greek-city-cafe-countryside"
+  },
+  {
+    "name": "George's Greek Cafe Lakewood",
+    "slug": "georgesgreekcafelakewood",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/georges-greek-cafe-lakewood"
+  },
+  {
+    "name": "360 Brunch House Dallas",
+    "slug": "360brunchhousedallas",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/360-brunch-house-dallas"
+  },
+  {
+    "name": "High Tower Café HT-Millennium Dallas Pkwy",
+    "slug": "hightowercafht-millenniumdallaspkwy",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/millennium"
+  },
+  {
+    "name": "Tacos Cantu Dallas 2507 S. Lancaster Rd.",
+    "slug": "tacoscantudallas2507slancasterrd",
+    "category": "mexican",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tacoscantu-1-2507-s-lancaster-rd"
+  },
+  {
+    "name": "Gather Café Dallas",
+    "slug": "gathercafdallas",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gather-dallas"
+  },
+  {
+    "name": "Yardbird Dallas",
+    "slug": "yardbirddallas",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/yb-dallas"
+  },
+  {
+    "name": "Radiant Juice + Smoothie Bar 702 Main St., Suite 103",
+    "slug": "radiantjuicesmoothiebar702mainstsuite103",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/radiant-juice-smoothie-bar-702-main-st"
+  },
+  {
+    "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
+    "slug": "hellojuicesmoothie-thegrove1000snewstead",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hellojuicesmoothies-stl"
+  },
+  {
+    "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
+    "slug": "hellojuicesmoothie-kirkwood10463manchest",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hello-juice-smoothie-kirkwood"
+  },
+  {
+    "name": "Juice World 89 Passaic St",
+    "slug": "juiceworld89passaicst",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juice-world-89-passaic-st"
+  },
+  {
+    "name": "Base Smoothies + Juice Frisco Frisco",
+    "slug": "basesmoothiesjuicefriscofrisco",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/base-smoothies-juice-frisco"
+  },
+  {
+    "name": "Online Ordering for Stonedeck Pizza Pub - Dallas",
+    "slug": "onlineorderingforstonedeckpizzapub-dalla",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/7886/locations/10593"
+  },
+  {
+    "name": "Online Ordering for DO NOT USE - ZaLat Pizza - Dallas",
+    "slug": "onlineorderingfordonotuse-zalatpizza-dal",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/3972/locations/5161"
   }
 ]

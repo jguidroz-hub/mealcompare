@@ -2456,5 +2456,167 @@
       "detroit"
     ],
     "websiteOrderUrl": "https://www.ezcater.com/catering/tasteful-sensations-catering-3"
+  },
+  {
+    "name": "Give Thanks Bakery Midtown Detroit",
+    "slug": "givethanksbakerymidtowndetroit",
+    "category": "bakery",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/give-thanks-bakery-detroit-3800-woodward-ave"
+  },
+  {
+    "name": "Wealthy Street Bakery",
+    "slug": "wealthystreetbakery",
+    "category": "bakery",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wealthystreet"
+  },
+  {
+    "name": "Downtown Bakery & Creamery",
+    "slug": "downtownbakerycreamery",
+    "category": "bakery",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/downtownbakery"
+  },
+  {
+    "name": "Batch 22 Bakery 15466 Los Gatos Blvd Ste 113",
+    "slug": "batch22bakery15466losgatosblvdste113",
+    "category": "bakery",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/batch22"
+  },
+  {
+    "name": "Otter Creek Bakery & Deli - in town Middlebury location",
+    "slug": "ottercreekbakerydeli-intownmiddleburyloc",
+    "category": "bakery",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/otter-creek-bakery"
+  },
+  {
+    "name": "Detroit Wing Company Grand Rapids (Knapps Crossing)",
+    "slug": "detroitwingcompanygrandrapidsknappscross",
+    "category": "wings",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/detroit-wing-company-grand-rapids"
+  },
+  {
+    "name": "Detroit Wing Company zzzOxford",
+    "slug": "detroitwingcompanyzzzoxford",
+    "category": "wings",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/detroit-wing-co-oxford"
+  },
+  {
+    "name": "Detroit Wing Company Chesterfield",
+    "slug": "detroitwingcompanychesterfield",
+    "category": "wings",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/detroit-wing-company-chesterfield"
+  },
+  {
+    "name": "Detroit Wing Company Sterling Heights (Van Dyke Ave)",
+    "slug": "detroitwingcompanysterlingheightsvandyke",
+    "category": "wings",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/detroit-wing-co-sterling-heights-van-dyke-ave"
+  },
+  {
+    "name": "Canton Chinese Restaurant",
+    "slug": "cantonchineserestaurant",
+    "category": "chinese",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/canton-uniontown"
+  },
+  {
+    "name": "New Leaf Chinese & Japanese Cuisine",
+    "slug": "newleafchinesejapanesecuisine",
+    "category": "chinese",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/newleafcuisine"
+  },
+  {
+    "name": "Big Boss Chinese 100 Midtown Student Living",
+    "slug": "bigbosschinese100midtownstudentliving",
+    "category": "chinese",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/big-boss-chinese"
+  },
+  {
+    "name": "Charles and Reid Detroit Pizza",
+    "slug": "charlesandreiddetroitpizza",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/charles-and-reid-detroit"
+  },
+  {
+    "name": "The Big Salad Grosse Pointe",
+    "slug": "thebigsaladgrossepointe",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-big-salad-grosse-pointe-19595-mack-ave"
+  },
+  {
+    "name": "Sliced",
+    "slug": "sliced",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sliced"
+  },
+  {
+    "name": "Tartine Bistro 19110 Old Detroit Road",
+    "slug": "tartinebistro19110olddetroitroad",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tartine-bistro"
+  },
+  {
+    "name": "Cedar Falls",
+    "slug": "cedarfalls",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/urban-pie"
+  },
+  {
+    "name": "Cuban Kitchen, home of the Best Cubano",
+    "slug": "cubankitchenhomeofthebestcubano",
+    "category": "latin",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/qbacubankitchen"
   }
 ]

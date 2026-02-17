@@ -2506,5 +2506,374 @@
       "atlanta"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/41461/locations/"
+  },
+  {
+    "name": "Poke Burri Battery Ave",
+    "slug": "pokeburribatteryave",
+    "category": "poke",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-burri2-925-battery-ave-se"
+  },
+  {
+    "name": "Poke Factory & Ramen Bar Alpharetta",
+    "slug": "pokefactoryramenbaralpharetta",
+    "category": "japanese",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke"
+  },
+  {
+    "name": "Manoa Poke Shop",
+    "slug": "manoapokeshop",
+    "category": "poke",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/manoapoke"
+  },
+  {
+    "name": "Poke Poke Loop (Palmer House)",
+    "slug": "pokepokelooppalmerhouse",
+    "category": "poke",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-poke-wabash-118-s-wabash-ave"
+  },
+  {
+    "name": "Poke Sushi 1720 Washington Road",
+    "slug": "pokesushi1720washingtonroad",
+    "category": "japanese",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-sushi-1720-washington-road"
+  },
+  {
+    "name": "poke cafe - fayetteville",
+    "slug": "pokecafe-fayetteville",
+    "category": "cafe",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-cafe-fayetteville-1946-skibo-rd"
+  },
+  {
+    "name": "Poke Poke West Loop",
+    "slug": "pokepokewestloop",
+    "category": "poke",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-poke-west-loop-1100-w-madison"
+  },
+  {
+    "name": "Poke Burri 3231 powelton ave",
+    "slug": "pokeburri3231poweltonave",
+    "category": "poke",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pokeburripowelton"
+  },
+  {
+    "name": "Poke Burrito Astoria 37-07 30th Ave.",
+    "slug": "pokeburritoastoria37-0730thave",
+    "category": "poke",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-burrito"
+  },
+  {
+    "name": "Piki Poke & Ramen Astoria",
+    "slug": "pikipokeramenastoria",
+    "category": "japanese",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pikipokeastoria"
+  },
+  {
+    "name": "Mammoth Poke Bowl",
+    "slug": "mammothpokebowl",
+    "category": "poke",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mammoth-poke-bowl-2035-north-western-avenue"
+  },
+  {
+    "name": "Fresh Catch Poke Co. - Hertel Ave.",
+    "slug": "freshcatchpokeco-hertelave",
+    "category": "poke",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fresh-catch-poke-pearl"
+  },
+  {
+    "name": "mammoth poke the loop ( lake street)",
+    "slug": "mammothpokethelooplakestreet",
+    "category": "poke",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mammoth-poke-bowl-2-53-east-lake-street"
+  },
+  {
+    "name": "NEW Siesta Poke 5206 Ocean Boulevard",
+    "slug": "newsiestapoke5206oceanboulevard",
+    "category": "poke",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/new-siesta-poke-5206-ocean-boulevard-jawga"
+  },
+  {
+    "name": "Poke Bunny 100 East Gay Street, Unit 1",
+    "slug": "pokebunny100eastgaystreetunit1",
+    "category": "poke",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pokebunnyllc"
+  },
+  {
+    "name": "Poke OG - Downtown POKE OG DOWNTOWN",
+    "slug": "pokeog-downtownpokeogdowntown",
+    "category": "poke",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-og-downtown-161-se-1st-street"
+  },
+  {
+    "name": "Big Daddy's Poke Shack",
+    "slug": "bigdaddyspokeshack",
+    "category": "poke",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/big-daddys-poke-shack"
+  },
+  {
+    "name": "Poke Row 2735 NW Crossing Dr #105",
+    "slug": "pokerow2735nwcrossingdr105",
+    "category": "poke",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-row-2735-nw-crossing-dr-105"
+  },
+  {
+    "name": "Pamendis 4060 Atlanta Hwy. #1220",
+    "slug": "pamendis4060atlantahwy1220",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pamendis-4060-atlanta-hwy-1220"
+  },
+  {
+    "name": "Mid Atlantic Seafood Laurel",
+    "slug": "midatlanticseafoodlaurel",
+    "category": "seafood",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mid-atlantic-seafood-laurel"
+  },
+  {
+    "name": "Anna's Greek Cuisine",
+    "slug": "annasgreekcuisine",
+    "category": "mediterranean",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/annas-greek-cuisine-7370-sawmill-rd"
+  },
+  {
+    "name": "Taste Greek Street Food",
+    "slug": "tastegreekstreetfood",
+    "category": "mediterranean",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/taste-greek-street-food"
+  },
+  {
+    "name": "Greek on Cary",
+    "slug": "greekoncary",
+    "category": "mediterranean",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/greekoncary"
+  },
+  {
+    "name": "George's Greek Cafe Lakewood",
+    "slug": "georgesgreekcafelakewood",
+    "category": "cafe",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/georges-greek-cafe-lakewood"
+  },
+  {
+    "name": "Jack's New Yorker Deli - Atlanta Rd",
+    "slug": "jacksnewyorkerdeli-atlantard",
+    "category": "deli",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/jacksnyd"
+  },
+  {
+    "name": "LaRayia's Bodega 675 Ponce De Leon Ave NE Atlanta, GA ...",
+    "slug": "larayiasbodega675poncedeleonaveneatlanta",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/larayiasbodega"
+  },
+  {
+    "name": "Flavor Rich Restaurant - Atlanta 549 Peachtree St NE",
+    "slug": "flavorrichrestaurant-atlanta549peachtree",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/flavor-rich-restaurant-atlanta-549-peachtree-st-ne"
+  },
+  {
+    "name": "The Breakfast Spot",
+    "slug": "thebreakfastspot",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/breakfast-spot"
+  },
+  {
+    "name": "The Breakfast Bar Atlantic Ave",
+    "slug": "thebreakfastbaratlanticave",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-breakfast-bar-atlantic-ave-70-atlantic-ave"
+  },
+  {
+    "name": "Radiant Juice + Smoothie Bar 702 Main St., Suite 103",
+    "slug": "radiantjuicesmoothiebar702mainstsuite103",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/radiant-juice-smoothie-bar-702-main-st"
+  },
+  {
+    "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
+    "slug": "hellojuicesmoothie-thegrove1000snewstead",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hellojuicesmoothies-stl"
+  },
+  {
+    "name": "Juice World 89 Passaic St",
+    "slug": "juiceworld89passaicst",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juice-world-89-passaic-st"
+  },
+  {
+    "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
+    "slug": "hellojuicesmoothie-kirkwood10463manchest",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hello-juice-smoothie-kirkwood"
+  },
+  {
+    "name": "I Love Juice Bar & Cafe - Norton Commons",
+    "slug": "ilovejuicebarcafe-nortoncommons",
+    "category": "cafe",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juice-bar-norton-commons-10512-meeting-street"
+  },
+  {
+    "name": "Wholesum Juice Bar",
+    "slug": "wholesumjuicebar",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wholesumjuicebar"
+  },
+  {
+    "name": "Sol Bean Juice Bar and Kitchen 221 S Main St",
+    "slug": "solbeanjuicebarandkitchen221smainst",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sol-bean-juice-bar-and-kitchen-221-s-main-st"
+  },
+  {
+    "name": "Blended Health & Smoothie Bar Olympia Plaza",
+    "slug": "blendedhealthsmoothiebarolympiaplaza",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/blended-health-smoothie-bar-950-harlem-ave"
+  },
+  {
+    "name": "Vui's Juice Cafe The Gulch",
+    "slug": "vuisjuicecafethegulch",
+    "category": "cafe",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/vuis-juice-cafe-2-222-11th-ave-south"
+  },
+  {
+    "name": "The Juice Room",
+    "slug": "thejuiceroom",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-juice-room-7127-germantown-ave"
+  },
+  {
+    "name": "Junior's Pizza Menu",
+    "slug": "juniorspizzamenu",
+    "category": "pizza",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/16978/locations"
+  },
+  {
+    "name": "Rosa's Pizza Menu",
+    "slug": "rosaspizzamenu",
+    "category": "pizza",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/29630/locations"
   }
 ]

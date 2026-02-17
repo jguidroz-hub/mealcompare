@@ -2481,5 +2481,428 @@
       "tampa"
     ],
     "websiteOrderUrl": "https://partners.clover.com/restaurant-depot/business-types/table-service-restaurants/"
+  },
+  {
+    "name": "Poke Poke Loop (Palmer House)",
+    "slug": "pokepokelooppalmerhouse",
+    "category": "poke",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-poke-wabash-118-s-wabash-ave"
+  },
+  {
+    "name": "Poke Poke Streeterville",
+    "slug": "pokepokestreeterville",
+    "category": "poke",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/streeterville"
+  },
+  {
+    "name": "NEW Siesta Poke 5206 Ocean Boulevard",
+    "slug": "newsiestapoke5206oceanboulevard",
+    "category": "poke",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/new-siesta-poke-5206-ocean-boulevard-jawga"
+  },
+  {
+    "name": "Poke Sushi 1720 Washington Road",
+    "slug": "pokesushi1720washingtonroad",
+    "category": "japanese",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-sushi-1720-washington-road"
+  },
+  {
+    "name": "Poke OG - Downtown POKE OG DOWNTOWN",
+    "slug": "pokeog-downtownpokeogdowntown",
+    "category": "poke",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-og-downtown-161-se-1st-street"
+  },
+  {
+    "name": "Seaside Poke Understory",
+    "slug": "seasidepokeunderstory",
+    "category": "poke",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/seaside-poke-downtown"
+  },
+  {
+    "name": "poke cafe - fayetteville",
+    "slug": "pokecafe-fayetteville",
+    "category": "cafe",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-cafe-fayetteville-1946-skibo-rd"
+  },
+  {
+    "name": "Poke Factory & Ramen Bar Alpharetta",
+    "slug": "pokefactoryramenbaralpharetta",
+    "category": "japanese",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke"
+  },
+  {
+    "name": "Poke Burri 3231 powelton ave",
+    "slug": "pokeburri3231poweltonave",
+    "category": "poke",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pokeburripowelton"
+  },
+  {
+    "name": "Piki Poke & Ramen Astoria",
+    "slug": "pikipokeramenastoria",
+    "category": "japanese",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pikipokeastoria"
+  },
+  {
+    "name": "Poke Surf Hampton",
+    "slug": "pokesurfhampton",
+    "category": "poke",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-surf-hampton-92-coliseum-crossing"
+  },
+  {
+    "name": "Poke-City Cambridge 1722 Massachusetts Avenue",
+    "slug": "poke-citycambridge1722massachusettsavenu",
+    "category": "poke",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-city"
+  },
+  {
+    "name": "Manoa Poke Shop",
+    "slug": "manoapokeshop",
+    "category": "poke",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/manoapoke"
+  },
+  {
+    "name": "Poke Row 2735 NW Crossing Dr #105",
+    "slug": "pokerow2735nwcrossingdr105",
+    "category": "poke",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-row-2735-nw-crossing-dr-105"
+  },
+  {
+    "name": "Fresh Catch Poke Co. - Hertel Ave.",
+    "slug": "freshcatchpokeco-hertelave",
+    "category": "poke",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fresh-catch-poke-pearl"
+  },
+  {
+    "name": "Beachwood Seafood Kitchen & Bar 4022 Tampa Road",
+    "slug": "beachwoodseafoodkitchenbar4022tamparoad",
+    "category": "seafood",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/beachwood-seafood-kitchen-bar-3980-tampa-rd"
+  },
+  {
+    "name": "Kobe Japanese Steakhouse Tampa/N. Dale Mabry",
+    "slug": "kobejapanesesteakhousetampandalemabry",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/kobe-japanese-steak-house-tampa-n-dale-mabry"
+  },
+  {
+    "name": "Baytown Seafood Restaurant 2102 Broadway Street",
+    "slug": "baytownseafoodrestaurant2102broadwaystre",
+    "category": "seafood",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/baytown-seafood-restaurant"
+  },
+  {
+    "name": "Simply Fish Seafood",
+    "slug": "simplyfishseafood",
+    "category": "seafood",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/simply-fish-seafood-1534-adams-avenue-suite-d"
+  },
+  {
+    "name": "Lovers Seafood & Market 214-414-9880",
+    "slug": "loversseafoodmarket214-414-9880",
+    "category": "seafood",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lovers-seafood"
+  },
+  {
+    "name": "Hnina's Seafood 1104 S. Clarke Rd",
+    "slug": "hninasseafood1104sclarkerd",
+    "category": "seafood",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hninasseafood"
+  },
+  {
+    "name": "Mr Seafood - Town Center 494-1 Town Center Place",
+    "slug": "mrseafood-towncenter494-1towncenterplace",
+    "category": "seafood",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mr-seafood-town-center-494-1-town-center-place"
+  },
+  {
+    "name": "Duval's Fresh. Local. Seafood.",
+    "slug": "duvalsfreshlocalseafood",
+    "category": "seafood",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/duvals-fresh-local-seafood"
+  },
+  {
+    "name": "The Great Greek Mediterranean Grill Tampa, FL",
+    "slug": "thegreatgreekmediterraneangrilltampafl",
+    "category": "mediterranean",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-great-greek-st-pete-fl"
+  },
+  {
+    "name": "The Greek Taverna 1903 Staples Mill Rd",
+    "slug": "thegreektaverna1903staplesmillrd",
+    "category": "mediterranean",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-greek-taverna-1903-staples-mill-rd"
+  },
+  {
+    "name": "Angelos Greek Taverna",
+    "slug": "angelosgreektaverna",
+    "category": "mediterranean",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/angelos-greek-taverna-245-maywood-ave"
+  },
+  {
+    "name": "The Greek Corner 2366 Massachusetts Avenue",
+    "slug": "thegreekcorner2366massachusettsavenue",
+    "category": "mediterranean",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-greek-corner-2366-massachusetts-avenue"
+  },
+  {
+    "name": "Greek Feast",
+    "slug": "greekfeast",
+    "category": "mediterranean",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/greek-feast-2784-dundee-road"
+  },
+  {
+    "name": "Opa! Greek Taverna",
+    "slug": "opagreektaverna",
+    "category": "mediterranean",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/opa-greek-taverna"
+  },
+  {
+    "name": "Mr. Greek of Buffalo 1122 Elmwood Ave.",
+    "slug": "mrgreekofbuffalo1122elmwoodave",
+    "category": "mediterranean",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mrgreekofbuffalo"
+  },
+  {
+    "name": "Taste Greek Street Food",
+    "slug": "tastegreekstreetfood",
+    "category": "mediterranean",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/taste-greek-street-food"
+  },
+  {
+    "name": "Himes Breakfast House South Tampa",
+    "slug": "himesbreakfasthousesouthtampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/himesbh"
+  },
+  {
+    "name": "Dip & Happy Downtown Tampa",
+    "slug": "diphappydowntowntampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dip-happy-102-e-tylor-street"
+  },
+  {
+    "name": "The Breakfast Company Landings",
+    "slug": "thebreakfastcompanylandings",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-breakfast-company-landings-4832-s-tamiami-trail"
+  },
+  {
+    "name": "Gofruit Juice Bar Tampa",
+    "slug": "gofruitjuicebartampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gofruittampa"
+  },
+  {
+    "name": "Gofruit Juice Bar Sarasota",
+    "slug": "gofruitjuicebarsarasota",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gofruitsarasota"
+  },
+  {
+    "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
+    "slug": "hellojuicesmoothie-kirkwood10463manchest",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hello-juice-smoothie-kirkwood"
+  },
+  {
+    "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
+    "slug": "hellojuicesmoothie-thegrove1000snewstead",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hellojuicesmoothies-stl"
+  },
+  {
+    "name": "Gofruit Juice Bar Miami",
+    "slug": "gofruitjuicebarmiami",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gofruitmiami"
+  },
+  {
+    "name": "Datz Tampa",
+    "slug": "datztampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/datz-delicatessen"
+  },
+  {
+    "name": "Planta Organic Juice Bar 131 Pine Street",
+    "slug": "plantaorganicjuicebar131pinestreet",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/plantamontclair"
+  },
+  {
+    "name": "Plant and Juice Bar 447 Rohnert Park expy",
+    "slug": "plantandjuicebar447rohnertparkexpy",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/plant-and-juice-bar-447-rohnert-park-expy"
+  },
+  {
+    "name": "I Love Juice Bar & Cafe - Norton Commons",
+    "slug": "ilovejuicebarcafe-nortoncommons",
+    "category": "cafe",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juice-bar-norton-commons-10512-meeting-street"
+  },
+  {
+    "name": "Juice For Life New Hyde Park",
+    "slug": "juiceforlifenewhydepark",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juice-for-life-new-hyde-park"
+  },
+  {
+    "name": "Method Juice Cafe - Northside 7704 North Division",
+    "slug": "methodjuicecafe-northside7704northdivisi",
+    "category": "cafe",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/method-juice-cafe-northside-7704-north-division"
+  },
+  {
+    "name": "Tropical Cafe and Juice Bar",
+    "slug": "tropicalcafeandjuicebar",
+    "category": "cafe",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tropical-cafe-and-juice-bar"
+  },
+  {
+    "name": "Ameci Pizza & Pasta Locations",
+    "slug": "amecipizzapastalocations",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/11517/locations"
   }
 ]

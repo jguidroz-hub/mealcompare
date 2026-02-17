@@ -2288,5 +2288,617 @@
       "minneapolis"
     ],
     "websiteOrderUrl": "https://www.clover.com/online-ordering/football-pizza-minneapolis"
+  },
+  {
+    "name": "Afro Deli & Grill - Marquette Minneapolis",
+    "slug": "afrodeligrill-marquetteminneapolis",
+    "category": "deli",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/afrodeli-minneapolis-skyway"
+  },
+  {
+    "name": "Afro Deli & Grill - West Bank Minneapolis - Riverside",
+    "slug": "afrodeligrill-westbankminneapolis-rivers",
+    "category": "deli",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/afro-deli-riverside"
+  },
+  {
+    "name": "Vellee Deli Downtown Minneapolis",
+    "slug": "velleedelidowntownminneapolis",
+    "category": "deli",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/vellee-downtown-minneapolis"
+  },
+  {
+    "name": "Pelo's Deli and Provisions 630 Main St Longmont",
+    "slug": "pelosdeliandprovisions630mainstlongmont",
+    "category": "deli",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pelos-deli-and-provisions-630-main-st-longmont"
+  },
+  {
+    "name": "Deli on 4th",
+    "slug": "delion4th",
+    "category": "deli",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/deli-on-4th"
+  },
+  {
+    "name": "51st Deli 1314 51St Avenue N",
+    "slug": "51stdeli131451stavenuen",
+    "category": "deli",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/51st-deli-1314-51st-avenue-n"
+  },
+  {
+    "name": "MiPal's Deli",
+    "slug": "mipalsdeli",
+    "category": "deli",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mipals-deli-2300-s-16th-st"
+  },
+  {
+    "name": "Downtown Deli 718 East Main Street",
+    "slug": "downtowndeli718eastmainstreet",
+    "category": "deli",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/downtown-deli-718-east-main-street"
+  },
+  {
+    "name": "Deli at Dwell",
+    "slug": "deliatdwell",
+    "category": "deli",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/deli-at-dwell"
+  },
+  {
+    "name": "The Deli & Company",
+    "slug": "thedelicompany",
+    "category": "deli",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/deli-co-110-main-st-suite-1204"
+  },
+  {
+    "name": "Mikey & Mel's Deli 8191 Maple Lawn Blvd",
+    "slug": "mikeymelsdeli8191maplelawnblvd",
+    "category": "deli",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mikey-mels-deli-8191-maple-lawn-blvd"
+  },
+  {
+    "name": "Main Street Deli & Arcade",
+    "slug": "mainstreetdeliarcade",
+    "category": "deli",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/main-street-deli-513-south-main-st"
+  },
+  {
+    "name": "Graze Provisions + Libations Fish Bowl Poke",
+    "slug": "grazeprovisionslibationsfishbowlpoke",
+    "category": "poke",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/graze-kazama"
+  },
+  {
+    "name": "Hawaii Poke Bowl West Lake St",
+    "slug": "hawaiipokebowlwestlakest",
+    "category": "poke",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hawaii-poke-bowl-st-louis-park-3234-west-lake-st"
+  },
+  {
+    "name": "Hawaii Poke Bowl - West St. Paul 1375 South Robert Street",
+    "slug": "hawaiipokebowl-weststpaul1375southrobert",
+    "category": "poke",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hawaii-poke-bowl-st-paul-1375-south-robert-street"
+  },
+  {
+    "name": "Poke Poke West Loop",
+    "slug": "pokepokewestloop",
+    "category": "poke",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-poke-west-loop-1100-w-madison"
+  },
+  {
+    "name": "Oshi Poke and Sushi 201 Jefferson Street North",
+    "slug": "oshipokeandsushi201jeffersonstreetnorth",
+    "category": "japanese",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/oshi-poke-and-sushi-new-201-jefferson-street-north"
+  },
+  {
+    "name": "Poke OG - Downtown POKE OG DOWNTOWN",
+    "slug": "pokeog-downtownpokeogdowntown",
+    "category": "poke",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-og-downtown-161-se-1st-street"
+  },
+  {
+    "name": "Poke Fresh - East Lansing",
+    "slug": "pokefresh-eastlansing",
+    "category": "poke",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-fresh-east-lansing"
+  },
+  {
+    "name": "Poke OG @ 1800 143 NW 23 ST",
+    "slug": "pokeog1800143nw23st",
+    "category": "poke",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-og-1800-143-nw-23-st"
+  },
+  {
+    "name": "Poke Row 2735 NW Crossing Dr #105",
+    "slug": "pokerow2735nwcrossingdr105",
+    "category": "poke",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-row-2735-nw-crossing-dr-105"
+  },
+  {
+    "name": "Poke Dot 17921 MacArthur Blvd",
+    "slug": "pokedot17921macarthurblvd",
+    "category": "poke",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/irvinepokedot"
+  },
+  {
+    "name": "Poke Burri 3231 powelton ave",
+    "slug": "pokeburri3231poweltonave",
+    "category": "poke",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pokeburripowelton"
+  },
+  {
+    "name": "Fresh Catch Poke Co. - Hertel Ave.",
+    "slug": "freshcatchpokeco-hertelave",
+    "category": "poke",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fresh-catch-poke-pearl"
+  },
+  {
+    "name": "TwoFish Poke",
+    "slug": "twofishpoke",
+    "category": "poke",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/twofish-poke"
+  },
+  {
+    "name": "Seaside Poke Understory",
+    "slug": "seasidepokeunderstory",
+    "category": "poke",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/seaside-poke-downtown"
+  },
+  {
+    "name": "Bloomington Dang Boba, Poke & Banh Mi",
+    "slug": "bloomingtondangbobapokebanhmi",
+    "category": "poke",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dangbanhmipoke-bloomington"
+  },
+  {
+    "name": "Mammoth Poke Bowl",
+    "slug": "mammothpokebowl",
+    "category": "poke",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/locations/999d9767-2289-443c-85e6-d346762838e6/default"
+  },
+  {
+    "name": "Nico's Taco & Tequila Bar - Minneapolis 2516 Hennepin ...",
+    "slug": "nicostacotequilabar-minneapolis2516henne",
+    "category": "mexican",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/nico-s-taco-tequila-bar-minneapolis-2516-hennepin-ave-s"
+  },
+  {
+    "name": "Mo's Seafood & Chowder - Original 622 SW Blvd",
+    "slug": "mosseafoodchowder-original622swblvd",
+    "category": "seafood",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/original-mos-622-sw-blvd"
+  },
+  {
+    "name": "Mr Seafood - Town Center 494-1 Town Center Place",
+    "slug": "mrseafood-towncenter494-1towncenterplace",
+    "category": "seafood",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mr-seafood-town-center-494-1-town-center-place"
+  },
+  {
+    "name": "Seafood Hut & Market 1936 MacDade Boulevard",
+    "slug": "seafoodhutmarket1936macdadeboulevard",
+    "category": "seafood",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/seafoodhut"
+  },
+  {
+    "name": "Seasons & Regions Seafood Grill",
+    "slug": "seasonsregionsseafoodgrill",
+    "category": "seafood",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/seasons-regions-seafood-grill"
+  },
+  {
+    "name": "Mo's Seafood & Chowder Seaside",
+    "slug": "mosseafoodchowderseaside",
+    "category": "seafood",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mos-seaside"
+  },
+  {
+    "name": "Locals Seafood Restaurant & Market",
+    "slug": "localsseafoodrestaurantmarket",
+    "category": "seafood",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/locals-seafood-market-oyster-bar"
+  },
+  {
+    "name": "Hnina's Seafood 1104 S. Clarke Rd",
+    "slug": "hninasseafood1104sclarkerd",
+    "category": "seafood",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hninasseafood"
+  },
+  {
+    "name": "Mo's Seafood & Chowder - Lincoln City",
+    "slug": "mosseafoodchowder-lincolncity",
+    "category": "seafood",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mos-chowder-lincoln-city"
+  },
+  {
+    "name": "La Mer Seafood 407 Main Street",
+    "slug": "lamerseafood407mainstreet",
+    "category": "seafood",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lamerseafood"
+  },
+  {
+    "name": "Roe Seafood Dining & Fish Market 5374 E 2nd St",
+    "slug": "roeseafooddiningfishmarket5374e2ndst",
+    "category": "seafood",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/roe-seafood-5374-e-2nd-st"
+  },
+  {
+    "name": "Mo's Seafood & Chowder Florence",
+    "slug": "mosseafoodchowderflorence",
+    "category": "seafood",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mos-florence"
+  },
+  {
+    "name": "Meding's Seafood - Milford",
+    "slug": "medingsseafood-milford",
+    "category": "seafood",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/medings-seafood-milford-3697-bay-road"
+  },
+  {
+    "name": "Mid Atlantic Seafood Laurel",
+    "slug": "midatlanticseafoodlaurel",
+    "category": "seafood",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mid-atlantic-seafood-laurel"
+  },
+  {
+    "name": "Mid Atlantic Seafood New Carrollton",
+    "slug": "midatlanticseafoodnewcarrollton",
+    "category": "seafood",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mid-atlantic-seafood-new-carrollton"
+  },
+  {
+    "name": "Southpark Seafood",
+    "slug": "southparkseafood",
+    "category": "seafood",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/southpark-seafood"
+  },
+  {
+    "name": "Hometown Seafood Pearland",
+    "slug": "hometownseafoodpearland",
+    "category": "seafood",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hometown-seafood-llc-5010-broadway-st"
+  },
+  {
+    "name": "order-page-wrapper.order",
+    "slug": "order-page-wrapperorder",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/crawfishchefpuyallup"
+  },
+  {
+    "name": "Orleans Seafood Kitchen - Katy Freeway/Westgreen",
+    "slug": "orleansseafoodkitchen-katyfreewaywestgre",
+    "category": "seafood",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/orleans-seafood-kitchen"
+  },
+  {
+    "name": "Christos Greek Restaurant Minneapolis",
+    "slug": "christosgreekrestaurantminneapolis",
+    "category": "mediterranean",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/christos-greek-restaurant"
+  },
+  {
+    "name": "It's Greek to Me - Fort Lee 1611 Palisade Ave.",
+    "slug": "itsgreektome-fortlee1611palisadeave",
+    "category": "mediterranean",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/itsgreektome"
+  },
+  {
+    "name": "Victors 1959 Cafe Minneapolis",
+    "slug": "victors1959cafeminneapolis",
+    "category": "cafe",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/victors-1959-cafe"
+  },
+  {
+    "name": "1424 Nicollet Ave",
+    "slug": "1424nicolletave",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/muffintopcafe"
+  },
+  {
+    "name": "Dave's Downtown - Minneapolis",
+    "slug": "davesdowntown-minneapolis",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/davesdowntown"
+  },
+  {
+    "name": "The Local Irish Pub - Minneapolis Minneapolis",
+    "slug": "thelocalirishpub-minneapolisminneapolis",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-local-nicollet-931-nicollet-mall"
+  },
+  {
+    "name": "Norma's Breakfast",
+    "slug": "normasbreakfast",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/normasbreakfast"
+  },
+  {
+    "name": "The Breakfast Spot",
+    "slug": "thebreakfastspot",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/breakfast-spot"
+  },
+  {
+    "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
+    "slug": "hellojuicesmoothie-thegrove1000snewstead",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hellojuicesmoothies-stl"
+  },
+  {
+    "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
+    "slug": "hellojuicesmoothie-kirkwood10463manchest",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hello-juice-smoothie-kirkwood"
+  },
+  {
+    "name": "Juice World 89 Passaic St",
+    "slug": "juiceworld89passaicst",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juice-world-89-passaic-st"
+  },
+  {
+    "name": "Juice It - 13th Ave S",
+    "slug": "juiceit-13thaves",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juice-it-13th-ave-s-4302-13th-ave-s"
+  },
+  {
+    "name": "Base Smoothies + Juice Frisco Frisco",
+    "slug": "basesmoothiesjuicefriscofrisco",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/base-smoothies-juice-frisco"
+  },
+  {
+    "name": "Juice Pharm - Acai Bowl",
+    "slug": "juicepharm-acaibowl",
+    "category": "hawaiian",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juicepharm"
+  },
+  {
+    "name": "Juice Crafters Downtown LA",
+    "slug": "juicecraftersdowntownla",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juice-crafters-downtown-la"
+  },
+  {
+    "name": "Fresco Juice Co. downtown Billings",
+    "slug": "frescojuicecodowntownbillings",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fresco-juice-co"
+  },
+  {
+    "name": "Awake Juice Bar - Apple Valley 18855 Bear Valley Rd",
+    "slug": "awakejuicebar-applevalley18855bearvalley",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/awake-juice-bar-apple-valley-18855-bear-valley-rd"
+  },
+  {
+    "name": "Blended Health & Smoothie Bar Olympia Plaza",
+    "slug": "blendedhealthsmoothiebarolympiaplaza",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/blended-health-smoothie-bar-950-harlem-ave"
+  },
+  {
+    "name": "Grateful Juice Bar",
+    "slug": "gratefuljuicebar",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/grateful-juice-bar"
+  },
+  {
+    "name": "Juice Crafters Santa Monica",
+    "slug": "juicecrafterssantamonica",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juice-crafters-santa-monica"
+  },
+  {
+    "name": "Very Juice - Avenue P 422 Avenue P",
+    "slug": "veryjuice-avenuep422avenuep",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/very-juice-bar-avenue-p-422-avenue-p"
   }
 ]

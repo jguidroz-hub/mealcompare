@@ -2273,5 +2273,419 @@
       "milwaukee"
     ],
     "websiteOrderUrl": "https://honeypiecafe.menufy.com/"
+  },
+  {
+    "name": "Miyako Poke 867 S. Broadway Ste. 110",
+    "slug": "miyakopoke867sbroadwayste110",
+    "category": "poke",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/miyako-poke-867-s-broadway-ste-110"
+  },
+  {
+    "name": "Hawaii Poke Bowl - West St. Paul 1375 South Robert Street",
+    "slug": "hawaiipokebowl-weststpaul1375southrobert",
+    "category": "poke",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hawaii-poke-bowl-st-paul-1375-south-robert-street"
+  },
+  {
+    "name": "Fresh Off The Hook Seafood",
+    "slug": "freshoffthehookseafood",
+    "category": "seafood",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fresh-off-the-hook-507-n-milwaukee-st"
+  },
+  {
+    "name": "The Crab Pad 2529 N MILWAUKEE AVE",
+    "slug": "thecrabpad2529nmilwaukeeave",
+    "category": "seafood",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-crab-pad-2529-n-milwaukee-ave"
+  },
+  {
+    "name": "Jersey's Bar and Grill - Beloit 2770 Milwaukee Rd",
+    "slug": "jerseysbarandgrill-beloit2770milwaukeerd",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/jerseys-bar-and-grill-beloit-2770-milwaukee-rd"
+  },
+  {
+    "name": "Milwaukee Steakhouse",
+    "slug": "milwaukeesteakhouse",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/milwaukee-steakhouse-6024-w-bluemound-rd"
+  },
+  {
+    "name": "Goode Co. Seafood",
+    "slug": "goodecoseafood",
+    "category": "seafood",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/goode-company-seafood-1"
+  },
+  {
+    "name": "La Mer Seafood 407 Main Street",
+    "slug": "lamerseafood407mainstreet",
+    "category": "seafood",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lamerseafood"
+  },
+  {
+    "name": "Buddys Seafood Market",
+    "slug": "buddysseafoodmarket",
+    "category": "seafood",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/buddys"
+  },
+  {
+    "name": "Hookers Seafood Joint (Harrisburg) 405 Walnut Street",
+    "slug": "hookersseafoodjointharrisburg405walnutst",
+    "category": "seafood",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hookersharrisburg"
+  },
+  {
+    "name": "Hnina's Seafood 1104 S. Clarke Rd",
+    "slug": "hninasseafood1104sclarkerd",
+    "category": "seafood",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hninasseafood"
+  },
+  {
+    "name": "Seasons & Regions Seafood Grill",
+    "slug": "seasonsregionsseafoodgrill",
+    "category": "seafood",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/seasons-regions-seafood-grill"
+  },
+  {
+    "name": "order-page-wrapper.order",
+    "slug": "order-page-wrapperorder",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/crawfishchefpuyallup"
+  },
+  {
+    "name": "Mid Atlantic Seafood Laurel",
+    "slug": "midatlanticseafoodlaurel",
+    "category": "seafood",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mid-atlantic-seafood-laurel"
+  },
+  {
+    "name": "Seafood Hut & Market 1936 MacDade Boulevard",
+    "slug": "seafoodhutmarket1936macdadeboulevard",
+    "category": "seafood",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/seafoodhut"
+  },
+  {
+    "name": "Rockfish Seafood Grill 7639 Campbell Rd. #800",
+    "slug": "rockfishseafoodgrill7639campbellrd800",
+    "category": "seafood",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rockfishrichardson"
+  },
+  {
+    "name": "Lawrence's Seafood Company",
+    "slug": "lawrencesseafoodcompany",
+    "category": "seafood",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lawerance-seafood-company-1130-ocean-blvd"
+  },
+  {
+    "name": "Rockfish Seafood Grill - Camp Bowie ...",
+    "slug": "rockfishseafoodgrill-campbowie",
+    "category": "seafood",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rockfishcampbowie"
+  },
+  {
+    "name": "Sayle's Seafood 99 Washington Street",
+    "slug": "saylesseafood99washingtonstreet",
+    "category": "seafood",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sayles-seafood-99-washington-street"
+  },
+  {
+    "name": "Mr. Greek of Buffalo 1122 Elmwood Ave.",
+    "slug": "mrgreekofbuffalo1122elmwoodave",
+    "category": "mediterranean",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mrgreekofbuffalo"
+  },
+  {
+    "name": "Giorgio's Greek Cafe LLC 328 S. Meridian",
+    "slug": "giorgiosgreekcafellc328smeridian",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/giorgiosgreekcafe"
+  },
+  {
+    "name": "The Greek Corner 2366 Massachusetts Avenue",
+    "slug": "thegreekcorner2366massachusettsavenue",
+    "category": "mediterranean",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-greek-corner-2366-massachusetts-avenue"
+  },
+  {
+    "name": "Meltemi Greek Restaurant Ridgewood",
+    "slug": "meltemigreekrestaurantridgewood",
+    "category": "mediterranean",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/meltemi-21-east-ridgewood-avenue"
+  },
+  {
+    "name": "The Greek Taverna 1903 Staples Mill Rd",
+    "slug": "thegreektaverna1903staplesmillrd",
+    "category": "mediterranean",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-greek-taverna-1903-staples-mill-rd"
+  },
+  {
+    "name": "Meraki Greek Bistro Coconut Grove",
+    "slug": "merakigreekbistrococonutgrove",
+    "category": "mediterranean",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/merakibistrogrove"
+  },
+  {
+    "name": "Meráki Greek Grill",
+    "slug": "merkigreekgrill",
+    "category": "mediterranean",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/locations/930f553b-46d3-44de-9c96-514641a8ac43"
+  },
+  {
+    "name": "Opa Greek Yeeros 378 Highland Ave",
+    "slug": "opagreekyeeros378highlandave",
+    "category": "mediterranean",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/opagreekyeeros"
+  },
+  {
+    "name": "Greek Souvlaki Downtown",
+    "slug": "greeksouvlakidowntown",
+    "category": "mediterranean",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/greek-souvlaki-downtown"
+  },
+  {
+    "name": "Kanela Breakfast Club Wicker Park",
+    "slug": "kanelabreakfastclubwickerpark",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/kanela-breakfast-club-wicker-park"
+  },
+  {
+    "name": "Holiday Inn & Suites Milwaukee Airport 545 W Layton Ave",
+    "slug": "holidayinnsuitesmilwaukeeairport545wlayt",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/holiday-inn-suites-milwaukee-airport-545-w-layton-ave"
+  },
+  {
+    "name": "The Egg Came First Cracked on Milwaukee",
+    "slug": "theeggcamefirstcrackedonmilwaukee",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cracked-on-milwaukee"
+  },
+  {
+    "name": "Azada Grill 1048 S. Milwaukee Ave.",
+    "slug": "azadagrill1048smilwaukeeave",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/azada-grill-1048-s-milwaukee-ave"
+  },
+  {
+    "name": "Daisies 2375 N Milwaukee Ave",
+    "slug": "daisies2375nmilwaukeeave",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/daisies-2-2375-n-milwaukee-ave-zwpcg"
+  },
+  {
+    "name": "Sipping Turtle Cafe 2959 North Milwaukee Avenue",
+    "slug": "sippingturtlecafe2959northmilwaukeeavenu",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sipping-turtle-cafe-2959-north-milwaukee-avenue"
+  },
+  {
+    "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
+    "slug": "hellojuicesmoothie-kirkwood10463manchest",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hello-juice-smoothie-kirkwood"
+  },
+  {
+    "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
+    "slug": "hellojuicesmoothie-thegrove1000snewstead",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hellojuicesmoothies-stl"
+  },
+  {
+    "name": "Juice World 89 Passaic St",
+    "slug": "juiceworld89passaicst",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juice-world-89-passaic-st"
+  },
+  {
+    "name": "Juice For Life New Hyde Park",
+    "slug": "juiceforlifenewhydepark",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juice-for-life-new-hyde-park"
+  },
+  {
+    "name": "Method Juice Cafe - Northside 7704 North Division",
+    "slug": "methodjuicecafe-northside7704northdivisi",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/method-juice-cafe-northside-7704-north-division"
+  },
+  {
+    "name": "Juva Juice Highland Village Juva Juice- Jackson",
+    "slug": "juvajuicehighlandvillagejuvajuice-jackso",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juva-juice-jackson-highland-village"
+  },
+  {
+    "name": "Base Smoothies + Juice Frisco Frisco",
+    "slug": "basesmoothiesjuicefriscofrisco",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/base-smoothies-juice-frisco"
+  },
+  {
+    "name": "Juice Crafters Downtown LA",
+    "slug": "juicecraftersdowntownla",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juice-crafters-downtown-la"
+  },
+  {
+    "name": "Juice For Life Bayside",
+    "slug": "juiceforlifebayside",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juice-for-life-bayside"
+  },
+  {
+    "name": "Juice It - 13th Ave S",
+    "slug": "juiceit-13thaves",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juice-it-13th-ave-s-4302-13th-ave-s"
+  },
+  {
+    "name": "Blended Health & Smoothie Bar Olympia Plaza",
+    "slug": "blendedhealthsmoothiebarolympiaplaza",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/blended-health-smoothie-bar-950-harlem-ave"
+  },
+  {
+    "name": "Tropical Cafe and Juice Bar",
+    "slug": "tropicalcafeandjuicebar",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tropical-cafe-and-juice-bar"
   }
 ]

@@ -1821,5 +1821,401 @@
       "columbus"
     ],
     "websiteOrderUrl": "https://www.ezcater.com/catering/subway-columbus-milgen-rd"
+  },
+  {
+    "name": "Dadu's Bakery 8495 SANCUS BLVD",
+    "slug": "dadusbakery8495sancusblvd",
+    "category": "bakery",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dadus-bakery-8495-sancus-blvd"
+  },
+  {
+    "name": "Magnolia Bakery Columbus Ave",
+    "slug": "magnoliabakerycolumbusave",
+    "category": "bakery",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/magnoliacolumbus"
+  },
+  {
+    "name": "Mrs. Turbo's Bakery",
+    "slug": "mrsturbosbakery",
+    "category": "bakery",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mrsturbosbakery"
+  },
+  {
+    "name": "Magnolia Bakery Bleecker Street",
+    "slug": "magnoliabakerybleeckerstreet",
+    "category": "bakery",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/magnolia-bakery-west-village"
+  },
+  {
+    "name": "Magnolia Bakery Moynihan",
+    "slug": "magnoliabakerymoynihan",
+    "category": "bakery",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/magnolia-bakery-moynihan"
+  },
+  {
+    "name": "Batch 22 Bakery 15466 Los Gatos Blvd Ste 113",
+    "slug": "batch22bakery15466losgatosblvdste113",
+    "category": "bakery",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/batch22"
+  },
+  {
+    "name": "Bakery-X LLC",
+    "slug": "bakery-xllc",
+    "category": "bakery",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bakery-x"
+  },
+  {
+    "name": "The Cottage Bakery & Café LLC",
+    "slug": "thecottagebakerycafllc",
+    "category": "bakery",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-cottage-bakery-cafe-llc"
+  },
+  {
+    "name": "Downtown Bakery & Creamery",
+    "slug": "downtownbakerycreamery",
+    "category": "bakery",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/downtownbakery"
+  },
+  {
+    "name": "Wealthy Street Bakery",
+    "slug": "wealthystreetbakery",
+    "category": "bakery",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wealthystreet"
+  },
+  {
+    "name": "Seven Stars Bakery Reservoir Ave.",
+    "slug": "sevenstarsbakeryreservoirave",
+    "category": "bakery",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/seven-stars-bakery-1255-reservoir-ave-1255-reservoir-avenue"
+  },
+  {
+    "name": "Reis' Bakery Location and Ordering Hours",
+    "slug": "reisbakerylocationandorderinghours",
+    "category": "bakery",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/reis-bakery-onlineordering"
+  },
+  {
+    "name": "New Glarus Bakery",
+    "slug": "newglarusbakery",
+    "category": "bakery",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/newglarusbakery"
+  },
+  {
+    "name": "Common Good Bakery",
+    "slug": "commongoodbakery",
+    "category": "bakery",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/locations/d476cabf-b66e-451e-a9c0-5dded0752bdd"
+  },
+  {
+    "name": "Beaumont Bakery & Cafe 3979 Wasatch Blvd Suite B",
+    "slug": "beaumontbakerycafe3979wasatchblvdsuiteb",
+    "category": "cafe",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/beaumont"
+  },
+  {
+    "name": "Magnolia Bakery Faneuil Hall",
+    "slug": "magnoliabakeryfaneuilhall",
+    "category": "bakery",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/magnolia-bakery-boston"
+  },
+  {
+    "name": "Saucy Brew Works Columbus",
+    "slug": "saucybrewworkscolumbus",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/saucy-brew-works-columbus"
+  },
+  {
+    "name": "HC Way- Chinese Restaurant Bethel Rd.",
+    "slug": "hcway-chineserestaurantbethelrd",
+    "category": "chinese",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hc-way-bethal-road-769-bethel-rd-unit-b-columbus-oh-43214"
+  },
+  {
+    "name": "HC Way-Chinese Restaurant Crosswoods",
+    "slug": "hcway-chineserestaurantcrosswoods",
+    "category": "chinese",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hc-way-crosswoods-171-east-campus-view-boulevard"
+  },
+  {
+    "name": "Big Boss Chinese 100 Midtown Student Living",
+    "slug": "bigbosschinese100midtownstudentliving",
+    "category": "chinese",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/big-boss-chinese"
+  },
+  {
+    "name": "JB's Downtown Grill 111 N Columbus St",
+    "slug": "jbsdowntowngrill111ncolumbusst",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/jb-s-downtown-grill-111-n-columbus-st"
+  },
+  {
+    "name": "Marx Bagels - Columbus 6115 McNaughten Rd",
+    "slug": "marxbagels-columbus6115mcnaughtenrd",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/marx-bagels-columbus-6115-mcnaughten-rd"
+  },
+  {
+    "name": "Hi-Way Burger - North Beach 411 Columbus Ave",
+    "slug": "hi-wayburger-northbeach411columbusave",
+    "category": "burgers",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hi-way-burger-new-sf-411-columbus-ave"
+  },
+  {
+    "name": "Petit Robert Bistro 480 Columbus Ave",
+    "slug": "petitrobertbistro480columbusave",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/petit-robert-bistro-480-columbus-ave"
+  },
+  {
+    "name": "Moe's Original BBQ Columbus",
+    "slug": "moesoriginalbbqcolumbus",
+    "category": "bbq",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/moes-original-bbq-columbus"
+  },
+  {
+    "name": "Wild Willy's Burgers -Rochester, NH 724 Columbus Avenue",
+    "slug": "wildwillysburgers-rochesternh724columbus",
+    "category": "burgers",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wild-willys-burgers-rochester-nh-new-724-columbus-avenue"
+  },
+  {
+    "name": "Thyme & Tonic 474 Columbus Ave",
+    "slug": "thymetonic474columbusave",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thyme-tonic-474-columbus-ave"
+  },
+  {
+    "name": "Tartinery Columbus Circle",
+    "slug": "tartinerycolumbuscircle",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tartinery-columbus-circle-10-columbus-circle-3rd-floor"
+  },
+  {
+    "name": "Pure Taqueria Columbus",
+    "slug": "puretaqueriacolumbus",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pure-taqueria-columbus"
+  },
+  {
+    "name": "VARA Juice - Columbus 2019 Polaris Parkway",
+    "slug": "varajuice-columbus2019polarisparkway",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/vara-juice-columbus-2019-polaris-parkway"
+  },
+  {
+    "name": "Li's Smoothie Bar",
+    "slug": "lissmoothiebar",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/li-s-smoothie-bar-23203-columbus-rd-l"
+  },
+  {
+    "name": "Dash and Joey's Bellefontaine 210 w Columbus Ave",
+    "slug": "dashandjoeysbellefontaine210wcolumbusave",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dash-and-joey-s-bellefontaine-210-w-columbus-ave"
+  },
+  {
+    "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
+    "slug": "hellojuicesmoothie-thegrove1000snewstead",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hellojuicesmoothies-stl"
+  },
+  {
+    "name": "Yoshi - Columbus 1502 N. High St",
+    "slug": "yoshi-columbus1502nhighst",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/yoshi-columbus-1502-n-high-st"
+  },
+  {
+    "name": "Juva Juice - Columbus",
+    "slug": "juvajuice-columbus",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juva-juice-columbus"
+  },
+  {
+    "name": "Juva Juice - Starkville",
+    "slug": "juvajuice-starkville",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juva-juice-starkville"
+  },
+  {
+    "name": "Juva Juice - Tupelo",
+    "slug": "juvajuice-tupelo",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juva-juice-tupelo"
+  },
+  {
+    "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
+    "slug": "hellojuicesmoothie-kirkwood10463manchest",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hello-juice-smoothie-kirkwood"
+  },
+  {
+    "name": "Tropical Cafe and Juice Bar",
+    "slug": "tropicalcafeandjuicebar",
+    "category": "cafe",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tropical-cafe-and-juice-bar"
+  },
+  {
+    "name": "Juice It - 13th Ave S",
+    "slug": "juiceit-13thaves",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juice-it-13th-ave-s-4302-13th-ave-s"
+  },
+  {
+    "name": "The Smoothie Spot- Colonial Heights",
+    "slug": "thesmoothiespot-colonialheights",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-smoothie-spot-virginia-798-southpark-boulevard-suite-32"
+  },
+  {
+    "name": "order-page-wrapper.order",
+    "slug": "order-page-wrapperorder",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/smoothieshaven"
+  },
+  {
+    "name": "Juice World 89 Passaic St",
+    "slug": "juiceworld89passaicst",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juice-world-89-passaic-st"
+  },
+  {
+    "name": "Online Ordering for Restaurants with No Commissions",
+    "slug": "onlineorderingforrestaurantswithnocommis",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/1616/locations"
   }
 ]

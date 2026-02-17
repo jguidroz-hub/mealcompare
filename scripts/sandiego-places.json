@@ -2578,5 +2578,410 @@
       "sandiego"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/9207/locations"
+  },
+  {
+    "name": "Seaside Poke Understory",
+    "slug": "seasidepokeunderstory",
+    "category": "poke",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/seaside-poke-downtown"
+  },
+  {
+    "name": "Poke OG - Downtown POKE OG DOWNTOWN",
+    "slug": "pokeog-downtownpokeogdowntown",
+    "category": "poke",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-og-downtown-161-se-1st-street"
+  },
+  {
+    "name": "Lei'd Poke",
+    "slug": "leidpoke",
+    "category": "poke",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/leidpoke"
+  },
+  {
+    "name": "Poke Burrito Astoria 37-07 30th Ave.",
+    "slug": "pokeburritoastoria37-0730thave",
+    "category": "poke",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-burrito"
+  },
+  {
+    "name": "Manoa Poke Shop",
+    "slug": "manoapokeshop",
+    "category": "poke",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/manoapoke"
+  },
+  {
+    "name": "Fresh Catch Poke Co. - Hertel Ave.",
+    "slug": "freshcatchpokeco-hertelave",
+    "category": "poke",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fresh-catch-poke-pearl"
+  },
+  {
+    "name": "Piki Poke & Ramen Astoria",
+    "slug": "pikipokeramenastoria",
+    "category": "japanese",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pikipokeastoria"
+  },
+  {
+    "name": "Blue Water Seafood Ocean Beach ...",
+    "slug": "bluewaterseafoodoceanbeach",
+    "category": "seafood",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bluewateroceanbeach"
+  },
+  {
+    "name": "paradise biryani - san diego",
+    "slug": "paradisebiryani-sandiego",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/paradise-biryani-sandiego"
+  },
+  {
+    "name": "TAKA Sushi San Diego",
+    "slug": "takasushisandiego",
+    "category": "japanese",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/taka555"
+  },
+  {
+    "name": "Mo's Seafood & Chowder Seaside",
+    "slug": "mosseafoodchowderseaside",
+    "category": "seafood",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mos-seaside"
+  },
+  {
+    "name": "San Pedro Fish Market Long Beach",
+    "slug": "sanpedrofishmarketlongbeach",
+    "category": "seafood",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/spfmlongbeach"
+  },
+  {
+    "name": "Katie's Seafood House Pier 19",
+    "slug": "katiesseafoodhousepier19",
+    "category": "seafood",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/katies-seafood-house"
+  },
+  {
+    "name": "La Mer Seafood 407 Main Street",
+    "slug": "lamerseafood407mainstreet",
+    "category": "seafood",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lamerseafood"
+  },
+  {
+    "name": "Goode Co. Seafood",
+    "slug": "goodecoseafood",
+    "category": "seafood",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/goode-company-seafood-1"
+  },
+  {
+    "name": "The Great Greek Mediterranean Grill Scottsdale, AZ",
+    "slug": "thegreatgreekmediterraneangrillscottsdal",
+    "category": "mediterranean",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-great-greek-scottsdale-az"
+  },
+  {
+    "name": "The Great Greek Mediterranean Grill Pleasant Grove, UT",
+    "slug": "thegreatgreekmediterraneangrillpleasantg",
+    "category": "mediterranean",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-great-greek-pleasant-grove-ut"
+  },
+  {
+    "name": "The Great Greek Mediterranean Grill Irvine, CA",
+    "slug": "thegreatgreekmediterraneangrillirvineca",
+    "category": "mediterranean",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-great-greek-irvine-ca"
+  },
+  {
+    "name": "The Great Greek Mediterranean Grill Bend, OR",
+    "slug": "thegreatgreekmediterraneangrillbendor",
+    "category": "mediterranean",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-great-greek-mediterranean-grill-bend-or"
+  },
+  {
+    "name": "The Great Greek Mediterranean Grill Tigard, OR",
+    "slug": "thegreatgreekmediterraneangrilltigardor",
+    "category": "mediterranean",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-great-greek-tigard-or"
+  },
+  {
+    "name": "The Great Greek Mediterranean Grill Gilbert, AZ",
+    "slug": "thegreatgreekmediterraneangrillgilbertaz",
+    "category": "mediterranean",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-great-greek-gilbert-az"
+  },
+  {
+    "name": "Greek Feast",
+    "slug": "greekfeast",
+    "category": "mediterranean",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/greek-feast-2784-dundee-road"
+  },
+  {
+    "name": "Greek Spot San Jose",
+    "slug": "greekspotsanjose",
+    "category": "mediterranean",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/greek-spot-5685-cottle-rd"
+  },
+  {
+    "name": "Mina & Dimi's Greek House 7159 W US Hwy 90",
+    "slug": "minadimisgreekhouse7159wushwy90",
+    "category": "mediterranean",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mina-dimis-greek-house-7159-w-us-hwy-90"
+  },
+  {
+    "name": "The Great Greek Mediterranean Grill Orlando, FL",
+    "slug": "thegreatgreekmediterraneangrillorlandofl",
+    "category": "mediterranean",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-great-greek-mediterranean-grill-orlando"
+  },
+  {
+    "name": "The Great Greek Mediterranean Grill Manchester, NH",
+    "slug": "thegreatgreekmediterraneangrillmancheste",
+    "category": "mediterranean",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-great-greek-manchester-nh"
+  },
+  {
+    "name": "Giorgio's Greek Cafe LLC 328 S. Meridian",
+    "slug": "giorgiosgreekcafellc328smeridian",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/giorgiosgreekcafe"
+  },
+  {
+    "name": "The Greek Corner 2366 Massachusetts Avenue",
+    "slug": "thegreekcorner2366massachusettsavenue",
+    "category": "mediterranean",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-greek-corner-2366-massachusetts-avenue"
+  },
+  {
+    "name": "simply greek 44 Centennial Drive",
+    "slug": "simplygreek44centennialdrive",
+    "category": "mediterranean",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/simply-greek-44-centennial-drive"
+  },
+  {
+    "name": "Sunday Breakfast Society 2322 Proctor Valley Road, suite ...",
+    "slug": "sundaybreakfastsociety2322proctorvalleyr",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sunday-breakfast-society-2322-proctor-valley-road-suite-130"
+  },
+  {
+    "name": "Grab & Go Subs One American Plaza Downtown San ...",
+    "slug": "grabgosubsoneamericanplazadowntownsan",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/grab-go-one-american-plaza-downtown-san-diego-600-w-broadway-st"
+  },
+  {
+    "name": "Zinqué (zin-kae) San Diego",
+    "slug": "zinquzin-kaesandiego",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/zinque-san-diego-2101-kettner-blvd"
+  },
+  {
+    "name": "Juice Adventure 935 Otay Lakes Rd",
+    "slug": "juiceadventure935otaylakesrd",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juice-adventure-935-otay-lakes-rd"
+  },
+  {
+    "name": "Hello Juice & Smoothie- The Grove 1000 S. Newstead Ave",
+    "slug": "hellojuicesmoothie-thegrove1000snewstead",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hellojuicesmoothies-stl"
+  },
+  {
+    "name": "Hello Juice & Smoothie- Kirkwood 10463 Manchester Rd ...",
+    "slug": "hellojuicesmoothie-kirkwood10463manchest",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hello-juice-smoothie-kirkwood"
+  },
+  {
+    "name": "Juiceria Smoothie Bar & Cafe Goose Creek Location",
+    "slug": "juiceriasmoothiebarcafegoosecreeklocatio",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juiceria-smoothie-bar-cafe"
+  },
+  {
+    "name": "Rock 'n Juice",
+    "slug": "rocknjuice",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rock-n-juice-san-pedro-2470-s-western-ave-space-c"
+  },
+  {
+    "name": "Juice World 89 Passaic St",
+    "slug": "juiceworld89passaicst",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juice-world-89-passaic-st"
+  },
+  {
+    "name": "Sunshine Cafe and Juicery 2726 N. Mt Juliet Road",
+    "slug": "sunshinecafeandjuicery2726nmtjulietroad",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sunshine-cafe-juicery-2726-n-mt-juliet-road"
+  },
+  {
+    "name": "Tropical Cafe and Juice Bar",
+    "slug": "tropicalcafeandjuicebar",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tropical-cafe-and-juice-bar"
+  },
+  {
+    "name": "Juice Portal",
+    "slug": "juiceportal",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juiceportal"
+  },
+  {
+    "name": "Juice It - 13th Ave S",
+    "slug": "juiceit-13thaves",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juice-it-13th-ave-s-4302-13th-ave-s"
+  },
+  {
+    "name": "Fresco Juice Co. downtown Billings",
+    "slug": "frescojuicecodowntownbillings",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fresco-juice-co"
+  },
+  {
+    "name": "Smoothie Time",
+    "slug": "smoothietime",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/smoothie-time"
+  },
+  {
+    "name": "Online Ordering for Sanfratello's Pizza",
+    "slug": "onlineorderingforsanfratellospizza",
+    "category": "pizza",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/2592/locations/3386"
   }
 ]

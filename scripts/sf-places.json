@@ -2902,5 +2902,347 @@
       "sf"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/5898/locations/7715"
+  },
+  {
+    "name": "Belly Deli 1304 Second Street",
+    "slug": "bellydeli1304secondstreet",
+    "category": "deli",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/belly-deli-1304-second-street"
+  },
+  {
+    "name": "Top Hat Deli",
+    "slug": "tophatdeli",
+    "category": "deli",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/top-hat-deli"
+  },
+  {
+    "name": "The Deli & Company",
+    "slug": "thedelicompany",
+    "category": "deli",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/deli-co-110-main-st-suite-1204"
+  },
+  {
+    "name": "Feng Cha CA - San Francisco",
+    "slug": "fengchaca-sanfrancisco",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/feng-cha-san-francisco"
+  },
+  {
+    "name": "Deli on 4th",
+    "slug": "delion4th",
+    "category": "deli",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/deli-on-4th"
+  },
+  {
+    "name": "Palio Financial District San Francisco",
+    "slug": "paliofinancialdistrictsanfrancisco",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/palio"
+  },
+  {
+    "name": "The Urban Deli",
+    "slug": "theurbandeli",
+    "category": "deli",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-urban-deli"
+  },
+  {
+    "name": "Anthony's Italian Deli 5575 Government St",
+    "slug": "anthonysitaliandeli5575governmentst",
+    "category": "deli",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/anthonys-italian-deli-5575-government-st"
+  },
+  {
+    "name": "Main Street Deli & Arcade",
+    "slug": "mainstreetdeliarcade",
+    "category": "deli",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/main-street-deli-513-south-main-st"
+  },
+  {
+    "name": "TOKYROLL Sushi & Poké San Francisco - SoMa",
+    "slug": "tokyrollsushipoksanfrancisco-soma",
+    "category": "japanese",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tokyroll-san-francisco-soma-sushi-poke"
+  },
+  {
+    "name": "Manoa Poke Shop",
+    "slug": "manoapokeshop",
+    "category": "poke",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/manoapoke"
+  },
+  {
+    "name": "Lei'd Poke",
+    "slug": "leidpoke",
+    "category": "poke",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/leidpoke"
+  },
+  {
+    "name": "Oshi Poke and Sushi 201 Jefferson Street North",
+    "slug": "oshipokeandsushi201jeffersonstreetnorth",
+    "category": "japanese",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/oshi-poke-and-sushi-new-201-jefferson-street-north"
+  },
+  {
+    "name": "Poke Poke West Loop",
+    "slug": "pokepokewestloop",
+    "category": "poke",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-poke-west-loop-1100-w-madison"
+  },
+  {
+    "name": "Poke OG - Downtown POKE OG DOWNTOWN",
+    "slug": "pokeog-downtownpokeogdowntown",
+    "category": "poke",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-og-downtown-161-se-1st-street"
+  },
+  {
+    "name": "Poke Poke Streeterville",
+    "slug": "pokepokestreeterville",
+    "category": "poke",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/streeterville"
+  },
+  {
+    "name": "Seaside Poke Understory",
+    "slug": "seasidepokeunderstory",
+    "category": "poke",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/seaside-poke-downtown"
+  },
+  {
+    "name": "Fire Wings San Mateo San Mateo",
+    "slug": "firewingssanmateosanmateo",
+    "category": "wings",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fire-wings-san-mateo"
+  },
+  {
+    "name": "Fire Wings El Paseo El Paseo",
+    "slug": "firewingselpaseoelpaseo",
+    "category": "wings",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fire-wings-west-san-jose-west-san-jose"
+  },
+  {
+    "name": "Wing It 9825 San Jose Blvd #20",
+    "slug": "wingit9825sanjoseblvd20",
+    "category": "wings",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wingitjax"
+  },
+  {
+    "name": "Fire Wings Story Road Story Rd San Jose",
+    "slug": "firewingsstoryroadstoryrdsanjose",
+    "category": "wings",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fire-wings-story-road-story-road"
+  },
+  {
+    "name": "Fire Wings San Bernardino San Bernardino",
+    "slug": "firewingssanbernardinosanbernardino",
+    "category": "wings",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fire-wings-san-bernardino"
+  },
+  {
+    "name": "Fry n Wings- Bloomingdale 369 West Army Trail Road",
+    "slug": "frynwings-bloomingdale369westarmytrailro",
+    "category": "wings",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fry-n-wings-bloomingdale-369-west-army-trail-road"
+  },
+  {
+    "name": "Ghett Yo Wings San Tan Valley",
+    "slug": "ghettyowingssantanvalley",
+    "category": "wings",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ghett-yo-40975%20n%20ironwood%20rd"
+  },
+  {
+    "name": "FRY N' WINGS St. Charles",
+    "slug": "frynwingsstcharles",
+    "category": "wings",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fry-n-wings"
+  },
+  {
+    "name": "Wings N Things Cortez",
+    "slug": "wingsnthingscortez",
+    "category": "wings",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wingsnthingscortez"
+  },
+  {
+    "name": "Wings and Burgers To Go 1733 West Mississippi Avenue",
+    "slug": "wingsandburgerstogo1733westmississippiav",
+    "category": "burgers",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wings-and-burgers-1733-west-mississippi-avenue"
+  },
+  {
+    "name": "SoCal Wings Atlantic",
+    "slug": "socalwingsatlantic",
+    "category": "wings",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/socal-wings-atlantic-1800-atlantic-ave"
+  },
+  {
+    "name": "Taishoken San Francisco",
+    "slug": "taishokensanfrancisco",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/taishokensf"
+  },
+  {
+    "name": "Burma Superstar San Francisco-309 Clement St",
+    "slug": "burmasuperstarsanfrancisco-309clementst",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/burma-superstar-309-clement-st"
+  },
+  {
+    "name": "Lao Table - San Francisco 149 2nd Street",
+    "slug": "laotable-sanfrancisco1492ndstreet",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lao-table-san-francisco-149-2nd-street"
+  },
+  {
+    "name": "bizza san francisco",
+    "slug": "bizzasanfrancisco",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bizza-haight-1463-haight-st"
+  },
+  {
+    "name": "Son & Garden San Francisco See More",
+    "slug": "songardensanfranciscoseemore",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/son-garden-sf"
+  },
+  {
+    "name": "San Francisco Arepas - 3198 16th street ...",
+    "slug": "sanfranciscoarepas-319816thstreet",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/arepas-san-francisco"
+  },
+  {
+    "name": "Cuban Kitchen, home of the Best Cubano",
+    "slug": "cubankitchenhomeofthebestcubano",
+    "category": "latin",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/qbacubankitchen"
+  },
+  {
+    "name": "Tina's Cuban Cuisine 23 W 56th St",
+    "slug": "tinascubancuisine23w56thst",
+    "category": "latin",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tinas-cuban-23-w-56th-st"
+  },
+  {
+    "name": "Johnny Doughnuts San Francisco",
+    "slug": "johnnydoughnutssanfrancisco",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/johnnydoughnuts-sanfran"
+  },
+  {
+    "name": "Santiago's Cuban Cuisine Location and Ordering Hours",
+    "slug": "santiagoscubancuisinelocationandordering",
+    "category": "latin",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/santiagos-2023-3-main-street"
   }
 ]
