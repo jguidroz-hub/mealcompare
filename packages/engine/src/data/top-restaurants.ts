@@ -308,6 +308,13 @@ export const ATLANTA_RESTAURANTS: RestaurantData[] = [
   { name: 'Popmenu toolkit: The Restaurant Growth Playbook', slug: 'popmenutoolkittherestaurantgrowthplayboo', category: 'restaurant', metros: ['atlanta'], websiteOrderUrl: 'https://get.popmenu.com/toolkit/the-restaurant-growth-playbook' },
   { name: '4 tech-focused tips to fight rising restaurant costs', slug: '4tech-focusedtipstofightrisingrestaurant', category: 'restaurant', metros: ['atlanta'], websiteOrderUrl: 'https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs' },
   { name: 'Popmenu: Case Study - Phat Eatery', slug: 'popmenucasestudy-phateatery', category: 'restaurant', metros: ['atlanta'], websiteOrderUrl: 'https://get.popmenu.com/client-story/phat-eatery' },
+  { name: 'Online Ordering for Restaurants with No Commissions', slug: 'onlineorderingforrestaurantswithnocommis', category: 'restaurant', metros: ['atlanta'], websiteOrderUrl: 'https://ordering.chownow.com/order/2586/locations' },
+  { name: 'Online Food Ordering System & App', slug: 'onlinefoodorderingsystemapp', category: 'restaurant', metros: ['atlanta'], websiteOrderUrl: 'https://ordering.chownow.com/order/5241/locations' },
+  { name: 'Online ordering competitors every restaurant should know', slug: 'onlineorderingcompetitorseveryrestaurant', category: 'restaurant', metros: ['atlanta'], websiteOrderUrl: 'https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know' },
+  { name: 'Popmenu: We do more than grow your restaurant.', slug: 'popmenuwedomorethangrowyourrestaurant', category: 'restaurant', metros: ['atlanta'], websiteOrderUrl: 'https://get.popmenu.com/' },
+  { name: '6 Best Popmenu Competitors to Consider (Pros & Cons)', slug: '6bestpopmenucompetitorstoconsiderproscon', category: 'restaurant', metros: ['atlanta'], websiteOrderUrl: 'https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons' },
+  { name: 'How to set up online food ordering in an afternoon', slug: 'howtosetuponlinefoodorderinginanafternoo', category: 'restaurant', metros: ['atlanta'], websiteOrderUrl: 'https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon' },
+  { name: 'Popmenu: Pricing', slug: 'popmenupricing', category: 'restaurant', metros: ['atlanta'], websiteOrderUrl: 'https://get.popmenu.com/pricing' },
 ];
 
 export const AUSTIN_RESTAURANTS: RestaurantData[] = [
@@ -322,6 +329,11 @@ export const AUSTIN_RESTAURANTS: RestaurantData[] = [
   { name: 'Popmenu toolkit: The Restaurant Growth Playbook', slug: 'popmenutoolkittherestaurantgrowthplayboo', category: 'restaurant', metros: ['austin'], websiteOrderUrl: 'https://get.popmenu.com/toolkit/the-restaurant-growth-playbook' },
   { name: '4 tech-focused tips to fight rising restaurant costs', slug: '4tech-focusedtipstofightrisingrestaurant', category: 'restaurant', metros: ['austin'], websiteOrderUrl: 'https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs' },
   { name: 'Austin’s Pizza', slug: 'austinspizza', category: 'pizza', metros: ['austin'], toastUrl: 'https://austinspizza.toast.site/order' },
+  { name: 'Online Ordering for Nanami Sushi Bar | Powered By ChowNow', slug: 'onlineorderingfornanamisushibarpoweredby', category: 'japanese', metros: ['austin'], websiteOrderUrl: 'https://ordering.chownow.com/order/3896/locations' },
+  { name: 'Online ordering competitors every restaurant should know', slug: 'onlineorderingcompetitorseveryrestaurant', category: 'restaurant', metros: ['austin'], websiteOrderUrl: 'https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know' },
+  { name: '6 Best Popmenu Competitors to Consider (Pros & Cons)', slug: '6bestpopmenucompetitorstoconsiderproscon', category: 'restaurant', metros: ['austin'], websiteOrderUrl: 'https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons' },
+  { name: 'How to set up online food ordering in an afternoon', slug: 'howtosetuponlinefoodorderinginanafternoo', category: 'restaurant', metros: ['austin'], websiteOrderUrl: 'https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon' },
+  { name: 'Popmenu: We do more than grow your restaurant.', slug: 'popmenuwedomorethangrowyourrestaurant', category: 'restaurant', metros: ['austin'], websiteOrderUrl: 'https://get.popmenu.com/' },
 ];
 
 export const BOSTON_RESTAURANTS: RestaurantData[] = [
@@ -422,6 +434,11 @@ export const BOSTON_RESTAURANTS: RestaurantData[] = [
   { name: 'Tech the Halls with Popmenu', slug: 'techthehallswithpopmenu', category: 'restaurant', metros: ['boston'], websiteOrderUrl: 'https://get.popmenu.com/tech-the-halls-reach-more-guests' },
   { name: '4 tech-focused tips to fight rising restaurant costs', slug: '4tech-focusedtipstofightrisingrestaurant', category: 'restaurant', metros: ['boston'], websiteOrderUrl: 'https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs' },
   { name: 'Popmenu: Case Study - Phat Eatery', slug: 'popmenucasestudy-phateatery', category: 'restaurant', metros: ['boston'], websiteOrderUrl: 'https://get.popmenu.com/client-story/phat-eatery' },
+  { name: 'Online Food Ordering System & App', slug: 'onlinefoodorderingsystemapp', category: 'restaurant', metros: ['boston'], websiteOrderUrl: 'https://ordering.chownow.com/order/2398/locations/3175' },
+  { name: 'Online ordering competitors every restaurant should know', slug: 'onlineorderingcompetitorseveryrestaurant', category: 'restaurant', metros: ['boston'], websiteOrderUrl: 'https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know' },
+  { name: '6 Best Popmenu Competitors to Consider (Pros & Cons)', slug: '6bestpopmenucompetitorstoconsiderproscon', category: 'restaurant', metros: ['boston'], websiteOrderUrl: 'https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons' },
+  { name: 'Popmenu: Pricing', slug: 'popmenupricing', category: 'restaurant', metros: ['boston'], websiteOrderUrl: 'https://get.popmenu.com/pricing' },
+  { name: 'How to set up online food ordering in an afternoon', slug: 'howtosetuponlinefoodorderinginanafternoo', category: 'restaurant', metros: ['boston'], websiteOrderUrl: 'https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon' },
 ];
 
 export const CHICAGO_RESTAURANTS: RestaurantData[] = [
@@ -587,11 +604,24 @@ export const CHICAGO_RESTAURANTS: RestaurantData[] = [
   { name: 'Popmenu toolkit: The Restaurant Growth Playbook', slug: 'popmenutoolkittherestaurantgrowthplayboo', category: 'restaurant', metros: ['chicago'], websiteOrderUrl: 'https://get.popmenu.com/toolkit/the-restaurant-growth-playbook' },
   { name: '4 tech-focused tips to fight rising restaurant costs', slug: '4tech-focusedtipstofightrisingrestaurant', category: 'restaurant', metros: ['chicago'], websiteOrderUrl: 'https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs' },
   { name: 'Popmenu: Case Study - Phat Eatery', slug: 'popmenucasestudy-phateatery', category: 'restaurant', metros: ['chicago'], websiteOrderUrl: 'https://get.popmenu.com/client-story/phat-eatery' },
+  { name: 'Online Food Ordering System & App', slug: 'onlinefoodorderingsystemapp', category: 'restaurant', metros: ['chicago'], websiteOrderUrl: 'https://ordering.chownow.com/order/16322/locations' },
+  { name: 'Online ordering competitors every restaurant should know', slug: 'onlineorderingcompetitorseveryrestaurant', category: 'restaurant', metros: ['chicago'], websiteOrderUrl: 'https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know' },
+  { name: 'Online Ordering for Restaurants with No Commissions', slug: 'onlineorderingforrestaurantswithnocommis', category: 'restaurant', metros: ['chicago'], websiteOrderUrl: 'https://ordering.chownow.com/order/10492/locations/14375' },
+  { name: '6 Best Popmenu Competitors to Consider (Pros & Cons)', slug: '6bestpopmenucompetitorstoconsiderproscon', category: 'restaurant', metros: ['chicago'], websiteOrderUrl: 'https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons' },
+  { name: 'Popmenu: Pricing', slug: 'popmenupricing', category: 'restaurant', metros: ['chicago'], websiteOrderUrl: 'https://get.popmenu.com/pricing' },
+  { name: 'How to set up online food ordering in an afternoon', slug: 'howtosetuponlinefoodorderinginanafternoo', category: 'restaurant', metros: ['chicago'], websiteOrderUrl: 'https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon' },
+  { name: 'Order Food Online - American (New) Restaurant in Los ...', slug: 'orderfoodonline-americannewrestaurantinl', category: 'restaurant', metros: ['chicago'], websiteOrderUrl: 'https://ordering.chownow.com/order/28003/locations' },
 ];
 
 export const DC_RESTAURANTS: RestaurantData[] = [
   { name: 'Order Online', slug: 'orderonline', category: 'restaurant', metros: ['dc'], toastUrl: 'https://order.toasttab.com/online/chiko-washington' },
   { name: 'ala | DC - ORDER ONLINE', slug: 'aladc-orderonline', category: 'restaurant', metros: ['dc'], toastUrl: 'https://order.toasttab.com/online/aladc' },
+  { name: 'Online ordering competitors every restaurant should know', slug: 'onlineorderingcompetitorseveryrestaurant', category: 'restaurant', metros: ['dc'], websiteOrderUrl: 'https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know' },
+  { name: '6 Best Popmenu Competitors to Consider (Pros & Cons)', slug: '6bestpopmenucompetitorstoconsiderproscon', category: 'restaurant', metros: ['dc'], websiteOrderUrl: 'https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons' },
+  { name: 'Popmenu: Pricing', slug: 'popmenupricing', category: 'restaurant', metros: ['dc'], websiteOrderUrl: 'https://get.popmenu.com/pricing' },
+  { name: 'How to set up online food ordering in an afternoon', slug: 'howtosetuponlinefoodorderinginanafternoo', category: 'restaurant', metros: ['dc'], websiteOrderUrl: 'https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon' },
+  { name: 'Popmenu + Toast', slug: 'popmenutoast', category: 'restaurant', metros: ['dc'], websiteOrderUrl: 'https://get.popmenu.com/partner/toast' },
+  { name: 'Popmenu: We do more than grow your restaurant.', slug: 'popmenuwedomorethangrowyourrestaurant', category: 'restaurant', metros: ['dc'], websiteOrderUrl: 'https://get.popmenu.com/' },
 ];
 
 export const DENVER_RESTAURANTS: RestaurantData[] = [
@@ -640,6 +670,10 @@ export const DENVER_RESTAURANTS: RestaurantData[] = [
   { name: 'Cozobi Fonda Fina', slug: 'cozobifondafina', category: 'restaurant', metros: ['denver'] },
   { name: 'Order Online', slug: 'orderonline', category: 'restaurant', metros: ['denver'], toastUrl: 'https://order.toasttab.com/online/restaurant-olivia-290-s-downing-st-denver-co-80209' },
   { name: 'The Longmonter Restaurant - Order Online', slug: 'thelongmonterrestaurant-orderonline', category: 'restaurant', metros: ['denver'], toastUrl: 'https://order.toasttab.com/online/thelongmonter' },
+  { name: 'Online ordering competitors every restaurant should know', slug: 'onlineorderingcompetitorseveryrestaurant', category: 'restaurant', metros: ['denver'], websiteOrderUrl: 'https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know' },
+  { name: '6 Best Popmenu Competitors to Consider (Pros & Cons)', slug: '6bestpopmenucompetitorstoconsiderproscon', category: 'restaurant', metros: ['denver'], websiteOrderUrl: 'https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons' },
+  { name: 'Popmenu: Pricing', slug: 'popmenupricing', category: 'restaurant', metros: ['denver'], websiteOrderUrl: 'https://get.popmenu.com/pricing' },
+  { name: 'Popmenu: We do more than grow your restaurant.', slug: 'popmenuwedomorethangrowyourrestaurant', category: 'restaurant', metros: ['denver'], websiteOrderUrl: 'https://get.popmenu.com/' },
 ];
 
 export const HOUSTON_RESTAURANTS: RestaurantData[] = [
@@ -710,6 +744,19 @@ export const HOUSTON_RESTAURANTS: RestaurantData[] = [
   { name: 'Tech the Halls with Popmenu', slug: 'techthehallswithpopmenu', category: 'restaurant', metros: ['houston'], websiteOrderUrl: 'https://get.popmenu.com/tech-the-halls-reach-more-guests' },
   { name: 'Popmenu toolkit: The Restaurant Growth Playbook', slug: 'popmenutoolkittherestaurantgrowthplayboo', category: 'restaurant', metros: ['houston'], websiteOrderUrl: 'https://get.popmenu.com/toolkit/the-restaurant-growth-playbook' },
   { name: '4 tech-focused tips to fight rising restaurant costs', slug: '4tech-focusedtipstofightrisingrestaurant', category: 'restaurant', metros: ['houston'], websiteOrderUrl: 'https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs' },
+  { name: 'Online Ordering for Thai Taste | Powered By ChowNow', slug: 'onlineorderingforthaitastepoweredbychown', category: 'thai', metros: ['houston'], websiteOrderUrl: 'https://ordering.chownow.com/order/8478/locations' },
+  { name: 'Online Ordering for Restaurants with No Commissions', slug: 'onlineorderingforrestaurantswithnocommis', category: 'restaurant', metros: ['houston'], websiteOrderUrl: 'https://ordering.chownow.com/order/4223/locations' },
+  { name: 'Online Ordering for Ramen Bowls | Powered By ChowNow', slug: 'onlineorderingforramenbowlspoweredbychow', category: 'japanese', metros: ['houston'], websiteOrderUrl: 'https://ordering.chownow.com/order/7005/locations' },
+  { name: 'Online Food Ordering System & App', slug: 'onlinefoodorderingsystemapp', category: 'restaurant', metros: ['houston'], websiteOrderUrl: 'https://ordering.chownow.com/order/10839/locations' },
+  { name: 'Online Ordering for BBQ House | Powered By ChowNow', slug: 'onlineorderingforbbqhousepoweredbychowno', category: 'bbq', metros: ['houston'], websiteOrderUrl: 'https://ordering.chownow.com/order/1196/locations/' },
+  { name: 'Montrose, NY', slug: 'montroseny', category: 'restaurant', metros: ['houston'], websiteOrderUrl: 'https://www.menufy.com/NY/Montrose' },
+  { name: 'Online ordering competitors every restaurant should know', slug: 'onlineorderingcompetitorseveryrestaurant', category: 'restaurant', metros: ['houston'], websiteOrderUrl: 'https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know' },
+  { name: '6 Best Popmenu Competitors to Consider (Pros & Cons)', slug: '6bestpopmenucompetitorstoconsiderproscon', category: 'restaurant', metros: ['houston'], websiteOrderUrl: 'https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons' },
+  { name: 'Popmenu: Pricing', slug: 'popmenupricing', category: 'restaurant', metros: ['houston'], websiteOrderUrl: 'https://get.popmenu.com/pricing' },
+  { name: 'How to set up online food ordering in an afternoon', slug: 'howtosetuponlinefoodorderinginanafternoo', category: 'restaurant', metros: ['houston'], websiteOrderUrl: 'https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon' },
+  { name: 'Order Food Online - American (New) Restaurant in Los ...', slug: 'orderfoodonline-americannewrestaurantinl', category: 'restaurant', metros: ['houston'], websiteOrderUrl: 'https://ordering.chownow.com/order/28003/locations' },
+  { name: 'Popmenu + Toast', slug: 'popmenutoast', category: 'restaurant', metros: ['houston'], websiteOrderUrl: 'https://get.popmenu.com/partner/toast' },
+  { name: 'Popmenu: We do more than grow your restaurant.', slug: 'popmenuwedomorethangrowyourrestaurant', category: 'restaurant', metros: ['houston'], websiteOrderUrl: 'https://get.popmenu.com/' },
 ];
 
 export const LA_RESTAURANTS: RestaurantData[] = [
@@ -858,6 +905,11 @@ export const LA_RESTAURANTS: RestaurantData[] = [
   { name: 'Popmenu toolkit: The Restaurant Growth Playbook', slug: 'popmenutoolkittherestaurantgrowthplayboo', category: 'restaurant', metros: ['la'], websiteOrderUrl: 'https://get.popmenu.com/toolkit/the-restaurant-growth-playbook' },
   { name: 'Popmenu: Case Study - Phat Eatery', slug: 'popmenucasestudy-phateatery', category: 'restaurant', metros: ['la'], websiteOrderUrl: 'https://get.popmenu.com/client-story/phat-eatery' },
   { name: 'Order Online - TAKENAKA - Japanese Food Truck & Co', slug: 'orderonline-takenaka-japanesefoodtruckco', category: 'restaurant', metros: ['la'], websiteOrderUrl: 'https://takenaka.popmenu.com/' },
+  { name: 'Online Food Ordering System & App', slug: 'onlinefoodorderingsystemapp', category: 'restaurant', metros: ['la'], websiteOrderUrl: 'https://ordering.chownow.com/order/13983/locations' },
+  { name: 'Online ordering competitors every restaurant should know', slug: 'onlineorderingcompetitorseveryrestaurant', category: 'restaurant', metros: ['la'], websiteOrderUrl: 'https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know' },
+  { name: '6 Best Popmenu Competitors to Consider (Pros & Cons)', slug: '6bestpopmenucompetitorstoconsiderproscon', category: 'restaurant', metros: ['la'], websiteOrderUrl: 'https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons' },
+  { name: 'Popmenu: Pricing', slug: 'popmenupricing', category: 'restaurant', metros: ['la'], websiteOrderUrl: 'https://get.popmenu.com/pricing' },
+  { name: 'How to set up online food ordering in an afternoon', slug: 'howtosetuponlinefoodorderinginanafternoo', category: 'restaurant', metros: ['la'], websiteOrderUrl: 'https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon' },
 ];
 
 export const MIAMI_RESTAURANTS: RestaurantData[] = [
@@ -935,6 +987,15 @@ export const MIAMI_RESTAURANTS: RestaurantData[] = [
   { name: 'Mango\'s - Miami', slug: 'mangos-miami', category: 'restaurant', metros: ['miami'] },
   { name: 'Order Online', slug: 'orderonline', category: 'restaurant', metros: ['miami'], toastUrl: 'https://order.toasttab.com/online/hiro-3007-ne-163rd-st' },
   { name: 'Mau Miami', slug: 'maumiami', category: 'restaurant', metros: ['miami'], toastUrl: 'https://order.toasttab.com/online/mau-miami' },
+  { name: 'Online Food Ordering System & App', slug: 'onlinefoodorderingsystemapp', category: 'restaurant', metros: ['miami'], websiteOrderUrl: 'https://ordering.chownow.com/order/8559/locations' },
+  { name: 'Online ordering competitors every restaurant should know', slug: 'onlineorderingcompetitorseveryrestaurant', category: 'restaurant', metros: ['miami'], websiteOrderUrl: 'https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know' },
+  { name: '6 Best Popmenu Competitors to Consider (Pros & Cons)', slug: '6bestpopmenucompetitorstoconsiderproscon', category: 'restaurant', metros: ['miami'], websiteOrderUrl: 'https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons' },
+  { name: 'Popmenu: Pricing', slug: 'popmenupricing', category: 'restaurant', metros: ['miami'], websiteOrderUrl: 'https://get.popmenu.com/pricing' },
+  { name: 'ChowNow vs. Square | Compare the difference', slug: 'chownowvssquarecomparethedifference', category: 'restaurant', metros: ['miami'], websiteOrderUrl: 'https://www.owner.com/compare/chownow-vs-square' },
+  { name: 'Popmenu + Toast', slug: 'popmenutoast', category: 'restaurant', metros: ['miami'], websiteOrderUrl: 'https://get.popmenu.com/partner/toast' },
+  { name: 'How to set up online food ordering in an afternoon', slug: 'howtosetuponlinefoodorderinginanafternoo', category: 'restaurant', metros: ['miami'], websiteOrderUrl: 'https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon' },
+  { name: 'Popmenu Support Center', slug: 'popmenusupportcenter', category: 'restaurant', metros: ['miami'], websiteOrderUrl: 'https://support.popmenu.com/s/article/Configuring-the-Popmenu-Toast-Integration' },
+  { name: 'Popmenu: We do more than grow your restaurant.', slug: 'popmenuwedomorethangrowyourrestaurant', category: 'restaurant', metros: ['miami'], websiteOrderUrl: 'https://get.popmenu.com/' },
 ];
 
 export const NASHVILLE_RESTAURANTS: RestaurantData[] = [
@@ -992,6 +1053,11 @@ export const NASHVILLE_RESTAURANTS: RestaurantData[] = [
   { name: 'Tech the Halls with Popmenu', slug: 'techthehallswithpopmenu', category: 'restaurant', metros: ['nashville'], websiteOrderUrl: 'https://get.popmenu.com/tech-the-halls-reach-more-guests' },
   { name: 'Popmenu toolkit: The Restaurant Growth Playbook', slug: 'popmenutoolkittherestaurantgrowthplayboo', category: 'restaurant', metros: ['nashville'], websiteOrderUrl: 'https://get.popmenu.com/toolkit/the-restaurant-growth-playbook' },
   { name: '4 tech-focused tips to fight rising restaurant costs', slug: '4tech-focusedtipstofightrisingrestaurant', category: 'restaurant', metros: ['nashville'], websiteOrderUrl: 'https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs' },
+  { name: 'Online Food Ordering System & App', slug: 'onlinefoodorderingsystemapp', category: 'restaurant', metros: ['nashville'], websiteOrderUrl: 'https://ordering.chownow.com/order/16322/locations' },
+  { name: 'Online ordering competitors every restaurant should know', slug: 'onlineorderingcompetitorseveryrestaurant', category: 'restaurant', metros: ['nashville'], websiteOrderUrl: 'https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know' },
+  { name: '6 Best Popmenu Competitors to Consider (Pros & Cons)', slug: '6bestpopmenucompetitorstoconsiderproscon', category: 'restaurant', metros: ['nashville'], websiteOrderUrl: 'https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons' },
+  { name: 'Popmenu: Pricing', slug: 'popmenupricing', category: 'restaurant', metros: ['nashville'], websiteOrderUrl: 'https://get.popmenu.com/pricing' },
+  { name: 'How to set up online food ordering in an afternoon', slug: 'howtosetuponlinefoodorderinginanafternoo', category: 'restaurant', metros: ['nashville'], websiteOrderUrl: 'https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon' },
 ];
 
 export const NOLA_RESTAURANTS: RestaurantData[] = [
@@ -1058,6 +1124,11 @@ export const NOLA_RESTAURANTS: RestaurantData[] = [
   { name: 'ACS', slug: 'acs', category: 'restaurant', metros: ['nola'], websiteOrderUrl: 'https://affordable-catering.popmenu.com/' },
   { name: 'Popmenu toolkit: The Restaurant Growth Playbook', slug: 'popmenutoolkittherestaurantgrowthplayboo', category: 'restaurant', metros: ['nola'], websiteOrderUrl: 'https://get.popmenu.com/toolkit/the-restaurant-growth-playbook' },
   { name: 'Tech the Halls with Popmenu', slug: 'techthehallswithpopmenu', category: 'restaurant', metros: ['nola'], websiteOrderUrl: 'https://get.popmenu.com/tech-the-halls-reach-more-guests' },
+  { name: 'Online Food Ordering System & App', slug: 'onlinefoodorderingsystemapp', category: 'restaurant', metros: ['nola'], websiteOrderUrl: 'https://ordering.chownow.com/order/14997/locations' },
+  { name: 'Online Ordering for Restaurants with No Commissions', slug: 'onlineorderingforrestaurantswithnocommis', category: 'restaurant', metros: ['nola'], websiteOrderUrl: 'https://ordering.chownow.com/order/5276/locations' },
+  { name: 'Online Ordering for Thai Taste | Powered By ChowNow', slug: 'onlineorderingforthaitastepoweredbychown', category: 'thai', metros: ['nola'], websiteOrderUrl: 'https://ordering.chownow.com/order/8478/locations' },
+  { name: 'Online ordering competitors every restaurant should know', slug: 'onlineorderingcompetitorseveryrestaurant', category: 'restaurant', metros: ['nola'], websiteOrderUrl: 'https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know' },
+  { name: '6 Best Popmenu Competitors to Consider (Pros & Cons)', slug: '6bestpopmenucompetitorstoconsiderproscon', category: 'restaurant', metros: ['nola'], websiteOrderUrl: 'https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons' },
 ];
 
 export const NYC_RESTAURANTS: RestaurantData[] = [
@@ -1302,6 +1373,13 @@ export const NYC_RESTAURANTS: RestaurantData[] = [
   { name: 'ACS', slug: 'acs', category: 'restaurant', metros: ['nyc'], websiteOrderUrl: 'https://affordable-catering.popmenu.com/' },
   { name: 'Tech the Halls with Popmenu', slug: 'techthehallswithpopmenu', category: 'restaurant', metros: ['nyc'], websiteOrderUrl: 'https://get.popmenu.com/tech-the-halls-reach-more-guests' },
   { name: 'Popmenu toolkit: The Restaurant Growth Playbook', slug: 'popmenutoolkittherestaurantgrowthplayboo', category: 'restaurant', metros: ['nyc'], websiteOrderUrl: 'https://get.popmenu.com/toolkit/the-restaurant-growth-playbook' },
+  { name: 'Online Food Ordering System & App', slug: 'onlinefoodorderingsystemapp', category: 'restaurant', metros: ['nyc'], websiteOrderUrl: 'https://ordering.chownow.com/order/4294/locations/5574' },
+  { name: 'Online Ordering for Thai Taste | Powered By ChowNow', slug: 'onlineorderingforthaitastepoweredbychown', category: 'thai', metros: ['nyc'], websiteOrderUrl: 'https://ordering.chownow.com/order/8478/locations' },
+  { name: 'Online ordering competitors every restaurant should know', slug: 'onlineorderingcompetitorseveryrestaurant', category: 'restaurant', metros: ['nyc'], websiteOrderUrl: 'https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know' },
+  { name: 'Popmenu: We do more than grow your restaurant.', slug: 'popmenuwedomorethangrowyourrestaurant', category: 'restaurant', metros: ['nyc'], websiteOrderUrl: 'https://get.popmenu.com/' },
+  { name: 'Popmenu: Pricing', slug: 'popmenupricing', category: 'restaurant', metros: ['nyc'], websiteOrderUrl: 'https://get.popmenu.com/pricing' },
+  { name: 'Popmenu + Toast', slug: 'popmenutoast', category: 'restaurant', metros: ['nyc'], websiteOrderUrl: 'https://get.popmenu.com/partner/toast' },
+  { name: '6 Best Popmenu Competitors to Consider (Pros & Cons)', slug: '6bestpopmenucompetitorstoconsiderproscon', category: 'restaurant', metros: ['nyc'], websiteOrderUrl: 'https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons' },
 ];
 
 export const PHILLY_RESTAURANTS: RestaurantData[] = [
@@ -1376,6 +1454,11 @@ export const PHILLY_RESTAURANTS: RestaurantData[] = [
   { name: '4 tech-focused tips to fight rising restaurant costs', slug: '4tech-focusedtipstofightrisingrestaurant', category: 'restaurant', metros: ['philly'], websiteOrderUrl: 'https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs' },
   { name: 'Popmenu: Case Study - Phat Eatery', slug: 'popmenucasestudy-phateatery', category: 'restaurant', metros: ['philly'], websiteOrderUrl: 'https://get.popmenu.com/client-story/phat-eatery' },
   { name: 'Popmenu toolkit: The Restaurant Growth Playbook', slug: 'popmenutoolkittherestaurantgrowthplayboo', category: 'restaurant', metros: ['philly'], websiteOrderUrl: 'https://get.popmenu.com/toolkit/the-restaurant-growth-playbook' },
+  { name: 'Online Food Ordering System & App', slug: 'onlinefoodorderingsystemapp', category: 'restaurant', metros: ['philly'], websiteOrderUrl: 'https://ordering.chownow.com/order/1445/locations' },
+  { name: 'Online ordering competitors every restaurant should know', slug: 'onlineorderingcompetitorseveryrestaurant', category: 'restaurant', metros: ['philly'], websiteOrderUrl: 'https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know' },
+  { name: '6 Best Popmenu Competitors to Consider (Pros & Cons)', slug: '6bestpopmenucompetitorstoconsiderproscon', category: 'restaurant', metros: ['philly'], websiteOrderUrl: 'https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons' },
+  { name: 'Popmenu: Pricing', slug: 'popmenupricing', category: 'restaurant', metros: ['philly'], websiteOrderUrl: 'https://get.popmenu.com/pricing' },
+  { name: 'How to set up online food ordering in an afternoon', slug: 'howtosetuponlinefoodorderinginanafternoo', category: 'restaurant', metros: ['philly'], websiteOrderUrl: 'https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon' },
 ];
 
 export const SEATTLE_RESTAURANTS: RestaurantData[] = [
@@ -1427,6 +1510,11 @@ export const SEATTLE_RESTAURANTS: RestaurantData[] = [
   { name: 'Castilla Restaurant and Tapas Bar', slug: 'castillarestaurantandtapasbar', category: 'restaurant', metros: ['seattle'] },
   { name: 'Order Online', slug: 'orderonline', category: 'restaurant', metros: ['seattle'], toastUrl: 'https://order.toasttab.com/online/monsoon-seattle-615-19th-ave-e' },
   { name: 'Alki Beach - Order Online', slug: 'alkibeach-orderonline', category: 'restaurant', metros: ['seattle'], toastUrl: 'https://order.toasttab.com/online/cactus-alki' },
+  { name: 'Online Food Ordering System & App', slug: 'onlinefoodorderingsystemapp', category: 'restaurant', metros: ['seattle'], websiteOrderUrl: 'https://ordering.chownow.com/order/5241/locations' },
+  { name: 'Online ordering competitors every restaurant should know', slug: 'onlineorderingcompetitorseveryrestaurant', category: 'restaurant', metros: ['seattle'], websiteOrderUrl: 'https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know' },
+  { name: '6 Best Popmenu Competitors to Consider (Pros & Cons)', slug: '6bestpopmenucompetitorstoconsiderproscon', category: 'restaurant', metros: ['seattle'], websiteOrderUrl: 'https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons' },
+  { name: 'Popmenu: Pricing', slug: 'popmenupricing', category: 'restaurant', metros: ['seattle'], websiteOrderUrl: 'https://get.popmenu.com/pricing' },
+  { name: 'How to set up online food ordering in an afternoon', slug: 'howtosetuponlinefoodorderinginanafternoo', category: 'restaurant', metros: ['seattle'], websiteOrderUrl: 'https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon' },
 ];
 
 export const SF_RESTAURANTS: RestaurantData[] = [
@@ -1504,6 +1592,11 @@ export const SF_RESTAURANTS: RestaurantData[] = [
   { name: 'Cafe Mystique', slug: 'cafemystique', category: 'cafe', metros: ['sf'] },
   { name: 'Order Online', slug: 'orderonline', category: 'restaurant', metros: ['sf'], toastUrl: 'https://order.toasttab.com/online/tacko-san-francisco' },
   { name: 'Toast and Egg', slug: 'toastandegg', category: 'restaurant', metros: ['sf'], toastUrl: 'https://toastandegg.toast.site/' },
+  { name: 'Online ordering competitors every restaurant should know', slug: 'onlineorderingcompetitorseveryrestaurant', category: 'restaurant', metros: ['sf'], websiteOrderUrl: 'https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know' },
+  { name: '6 Best Popmenu Competitors to Consider (Pros & Cons)', slug: '6bestpopmenucompetitorstoconsiderproscon', category: 'restaurant', metros: ['sf'], websiteOrderUrl: 'https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons' },
+  { name: 'Popmenu: Pricing', slug: 'popmenupricing', category: 'restaurant', metros: ['sf'], websiteOrderUrl: 'https://get.popmenu.com/pricing' },
+  { name: 'How to set up online food ordering in an afternoon', slug: 'howtosetuponlinefoodorderinginanafternoo', category: 'restaurant', metros: ['sf'], websiteOrderUrl: 'https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon' },
+  { name: 'Online Food Ordering System & App', slug: 'onlinefoodorderingsystemapp', category: 'restaurant', metros: ['sf'], websiteOrderUrl: 'https://ordering.chownow.com/order/10718/locations' },
 ];
 
 // ─── Combined Index ────────────────────────────────────────────

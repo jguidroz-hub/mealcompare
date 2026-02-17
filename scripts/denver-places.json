@@ -444,5 +444,41 @@
       "denver"
     ],
     "toastUrl": "https://order.toasttab.com/online/thelongmonter"
+  },
+  {
+    "name": "Online ordering competitors every restaurant should know",
+    "slug": "onlineorderingcompetitorseveryrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know"
+  },
+  {
+    "name": "6 Best Popmenu Competitors to Consider (Pros & Cons)",
+    "slug": "6bestpopmenucompetitorstoconsiderproscon",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons"
+  },
+  {
+    "name": "Popmenu: Pricing",
+    "slug": "popmenupricing",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/pricing"
+  },
+  {
+    "name": "Popmenu: We do more than grow your restaurant.",
+    "slug": "popmenuwedomorethangrowyourrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/"
   }
 ]

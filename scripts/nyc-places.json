@@ -2190,5 +2190,68 @@
       "nyc"
     ],
     "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+  },
+  {
+    "name": "Online Food Ordering System & App",
+    "slug": "onlinefoodorderingsystemapp",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/4294/locations/5574"
+  },
+  {
+    "name": "Online Ordering for Thai Taste | Powered By ChowNow",
+    "slug": "onlineorderingforthaitastepoweredbychown",
+    "category": "thai",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/8478/locations"
+  },
+  {
+    "name": "Online ordering competitors every restaurant should know",
+    "slug": "onlineorderingcompetitorseveryrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know"
+  },
+  {
+    "name": "Popmenu: We do more than grow your restaurant.",
+    "slug": "popmenuwedomorethangrowyourrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/"
+  },
+  {
+    "name": "Popmenu: Pricing",
+    "slug": "popmenupricing",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/pricing"
+  },
+  {
+    "name": "Popmenu + Toast",
+    "slug": "popmenutoast",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/partner/toast"
+  },
+  {
+    "name": "6 Best Popmenu Competitors to Consider (Pros & Cons)",
+    "slug": "6bestpopmenucompetitorstoconsiderproscon",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons"
   }
 ]

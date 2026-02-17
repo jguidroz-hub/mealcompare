@@ -97,5 +97,50 @@
       "austin"
     ],
     "toastUrl": "https://austinspizza.toast.site/order"
+  },
+  {
+    "name": "Online Ordering for Nanami Sushi Bar | Powered By ChowNow",
+    "slug": "onlineorderingfornanamisushibarpoweredby",
+    "category": "japanese",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/3896/locations"
+  },
+  {
+    "name": "Online ordering competitors every restaurant should know",
+    "slug": "onlineorderingcompetitorseveryrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know"
+  },
+  {
+    "name": "6 Best Popmenu Competitors to Consider (Pros & Cons)",
+    "slug": "6bestpopmenucompetitorstoconsiderproscon",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons"
+  },
+  {
+    "name": "How to set up online food ordering in an afternoon",
+    "slug": "howtosetuponlinefoodorderinginanafternoo",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
+  },
+  {
+    "name": "Popmenu: We do more than grow your restaurant.",
+    "slug": "popmenuwedomorethangrowyourrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/"
   }
 ]

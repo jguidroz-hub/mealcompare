@@ -469,5 +469,50 @@
       "seattle"
     ],
     "toastUrl": "https://order.toasttab.com/online/cactus-alki"
+  },
+  {
+    "name": "Online Food Ordering System & App",
+    "slug": "onlinefoodorderingsystemapp",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/5241/locations"
+  },
+  {
+    "name": "Online ordering competitors every restaurant should know",
+    "slug": "onlineorderingcompetitorseveryrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know"
+  },
+  {
+    "name": "6 Best Popmenu Competitors to Consider (Pros & Cons)",
+    "slug": "6bestpopmenucompetitorstoconsiderproscon",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons"
+  },
+  {
+    "name": "Popmenu: Pricing",
+    "slug": "popmenupricing",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/pricing"
+  },
+  {
+    "name": "How to set up online food ordering in an afternoon",
+    "slug": "howtosetuponlinefoodorderinginanafternoo",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
   }
 ]

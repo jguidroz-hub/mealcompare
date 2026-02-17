@@ -663,5 +663,68 @@
       "atlanta"
     ],
     "websiteOrderUrl": "https://get.popmenu.com/client-story/phat-eatery"
+  },
+  {
+    "name": "Online Ordering for Restaurants with No Commissions",
+    "slug": "onlineorderingforrestaurantswithnocommis",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/2586/locations"
+  },
+  {
+    "name": "Online Food Ordering System & App",
+    "slug": "onlinefoodorderingsystemapp",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/5241/locations"
+  },
+  {
+    "name": "Online ordering competitors every restaurant should know",
+    "slug": "onlineorderingcompetitorseveryrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know"
+  },
+  {
+    "name": "Popmenu: We do more than grow your restaurant.",
+    "slug": "popmenuwedomorethangrowyourrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/"
+  },
+  {
+    "name": "6 Best Popmenu Competitors to Consider (Pros & Cons)",
+    "slug": "6bestpopmenucompetitorstoconsiderproscon",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons"
+  },
+  {
+    "name": "How to set up online food ordering in an afternoon",
+    "slug": "howtosetuponlinefoodorderinginanafternoo",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
+  },
+  {
+    "name": "Popmenu: Pricing",
+    "slug": "popmenupricing",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/pricing"
   }
 ]

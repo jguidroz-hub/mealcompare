@@ -680,5 +680,122 @@
       "houston"
     ],
     "websiteOrderUrl": "https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs"
+  },
+  {
+    "name": "Online Ordering for Thai Taste | Powered By ChowNow",
+    "slug": "onlineorderingforthaitastepoweredbychown",
+    "category": "thai",
+    "metros": [
+      "houston"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/8478/locations"
+  },
+  {
+    "name": "Online Ordering for Restaurants with No Commissions",
+    "slug": "onlineorderingforrestaurantswithnocommis",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/4223/locations"
+  },
+  {
+    "name": "Online Ordering for Ramen Bowls | Powered By ChowNow",
+    "slug": "onlineorderingforramenbowlspoweredbychow",
+    "category": "japanese",
+    "metros": [
+      "houston"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/7005/locations"
+  },
+  {
+    "name": "Online Food Ordering System & App",
+    "slug": "onlinefoodorderingsystemapp",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/10839/locations"
+  },
+  {
+    "name": "Online Ordering for BBQ House | Powered By ChowNow",
+    "slug": "onlineorderingforbbqhousepoweredbychowno",
+    "category": "bbq",
+    "metros": [
+      "houston"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/1196/locations/"
+  },
+  {
+    "name": "Montrose, NY",
+    "slug": "montroseny",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NY/Montrose"
+  },
+  {
+    "name": "Online ordering competitors every restaurant should know",
+    "slug": "onlineorderingcompetitorseveryrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know"
+  },
+  {
+    "name": "6 Best Popmenu Competitors to Consider (Pros & Cons)",
+    "slug": "6bestpopmenucompetitorstoconsiderproscon",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons"
+  },
+  {
+    "name": "Popmenu: Pricing",
+    "slug": "popmenupricing",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/pricing"
+  },
+  {
+    "name": "How to set up online food ordering in an afternoon",
+    "slug": "howtosetuponlinefoodorderinginanafternoo",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
+  },
+  {
+    "name": "Order Food Online - American (New) Restaurant in Los ...",
+    "slug": "orderfoodonline-americannewrestaurantinl",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/28003/locations"
+  },
+  {
+    "name": "Popmenu + Toast",
+    "slug": "popmenutoast",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/partner/toast"
+  },
+  {
+    "name": "Popmenu: We do more than grow your restaurant.",
+    "slug": "popmenuwedomorethangrowyourrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "houston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/"
   }
 ]

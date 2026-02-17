@@ -619,5 +619,50 @@
       "nola"
     ],
     "websiteOrderUrl": "https://get.popmenu.com/tech-the-halls-reach-more-guests"
+  },
+  {
+    "name": "Online Food Ordering System & App",
+    "slug": "onlinefoodorderingsystemapp",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/14997/locations"
+  },
+  {
+    "name": "Online Ordering for Restaurants with No Commissions",
+    "slug": "onlineorderingforrestaurantswithnocommis",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/5276/locations"
+  },
+  {
+    "name": "Online Ordering for Thai Taste | Powered By ChowNow",
+    "slug": "onlineorderingforthaitastepoweredbychown",
+    "category": "thai",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/8478/locations"
+  },
+  {
+    "name": "Online ordering competitors every restaurant should know",
+    "slug": "onlineorderingcompetitorseveryrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know"
+  },
+  {
+    "name": "6 Best Popmenu Competitors to Consider (Pros & Cons)",
+    "slug": "6bestpopmenucompetitorstoconsiderproscon",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons"
   }
 ]

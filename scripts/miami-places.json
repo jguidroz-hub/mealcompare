@@ -773,5 +773,86 @@
       "miami"
     ],
     "toastUrl": "https://order.toasttab.com/online/mau-miami"
+  },
+  {
+    "name": "Online Food Ordering System & App",
+    "slug": "onlinefoodorderingsystemapp",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/8559/locations"
+  },
+  {
+    "name": "Online ordering competitors every restaurant should know",
+    "slug": "onlineorderingcompetitorseveryrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/9-chownow-competitors-every-restaurant-should-know"
+  },
+  {
+    "name": "6 Best Popmenu Competitors to Consider (Pros & Cons)",
+    "slug": "6bestpopmenucompetitorstoconsiderproscon",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons"
+  },
+  {
+    "name": "Popmenu: Pricing",
+    "slug": "popmenupricing",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/pricing"
+  },
+  {
+    "name": "ChowNow vs. Square | Compare the difference",
+    "slug": "chownowvssquarecomparethedifference",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/compare/chownow-vs-square"
+  },
+  {
+    "name": "Popmenu + Toast",
+    "slug": "popmenutoast",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/partner/toast"
+  },
+  {
+    "name": "How to set up online food ordering in an afternoon",
+    "slug": "howtosetuponlinefoodorderinginanafternoo",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
+  },
+  {
+    "name": "Popmenu Support Center",
+    "slug": "popmenusupportcenter",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://support.popmenu.com/s/article/Configuring-the-Popmenu-Toast-Integration"
+  },
+  {
+    "name": "Popmenu: We do more than grow your restaurant.",
+    "slug": "popmenuwedomorethangrowyourrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/"
   }
 ]
