@@ -53,17 +53,41 @@ export default function Home() {
             <span style={{ color: '#94a3b8' }}>direct ordering</span> — in one click.
           </p>
 
+          {/* Quick city jump */}
+          <div style={{ maxWidth: 480, margin: '0 auto 24px', display: 'flex', gap: 8, flexWrap: 'wrap', justifyContent: 'center' }}>
+            {[
+              { id: 'nyc', label: '🗽 NYC' }, { id: 'chicago', label: '🌆 Chicago' }, { id: 'la', label: '🌴 LA' },
+              { id: 'sf', label: '🌉 SF' }, { id: 'miami', label: '🌊 Miami' }, { id: 'dc', label: '🏛️ DC' },
+              { id: 'austin', label: '🤘 Austin' }, { id: 'seattle', label: '☕ Seattle' },
+            ].map(c => (
+              <Link key={c.id} href={`/restaurants/${c.id}`} style={{
+                background: 'rgba(255,255,255,0.04)', border: '1px solid rgba(255,255,255,0.08)',
+                borderRadius: 100, padding: '6px 14px', fontSize: 13, color: '#94a3b8',
+                textDecoration: 'none', fontWeight: 500, transition: 'all 0.15s',
+              }}>
+                {c.label}
+              </Link>
+            ))}
+            <Link href="/restaurants" style={{
+              background: 'rgba(16,185,129,0.08)', border: '1px solid rgba(16,185,129,0.15)',
+              borderRadius: 100, padding: '6px 14px', fontSize: 13, color: '#10b981',
+              textDecoration: 'none', fontWeight: 600,
+            }}>
+              All 30 cities →
+            </Link>
+          </div>
+
           <div className="hero-buttons" style={{ display: 'flex', gap: 14, justifyContent: 'center', flexWrap: 'wrap' }}>
             <Link href="/install" className="btn-glow">
               🧩 Install Extension — Free
             </Link>
-            <Link href="/restaurants" className="btn-outline">
-              Browse Restaurants
+            <Link href="/for-restaurants" className="btn-outline">
+              🏪 For Restaurant Owners
             </Link>
           </div>
 
           <p style={{ fontSize: 13, color: '#334155', marginTop: 20, fontWeight: 500 }}>
-            30 cities · 10,000+ restaurants · 8,700+ direct ordering links
+            30 cities · 9,300+ restaurants · 7,100+ direct ordering links
           </p>
         </div>
       </section>
