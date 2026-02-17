@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import HeroSearch from './components/HeroSearch';
+import WaitlistForm from './components/WaitlistForm';
 
 export const metadata: Metadata = {
   title: 'SkipTheFee — Stop Overpaying for Food Delivery',
@@ -257,11 +258,17 @@ export default function Home() {
             Start <span className="gradient-text">saving</span> today
           </h2>
           <p style={{ fontSize: 16, color: '#64748b', maxWidth: 440, margin: '0 auto 32px' }}>
-            Free forever. No account. Install and save on your next order.
+            Free forever. No account needed.
           </p>
-          <Link href="/install" className="btn-glow">
-            🧩 Install Chrome Extension — Free
-          </Link>
+          <div style={{ display: 'flex', gap: 12, justifyContent: 'center', flexWrap: 'wrap' }}>
+            <Link href="/restaurants" className="btn-glow">
+              🍽️ Browse Restaurants
+            </Link>
+            <Link href="/install" className="btn-outline">
+              🧩 Install Extension
+            </Link>
+          </div>
+          <WaitlistForm />
         </div>
       </section>
 
