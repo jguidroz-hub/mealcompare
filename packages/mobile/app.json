@@ -17,7 +17,8 @@
       "supportsTablet": true,
       "bundleIdentifier": "app.skipthefee.mobile",
       "infoPlist": {
-        "NSUserActivityTypes": ["INSendMessageIntent"]
+        "NSUserActivityTypes": ["INSendMessageIntent"],
+        "NSLocationWhenInUseUsageDescription": "SkipTheFee uses your location to show restaurants near you."
       }
     },
     "android": {

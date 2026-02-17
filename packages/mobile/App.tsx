@@ -10,11 +10,13 @@ import {
   ActivityIndicator,
   SafeAreaView,
   StatusBar,
-  Platform,
+  Alert,
 } from 'react-native';
 import { useShareIntent, ShareIntent } from 'expo-share-intent';
+import * as Location from 'expo-location';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
-const API_BASE = 'https://skipthefee.vercel.app';
+const API_BASE = 'https://skipthefee.app';
 
 // ─── Types ─────────────────────────────────────────────────────
 interface Restaurant {
@@ -26,40 +28,47 @@ interface Restaurant {
   hasWebsite: boolean;
 }
 
-interface ComparisonQuote {
-  platform: string;
-  total: number;
-  savings: number;
-  deepLink: string;
-  fees: {
-    subtotal: number;
-    platformMarkup: number;
-    serviceFee: number;
-    deliveryFee: number;
-    total: number;
-  };
-  estimatedMinutes: number | null;
+// ─── Metro geo-centers ─────────────────────────────────────────
+const METRO_COORDS: Record<string, { lat: number; lng: number }> = {
+  nyc: { lat: 40.7128, lng: -74.006 },
+  chicago: { lat: 41.8781, lng: -87.6298 },
+  la: { lat: 34.0522, lng: -118.2437 },
+  sf: { lat: 37.7749, lng: -122.4194 },
+  boston: { lat: 42.3601, lng: -71.0589 },
+  miami: { lat: 25.7617, lng: -80.1918 },
+  dc: { lat: 38.9072, lng: -77.0369 },
+  austin: { lat: 30.2672, lng: -97.7431 },
+  houston: { lat: 29.7604, lng: -95.3698 },
+  atlanta: { lat: 33.749, lng: -84.388 },
+  seattle: { lat: 47.6062, lng: -122.3321 },
+  denver: { lat: 39.7392, lng: -104.9903 },
+  philly: { lat: 39.9526, lng: -75.1652 },
+  nashville: { lat: 36.1627, lng: -86.7816 },
+  nola: { lat: 29.9511, lng: -90.0715 },
+};
+
+function closestMetro(lat: number, lng: number): string {
+  let best = 'nyc';
+  let bestDist = Infinity;
+  for (const [id, c] of Object.entries(METRO_COORDS)) {
+    const d = Math.sqrt((lat - c.lat) ** 2 + (lng - c.lng) ** 2);
+    if (d < bestDist) { bestDist = d; best = id; }
+  }
+  return best;
 }
 
 // ─── Helpers ───────────────────────────────────────────────────
-function formatCents(cents: number): string {
-  return `$${(Math.abs(cents) / 100).toFixed(2)}`;
-}
-
 function extractRestaurantFromUrl(url: string): string | null {
   try {
     const u = new URL(url);
-    // DoorDash: /store/restaurant-name-123456/
     if (u.hostname.includes('doordash')) {
       const match = u.pathname.match(/\/store\/([^/]+)/);
       if (match) return match[1].replace(/-\d+$/, '').replace(/-/g, ' ');
     }
-    // Uber Eats: /store/restaurant-name/hash
     if (u.hostname.includes('ubereats')) {
       const match = u.pathname.match(/\/store\/([^/]+)/);
       if (match) return match[1].replace(/-/g, ' ');
     }
-    // Grubhub: /restaurant/restaurant-name/hash
     if (u.hostname.includes('grubhub')) {
       const match = u.pathname.match(/\/restaurant\/([^/]+)/);
       if (match) return match[1].replace(/-/g, ' ');
@@ -75,20 +84,63 @@ function addUtm(url: string): string {
     u.searchParams.set('utm_medium', 'app');
     u.searchParams.set('ref', 'skipthefee');
     return u.toString();
-  } catch {
-    return url;
-  }
+  } catch { return url; }
+}
+
+// ─── Favorites hook ────────────────────────────────────────────
+function useFavorites() {
+  const [favs, setFavs] = useState<string[]>([]);
+
+  useEffect(() => {
+    AsyncStorage.getItem('favorites').then(v => {
+      if (v) setFavs(JSON.parse(v));
+    });
+  }, []);
+
+  const toggle = useCallback(async (name: string) => {
+    setFavs(prev => {
+      const next = prev.includes(name) ? prev.filter(f => f !== name) : [...prev, name];
+      AsyncStorage.setItem('favorites', JSON.stringify(next));
+      return next;
+    });
+  }, []);
+
+  return { favs, toggle, isFav: (name: string) => favs.includes(name) };
 }
 
 // ─── Main App ──────────────────────────────────────────────────
 export default function App() {
   const { hasShareIntent, shareIntent, resetShareIntent } = useShareIntent();
-  const [screen, setScreen] = useState<'home' | 'search' | 'result'>('home');
+  const [screen, setScreen] = useState<'home' | 'search' | 'favorites'>('home');
   const [query, setQuery] = useState('');
   const [loading, setLoading] = useState(false);
   const [restaurants, setRestaurants] = useState<Restaurant[]>([]);
+  const [allRestaurants, setAllRestaurants] = useState<Restaurant[]>([]);
   const [selectedMetro, setSelectedMetro] = useState('nyc');
   const [sharedRestaurant, setSharedRestaurant] = useState<string | null>(null);
+  const [locating, setLocating] = useState(false);
+  const favorites = useFavorites();
+
+  // Auto-detect location on mount
+  useEffect(() => {
+    (async () => {
+      setLocating(true);
+      try {
+        const { status } = await Location.requestForegroundPermissionsAsync();
+        if (status === 'granted') {
+          const loc = await Location.getCurrentPositionAsync({ accuracy: Location.Accuracy.Balanced });
+          const metro = closestMetro(loc.coords.latitude, loc.coords.longitude);
+          setSelectedMetro(metro);
+        }
+      } catch {}
+      setLocating(false);
+    })();
+  }, []);
+
+  // Load restaurants when metro changes
+  useEffect(() => {
+    loadRestaurants(selectedMetro);
+  }, [selectedMetro]);
 
   // Handle incoming share intent
   useEffect(() => {
@@ -100,43 +152,41 @@ export default function App() {
   const handleShareIntent = useCallback((intent: ShareIntent) => {
     const text = intent.text || '';
     const url = intent.webUrl || '';
-
-    // Try to extract restaurant name from URL
     let restaurantName = extractRestaurantFromUrl(url) || extractRestaurantFromUrl(text);
-
-    // If no URL, try the shared text directly
-    if (!restaurantName && text) {
-      restaurantName = text.trim();
-    }
-
+    if (!restaurantName && text) restaurantName = text.trim();
     if (restaurantName) {
       setSharedRestaurant(restaurantName);
       setQuery(restaurantName);
       setScreen('search');
-      searchRestaurants(restaurantName);
     }
-
     resetShareIntent();
   }, []);
 
-  const searchRestaurants = async (q: string) => {
-    setLoading(true);
+  const loadRestaurants = async (metro: string) => {
     try {
-      const res = await fetch(`${API_BASE}/api/restaurants?metro=${selectedMetro}`);
+      const res = await fetch(`${API_BASE}/api/restaurants?metro=${metro}`);
       const data = await res.json();
-      const all: Restaurant[] = data.restaurants || [];
-
-      const filtered = all.filter(r =>
-        r.name.toLowerCase().includes(q.toLowerCase()) ||
-        q.toLowerCase().includes(r.name.toLowerCase())
-      );
-
-      setRestaurants(filtered.length > 0 ? filtered : all.slice(0, 20));
+      setAllRestaurants(data.restaurants || []);
     } catch {
-      setRestaurants([]);
+      setAllRestaurants([]);
     }
-    setLoading(false);
   };
+
+  const searchRestaurants = useCallback((q: string) => {
+    if (q.length < 2) { setRestaurants([]); return; }
+    setLoading(true);
+    const filtered = allRestaurants.filter(r =>
+      r.name.toLowerCase().includes(q.toLowerCase())
+    );
+    // Show direct-ordering restaurants first
+    filtered.sort((a, b) => (b.directUrl ? 1 : 0) - (a.directUrl ? 1 : 0));
+    setRestaurants(filtered.length > 0 ? filtered : allRestaurants.filter(r => r.directUrl).slice(0, 20));
+    setLoading(false);
+  }, [allRestaurants]);
+
+  useEffect(() => {
+    if (query.length >= 2) searchRestaurants(query);
+  }, [query, searchRestaurants]);
 
   const trackClick = (restaurant: Restaurant) => {
     const slug = restaurant.name.toLowerCase().replace(/[^a-z0-9]+/g, '-');
@@ -144,14 +194,14 @@ export default function App() {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
-        restaurant: restaurant.name,
-        slug,
-        metro: selectedMetro,
-        source: 'app',
+        restaurant: restaurant.name, slug,
+        metro: selectedMetro, source: 'ios-app',
         directUrl: restaurant.directUrl,
       }),
     }).catch(() => {});
   };
+
+  const favRestaurants = allRestaurants.filter(r => favorites.isFav(r.name));
 
   return (
     <SafeAreaView style={S.container}>
@@ -162,39 +212,86 @@ export default function App() {
         <TouchableOpacity onPress={() => { setScreen('home'); setQuery(''); setRestaurants([]); }}>
           <Text style={S.logo}>💰 <Text style={S.logoText}>SkipTheFee</Text></Text>
         </TouchableOpacity>
+        <View style={S.headerRight}>
+          <TouchableOpacity onPress={() => setScreen('favorites')} style={S.headerBtn}>
+            <Text style={{ fontSize: 20 }}>❤️</Text>
+          </TouchableOpacity>
+        </View>
       </View>
+
+      {/* Metro pills */}
+      <ScrollView horizontal showsHorizontalScrollIndicator={false} style={S.pillScroll} contentContainerStyle={{ paddingHorizontal: 16, gap: 8 }}>
+        {locating && <ActivityIndicator size="small" color="#10b981" style={{ marginRight: 8 }} />}
+        {METROS.map(m => (
+          <TouchableOpacity
+            key={m.id}
+            onPress={() => setSelectedMetro(m.id)}
+            style={selectedMetro === m.id ? S.pillActive : S.pill}
+          >
+            <Text style={selectedMetro === m.id ? S.pillActiveText : S.pillText}>{m.label}</Text>
+          </TouchableOpacity>
+        ))}
+      </ScrollView>
 
       {screen === 'home' ? (
         <HomeScreen
           onSearch={() => setScreen('search')}
+          allRestaurants={allRestaurants}
           selectedMetro={selectedMetro}
-          onMetroChange={setSelectedMetro}
+          onTrack={trackClick}
+          favorites={favorites}
+        />
+      ) : screen === 'favorites' ? (
+        <FavoritesScreen
+          restaurants={favRestaurants}
+          onTrack={trackClick}
+          favorites={favorites}
         />
       ) : (
         <SearchScreen
           query={query}
-          onQueryChange={(q) => { setQuery(q); if (q.length > 2) searchRestaurants(q); }}
+          onQueryChange={setQuery}
           loading={loading}
           restaurants={restaurants}
-          onSearch={() => searchRestaurants(query)}
           sharedRestaurant={sharedRestaurant}
           onTrack={trackClick}
-          selectedMetro={selectedMetro}
-          onMetroChange={(m) => { setSelectedMetro(m); }}
+          favorites={favorites}
         />
       )}
+
+      {/* Bottom nav */}
+      <View style={S.bottomNav}>
+        <TouchableOpacity style={S.navItem} onPress={() => { setScreen('home'); setQuery(''); }}>
+          <Text style={{ fontSize: 20 }}>🏠</Text>
+          <Text style={[S.navLabel, screen === 'home' && S.navLabelActive]}>Home</Text>
+        </TouchableOpacity>
+        <TouchableOpacity style={S.navItem} onPress={() => setScreen('search')}>
+          <Text style={{ fontSize: 20 }}>🔍</Text>
+          <Text style={[S.navLabel, screen === 'search' && S.navLabelActive]}>Search</Text>
+        </TouchableOpacity>
+        <TouchableOpacity style={S.navItem} onPress={() => setScreen('favorites')}>
+          <Text style={{ fontSize: 20 }}>❤️</Text>
+          <Text style={[S.navLabel, screen === 'favorites' && S.navLabelActive]}>Favorites</Text>
+        </TouchableOpacity>
+      </View>
     </SafeAreaView>
   );
 }
 
 // ─── Home Screen ───────────────────────────────────────────────
-function HomeScreen({ onSearch, selectedMetro, onMetroChange }: {
+function HomeScreen({ onSearch, allRestaurants, selectedMetro, onTrack, favorites }: {
   onSearch: () => void;
+  allRestaurants: Restaurant[];
   selectedMetro: string;
-  onMetroChange: (m: string) => void;
+  onTrack: (r: Restaurant) => void;
+  favorites: ReturnType<typeof useFavorites>;
 }) {
+  const directRestaurants = allRestaurants.filter(r => r.directUrl);
+  const totalInMetro = allRestaurants.length;
+  const directCount = directRestaurants.length;
+
   return (
-    <ScrollView style={S.content} contentContainerStyle={{ paddingBottom: 40 }}>
+    <ScrollView style={S.content} contentContainerStyle={{ paddingBottom: 100 }}>
       {/* Hero */}
       <View style={S.hero}>
         <Text style={S.heroBadge}>💰 Save $5–15 per order</Text>
@@ -203,21 +300,52 @@ function HomeScreen({ onSearch, selectedMetro, onMetroChange }: {
           <Text style={S.gradientText}>food delivery</Text>
         </Text>
         <Text style={S.heroSub}>
-          Share a restaurant link from DoorDash, Uber Eats, or Grubhub — we'll find the cheapest way to order.
+          Find direct ordering links and skip DoorDash, Uber Eats, and Grubhub markup fees.
         </Text>
-
         <TouchableOpacity style={S.primaryBtn} onPress={onSearch}>
           <Text style={S.primaryBtnText}>🔍 Search Restaurants</Text>
         </TouchableOpacity>
       </View>
 
+      {/* Quick stats */}
+      <View style={S.statsRow}>
+        <View style={S.statCard}>
+          <Text style={S.statValue}>15</Text>
+          <Text style={S.statLabel}>Cities</Text>
+        </View>
+        <View style={S.statCard}>
+          <Text style={S.statValue}>{totalInMetro}</Text>
+          <Text style={S.statLabel}>Near You</Text>
+        </View>
+        <View style={S.statCard}>
+          <Text style={S.statValue}>{directCount}</Text>
+          <Text style={S.statLabel}>Direct Links</Text>
+        </View>
+      </View>
+
+      {/* Featured direct-order restaurants */}
+      {directCount > 0 && (
+        <View style={S.section}>
+          <Text style={S.sectionTitle}>🔥 Order Direct & Save</Text>
+          <Text style={S.sectionSub}>These restaurants let you skip delivery app fees</Text>
+          {directRestaurants.slice(0, 8).map((r, i) => (
+            <RestaurantCard key={`${r.name}-${i}`} restaurant={r} onTrack={onTrack} favorites={favorites} />
+          ))}
+          {directCount > 8 && (
+            <TouchableOpacity onPress={onSearch} style={S.seeAllBtn}>
+              <Text style={S.seeAllText}>See all {directCount} restaurants →</Text>
+            </TouchableOpacity>
+          )}
+        </View>
+      )}
+
       {/* How it works */}
       <View style={S.section}>
         <Text style={S.sectionTitle}>How it works</Text>
         {[
-          { icon: '📱', title: 'Share from any app', desc: 'Tap Share on a DoorDash/UberEats/Grubhub restaurant page and select SkipTheFee' },
-          { icon: '⚡', title: 'Instant comparison', desc: 'We check prices across all platforms + direct ordering in seconds' },
-          { icon: '💰', title: 'Order cheaper', desc: 'Tap the cheapest option to open it directly — skip the middleman fees' },
+          { icon: '📱', title: 'Share from any app', desc: 'Share a restaurant link from DoorDash/UberEats/Grubhub and select SkipTheFee' },
+          { icon: '⚡', title: 'Find direct ordering', desc: 'We check if the restaurant has their own ordering (Toast, Square, website)' },
+          { icon: '💰', title: 'Save 15-30%', desc: 'Order direct — no platform markups, lower delivery fees, more money for you' },
         ].map((step, i) => (
           <View key={i} style={S.stepCard}>
             <Text style={{ fontSize: 28 }}>{step.icon}</Text>
@@ -228,22 +356,31 @@ function HomeScreen({ onSearch, selectedMetro, onMetroChange }: {
           </View>
         ))}
       </View>
+    </ScrollView>
+  );
+}
 
-      {/* Stats */}
-      <View style={S.statsRow}>
-        <View style={S.statCard}>
-          <Text style={S.statValue}>15</Text>
-          <Text style={S.statLabel}>Cities</Text>
+// ─── Favorites Screen ──────────────────────────────────────────
+function FavoritesScreen({ restaurants, onTrack, favorites }: {
+  restaurants: Restaurant[];
+  onTrack: (r: Restaurant) => void;
+  favorites: ReturnType<typeof useFavorites>;
+}) {
+  return (
+    <ScrollView style={{ flex: 1 }} contentContainerStyle={{ padding: 16, paddingBottom: 100 }}>
+      <Text style={S.sectionTitle}>❤️ Favorites</Text>
+      {restaurants.length === 0 ? (
+        <View style={{ alignItems: 'center', paddingTop: 60 }}>
+          <Text style={{ fontSize: 48 }}>🍽️</Text>
+          <Text style={{ color: '#64748b', marginTop: 12, fontSize: 15, textAlign: 'center' }}>
+            No favorites yet.{'\n'}Tap the heart on any restaurant to save it.
+          </Text>
         </View>
-        <View style={S.statCard}>
-          <Text style={S.statValue}>1,154+</Text>
-          <Text style={S.statLabel}>Restaurants</Text>
-        </View>
-        <View style={S.statCard}>
-          <Text style={S.statValue}>200+</Text>
-          <Text style={S.statLabel}>Direct links</Text>
-        </View>
-      </View>
+      ) : (
+        restaurants.map((r, i) => (
+          <RestaurantCard key={`${r.name}-${i}`} restaurant={r} onTrack={onTrack} favorites={favorites} />
+        ))
+      )}
     </ScrollView>
   );
 }
@@ -260,20 +397,17 @@ const METROS = [
   { id: 'nola', label: 'NOLA' },
 ];
 
-function SearchScreen({ query, onQueryChange, loading, restaurants, onSearch, sharedRestaurant, onTrack, selectedMetro, onMetroChange }: {
+function SearchScreen({ query, onQueryChange, loading, restaurants, sharedRestaurant, onTrack, favorites }: {
   query: string;
   onQueryChange: (q: string) => void;
   loading: boolean;
   restaurants: Restaurant[];
-  onSearch: () => void;
   sharedRestaurant: string | null;
   onTrack: (r: Restaurant) => void;
-  selectedMetro: string;
-  onMetroChange: (m: string) => void;
+  favorites: ReturnType<typeof useFavorites>;
 }) {
   return (
     <View style={{ flex: 1 }}>
-      {/* Search bar */}
       <View style={S.searchBar}>
         <TextInput
           style={S.searchInput}
@@ -281,26 +415,11 @@ function SearchScreen({ query, onQueryChange, loading, restaurants, onSearch, sh
           placeholderTextColor="#475569"
           value={query}
           onChangeText={onQueryChange}
-          onSubmitEditing={onSearch}
           autoFocus={!sharedRestaurant}
           returnKeyType="search"
         />
       </View>
 
-      {/* Metro pills */}
-      <ScrollView horizontal showsHorizontalScrollIndicator={false} style={S.pillScroll} contentContainerStyle={{ paddingHorizontal: 16, gap: 8 }}>
-        {METROS.map(m => (
-          <TouchableOpacity
-            key={m.id}
-            onPress={() => onMetroChange(m.id)}
-            style={selectedMetro === m.id ? S.pillActive : S.pill}
-          >
-            <Text style={selectedMetro === m.id ? S.pillActiveText : S.pillText}>{m.label}</Text>
-          </TouchableOpacity>
-        ))}
-      </ScrollView>
-
-      {/* Shared context banner */}
       {sharedRestaurant && (
         <View style={S.sharedBanner}>
           <Text style={S.sharedBannerText}>
@@ -309,21 +428,24 @@ function SearchScreen({ query, onQueryChange, loading, restaurants, onSearch, sh
         </View>
       )}
 
-      {/* Results */}
-      <ScrollView style={{ flex: 1 }} contentContainerStyle={{ padding: 16, paddingBottom: 40 }}>
+      <ScrollView style={{ flex: 1 }} contentContainerStyle={{ padding: 16, paddingBottom: 100 }}>
         {loading ? (
           <View style={{ alignItems: 'center', paddingTop: 40 }}>
             <ActivityIndicator size="large" color="#10b981" />
-            <Text style={{ color: '#64748b', marginTop: 12, fontSize: 14 }}>Searching restaurants...</Text>
           </View>
         ) : restaurants.length === 0 && query.length > 2 ? (
           <View style={{ alignItems: 'center', paddingTop: 40 }}>
             <Text style={{ fontSize: 36 }}>🍽️</Text>
-            <Text style={{ color: '#64748b', marginTop: 8, fontSize: 14 }}>No results for &quot;{query}&quot;</Text>
+            <Text style={{ color: '#64748b', marginTop: 8, fontSize: 14 }}>No results for "{query}"</Text>
+          </View>
+        ) : query.length < 2 ? (
+          <View style={{ alignItems: 'center', paddingTop: 40 }}>
+            <Text style={{ fontSize: 36 }}>🔍</Text>
+            <Text style={{ color: '#64748b', marginTop: 8, fontSize: 14 }}>Type to search restaurants</Text>
           </View>
         ) : (
           restaurants.map((r, i) => (
-            <RestaurantCard key={`${r.name}-${i}`} restaurant={r} onTrack={onTrack} />
+            <RestaurantCard key={`${r.name}-${i}`} restaurant={r} onTrack={onTrack} favorites={favorites} />
           ))
         )}
       </ScrollView>
@@ -332,7 +454,11 @@ function SearchScreen({ query, onQueryChange, loading, restaurants, onSearch, sh
 }
 
 // ─── Restaurant Card ───────────────────────────────────────────
-function RestaurantCard({ restaurant: r, onTrack }: { restaurant: Restaurant; onTrack: (r: Restaurant) => void }) {
+function RestaurantCard({ restaurant: r, onTrack, favorites }: {
+  restaurant: Restaurant;
+  onTrack: (r: Restaurant) => void;
+  favorites: ReturnType<typeof useFavorites>;
+}) {
   const hasDirect = !!r.directUrl;
   const platform = r.hasToast ? 'Toast' : r.hasSquare ? 'Square' : r.hasWebsite ? 'Website' : null;
 
@@ -350,9 +476,12 @@ function RestaurantCard({ restaurant: r, onTrack }: { restaurant: Restaurant; on
           <Text style={S.cardName}>{r.name}</Text>
           <Text style={S.cardCategory}>{r.category}</Text>
         </View>
+        <TouchableOpacity onPress={() => favorites.toggle(r.name)} style={{ padding: 4 }}>
+          <Text style={{ fontSize: 18 }}>{favorites.isFav(r.name) ? '❤️' : '🤍'}</Text>
+        </TouchableOpacity>
         {hasDirect && (
           <View style={S.directBadge}>
-            <Text style={S.directBadgeText}>{platform || 'Direct'}</Text>
+            <Text style={S.directBadgeText}>💰 {platform || 'Direct'}</Text>
           </View>
         )}
       </View>
@@ -361,7 +490,12 @@ function RestaurantCard({ restaurant: r, onTrack }: { restaurant: Restaurant; on
           <Text style={S.directBtnText}>Order Direct — Skip the Fees →</Text>
         </TouchableOpacity>
       ) : (
-        <Text style={S.noDirectText}>Compare prices with the Chrome extension</Text>
+        <View style={S.noDirectRow}>
+          <Text style={S.noDirectText}>No direct ordering found yet</Text>
+        </View>
+      )}
+      {hasDirect && (
+        <Text style={S.savingsHint}>💡 Save an estimated $5-15 vs delivery apps</Text>
       )}
     </View>
   );
@@ -369,264 +503,111 @@ function RestaurantCard({ restaurant: r, onTrack }: { restaurant: Restaurant; on
 
 // ─── Styles ────────────────────────────────────────────────────
 const S = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#0a0f1a',
-  },
+  container: { flex: 1, backgroundColor: '#0a0f1a' },
   header: {
-    paddingHorizontal: 16,
-    paddingVertical: 12,
-    borderBottomWidth: 1,
-    borderBottomColor: 'rgba(255,255,255,0.05)',
+    flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center',
+    paddingHorizontal: 16, paddingVertical: 12,
+    borderBottomWidth: 1, borderBottomColor: 'rgba(255,255,255,0.05)',
   },
-  logo: {
-    fontSize: 22,
-  },
-  logoText: {
-    fontSize: 18,
-    fontWeight: '800',
-    color: '#e2e8f0',
-    letterSpacing: -0.3,
-  },
-  content: {
-    flex: 1,
-  },
+  headerRight: { flexDirection: 'row', gap: 12 },
+  headerBtn: { padding: 4 },
+  logo: { fontSize: 22 },
+  logoText: { fontSize: 18, fontWeight: '800', color: '#e2e8f0', letterSpacing: -0.3 },
+  content: { flex: 1 },
 
-  // Hero
-  hero: {
-    alignItems: 'center',
-    paddingHorizontal: 24,
-    paddingTop: 48,
-    paddingBottom: 40,
-  },
-  heroBadge: {
-    backgroundColor: 'rgba(16,185,129,0.08)',
-    borderWidth: 1,
-    borderColor: 'rgba(16,185,129,0.15)',
-    borderRadius: 100,
-    paddingHorizontal: 16,
-    paddingVertical: 6,
-    fontSize: 13,
-    color: '#10b981',
-    fontWeight: '600',
-    marginBottom: 24,
-    overflow: 'hidden',
-  },
-  heroTitle: {
-    fontSize: 34,
-    fontWeight: '900',
-    color: '#e2e8f0',
-    textAlign: 'center',
-    letterSpacing: -0.5,
-    lineHeight: 40,
-    marginBottom: 16,
-  },
-  gradientText: {
-    color: '#10b981',
-  },
-  heroSub: {
-    fontSize: 15,
-    color: '#64748b',
-    textAlign: 'center',
-    lineHeight: 22,
-    maxWidth: 320,
-    marginBottom: 32,
-  },
-  primaryBtn: {
-    backgroundColor: '#10b981',
-    paddingHorizontal: 32,
-    paddingVertical: 14,
-    borderRadius: 12,
-    shadowColor: '#10b981',
-    shadowOffset: { width: 0, height: 4 },
-    shadowOpacity: 0.2,
-    shadowRadius: 12,
-    elevation: 4,
-  },
-  primaryBtnText: {
-    color: 'white',
-    fontSize: 16,
-    fontWeight: '700',
-  },
-
-  // Section
-  section: {
-    paddingHorizontal: 20,
-    paddingTop: 32,
-  },
-  sectionTitle: {
-    fontSize: 24,
-    fontWeight: '800',
-    color: '#e2e8f0',
-    marginBottom: 20,
-    letterSpacing: -0.3,
-  },
-  stepCard: {
-    flexDirection: 'row',
-    alignItems: 'flex-start',
-    gap: 14,
-    backgroundColor: 'rgba(15,23,42,0.6)',
-    borderWidth: 1,
-    borderColor: 'rgba(255,255,255,0.06)',
-    borderRadius: 14,
-    padding: 16,
-    marginBottom: 10,
-  },
-  stepTitle: {
-    fontSize: 15,
-    fontWeight: '700',
-    color: '#e2e8f0',
-    marginBottom: 2,
-  },
-  stepDesc: {
-    fontSize: 13,
-    color: '#64748b',
-    lineHeight: 19,
-  },
-
-  // Stats
-  statsRow: {
-    flexDirection: 'row',
-    paddingHorizontal: 20,
-    paddingTop: 24,
-    gap: 12,
-  },
-  statCard: {
-    flex: 1,
-    backgroundColor: 'rgba(15,23,42,0.6)',
-    borderWidth: 1,
-    borderColor: 'rgba(255,255,255,0.06)',
-    borderRadius: 12,
-    padding: 16,
-    alignItems: 'center',
-  },
-  statValue: {
-    fontSize: 22,
-    fontWeight: '800',
-    color: '#10b981',
-  },
-  statLabel: {
-    fontSize: 12,
-    color: '#475569',
-    marginTop: 2,
-  },
-
-  // Search
-  searchBar: {
-    paddingHorizontal: 16,
-    paddingTop: 12,
-  },
-  searchInput: {
-    backgroundColor: 'rgba(255,255,255,0.04)',
-    borderWidth: 1,
-    borderColor: 'rgba(255,255,255,0.08)',
-    borderRadius: 12,
-    paddingHorizontal: 16,
-    paddingVertical: 12,
-    color: '#e2e8f0',
-    fontSize: 15,
-  },
-  pillScroll: {
-    paddingTop: 12,
-    maxHeight: 48,
-  },
+  // Pills
+  pillScroll: { paddingTop: 8, paddingBottom: 8, maxHeight: 48 },
   pill: {
-    paddingHorizontal: 14,
-    paddingVertical: 6,
-    borderRadius: 100,
-    borderWidth: 1,
-    borderColor: 'rgba(255,255,255,0.08)',
-    backgroundColor: 'rgba(255,255,255,0.03)',
-    marginRight: 8,
+    paddingHorizontal: 14, paddingVertical: 6, borderRadius: 100,
+    borderWidth: 1, borderColor: 'rgba(255,255,255,0.08)', backgroundColor: 'rgba(255,255,255,0.03)', marginRight: 8,
   },
   pillActive: {
-    paddingHorizontal: 14,
-    paddingVertical: 6,
-    borderRadius: 100,
-    borderWidth: 1,
-    borderColor: '#10b981',
-    backgroundColor: 'rgba(16,185,129,0.12)',
-    marginRight: 8,
+    paddingHorizontal: 14, paddingVertical: 6, borderRadius: 100,
+    borderWidth: 1, borderColor: '#10b981', backgroundColor: 'rgba(16,185,129,0.12)', marginRight: 8,
   },
-  pillText: {
-    fontSize: 13,
-    color: '#94a3b8',
-    fontWeight: '500',
-  },
-  pillActiveText: {
-    fontSize: 13,
-    color: '#10b981',
-    fontWeight: '600',
-  },
+  pillText: { fontSize: 13, color: '#94a3b8', fontWeight: '500' },
+  pillActiveText: { fontSize: 13, color: '#10b981', fontWeight: '600' },
 
-  // Shared banner
+  // Hero
+  hero: { alignItems: 'center', paddingHorizontal: 24, paddingTop: 36, paddingBottom: 32 },
+  heroBadge: {
+    backgroundColor: 'rgba(16,185,129,0.08)', borderWidth: 1, borderColor: 'rgba(16,185,129,0.15)',
+    borderRadius: 100, paddingHorizontal: 16, paddingVertical: 6,
+    fontSize: 13, color: '#10b981', fontWeight: '600', marginBottom: 20, overflow: 'hidden',
+  },
+  heroTitle: {
+    fontSize: 32, fontWeight: '900', color: '#e2e8f0', textAlign: 'center',
+    letterSpacing: -0.5, lineHeight: 38, marginBottom: 12,
+  },
+  gradientText: { color: '#10b981' },
+  heroSub: { fontSize: 15, color: '#64748b', textAlign: 'center', lineHeight: 22, maxWidth: 320, marginBottom: 28 },
+  primaryBtn: {
+    backgroundColor: '#10b981', paddingHorizontal: 32, paddingVertical: 14, borderRadius: 12,
+    shadowColor: '#10b981', shadowOffset: { width: 0, height: 4 }, shadowOpacity: 0.2, shadowRadius: 12, elevation: 4,
+  },
+  primaryBtnText: { color: 'white', fontSize: 16, fontWeight: '700' },
+
+  // Stats
+  statsRow: { flexDirection: 'row', paddingHorizontal: 16, gap: 10 },
+  statCard: {
+    flex: 1, backgroundColor: 'rgba(15,23,42,0.6)', borderWidth: 1, borderColor: 'rgba(255,255,255,0.06)',
+    borderRadius: 12, padding: 14, alignItems: 'center',
+  },
+  statValue: { fontSize: 22, fontWeight: '800', color: '#10b981' },
+  statLabel: { fontSize: 11, color: '#475569', marginTop: 2 },
+
+  // Section
+  section: { paddingHorizontal: 16, paddingTop: 28 },
+  sectionTitle: { fontSize: 22, fontWeight: '800', color: '#e2e8f0', marginBottom: 4, letterSpacing: -0.3 },
+  sectionSub: { fontSize: 13, color: '#475569', marginBottom: 16 },
+  seeAllBtn: { alignItems: 'center', paddingVertical: 12 },
+  seeAllText: { color: '#10b981', fontWeight: '600', fontSize: 14 },
+  stepCard: {
+    flexDirection: 'row', alignItems: 'flex-start', gap: 14,
+    backgroundColor: 'rgba(15,23,42,0.6)', borderWidth: 1, borderColor: 'rgba(255,255,255,0.06)',
+    borderRadius: 14, padding: 16, marginBottom: 10,
+  },
+  stepTitle: { fontSize: 15, fontWeight: '700', color: '#e2e8f0', marginBottom: 2 },
+  stepDesc: { fontSize: 13, color: '#64748b', lineHeight: 19 },
+
+  // Search
+  searchBar: { paddingHorizontal: 16, paddingTop: 8 },
+  searchInput: {
+    backgroundColor: 'rgba(255,255,255,0.04)', borderWidth: 1, borderColor: 'rgba(255,255,255,0.08)',
+    borderRadius: 12, paddingHorizontal: 16, paddingVertical: 12, color: '#e2e8f0', fontSize: 15,
+  },
   sharedBanner: {
-    marginHorizontal: 16,
-    marginTop: 10,
-    backgroundColor: 'rgba(59,130,246,0.1)',
-    borderWidth: 1,
-    borderColor: 'rgba(59,130,246,0.2)',
-    borderRadius: 10,
-    padding: 10,
+    marginHorizontal: 16, marginTop: 10, backgroundColor: 'rgba(59,130,246,0.1)',
+    borderWidth: 1, borderColor: 'rgba(59,130,246,0.2)', borderRadius: 10, padding: 10,
   },
-  sharedBannerText: {
-    fontSize: 13,
-    color: '#93c5fd',
-  },
+  sharedBannerText: { fontSize: 13, color: '#93c5fd' },
 
   // Cards
   card: {
-    backgroundColor: 'rgba(15,23,42,0.6)',
-    borderWidth: 1,
-    borderColor: 'rgba(255,255,255,0.06)',
-    borderRadius: 14,
-    padding: 16,
-    marginBottom: 10,
+    backgroundColor: 'rgba(15,23,42,0.6)', borderWidth: 1, borderColor: 'rgba(255,255,255,0.06)',
+    borderRadius: 14, padding: 16, marginBottom: 10,
   },
-  cardTop: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'flex-start',
-    marginBottom: 12,
-  },
-  cardName: {
-    fontSize: 15,
-    fontWeight: '700',
-    color: '#e2e8f0',
-  },
-  cardCategory: {
-    fontSize: 12,
-    color: '#475569',
-    textTransform: 'capitalize',
-    marginTop: 2,
-  },
+  cardTop: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: 12, gap: 8 },
+  cardName: { fontSize: 15, fontWeight: '700', color: '#e2e8f0' },
+  cardCategory: { fontSize: 12, color: '#475569', textTransform: 'capitalize', marginTop: 2 },
   directBadge: {
-    backgroundColor: 'rgba(16,185,129,0.1)',
-    borderWidth: 1,
-    borderColor: 'rgba(16,185,129,0.15)',
-    borderRadius: 100,
-    paddingHorizontal: 10,
-    paddingVertical: 3,
+    backgroundColor: 'rgba(16,185,129,0.1)', borderWidth: 1, borderColor: 'rgba(16,185,129,0.15)',
+    borderRadius: 100, paddingHorizontal: 10, paddingVertical: 3,
   },
-  directBadgeText: {
-    fontSize: 11,
-    fontWeight: '600',
-    color: '#10b981',
+  directBadgeText: { fontSize: 11, fontWeight: '600', color: '#10b981' },
+  directBtn: { backgroundColor: '#10b981', borderRadius: 10, paddingVertical: 11, alignItems: 'center' },
+  directBtnText: { color: 'white', fontSize: 14, fontWeight: '700' },
+  noDirectRow: { paddingVertical: 4 },
+  noDirectText: { fontSize: 12, color: '#334155', fontStyle: 'italic' },
+  savingsHint: { fontSize: 11, color: '#475569', marginTop: 8, textAlign: 'center' },
+
+  // Bottom nav
+  bottomNav: {
+    flexDirection: 'row', justifyContent: 'space-around', alignItems: 'center',
+    paddingVertical: 8, paddingBottom: 20,
+    borderTopWidth: 1, borderTopColor: 'rgba(255,255,255,0.05)', backgroundColor: '#0a0f1a',
   },
-  directBtn: {
-    backgroundColor: '#10b981',
-    borderRadius: 10,
-    paddingVertical: 11,
-    alignItems: 'center',
-  },
-  directBtnText: {
-    color: 'white',
-    fontSize: 14,
-    fontWeight: '700',
-  },
-  noDirectText: {
-    fontSize: 12,
-    color: '#334155',
-    fontStyle: 'italic',
-  },
+  navItem: { alignItems: 'center', paddingVertical: 4 },
+  navLabel: { fontSize: 10, color: '#475569', marginTop: 2 },
+  navLabelActive: { color: '#10b981' },
 });
