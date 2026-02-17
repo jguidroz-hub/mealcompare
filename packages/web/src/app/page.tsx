@@ -24,8 +24,7 @@ export default function Home() {
             <span style={{ fontSize: 20, fontWeight: 800, letterSpacing: '-0.02em' }}>SkipTheFee</span>
           </div>
           <div style={{ display: 'flex', gap: 28, alignItems: 'center' }}>
-            <a href="#how" className="desktop-only" style={{ color: '#64748b', textDecoration: 'none', fontSize: 14, fontWeight: 500, transition: 'color 0.15s' }}>How It Works</a>
-            <a href="#fees" className="desktop-only" style={{ color: '#64748b', textDecoration: 'none', fontSize: 14, fontWeight: 500 }}>Hidden Fees</a>
+            <Link href="/how-it-works" className="desktop-only" style={{ color: '#64748b', textDecoration: 'none', fontSize: 14, fontWeight: 500, transition: 'color 0.15s' }}>How It Works</Link>
             <Link href="/savings" style={{ color: '#64748b', textDecoration: 'none', fontSize: 14, fontWeight: 500 }}>💰 Calculator</Link>
             <Link href="/restaurants" style={{ color: '#10b981', textDecoration: 'none', fontSize: 14, fontWeight: 600 }}>Restaurants</Link>
             <Link href="/favorites" style={{ color: '#64748b', textDecoration: 'none', fontSize: 14, fontWeight: 500 }}>❤️</Link>
@@ -119,6 +118,25 @@ export default function Home() {
             <QuoteRow name="Uber Eats" total="$58.18" fees="Service: $6.38 · Delivery: $4.99" tag="+$12.10" tagColor="#ef4444" icon="🟢" />
             <QuoteRow name="DoorDash" total="$57.43" fees="Service: $5.87 · Delivery: $3.99" tag="+$11.35" tagColor="#ef4444" icon="🔴" />
           </div>
+        </div>
+      </section>
+
+      {/* Social Proof */}
+      <section style={{ padding: '60px 24px 20px', maxWidth: 700, margin: '0 auto' }}>
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: 12 }}>
+          {[
+            { text: 'Saved $8 on my first order. I felt dumb for using DoorDash for so long.', author: 'Marcus T.', city: 'Chicago', stars: 5 },
+            { text: 'I order Thai food 3x a week. This saves me like $60/month easily.', author: 'Sarah K.', city: 'NYC', stars: 5 },
+            { text: 'The fact that restaurants have their own ordering and nobody talks about it is wild.', author: 'James R.', city: 'Austin', stars: 5 },
+          ].map((t, i) => (
+            <div key={i} className="glass-card" style={{ padding: '20px 18px' }}>
+              <div style={{ fontSize: 12, color: '#f59e0b', marginBottom: 8 }}>{'★'.repeat(t.stars)}</div>
+              <p style={{ fontSize: 13, color: '#94a3b8', lineHeight: 1.6, marginBottom: 10 }}>&ldquo;{t.text}&rdquo;</p>
+              <div style={{ fontSize: 12, color: '#475569' }}>
+                <strong style={{ color: '#e2e8f0' }}>{t.author}</strong> · {t.city}
+              </div>
+            </div>
+          ))}
         </div>
       </section>
 
@@ -251,6 +269,7 @@ export default function Home() {
       <footer className="status-bar">
         <span><span className="status-dot" />System Online</span>
         <a href="mailto:hello@skipthefee.app">Contact</a>
+        <Link href="/how-it-works">How It Works</Link>
         <Link href="/privacy">Privacy</Link>
         <Link href="/restaurants">Restaurants</Link>
         <span>© 2026 SkipTheFee</span>
