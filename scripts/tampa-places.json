@@ -336,8 +336,8 @@
     ]
   },
   {
-    "name": "Harpoon Harry's Crab House - Tampa",
-    "slug": "harpoonharryscrabhouse-tampa",
+    "name": "Harpoon Harry's Crab House",
+    "slug": "harpoon-harry-s-crab-house",
     "category": "seafood",
     "metros": [
       "tampa"
@@ -404,8 +404,8 @@
     "toastUrl": "https://order.toasttab.com/online/gourmetpizzaco"
   },
   {
-    "name": "3 Corners Pizza - Water Street",
-    "slug": "3cornerspizza-waterstreet",
+    "name": "3cornerspizza",
+    "slug": "3cornerspizza",
     "category": "pizza",
     "metros": [
       "tampa"
@@ -431,8 +431,8 @@
     "toastUrl": "https://order.toasttab.com/online/brass-tap-carrollwood"
   },
   {
-    "name": "GiGi's Pizzeria 1346 Tampa Rd",
-    "slug": "gigispizzeria1346tampard",
+    "name": "GiGi's Pizzeria",
+    "slug": "gigi-s-pizzeria",
     "category": "pizza",
     "metros": [
       "tampa"
@@ -449,8 +449,8 @@
     "toastUrl": "https://order.toasttab.com/online/new-york-new-york-ybor-city"
   },
   {
-    "name": "Sunda - Tampa 3648 Midtown Dr",
-    "slug": "sunda-tampa3648midtowndr",
+    "name": "Sunda",
+    "slug": "sunda",
     "category": "restaurant",
     "metros": [
       "tampa"
@@ -476,8 +476,8 @@
     "toastUrl": "https://order.toasttab.com/online/floridaavenuetampa"
   },
   {
-    "name": "Meat Market Tampa 1606 West Snow Avenue",
-    "slug": "meatmarkettampa1606westsnowavenue",
+    "name": "Meat Market Tampa",
+    "slug": "meat-market-tampa",
     "category": "restaurant",
     "metros": [
       "tampa"
@@ -521,8 +521,8 @@
     "toastUrl": "https://order.toasttab.com/online/barrio-tampa-fl"
   },
   {
-    "name": "El Churrascaso Grill Tampa 8425 W Hillsborough Ave",
-    "slug": "elchurrascasogrilltampa8425whillsborough",
+    "name": "El Churrascaso Grill Tampa",
+    "slug": "el-churrascaso-grill-tampa",
     "category": "restaurant",
     "metros": [
       "tampa"
@@ -611,8 +611,8 @@
     "toastUrl": "https://order.toasttab.com/online/cassis-st-pete"
   },
   {
-    "name": "CJs Backstage 7022 22nd Ave N, St. Petersburg, FL 33710",
-    "slug": "cjsbackstage702222ndavenstpetersburgfl33",
+    "name": "CJs Backstage 7022 22nd Ave N, St. Petersburg, FL",
+    "slug": "cjs-backstage-7022-22nd-ave-n-st-petersburg-fl",
     "category": "restaurant",
     "metros": [
       "tampa"
@@ -656,8 +656,8 @@
     "toastUrl": "https://order.toasttab.com/online/beef-o-bradys-st-petersburg-fl-137"
   },
   {
-    "name": "Pizza on Pearl 617 Pearl St",
-    "slug": "pizzaonpearl617pearlst",
+    "name": "Pizza on Pearl",
+    "slug": "pizza-on-pearl",
     "category": "pizza",
     "metros": [
       "tampa"
@@ -692,8 +692,8 @@
     "toastUrl": "https://order.toasttab.com/online/thepizzabox509"
   },
   {
-    "name": "Hey Now Pizza 607 Main St",
-    "slug": "heynowpizza607mainst",
+    "name": "Hey Now Pizza",
+    "slug": "hey-now-pizza",
     "category": "pizza",
     "metros": [
       "tampa"
@@ -701,8 +701,8 @@
     "toastUrl": "https://order.toasttab.com/online/heynowpizza"
   },
   {
-    "name": "Pesci's Buffalo Pizza & Wings 8065 Main Street",
-    "slug": "pescisbuffalopizzawings8065mainstreet",
+    "name": "Pesci's Buffalo Pizza & Wings",
+    "slug": "pesci-s-buffalo-pizza-wings",
     "category": "pizza",
     "metros": [
       "tampa"
@@ -710,8 +710,8 @@
     "toastUrl": "https://order.toasttab.com/online/pescis-pizza-8065-main-st"
   },
   {
-    "name": "Peppino's Pizza & Subs 610 Main St",
-    "slug": "peppinospizzasubs610mainst",
+    "name": "Peppino's Pizza & Subs",
+    "slug": "peppino-s-pizza-subs",
     "category": "pizza",
     "metros": [
       "tampa"
@@ -719,8 +719,8 @@
     "toastUrl": "https://order.toasttab.com/online/peppinos-pizza-subs-610-main-st"
   },
   {
-    "name": "Prince Street Pizza & Pub 123 E Prince St",
-    "slug": "princestreetpizzapub123eprincest",
+    "name": "Prince Street Pizza & Pub",
+    "slug": "prince-street-pizza-pub",
     "category": "pizza",
     "metros": [
       "tampa"
@@ -755,8 +755,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-bricks-of-ybor"
   },
   {
-    "name": "Ybor City Vegan Deli 1903 N 19th st",
-    "slug": "yborcityvegandeli1903n19thst",
+    "name": "Ybor City Vegan Deli",
+    "slug": "ybor-city-vegan-deli",
     "category": "deli",
     "metros": [
       "tampa"
@@ -836,8 +836,8 @@
     "toastUrl": "https://order.toasttab.com/online/curras-grill-hyde-park-4215-duval-st"
   },
   {
-    "name": "Dope Asian Street Fare - Hyde Park 2912 Wasson Rd",
-    "slug": "dopeasianstreetfare-hydepark2912wassonrd",
+    "name": "Dope Asian Street Fare - Hyde Park",
+    "slug": "dope-asian-street-fare-hyde-park",
     "category": "restaurant",
     "metros": [
       "tampa"
@@ -1025,8 +1025,8 @@
     "toastUrl": "https://order.toasttab.com/online/thelongmonter"
   },
   {
-    "name": "Pearl St. Pizza 159 North Main Street",
-    "slug": "pearlstpizza159northmainstreet",
+    "name": "Pearl St. Pizza",
+    "slug": "pearl-st-pizza",
     "category": "pizza",
     "metros": [
       "tampa"
@@ -1052,8 +1052,8 @@
     "toastUrl": "https://order.toasttab.com/online/btc-wp"
   },
   {
-    "name": "Dadash Grill Turkish Cuisine 8606 E Mill Plain Blvd Suite A",
-    "slug": "dadashgrillturkishcuisine8606emillplainb",
+    "name": "Dadash Grill Turkish Cuisine",
+    "slug": "dadash-grill-turkish-cuisine",
     "category": "restaurant",
     "metros": [
       "tampa"
@@ -1160,8 +1160,8 @@
     "toastUrl": "https://order.toasttab.com/online/tandoor-middletown-170-main-street-unit-4"
   },
   {
-    "name": "Tocabe An American Indian Eatery 3536 W 44th Ave",
-    "slug": "tocabeanamericanindianeatery3536w44thave",
+    "name": "Tocabe An American Indian Eatery",
+    "slug": "tocabe-an-american-indian-eatery",
     "category": "indian",
     "metros": [
       "tampa"
@@ -1169,8 +1169,8 @@
     "toastUrl": "https://order.toasttab.com/online/tocabe"
   },
   {
-    "name": "Punjabi Tadka Indian Cuisine 130 West Montgomery Street",
-    "slug": "punjabitadkaindiancuisine130westmontgome",
+    "name": "Punjabi Tadka Indian Cuisine",
+    "slug": "punjabi-tadka-indian-cuisine",
     "category": "indian",
     "metros": [
       "tampa"
@@ -1178,8 +1178,8 @@
     "toastUrl": "https://order.toasttab.com/online/punjabi-tadka-indian-cuisine-130-west-montgomery-street"
   },
   {
-    "name": "Indian Oven 2406 Paramount Blvd",
-    "slug": "indianoven2406paramountblvd",
+    "name": "Indian Oven",
+    "slug": "indian-oven",
     "category": "indian",
     "metros": [
       "tampa"
@@ -1196,8 +1196,8 @@
     "toastUrl": "https://order.toasttab.com/online/basmati"
   },
   {
-    "name": "Desi Indian Lounge 1355 Hornby Street",
-    "slug": "desiindianlounge1355hornbystreet",
+    "name": "Desi Indian Lounge",
+    "slug": "desi-indian-lounge",
     "category": "indian",
     "metros": [
       "tampa"
@@ -1205,8 +1205,8 @@
     "toastUrl": "https://order.toasttab.com/online/desi%20indian%20lounge"
   },
   {
-    "name": "Nawab's Indian Cuisine 4715 Kirkwood Highway",
-    "slug": "nawabsindiancuisine4715kirkwoodhighway",
+    "name": "Nawab's Indian Cuisine",
+    "slug": "nawab-s-indian-cuisine",
     "category": "indian",
     "metros": [
       "tampa"
@@ -1223,8 +1223,8 @@
     "toastUrl": "https://order.toasttab.com/online/indianfoodandspices"
   },
   {
-    "name": "Taj Indian Restaurant 412 Harding Place, Suite 101",
-    "slug": "tajindianrestaurant412hardingplacesuite1",
+    "name": "Taj Indian Restaurant",
+    "slug": "taj-indian-restaurant",
     "category": "indian",
     "metros": [
       "tampa"
@@ -1259,8 +1259,8 @@
     "toastUrl": "https://order.toasttab.com/online/rusty-pelican-tampa"
   },
   {
-    "name": "Charley's Steakhouse: Tampa 4444 West Cypress Street",
-    "slug": "charleyssteakhousetampa4444westcypressst",
+    "name": "Charley's Steakhouse: Tampa",
+    "slug": "charley-s-steakhouse-tampa",
     "category": "steakhouse",
     "metros": [
       "tampa"
@@ -1322,8 +1322,8 @@
     "toastUrl": "https://order.toasttab.com/online/all-thai-restaurant-1645-140th-avenue-northeast-b-9"
   },
   {
-    "name": "Thai Thai Restaurant - EM 221 E North St",
-    "slug": "thaithairestaurant-em221enorthst",
+    "name": "Thai Thai Restaurant - EM",
+    "slug": "thai-thai-restaurant-em",
     "category": "thai",
     "metros": [
       "tampa"
@@ -1331,8 +1331,8 @@
     "toastUrl": "https://order.toasttab.com/online/thai-thai"
   },
   {
-    "name": "Love Thai Cuisine 1180 Forest Ave",
-    "slug": "lovethaicuisine1180forestave",
+    "name": "Love Thai Cuisine",
+    "slug": "love-thai-cuisine",
     "category": "thai",
     "metros": [
       "tampa"
@@ -1358,8 +1358,8 @@
     "toastUrl": "https://order.toasttab.com/online/too-thai-street-eats-2540-old-denton-rd-138"
   },
   {
-    "name": "Asian Thai Bistro 120 N Main Ave",
-    "slug": "asianthaibistro120nmainave",
+    "name": "Asian Thai Bistro",
+    "slug": "asian-thai-bistro",
     "category": "thai",
     "metros": [
       "tampa"
@@ -1385,8 +1385,8 @@
     "toastUrl": "https://order.toasttab.com/online/thai-taste-southend-324-east-blvd"
   },
   {
-    "name": "Thai Flavors East 14th St 1254 E 14th St",
-    "slug": "thaiflavorseast14thst1254e14thst",
+    "name": "Thai Flavors East 14th St",
+    "slug": "thai-flavors-east-14th-st",
     "category": "thai",
     "metros": [
       "tampa"
@@ -1430,8 +1430,8 @@
     "toastUrl": "https://order.toasttab.com/online/thai-table"
   },
   {
-    "name": "Taste of Thai 216 East State Street",
-    "slug": "tasteofthai216eaststatestreet",
+    "name": "Taste of Thai",
+    "slug": "taste-of-thai",
     "category": "thai",
     "metros": [
       "tampa"
@@ -1448,8 +1448,8 @@
     "toastUrl": "https://order.toasttab.com/online/deejai-thai"
   },
   {
-    "name": "Taste of Thai Express 209 S Meadow St",
-    "slug": "tasteofthaiexpress209smeadowst",
+    "name": "Taste of Thai Express",
+    "slug": "taste-of-thai-express",
     "category": "thai",
     "metros": [
       "tampa"
@@ -1493,8 +1493,8 @@
     "websiteOrderUrl": "https://order.online/store/poke-island-plus-oldsmar-23267897"
   },
   {
-    "name": "Poke Paradise 4644 West Gandy Boulevard",
-    "slug": "pokeparadise4644westgandyboulevard",
+    "name": "Poke Paradise",
+    "slug": "poke-paradise",
     "category": "japanese",
     "metros": [
       "tampa"
@@ -1502,8 +1502,8 @@
     "websiteOrderUrl": "https://order.online/store/poke-paradise-tampa-2865926"
   },
   {
-    "name": "El Shaddai Latin Restaurant 7315 East Broadway Avenue",
-    "slug": "elshaddailatinrestaurant7315eastbroadway",
+    "name": "El Shaddai Latin Restaurant",
+    "slug": "el-shaddai-latin-restaurant",
     "category": "latin",
     "metros": [
       "tampa"
@@ -1667,8 +1667,8 @@
     "websiteOrderUrl": "https://oceanprime.olo.com/menu/ocean-prime-tampa"
   },
   {
-    "name": "The Pearl - Tampa",
-    "slug": "thepearl-tampa",
+    "name": "The Pearl",
+    "slug": "the-pearl",
     "category": "restaurant",
     "metros": [
       "tampa"
@@ -1967,8 +1967,8 @@
     "websiteOrderUrl": "https://help.getbento.com/en/articles/407745"
   },
   {
-    "name": "Factory@4914 - TAMPA, FL",
-    "slug": "factory4914-tampafl",
+    "name": "Factory@4914",
+    "slug": "factory-4914",
     "category": "restaurant",
     "metros": [
       "tampa"
@@ -1976,8 +1976,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/factory4914-tampa"
   },
   {
-    "name": "NENE'S RESTAURANT & BAR - TAMPA, FL",
-    "slug": "nenesrestaurantbar-tampafl",
+    "name": "NENE'S RESTAURANT & BAR",
+    "slug": "nene-s-restaurant-bar",
     "category": "restaurant",
     "metros": [
       "tampa"
@@ -1985,8 +1985,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/nenes-restaurant--bar-tampa"
   },
   {
-    "name": "EL TABLADO RESTAURANT - TAMPA, FL",
-    "slug": "eltabladorestaurant-tampafl",
+    "name": "EL TABLADO RESTAURANT",
+    "slug": "el-tablado-restaurant",
     "category": "restaurant",
     "metros": [
       "tampa"
@@ -1994,8 +1994,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/el-tablado-restaurant-tampa/9T7VDY8PYWGW4"
   },
   {
-    "name": "TRAN NOODLE - TAMPA, FL",
-    "slug": "trannoodle-tampafl",
+    "name": "TRAN NOODLE",
+    "slug": "tran-noodle",
     "category": "chinese",
     "metros": [
       "tampa"
@@ -2012,8 +2012,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/namaste-express-tampa"
   },
   {
-    "name": "CUBAN FOODIES - TAMPA, FL",
-    "slug": "cubanfoodies-tampafl",
+    "name": "CUBAN FOODIES",
+    "slug": "cuban-foodies",
     "category": "latin",
     "metros": [
       "tampa"
@@ -2021,8 +2021,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/cuban-foodies-tampa"
   },
   {
-    "name": "CHAMPION PIZZA - SOUTH TAMPA - Clover",
-    "slug": "championpizza-southtampa-clover",
+    "name": "CHAMPION PIZZA - SOUTH TAMPA",
+    "slug": "champion-pizza-south-tampa",
     "category": "pizza",
     "metros": [
       "tampa"
@@ -2030,8 +2030,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/champion-pizza--south-tampa-tampa"
   },
   {
-    "name": "BURGER CULTURE - TAMPA, FL",
-    "slug": "burgerculture-tampafl",
+    "name": "BURGER CULTURE",
+    "slug": "burger-culture",
     "category": "burgers",
     "metros": [
       "tampa"
@@ -2048,8 +2048,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/tampa-burger-apollo-beach"
   },
   {
-    "name": "SMASH BUN BURGER - Tampa, FL",
-    "slug": "smashbunburger-tampafl",
+    "name": "SMASH BUN BURGER",
+    "slug": "smash-bun-burger",
     "category": "burgers",
     "metros": [
       "tampa"
@@ -2057,8 +2057,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/smash-bun-burger-tampa"
   },
   {
-    "name": "BURGER CULTURE LUTZ - TAMPA, FL",
-    "slug": "burgerculturelutz-tampafl",
+    "name": "BURGER CULTURE LUTZ",
+    "slug": "burger-culture-lutz",
     "category": "burgers",
     "metros": [
       "tampa"
@@ -2066,8 +2066,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/burger-culture-lutz-tampa"
   },
   {
-    "name": "Pickford's Sundries - TAMPA, FL",
-    "slug": "pickfordssundries-tampafl",
+    "name": "Pickford's Sundries",
+    "slug": "pickford-s-sundries",
     "category": "restaurant",
     "metros": [
       "tampa"
@@ -2075,8 +2075,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/urban-bungalow-tampa"
   },
   {
-    "name": "YAH MON LLC - TAMPA, FL",
-    "slug": "yahmonllc-tampafl",
+    "name": "YAH MON LLC",
+    "slug": "yah-mon-llc",
     "category": "restaurant",
     "metros": [
       "tampa"
@@ -2084,8 +2084,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/yah-mon-llc-tampa"
   },
   {
-    "name": "JAMAICAN ON THE GO - TAMPA, FL",
-    "slug": "jamaicanonthego-tampafl",
+    "name": "JAMAICAN ON THE GO",
+    "slug": "jamaican-on-the-go",
     "category": "caribbean",
     "metros": [
       "tampa"
@@ -2093,8 +2093,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/jamaican-on-the-go-tampa"
   },
   {
-    "name": "LECADA LLC - TAMPA, FL",
-    "slug": "lecadallc-tampafl",
+    "name": "LECADA LLC",
+    "slug": "lecada-llc",
     "category": "restaurant",
     "metros": [
       "tampa"
@@ -2120,8 +2120,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/burger-culture-dale-mabr-tampa"
   },
   {
-    "name": "ELEVENSES CO - TAMPA, FL",
-    "slug": "elevensesco-tampafl",
+    "name": "ELEVENSES CO",
+    "slug": "elevenses-co",
     "category": "restaurant",
     "metros": [
       "tampa"
@@ -2156,8 +2156,8 @@
     "toastUrl": "https://order.toasttab.com/online/streeterville"
   },
   {
-    "name": "NEW Siesta Poke 5206 Ocean Boulevard",
-    "slug": "newsiestapoke5206oceanboulevard",
+    "name": "NEW Siesta Poke",
+    "slug": "new-siesta-poke",
     "category": "japanese",
     "metros": [
       "tampa"
@@ -2165,8 +2165,8 @@
     "toastUrl": "https://order.toasttab.com/online/new-siesta-poke-5206-ocean-boulevard-jawga"
   },
   {
-    "name": "Poke Sushi 1720 Washington Road",
-    "slug": "pokesushi1720washingtonroad",
+    "name": "Poke Sushi",
+    "slug": "poke-sushi",
     "category": "japanese",
     "metros": [
       "tampa"
@@ -2210,8 +2210,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke"
   },
   {
-    "name": "Poke Burri 3231 powelton ave",
-    "slug": "pokeburri3231poweltonave",
+    "name": "Poke Burri",
+    "slug": "poke-burri",
     "category": "japanese",
     "metros": [
       "tampa"
@@ -2237,8 +2237,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-surf-hampton-92-coliseum-crossing"
   },
   {
-    "name": "Poke-City Cambridge 1722 Massachusetts Avenue",
-    "slug": "poke-citycambridge1722massachusettsavenu",
+    "name": "Poke-City Cambridge",
+    "slug": "poke-city-cambridge",
     "category": "japanese",
     "metros": [
       "tampa"
@@ -2273,8 +2273,8 @@
     "toastUrl": "https://order.toasttab.com/online/fresh-catch-poke-pearl"
   },
   {
-    "name": "Beachwood Seafood Kitchen & Bar 4022 Tampa Road",
-    "slug": "beachwoodseafoodkitchenbar4022tamparoad",
+    "name": "Beachwood Seafood Kitchen & Bar",
+    "slug": "beachwood-seafood-kitchen-bar",
     "category": "seafood",
     "metros": [
       "tampa"
@@ -2291,8 +2291,8 @@
     "toastUrl": "https://order.toasttab.com/online/kobe-japanese-steak-house-tampa-n-dale-mabry"
   },
   {
-    "name": "Baytown Seafood Restaurant 2102 Broadway Street",
-    "slug": "baytownseafoodrestaurant2102broadwaystre",
+    "name": "Baytown Seafood Restaurant",
+    "slug": "baytown-seafood-restaurant",
     "category": "seafood",
     "metros": [
       "tampa"
@@ -2327,8 +2327,8 @@
     "toastUrl": "https://order.toasttab.com/online/hninasseafood"
   },
   {
-    "name": "Mr Seafood - Town Center 494-1 Town Center Place",
-    "slug": "mrseafood-towncenter494-1towncenterplace",
+    "name": "Mr Seafood - Town Center 494",
+    "slug": "mr-seafood-town-center-494",
     "category": "seafood",
     "metros": [
       "tampa"
@@ -2354,8 +2354,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-great-greek-st-pete-fl"
   },
   {
-    "name": "The Greek Taverna 1903 Staples Mill Rd",
-    "slug": "thegreektaverna1903staplesmillrd",
+    "name": "The Greek Taverna",
+    "slug": "the-greek-taverna",
     "category": "mediterranean",
     "metros": [
       "tampa"
@@ -2372,8 +2372,8 @@
     "toastUrl": "https://order.toasttab.com/online/angelos-greek-taverna-245-maywood-ave"
   },
   {
-    "name": "The Greek Corner 2366 Massachusetts Avenue",
-    "slug": "thegreekcorner2366massachusettsavenue",
+    "name": "The Greek Corner",
+    "slug": "the-greek-corner",
     "category": "mediterranean",
     "metros": [
       "tampa"
@@ -2498,8 +2498,8 @@
     "toastUrl": "https://order.toasttab.com/online/datz-delicatessen"
   },
   {
-    "name": "Planta Organic Juice Bar 131 Pine Street",
-    "slug": "plantaorganicjuicebar131pinestreet",
+    "name": "Planta Organic Juice Bar",
+    "slug": "planta-organic-juice-bar",
     "category": "juice",
     "metros": [
       "tampa"

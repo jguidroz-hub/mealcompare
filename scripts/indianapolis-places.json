@@ -259,8 +259,8 @@
     "toastUrl": "https://order.toasttab.com/online/greeks-pizza"
   },
   {
-    "name": "Hey Now Pizza 607 Main St",
-    "slug": "heynowpizza607mainst",
+    "name": "Hey Now Pizza",
+    "slug": "hey-now-pizza",
     "category": "pizza",
     "metros": [
       "indianapolis"
@@ -286,8 +286,8 @@
     "toastUrl": "https://order.toasttab.com/online/pizzauncommon"
   },
   {
-    "name": "DiMaggio's Pizza - Evansville 3848 North First Avenue",
-    "slug": "dimaggiospizza-evansville3848northfirsta",
+    "name": "DiMaggio's Pizza - Evansville",
+    "slug": "dimaggio-s-pizza-evansville",
     "category": "pizza",
     "metros": [
       "indianapolis"
@@ -295,8 +295,8 @@
     "toastUrl": "https://order.toasttab.com/online/evansvilledimaggios"
   },
   {
-    "name": "812 Pizza Company Georgetown",
-    "slug": "812pizzacompanygeorgetown",
+    "name": "812 Pizza Company",
+    "slug": "812-pizza-company",
     "category": "pizza",
     "metros": [
       "indianapolis"
@@ -304,8 +304,8 @@
     "toastUrl": "https://order.toasttab.com/online/812-pizza-company"
   },
   {
-    "name": "Castello Pizza Indianola 2577 Indianola Ave",
-    "slug": "castellopizzaindianola2577indianolaave",
+    "name": "Castello Pizza Indianola",
+    "slug": "castello-pizza-indianola",
     "category": "pizza",
     "metros": [
       "indianapolis"
@@ -322,8 +322,8 @@
     "toastUrl": "https://order.toasttab.com/online/indians-pizza"
   },
   {
-    "name": "GOOD VIBES PIZZA 22825 Hawthorne Blvd",
-    "slug": "goodvibespizza22825hawthorneblvd",
+    "name": "GOOD VIBES PIZZA",
+    "slug": "good-vibes-pizza",
     "category": "pizza",
     "metros": [
       "indianapolis"
@@ -358,8 +358,8 @@
     "toastUrl": "https://order.toasttab.com/online/next-door-pizza-pub-1713-county-hwy-oo"
   },
   {
-    "name": "Post Alley Pizza 1123 Post Avenue",
-    "slug": "postalleypizza1123postavenue",
+    "name": "Post Alley Pizza",
+    "slug": "post-alley-pizza",
     "category": "pizza",
     "metros": [
       "indianapolis"
@@ -412,8 +412,8 @@
     "toastUrl": "https://order.toasttab.com/online/monon-food-co"
   },
   {
-    "name": "Ruth's Cafe 3443 East 86th St",
-    "slug": "ruthscafe3443east86thst",
+    "name": "Ruth's Cafe",
+    "slug": "ruth-s-cafe",
     "category": "cafe",
     "metros": [
       "indianapolis"
@@ -421,8 +421,8 @@
     "toastUrl": "https://order.toasttab.com/online/ruths-cafe-3443-e-86th-st"
   },
   {
-    "name": "Sun & Moon Cafe 10 West Market Street",
-    "slug": "sunmooncafe10westmarketstreet",
+    "name": "Sun & Moon Cafe",
+    "slug": "sun-moon-cafe",
     "category": "cafe",
     "metros": [
       "indianapolis"
@@ -439,8 +439,8 @@
     "toastUrl": "https://order.toasttab.com/online/indie-cafe-5951-north-broadway"
   },
   {
-    "name": "In & Out Cafe 1621 N Road Street",
-    "slug": "inoutcafe1621nroadstreet",
+    "name": "In & Out Cafe",
+    "slug": "in-out-cafe",
     "category": "cafe",
     "metros": [
       "indianapolis"
@@ -457,8 +457,8 @@
     "toastUrl": "https://order.toasttab.com/online/island-cafe-32070-state-route-20"
   },
   {
-    "name": "Inman Harvest Cafe 112 S Main St",
-    "slug": "inmanharvestcafe112smainst",
+    "name": "Inman Harvest Cafe",
+    "slug": "inman-harvest-cafe",
     "category": "cafe",
     "metros": [
       "indianapolis"
@@ -466,8 +466,8 @@
     "toastUrl": "https://order.toasttab.com/online/inmanharvestcafe"
   },
   {
-    "name": "Cafe International 675 Oaklawn Ave",
-    "slug": "cafeinternational675oaklawnave",
+    "name": "Cafe International",
+    "slug": "cafe-international",
     "category": "cafe",
     "metros": [
       "indianapolis"
@@ -484,8 +484,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-toast-cafe-anderson-in"
   },
   {
-    "name": "CAFE 1908 7 West Preston St",
-    "slug": "cafe19087westprestonst",
+    "name": "CAFE 1908",
+    "slug": "cafe-1908",
     "category": "cafe",
     "metros": [
       "indianapolis"
@@ -493,8 +493,8 @@
     "toastUrl": "https://order.toasttab.com/online/cafe1908"
   },
   {
-    "name": "Affinity Cafe 133 N Main St",
-    "slug": "affinitycafe133nmainst",
+    "name": "Affinity Cafe",
+    "slug": "affinity-cafe",
     "category": "cafe",
     "metros": [
       "indianapolis"
@@ -511,8 +511,8 @@
     "toastUrl": "https://order.toasttab.com/online/kathmandu-cafe"
   },
   {
-    "name": "OMi Cafe 3135 N Broadway St",
-    "slug": "omicafe3135nbroadwayst",
+    "name": "OMi Cafe",
+    "slug": "omi-cafe",
     "category": "cafe",
     "metros": [
       "indianapolis"
@@ -529,8 +529,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-downtown-cafe-4-school-st"
   },
   {
-    "name": "Daily News Cafe and Restaurant 401 S Belcher Rd",
-    "slug": "dailynewscafeandrestaurant401sbelcherrd",
+    "name": "Daily News Cafe and Restaurant",
+    "slug": "daily-news-cafe-and-restaurant",
     "category": "cafe",
     "metros": [
       "indianapolis"
@@ -547,8 +547,8 @@
     "toastUrl": "https://order.toasttab.com/online/cafe-services-bbp"
   },
   {
-    "name": "Famous Cafe 15218",
-    "slug": "famouscafe15218",
+    "name": "Famous Cafe",
+    "slug": "famous-cafe",
     "category": "cafe",
     "metros": [
       "indianapolis"
@@ -583,8 +583,8 @@
     "toastUrl": "https://order.toasttab.com/online/cafericadowntown"
   },
   {
-    "name": "Cholita Tacos 1001 Broad Ripple Ave",
-    "slug": "cholitatacos1001broadrippleave",
+    "name": "Cholita Tacos",
+    "slug": "cholita-tacos",
     "category": "mexican",
     "metros": [
       "indianapolis"
@@ -628,8 +628,8 @@
     "toastUrl": "https://order.toasttab.com/online/ripple-cafe-1906-dorchester-ave"
   },
   {
-    "name": "Ripple Cafe - Cambridge 314 Main Street",
-    "slug": "ripplecafe-cambridge314mainstreet",
+    "name": "Ripple Cafe - Cambridge",
+    "slug": "ripple-cafe-cambridge",
     "category": "cafe",
     "metros": [
       "indianapolis"
@@ -736,8 +736,8 @@
     "toastUrl": "https://order.toasttab.com/online/hotboys-indianapolis-fountain-square"
   },
   {
-    "name": "La Margarita - Fountain Square 1043 Virginia Ave",
-    "slug": "lamargarita-fountainsquare1043virginiaav",
+    "name": "La Margarita - Fountain Square",
+    "slug": "la-margarita-fountain-square",
     "category": "restaurant",
     "metros": [
       "indianapolis"
@@ -745,8 +745,8 @@
     "toastUrl": "https://order.toasttab.com/online/la-margarita-fountain-square-1043-virginia-ave-ste-1"
   },
   {
-    "name": "Upland Brewing - Fountain Square 1201 Prospect Street",
-    "slug": "uplandbrewing-fountainsquare1201prospect",
+    "name": "Upland Brewing - Fountain Square",
+    "slug": "upland-brewing-fountain-square",
     "category": "cafe",
     "metros": [
       "indianapolis"
@@ -754,8 +754,8 @@
     "toastUrl": "https://order.toasttab.com/online/upland-brewing-fountain-square-1201-prospect-street"
   },
   {
-    "name": "Saffy's 4845 Fountain ave",
-    "slug": "saffys4845fountainave",
+    "name": "Saffy's",
+    "slug": "saffy-s",
     "category": "restaurant",
     "metros": [
       "indianapolis"
@@ -799,8 +799,8 @@
     "toastUrl": "https://order.toasttab.com/online/empire-street-indy-419-south-west-street"
   },
   {
-    "name": "Yoshi - Indy Downtown 72 W New York St",
-    "slug": "yoshi-indydowntown72wnewyorkst",
+    "name": "Yoshi - Indy Downtown",
+    "slug": "yoshi-indy-downtown",
     "category": "restaurant",
     "metros": [
       "indianapolis"
@@ -808,8 +808,8 @@
     "toastUrl": "https://order.toasttab.com/online/yoshi-indy-downtown-72-w-new-york-st"
   },
   {
-    "name": "Indy's Historic Steer-In Restaurant 5130 E 10th St",
-    "slug": "indyshistoricsteer-inrestaurant5130e10th",
+    "name": "Indy's Historic Steer-In Restaurant",
+    "slug": "indy-s-historic-steer-in-restaurant",
     "category": "restaurant",
     "metros": [
       "indianapolis"
@@ -817,8 +817,8 @@
     "toastUrl": "https://order.toasttab.com/online/indys-historic-steer-in-restaurant-5130-e-10th-st"
   },
   {
-    "name": "Indy's Sandwich 744 Main Street",
-    "slug": "indyssandwich744mainstreet",
+    "name": "Indy's Sandwich",
+    "slug": "indy-s-sandwich",
     "category": "deli",
     "metros": [
       "indianapolis"
@@ -871,8 +871,8 @@
     "toastUrl": "https://order.toasttab.com/online/davesdowntowncatering"
   },
   {
-    "name": "Himalayan Restaurant - Chicago 606 South Wabash Avenue",
-    "slug": "himalayanrestaurant-chicago606southwabas",
+    "name": "Himalayan Restaurant",
+    "slug": "himalayan-restaurant",
     "category": "restaurant",
     "metros": [
       "indianapolis"
@@ -889,8 +889,8 @@
     "toastUrl": "https://order.toasttab.com/online/b&tdowntown"
   },
   {
-    "name": "Old Town Station Restaurant 2530 Main St",
-    "slug": "oldtownstationrestaurant2530mainst",
+    "name": "Old Town Station Restaurant",
+    "slug": "old-town-station-restaurant",
     "category": "restaurant",
     "metros": [
       "indianapolis"
@@ -898,8 +898,8 @@
     "toastUrl": "https://order.toasttab.com/online/oldtownstation"
   },
   {
-    "name": "Relish - Big Tasty Burgers Downtown 201 SE 1st St",
-    "slug": "relish-bigtastyburgersdowntown201se1stst",
+    "name": "Relish - Big Tasty Burgers Downtown",
+    "slug": "relish-big-tasty-burgers-downtown",
     "category": "burgers",
     "metros": [
       "indianapolis"
@@ -988,8 +988,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-poke-west-loop-1100-w-madison"
   },
   {
-    "name": "Poke Dot 17921 MacArthur Blvd",
-    "slug": "pokedot17921macarthurblvd",
+    "name": "Poke Dot",
+    "slug": "poke-dot",
     "category": "japanese",
     "metros": [
       "indianapolis"
@@ -1006,8 +1006,8 @@
     "toastUrl": "https://order.toasttab.com/online/streeterville"
   },
   {
-    "name": "Poke Burri 3231 powelton ave",
-    "slug": "pokeburri3231poweltonave",
+    "name": "Poke Burri",
+    "slug": "poke-burri",
     "category": "japanese",
     "metros": [
       "indianapolis"
@@ -1078,8 +1078,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-row-2735-nw-crossing-dr-105"
   },
   {
-    "name": "Hawaii Poke Bowl - West St. Paul 1375 South Robert Street",
-    "slug": "hawaiipokebowl-weststpaul1375southrobert",
+    "name": "Hawaii Poke Bowl - West St. Paul",
+    "slug": "hawaii-poke-bowl-west-st-paul",
     "category": "japanese",
     "metros": [
       "indianapolis"
@@ -1087,8 +1087,8 @@
     "toastUrl": "https://order.toasttab.com/online/hawaii-poke-bowl-st-paul-1375-south-robert-street"
   },
   {
-    "name": "The Ono Poke - Summit 325 Summit Boulevard",
-    "slug": "theonopoke-summit325summitboulevard",
+    "name": "The Ono Poke - Summit",
+    "slug": "the-ono-poke-summit",
     "category": "japanese",
     "metros": [
       "indianapolis"
@@ -1114,8 +1114,8 @@
     "toastUrl": "https://order.toasttab.com/online/thainiyom-llc-110-hwy17-s-north"
   },
   {
-    "name": "Thai Flavors East 14th St 1254 E 14th St",
-    "slug": "thaiflavorseast14thst1254e14thst",
+    "name": "Thai Flavors East 14th St",
+    "slug": "thai-flavors-east-14th-st",
     "category": "thai",
     "metros": [
       "indianapolis"
@@ -1132,8 +1132,8 @@
     "toastUrl": "https://order.toasttab.com/online/thai-thai-asian-bistro-3522-24th-ave-nw"
   },
   {
-    "name": "Opart Thai House 1546 W Chicago Avenue",
-    "slug": "opartthaihouse1546wchicagoavenue",
+    "name": "Opart Thai House",
+    "slug": "opart-thai-house",
     "category": "thai",
     "metros": [
       "indianapolis"
@@ -1141,8 +1141,8 @@
     "toastUrl": "https://order.toasttab.com/online/opartthai"
   },
   {
-    "name": "Thai Thai Restaurant - EM 221 E North St",
-    "slug": "thaithairestaurant-em221enorthst",
+    "name": "Thai Thai Restaurant - EM",
+    "slug": "thai-thai-restaurant-em",
     "category": "thai",
     "metros": [
       "indianapolis"
@@ -1150,8 +1150,8 @@
     "toastUrl": "https://order.toasttab.com/online/thai-thai"
   },
   {
-    "name": "Taste of Thai Express 209 S Meadow St",
-    "slug": "tasteofthaiexpress209smeadowst",
+    "name": "Taste of Thai Express",
+    "slug": "taste-of-thai-express",
     "category": "thai",
     "metros": [
       "indianapolis"
@@ -1159,8 +1159,8 @@
     "toastUrl": "https://order.toasttab.com/online/taste-of-thai-express-209-s-meadow-st"
   },
   {
-    "name": "Asian Thai Bistro 120 N Main Ave",
-    "slug": "asianthaibistro120nmainave",
+    "name": "Asian Thai Bistro",
+    "slug": "asian-thai-bistro",
     "category": "thai",
     "metros": [
       "indianapolis"
@@ -1168,8 +1168,8 @@
     "toastUrl": "https://order.toasttab.com/online/asian-thai-bistro-120-north-main-avenue"
   },
   {
-    "name": "Anya Thai Cuisine 12454 Warwick Blvd",
-    "slug": "anyathaicuisine12454warwickblvd",
+    "name": "Anya Thai Cuisine",
+    "slug": "anya-thai-cuisine",
     "category": "thai",
     "metros": [
       "indianapolis"
@@ -1186,8 +1186,8 @@
     "toastUrl": "https://order.toasttab.com/online/thaicuisinecville"
   },
   {
-    "name": "Taste of Thai 216 East State Street",
-    "slug": "tasteofthai216eaststatestreet",
+    "name": "Taste of Thai",
+    "slug": "taste-of-thai",
     "category": "thai",
     "metros": [
       "indianapolis"
@@ -1213,8 +1213,8 @@
     "toastUrl": "https://order.toasttab.com/online/all-thai-restaurant-1645-140th-avenue-northeast-b-9"
   },
   {
-    "name": "Love Thai Cuisine 1180 Forest Ave",
-    "slug": "lovethaicuisine1180forestave",
+    "name": "Love Thai Cuisine",
+    "slug": "love-thai-cuisine",
     "category": "thai",
     "metros": [
       "indianapolis"
@@ -1231,8 +1231,8 @@
     "toastUrl": "https://order.toasttab.com/online/thaisawadee"
   },
   {
-    "name": "Thai Kitchen 2335 miamisburg centerville rd",
-    "slug": "thaikitchen2335miamisburgcentervillerd",
+    "name": "Thai Kitchen",
+    "slug": "thai-kitchen",
     "category": "thai",
     "metros": [
       "indianapolis"
@@ -1249,8 +1249,8 @@
     "toastUrl": "https://order.toasttab.com/online/gingerthaicf"
   },
   {
-    "name": "City Thai Cuisine 6341 SW Capitol Hwy",
-    "slug": "citythaicuisine6341swcapitolhwy",
+    "name": "City Thai Cuisine",
+    "slug": "city-thai-cuisine",
     "category": "thai",
     "metros": [
       "indianapolis"
@@ -1258,8 +1258,8 @@
     "toastUrl": "https://order.toasttab.com/online/city-thai-6341-sw-capitol-hwy"
   },
   {
-    "name": "Thai Square 8601 SE 17th Ave",
-    "slug": "thaisquare8601se17thave",
+    "name": "Thai Square",
+    "slug": "thai-square",
     "category": "thai",
     "metros": [
       "indianapolis"
@@ -1267,8 +1267,8 @@
     "toastUrl": "https://order.toasttab.com/online/thaisquare"
   },
   {
-    "name": "Paste Thai 417 Mace Blvd Ste I",
-    "slug": "pastethai417maceblvdstei",
+    "name": "Paste Thai",
+    "slug": "paste-thai",
     "category": "thai",
     "metros": [
       "indianapolis"
@@ -1312,8 +1312,8 @@
     "toastUrl": "https://order.toasttab.com/online/cafe-kabob-mediterranean-grille"
   },
   {
-    "name": "Sevmar Mediterranean Bistro 401 Main St",
-    "slug": "sevmarmediterraneanbistro401mainst",
+    "name": "Sevmar Mediterranean Bistro",
+    "slug": "sevmar-mediterranean-bistro",
     "category": "mediterranean",
     "metros": [
       "indianapolis"
@@ -1411,8 +1411,8 @@
     "toastUrl": "https://order.toasttab.com/online/thegateencino"
   },
   {
-    "name": "Deproof African Restaurant 4903 West Washington Street",
-    "slug": "deproofafricanrestaurant4903westwashingt",
+    "name": "Deproof African Restaurant",
+    "slug": "deproof-african-restaurant",
     "category": "african",
     "metros": [
       "indianapolis"
@@ -1602,8 +1602,8 @@
     "websiteOrderUrl": "https://oceanprime.olo.com/menu/ocean-prime-indianapolis"
   },
   {
-    "name": "Twin Peaks - Indianapolis",
-    "slug": "twinpeaks-indianapolis",
+    "name": "Twin Peaks",
+    "slug": "twin-peaks",
     "category": "indian",
     "metros": [
       "indianapolis"
@@ -1825,8 +1825,8 @@
     "websiteOrderUrl": "https://www.gloriafood.com/mobile-app-for-clients"
   },
   {
-    "name": "MCL Catering in Indianapolis, IN - 5520 Castleton Corner Dr",
-    "slug": "mclcateringinindianapolisin-5520castleto",
+    "name": "MCL Catering in Indianapolis, IN",
+    "slug": "mcl-catering-in-indianapolis-in",
     "category": "indian",
     "metros": [
       "indianapolis"
@@ -1834,8 +1834,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/mcl-restaurant-and-bakery-indianapolis-castleton-corner-dr"
   },
   {
-    "name": "MCL Catering in Indianapolis, IN - 2370 W 86th St",
-    "slug": "mclcateringinindianapolisin-2370w86thst",
+    "name": "MCL Catering in Indianapolis, IN",
+    "slug": "mcl-catering-in-indianapolis-in",
     "category": "indian",
     "metros": [
       "indianapolis"
@@ -1843,8 +1843,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/mcl-restaurant-and-bakery-indianapolis"
   },
   {
-    "name": "MCL Catering in Indianapolis, IN - 6010 E 10th St",
-    "slug": "mclcateringinindianapolisin-6010e10thst",
+    "name": "MCL Catering in Indianapolis, IN",
+    "slug": "mcl-catering-in-indianapolis-in",
     "category": "indian",
     "metros": [
       "indianapolis"
@@ -1852,8 +1852,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/mcl-restaurant-and-bakery-indianapolis-th-st"
   },
   {
-    "name": "Sahm's Catering in Indianapolis, IN - 2502 E 52nd St",
-    "slug": "sahmscateringinindianapolisin-2502e52nds",
+    "name": "Sahm's Catering in Indianapolis, IN",
+    "slug": "sahm-s-catering-in-indianapolis-in",
     "category": "indian",
     "metros": [
       "indianapolis"
@@ -1861,8 +1861,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/sahms-catering-indianapolis-american-square"
   },
   {
-    "name": "IHOP Catering in Indianapolis, IN - 9115 E 56th St",
-    "slug": "ihopcateringinindianapolisin-9115e56thst",
+    "name": "IHOP Catering in Indianapolis, IN",
+    "slug": "ihop-catering-in-indianapolis-in",
     "category": "indian",
     "metros": [
       "indianapolis"
@@ -1870,8 +1870,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/ihop-indianapolis"
   },
   {
-    "name": "MCL Catering in Indianapolis, IN - 3630 S East St",
-    "slug": "mclcateringinindianapolisin-3630seastst",
+    "name": "MCL Catering in Indianapolis, IN",
+    "slug": "mcl-catering-in-indianapolis-in",
     "category": "indian",
     "metros": [
       "indianapolis"
@@ -1879,8 +1879,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/mcl-restaurant-and-bakery-indianapolis-s-east-st"
   },
   {
-    "name": "Maggianos Catering in Indianapolis, IN - 3550 E 86th St",
-    "slug": "maggianoscateringinindianapolisin-3550e8",
+    "name": "Maggianos Catering in Indianapolis, IN",
+    "slug": "maggianos-catering-in-indianapolis-in",
     "category": "indian",
     "metros": [
       "indianapolis"
@@ -1888,8 +1888,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/maggianos-little-italy-indianapolis"
   },
   {
-    "name": "MCL Catering in Indianapolis, IN - 6002 Crawfordsville Rd",
-    "slug": "mclcateringinindianapolisin-6002crawford",
+    "name": "MCL Catering in Indianapolis, IN",
+    "slug": "mcl-catering-in-indianapolis-in",
     "category": "indian",
     "metros": [
       "indianapolis"
@@ -1906,8 +1906,8 @@
     "toastUrl": "https://order.toasttab.com/online/morenos-bakery"
   },
   {
-    "name": "Indulge Bakery 1501 Parker Way",
-    "slug": "indulgebakery1501parkerway",
+    "name": "Indulge Bakery",
+    "slug": "indulge-bakery",
     "category": "bakery",
     "metros": [
       "indianapolis"
@@ -1924,8 +1924,8 @@
     "toastUrl": "https://order.toasttab.com/online/ithacabakery-n-meadow-st"
   },
   {
-    "name": "Batch 22 Bakery 15466 Los Gatos Blvd Ste 113",
-    "slug": "batch22bakery15466losgatosblvdste113",
+    "name": "Batch 22 Bakery",
+    "slug": "batch-22-bakery",
     "category": "bakery",
     "metros": [
       "indianapolis"
@@ -1960,8 +1960,8 @@
     "toastUrl": "https://order.toasttab.com/online/butchertown"
   },
   {
-    "name": "Carissa's Bakery -Sag Harbor 3 Bay Street",
-    "slug": "carissasbakery-sagharbor3baystreet",
+    "name": "Carissa's Bakery -Sag Harbor",
+    "slug": "carissa-s-bakery-sag-harbor",
     "category": "bakery",
     "metros": [
       "indianapolis"
@@ -2023,8 +2023,8 @@
     "toastUrl": "https://order.toasttab.com/online/breadhive"
   },
   {
-    "name": "Le Parisien Bakery 235 W 46th St",
-    "slug": "leparisienbakery235w46thst",
+    "name": "Le Parisien Bakery",
+    "slug": "le-parisien-bakery",
     "category": "bakery",
     "metros": [
       "indianapolis"
@@ -2095,8 +2095,8 @@
     "toastUrl": "https://order.toasttab.com/online/wingsnthingscortez"
   },
   {
-    "name": "King of Wings 7741 W 44th Ave",
-    "slug": "kingofwings7741w44thave",
+    "name": "King of Wings",
+    "slug": "king-of-wings",
     "category": "wings",
     "metros": [
       "indianapolis"
@@ -2104,8 +2104,8 @@
     "toastUrl": "https://order.toasttab.com/online/kingofwingstaphouse"
   },
   {
-    "name": "Wings and Burgers To Go 1733 West Mississippi Avenue",
-    "slug": "wingsandburgerstogo1733westmississippiav",
+    "name": "Wings and Burgers To Go",
+    "slug": "wings-and-burgers-to-go",
     "category": "burgers",
     "metros": [
       "indianapolis"
@@ -2113,8 +2113,8 @@
     "toastUrl": "https://order.toasttab.com/online/wings-and-burgers-1733-west-mississippi-avenue"
   },
   {
-    "name": "Stuff'd Wings 401 Richmond Ave",
-    "slug": "stuffdwings401richmondave",
+    "name": "Stuff'd Wings",
+    "slug": "stuff-d-wings",
     "category": "wings",
     "metros": [
       "indianapolis"
@@ -2122,8 +2122,8 @@
     "toastUrl": "https://order.toasttab.com/online/stuff-d-wings-401-richmond-ave"
   },
   {
-    "name": "WINGS & ALE OF LEXINGTON 154 Ellis Avenue",
-    "slug": "wingsaleoflexington154ellisavenue",
+    "name": "WINGS & ALE OF LEXINGTON",
+    "slug": "wings-ale-of-lexington",
     "category": "wings",
     "metros": [
       "indianapolis"
@@ -2131,8 +2131,8 @@
     "toastUrl": "https://order.toasttab.com/online/wings-and-ale-154-ellis-avenue"
   },
   {
-    "name": "Them Wings - Henderson 9985 S Eastern Ave",
-    "slug": "themwings-henderson9985seasternave",
+    "name": "Them Wings - Henderson",
+    "slug": "them-wings-henderson",
     "category": "wings",
     "metros": [
       "indianapolis"
@@ -2230,8 +2230,8 @@
     "toastUrl": "https://order.toasttab.com/online/big-boss-chinese"
   },
   {
-    "name": "Sandwich Max - Plaza Midwood 933 Louise Avenue",
-    "slug": "sandwichmax-plazamidwood933louiseavenue",
+    "name": "Sandwich Max - Plaza Midwood",
+    "slug": "sandwich-max-plaza-midwood",
     "category": "deli",
     "metros": [
       "indianapolis"
@@ -2239,8 +2239,8 @@
     "toastUrl": "https://order.toasttab.com/online/sandwich-max-plaza"
   },
   {
-    "name": "Ideal's Sandwich and Grocery 2108 Angier Avenue",
-    "slug": "idealssandwichandgrocery2108angieravenue",
+    "name": "Ideal's Sandwich and Grocery",
+    "slug": "ideal-s-sandwich-and-grocery",
     "category": "deli",
     "metros": [
       "indianapolis"
@@ -2248,8 +2248,8 @@
     "toastUrl": "https://order.toasttab.com/online/ideals-sandwich-and-grocery-2108-angier-avenue"
   },
   {
-    "name": "Sandwich Bar - Five Towns 346 central Ave",
-    "slug": "sandwichbar-fivetowns346centralave",
+    "name": "Sandwich Bar - Five Towns",
+    "slug": "sandwich-bar-five-towns",
     "category": "deli",
     "metros": [
       "indianapolis"
@@ -2284,8 +2284,8 @@
     "toastUrl": "https://order.toasttab.com/online/hope-breakfast-bar"
   },
   {
-    "name": "The BREAKFAST SPOT 10745 Indian Head Highway",
-    "slug": "thebreakfastspot10745indianheadhighway",
+    "name": "The BREAKFAST SPOT",
+    "slug": "the-breakfast-spot",
     "category": "indian",
     "metros": [
       "indianapolis"
@@ -2365,8 +2365,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-smoothie-spot-virginia-798-southpark-boulevard-suite-32"
   },
   {
-    "name": "Juice World 89 Passaic St",
-    "slug": "juiceworld89passaicst",
+    "name": "Juice World",
+    "slug": "juice-world",
     "category": "juice",
     "metros": [
       "indianapolis"
@@ -2401,8 +2401,8 @@
     "toastUrl": "https://order.toasttab.com/online/blended-health-smoothie-bar-950-harlem-ave"
   },
   {
-    "name": "Pressed Juice Bar 19550 Grand River Avenue",
-    "slug": "pressedjuicebar19550grandriveravenue",
+    "name": "Pressed Juice Bar",
+    "slug": "pressed-juice-bar",
     "category": "juice",
     "metros": [
       "indianapolis"

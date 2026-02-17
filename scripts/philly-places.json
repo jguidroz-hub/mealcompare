@@ -676,8 +676,8 @@
     ]
   },
   {
-    "name": "Opera House Chinatown, Philadelphia",
-    "slug": "operahousechinatownphiladelphia",
+    "name": "Opera House Chinatown",
+    "slug": "opera-house-chinatown",
     "category": "restaurant",
     "metros": [
       "philly"
@@ -730,8 +730,8 @@
     "toastUrl": "https://order.toasttab.com/online/freebyrd-111-south-independence-mall-e"
   },
   {
-    "name": "TB3 Food Truck 705 Old Philadelphia Road",
-    "slug": "tb3foodtruck705oldphiladelphiaroad",
+    "name": "TB3 Food Truck",
+    "slug": "tb3-food-truck",
     "category": "restaurant",
     "metros": [
       "philly"
@@ -748,8 +748,8 @@
     "toastUrl": "https://order.toasttab.com/online/key-pizza-grill-1846-s-12th-st"
   },
   {
-    "name": "Jim & Nena's Pizza - Phila St. 501 West Philadelphia Street",
-    "slug": "jimnenaspizza-philast501westphiladelphia",
+    "name": "Jim & Nena's Pizza - Phila St.",
+    "slug": "jim-nena-s-pizza-phila-st",
     "category": "pizza",
     "metros": [
       "philly"
@@ -775,8 +775,8 @@
     "toastUrl": "https://order.toasttab.com/online/pizza-plus-university-city-4814-spruce-st"
   },
   {
-    "name": "Pietro's Pizza (Philadelphia) 1714 Walnut Street",
-    "slug": "pietrospizzaphiladelphia1714walnutstreet",
+    "name": "Pietro's Pizza (Philadelphia)",
+    "slug": "pietro-s-pizza-philadelphia",
     "category": "pizza",
     "metros": [
       "philly"
@@ -784,8 +784,8 @@
     "toastUrl": "https://order.toasttab.com/online/pietros-pizza-philadelphia-1714-walnut-street"
   },
   {
-    "name": "Barra Rossa Ristorante 503 - Philadelphia",
-    "slug": "barrarossaristorante503-philadelphia",
+    "name": "Barra Rossa Ristorante 503",
+    "slug": "barra-rossa-ristorante-503",
     "category": "italian",
     "metros": [
       "philly"
@@ -793,8 +793,8 @@
     "toastUrl": "https://order.toasttab.com/online/barra-rosa-929-walnut-street"
   },
   {
-    "name": "Top Tomato Bar & Pizza 116 S 11th St",
-    "slug": "toptomatobarpizza116s11thst",
+    "name": "Top Tomato Bar & Pizza",
+    "slug": "top-tomato-bar-pizza",
     "category": "pizza",
     "metros": [
       "philly"
@@ -811,8 +811,8 @@
     "toastUrl": "https://order.toasttab.com/online/brunos-pizza"
   },
   {
-    "name": "Philly's Pizza 207 Depot Street",
-    "slug": "phillyspizza207depotstreet",
+    "name": "Philly's Pizza",
+    "slug": "philly-s-pizza",
     "category": "pizza",
     "metros": [
       "philly"
@@ -873,8 +873,8 @@
     "toastUrl": "https://order.toasttab.com/online/phillys-phinest"
   },
   {
-    "name": "Abyssinia Bar & Restaurant 229 S 45th St",
-    "slug": "abyssiniabarrestaurant229s45thst",
+    "name": "Abyssinia Bar & Restaurant",
+    "slug": "abyssinia-bar-restaurant",
     "category": "restaurant",
     "metros": [
       "philly"
@@ -909,8 +909,8 @@
     "toastUrl": "https://order.toasttab.com/online/pizza-roma-pittsburgh-8360-perry-hwy"
   },
   {
-    "name": "Pete's Famous Pizza (South Philly) 2942 Wharton Street",
-    "slug": "petesfamouspizzasouthphilly2942whartonst",
+    "name": "Pete's Famous Pizza (South Philly)",
+    "slug": "pete-s-famous-pizza-south-philly",
     "category": "pizza",
     "metros": [
       "philly"
@@ -936,8 +936,8 @@
     "toastUrl": "https://order.toasttab.com/online/philly-steaks-and-wings"
   },
   {
-    "name": "Palace Pizza - Downtown",
-    "slug": "palacepizza-downtown",
+    "name": "Palace Pizza",
+    "slug": "palace-pizza",
     "category": "pizza",
     "metros": [
       "philly"
@@ -1017,8 +1017,8 @@
     "toastUrl": "https://order.toasttab.com/online/old-city-bbq-700-york-street"
   },
   {
-    "name": "Almost Home - Old City 205 Race St",
-    "slug": "almosthome-oldcity205racest",
+    "name": "Almost Home - Old City",
+    "slug": "almost-home-old-city",
     "category": "restaurant",
     "metros": [
       "philly"
@@ -1035,8 +1035,8 @@
     "toastUrl": "https://order.toasttab.com/online/old-castle-restaurant"
   },
   {
-    "name": "Old Town Station Restaurant 2530 Main St",
-    "slug": "oldtownstationrestaurant2530mainst",
+    "name": "Old Town Station Restaurant",
+    "slug": "old-town-station-restaurant",
     "category": "restaurant",
     "metros": [
       "philly"
@@ -1053,8 +1053,8 @@
     "toastUrl": "https://order.toasttab.com/online/oldtowncafe-3930-old-town-road"
   },
   {
-    "name": "Olde City Cheesesteaks & Brew 66 Madison Ave",
-    "slug": "oldecitycheesesteaksbrew66madisonave",
+    "name": "Olde City Cheesesteaks & Brew",
+    "slug": "olde-city-cheesesteaks-brew",
     "category": "cafe",
     "metros": [
       "philly"
@@ -1062,8 +1062,8 @@
     "toastUrl": "https://order.toasttab.com/online/olde-city"
   },
   {
-    "name": "Philly Style Bagels Old City 218 Arch Street",
-    "slug": "phillystylebagelsoldcity218archstreet",
+    "name": "Philly Style Bagels Old City",
+    "slug": "philly-style-bagels-old-city",
     "category": "bakery",
     "metros": [
       "philly"
@@ -1080,8 +1080,8 @@
     "toastUrl": "https://order.toasttab.com/online/charlies-old-fash-royse-city-107-i-30-frontage-rd"
   },
   {
-    "name": "Old Town Bar and Grill 315 East 1st Street",
-    "slug": "oldtownbarandgrill315east1ststreet",
+    "name": "Old Town Bar and Grill",
+    "slug": "old-town-bar-and-grill",
     "category": "restaurant",
     "metros": [
       "philly"
@@ -1089,8 +1089,8 @@
     "toastUrl": "https://order.toasttab.com/online/oldtownbar"
   },
   {
-    "name": "Olde City Cheesesteaks & Brew 201 8th Ave",
-    "slug": "oldecitycheesesteaksbrew2018thave",
+    "name": "Olde City Cheesesteaks & Brew",
+    "slug": "olde-city-cheesesteaks-brew",
     "category": "cafe",
     "metros": [
       "philly"
@@ -1107,8 +1107,8 @@
     "toastUrl": "https://order.toasttab.com/online/lighthouse-restaurant-7501-constitution-avenue"
   },
   {
-    "name": "Old Town Pub 1339 N Wells St",
-    "slug": "oldtownpub1339nwellsst",
+    "name": "Old Town Pub",
+    "slug": "old-town-pub",
     "category": "restaurant",
     "metros": [
       "philly"
@@ -1233,8 +1233,8 @@
     "toastUrl": "https://order.toasttab.com/online/south-bowl"
   },
   {
-    "name": "PHS Pop Up Garden South Street 1438 South St",
-    "slug": "phspopupgardensouthstreet1438southst",
+    "name": "PHS Pop Up Garden South Street",
+    "slug": "phs-pop-up-garden-south-street",
     "category": "restaurant",
     "metros": [
       "philly"
@@ -1242,8 +1242,8 @@
     "toastUrl": "https://order.toasttab.com/online/phssouth"
   },
   {
-    "name": "Topside Tavern 10 South 20th Street",
-    "slug": "topsidetavern10south20thstreet",
+    "name": "Topside Tavern",
+    "slug": "topside-tavern",
     "category": "restaurant",
     "metros": [
       "philly"
@@ -1296,8 +1296,8 @@
     "toastUrl": "https://order.toasttab.com/online/el-pollo-inka-hawaiian-gardens-12110-east-carson-street"
   },
   {
-    "name": "Taffach Ethiopian Restaurant 113 D Street",
-    "slug": "taffachethiopianrestaurant113dstreet",
+    "name": "Taffach Ethiopian Restaurant",
+    "slug": "taffach-ethiopian-restaurant",
     "category": "african",
     "metros": [
       "philly"
@@ -1314,8 +1314,8 @@
     "toastUrl": "https://order.toasttab.com/online/tana-ethiopian-cuisine-5929-baum-blvd"
   },
   {
-    "name": "LeYou Ethiopian 1100 N First St suite c",
-    "slug": "leyouethiopian1100nfirststsuitec",
+    "name": "LeYou Ethiopian",
+    "slug": "leyou-ethiopian",
     "category": "african",
     "metros": [
       "philly"
@@ -1377,8 +1377,8 @@
     "toastUrl": "https://order.toasttab.com/online/bole-ethiopian-cuisine-pascal"
   },
   {
-    "name": "Oishi Yakitori Sushi 246 South 11th Street",
-    "slug": "oishiyakitorisushi246south11thstreet",
+    "name": "Oishi Yakitori Sushi",
+    "slug": "oishi-yakitori-sushi",
     "category": "japanese",
     "metros": [
       "philly"
@@ -1386,8 +1386,8 @@
     "toastUrl": "https://order.toasttab.com/online/oishiyakitorisushi"
   },
   {
-    "name": "Poke Burri - Philadelphia",
-    "slug": "pokeburri-philadelphia",
+    "name": "Poke Burri",
+    "slug": "poke-burri",
     "category": "japanese",
     "metros": [
       "philly"
@@ -1413,8 +1413,8 @@
     "toastUrl": "https://order.toasttab.com/online/royal-izakaya-780-s-2nd-st"
   },
   {
-    "name": "Mizu Sushi Bar 1013 Washington Avenue",
-    "slug": "mizusushibar1013washingtonavenue",
+    "name": "Mizu Sushi Bar",
+    "slug": "mizu-sushi-bar",
     "category": "japanese",
     "metros": [
       "philly"
@@ -1422,8 +1422,8 @@
     "toastUrl": "https://order.toasttab.com/online/mizu-sushi-bar-1013-washington-avenue"
   },
   {
-    "name": "Tomo Sushi & Ramen 228 Arch St",
-    "slug": "tomosushiramen228archst",
+    "name": "Tomo Sushi & Ramen",
+    "slug": "tomo-sushi-ramen",
     "category": "japanese",
     "metros": [
       "philly"
@@ -1449,8 +1449,8 @@
     "toastUrl": "https://order.toasttab.com/online/btc-wp"
   },
   {
-    "name": "Dadash Grill Turkish Cuisine 8606 E Mill Plain Blvd Suite A",
-    "slug": "dadashgrillturkishcuisine8606emillplainb",
+    "name": "Dadash Grill Turkish Cuisine",
+    "slug": "dadash-grill-turkish-cuisine",
     "category": "restaurant",
     "metros": [
       "philly"
@@ -1503,8 +1503,8 @@
     "toastUrl": "https://order.toasttab.com/online/south-philadelphia-taproom"
   },
   {
-    "name": "Philly Salads & Smoothies 116 South 11th Street",
-    "slug": "phillysaladssmoothies116south11thstreet",
+    "name": "Philly Salads & Smoothies",
+    "slug": "philly-salads-smoothies",
     "category": "healthy",
     "metros": [
       "philly"
@@ -2049,8 +2049,8 @@
     ]
   },
   {
-    "name": "BREWERYTOWN FOOD HALL - PHILADELPHIA, PA",
-    "slug": "brewerytownfoodhall-philadelphiapa",
+    "name": "BREWERYTOWN FOOD HALL",
+    "slug": "brewerytown-food-hall",
     "category": "cafe",
     "metros": [
       "philly"
@@ -2058,8 +2058,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/brewerytown-philadelphia"
   },
   {
-    "name": "JJ THAI CUISINE - PHILADELPHIA, PA",
-    "slug": "jjthaicuisine-philadelphiapa",
+    "name": "JJ THAI CUISINE",
+    "slug": "jj-thai-cuisine",
     "category": "thai",
     "metros": [
       "philly"
@@ -2067,8 +2067,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/jj-thai-cuisine-philadelphia"
   },
   {
-    "name": "THE Corner - PHILADELPHIA, PA",
-    "slug": "thecorner-philadelphiapa",
+    "name": "THE Corner",
+    "slug": "the-corner",
     "category": "restaurant",
     "metros": [
       "philly"
@@ -2076,8 +2076,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/the-corner-philadelphia"
   },
   {
-    "name": "THE PALACE OF INDIAN CUISINE - PHILADELPHIA, PA",
-    "slug": "thepalaceofindiancuisine-philadelphiapa",
+    "name": "THE PALACE OF INDIAN CUISINE",
+    "slug": "the-palace-of-indian-cuisine",
     "category": "indian",
     "metros": [
       "philly"
@@ -2085,8 +2085,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/the-palace-of-indian-cuisine-philadelphia"
   },
   {
-    "name": "LAST DROP - PHILADELPHIA, PA",
-    "slug": "lastdrop-philadelphiapa",
+    "name": "LAST DROP",
+    "slug": "last-drop",
     "category": "restaurant",
     "metros": [
       "philly"
@@ -2094,8 +2094,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/the-last-drop-espress-philadelphia"
   },
   {
-    "name": "CAKE - PHILADELPHIA, PA",
-    "slug": "cake-philadelphiapa",
+    "name": "CAKE",
+    "slug": "cake",
     "category": "bakery",
     "metros": [
       "philly"
@@ -2103,8 +2103,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/cake-philadelphia"
   },
   {
-    "name": "EL BOCHINCHE RESTAURANT INC. - PHILADELPHIA, PA",
-    "slug": "elbochincherestaurantinc-philadelphiapa",
+    "name": "EL BOCHINCHE RESTAURANT INC.",
+    "slug": "el-bochinche-restaurant-inc",
     "category": "restaurant",
     "metros": [
       "philly"
@@ -2112,8 +2112,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/elbochinchephilly"
   },
   {
-    "name": "SOUL KITCHEN 5935 - PHILADELPHIA, PA",
-    "slug": "soulkitchen5935-philadelphiapa",
+    "name": "SOUL KITCHEN 5935",
+    "slug": "soul-kitchen-5935",
     "category": "restaurant",
     "metros": [
       "philly"
@@ -2130,8 +2130,8 @@
     "websiteOrderUrl": "https://blog.clover.com/from-the-boot/"
   },
   {
-    "name": "IMPERIAL CARIBBEAN & SEAFOOD - PHILADELPHIA, PA",
-    "slug": "imperialcaribbeanseafood-philadelphiapa",
+    "name": "IMPERIAL CARIBBEAN & SEAFOOD",
+    "slug": "imperial-caribbean-seafood",
     "category": "seafood",
     "metros": [
       "philly"
@@ -2139,8 +2139,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/imperialseafoodpa"
   },
   {
-    "name": "Avenues Café - PHILADELPHIA, PA",
-    "slug": "avenuescaf-philadelphiapa",
+    "name": "Avenues Café",
+    "slug": "avenues-caf",
     "category": "cafe",
     "metros": [
       "philly"
@@ -2148,8 +2148,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/avenues-cafe-philadelphia"
   },
   {
-    "name": "ORIGINAL PIZZA PALACE - PHILADELPHIA, PA",
-    "slug": "originalpizzapalace-philadelphiapa",
+    "name": "ORIGINAL PIZZA PALACE",
+    "slug": "original-pizza-palace",
     "category": "pizza",
     "metros": [
       "philly"
@@ -2157,8 +2157,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/original-pizza-palace-philadelphia"
   },
   {
-    "name": "HELLO VIETNAM ASIAN - PHILADELPHIA, PA",
-    "slug": "hellovietnamasian-philadelphiapa",
+    "name": "HELLO VIETNAM ASIAN",
+    "slug": "hello-vietnam-asian",
     "category": "restaurant",
     "metros": [
       "philly"
@@ -2175,8 +2175,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/gouldsburgers-express-philadelphia-2"
   },
   {
-    "name": "THE MARKET BAKERY - PHILADELPHIA, PA",
-    "slug": "themarketbakery-philadelphiapa",
+    "name": "THE MARKET BAKERY",
+    "slug": "the-market-bakery",
     "category": "bakery",
     "metros": [
       "philly"
@@ -2202,8 +2202,8 @@
     "websiteOrderUrl": "https://merchantservices.clover.com/restaurant-depot/"
   },
   {
-    "name": "Poke Burri 3231 powelton ave",
-    "slug": "pokeburri3231poweltonave",
+    "name": "Poke Burri",
+    "slug": "poke-burri",
     "category": "japanese",
     "metros": [
       "philly"
@@ -2292,8 +2292,8 @@
     "toastUrl": "https://order.toasttab.com/online/big-daddys-poke-shack"
   },
   {
-    "name": "POKE JAWS 3245 Business Park Drive",
-    "slug": "pokejaws3245businessparkdrive",
+    "name": "POKE JAWS",
+    "slug": "poke-jaws",
     "category": "japanese",
     "metros": [
       "philly"
@@ -2328,8 +2328,8 @@
     "toastUrl": "https://order.toasttab.com/online/leidpoke"
   },
   {
-    "name": "Poke Dot 17921 MacArthur Blvd",
-    "slug": "pokedot17921macarthurblvd",
+    "name": "Poke Dot",
+    "slug": "poke-dot",
     "category": "japanese",
     "metros": [
       "philly"
@@ -2355,8 +2355,8 @@
     "toastUrl": "https://order.toasttab.com/online/seaside-poke-downtown"
   },
   {
-    "name": "Seafood Hut & Market 1936 MacDade Boulevard",
-    "slug": "seafoodhutmarket1936macdadeboulevard",
+    "name": "Seafood Hut & Market",
+    "slug": "seafood-hut-market",
     "category": "seafood",
     "metros": [
       "philly"
@@ -2364,8 +2364,8 @@
     "toastUrl": "https://order.toasttab.com/online/seafoodhut"
   },
   {
-    "name": "Seafood Dock 6791 W Newberry Rd",
-    "slug": "seafooddock6791wnewberryrd",
+    "name": "Seafood Dock",
+    "slug": "seafood-dock",
     "category": "seafood",
     "metros": [
       "philly"
@@ -2373,8 +2373,8 @@
     "toastUrl": "https://order.toasttab.com/online/seafood-dock-6791-w-newberry-rd"
   },
   {
-    "name": "Porgy's Seafood Market 236 North Carrollton Avenue",
-    "slug": "porgysseafoodmarket236northcarrolltonave",
+    "name": "Porgy's Seafood Market",
+    "slug": "porgy-s-seafood-market",
     "category": "seafood",
     "metros": [
       "philly"
@@ -2409,8 +2409,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-seafood-shanty-31-dock-street-3450"
   },
   {
-    "name": "Cleavers Philadelphia Rittenhouse Square, Philadelphia",
-    "slug": "cleaversphiladelphiarittenhousesquarephi",
+    "name": "Cleavers Philadelphia Rittenhouse Square",
+    "slug": "cleavers-philadelphia-rittenhouse-square",
     "category": "restaurant",
     "metros": [
       "philly"
@@ -2427,8 +2427,8 @@
     "toastUrl": "https://order.toasttab.com/online/mainline-seafood-market"
   },
   {
-    "name": "By The Docks Seafood Restaurant 3321 Eastern Blvd",
-    "slug": "bythedocksseafoodrestaurant3321easternbl",
+    "name": "By The Docks Seafood Restaurant",
+    "slug": "by-the-docks-seafood-restaurant",
     "category": "seafood",
     "metros": [
       "philly"
@@ -2436,8 +2436,8 @@
     "toastUrl": "https://order.toasttab.com/online/by-the-docks-seafood-restaurant-3321-eastern-blvd"
   },
   {
-    "name": "Hookers Seafood Joint (Harrisburg) 405 Walnut Street",
-    "slug": "hookersseafoodjointharrisburg405walnutst",
+    "name": "Hookers Seafood Joint (Harrisburg)",
+    "slug": "hookers-seafood-joint-harrisburg",
     "category": "seafood",
     "metros": [
       "philly"
@@ -2445,8 +2445,8 @@
     "toastUrl": "https://order.toasttab.com/online/hookersharrisburg"
   },
   {
-    "name": "Roe Seafood Dining & Fish Market 5374 E 2nd St",
-    "slug": "roeseafooddiningfishmarket5374e2ndst",
+    "name": "Roe Seafood Dining & Fish Market",
+    "slug": "roe-seafood-dining-fish-market",
     "category": "seafood",
     "metros": [
       "philly"
@@ -2490,8 +2490,8 @@
     "toastUrl": "https://order.toasttab.com/online/seasons-regions-seafood-grill"
   },
   {
-    "name": "Castaway's Seafood and Grill 337 North Alister Street",
-    "slug": "castawaysseafoodandgrill337northalisters",
+    "name": "Castaway's Seafood and Grill",
+    "slug": "castaway-s-seafood-and-grill",
     "category": "seafood",
     "metros": [
       "philly"
@@ -2508,8 +2508,8 @@
     "toastUrl": "https://order.toasttab.com/online/smithtown-seafood-west-6th-501-w-6th-st"
   },
   {
-    "name": "The Greek Corner 2366 Massachusetts Avenue",
-    "slug": "thegreekcorner2366massachusettsavenue",
+    "name": "The Greek Corner",
+    "slug": "the-greek-corner",
     "category": "mediterranean",
     "metros": [
       "philly"
@@ -2517,8 +2517,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-greek-corner-2366-massachusetts-avenue"
   },
   {
-    "name": "Opa Greek Yeeros 378 Highland Ave",
-    "slug": "opagreekyeeros378highlandave",
+    "name": "Opa Greek Yeeros",
+    "slug": "opa-greek-yeeros",
     "category": "mediterranean",
     "metros": [
       "philly"
@@ -2652,8 +2652,8 @@
     "toastUrl": "https://order.toasttab.com/online/greko-greek-street-food"
   },
   {
-    "name": "El Fuerte de Loreto 1412s 5th st Philadelphia pa 19147",
-    "slug": "elfuertedeloreto1412s5thstphiladelphiapa",
+    "name": "El Fuerte de Loreto 1412s 5th st Philadelphia pa",
+    "slug": "el-fuerte-de-loreto-1412s-5th-st-philadelphia-pa",
     "category": "restaurant",
     "metros": [
       "philly"
@@ -2661,8 +2661,8 @@
     "toastUrl": "https://order.toasttab.com/online/el-fuerte-710-w-oregon-ave"
   },
   {
-    "name": "MilkBoy - Philadelphia",
-    "slug": "milkboy-philadelphia",
+    "name": "MilkBoy",
+    "slug": "milkboy",
     "category": "restaurant",
     "metros": [
       "philly"
@@ -2679,8 +2679,8 @@
     "toastUrl": "https://order.toasttab.com/online/crave-breakfast-philly-cheesesteaks-785-hamburg-turnpike"
   },
   {
-    "name": "Philadelphia Devon and Blakely - 1801 Market ST",
-    "slug": "philadelphiadevonandblakely-1801marketst",
+    "name": "Philadelphia Devon and Blakely",
+    "slug": "philadelphia-devon-and-blakely",
     "category": "restaurant",
     "metros": [
       "philly"
@@ -2688,8 +2688,8 @@
     "toastUrl": "https://order.toasttab.com/online/devon-and-blakely-philadelphia"
   },
   {
-    "name": "Bushmill Express -834 Old Philadelphia Road, Suite A",
-    "slug": "bushmillexpress-834oldphiladelphiaroadsu",
+    "name": "Bushmill Express",
+    "slug": "bushmill-express",
     "category": "restaurant",
     "metros": [
       "philly"
@@ -2742,8 +2742,8 @@
     "toastUrl": "https://order.toasttab.com/online/hello-juice-smoothie-kirkwood"
   },
   {
-    "name": "Juice World 89 Passaic St",
-    "slug": "juiceworld89passaicst",
+    "name": "Juice World",
+    "slug": "juice-world",
     "category": "juice",
     "metros": [
       "philly"

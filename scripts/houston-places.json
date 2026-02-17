@@ -746,8 +746,8 @@
     "toastUrl": "https://order.toasttab.com/online/diceystavern"
   },
   {
-    "name": "Trinity Street Food 5709 Woodway Dr Suite J",
-    "slug": "trinitystreetfood5709woodwaydrsuitej",
+    "name": "Trinity Street Food",
+    "slug": "trinity-street-food",
     "category": "restaurant",
     "metros": [
       "houston"
@@ -980,8 +980,8 @@
     "toastUrl": "https://order.toasttab.com/online/froyo-life-montrose"
   },
   {
-    "name": "Ms So Food Truck at The Association, 39 West Main St",
-    "slug": "mssofoodtruckattheassociation39westmains",
+    "name": "Ms So Food Truck at The Association",
+    "slug": "ms-so-food-truck-at-the-association",
     "category": "restaurant",
     "metros": [
       "houston"
@@ -989,8 +989,8 @@
     "toastUrl": "https://order.toasttab.com/online/msso-food-truck"
   },
   {
-    "name": "Ruby's Fast Food 4551 N Pulaski Road",
-    "slug": "rubysfastfood4551npulaskiroad",
+    "name": "Ruby's Fast Food",
+    "slug": "ruby-s-fast-food",
     "category": "restaurant",
     "metros": [
       "houston"
@@ -998,8 +998,8 @@
     "toastUrl": "https://order.toasttab.com/online/rubys-fast-food-3740-w-montrose-ave"
   },
   {
-    "name": "Katz's - Montrose 616 Westheimer Rd",
-    "slug": "katzs-montrose616westheimerrd",
+    "name": "Katz's - Montrose",
+    "slug": "katz-s-montrose",
     "category": "restaurant",
     "metros": [
       "houston"
@@ -1106,8 +1106,8 @@
     "toastUrl": "https://order.toasttab.com/online/linkingheightsstpete"
   },
   {
-    "name": "Collina's Italian Cafe- Heights 502 West 19th Street",
-    "slug": "collinasitaliancafe-heights502west19thst",
+    "name": "Collina's Italian Cafe- Heights",
+    "slug": "collina-s-italian-cafe-heights",
     "category": "cafe",
     "metros": [
       "houston"
@@ -1160,8 +1160,8 @@
     "toastUrl": "https://order.toasttab.com/online/roosters-huber-heights"
   },
   {
-    "name": "Dripped Birria - Midtown",
-    "slug": "drippedbirria-midtown",
+    "name": "Dripped Birria",
+    "slug": "dripped-birria",
     "category": "restaurant",
     "metros": [
       "houston"
@@ -1205,8 +1205,8 @@
     "toastUrl": "https://order.toasttab.com/online/midtownsocial"
   },
   {
-    "name": "Midtown Vegan Deli and Market 5071 E 5th St",
-    "slug": "midtownvegandeliandmarket5071e5thst",
+    "name": "Midtown Vegan Deli and Market",
+    "slug": "midtown-vegan-deli-and-market",
     "category": "deli",
     "metros": [
       "houston"
@@ -1268,8 +1268,8 @@
     "toastUrl": "https://order.toasttab.com/online/midtownsportsgrill"
   },
   {
-    "name": "Warehouse at Midtown 1418 Laurens Road",
-    "slug": "warehouseatmidtown1418laurensroad",
+    "name": "Warehouse at Midtown",
+    "slug": "warehouse-at-midtown",
     "category": "restaurant",
     "metros": [
       "houston"
@@ -1295,8 +1295,8 @@
     "toastUrl": "https://order.toasttab.com/online/local-food-rice-village"
   },
   {
-    "name": "Rice Village Cafe 2512 Rice Blvd",
-    "slug": "ricevillagecafe2512riceblvd",
+    "name": "Rice Village Cafe",
+    "slug": "rice-village-cafe",
     "category": "cafe",
     "metros": [
       "houston"
@@ -1376,8 +1376,8 @@
     "toastUrl": "https://order.toasttab.com/online/veganonthefly45st"
   },
   {
-    "name": "Vegan International Co 13751 N Nebraska Ave",
-    "slug": "veganinternationalco13751nnebraskaave",
+    "name": "Vegan International Co",
+    "slug": "vegan-international-co",
     "category": "vegan",
     "metros": [
       "houston"
@@ -1466,8 +1466,8 @@
     "toastUrl": "https://order.toasttab.com/online/ramenwell-3378-18th-st"
   },
   {
-    "name": "O Ramen 131 North Grand Avenue",
-    "slug": "oramen131northgrandavenue",
+    "name": "O Ramen",
+    "slug": "o-ramen",
     "category": "japanese",
     "metros": [
       "houston"
@@ -1475,8 +1475,8 @@
     "toastUrl": "https://order.toasttab.com/online/o-ramen-131-north-grand-avenue"
   },
   {
-    "name": "Oh! Ramen 341 Wantagh Ave",
-    "slug": "ohramen341wantaghave",
+    "name": "Oh! Ramen",
+    "slug": "oh-ramen",
     "category": "japanese",
     "metros": [
       "houston"
@@ -1511,8 +1511,8 @@
     "toastUrl": "https://order.toasttab.com/online/kindeehouston"
   },
   {
-    "name": "Nua Thai Restaurant 2020 Louisiana Street",
-    "slug": "nuathairestaurant2020louisianastreet",
+    "name": "Nua Thai Restaurant",
+    "slug": "nua-thai-restaurant",
     "category": "thai",
     "metros": [
       "houston"
@@ -1547,8 +1547,8 @@
     "toastUrl": "https://order.toasttab.com/online/yummy-pho-bone"
   },
   {
-    "name": "Chalong Thai Eatery 2513 Bagby St",
-    "slug": "chalongthaieatery2513bagbyst",
+    "name": "Chalong Thai Eatery",
+    "slug": "chalong-thai-eatery",
     "category": "thai",
     "metros": [
       "houston"
@@ -1583,8 +1583,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-breakfast-klub-3711-travis-st"
   },
   {
-    "name": "Hanz Diner - Houston",
-    "slug": "hanzdiner-houston",
+    "name": "Hanz Diner",
+    "slug": "hanz-diner",
     "category": "restaurant",
     "metros": [
       "houston"
@@ -1610,8 +1610,8 @@
     "toastUrl": "https://order.toasttab.com/online/bohemeos"
   },
   {
-    "name": "HTX Bosscat - Houston",
-    "slug": "htxbosscat-houston",
+    "name": "HTX Bosscat",
+    "slug": "htx-bosscat",
     "category": "restaurant",
     "metros": [
       "houston"
@@ -1910,8 +1910,8 @@
     ]
   },
   {
-    "name": "Hillstone - Houston",
-    "slug": "hillstone-houston",
+    "name": "Hillstone",
+    "slug": "hillstone",
     "category": "restaurant",
     "metros": [
       "houston"
@@ -2161,8 +2161,8 @@
     "websiteOrderUrl": "https://ploughmansdeli.getbento.com/online-ordering/"
   },
   {
-    "name": "PRIVATE DINING 2817 WEST DALLAS STREET HOUSTON TX 77019",
-    "slug": "privatedining2817westdallasstreethouston",
+    "name": "PRIVATE DINING 2817 WEST DALLAS STREET HOUSTON TX",
+    "slug": "private-dining-2817-west-dallas-street-houston-tx",
     "category": "restaurant",
     "metros": [
       "houston"
@@ -2213,8 +2213,8 @@
     "websiteOrderUrl": "https://www.getbento.com/products/online-ordering/"
   },
   {
-    "name": "IEC Restaurant - HOUSTON, TX",
-    "slug": "iecrestaurant-houstontx",
+    "name": "IEC Restaurant",
+    "slug": "iec-restaurant",
     "category": "restaurant",
     "metros": [
       "houston"
@@ -2222,8 +2222,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/iec-houston"
   },
   {
-    "name": "CHIMAC - HOUSTON, TX",
-    "slug": "chimac-houstontx",
+    "name": "CHIMAC",
+    "slug": "chimac",
     "category": "restaurant",
     "metros": [
       "houston"
@@ -2231,8 +2231,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/chimac-houston"
   },
   {
-    "name": "CLAWDADDY - HOUSTON, TX",
-    "slug": "clawdaddy-houstontx",
+    "name": "CLAWDADDY",
+    "slug": "clawdaddy",
     "category": "restaurant",
     "metros": [
       "houston"
@@ -2240,8 +2240,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/clawdaddy-houston"
   },
   {
-    "name": "THE ALLEY WESTCHASE - HOUSTON, TX",
-    "slug": "thealleywestchase-houstontx",
+    "name": "THE ALLEY WESTCHASE",
+    "slug": "the-alley-westchase",
     "category": "restaurant",
     "metros": [
       "houston"
@@ -2249,8 +2249,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/the-alley-westchase-houston"
   },
   {
-    "name": "DOMAIN RESTAURANT & LOUNGE - HOUSTON, TX",
-    "slug": "domainrestaurantlounge-houstontx",
+    "name": "DOMAIN RESTAURANT & LOUNGE",
+    "slug": "domain-restaurant-lounge",
     "category": "restaurant",
     "metros": [
       "houston"
@@ -2258,8 +2258,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/domain-restaurant-lounge-houston"
   },
   {
-    "name": "SWEET SPOT CAFE - HOUSTON, TX",
-    "slug": "sweetspotcafe-houstontx",
+    "name": "SWEET SPOT CAFE",
+    "slug": "sweet-spot-cafe",
     "category": "cafe",
     "metros": [
       "houston"
@@ -2267,8 +2267,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/sweet-spot-cafe-houston"
   },
   {
-    "name": "SAYAD GRILL - HOUSTON, TX",
-    "slug": "sayadgrill-houstontx",
+    "name": "SAYAD GRILL",
+    "slug": "sayad-grill",
     "category": "restaurant",
     "metros": [
       "houston"
@@ -2276,8 +2276,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/sayad-grill-houston"
   },
   {
-    "name": "San Vuon Restaurant & Cafe - Houston, TX",
-    "slug": "sanvuonrestaurantcafe-houstontx",
+    "name": "San Vuon Restaurant & Cafe",
+    "slug": "san-vuon-restaurant-cafe",
     "category": "cafe",
     "metros": [
       "houston"
@@ -2285,8 +2285,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/san-vuon-restaurant--cafe-houston"
   },
   {
-    "name": "7TACO - Houston, TX",
-    "slug": "7taco-houstontx",
+    "name": "7TACO",
+    "slug": "7taco",
     "category": "mexican",
     "metros": [
       "houston"
@@ -2294,8 +2294,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/tornado-taco-houston"
   },
   {
-    "name": "KRISP KOREAN FRIED CHICKEN - HOUSTON, TX",
-    "slug": "krispkoreanfriedchicken-houstontx",
+    "name": "KRISP KOREAN FRIED CHICKEN",
+    "slug": "krisp-korean-fried-chicken",
     "category": "korean",
     "metros": [
       "houston"
@@ -2312,8 +2312,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/barbar-grill-houston"
   },
   {
-    "name": "KOJAK'S RESTAURANT - HOUSTON, TX",
-    "slug": "kojaksrestaurant-houstontx",
+    "name": "KOJAK'S RESTAURANT",
+    "slug": "kojak-s-restaurant",
     "category": "restaurant",
     "metros": [
       "houston"
@@ -2321,8 +2321,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/kojaks-restaurant--houston"
   },
   {
-    "name": "SAVOY RESTAURANT & BANQUET - HOUSTON, TX",
-    "slug": "savoyrestaurantbanquet-houstontx",
+    "name": "SAVOY RESTAURANT & BANQUET",
+    "slug": "savoy-restaurant-banquet",
     "category": "restaurant",
     "metros": [
       "houston"
@@ -2330,8 +2330,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/savoy-restaurant--banqu-houston/5QK7E5W70K1RJ"
   },
   {
-    "name": "Filipiniana Restaurant - HOUSTON, TX",
-    "slug": "filipinianarestaurant-houstontx",
+    "name": "Filipiniana Restaurant",
+    "slug": "filipiniana-restaurant",
     "category": "restaurant",
     "metros": [
       "houston"
@@ -2339,8 +2339,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/filipiniana-houston"
   },
   {
-    "name": "Sparkles Burger & Daiqur - HOUSTON, TX",
-    "slug": "sparklesburgerdaiqur-houstontx",
+    "name": "Sparkles Burger & Daiqur",
+    "slug": "sparkles-burger-daiqur",
     "category": "burgers",
     "metros": [
       "houston"
@@ -2348,8 +2348,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/sparkles-burger--daiqur-houston"
   },
   {
-    "name": "GOOD TIMES CAFE - HOUSTON, TX",
-    "slug": "goodtimescafe-houstontx",
+    "name": "GOOD TIMES CAFE",
+    "slug": "good-times-cafe",
     "category": "cafe",
     "metros": [
       "houston"
@@ -2357,8 +2357,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/good-times-cafe-houston"
   },
   {
-    "name": "CAFE ADEL - HOUSTON, TX",
-    "slug": "cafeadel-houstontx",
+    "name": "CAFE ADEL",
+    "slug": "cafe-adel",
     "category": "cafe",
     "metros": [
       "houston"
@@ -2366,8 +2366,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/cafe-adel-houston"
   },
   {
-    "name": "K TEA BOBA - HOUSTON, TX",
-    "slug": "kteaboba-houstontx",
+    "name": "K TEA BOBA",
+    "slug": "k-tea-boba",
     "category": "tea",
     "metros": [
       "houston"
@@ -2375,8 +2375,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/k-tea-boba-houston"
   },
   {
-    "name": "BAO BAO BOBA - HOUSTON, TX",
-    "slug": "baobaoboba-houstontx",
+    "name": "BAO BAO BOBA",
+    "slug": "bao-bao-boba",
     "category": "tea",
     "metros": [
       "houston"
@@ -2384,8 +2384,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/bao-bao-boba-houston"
   },
   {
-    "name": "THE PHILLY GRILL - HOUSTON, TX",
-    "slug": "thephillygrill-houstontx",
+    "name": "THE PHILLY GRILL",
+    "slug": "the-philly-grill",
     "category": "restaurant",
     "metros": [
       "houston"
@@ -2429,8 +2429,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-house-tx-austin-11150-research-boulevard"
   },
   {
-    "name": "Poke Sushi 1720 Washington Road",
-    "slug": "pokesushi1720washingtonroad",
+    "name": "Poke Sushi",
+    "slug": "poke-sushi",
     "category": "japanese",
     "metros": [
       "houston"
@@ -2474,8 +2474,8 @@
     "toastUrl": "https://order.toasttab.com/online/chow-wok"
   },
   {
-    "name": "Poke Dot 17921 MacArthur Blvd",
-    "slug": "pokedot17921macarthurblvd",
+    "name": "Poke Dot",
+    "slug": "poke-dot",
     "category": "japanese",
     "metros": [
       "houston"
@@ -2483,8 +2483,8 @@
     "toastUrl": "https://order.toasttab.com/online/irvinepokedot"
   },
   {
-    "name": "NEW Siesta Poke 5206 Ocean Boulevard",
-    "slug": "newsiestapoke5206oceanboulevard",
+    "name": "NEW Siesta Poke",
+    "slug": "new-siesta-poke",
     "category": "japanese",
     "metros": [
       "houston"
@@ -2492,8 +2492,8 @@
     "toastUrl": "https://order.toasttab.com/online/new-siesta-poke-5206-ocean-boulevard-jawga"
   },
   {
-    "name": "Poke Burri 3231 powelton ave",
-    "slug": "pokeburri3231poweltonave",
+    "name": "Poke Burri",
+    "slug": "poke-burri",
     "category": "japanese",
     "metros": [
       "houston"
@@ -2636,8 +2636,8 @@
     "toastUrl": "https://order.toasttab.com/online/swamp-city-seafood-and-wings-cajun-restaurant-300-w-little-york-rd"
   },
   {
-    "name": "The Greek Corner 2366 Massachusetts Avenue",
-    "slug": "thegreekcorner2366massachusettsavenue",
+    "name": "The Greek Corner",
+    "slug": "the-greek-corner",
     "category": "mediterranean",
     "metros": [
       "houston"
@@ -2681,8 +2681,8 @@
     "toastUrl": "https://order.toasttab.com/online/mrgreekofbuffalo"
   },
   {
-    "name": "Opa Greek Yeeros 378 Highland Ave",
-    "slug": "opagreekyeeros378highlandave",
+    "name": "Opa Greek Yeeros",
+    "slug": "opa-greek-yeeros",
     "category": "mediterranean",
     "metros": [
       "houston"
@@ -2735,8 +2735,8 @@
     "toastUrl": "https://order.toasttab.com/online/greek-town-gyros"
   },
   {
-    "name": "Traveler's Table - 520 Westheimer Rd, Houston, TX",
-    "slug": "travelerstable-520westheimerrdhoustontx",
+    "name": "Traveler's Table",
+    "slug": "traveler-s-table",
     "category": "restaurant",
     "metros": [
       "houston"
@@ -2771,8 +2771,8 @@
     "toastUrl": "https://order.toasttab.com/online/hello-juice-smoothie-kirkwood"
   },
   {
-    "name": "Juice World 89 Passaic St",
-    "slug": "juiceworld89passaicst",
+    "name": "Juice World",
+    "slug": "juice-world",
     "category": "juice",
     "metros": [
       "houston"
@@ -2798,8 +2798,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-juice-room-7127-germantown-ave"
   },
   {
-    "name": "Sweet Memes - Houston",
-    "slug": "sweetmemes-houston",
+    "name": "Sweet Memes",
+    "slug": "sweet-memes",
     "category": "restaurant",
     "metros": [
       "houston"

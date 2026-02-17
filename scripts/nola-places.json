@@ -559,8 +559,8 @@
     "toastUrl": "https://order.toasttab.com/online/wdy-finest"
   },
   {
-    "name": "Home - The Quarter on Spring – Eureka Springs Bar ",
-    "slug": "home-thequarteronspringeurekaspringsbar",
+    "name": "Home - The Quarter on Spring – Eureka Springs Bar",
+    "slug": "home-the-quarter-on-spring-eureka-springs-bar",
     "category": "restaurant",
     "metros": [
       "nola"
@@ -619,8 +619,8 @@
     "toastUrl": "https://order.toasttab.com/online/sofia-new-orleans"
   },
   {
-    "name": "ORLEANS ON CARROLL 807 Carroll Street",
-    "slug": "orleansoncarroll807carrollstreet",
+    "name": "ORLEANS ON CARROLL",
+    "slug": "orleans-on-carroll",
     "category": "restaurant",
     "metros": [
       "nola"
@@ -628,8 +628,8 @@
     "toastUrl": "https://order.toasttab.com/online/orleans-on-carroll-807-carroll-street"
   },
   {
-    "name": "Walk-On's New Orleans, LA New Orleans, LA",
-    "slug": "walk-onsneworleanslaneworleansla",
+    "name": "Walk-On's New Orleans, LA New Orleans",
+    "slug": "walk-on-s-new-orleans-la-new-orleans",
     "category": "restaurant",
     "metros": [
       "nola"
@@ -772,8 +772,8 @@
     "toastUrl": "https://order.toasttab.com/online/bourbon-st-cafe-211-east-2nd-street"
   },
   {
-    "name": "Huey's A Southern Cafe 115 East River Street",
-    "slug": "hueysasoutherncafe115eastriverstreet",
+    "name": "Huey's A Southern Cafe",
+    "slug": "huey-s-a-southern-cafe",
     "category": "cafe",
     "metros": [
       "nola"
@@ -880,8 +880,8 @@
     "toastUrl": "https://order.toasttab.com/online/pizza-artista-lafayette"
   },
   {
-    "name": "The Original Pizza Presto 9450 Whittier Blvd",
-    "slug": "theoriginalpizzapresto9450whittierblvd",
+    "name": "The Original Pizza Presto",
+    "slug": "the-original-pizza-presto",
     "category": "pizza",
     "metros": [
       "nola"
@@ -898,8 +898,8 @@
     "toastUrl": "https://order.toasttab.com/online/fqbistro"
   },
   {
-    "name": "Bones' French Quarter Bar and Grill 14766 Manchester Rd",
-    "slug": "bonesfrenchquarterbarandgrill14766manche",
+    "name": "Bones' French Quarter Bar and Grill",
+    "slug": "bones-french-quarter-bar-and-grill",
     "category": "restaurant",
     "metros": [
       "nola"
@@ -934,8 +934,8 @@
     "toastUrl": "https://order.toasttab.com/online/lea-french-street-food-2-70-east-lake-street"
   },
   {
-    "name": "French Market Express 5109 University Pkwy",
-    "slug": "frenchmarketexpress5109universitypkwy",
+    "name": "French Market Express",
+    "slug": "french-market-express",
     "category": "restaurant",
     "metros": [
       "nola"
@@ -979,8 +979,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-bywater"
   },
   {
-    "name": "Brightwaters Restaurant and Wine Bar 180 5th St",
-    "slug": "brightwatersrestaurantandwinebar1805thst",
+    "name": "Brightwaters Restaurant and Wine Bar",
+    "slug": "brightwaters-restaurant-and-wine-bar",
     "category": "restaurant",
     "metros": [
       "nola"
@@ -1042,8 +1042,8 @@
     "toastUrl": "https://order.toasttab.com/online/salt-waterfront-restaurant"
   },
   {
-    "name": "The Rum House Caribbean Taqueria 3128 Magazine Street",
-    "slug": "therumhousecaribbeantaqueria3128magazine",
+    "name": "The Rum House Caribbean Taqueria",
+    "slug": "the-rum-house-caribbean-taqueria",
     "category": "mexican",
     "metros": [
       "nola"
@@ -1051,8 +1051,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-rum-house-caribbean-taqueria-3128-magazine-street"
   },
   {
-    "name": "Basin Seafood and Spirits 3222 Magazine Street",
-    "slug": "basinseafoodandspirits3222magazinestreet",
+    "name": "Basin Seafood and Spirits",
+    "slug": "basin-seafood-and-spirits",
     "category": "seafood",
     "metros": [
       "nola"
@@ -1105,8 +1105,8 @@
     "toastUrl": "https://order.toasttab.com/online/zocalo-street-food-tequila-1474-barclay-pointe-blvd"
   },
   {
-    "name": "Today Food - 601 Kearny Street, San Francisco",
-    "slug": "todayfood-601kearnystreetsanfrancisco",
+    "name": "Today Food",
+    "slug": "today-food",
     "category": "restaurant",
     "metros": [
       "nola"
@@ -1140,8 +1140,8 @@
     ]
   },
   {
-    "name": "Union Sandwich Co. 101 North Union Street",
-    "slug": "unionsandwichco101northunionstreet",
+    "name": "Union Sandwich Co.",
+    "slug": "union-sandwich-co",
     "category": "deli",
     "metros": [
       "nola"
@@ -1167,8 +1167,8 @@
     "toastUrl": "https://order.toasttab.com/online/tuk-tuk-thai-isan-street-food"
   },
   {
-    "name": "JJ Thai Street Food 1715 W CHICAGO AVE",
-    "slug": "jjthaistreetfood1715wchicagoave",
+    "name": "JJ Thai Street Food",
+    "slug": "jj-thai-street-food",
     "category": "thai",
     "metros": [
       "nola"
@@ -1239,8 +1239,8 @@
     "toastUrl": "https://order.toasttab.com/online/uptownansonia"
   },
   {
-    "name": "Uptown Pizza 323 West Lake Street",
-    "slug": "uptownpizza323westlakestreet",
+    "name": "Uptown Pizza",
+    "slug": "uptown-pizza",
     "category": "pizza",
     "metros": [
       "nola"
@@ -1275,8 +1275,8 @@
     "toastUrl": "https://order.toasttab.com/online/sweet-p-uptown-corner"
   },
   {
-    "name": "Uptown Barrel Room 2011 Main Street",
-    "slug": "uptownbarrelroom2011mainstreet",
+    "name": "Uptown Barrel Room",
+    "slug": "uptown-barrel-room",
     "category": "restaurant",
     "metros": [
       "nola"
@@ -1320,8 +1320,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-real-new-orleans-style-restaurant-1700-fm-1431"
   },
   {
-    "name": "El Nopal Mexican Restaurant 627 W Division St",
-    "slug": "elnopalmexicanrestaurant627wdivisionst",
+    "name": "El Nopal Mexican Restaurant",
+    "slug": "el-nopal-mexican-restaurant",
     "category": "mexican",
     "metros": [
       "nola"
@@ -1491,8 +1491,8 @@
     "toastUrl": "https://order.toasttab.com/online/peninsula-soul-food-4611-36th-ave-sw"
   },
   {
-    "name": "The Soul Food Bistro - Westside 5310 Lenox Ave suite 1",
-    "slug": "thesoulfoodbistro-westside5310lenoxavesu",
+    "name": "The Soul Food Bistro",
+    "slug": "the-soul-food-bistro",
     "category": "southern",
     "metros": [
       "nola"
@@ -1590,8 +1590,8 @@
     "toastUrl": "https://order.toasttab.com/online/pure-soul-n-a"
   },
   {
-    "name": "Northern Soul 700 1st St",
-    "slug": "northernsoul7001stst",
+    "name": "Northern Soul",
+    "slug": "northern-soul",
     "category": "restaurant",
     "metros": [
       "nola"
@@ -2015,8 +2015,8 @@
     "websiteOrderUrl": "https://checkersandrallys.olo.com/menu/7416-n-galvez"
   },
   {
-    "name": "Pizza Delicious Menu - 617 Piety St, New Orleans, LA 70117",
-    "slug": "pizzadeliciousmenu-617pietystneworleansl",
+    "name": "Pizza Delicious Menu",
+    "slug": "pizza-delicious-menu",
     "category": "pizza",
     "metros": [
       "nola"
@@ -2152,8 +2152,8 @@
     "websiteOrderUrl": "https://www.getbento.com/products/preorder-catering/"
   },
   {
-    "name": "BENNACHIN RESTAURANT - NEW ORLEANS, LA",
-    "slug": "bennachinrestaurant-neworleansla",
+    "name": "BENNACHIN RESTAURANT",
+    "slug": "bennachin-restaurant",
     "category": "restaurant",
     "metros": [
       "nola"
@@ -2161,8 +2161,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/bennachin-restaurant-new-orleans"
   },
   {
-    "name": "RED ROOSTER - NEW ORLEANS, LA",
-    "slug": "redrooster-neworleansla",
+    "name": "RED ROOSTER",
+    "slug": "red-rooster",
     "category": "restaurant",
     "metros": [
       "nola"
@@ -2188,8 +2188,8 @@
     "websiteOrderUrl": "https://blog.clover.com/10-restaurants-to-try-in-new-orleans-now/"
   },
   {
-    "name": "BROADVIEW SEAFOOD - NEW ORLEANS, LA",
-    "slug": "broadviewseafood-neworleansla",
+    "name": "BROADVIEW SEAFOOD",
+    "slug": "broadview-seafood",
     "category": "seafood",
     "metros": [
       "nola"
@@ -2197,8 +2197,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/broadview-seafood-new-orleans"
   },
   {
-    "name": "NONNO'S CAJUN CUISINE - NEW ORLEANS, LA",
-    "slug": "nonnoscajuncuisine-neworleansla",
+    "name": "NONNO'S CAJUN CUISINE",
+    "slug": "nonno-s-cajun-cuisine",
     "category": "southern",
     "metros": [
       "nola"
@@ -2206,8 +2206,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/nonnos-cajun-cuisine-new-orleans/DSAHM0CWSMMHG"
   },
   {
-    "name": "LEBANON'S CAFE - NEW ORLEANS, LA",
-    "slug": "lebanonscafe-neworleansla",
+    "name": "LEBANON'S CAFE",
+    "slug": "lebanon-s-cafe",
     "category": "cafe",
     "metros": [
       "nola"
@@ -2250,8 +2250,8 @@
     "websiteOrderUrl": "https://partners.clover.com/santander/resources/restaurant/4deliveryservicestotry/"
   },
   {
-    "name": "New York Diner - CHARLOTTE, NC",
-    "slug": "newyorkdiner-charlottenc",
+    "name": "New York Diner",
+    "slug": "new-york-diner",
     "category": "restaurant",
     "metros": [
       "nola"
@@ -2304,8 +2304,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-og-downtown-161-se-1st-street"
   },
   {
-    "name": "Poke Burri 3231 powelton ave",
-    "slug": "pokeburri3231poweltonave",
+    "name": "Poke Burri",
+    "slug": "poke-burri",
     "category": "japanese",
     "metros": [
       "nola"
@@ -2313,8 +2313,8 @@
     "toastUrl": "https://order.toasttab.com/online/pokeburripowelton"
   },
   {
-    "name": "Poke Sushi 1720 Washington Road",
-    "slug": "pokesushi1720washingtonroad",
+    "name": "Poke Sushi",
+    "slug": "poke-sushi",
     "category": "japanese",
     "metros": [
       "nola"
@@ -2322,8 +2322,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-sushi-1720-washington-road"
   },
   {
-    "name": "NEW Siesta Poke 5206 Ocean Boulevard",
-    "slug": "newsiestapoke5206oceanboulevard",
+    "name": "NEW Siesta Poke",
+    "slug": "new-siesta-poke",
     "category": "japanese",
     "metros": [
       "nola"
@@ -2340,8 +2340,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-poke-west-loop-1100-w-madison"
   },
   {
-    "name": "Poke OG @ 1800 143 NW 23 ST",
-    "slug": "pokeog1800143nw23st",
+    "name": "Poke OG @ 1800",
+    "slug": "poke-og-1800",
     "category": "japanese",
     "metros": [
       "nola"
@@ -2430,8 +2430,8 @@
     "toastUrl": "https://order.toasttab.com/online/pikipokeastoria"
   },
   {
-    "name": "Poke-City Cambridge 1722 Massachusetts Avenue",
-    "slug": "poke-citycambridge1722massachusettsavenu",
+    "name": "Poke-City Cambridge",
+    "slug": "poke-city-cambridge",
     "category": "japanese",
     "metros": [
       "nola"
@@ -2439,8 +2439,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-city"
   },
   {
-    "name": "Fiery Crab-NEW ORLEANS 925 Common Street",
-    "slug": "fierycrab-neworleans925commonstreet",
+    "name": "Fiery Crab",
+    "slug": "fiery-crab",
     "category": "seafood",
     "metros": [
       "nola"
@@ -2466,8 +2466,8 @@
     "toastUrl": "https://order.toasttab.com/online/boil-seafood-house"
   },
   {
-    "name": "Porgy's Seafood Market 236 North Carrollton Avenue",
-    "slug": "porgysseafoodmarket236northcarrolltonave",
+    "name": "Porgy's Seafood Market",
+    "slug": "porgy-s-seafood-market",
     "category": "seafood",
     "metros": [
       "nola"
@@ -2520,8 +2520,8 @@
     "toastUrl": "https://order.toasttab.com/online/grilla-224-broadway"
   },
   {
-    "name": "The Greek Corner 2366 Massachusetts Avenue",
-    "slug": "thegreekcorner2366massachusettsavenue",
+    "name": "The Greek Corner",
+    "slug": "the-greek-corner",
     "category": "mediterranean",
     "metros": [
       "nola"
@@ -2529,8 +2529,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-greek-corner-2366-massachusetts-avenue"
   },
   {
-    "name": "Opa Greek Yeeros 378 Highland Ave",
-    "slug": "opagreekyeeros378highlandave",
+    "name": "Opa Greek Yeeros",
+    "slug": "opa-greek-yeeros",
     "category": "mediterranean",
     "metros": [
       "nola"
@@ -2538,8 +2538,8 @@
     "toastUrl": "https://order.toasttab.com/online/opagreekyeeros"
   },
   {
-    "name": "simply greek 44 Centennial Drive",
-    "slug": "simplygreek44centennialdrive",
+    "name": "simply greek",
+    "slug": "simply-greek",
     "category": "mediterranean",
     "metros": [
       "nola"
@@ -2583,8 +2583,8 @@
     "toastUrl": "https://order.toasttab.com/online/elagreekkitchen"
   },
   {
-    "name": "The Greek Taverna 1903 Staples Mill Rd",
-    "slug": "thegreektaverna1903staplesmillrd",
+    "name": "The Greek Taverna",
+    "slug": "the-greek-taverna",
     "category": "mediterranean",
     "metros": [
       "nola"
@@ -2691,8 +2691,8 @@
     "toastUrl": "https://order.toasttab.com/online/juice-crafters-downtown-la"
   },
   {
-    "name": "Juice World 89 Passaic St",
-    "slug": "juiceworld89passaicst",
+    "name": "Juice World",
+    "slug": "juice-world",
     "category": "juice",
     "metros": [
       "nola"

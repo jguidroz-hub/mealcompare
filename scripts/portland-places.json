@@ -545,8 +545,8 @@
     "toastUrl": "https://order.toasttab.com/online/portland-party-store"
   },
   {
-    "name": "Gladstone's Pizza 439 Portland Avenue",
-    "slug": "gladstonespizza439portlandavenue",
+    "name": "Gladstone's Pizza",
+    "slug": "gladstone-s-pizza",
     "category": "pizza",
     "metros": [
       "portland"
@@ -554,8 +554,8 @@
     "toastUrl": "https://order.toasttab.com/online/gladstones-pizza-439-portland-avenue"
   },
   {
-    "name": "Portland House of Pizza 1359 Washington Ave",
-    "slug": "portlandhouseofpizza1359washingtonave",
+    "name": "Portland House of Pizza",
+    "slug": "portland-house-of-pizza",
     "category": "pizza",
     "metros": [
       "portland"
@@ -563,8 +563,8 @@
     "toastUrl": "https://order.toasttab.com/online/portland-house-of-pizza-portland"
   },
   {
-    "name": "10 Barrel Portland To-Go",
-    "slug": "10barrelportlandto-go",
+    "name": "10 Barrel Portland New",
+    "slug": "10-barrel-portland-new",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -581,8 +581,8 @@
     "toastUrl": "https://order.toasttab.com/online/pastini-downtown-portland-911-sw-taylor-st"
   },
   {
-    "name": "Oregon Express 336 E 5th St",
-    "slug": "oregonexpress336e5thst",
+    "name": "Oregon Express",
+    "slug": "oregon-express",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -599,8 +599,8 @@
     "toastUrl": "https://order.toasttab.com/online/turnerpizza"
   },
   {
-    "name": "AFURI Izakaya - SE Portland 923 SE 7th Ave",
-    "slug": "afuriizakaya-seportland923se7thave",
+    "name": "AFURI Izakaya - SE Portland",
+    "slug": "afuri-izakaya-se-portland",
     "category": "japanese",
     "metros": [
       "portland"
@@ -617,8 +617,8 @@
     "toastUrl": "https://order.toasttab.com/online/portland-pizza-pub"
   },
   {
-    "name": "Habaneros Portland 707 Northeast Weidler Street",
-    "slug": "habanerosportland707northeastweidlerstre",
+    "name": "Habaneros Portland",
+    "slug": "habaneros-portland",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -680,8 +680,8 @@
     "toastUrl": "https://order.toasttab.com/online/portland-roasting-coffee-pdx-de"
   },
   {
-    "name": "Hostel Cafe 1810 Northwest Glisan Street",
-    "slug": "hostelcafe1810northwestglisanstreet",
+    "name": "Hostel Cafe",
+    "slug": "hostel-cafe",
     "category": "cafe",
     "metros": [
       "portland"
@@ -716,8 +716,8 @@
     "toastUrl": "https://order.toasttab.com/online/churncafepdx"
   },
   {
-    "name": "Proud Mary Cafe- Portland 2012 NE Alberta Street",
-    "slug": "proudmarycafe-portland2012nealbertastree",
+    "name": "Proud Mary Cafe",
+    "slug": "proud-mary-cafe",
     "category": "cafe",
     "metros": [
       "portland"
@@ -824,8 +824,8 @@
     "toastUrl": "https://order.toasttab.com/online/pearls-new-orleans-kitchen-617-ames-street"
   },
   {
-    "name": "Pizza on Pearl 617 Pearl St",
-    "slug": "pizzaonpearl617pearlst",
+    "name": "Pizza on Pearl",
+    "slug": "pizza-on-pearl",
     "category": "pizza",
     "metros": [
       "portland"
@@ -842,8 +842,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-cultured-pearl"
   },
   {
-    "name": "Adrienne's Pizzabar - Stone St 87 Pearl Street",
-    "slug": "adriennespizzabar-stonest87pearlstreet",
+    "name": "Adrienne's Pizzabar - Stone St",
+    "slug": "adrienne-s-pizzabar-stone-st",
     "category": "pizza",
     "metros": [
       "portland"
@@ -878,8 +878,8 @@
     "toastUrl": "https://order.toasttab.com/online/pearlskitchenmidtown"
   },
   {
-    "name": "Wild Child Pizza - Alberta 2032 Northeast Alberta Street",
-    "slug": "wildchildpizza-alberta2032northeastalber",
+    "name": "Wild Child Pizza - Alberta",
+    "slug": "wild-child-pizza-alberta",
     "category": "pizza",
     "metros": [
       "portland"
@@ -887,8 +887,8 @@
     "toastUrl": "https://order.toasttab.com/online/wild-child-pizza-alberta-2032-northeast-alberta-street"
   },
   {
-    "name": "The Bye and Bye 1011 NE Alberta St",
-    "slug": "thebyeandbye1011nealbertast",
+    "name": "The Bye and Bye",
+    "slug": "the-bye-and-bye",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -923,8 +923,8 @@
     "toastUrl": "https://order.toasttab.com/online/green-street-restaurant"
   },
   {
-    "name": "Downtown Gastropub and Restaurant 401 Main Street",
-    "slug": "downtowngastropubandrestaurant401mainstr",
+    "name": "Downtown Gastropub and Restaurant",
+    "slug": "downtown-gastropub-and-restaurant",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -1004,8 +1004,8 @@
     "toastUrl": "https://order.toasttab.com/online/d-carbon-restaurant-hawthorne-142-goffle-road"
   },
   {
-    "name": "Pepino's - Hawthorne 3832 Southeast Hawthorne Boulevard",
-    "slug": "pepinos-hawthorne3832southeasthawthorneb",
+    "name": "Pepino's - Hawthorne",
+    "slug": "pepino-s-hawthorne",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -1031,8 +1031,8 @@
     "toastUrl": "https://order.toasttab.com/online/fried-egg-im-in-love-hawthorne"
   },
   {
-    "name": "Pho Hana Torrance 22815 Hawthorne Blvd",
-    "slug": "phohanatorrance22815hawthorneblvd",
+    "name": "Pho Hana Torrance",
+    "slug": "pho-hana-torrance",
     "category": "vietnamese",
     "metros": [
       "portland"
@@ -1040,8 +1040,8 @@
     "toastUrl": "https://order.toasttab.com/online/pho-hana-torrance-22815-hawthorne-blvd"
   },
   {
-    "name": "Hawthorne's Backyard Bar & Grill 1200 W Hawthorne Ln",
-    "slug": "hawthornesbackyardbargrill1200whawthorne",
+    "name": "Hawthorne's Backyard Bar & Grill",
+    "slug": "hawthorne-s-backyard-bar-grill",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -1058,8 +1058,8 @@
     "toastUrl": "https://order.toasttab.com/online/casa-mia-at-hawthorne-berlin-2421-berlin-turnpike"
   },
   {
-    "name": "Phaya Thai express 4334 SE Hawthorne Blvd",
-    "slug": "phayathaiexpress4334sehawthorneblvd",
+    "name": "Phaya Thai express",
+    "slug": "phaya-thai-express",
     "category": "thai",
     "metros": [
       "portland"
@@ -1094,8 +1094,8 @@
     "toastUrl": "https://order.toasttab.com/online/next-level-burger-hawthorne"
   },
   {
-    "name": "The Dawg House 602 Lafayette Ave. Hawthorne NJ 07506",
-    "slug": "thedawghouse602lafayetteavehawthornenj07",
+    "name": "The Dawg House 602 Lafayette Ave. Hawthorne NJ",
+    "slug": "the-dawg-house-602-lafayette-ave-hawthorne-nj",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -1103,8 +1103,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-dawg-house-2"
   },
   {
-    "name": "Pappous + Yia Yia's Kouzina 6 Division Street",
-    "slug": "pappousyiayiaskouzina6divisionstreet",
+    "name": "Pappous + Yia Yia's Kouzina",
+    "slug": "pappous-yia-yia-s-kouzina",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -1112,8 +1112,8 @@
     "toastUrl": "https://order.toasttab.com/online/pappous-yia-yias-kouzina-6-division-street"
   },
   {
-    "name": "Ava Ava RBL Latin Fusion 13 Division Street",
-    "slug": "avaavarbllatinfusion13divisionstreet",
+    "name": "Ava Ava RBL Latin Fusion",
+    "slug": "ava-ava-rbl-latin-fusion",
     "category": "latin",
     "metros": [
       "portland"
@@ -1121,8 +1121,8 @@
     "toastUrl": "https://order.toasttab.com/online/ava-ava-15-division-street"
   },
   {
-    "name": "Dumpling Time 11 Division Street",
-    "slug": "dumplingtime11divisionstreet",
+    "name": "Dumpling Time",
+    "slug": "dumpling-time",
     "category": "chinese",
     "metros": [
       "portland"
@@ -1130,8 +1130,8 @@
     "toastUrl": "https://order.toasttab.com/online/dumpling-time-11-division-street"
   },
   {
-    "name": "Ta Canijo - Diamond 3010 E Division Street",
-    "slug": "tacanijo-diamond3010edivisionstreet",
+    "name": "Ta Canijo - Diamond",
+    "slug": "ta-canijo-diamond",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -1139,8 +1139,8 @@
     "toastUrl": "https://order.toasttab.com/online/ta-canijo-3010-e-division-street"
   },
   {
-    "name": "La Casita - Waite Park 314 Division Street",
-    "slug": "lacasita-waitepark314divisionstreet",
+    "name": "La Casita - Waite Park",
+    "slug": "la-casita-waite-park",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -1157,8 +1157,8 @@
     "toastUrl": "https://order.toasttab.com/online/noodle-express-n-division-spokane-7514-north-division-street"
   },
   {
-    "name": "El Nopal Mexican Restaurant 627 W Division St",
-    "slug": "elnopalmexicanrestaurant627wdivisionst",
+    "name": "El Nopal Mexican Restaurant",
+    "slug": "el-nopal-mexican-restaurant",
     "category": "mexican",
     "metros": [
       "portland"
@@ -1166,8 +1166,8 @@
     "toastUrl": "https://order.toasttab.com/online/el-nopal-mexican-restaurant"
   },
   {
-    "name": "18 Hands Ale Haus - Fond du Lac 18 East Division Street",
-    "slug": "18handsalehaus-fonddulac18eastdivisionst",
+    "name": "18 Hands Ale Haus Fond Du Lac",
+    "slug": "18-hands-ale-haus-fond-du-lac",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -1175,8 +1175,8 @@
     "toastUrl": "https://order.toasttab.com/online/18-hands-ale-haus-fond-du-lac-18-east-division-street"
   },
   {
-    "name": "The Butcher Shop 57 DIVISION STREET",
-    "slug": "thebutchershop57divisionstreet",
+    "name": "The Butcher Shop",
+    "slug": "the-butcher-shop",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -1193,8 +1193,8 @@
     "toastUrl": "https://order.toasttab.com/online/la-casita-mexican-restaurant-coon-rapids"
   },
   {
-    "name": "Parlor Pizza Bar - West Loop 108 North Green Street",
-    "slug": "parlorpizzabar-westloop108northgreenstre",
+    "name": "Parlor Pizza Bar",
+    "slug": "parlor-pizza-bar",
     "category": "pizza",
     "metros": [
       "portland"
@@ -1220,8 +1220,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-matador-portland-nw-1438-nw-23rd-ave"
   },
   {
-    "name": "Allora 504 NW 9th Ave, Portland OR 97209",
-    "slug": "allora504nw9thaveportlandor97209",
+    "name": "Allora 504 NW 9th Ave, Portland OR",
+    "slug": "allora-504-nw-9th-ave-portland-or",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -1229,8 +1229,8 @@
     "toastUrl": "https://order.toasttab.com/online/allora-504-nw-9th-ave-portland-or-97209"
   },
   {
-    "name": "The Star Portland 1309 NW Hoyt St",
-    "slug": "thestarportland1309nwhoytst",
+    "name": "The Star Portland",
+    "slug": "the-star-portland",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -1238,8 +1238,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-star-portland-1309-nw-hoyt-st"
   },
   {
-    "name": "LeStourgeon Seafood Co. - Portland 1010 Railroad Avenue",
-    "slug": "lestourgeonseafoodco-portland1010railroa",
+    "name": "LeStourgeon Seafood Co.",
+    "slug": "lestourgeon-seafood-co",
     "category": "seafood",
     "metros": [
       "portland"
@@ -1292,8 +1292,8 @@
     "toastUrl": "https://order.toasttab.com/online/southpark-seafood"
   },
   {
-    "name": "Victorico's Mexican Food SE 122nd - Portland",
-    "slug": "victoricosmexicanfoodse122nd-portland",
+    "name": "Victorico's Mexican Food SE 122nd",
+    "slug": "victorico-s-mexican-food-se-122nd",
     "category": "mexican",
     "metros": [
       "portland"
@@ -1301,8 +1301,8 @@
     "toastUrl": "https://order.toasttab.com/online/victorico-mexican-food-se-portland-429-se-122nd-ave"
   },
   {
-    "name": "Amigos Mexican Restaurant & Bar - Portland, ME",
-    "slug": "amigosmexicanrestaurantbar-portlandme",
+    "name": "Amigos Mexican Restaurant & Bar",
+    "slug": "amigos-mexican-restaurant-bar",
     "category": "mexican",
     "metros": [
       "portland"
@@ -1355,8 +1355,8 @@
     "toastUrl": "https://order.toasttab.com/online/forageportland"
   },
   {
-    "name": "Better Half - Portland",
-    "slug": "betterhalf-portland",
+    "name": "Better Half",
+    "slug": "better-half",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -1382,8 +1382,8 @@
     "toastUrl": "https://order.toasttab.com/online/portland-roasting-coffee-pdx-de"
   },
   {
-    "name": "Vegan Van 5155 E 39th Ave",
-    "slug": "veganvan5155e39thave",
+    "name": "Vegan Van",
+    "slug": "vegan-van",
     "category": "vegan",
     "metros": [
       "portland"
@@ -1400,8 +1400,8 @@
     "toastUrl": "https://order.toasttab.com/online/mai-thai-portland"
   },
   {
-    "name": "City Thai Cuisine 6341 SW Capitol Hwy",
-    "slug": "citythaicuisine6341swcapitolhwy",
+    "name": "City Thai Cuisine",
+    "slug": "city-thai-cuisine",
     "category": "thai",
     "metros": [
       "portland"
@@ -1418,8 +1418,8 @@
     "toastUrl": "https://order.toasttab.com/online/esanthaidivision"
   },
   {
-    "name": "Golden Lotus Thai 120 NE Grand Ave Portland Or 97232",
-    "slug": "goldenlotusthai120negrandaveportlandor97",
+    "name": "Golden Lotus Thai 120 NE Grand Ave Portland Or",
+    "slug": "golden-lotus-thai-120-ne-grand-ave-portland-or",
     "category": "thai",
     "metros": [
       "portland"
@@ -1427,8 +1427,8 @@
     "toastUrl": "https://order.toasttab.com/online/golden-lotus-thai-106-ne-grand-ave-ste-4"
   },
   {
-    "name": "Mitr Thai Restaurant 1281 Congress Street",
-    "slug": "mitrthairestaurant1281congressstreet",
+    "name": "Mitr Thai Restaurant",
+    "slug": "mitr-thai-restaurant",
     "category": "thai",
     "metros": [
       "portland"
@@ -1445,8 +1445,8 @@
     "toastUrl": "https://order.toasttab.com/online/little-peacock-126-sw-2nd-ave"
   },
   {
-    "name": "Thai Square 8601 SE 17th Ave",
-    "slug": "thaisquare8601se17thave",
+    "name": "Thai Square",
+    "slug": "thai-square",
     "category": "thai",
     "metros": [
       "portland"
@@ -1463,8 +1463,8 @@
     "toastUrl": "https://order.toasttab.com/online/thaitreemaine"
   },
   {
-    "name": "Khao Moo Dang - Portland",
-    "slug": "khaomoodang-portland",
+    "name": "Khao Moo Dang",
+    "slug": "khao-moo-dang",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -1481,8 +1481,8 @@
     "toastUrl": "https://order.toasttab.com/online/farmhouse-kitchen-thai-cuisine-portland-nw-121-northwest-9th-avenue"
   },
   {
-    "name": "Portland Pie Co. 92 Maine Street",
-    "slug": "portlandpieco92mainestreet",
+    "name": "Portland Pie Co.",
+    "slug": "portland-pie-co",
     "category": "pizza",
     "metros": [
       "portland"
@@ -1490,8 +1490,8 @@
     "websiteOrderUrl": "https://order.online/store/PortlandPieCompanyBrunswick-585037/en-US/"
   },
   {
-    "name": "Muchas Gracias Mexican Food 8981 Southwest Barbur Boulevard",
-    "slug": "muchasgraciasmexicanfood8981southwestbar",
+    "name": "Muchas Gracias Mexican Food",
+    "slug": "muchas-gracias-mexican-food",
     "category": "mexican",
     "metros": [
       "portland"
@@ -1936,8 +1936,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/colibribar-portland"
   },
   {
-    "name": "Nicholas Restaurant - PORTLAND, OR",
-    "slug": "nicholasrestaurant-portlandor",
+    "name": "Nicholas Restaurant",
+    "slug": "nicholas-restaurant",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -1945,8 +1945,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/nicholasrestaurantmadison"
   },
   {
-    "name": "Birrieria PDX Restaurant - PORTLAND, OR",
-    "slug": "birrieriapdxrestaurant-portlandor",
+    "name": "Birrieria PDX Restaurant",
+    "slug": "birrieria-pdx-restaurant",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -1990,8 +1990,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/shami-cafe-portland"
   },
   {
-    "name": "COQUINE MARKET - PORTLAND, OR",
-    "slug": "coquinemarket-portlandor",
+    "name": "COQUINE MARKET",
+    "slug": "coquine-market",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -1999,8 +1999,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/coquine-portland"
   },
   {
-    "name": "GUILDER - PORTLAND, OR",
-    "slug": "guilder-portlandor",
+    "name": "GUILDER",
+    "slug": "guilder",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -2017,8 +2017,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/tajmaine"
   },
   {
-    "name": "MI BURRITO 2021 - PORTLAND, OR",
-    "slug": "miburrito2021-portlandor",
+    "name": "MI BURRITO 2021",
+    "slug": "mi-burrito-2021",
     "category": "mexican",
     "metros": [
       "portland"
@@ -2026,8 +2026,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/miburrito"
   },
   {
-    "name": "Teote House Cafe - PORTLAND, OR",
-    "slug": "teotehousecafe-portlandor",
+    "name": "Teote House Cafe",
+    "slug": "teote-house-cafe",
     "category": "cafe",
     "metros": [
       "portland"
@@ -2035,8 +2035,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/teote-house-cafe-portland"
   },
   {
-    "name": "Sisters Ethiopian Restaurant - PORTLAND, OR",
-    "slug": "sistersethiopianrestaurant-portlandor",
+    "name": "Sisters Ethiopian Restaurant",
+    "slug": "sisters-ethiopian-restaurant",
     "category": "african",
     "metros": [
       "portland"
@@ -2044,8 +2044,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/sisters-ethiopian-restaurant-portland"
   },
   {
-    "name": "THANH THANH - PORTLAND, ME",
-    "slug": "thanhthanh-portlandme",
+    "name": "THANH THANH",
+    "slug": "thanh-thanh",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -2053,8 +2053,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/thanh-thanh-portland"
   },
   {
-    "name": "FLAVOURS OF INDIA @ RMH - PORTLAND, OR",
-    "slug": "flavoursofindiarmh-portlandor",
+    "name": "FLAVOURS OF INDIA @ RMH",
+    "slug": "flavours-of-india-rmh",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -2062,8 +2062,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/flavoursofindia-rmh"
   },
   {
-    "name": "ZELLS CAFE - PORTLAND, OR",
-    "slug": "zellscafe-portlandor",
+    "name": "ZELLS CAFE",
+    "slug": "zells-cafe",
     "category": "cafe",
     "metros": [
       "portland"
@@ -2071,8 +2071,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/zells-cafe-portland"
   },
   {
-    "name": "TERRAZZA RESTAURANT - PORTLAND, CT",
-    "slug": "terrazzarestaurant-portlandct",
+    "name": "TERRAZZA RESTAURANT",
+    "slug": "terrazza-restaurant",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -2080,8 +2080,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/terrazza-restaurant-portland/17G658FE1TNXJ"
   },
   {
-    "name": "DON KAMARON - Portland, OR",
-    "slug": "donkamaron-portlandor",
+    "name": "DON KAMARON",
+    "slug": "don-kamaron",
     "category": "restaurant",
     "metros": [
       "portland"
@@ -2089,8 +2089,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/don-kamaron-restaurant-portland"
   },
   {
-    "name": "DRUNKEN NOODLE - PORTLAND, OR",
-    "slug": "drunkennoodle-portlandor",
+    "name": "DRUNKEN NOODLE",
+    "slug": "drunken-noodle",
     "category": "chinese",
     "metros": [
       "portland"
@@ -2098,8 +2098,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/drunken-noodles-restaura-portland"
   },
   {
-    "name": "FANTASTEA @ PSU - PORTLAND, OR",
-    "slug": "fantasteapsu-portlandor",
+    "name": "FANTASTEA @ PSU",
+    "slug": "fantastea-psu",
     "category": "tea",
     "metros": [
       "portland"
@@ -2143,8 +2143,8 @@
     "toastUrl": "https://order.toasttab.com/online/streeterville"
   },
   {
-    "name": "Poke Dot 17921 MacArthur Blvd",
-    "slug": "pokedot17921macarthurblvd",
+    "name": "Poke Dot",
+    "slug": "poke-dot",
     "category": "japanese",
     "metros": [
       "portland"
@@ -2161,8 +2161,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-burrito"
   },
   {
-    "name": "Poke Burri 3231 powelton ave",
-    "slug": "pokeburri3231poweltonave",
+    "name": "Poke Burri",
+    "slug": "poke-burri",
     "category": "japanese",
     "metros": [
       "portland"
@@ -2179,8 +2179,8 @@
     "toastUrl": "https://order.toasttab.com/online/seaside-poke-downtown"
   },
   {
-    "name": "Poke OG @ 1800 143 NW 23 ST",
-    "slug": "pokeog1800143nw23st",
+    "name": "Poke OG @ 1800",
+    "slug": "poke-og-1800",
     "category": "japanese",
     "metros": [
       "portland"
@@ -2260,8 +2260,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-great-greek-mediterranean-grill-bend-or"
   },
   {
-    "name": "The Greek Corner 2366 Massachusetts Avenue",
-    "slug": "thegreekcorner2366massachusettsavenue",
+    "name": "The Greek Corner",
+    "slug": "the-greek-corner",
     "category": "mediterranean",
     "metros": [
       "portland"
@@ -2269,8 +2269,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-greek-corner-2366-massachusetts-avenue"
   },
   {
-    "name": "Opa Greek Yeeros 378 Highland Ave",
-    "slug": "opagreekyeeros378highlandave",
+    "name": "Opa Greek Yeeros",
+    "slug": "opa-greek-yeeros",
     "category": "mediterranean",
     "metros": [
       "portland"
@@ -2377,8 +2377,8 @@
     "toastUrl": "https://order.toasttab.com/online/juice-bar-norton-commons-10512-meeting-street"
   },
   {
-    "name": "Juice World 89 Passaic St",
-    "slug": "juiceworld89passaicst",
+    "name": "Juice World",
+    "slug": "juice-world",
     "category": "juice",
     "metros": [
       "portland"

@@ -50,15 +50,6 @@
     ]
   },
   {
-    "name": "12756",
-    "slug": "12756",
-    "category": "restaurant",
-    "metros": [
-      "austin"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/9351/locations/12756"
-  },
-  {
     "name": "Sankalp - The Taste of India Austin",
     "slug": "sankalp-thetasteofindiaaustin",
     "category": "restaurant",
@@ -122,8 +113,8 @@
     "toastUrl": "https://order.toasttab.com/online/las-palomas-restaurant-bar"
   },
   {
-    "name": "Veracruz Fonda & Bar 1905 Aldrich St, Austin TX 78723",
-    "slug": "veracruzfondabar1905aldrichstaustintx787",
+    "name": "Veracruz Fonda & Bar 1905 Aldrich St, Austin TX",
+    "slug": "veracruz-fonda-bar-1905-aldrich-st-austin-tx",
     "category": "restaurant",
     "metros": [
       "austin"
@@ -158,8 +149,8 @@
     "toastUrl": "https://order.toasttab.com/online/habanarestaurant"
   },
   {
-    "name": "High Road Delicatexan - 915 Mary St, Austin, TX",
-    "slug": "highroaddelicatexan-915marystaustintx",
+    "name": "High Road Delicatexan",
+    "slug": "high-road-delicatexan",
     "category": "deli",
     "metros": [
       "austin"
@@ -176,8 +167,8 @@
     "toastUrl": "https://order.toasttab.com/online/atxfoodco"
   },
   {
-    "name": "979 springdale Rd, Stargazer Bar, Austin, TX",
-    "slug": "979springdalerdstargazerbaraustintx",
+    "name": "Stargazer Bar",
+    "slug": "stargazer-bar",
     "category": "mexican",
     "metros": [
       "austin"
@@ -203,8 +194,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-pizza-press-austin-tx"
   },
   {
-    "name": "Pizza Leon- Austin",
-    "slug": "pizzaleon-austin",
+    "name": "Pizza Leon",
+    "slug": "pizza-leon",
     "category": "pizza",
     "metros": [
       "austin"
@@ -221,8 +212,8 @@
     "toastUrl": "https://order.toasttab.com/online/tony-c-s-coal-fired-pizza-706-anderson-lane"
   },
   {
-    "name": "Sammataro Pizza - Food Truck 2903 E 12th Street",
-    "slug": "sammataropizza-foodtruck2903e12thstreet",
+    "name": "Sammataro Pizza - Food Truck",
+    "slug": "sammataro-pizza-food-truck",
     "category": "pizza",
     "metros": [
       "austin"
@@ -230,8 +221,8 @@
     "toastUrl": "https://order.toasttab.com/online/sammataro"
   },
   {
-    "name": "Dovetail Pizza & Bar 1816 South 1st Street",
-    "slug": "dovetailpizzabar1816south1ststreet",
+    "name": "Dovetail Pizza & Bar",
+    "slug": "dovetail-pizza-bar",
     "category": "pizza",
     "metros": [
       "austin"
@@ -275,8 +266,8 @@
     "toastUrl": "https://order.toasttab.com/online/tonycsavery"
   },
   {
-    "name": "Side Eye Pie - 3901 Promontory Point Drive, Austin, TX",
-    "slug": "sideeyepie-3901promontorypointdriveausti",
+    "name": "Side Eye Pie",
+    "slug": "side-eye-pie",
     "category": "pizza",
     "metros": [
       "austin"
@@ -320,8 +311,8 @@
     "toastUrl": "https://order.toasttab.com/online/four-points-austins-pizza-7301-ranch-road-620-north"
   },
   {
-    "name": "Sabor Venezolano Austin 4111 S 1st ST",
-    "slug": "saborvenezolanoaustin4111s1stst",
+    "name": "Sabor Venezolano Austin",
+    "slug": "sabor-venezolano-austin",
     "category": "restaurant",
     "metros": [
       "austin"
@@ -329,8 +320,8 @@
     "toastUrl": "https://order.toasttab.com/online/sabor-venezolano-austin-new-4111-s-1st-st"
   },
   {
-    "name": "Kinda Tropical 3501 East 7th St Austin TX 78702",
-    "slug": "kindatropical3501east7thstaustintx78702",
+    "name": "Kinda Tropical 3501 East 7th St Austin TX",
+    "slug": "kinda-tropical-3501-east-7th-st-austin-tx",
     "category": "restaurant",
     "metros": [
       "austin"
@@ -374,8 +365,8 @@
     "toastUrl": "https://order.toasttab.com/online/eldorado-cafe-3300-w-anderson-lane"
   },
   {
-    "name": "Cafe Crepe of Austin 200 San Jacinto Blvd Suite A",
-    "slug": "cafecrepeofaustin200sanjacintoblvdsuitea",
+    "name": "Cafe Crepe of Austin",
+    "slug": "cafe-crepe-of-austin",
     "category": "cafe",
     "metros": [
       "austin"
@@ -383,8 +374,8 @@
     "toastUrl": "https://order.toasttab.com/online/cafe-crepe-of-austin-200-san-jacinto-blvd-suite-a"
   },
   {
-    "name": "Ski Shores Café - 2905 Pearce Road, Austin, TX",
-    "slug": "skishorescaf-2905pearceroadaustintx",
+    "name": "Ski Shores Café",
+    "slug": "ski-shores-caf",
     "category": "cafe",
     "metros": [
       "austin"
@@ -428,8 +419,8 @@
     "toastUrl": "https://order.toasttab.com/online/qi-austin"
   },
   {
-    "name": "Sweet Memes - Austin",
-    "slug": "sweetmemes-austin",
+    "name": "Sweet Memes",
+    "slug": "sweet-memes",
     "category": "restaurant",
     "metros": [
       "austin"
@@ -446,8 +437,8 @@
     "toastUrl": "https://order.toasttab.com/online/ramen-tatsu-ya-east-comal"
   },
   {
-    "name": "Second Bar + Kitchen 1108 East 6th Street",
-    "slug": "secondbarkitchen1108east6thstreet",
+    "name": "Second Bar + Kitchen",
+    "slug": "second-bar-kitchen",
     "category": "restaurant",
     "metros": [
       "austin"
@@ -473,8 +464,8 @@
     "toastUrl": "https://order.toasttab.com/online/rockstar-bagels-1900-rosewood-ave"
   },
   {
-    "name": "Casa Colombia 2409 East 7th Street",
-    "slug": "casacolombia2409east7thstreet",
+    "name": "Casa Colombia",
+    "slug": "casa-colombia",
     "category": "restaurant",
     "metros": [
       "austin"
@@ -500,8 +491,8 @@
     "toastUrl": "https://order.toasttab.com/online/yellow-jacket-social-club-1704-east-5th"
   },
   {
-    "name": "NADC Burger - rebuilding 1007 East 6th Street",
-    "slug": "nadcburger-rebuilding1007east6thstreet",
+    "name": "NADC Burger - rebuilding",
+    "slug": "nadc-burger-rebuilding",
     "category": "burgers",
     "metros": [
       "austin"
@@ -518,8 +509,8 @@
     "toastUrl": "https://order.toasttab.com/online/old-thousand"
   },
   {
-    "name": "FryDays - Austin",
-    "slug": "frydays-austin",
+    "name": "FryDays",
+    "slug": "frydays",
     "category": "restaurant",
     "metros": [
       "austin"
@@ -671,8 +662,8 @@
     "toastUrl": "https://order.toasttab.com/online/beautiful-south-brick-and-mortar-128-columbus-stsuite-101-charleston-sc-29405"
   },
   {
-    "name": "The Halal Project - Downtown Austin 917 West 12th Street",
-    "slug": "thehalalproject-downtownaustin917west12t",
+    "name": "The Halal Project",
+    "slug": "the-halal-project",
     "category": "restaurant",
     "metros": [
       "austin"
@@ -725,8 +716,8 @@
     "toastUrl": "https://order.toasttab.com/online/via313-north-campus"
   },
   {
-    "name": "Big Nonna's Pizza - North Austin",
-    "slug": "bignonnaspizza-northaustin",
+    "name": "Big Nonna's Pizza",
+    "slug": "big-nonna-s-pizza",
     "category": "pizza",
     "metros": [
       "austin"
@@ -770,8 +761,8 @@
     "toastUrl": "https://order.toasttab.com/online/austinsamericangrill-greeley"
   },
   {
-    "name": "Plank Provisions Plank The Domain - Austin",
-    "slug": "plankprovisionsplankthedomain-austin",
+    "name": "Plank Provisions Plank The Domain",
+    "slug": "plank-provisions-plank-the-domain",
     "category": "restaurant",
     "metros": [
       "austin"
@@ -833,8 +824,8 @@
     "toastUrl": "https://order.toasttab.com/online/eberly-austin"
   },
   {
-    "name": "Fierce Whiskers Distillery 5333 Fleming Ct, Austin, TX 78744",
-    "slug": "fiercewhiskersdistillery5333flemingctaus",
+    "name": "Fierce Whiskers Distillery",
+    "slug": "fierce-whiskers-distillery",
     "category": "restaurant",
     "metros": [
       "austin"
@@ -932,8 +923,8 @@
     "toastUrl": "https://order.toasttab.com/online/marufuku-ramen-austin-1900-aldrich-street-180"
   },
   {
-    "name": "Soko Bag Korean Fried Chicken 95 Nutt Road",
-    "slug": "sokobagkoreanfriedchicken95nuttroad",
+    "name": "Soko Bag Korean Fried Chicken",
+    "slug": "soko-bag-korean-fried-chicken",
     "category": "korean",
     "metros": [
       "austin"
@@ -1153,8 +1144,8 @@
     "websiteOrderUrl": "https://truefoodkitchencatering.olo.com/menu/austin-domain-catering"
   },
   {
-    "name": "Twin Peaks - South Austin",
-    "slug": "twinpeaks-southaustin",
+    "name": "Twin Peaks",
+    "slug": "twin-peaks",
     "category": "restaurant",
     "metros": [
       "austin"
@@ -1198,8 +1189,8 @@
     "websiteOrderUrl": "https://anotherbrokeneggcafe.olo.com/menu/austin-frontage-road-highland"
   },
   {
-    "name": "MrBeast Burger - 8863 Anderson Mill Road Suite 101",
-    "slug": "mrbeastburger-8863andersonmillroadsuite1",
+    "name": "MrBeast Burger",
+    "slug": "mrbeast-burger",
     "category": "burgers",
     "metros": [
       "austin"
@@ -1216,8 +1207,8 @@
     "websiteOrderUrl": "https://carinos.olo.com/menu/slaughter"
   },
   {
-    "name": "Perry's Steakhouse & Grille - Austin",
-    "slug": "perryssteakhousegrille-austin",
+    "name": "Perry's Steakhouse & Grille",
+    "slug": "perry-s-steakhouse-grille",
     "category": "steakhouse",
     "metros": [
       "austin"
@@ -1398,8 +1389,8 @@
     "websiteOrderUrl": "https://www.getbento.com/products/takeout-delivery/"
   },
   {
-    "name": "SAFFRON AUSTIN - AUSTIN, TX",
-    "slug": "saffronaustin-austintx",
+    "name": "SAFFRON AUSTIN",
+    "slug": "saffron-austin",
     "category": "restaurant",
     "metros": [
       "austin"
@@ -1416,8 +1407,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/austins-restaurant--incline-village"
   },
   {
-    "name": "Kuppanna South Indian Restaurant - AUSTIN, TX",
-    "slug": "kuppannasouthindianrestaurant-austintx",
+    "name": "Kuppanna South Indian Restaurant",
+    "slug": "kuppanna-south-indian-restaurant",
     "category": "indian",
     "metros": [
       "austin"
@@ -1425,8 +1416,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/kuppanna-austin"
   },
   {
-    "name": "ASIA CHINESE RESTAURANT - AUSTIN, TX",
-    "slug": "asiachineserestaurant-austintx",
+    "name": "ASIA CHINESE RESTAURANT",
+    "slug": "asia-chinese-restaurant",
     "category": "chinese",
     "metros": [
       "austin"
@@ -1434,8 +1425,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/asia-chinese-restaurant-austin"
   },
   {
-    "name": "SAFFRON SOUTH - AUSTIN, TX",
-    "slug": "saffronsouth-austintx",
+    "name": "SAFFRON SOUTH",
+    "slug": "saffron-south",
     "category": "restaurant",
     "metros": [
       "austin"
@@ -1443,8 +1434,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/saffron-austin-3"
   },
   {
-    "name": "FRESH BOWL - Austin, TX",
-    "slug": "freshbowl-austintx",
+    "name": "FRESH BOWL",
+    "slug": "fresh-bowl",
     "category": "healthy",
     "metros": [
       "austin"
@@ -1479,8 +1470,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/southern-hands-austin-peay-memphis"
   },
   {
-    "name": "YANAGI - AUSTIN, TX",
-    "slug": "yanagi-austintx",
+    "name": "YANAGI",
+    "slug": "yanagi",
     "category": "restaurant",
     "metros": [
       "austin"
@@ -1488,8 +1479,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/yanagi-austin"
   },
   {
-    "name": "ATX MARKET AND BAR - AUSTIN, TX",
-    "slug": "atxmarketandbar-austintx",
+    "name": "ATX MARKET AND BAR",
+    "slug": "atx-market-and-bar",
     "category": "restaurant",
     "metros": [
       "austin"
@@ -1497,8 +1488,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/atx-market-and-bar-austin"
   },
   {
-    "name": "BROOKLYN BREAKFAST SHOP - AUSTIN, TX - Clover",
-    "slug": "brooklynbreakfastshop-austintx-clover",
+    "name": "BROOKLYN BREAKFAST SHOP",
+    "slug": "brooklyn-breakfast-shop",
     "category": "breakfast",
     "metros": [
       "austin"
@@ -1542,8 +1533,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/austins-habibi-on-5-stre-austin"
   },
   {
-    "name": "Captain's Pizza Company - AUSTIN, TX",
-    "slug": "captainspizzacompany-austintx",
+    "name": "Captain's Pizza Company",
+    "slug": "captain-s-pizza-company",
     "category": "pizza",
     "metros": [
       "austin"
@@ -1551,8 +1542,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/captains-pizza-company-austin"
   },
   {
-    "name": "AUSTEA - AUSTIN, TX",
-    "slug": "austea-austintx",
+    "name": "AUSTEA",
+    "slug": "austea",
     "category": "tea",
     "metros": [
       "austin"
@@ -1560,8 +1551,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/austea-austin"
   },
   {
-    "name": "Donn's BBQ - AUSTIN, TX",
-    "slug": "donnsbbq-austintx",
+    "name": "Donn's BBQ",
+    "slug": "donn-s-bbq",
     "category": "bbq",
     "metros": [
       "austin"
@@ -1569,8 +1560,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/donns-bbq--fm969"
   },
   {
-    "name": "Austin's Habibi LLC 5 streets - AUSTIN, TX",
-    "slug": "austinshabibillc5streets-austintx",
+    "name": "Austin's Habibi LLC 5 streets",
+    "slug": "austin-s-habibi-llc-5-streets",
     "category": "restaurant",
     "metros": [
       "austin"
@@ -1605,8 +1596,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-house-tx-round-rock-201-university-oaks-boulevard-1200"
   },
   {
-    "name": "Poke-Poke 2601 East Cesar Chavez Street",
-    "slug": "poke-poke2601eastcesarchavezstreet",
+    "name": "Poke-Poke",
+    "slug": "poke-poke",
     "category": "japanese",
     "metros": [
       "austin"
@@ -1632,8 +1623,8 @@
     "toastUrl": "https://order.toasttab.com/online/oshi-poke-and-sushi-new-201-jefferson-street-north"
   },
   {
-    "name": "Poke Sushi 1720 Washington Road",
-    "slug": "pokesushi1720washingtonroad",
+    "name": "Poke Sushi",
+    "slug": "poke-sushi",
     "category": "japanese",
     "metros": [
       "austin"
@@ -1641,8 +1632,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-sushi-1720-washington-road"
   },
   {
-    "name": "NEW Siesta Poke 5206 Ocean Boulevard",
-    "slug": "newsiestapoke5206oceanboulevard",
+    "name": "NEW Siesta Poke",
+    "slug": "new-siesta-poke",
     "category": "japanese",
     "metros": [
       "austin"
@@ -1677,8 +1668,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-og-downtown-161-se-1st-street"
   },
   {
-    "name": "Artie's Fish Market 4257 Austin Blvd",
-    "slug": "artiesfishmarket4257austinblvd",
+    "name": "Artie's Fish Market",
+    "slug": "artie-s-fish-market",
     "category": "seafood",
     "metros": [
       "austin"
@@ -1686,8 +1677,8 @@
     "toastUrl": "https://order.toasttab.com/online/arties-fish-market"
   },
   {
-    "name": "Juicy Claws - Austin",
-    "slug": "juicyclaws-austin",
+    "name": "Juicy Claws",
+    "slug": "juicy-claws",
     "category": "restaurant",
     "metros": [
       "austin"
@@ -1713,8 +1704,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-great-greek-mediterranean-grill-austin-cedar-park-tx"
   },
   {
-    "name": "Tino's Greek Cafe - 9901 Brodie Lane, 190, Austin, TX",
-    "slug": "tinosgreekcafe-9901brodielane190austintx",
+    "name": "Tino's Greek Cafe - 9901 Brodie Lane, 190",
+    "slug": "tino-s-greek-cafe-9901-brodie-lane-190",
     "category": "cafe",
     "metros": [
       "austin"
@@ -1722,8 +1713,8 @@
     "toastUrl": "https://order.toasttab.com/online/tinos-greek-cafe-brodie-ln-9901-brodie-lane"
   },
   {
-    "name": "The Greek Corner 2366 Massachusetts Avenue",
-    "slug": "thegreekcorner2366massachusettsavenue",
+    "name": "The Greek Corner",
+    "slug": "the-greek-corner",
     "category": "mediterranean",
     "metros": [
       "austin"
@@ -1758,8 +1749,8 @@
     "toastUrl": "https://order.toasttab.com/online/go-to-greek-3025-e-main-st"
   },
   {
-    "name": "Opa Greek Yeeros 378 Highland Ave",
-    "slug": "opagreekyeeros378highlandave",
+    "name": "Opa Greek Yeeros",
+    "slug": "opa-greek-yeeros",
     "category": "mediterranean",
     "metros": [
       "austin"
@@ -1794,8 +1785,8 @@
     "toastUrl": "https://order.toasttab.com/online/el-taccorido-sur-2316-s-1st-st-austin"
   },
   {
-    "name": "Tiny Grocer 1718 S Congress Ave, Austin, TX 78704",
-    "slug": "tinygrocer1718scongressaveaustintx78704",
+    "name": "Tiny Grocer",
+    "slug": "tiny-grocer",
     "category": "restaurant",
     "metros": [
       "austin"
@@ -1803,8 +1794,8 @@
     "toastUrl": "https://order.toasttab.com/online/tiny-grocer-1718-s-congress-ave-austin-tx-78704"
   },
   {
-    "name": "Little Patagonia - Austin 2915 Guadalupe Street",
-    "slug": "littlepatagonia-austin2915guadalupestree",
+    "name": "Little Patagonia",
+    "slug": "little-patagonia",
     "category": "restaurant",
     "metros": [
       "austin"
@@ -1812,8 +1803,8 @@
     "toastUrl": "https://order.toasttab.com/online/little-patagonia-austin-2915-guadalupe-street"
   },
   {
-    "name": "Taco Joint - San Jacinto Blvd-Austin 78705",
-    "slug": "tacojoint-sanjacintoblvd-austin78705",
+    "name": "Taco Joint - San Jacinto Blvd",
+    "slug": "taco-joint-san-jacinto-blvd",
     "category": "mexican",
     "metros": [
       "austin"
@@ -1839,8 +1830,8 @@
     "toastUrl": "https://order.toasttab.com/online/radiant-juice-smoothie-bar-702-main-st"
   },
   {
-    "name": "The Soup Peddler - 4631 Airport Blvd, Austin, TX",
-    "slug": "thesouppeddler-4631airportblvdaustintx",
+    "name": "The Soup Peddler",
+    "slug": "the-soup-peddler",
     "category": "restaurant",
     "metros": [
       "austin"
@@ -1857,8 +1848,8 @@
     "toastUrl": "https://order.toasttab.com/online/hellojuicesmoothies-stl"
   },
   {
-    "name": "Juice World 89 Passaic St",
-    "slug": "juiceworld89passaicst",
+    "name": "Juice World",
+    "slug": "juice-world",
     "category": "juice",
     "metros": [
       "austin"

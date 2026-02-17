@@ -388,8 +388,8 @@
     "toastUrl": "https://order.toasttab.com/online/creole-soul-restaurant"
   },
   {
-    "name": "El Pueblito Restaurant (Baltimore City) 101 N Wolfe St",
-    "slug": "elpueblitorestaurantbaltimorecity101nwol",
+    "name": "El Pueblito Restaurant (Baltimore City)",
+    "slug": "el-pueblito-restaurant-baltimore-city",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -433,8 +433,8 @@
     "toastUrl": "https://order.toasttab.com/online/peterchangbaltimore"
   },
   {
-    "name": "Maiwand Grill Baltimore Street 324 w baltimore st",
-    "slug": "maiwandgrillbaltimorestreet324wbaltimore",
+    "name": "Maiwand Grill Baltimore Street",
+    "slug": "maiwand-grill-baltimore-street",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -451,8 +451,8 @@
     "toastUrl": "https://order.toasttab.com/online/doobys-baltimore"
   },
   {
-    "name": "Chimes Cafe 4814 Seton Drive, Baltimore MD 21215",
-    "slug": "chimescafe4814setondrivebaltimoremd21215",
+    "name": "Chimes Cafe 4814 Seton Drive, Baltimore MD",
+    "slug": "chimes-cafe-4814-seton-drive-baltimore-md",
     "category": "cafe",
     "metros": [
       "baltimore"
@@ -460,8 +460,8 @@
     "toastUrl": "https://order.toasttab.com/online/chimes-cafe"
   },
   {
-    "name": "Lee's Pint & Shell - 2844 Hudson Street, Baltimore, MD",
-    "slug": "leespintshell-2844hudsonstreetbaltimorem",
+    "name": "Lee's Pint & Shell",
+    "slug": "lee-s-pint-shell",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -469,8 +469,8 @@
     "toastUrl": "https://order.toasttab.com/online/lees-pint-and-shell-baltimore"
   },
   {
-    "name": "Georgia Peach - Baltimore 1513 Havenwood Rd",
-    "slug": "georgiapeach-baltimore1513havenwoodrd",
+    "name": "Georgia Peach",
+    "slug": "georgia-peach",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -487,8 +487,8 @@
     "toastUrl": "https://order.toasttab.com/online/cafe-fili"
   },
   {
-    "name": "Cafe Services 453 - 100 Light Street",
-    "slug": "cafeservices453-100lightstreet",
+    "name": "Cafe Services 453",
+    "slug": "cafe-services-453",
     "category": "cafe",
     "metros": [
       "baltimore"
@@ -496,8 +496,8 @@
     "toastUrl": "https://order.toasttab.com/online/cafe-services-100-light-street"
   },
   {
-    "name": "CAFE 1908 7 West Preston St",
-    "slug": "cafe19087westprestonst",
+    "name": "CAFE 1908",
+    "slug": "cafe-1908",
     "category": "cafe",
     "metros": [
       "baltimore"
@@ -505,8 +505,8 @@
     "toastUrl": "https://order.toasttab.com/online/cafe1908"
   },
   {
-    "name": "New Terra Cafe 101 E 25th St",
-    "slug": "newterracafe101e25thst",
+    "name": "New Terra Cafe",
+    "slug": "new-terra-cafe",
     "category": "cafe",
     "metros": [
       "baltimore"
@@ -514,8 +514,8 @@
     "toastUrl": "https://order.toasttab.com/online/terracafe"
   },
   {
-    "name": "Common Ground Workers Cafe 3543 Chestnut Ave",
-    "slug": "commongroundworkerscafe3543chestnutave",
+    "name": "Common Ground Workers Cafe",
+    "slug": "common-ground-workers-cafe",
     "category": "cafe",
     "metros": [
       "baltimore"
@@ -523,8 +523,8 @@
     "toastUrl": "https://order.toasttab.com/online/common-ground-workers-cafe-3543-chestnut-ave"
   },
   {
-    "name": "Hull Street Blues Cafe 1222 Hull Street",
-    "slug": "hullstreetbluescafe1222hullstreet",
+    "name": "Hull Street Blues Cafe",
+    "slug": "hull-street-blues-cafe",
     "category": "cafe",
     "metros": [
       "baltimore"
@@ -595,8 +595,8 @@
     "toastUrl": "https://order.toasttab.com/online/patisserie-poupon-baltimore-street-820-e-baltimore-st"
   },
   {
-    "name": "Mobtown Ballroom & Cafe 30 W North Ave",
-    "slug": "mobtownballroomcafe30wnorthave",
+    "name": "Mobtown Ballroom & Cafe",
+    "slug": "mobtown-ballroom-cafe",
     "category": "cafe",
     "metros": [
       "baltimore"
@@ -613,8 +613,8 @@
     "toastUrl": "https://order.toasttab.com/online/underground-pizza-baltimore-30-market-place"
   },
   {
-    "name": "The Pizza Trust 529 E Belvedere Ave",
-    "slug": "thepizzatrust529ebelvedereave",
+    "name": "The Pizza Trust",
+    "slug": "the-pizza-trust",
     "category": "pizza",
     "metros": [
       "baltimore"
@@ -739,8 +739,8 @@
     "toastUrl": "https://order.toasttab.com/online/koopers-fells-point-1702-thames-st"
   },
   {
-    "name": "The Point In Fells - 1738 Thames St, Baltimore, MD",
-    "slug": "thepointinfells-1738thamesstbaltimoremd",
+    "name": "The Point In Fells",
+    "slug": "the-point-in-fells",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -811,8 +811,8 @@
     "toastUrl": "https://order.toasttab.com/online/fried-fries-federal-hill"
   },
   {
-    "name": "Pub Dog - Federal Hill 20 East Cross Street",
-    "slug": "pubdog-federalhill20eastcrossstreet",
+    "name": "Pub Dog - Federal Hill",
+    "slug": "pub-dog-federal-hill",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -856,8 +856,8 @@
     "toastUrl": "https://order.toasttab.com/online/gameon-bar-arcade-baltimore-902-south-charles-street"
   },
   {
-    "name": "Mother's Federal Hill Grille 1113 S Charles St",
-    "slug": "mothersfederalhillgrille1113scharlesst",
+    "name": "Mother's Federal Hill Grille",
+    "slug": "mother-s-federal-hill-grille",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -883,8 +883,8 @@
     "toastUrl": "https://order.toasttab.com/online/canton-uniontown"
   },
   {
-    "name": "Coalition Steak and Seafood 50 Canton St Suite 108",
-    "slug": "coalitionsteakandseafood50cantonstsuite1",
+    "name": "Coalition Steak and Seafood",
+    "slug": "coalition-steak-and-seafood",
     "category": "seafood",
     "metros": [
       "baltimore"
@@ -892,8 +892,8 @@
     "toastUrl": "https://order.toasttab.com/online/coalition-food-and-beverage-50-canton-st-suite-108"
   },
   {
-    "name": "The Canton Local 801 S Decker Ave",
-    "slug": "thecantonlocal801sdeckerave",
+    "name": "The Canton Local",
+    "slug": "the-canton-local",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -928,8 +928,8 @@
     "toastUrl": "https://order.toasttab.com/online/american-flatbread-canton-110-albany-turnpike"
   },
   {
-    "name": "French Toast Bistro-Canton 43225 Ford Road",
-    "slug": "frenchtoastbistro-canton43225fordroad",
+    "name": "French Toast Bistro-Canton",
+    "slug": "french-toast-bistro-canton",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -964,8 +964,8 @@
     "toastUrl": "https://order.toasttab.com/online/lees-pint-and-shell-2844-hudson-street"
   },
   {
-    "name": "Maverick's - Canton 42820 Ford Road",
-    "slug": "mavericks-canton42820fordroad",
+    "name": "Maverick's - Canton",
+    "slug": "maverick-s-canton",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -982,8 +982,8 @@
     "toastUrl": "https://order.toasttab.com/online/canton-coconut-grove"
   },
   {
-    "name": "Brewster's Bar & Grill 3595 Canton Rd ste 326",
-    "slug": "brewstersbargrill3595cantonrdste326",
+    "name": "Brewster's Bar & Grill",
+    "slug": "brewster-s-bar-grill",
     "category": "cafe",
     "metros": [
       "baltimore"
@@ -1000,8 +1000,8 @@
     "toastUrl": "https://order.toasttab.com/online/avenue-kitchen-bar"
   },
   {
-    "name": "Woodstone Tavern 874 Hampden st",
-    "slug": "woodstonetavern874hampdenst",
+    "name": "Woodstone Tavern",
+    "slug": "woodstone-tavern",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -1108,8 +1108,8 @@
     "toastUrl": "https://order.toasttab.com/online/ekibensouthbmore"
   },
   {
-    "name": "Vernon Lanes 1575 Story Avenue",
-    "slug": "vernonlanes1575storyavenue",
+    "name": "Vernon Lanes",
+    "slug": "vernon-lanes",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -1117,8 +1117,8 @@
     "toastUrl": "https://order.toasttab.com/online/vernon-lanes-1575-story-avenue"
   },
   {
-    "name": "The Time Brewpub 600 Mount Vernon Drive",
-    "slug": "thetimebrewpub600mountvernondrive",
+    "name": "The Time Brewpub",
+    "slug": "the-time-brewpub",
     "category": "cafe",
     "metros": [
       "baltimore"
@@ -1135,8 +1135,8 @@
     "toastUrl": "https://order.toasttab.com/online/vernons-cafe"
   },
   {
-    "name": "Matt & Tony's All Day Kitchen + Bar 1501 Mt Vernon Ave",
-    "slug": "matttonysalldaykitchenbar1501mtvernonave",
+    "name": "Matt & Tony's All Day Kitchen + Bar",
+    "slug": "matt-tony-s-all-day-kitchen-bar",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -1171,8 +1171,8 @@
     "toastUrl": "https://order.toasttab.com/online/bsfood"
   },
   {
-    "name": "Bon Fresco - Baltimore",
-    "slug": "bonfresco-baltimore",
+    "name": "Bon Fresco",
+    "slug": "bon-fresco",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -1189,8 +1189,8 @@
     "toastUrl": "https://order.toasttab.com/online/garden_&_grounds_bistro"
   },
   {
-    "name": "Light Carryout - 1308 Greenmount Ave, Baltimore, MD",
-    "slug": "lightcarryout-1308greenmountavebaltimore",
+    "name": "Light Carryout",
+    "slug": "light-carryout",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -1215,8 +1215,8 @@
     "toastUrl": "https://order.toasttab.com/online/basmati"
   },
   {
-    "name": "Tocabe An American Indian Eatery 3536 W 44th Ave",
-    "slug": "tocabeanamericanindianeatery3536w44thave",
+    "name": "Tocabe An American Indian Eatery",
+    "slug": "tocabe-an-american-indian-eatery",
     "category": "indian",
     "metros": [
       "baltimore"
@@ -1224,8 +1224,8 @@
     "toastUrl": "https://order.toasttab.com/online/tocabe"
   },
   {
-    "name": "Masala House Indian Bistro 5102 Baum blvd",
-    "slug": "masalahouseindianbistro5102baumblvd",
+    "name": "Masala House Indian Bistro",
+    "slug": "masala-house-indian-bistro",
     "category": "indian",
     "metros": [
       "baltimore"
@@ -1251,8 +1251,8 @@
     "toastUrl": "https://order.toasttab.com/online/rang-indian-bistro"
   },
   {
-    "name": "Turkish Lazuri Cafe 1 North Beacon St",
-    "slug": "turkishlazuricafe1northbeaconst",
+    "name": "Turkish Lazuri Cafe",
+    "slug": "turkish-lazuri-cafe",
     "category": "cafe",
     "metros": [
       "baltimore"
@@ -1260,8 +1260,8 @@
     "toastUrl": "https://order.toasttab.com/online/turkish-lazuri-cafe-2-487-cambridge-street-bdbic"
   },
   {
-    "name": "Dadash Grill Turkish Cuisine 8606 E Mill Plain Blvd Suite A",
-    "slug": "dadashgrillturkishcuisine8606emillplainb",
+    "name": "Dadash Grill Turkish Cuisine",
+    "slug": "dadash-grill-turkish-cuisine",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -1757,8 +1757,8 @@
     "websiteOrderUrl": "https://www.getbento.com/products/takeout-delivery/"
   },
   {
-    "name": "St Mary`s Restaurant & Bar - BALTIMORE, MD",
-    "slug": "stmarysrestaurantbar-baltimoremd",
+    "name": "St Mary`s Restaurant & Bar",
+    "slug": "st-mary-s-restaurant-bar",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -1766,8 +1766,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/st-marys-restaurant-and-baltimore"
   },
   {
-    "name": "PICANTE TACO - BALTIMORE, MD",
-    "slug": "picantetaco-baltimoremd",
+    "name": "PICANTE TACO",
+    "slug": "picante-taco",
     "category": "mexican",
     "metros": [
       "baltimore"
@@ -1775,8 +1775,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/picante-taco-baltimore"
   },
   {
-    "name": "JONG KAK (PICK UP) - BALTIMORE, MD",
-    "slug": "jongkakpickup-baltimoremd",
+    "name": "JONG KAK (PICK UP)",
+    "slug": "jong-kak-pick-up",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -1784,8 +1784,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/jong-kak-baltimore"
   },
   {
-    "name": "LA CABANA RESTAURANT - BALTIMORE, MD",
-    "slug": "lacabanarestaurant-baltimoremd",
+    "name": "LA CABANA RESTAURANT",
+    "slug": "la-cabana-restaurant",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -1793,8 +1793,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/la-cabana-restaurant-baltimore/service-hours"
   },
   {
-    "name": "ON THE HILL CAFE - BALTIMORE, MD",
-    "slug": "onthehillcafe-baltimoremd",
+    "name": "ON THE HILL CAFE",
+    "slug": "on-the-hill-cafe",
     "category": "cafe",
     "metros": [
       "baltimore"
@@ -1811,8 +1811,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/noir-restaurant-and-loun-baltimore-2"
   },
   {
-    "name": "CALABAR GRILL & PIZZA - BALTIMORE, MD",
-    "slug": "calabargrillpizza-baltimoremd",
+    "name": "CALABAR GRILL & PIZZA",
+    "slug": "calabar-grill-pizza",
     "category": "pizza",
     "metros": [
       "baltimore"
@@ -1829,8 +1829,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/b1-bbq-baltimore-baltimore"
   },
   {
-    "name": "good neighbor - BALTIMORE, MD",
-    "slug": "goodneighbor-baltimoremd",
+    "name": "good neighbor",
+    "slug": "good-neighbor",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -1838,8 +1838,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/good-neighbor--baltimore"
   },
   {
-    "name": "A COMMON GROUND, INC. - BALTIMORE, MD",
-    "slug": "acommongroundinc-baltimoremd",
+    "name": "A COMMON GROUND, INC.",
+    "slug": "a-common-ground-inc",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -1847,8 +1847,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/a-common-ground-inc-baltimore"
   },
   {
-    "name": "BLOOMING DELI - BALTIMORE, MD",
-    "slug": "bloomingdeli-baltimoremd",
+    "name": "BLOOMING DELI",
+    "slug": "blooming-deli",
     "category": "deli",
     "metros": [
       "baltimore"
@@ -1856,8 +1856,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/blooming-deli-baltimore"
   },
   {
-    "name": "Taam Thai - BALTIMORE, MD",
-    "slug": "taamthai-baltimoremd",
+    "name": "Taam Thai",
+    "slug": "taam-thai",
     "category": "thai",
     "metros": [
       "baltimore"
@@ -1865,8 +1865,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/chinese-popup-baltimore"
   },
   {
-    "name": "CHILANGOS TEQUILA BAR - BALTIMORE, MD",
-    "slug": "chilangostequilabar-baltimoremd",
+    "name": "CHILANGOS TEQUILA BAR",
+    "slug": "chilangos-tequila-bar",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -1883,8 +1883,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/taqueria-los-perez-2-baltimore"
   },
   {
-    "name": "EMMAS TEA SPOT LLC - BALTIMORE, MD",
-    "slug": "emmasteaspotllc-baltimoremd",
+    "name": "EMMAS TEA SPOT LLC",
+    "slug": "emmas-tea-spot-llc",
     "category": "tea",
     "metros": [
       "baltimore"
@@ -1901,8 +1901,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/bayside-cantina-baltimore"
   },
   {
-    "name": "B1 BBQ BALTIMORE - BALTIMORE, MD",
-    "slug": "b1bbqbaltimore-baltimoremd",
+    "name": "B1 BBQ BALTIMORE",
+    "slug": "b1-bbq-baltimore",
     "category": "bbq",
     "metros": [
       "baltimore"
@@ -1910,8 +1910,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/b1-bbq-baltimore-baltimore/FSVATBXCKJNQ8"
   },
   {
-    "name": "BELVEDERE BAGELS & GRILL - BALTIMORE, MD",
-    "slug": "belvederebagelsgrill-baltimoremd",
+    "name": "BELVEDERE BAGELS & GRILL",
+    "slug": "belvedere-bagels-grill",
     "category": "bakery",
     "metros": [
       "baltimore"
@@ -1919,8 +1919,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/belvedere-bagels--grill-baltimore"
   },
   {
-    "name": "BLUE PIT BBQ - BALTIMORE, MD",
-    "slug": "bluepitbbq-baltimoremd",
+    "name": "BLUE PIT BBQ",
+    "slug": "blue-pit-bbq",
     "category": "bbq",
     "metros": [
       "baltimore"
@@ -1928,8 +1928,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/blue-pit-bbq-baltimore"
   },
   {
-    "name": "DIGITAL HARBOR H.S. - BALTIMORE, MD",
-    "slug": "digitalharborhs-baltimoremd",
+    "name": "DIGITAL HARBOR H.S.",
+    "slug": "digital-harbor-h-s",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -1964,8 +1964,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-poke-west-loop-1100-w-madison"
   },
   {
-    "name": "Poke Burri 3231 powelton ave",
-    "slug": "pokeburri3231poweltonave",
+    "name": "Poke Burri",
+    "slug": "poke-burri",
     "category": "japanese",
     "metros": [
       "baltimore"
@@ -2027,8 +2027,8 @@
     "toastUrl": "https://order.toasttab.com/online/fresh-catch-poke-pearl"
   },
   {
-    "name": "Poke-City Cambridge 1722 Massachusetts Avenue",
-    "slug": "poke-citycambridge1722massachusettsavenu",
+    "name": "Poke-City Cambridge",
+    "slug": "poke-city-cambridge",
     "category": "japanese",
     "metros": [
       "baltimore"
@@ -2045,8 +2045,8 @@
     "toastUrl": "https://order.toasttab.com/online/leidpoke"
   },
   {
-    "name": "The Ono Poke - Summit 325 Summit Boulevard",
-    "slug": "theonopoke-summit325summitboulevard",
+    "name": "The Ono Poke - Summit",
+    "slug": "the-ono-poke-summit",
     "category": "japanese",
     "metros": [
       "baltimore"
@@ -2063,8 +2063,8 @@
     "toastUrl": "https://order.toasttab.com/online/sal-and-sons-seafood"
   },
   {
-    "name": "Captain James seafood palace 2127 Boston St",
-    "slug": "captainjamesseafoodpalace2127bostonst",
+    "name": "Captain James seafood palace",
+    "slug": "captain-james-seafood-palace",
     "category": "seafood",
     "metros": [
       "baltimore"
@@ -2081,8 +2081,8 @@
     "toastUrl": "https://order.toasttab.com/online/mid-atlantic-seafood-laurel"
   },
   {
-    "name": "BK Lobster - Baltimore",
-    "slug": "bklobster-baltimore",
+    "name": "BK Lobster",
+    "slug": "bk-lobster",
     "category": "seafood",
     "metros": [
       "baltimore"
@@ -2090,8 +2090,8 @@
     "toastUrl": "https://order.toasttab.com/online/bk-lobster-baltimore-2226-eastern-ave-unit-1"
   },
   {
-    "name": "Pappas Seafood Co.- Perry Hall 8801 Belair Road",
-    "slug": "pappasseafoodco-perryhall8801belairroad",
+    "name": "Pappas Seafood Co.- Perry Hall",
+    "slug": "pappas-seafood-co-perry-hall",
     "category": "seafood",
     "metros": [
       "baltimore"
@@ -2126,8 +2126,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-avalon-ale-house-1418-baltimore-st"
   },
   {
-    "name": "By The Docks Seafood Restaurant 3321 Eastern Blvd",
-    "slug": "bythedocksseafoodrestaurant3321easternbl",
+    "name": "By The Docks Seafood Restaurant",
+    "slug": "by-the-docks-seafood-restaurant",
     "category": "seafood",
     "metros": [
       "baltimore"
@@ -2144,8 +2144,8 @@
     "toastUrl": "https://order.toasttab.com/online/conrads-seafood-food-truck"
   },
   {
-    "name": "So Baltimore Sports Bar & Lounge 3734 Fleet Street",
-    "slug": "sobaltimoresportsbarlounge3734fleetstree",
+    "name": "So Baltimore Sports Bar & Lounge",
+    "slug": "so-baltimore-sports-bar-lounge",
     "category": "restaurant",
     "metros": [
       "baltimore"
@@ -2153,8 +2153,8 @@
     "toastUrl": "https://order.toasttab.com/online/so-baltimore-sports-bar-lounge"
   },
   {
-    "name": "Madonna Seafood 4105 Norrisville Rd",
-    "slug": "madonnaseafood4105norrisvillerd",
+    "name": "Madonna Seafood",
+    "slug": "madonna-seafood",
     "category": "seafood",
     "metros": [
       "baltimore"
@@ -2162,8 +2162,8 @@
     "toastUrl": "https://order.toasttab.com/online/madonna-seafood-4105-norrisville-rd"
   },
   {
-    "name": "The Greek Corner 2366 Massachusetts Avenue",
-    "slug": "thegreekcorner2366massachusettsavenue",
+    "name": "The Greek Corner",
+    "slug": "the-greek-corner",
     "category": "mediterranean",
     "metros": [
       "baltimore"
@@ -2279,8 +2279,8 @@
     "toastUrl": "https://order.toasttab.com/online/juice-bar-norton-commons-10512-meeting-street"
   },
   {
-    "name": "Pressed Juice Bar 19550 Grand River Avenue",
-    "slug": "pressedjuicebar19550grandriveravenue",
+    "name": "Pressed Juice Bar",
+    "slug": "pressed-juice-bar",
     "category": "juice",
     "metros": [
       "baltimore"
@@ -2297,8 +2297,8 @@
     "toastUrl": "https://order.toasttab.com/online/juice-it-13th-ave-s-4302-13th-ave-s"
   },
   {
-    "name": "Juice World 89 Passaic St",
-    "slug": "juiceworld89passaicst",
+    "name": "Juice World",
+    "slug": "juice-world",
     "category": "juice",
     "metros": [
       "baltimore"

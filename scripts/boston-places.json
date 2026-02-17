@@ -508,8 +508,8 @@
     "website": "http://www.kajuallston.com/"
   },
   {
-    "name": "Qiao Lin Hotpot - Boston",
-    "slug": "qiaolinhotpot-boston",
+    "name": "Qiao Lin Hotpot",
+    "slug": "qiao-lin-hotpot",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -937,8 +937,8 @@
     ]
   },
   {
-    "name": "The Boston Restaurant 100 NE Central Ave",
-    "slug": "thebostonrestaurant100necentralave",
+    "name": "The Boston Restaurant",
+    "slug": "the-boston-restaurant",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -955,8 +955,8 @@
     "toastUrl": "https://order.toasttab.com/online/lord-hobo-boston"
   },
   {
-    "name": "Halftime Pizza - Boston 115 Causeway Street",
-    "slug": "halftimepizza-boston115causewaystreet",
+    "name": "Halftime Pizza",
+    "slug": "halftime-pizza",
     "category": "pizza",
     "metros": [
       "boston"
@@ -982,8 +982,8 @@
     "toastUrl": "https://order.toasttab.com/online/boston-common-seafood-house-1008-a-woodland-st-nashville-tn-37206"
   },
   {
-    "name": "Servia Financial District, Boston",
-    "slug": "serviafinancialdistrictboston",
+    "name": "Servia Financial District",
+    "slug": "servia-financial-district",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -1036,8 +1036,8 @@
     "toastUrl": "https://order.toasttab.com/online/meridian-at-logan-new-45-transporation-way-logan-airport"
   },
   {
-    "name": "Rootastes - Boston Public Market 100 Hanover st",
-    "slug": "rootastes-bostonpublicmarket100hanoverst",
+    "name": "Rootastes - Boston Public Market",
+    "slug": "rootastes-boston-public-market",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -1072,8 +1072,8 @@
     "toastUrl": "https://order.toasttab.com/online/crush-pizza-state-street"
   },
   {
-    "name": "Pizza Gourmet 599 East Boston Post Road",
-    "slug": "pizzagourmet599eastbostonpostroad",
+    "name": "Pizza Gourmet",
+    "slug": "pizza-gourmet",
     "category": "pizza",
     "metros": [
       "boston"
@@ -1144,8 +1144,8 @@
     "toastUrl": "https://order.toasttab.com/online/penguin-pizza"
   },
   {
-    "name": "The Salty Pig 130 Dartmouth St, Boston, MA 02116",
-    "slug": "thesaltypig130dartmouthstbostonma02116",
+    "name": "The Salty Pig",
+    "slug": "the-salty-pig",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -1162,8 +1162,8 @@
     "toastUrl": "https://order.toasttab.com/online/union-park-pizza"
   },
   {
-    "name": "Cambridge Common 1667 Massachusetts Avenue",
-    "slug": "cambridgecommon1667massachusettsavenue",
+    "name": "Cambridge Common",
+    "slug": "cambridge-common",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -1189,8 +1189,8 @@
     "toastUrl": "https://order.toasttab.com/online/craft-food-hall-cambridge-35-cambridgepark-drive"
   },
   {
-    "name": "Oak Bistro 1287 Cambridge Street",
-    "slug": "oakbistro1287cambridgestreet",
+    "name": "Oak Bistro",
+    "slug": "oak-bistro",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -1225,8 +1225,8 @@
     "toastUrl": "https://order.toasttab.com/online/row-34-cambridge-314-main-street"
   },
   {
-    "name": "Gran Gusto- Cambridge 90 SHERMAN ST",
-    "slug": "grangusto-cambridge90shermanst",
+    "name": "Gran Gusto- Cambridge",
+    "slug": "gran-gusto-cambridge",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -1234,8 +1234,8 @@
     "toastUrl": "https://order.toasttab.com/online/gran-gusto-cambridge-90-sherman-st"
   },
   {
-    "name": "Gufo 660 Cambridge Street",
-    "slug": "gufo660cambridgestreet",
+    "name": "Gufo",
+    "slug": "gufo",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -1243,8 +1243,8 @@
     "toastUrl": "https://order.toasttab.com/online/gufo-cambridge-660-cambridge-street"
   },
   {
-    "name": "Bred - Cambridge 730 Main Street",
-    "slug": "bred-cambridge730mainstreet",
+    "name": "Bred - Cambridge",
+    "slug": "bred-cambridge",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -1315,8 +1315,8 @@
     "toastUrl": "https://order.toasttab.com/online/thelexingtoncx"
   },
   {
-    "name": "Ripple Cafe - Cambridge 314 Main Street",
-    "slug": "ripplecafe-cambridge314mainstreet",
+    "name": "Ripple Cafe - Cambridge",
+    "slug": "ripple-cafe-cambridge",
     "category": "cafe",
     "metros": [
       "boston"
@@ -1342,8 +1342,8 @@
     "toastUrl": "https://order.toasttab.com/online/areafour"
   },
   {
-    "name": "Discovery Cafe - Cambridge 157 6th Street",
-    "slug": "discoverycafe-cambridge1576thstreet",
+    "name": "Discovery Cafe - Cambridge",
+    "slug": "discovery-cafe-cambridge",
     "category": "cafe",
     "metros": [
       "boston"
@@ -1351,8 +1351,8 @@
     "toastUrl": "https://order.toasttab.com/online/discovery-cafe-cambridge-157-6th-street"
   },
   {
-    "name": "Page & Leaf Cafe 1815 Massachusetts Avenue",
-    "slug": "pageleafcafe1815massachusettsavenue",
+    "name": "Page & Leaf Cafe",
+    "slug": "page-leaf-cafe",
     "category": "cafe",
     "metros": [
       "boston"
@@ -1378,8 +1378,8 @@
     "toastUrl": "https://order.toasttab.com/online/cremacafe"
   },
   {
-    "name": "Circus Cooperative Cafe 31 Putnam Ave",
-    "slug": "circuscooperativecafe31putnamave",
+    "name": "Circus Cooperative Cafe",
+    "slug": "circus-cooperative-cafe",
     "category": "cafe",
     "metros": [
       "boston"
@@ -1387,8 +1387,8 @@
     "toastUrl": "https://order.toasttab.com/online/circus-cooperative-cafe"
   },
   {
-    "name": "Discovery Cafe - Boston 3 Blackfan Street",
-    "slug": "discoverycafe-boston3blackfanstreet",
+    "name": "Discovery Cafe",
+    "slug": "discovery-cafe",
     "category": "cafe",
     "metros": [
       "boston"
@@ -1423,8 +1423,8 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/9796/locations"
   },
   {
-    "name": "The Pub 682 Broadway.Somerville,Ma.02144",
-    "slug": "thepub682broadwaysomervillema02144",
+    "name": "The Pub 682 Broadway.Somerville,Ma.",
+    "slug": "the-pub-682-broadway-somerville-ma",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -1531,8 +1531,8 @@
     "toastUrl": "https://order.toasttab.com/online/davios-back-bay-75-arlington-st"
   },
   {
-    "name": "Dillon's - Back Bay West 955 Boylston Street",
-    "slug": "dillons-backbaywest955boylstonstreet",
+    "name": "Dillon's - Back Bay West",
+    "slug": "dillon-s-back-bay-west",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -1540,8 +1540,8 @@
     "toastUrl": "https://order.toasttab.com/online/dillons-back-bay-west-955-boylston-street"
   },
   {
-    "name": "Cooper Bluff Oyster Bay Harbor Food Truck 5 Bay Avenue",
-    "slug": "cooperbluffoysterbayharborfoodtruck5baya",
+    "name": "Cooper Bluff Oyster Bay Harbor Food Truck",
+    "slug": "cooper-bluff-oyster-bay-harbor-food-truck",
     "category": "seafood",
     "metros": [
       "boston"
@@ -1594,8 +1594,8 @@
     "toastUrl": "https://order.toasttab.com/online/backbistro"
   },
   {
-    "name": "Back Deck Bar and Lounge- Story Ave 1601 Story Avenue",
-    "slug": "backdeckbarandlounge-storyave1601storyav",
+    "name": "Back Deck Bar and Lounge- Story Ave",
+    "slug": "back-deck-bar-and-lounge-story-ave",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -1711,8 +1711,8 @@
     "toastUrl": "https://order.toasttab.com/online/northend-77-north-court-street"
   },
   {
-    "name": "North End Cafe 2000 Elmwood Ave",
-    "slug": "northendcafe2000elmwoodave",
+    "name": "North End Cafe",
+    "slug": "north-end-cafe",
     "category": "cafe",
     "metros": [
       "boston"
@@ -1765,8 +1765,8 @@
     "toastUrl": "https://order.toasttab.com/online/north-street-curry-restaurant-216-north-st"
   },
   {
-    "name": "One North Kitchen & Bar - 2115 Bondsteel Dr, Jackson, MI",
-    "slug": "onenorthkitchenbar-2115bondsteeldrjackso",
+    "name": "One North Kitchen & Bar",
+    "slug": "one-north-kitchen-bar",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -1774,8 +1774,8 @@
     "toastUrl": "https://order.toasttab.com/online/one-north-kitchen-bar-jackson-2115-bondsteel-dr"
   },
   {
-    "name": "Salma's Pizza and Indian Restaurant 4810 north street",
-    "slug": "salmaspizzaandindianrestaurant4810norths",
+    "name": "Salma's Pizza and Indian Restaurant",
+    "slug": "salma-s-pizza-and-indian-restaurant",
     "category": "pizza",
     "metros": [
       "boston"
@@ -1819,8 +1819,8 @@
     "toastUrl": "https://order.toasttab.com/online/one-north-kitchen-and-bar-1-n-wacker-dr"
   },
   {
-    "name": "The North Fork Table & Inn 57225 Main Road",
-    "slug": "thenorthforktableinn57225mainroad",
+    "name": "The North Fork Table & Inn",
+    "slug": "the-north-fork-table-inn",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -1864,8 +1864,8 @@
     "toastUrl": "https://order.toasttab.com/online/machu-chicken-somerville-25-union-sq"
   },
   {
-    "name": "912 Somerville St - Order Online",
-    "slug": "912somervillest-orderonline",
+    "name": "Tropical To Go",
+    "slug": "tropical-to-go",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -1873,8 +1873,8 @@
     "toastUrl": "https://order.toasttab.com/online/tropical-to-go-912-somerville-st"
   },
   {
-    "name": "Origin French Thai - Somerville 25 Division Street",
-    "slug": "originfrenchthai-somerville25divisionstr",
+    "name": "Origin French Thai - Somerville",
+    "slug": "origin-french-thai-somerville",
     "category": "thai",
     "metros": [
       "boston"
@@ -1882,8 +1882,8 @@
     "toastUrl": "https://order.toasttab.com/online/origin-french-thai-somerville-25-division-street"
   },
   {
-    "name": "Espos 365 Somerville Avenue",
-    "slug": "espos365somervilleavenue",
+    "name": "Espos",
+    "slug": "espos",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -1900,8 +1900,8 @@
     "toastUrl": "https://order.toasttab.com/online/maruichi-299-harvard-st"
   },
   {
-    "name": "RiceBurg BROOKLINE 6 Cypress Street",
-    "slug": "riceburgbrookline6cypressstreet",
+    "name": "RiceBurg BROOKLINE",
+    "slug": "riceburg-brookline",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -1963,8 +1963,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-middle-gray-brookline"
   },
   {
-    "name": "Bakey - Brookline 370 Harvard Street",
-    "slug": "bakey-brookline370harvardstreet",
+    "name": "Bakey - Brookline",
+    "slug": "bakey-brookline",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -2008,8 +2008,8 @@
     "toastUrl": "https://order.toasttab.com/online/capricho-colombian-steakhouse-new-1627-beacon-street"
   },
   {
-    "name": "Sufra Mediterranean 52 queensberry st",
-    "slug": "suframediterranean52queensberryst",
+    "name": "Sufra Mediterranean",
+    "slug": "sufra-mediterranean",
     "category": "mediterranean",
     "metros": [
       "boston"
@@ -2035,8 +2035,8 @@
     "toastUrl": "https://order.toasttab.com/online/mediterranean-sandwich-co-fairhope-9887-hwy-104"
   },
   {
-    "name": "Sevmar Mediterranean Bistro 401 Main St",
-    "slug": "sevmarmediterraneanbistro401mainst",
+    "name": "Sevmar Mediterranean Bistro",
+    "slug": "sevmar-mediterranean-bistro",
     "category": "mediterranean",
     "metros": [
       "boston"
@@ -2170,8 +2170,8 @@
     "toastUrl": "https://order.toasttab.com/online/veganonthefly45st"
   },
   {
-    "name": "Cleveland Vegan 17112 Detroit Ave",
-    "slug": "clevelandvegan17112detroitave",
+    "name": "Cleveland Vegan",
+    "slug": "cleveland-vegan",
     "category": "vegan",
     "metros": [
       "boston"
@@ -2197,8 +2197,8 @@
     "toastUrl": "https://order.toasttab.com/online/esquinacubana"
   },
   {
-    "name": "Cachita Cuban Cuisine 1116 normandy dr",
-    "slug": "cachitacubancuisine1116normandydr",
+    "name": "Cachita Cuban Cuisine",
+    "slug": "cachita-cuban-cuisine",
     "category": "latin",
     "metros": [
       "boston"
@@ -2269,8 +2269,8 @@
     "toastUrl": "https://order.toasttab.com/online/hot-chix-boston-1220-cambridge-st"
   },
   {
-    "name": "Boston Burger Company 1100 Boylston St",
-    "slug": "bostonburgercompany1100boylstonst",
+    "name": "Boston Burger Company",
+    "slug": "boston-burger-company",
     "category": "burgers",
     "metros": [
       "boston"
@@ -2278,8 +2278,8 @@
     "toastUrl": "https://order.toasttab.com/online/boston-burger-company-boston-1100-boylston-st"
   },
   {
-    "name": "Boston Burger Company - Salem 133 Washington St",
-    "slug": "bostonburgercompany-salem133washingtonst",
+    "name": "Boston Burger Company - Salem",
+    "slug": "boston-burger-company-salem",
     "category": "burgers",
     "metros": [
       "boston"
@@ -2323,8 +2323,8 @@
     "toastUrl": "https://order.toasttab.com/online/castle-island-brewing-company-south-boston"
   },
   {
-    "name": "Wings and Burgers To Go 1733 West Mississippi Avenue",
-    "slug": "wingsandburgerstogo1733westmississippiav",
+    "name": "Wings and Burgers To Go",
+    "slug": "wings-and-burgers-to-go",
     "category": "burgers",
     "metros": [
       "boston"
@@ -2341,8 +2341,8 @@
     "websiteOrderUrl": "https://order.online/store/row-34-boston-24576651"
   },
   {
-    "name": "bos' sichuan taste 204 Harvard Avenue",
-    "slug": "bossichuantaste204harvardavenue",
+    "name": "bos' sichuan taste",
+    "slug": "bos-sichuan-taste",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -2454,8 +2454,8 @@
     ]
   },
   {
-    "name": "Lee’s Sandwiches Worcester - Boston",
-    "slug": "leessandwichesworcester-boston",
+    "name": "Lee’s Sandwiches Worcester",
+    "slug": "lee-s-sandwiches-worcester",
     "category": "deli",
     "metros": [
       "boston"
@@ -2628,8 +2628,8 @@
     "websiteOrderUrl": "https://www.getbento.com/products/online-ordering/"
   },
   {
-    "name": "TABLE - BOSTON, MA",
-    "slug": "table-bostonma",
+    "name": "TABLE",
+    "slug": "table",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -2637,8 +2637,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/table-boston"
   },
   {
-    "name": "BLUE NILE - BOSTON, MA",
-    "slug": "bluenile-bostonma",
+    "name": "BLUE NILE",
+    "slug": "blue-nile",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -2646,8 +2646,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/blue-nile-boston"
   },
   {
-    "name": "DARBAR RESTAURANT - BOSTON, MA",
-    "slug": "darbarrestaurant-bostonma",
+    "name": "DARBAR RESTAURANT",
+    "slug": "darbar-restaurant",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -2664,8 +2664,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/bostonkebabwaltham"
   },
   {
-    "name": "LUCY ETHIOPIAN CAFE - BOSTON, MA",
-    "slug": "lucyethiopiancafe-bostonma",
+    "name": "LUCY ETHIOPIAN CAFE",
+    "slug": "lucy-ethiopian-cafe",
     "category": "cafe",
     "metros": [
       "boston"
@@ -2673,8 +2673,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/lucy-ethiopian-cafe-boston"
   },
   {
-    "name": "R & S JAMAICAN RESTAURANT - BOSTON, MA",
-    "slug": "rsjamaicanrestaurant-bostonma",
+    "name": "R & S JAMAICAN RESTAURANT",
+    "slug": "r-s-jamaican-restaurant",
     "category": "caribbean",
     "metros": [
       "boston"
@@ -2691,8 +2691,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/the-silo-31626-boston"
   },
   {
-    "name": "THAI PLACE - BOSTON, MA",
-    "slug": "thaiplace-bostonma",
+    "name": "THAI PLACE",
+    "slug": "thai-place",
     "category": "thai",
     "metros": [
       "boston"
@@ -2700,8 +2700,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/thai-place-boston"
   },
   {
-    "name": "WICHIT Sandwich - BOSTON, MA",
-    "slug": "wichitsandwich-bostonma",
+    "name": "WICHIT Sandwich",
+    "slug": "wichit-sandwich",
     "category": "deli",
     "metros": [
       "boston"
@@ -2709,8 +2709,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/wichitboston"
   },
   {
-    "name": "BRASSERIE - BOSTON, MA",
-    "slug": "brasserie-bostonma",
+    "name": "BRASSERIE",
+    "slug": "brasserie",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -2718,8 +2718,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/brasserie-boston"
   },
   {
-    "name": "FROM SCRATCH - BOSTON, MA",
-    "slug": "fromscratch-bostonma",
+    "name": "FROM SCRATCH",
+    "slug": "from-scratch",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -2727,8 +2727,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/from-scratch-boston"
   },
   {
-    "name": "CAPITOL COFFEE HOUSE - BOSTON, MA",
-    "slug": "capitolcoffeehouse-bostonma",
+    "name": "CAPITOL COFFEE HOUSE",
+    "slug": "capitol-coffee-house",
     "category": "cafe",
     "metros": [
       "boston"
@@ -2736,8 +2736,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/capitol-coffee-house-boston"
   },
   {
-    "name": "CRYSTAL SPOONS - BOSTON, MA",
-    "slug": "crystalspoons-bostonma",
+    "name": "CRYSTAL SPOONS",
+    "slug": "crystal-spoons",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -2754,8 +2754,8 @@
     "websiteOrderUrl": "https://www.clover.com/ca/pos-systems/online-ordering"
   },
   {
-    "name": "TUTUGETHER - BOSTON, MA",
-    "slug": "tutugether-bostonma",
+    "name": "TUTUGETHER",
+    "slug": "tutugether",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -2781,8 +2781,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/red-apple-farm-market-boston"
   },
   {
-    "name": "So Sabe Catering & Treats - BOSTON, MA",
-    "slug": "sosabecateringtreats-bostonma",
+    "name": "So Sabe Catering & Treats",
+    "slug": "so-sabe-catering-treats",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -2799,8 +2799,8 @@
     "toastUrl": "https://order.toasttab.com/online/boston-gourmet-foods-nro-1255-washington-st-newton"
   },
   {
-    "name": "Four Spoons Thai 2021 - Newton 796 Beacon Street",
-    "slug": "fourspoonsthai2021-newton796beaconstreet",
+    "name": "Four Spoons Thai 2021 - Newton",
+    "slug": "four-spoons-thai-2021-newton",
     "category": "thai",
     "metros": [
       "boston"
@@ -2916,8 +2916,8 @@
     "toastUrl": "https://order.toasttab.com/online/boston-deli-grill-inc"
   },
   {
-    "name": "Adeli Express Factory 3735 Boston st",
-    "slug": "adeliexpressfactory3735bostonst",
+    "name": "Adeli Express Factory",
+    "slug": "adeli-express-factory",
     "category": "deli",
     "metros": [
       "boston"
@@ -2934,8 +2934,8 @@
     "toastUrl": "https://order.toasttab.com/online/berts-deli-milford-ct-400-boston-post-rd"
   },
   {
-    "name": "Latchkey Deli 1035 Massachusetts St",
-    "slug": "latchkeydeli1035massachusettsst",
+    "name": "Latchkey Deli",
+    "slug": "latchkey-deli",
     "category": "deli",
     "metros": [
       "boston"
@@ -2979,8 +2979,8 @@
     "toastUrl": "https://order.toasttab.com/online/manoapoke"
   },
   {
-    "name": "Poke-City Cambridge 1722 Massachusetts Avenue",
-    "slug": "poke-citycambridge1722massachusettsavenu",
+    "name": "Poke-City Cambridge",
+    "slug": "poke-city-cambridge",
     "category": "japanese",
     "metros": [
       "boston"
@@ -3006,8 +3006,8 @@
     "toastUrl": "https://order.toasttab.com/online/oshi-poke-and-sushi-new-201-jefferson-street-north"
   },
   {
-    "name": "Poke Sushi 1720 Washington Road",
-    "slug": "pokesushi1720washingtonroad",
+    "name": "Poke Sushi",
+    "slug": "poke-sushi",
     "category": "japanese",
     "metros": [
       "boston"
@@ -3042,8 +3042,8 @@
     "toastUrl": "https://order.toasttab.com/online/mammoth-poke-bowl-2035-north-western-avenue"
   },
   {
-    "name": "Poke Burri 3231 powelton ave",
-    "slug": "pokeburri3231poweltonave",
+    "name": "Poke Burri",
+    "slug": "poke-burri",
     "category": "japanese",
     "metros": [
       "boston"
@@ -3096,8 +3096,8 @@
     "toastUrl": "https://order.toasttab.com/online/streeterville"
   },
   {
-    "name": "Captain James seafood palace 2127 Boston St",
-    "slug": "captainjamesseafoodpalace2127bostonst",
+    "name": "Captain James seafood palace",
+    "slug": "captain-james-seafood-palace",
     "category": "seafood",
     "metros": [
       "boston"
@@ -3186,8 +3186,8 @@
     "toastUrl": "https://order.toasttab.com/online/saloniki-beacon-hill-1-beacon-street"
   },
   {
-    "name": "The Greek Corner 2366 Massachusetts Avenue",
-    "slug": "thegreekcorner2366massachusettsavenue",
+    "name": "The Greek Corner",
+    "slug": "the-greek-corner",
     "category": "mediterranean",
     "metros": [
       "boston"
@@ -3213,8 +3213,8 @@
     "toastUrl": "https://order.toasttab.com/online/bostonbeanhouse"
   },
   {
-    "name": "Opa Greek Yeeros 378 Highland Ave",
-    "slug": "opagreekyeeros378highlandave",
+    "name": "Opa Greek Yeeros",
+    "slug": "opa-greek-yeeros",
     "category": "mediterranean",
     "metros": [
       "boston"
@@ -3276,8 +3276,8 @@
     "toastUrl": "https://order.toasttab.com/online/go-to-greek-3025-e-main-st"
   },
   {
-    "name": "Bennett's Sandwich Shop - Boston, MA",
-    "slug": "bennettssandwichshop-bostonma",
+    "name": "Bennett's Sandwich Shop",
+    "slug": "bennett-s-sandwich-shop",
     "category": "deli",
     "metros": [
       "boston"
@@ -3330,8 +3330,8 @@
     "toastUrl": "https://order.toasttab.com/online/boloco-boston-com"
   },
   {
-    "name": "South End Buttery - 314 Shawmut Avenue, Boston, MA",
-    "slug": "southendbuttery-314shawmutavenuebostonma",
+    "name": "South End Buttery",
+    "slug": "south-end-buttery",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -3339,8 +3339,8 @@
     "toastUrl": "https://order.toasttab.com/online/south-end-buttery-shawmut-cafe-312-shawmut-ave"
   },
   {
-    "name": "Scores - Boston 166 Canal Street",
-    "slug": "scores-boston166canalstreet",
+    "name": "Scores",
+    "slug": "scores",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -3348,8 +3348,8 @@
     "toastUrl": "https://order.toasttab.com/online/scores-boston-166-canal-street"
   },
   {
-    "name": "Clery's - Boston, MA",
-    "slug": "clerys-bostonma",
+    "name": "Clery's",
+    "slug": "clery-s",
     "category": "restaurant",
     "metros": [
       "boston"
@@ -3357,8 +3357,8 @@
     "toastUrl": "https://order.toasttab.com/online/clerys-boston-ma-113-dartmouth-st"
   },
   {
-    "name": "jindu 131 boston post rd",
-    "slug": "jindu131bostonpostrd",
+    "name": "jindu",
+    "slug": "jindu",
     "category": "restaurant",
     "metros": [
       "boston"

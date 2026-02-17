@@ -277,8 +277,8 @@
     "toastUrl": "https://order.toasttab.com/online/slyce-coal-fired-pizza-company-vernon-hills-913-n-milwaukee-ave-100"
   },
   {
-    "name": "Sorella - Milwaukee",
-    "slug": "sorella-milwaukee",
+    "name": "Sorella",
+    "slug": "sorella",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -286,8 +286,8 @@
     "toastUrl": "https://order.toasttab.com/online/sorella-milwaukee"
   },
   {
-    "name": "Pizza Man - MKE (Humboldt) 2060 North Humboldt Boulevard",
-    "slug": "pizzaman-mkehumboldt2060northhumboldtbou",
+    "name": "Pizza Man - MKE (Humboldt)",
+    "slug": "pizza-man-mke-humboldt",
     "category": "pizza",
     "metros": [
       "milwaukee"
@@ -295,8 +295,8 @@
     "toastUrl": "https://order.toasttab.com/online/pizza-man-mke-humboldt-2060-north-humboldt-boulevard"
   },
   {
-    "name": "Dario's Pizza & Calzone 6810 Milwaukee Avenue",
-    "slug": "dariospizzacalzone6810milwaukeeavenue",
+    "name": "Dario's Pizza & Calzone",
+    "slug": "dario-s-pizza-calzone",
     "category": "pizza",
     "metros": [
       "milwaukee"
@@ -304,8 +304,8 @@
     "toastUrl": "https://order.toasttab.com/online/dario-s-pizza-calzone-6810-milwaukee-avenue"
   },
   {
-    "name": "Paulie Gee's Logan Square 2451 N Milwaukee Ave",
-    "slug": "pauliegeeslogansquare2451nmilwaukeeave",
+    "name": "Paulie Gee's Logan Square",
+    "slug": "paulie-gee-s-logan-square",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -331,8 +331,8 @@
     "toastUrl": "https://order.toasttab.com/online/red-lion-pub-milwaukee"
   },
   {
-    "name": "Cubanitas - Milwaukee",
-    "slug": "cubanitas-milwaukee",
+    "name": "Cubanitas",
+    "slug": "cubanitas",
     "category": "latin",
     "metros": [
       "milwaukee"
@@ -349,8 +349,8 @@
     "toastUrl": "https://order.toasttab.com/online/pattyshackwi"
   },
   {
-    "name": "Indeed Brewing Company - Milwaukee",
-    "slug": "indeedbrewingcompany-milwaukee",
+    "name": "Indeed Brewing Company",
+    "slug": "indeed-brewing-company",
     "category": "cafe",
     "metros": [
       "milwaukee"
@@ -358,8 +358,8 @@
     "toastUrl": "https://order.toasttab.com/online/indeed-milw-to-go"
   },
   {
-    "name": "Brunch It Up - Milwaukee 714 N MILWAUKEE ST",
-    "slug": "brunchitup-milwaukee714nmilwaukeest",
+    "name": "Brunch It Up",
+    "slug": "brunch-it-up",
     "category": "breakfast",
     "metros": [
       "milwaukee"
@@ -529,8 +529,8 @@
     "toastUrl": "https://order.toasttab.com/online/city-market-cafe-wauwatosa"
   },
   {
-    "name": "Madhura Cafe 20534 Milwaukee Ave",
-    "slug": "madhuracafe20534milwaukeeave",
+    "name": "Madhura Cafe",
+    "slug": "madhura-cafe",
     "category": "cafe",
     "metros": [
       "milwaukee"
@@ -574,8 +574,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-city-market-cafe-shorewood"
   },
   {
-    "name": "The Little Village Play Cafe 6505 West North Avenue",
-    "slug": "thelittlevillageplaycafe6505westnorthave",
+    "name": "The Little Village Play Cafe",
+    "slug": "the-little-village-play-cafe",
     "category": "cafe",
     "metros": [
       "milwaukee"
@@ -583,8 +583,8 @@
     "toastUrl": "https://order.toasttab.com/online/littlevillage"
   },
   {
-    "name": "First Ward House 2101 St Joseph Ave",
-    "slug": "firstwardhouse2101stjosephave",
+    "name": "First Ward House",
+    "slug": "first-ward-house",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -592,8 +592,8 @@
     "toastUrl": "https://order.toasttab.com/online/firstwardhouse"
   },
   {
-    "name": "Wine on Third 501 3rd Street",
-    "slug": "wineonthird5013rdstreet",
+    "name": "Wine on Third",
+    "slug": "wine-on-third",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -655,8 +655,8 @@
     "toastUrl": "https://order.toasttab.com/online/third-street-social-plaza"
   },
   {
-    "name": "Trapezium Brewing 423 Third Street",
-    "slug": "trapeziumbrewing423thirdstreet",
+    "name": "Trapezium Brewing",
+    "slug": "trapezium-brewing",
     "category": "cafe",
     "metros": [
       "milwaukee"
@@ -799,8 +799,8 @@
     "toastUrl": "https://order.toasttab.com/online/stadium-view"
   },
   {
-    "name": "The View Restaurant 1701 W Roosevelt Rd",
-    "slug": "theviewrestaurant1701wrooseveltrd",
+    "name": "The View Restaurant",
+    "slug": "the-view-restaurant",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -835,8 +835,8 @@
     "toastUrl": "https://order.toasttab.com/online/carsons-ribs-milwaukee"
   },
   {
-    "name": "Old Town Bar and Grill 315 East 1st Street",
-    "slug": "oldtownbarandgrill315east1ststreet",
+    "name": "Old Town Bar and Grill",
+    "slug": "old-town-bar-and-grill",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -844,8 +844,8 @@
     "toastUrl": "https://order.toasttab.com/online/oldtownbar"
   },
   {
-    "name": "Points East Pub 1501 N JACKSON ST",
-    "slug": "pointseastpub1501njacksonst",
+    "name": "Points East Pub",
+    "slug": "points-east-pub",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -880,8 +880,8 @@
     "toastUrl": "https://order.toasttab.com/online/locations/19651610-b3a2-4701-bf59-72a672a58bf3"
   },
   {
-    "name": "Sticks and Stones - 2200 Walker Ave, Greensboro, NC",
-    "slug": "sticksandstones-2200walkeravegreensboron",
+    "name": "Sticks and Stones",
+    "slug": "sticks-and-stones",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -889,8 +889,8 @@
     "toastUrl": "https://order.toasttab.com/online/sticks-and-stones-2200-walker-ave"
   },
   {
-    "name": "Burger Punk #1 3012 N Walker Ave",
-    "slug": "burgerpunk13012nwalkerave",
+    "name": "Burger Punk #1",
+    "slug": "burger-punk-1",
     "category": "burgers",
     "metros": [
       "milwaukee"
@@ -943,8 +943,8 @@
     "toastUrl": "https://order.toasttab.com/online/thehungerspoint"
   },
   {
-    "name": "New Village Gastro Pub and Karaoke 3566 Milwaukee Ave",
-    "slug": "newvillagegastropubandkaraoke3566milwauk",
+    "name": "New Village Gastro Pub and Karaoke",
+    "slug": "new-village-gastro-pub-and-karaoke",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -952,8 +952,8 @@
     "toastUrl": "https://order.toasttab.com/online/new-village-gastro-pub-3566-milwaukee-ave"
   },
   {
-    "name": "92 Town Korean BBQ",
-    "slug": "92townkoreanbbq",
+    "name": "92town",
+    "slug": "92town",
     "category": "bbq",
     "metros": [
       "milwaukee"
@@ -961,8 +961,8 @@
     "toastUrl": "https://order.toasttab.com/online/92town"
   },
   {
-    "name": "Hangar Two 1100 North Milwaukee Avenue",
-    "slug": "hangartwo1100northmilwaukeeavenue",
+    "name": "Hangar Two",
+    "slug": "hangar-two",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -1015,8 +1015,8 @@
     "toastUrl": "https://order.toasttab.com/online/oz-korean-bbq-elk-grove"
   },
   {
-    "name": "Big Bear Sushi & Thai 3334 N Milwaukee Ave",
-    "slug": "bigbearsushithai3334nmilwaukeeave",
+    "name": "Big Bear Sushi & Thai",
+    "slug": "big-bear-sushi-thai",
     "category": "japanese",
     "metros": [
       "milwaukee"
@@ -1024,8 +1024,8 @@
     "toastUrl": "https://order.toasttab.com/online/big-bear-sushi-thai-3334-north-milwaukee-avenue"
   },
   {
-    "name": "Soko Bag Korean Fried Chicken 95 Nutt Road",
-    "slug": "sokobagkoreanfriedchicken95nuttroad",
+    "name": "Soko Bag Korean Fried Chicken",
+    "slug": "soko-bag-korean-fried-chicken",
     "category": "korean",
     "metros": [
       "milwaukee"
@@ -1042,8 +1042,8 @@
     "toastUrl": "https://order.toasttab.com/online/aloha-poke-co-milwaukee"
   },
   {
-    "name": "Poke Okie 2945 North Milwaukee Avenue",
-    "slug": "pokeokie2945northmilwaukeeavenue",
+    "name": "Poke Okie",
+    "slug": "poke-okie",
     "category": "japanese",
     "metros": [
       "milwaukee"
@@ -1105,8 +1105,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-bowl-fargo-560-2nd-avenue-n-suite-a"
   },
   {
-    "name": "Poke OG @ 1800 143 NW 23 ST",
-    "slug": "pokeog1800143nw23st",
+    "name": "Poke OG @ 1800",
+    "slug": "poke-og-1800",
     "category": "japanese",
     "metros": [
       "milwaukee"
@@ -1186,8 +1186,8 @@
     "toastUrl": "https://order.toasttab.com/online/icon%20mediterranean"
   },
   {
-    "name": "Mad Rooster - Milwaukee 4401 W Greenfield Ave",
-    "slug": "madrooster-milwaukee4401wgreenfieldave",
+    "name": "Mad Rooster",
+    "slug": "mad-rooster",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -1195,8 +1195,8 @@
     "toastUrl": "https://order.toasttab.com/online/mad-rooster-milwaukee-4401-w-greenfield-ave"
   },
   {
-    "name": "Toast Milwaukee 231 South 2nd Street",
-    "slug": "toastmilwaukee231south2ndstreet",
+    "name": "Toast Milwaukee",
+    "slug": "toast-milwaukee",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -1204,8 +1204,8 @@
     "toastUrl": "https://order.toasttab.com/online/toast-new-231-south-2nd-street-rhyvd"
   },
   {
-    "name": "Allie's Vegan Pizzeria 1314 S Grand Blvd",
-    "slug": "alliesveganpizzeria1314sgrandblvd",
+    "name": "Allie's Vegan Pizzeria",
+    "slug": "allie-s-vegan-pizzeria",
     "category": "pizza",
     "metros": [
       "milwaukee"
@@ -1222,8 +1222,8 @@
     "toastUrl": "https://order.toasttab.com/online/veganonthefly45st"
   },
   {
-    "name": "Loaf Lounge 2934 N Milwaukee Ave Suite E",
-    "slug": "loaflounge2934nmilwaukeeavesuitee",
+    "name": "Loaf Lounge",
+    "slug": "loaf-lounge",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -1231,8 +1231,8 @@
     "toastUrl": "https://order.toasttab.com/online/loaf-lounge-2934-n-milwaukee-ave-suite-e"
   },
   {
-    "name": "Mike's Vegan Food Truck - 11.24 2501 W Gate City Blvd",
-    "slug": "mikesveganfoodtruck-11242501wgatecityblv",
+    "name": "Mike's Vegan Food Truck - 11.24",
+    "slug": "mike-s-vegan-food-truck-11-24",
     "category": "vegan",
     "metros": [
       "milwaukee"
@@ -1249,8 +1249,8 @@
     "toastUrl": "https://order.toasttab.com/online/vegan-plate"
   },
   {
-    "name": "Vegan International Co 13751 N Nebraska Ave",
-    "slug": "veganinternationalco13751nnebraskaave",
+    "name": "Vegan International Co",
+    "slug": "vegan-international-co",
     "category": "vegan",
     "metros": [
       "milwaukee"
@@ -1276,8 +1276,8 @@
     "toastUrl": "https://order.toasttab.com/online/rileys-social-house-411-east-menomonee-street"
   },
   {
-    "name": "The Parched Pug 1590 S Milwaukee Ave, Suite 100",
-    "slug": "theparchedpug1590smilwaukeeavesuite100",
+    "name": "The Parched Pug",
+    "slug": "the-parched-pug",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -1285,8 +1285,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-parched-pug-1590-s-milwaukee-ave-suite-100"
   },
   {
-    "name": "Frankies Restaurant and Catering 1815 East Kenilworth Place",
-    "slug": "frankiesrestaurantandcatering1815eastken",
+    "name": "Frankies Restaurant and Catering",
+    "slug": "frankies-restaurant-and-catering",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -1727,8 +1727,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/burger-town-south-milwaukee-2"
   },
   {
-    "name": "ROLLUP - MILWAUKEE, WI",
-    "slug": "rollup-milwaukeewi",
+    "name": "ROLLUP",
+    "slug": "rollup",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -1736,8 +1736,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/roll-up-milwaukee"
   },
   {
-    "name": "YOUR IN LUCK EATS - MILWAUKEE, WI",
-    "slug": "yourinluckeats-milwaukeewi",
+    "name": "YOUR IN LUCK EATS",
+    "slug": "your-in-luck-eats",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -1745,8 +1745,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/your-in-luck-eats-milwaukee"
   },
   {
-    "name": "MILW WATERFRONT DELI - MILWAUKEE, WI",
-    "slug": "milwwaterfrontdeli-milwaukeewi",
+    "name": "MILW WATERFRONT DELI",
+    "slug": "milw-waterfront-deli",
     "category": "deli",
     "metros": [
       "milwaukee"
@@ -1754,8 +1754,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/waterfront-deli-milwaukee"
   },
   {
-    "name": "Rise and Grind Cafe - MLK - MILWAUKEE, WI",
-    "slug": "riseandgrindcafe-mlk-milwaukeewi",
+    "name": "Rise and Grind Cafe - MLK",
+    "slug": "rise-and-grind-cafe-mlk",
     "category": "cafe",
     "metros": [
       "milwaukee"
@@ -1763,8 +1763,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/rise-and-grind-cafe--mlk-milwaukee"
   },
   {
-    "name": "MKE WATERFRONT DELI - MILWAUKEE, WI",
-    "slug": "mkewaterfrontdeli-milwaukeewi",
+    "name": "MKE WATERFRONT DELI",
+    "slug": "mke-waterfront-deli",
     "category": "deli",
     "metros": [
       "milwaukee"
@@ -1772,8 +1772,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/Milwaukee-waterfront-deli"
   },
   {
-    "name": "RCW'S CAFE - MILWAUKEE, WI",
-    "slug": "rcwscafe-milwaukeewi",
+    "name": "RCW'S CAFE",
+    "slug": "rcw-s-cafe",
     "category": "cafe",
     "metros": [
       "milwaukee"
@@ -1781,8 +1781,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/rcws-cafe-milwaukee"
   },
   {
-    "name": "BreaD HousE - MILWAUKEE, WI",
-    "slug": "breadhouse-milwaukeewi",
+    "name": "BreaD HousE",
+    "slug": "bread-house",
     "category": "bakery",
     "metros": [
       "milwaukee"
@@ -1790,8 +1790,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/bread-house-milwaukee-2/JTBXKCBCPFST6"
   },
   {
-    "name": "MKE FISH & CHICKEN - MILWAUKEE, WI",
-    "slug": "mkefishchicken-milwaukeewi",
+    "name": "MKE FISH & CHICKEN",
+    "slug": "mke-fish-chicken",
     "category": "seafood",
     "metros": [
       "milwaukee"
@@ -1799,8 +1799,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/mke-fish--chicken-milwaukee"
   },
   {
-    "name": "1700 PULL UP - MILWAUKEE, WI",
-    "slug": "1700pullup-milwaukeewi",
+    "name": "1700 PULL UP",
+    "slug": "1700-pull-up",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -1808,8 +1808,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/1700-pull-up-milwaukee"
   },
   {
-    "name": "JJ Fish and Chicken - Milwaukee, WI",
-    "slug": "jjfishandchicken-milwaukeewi",
+    "name": "JJ Fish and Chicken",
+    "slug": "jj-fish-and-chicken",
     "category": "seafood",
     "metros": [
       "milwaukee"
@@ -1817,8 +1817,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/halal-jj-fish-and-chicke-milwaukee"
   },
   {
-    "name": "BOILER HOUSE CAFE - MILWAUKEE, WI",
-    "slug": "boilerhousecafe-milwaukeewi",
+    "name": "BOILER HOUSE CAFE",
+    "slug": "boiler-house-cafe",
     "category": "cafe",
     "metros": [
       "milwaukee"
@@ -1826,8 +1826,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/boiler-house-cafe-milwaukee"
   },
   {
-    "name": "LUCKY GINGER - MILWAUKEE, WI",
-    "slug": "luckyginger-milwaukeewi",
+    "name": "LUCKY GINGER",
+    "slug": "lucky-ginger",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -1835,8 +1835,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/lucky-ginger-milwaukee-2"
   },
   {
-    "name": "HOUSE OF CORNED BEEF - MILWAUKEE, WI",
-    "slug": "houseofcornedbeef-milwaukeewi",
+    "name": "HOUSE OF CORNED BEEF",
+    "slug": "house-of-corned-beef",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -1844,8 +1844,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/house-of-corned-beef-milwaukee"
   },
   {
-    "name": "THE CLUCKERY - CREAM CITY - MILWAUKEE, WI",
-    "slug": "thecluckery-creamcity-milwaukeewi",
+    "name": "THE CLUCKERY - CREAM CITY",
+    "slug": "the-cluckery-cream-city",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -1853,8 +1853,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/cluckerymilwaukee"
   },
   {
-    "name": "MOCHINUT BAYVIEW - MILWAUKEE, WI",
-    "slug": "mochinutbayview-milwaukeewi",
+    "name": "MOCHINUT BAYVIEW",
+    "slug": "mochinut-bayview",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -1880,8 +1880,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/house-of-corned-beef-milwaukee/6TT8GC1WB8BYY"
   },
   {
-    "name": "VIENTIANE NOODLE SHOP - MILWAUKEE, WI",
-    "slug": "vientianenoodleshop-milwaukeewi",
+    "name": "VIENTIANE NOODLE SHOP",
+    "slug": "vientiane-noodle-shop",
     "category": "chinese",
     "metros": [
       "milwaukee"
@@ -1906,8 +1906,8 @@
     "toastUrl": "https://order.toasttab.com/online/miyako-poke-867-s-broadway-ste-110"
   },
   {
-    "name": "Hawaii Poke Bowl - West St. Paul 1375 South Robert Street",
-    "slug": "hawaiipokebowl-weststpaul1375southrobert",
+    "name": "Hawaii Poke Bowl - West St. Paul",
+    "slug": "hawaii-poke-bowl-west-st-paul",
     "category": "japanese",
     "metros": [
       "milwaukee"
@@ -1924,8 +1924,8 @@
     "toastUrl": "https://order.toasttab.com/online/fresh-off-the-hook-507-n-milwaukee-st"
   },
   {
-    "name": "The Crab Pad 2529 N MILWAUKEE AVE",
-    "slug": "thecrabpad2529nmilwaukeeave",
+    "name": "The Crab Pad",
+    "slug": "the-crab-pad",
     "category": "seafood",
     "metros": [
       "milwaukee"
@@ -1933,8 +1933,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-crab-pad-2529-n-milwaukee-ave"
   },
   {
-    "name": "Jersey's Bar and Grill - Beloit 2770 Milwaukee Rd",
-    "slug": "jerseysbarandgrill-beloit2770milwaukeerd",
+    "name": "Jersey's Bar and Grill - Beloit",
+    "slug": "jersey-s-bar-and-grill-beloit",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -1960,8 +1960,8 @@
     "toastUrl": "https://order.toasttab.com/online/goode-company-seafood-1"
   },
   {
-    "name": "La Mer Seafood 407 Main Street",
-    "slug": "lamerseafood407mainstreet",
+    "name": "La Mer Seafood",
+    "slug": "la-mer-seafood",
     "category": "seafood",
     "metros": [
       "milwaukee"
@@ -1978,8 +1978,8 @@
     "toastUrl": "https://order.toasttab.com/online/buddys"
   },
   {
-    "name": "Hookers Seafood Joint (Harrisburg) 405 Walnut Street",
-    "slug": "hookersseafoodjointharrisburg405walnutst",
+    "name": "Hookers Seafood Joint (Harrisburg)",
+    "slug": "hookers-seafood-joint-harrisburg",
     "category": "seafood",
     "metros": [
       "milwaukee"
@@ -2023,8 +2023,8 @@
     "toastUrl": "https://order.toasttab.com/online/mid-atlantic-seafood-laurel"
   },
   {
-    "name": "Seafood Hut & Market 1936 MacDade Boulevard",
-    "slug": "seafoodhutmarket1936macdadeboulevard",
+    "name": "Seafood Hut & Market",
+    "slug": "seafood-hut-market",
     "category": "seafood",
     "metros": [
       "milwaukee"
@@ -2059,8 +2059,8 @@
     "toastUrl": "https://order.toasttab.com/online/rockfishcampbowie"
   },
   {
-    "name": "Sayle's Seafood 99 Washington Street",
-    "slug": "saylesseafood99washingtonstreet",
+    "name": "Sayle's Seafood",
+    "slug": "sayle-s-seafood",
     "category": "seafood",
     "metros": [
       "milwaukee"
@@ -2086,8 +2086,8 @@
     "toastUrl": "https://order.toasttab.com/online/giorgiosgreekcafe"
   },
   {
-    "name": "The Greek Corner 2366 Massachusetts Avenue",
-    "slug": "thegreekcorner2366massachusettsavenue",
+    "name": "The Greek Corner",
+    "slug": "the-greek-corner",
     "category": "mediterranean",
     "metros": [
       "milwaukee"
@@ -2104,8 +2104,8 @@
     "toastUrl": "https://order.toasttab.com/online/meltemi-21-east-ridgewood-avenue"
   },
   {
-    "name": "The Greek Taverna 1903 Staples Mill Rd",
-    "slug": "thegreektaverna1903staplesmillrd",
+    "name": "The Greek Taverna",
+    "slug": "the-greek-taverna",
     "category": "mediterranean",
     "metros": [
       "milwaukee"
@@ -2131,8 +2131,8 @@
     "toastUrl": "https://order.toasttab.com/online/locations/930f553b-46d3-44de-9c96-514641a8ac43"
   },
   {
-    "name": "Opa Greek Yeeros 378 Highland Ave",
-    "slug": "opagreekyeeros378highlandave",
+    "name": "Opa Greek Yeeros",
+    "slug": "opa-greek-yeeros",
     "category": "mediterranean",
     "metros": [
       "milwaukee"
@@ -2158,8 +2158,8 @@
     "toastUrl": "https://order.toasttab.com/online/kanela-breakfast-club-wicker-park"
   },
   {
-    "name": "Holiday Inn & Suites Milwaukee Airport 545 W Layton Ave",
-    "slug": "holidayinnsuitesmilwaukeeairport545wlayt",
+    "name": "Holiday Inn & Suites Milwaukee Airport",
+    "slug": "holiday-inn-suites-milwaukee-airport",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -2185,8 +2185,8 @@
     "toastUrl": "https://order.toasttab.com/online/azada-grill-1048-s-milwaukee-ave"
   },
   {
-    "name": "Daisies 2375 N Milwaukee Ave",
-    "slug": "daisies2375nmilwaukeeave",
+    "name": "Daisies",
+    "slug": "daisies",
     "category": "restaurant",
     "metros": [
       "milwaukee"
@@ -2194,8 +2194,8 @@
     "toastUrl": "https://order.toasttab.com/online/daisies-2-2375-n-milwaukee-ave-zwpcg"
   },
   {
-    "name": "Sipping Turtle Cafe 2959 North Milwaukee Avenue",
-    "slug": "sippingturtlecafe2959northmilwaukeeavenu",
+    "name": "Sipping Turtle Cafe",
+    "slug": "sipping-turtle-cafe",
     "category": "cafe",
     "metros": [
       "milwaukee"
@@ -2221,8 +2221,8 @@
     "toastUrl": "https://order.toasttab.com/online/hellojuicesmoothies-stl"
   },
   {
-    "name": "Juice World 89 Passaic St",
-    "slug": "juiceworld89passaicst",
+    "name": "Juice World",
+    "slug": "juice-world",
     "category": "juice",
     "metros": [
       "milwaukee"

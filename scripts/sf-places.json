@@ -804,8 +804,8 @@
     ]
   },
   {
-    "name": "Today Food - 601 Kearny Street, San Francisco",
-    "slug": "todayfood-601kearnystreetsanfrancisco",
+    "name": "Today Food",
+    "slug": "today-food",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -813,8 +813,8 @@
     "toastUrl": "https://order.toasttab.com/online/todayfoodsf"
   },
   {
-    "name": "Minnie Bell's Soul Movement - San Francisco",
-    "slug": "minniebellssoulmovement-sanfrancisco",
+    "name": "Minnie Bell's Soul Movement",
+    "slug": "minnie-bell-s-soul-movement",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -831,8 +831,8 @@
     "toastUrl": "https://order.toasttab.com/online/ithai-bangkok-street-food-720-post-street"
   },
   {
-    "name": "San Francisco Neveria & Paleteria 2838 Portage St",
-    "slug": "sanfrancisconeveriapaleteria2838portages",
+    "name": "San Francisco Neveria & Paleteria",
+    "slug": "san-francisco-neveria-paleteria",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -939,8 +939,8 @@
     "toastUrl": "https://order.toasttab.com/online/cafe-la-taza-2475-mission-st"
   },
   {
-    "name": "Cinderella Bakery & Cafe 436 Balboa Street",
-    "slug": "cinderellabakerycafe436balboastreet",
+    "name": "Cinderella Bakery & Cafe",
+    "slug": "cinderella-bakery-cafe",
     "category": "cafe",
     "metros": [
       "sf"
@@ -948,8 +948,8 @@
     "toastUrl": "https://order.toasttab.com/online/cinderella-bakery-cafe-436-balboa-street"
   },
   {
-    "name": "Tosca Cafe 242 Columbus Ave",
-    "slug": "toscacafe242columbusave",
+    "name": "Tosca Cafe",
+    "slug": "tosca-cafe",
     "category": "cafe",
     "metros": [
       "sf"
@@ -1056,8 +1056,8 @@
     "toastUrl": "https://order.toasttab.com/online/carbona-pizza-oakland"
   },
   {
-    "name": "Oakland House of Pizza 16 Water St",
-    "slug": "oaklandhouseofpizza16waterst",
+    "name": "Oakland House of Pizza",
+    "slug": "oakland-house-of-pizza",
     "category": "pizza",
     "metros": [
       "sf"
@@ -1074,8 +1074,8 @@
     "toastUrl": "https://order.toasttab.com/online/oaklandsouth"
   },
   {
-    "name": "Nick's Pizza 6400 Shattuck Ave",
-    "slug": "nickspizza6400shattuckave",
+    "name": "Nick's Pizza",
+    "slug": "nick-s-pizza",
     "category": "pizza",
     "metros": [
       "sf"
@@ -1083,8 +1083,8 @@
     "toastUrl": "https://order.toasttab.com/online/nicks-pizza-6400-shattuck-ave"
   },
   {
-    "name": "Basil Pizzeria - Oakland 300 13th Street",
-    "slug": "basilpizzeria-oakland30013thstreet",
+    "name": "Basil Pizzeria - Oakland",
+    "slug": "basil-pizzeria-oakland",
     "category": "pizza",
     "metros": [
       "sf"
@@ -1128,8 +1128,8 @@
     "toastUrl": "https://order.toasttab.com/online/mission-garnet-pacific-beach-800-garnet-ave"
   },
   {
-    "name": "Mission Curry House 2434 Mission Street",
-    "slug": "missioncurryhouse2434missionstreet",
+    "name": "Mission Curry House",
+    "slug": "mission-curry-house",
     "category": "indian",
     "metros": [
       "sf"
@@ -1137,8 +1137,8 @@
     "toastUrl": "https://order.toasttab.com/online/mission-curry-house-2434-mission-street"
   },
   {
-    "name": "Mission cafe 3201 W Brigantine ave",
-    "slug": "missioncafe3201wbrigantineave",
+    "name": "Mission cafe",
+    "slug": "mission-cafe",
     "category": "cafe",
     "metros": [
       "sf"
@@ -1146,8 +1146,8 @@
     "toastUrl": "https://order.toasttab.com/online/mission-cafe"
   },
   {
-    "name": "Mission Market 124 North Salem Street",
-    "slug": "missionmarket124northsalemstreet",
+    "name": "Mission Market",
+    "slug": "mission-market",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -1164,8 +1164,8 @@
     "toastUrl": "https://order.toasttab.com/online/enjoy-pure-food-drink"
   },
   {
-    "name": "NAMASTE INDIAN CUISINE 1501 Mission Street",
-    "slug": "namasteindiancuisine1501missionstreet",
+    "name": "NAMASTE INDIAN CUISINE",
+    "slug": "namaste-indian-cuisine",
     "category": "indian",
     "metros": [
       "sf"
@@ -1182,8 +1182,8 @@
     "toastUrl": "https://order.toasttab.com/online/mission-rock-resort-817-terry-francois-blvd"
   },
   {
-    "name": "Blue Plate 3218 Mission Street",
-    "slug": "blueplate3218missionstreet",
+    "name": "Blue Plate",
+    "slug": "blue-plate",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -1245,8 +1245,8 @@
     "toastUrl": "https://order.toasttab.com/online/missiontaqueria"
   },
   {
-    "name": "Mission Bar and Grill - Boston 724 Huntington Ave",
-    "slug": "missionbarandgrill-boston724huntingtonav",
+    "name": "Mission Bar and Grill",
+    "slug": "mission-bar-and-grill",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -1254,8 +1254,8 @@
     "toastUrl": "https://order.toasttab.com/online/mission-bar-and-grill-boston-724-huntington-ave"
   },
   {
-    "name": "El Buen Comer 3435 Mission st",
-    "slug": "elbuencomer3435missionst",
+    "name": "El Buen Comer",
+    "slug": "el-buen-comer",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -1398,8 +1398,8 @@
     "toastUrl": "https://order.toasttab.com/online/planta-marina-del-rey"
   },
   {
-    "name": "Marina Bar and Grill 5879 Marina Rd",
-    "slug": "marinabarandgrill5879marinard",
+    "name": "Marina Bar and Grill",
+    "slug": "marina-bar-and-grill",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -1560,8 +1560,8 @@
     "toastUrl": "https://order.toasttab.com/online/rt-rotisserie"
   },
   {
-    "name": "Italian Homemade - Hayes Valley 1 Franklin St",
-    "slug": "italianhomemade-hayesvalley1franklinst",
+    "name": "Italian Homemade - Hayes Valley",
+    "slug": "italian-homemade-hayes-valley",
     "category": "italian",
     "metros": [
       "sf"
@@ -1569,8 +1569,8 @@
     "toastUrl": "https://order.toasttab.com/online/italian-homemade-hayes-valley-1-franklin-st"
   },
   {
-    "name": "THE BURGER STAND - Santa Fe 207 W San Francisco St",
-    "slug": "theburgerstand-santafe207wsanfranciscost",
+    "name": "THE BURGER STAND - Santa Fe",
+    "slug": "the-burger-stand-santa-fe",
     "category": "burgers",
     "metros": [
       "sf"
@@ -1614,7 +1614,7 @@
     "toastUrl": "https://order.toasttab.com/online/super-duper-san-mateo"
   },
   {
-    "name": "317 Burger",
+    "name": "317burger",
     "slug": "317burger",
     "category": "burgers",
     "metros": [
@@ -1623,8 +1623,8 @@
     "toastUrl": "https://order.toasttab.com/online/317burger"
   },
   {
-    "name": "Town's End Brunch 2 Townsend Street",
-    "slug": "townsendbrunch2townsendstreet",
+    "name": "Town's End Brunch",
+    "slug": "town-s-end-brunch",
     "category": "breakfast",
     "metros": [
       "sf"
@@ -1659,8 +1659,8 @@
     "toastUrl": "https://order.toasttab.com/online/sfbrewingco"
   },
   {
-    "name": "Just Brunch 1950 Satellite Blvd Suite 400",
-    "slug": "justbrunch1950satelliteblvdsuite400",
+    "name": "Just Brunch",
+    "slug": "just-brunch",
     "category": "breakfast",
     "metros": [
       "sf"
@@ -1677,8 +1677,8 @@
     "toastUrl": "https://order.toasttab.com/online/san-francisco-deli"
   },
   {
-    "name": "San Francisco Osha Thai BBQ 696 Geary St",
-    "slug": "sanfranciscooshathaibbq696gearyst",
+    "name": "San Francisco Osha Thai BBQ",
+    "slug": "san-francisco-osha-thai-bbq",
     "category": "thai",
     "metros": [
       "sf"
@@ -1695,8 +1695,8 @@
     "toastUrl": "https://order.toasttab.com/online/smokin-ds-bbq-2181-irving-street"
   },
   {
-    "name": "KG BBQ 3108 Manor road",
-    "slug": "kgbbq3108manorroad",
+    "name": "KG BBQ",
+    "slug": "kg-bbq",
     "category": "bbq",
     "metros": [
       "sf"
@@ -1704,8 +1704,8 @@
     "toastUrl": "https://order.toasttab.com/online/kg-bbq-3108-manor-road"
   },
   {
-    "name": "BBQ 1 Jasper 3958 Refuge Road",
-    "slug": "bbq1jasper3958refugeroad",
+    "name": "BBQ 1 Jasper",
+    "slug": "bbq-1-jasper",
     "category": "bbq",
     "metros": [
       "sf"
@@ -1713,8 +1713,8 @@
     "toastUrl": "https://order.toasttab.com/online/bbq-1-jasper-3958-refuge-road"
   },
   {
-    "name": "The Rustic - San Francisco",
-    "slug": "therustic-sanfrancisco",
+    "name": "The Rustic",
+    "slug": "the-rustic",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -2063,8 +2063,8 @@
     "websiteOrderUrl": "https://fogo.olo.com/menu/fogo-de-cho-brazilian-steakhouse-29"
   },
   {
-    "name": "Starbird Wings - San Francisco",
-    "slug": "starbirdwings-sanfrancisco",
+    "name": "Starbird Wings",
+    "slug": "starbird-wings",
     "category": "wings",
     "metros": [
       "sf"
@@ -2090,8 +2090,8 @@
     "websiteOrderUrl": "https://togoscatering.olo.com/menu/san-francisco-16th-st"
   },
   {
-    "name": "Hillstone - San Francisco",
-    "slug": "hillstone-sanfrancisco",
+    "name": "Hillstone",
+    "slug": "hillstone",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -2099,8 +2099,8 @@
     "websiteOrderUrl": "https://hillstone.olo.com/menu/hillstone-san-francisco/products/31248196"
   },
   {
-    "name": "Starbird Salads - San Francisco",
-    "slug": "starbirdsalads-sanfrancisco",
+    "name": "Starbird Salads",
+    "slug": "starbird-salads",
     "category": "healthy",
     "metros": [
       "sf"
@@ -2108,8 +2108,8 @@
     "websiteOrderUrl": "https://starbirdsalads.olo.com/menu/starbird-salads-san-francisco"
   },
   {
-    "name": "Gardenbird - San Francisco",
-    "slug": "gardenbird-sanfrancisco",
+    "name": "Gardenbird",
+    "slug": "gardenbird",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -2125,8 +2125,8 @@
     ]
   },
   {
-    "name": "Starbird Bowls - San Francisco",
-    "slug": "starbirdbowls-sanfrancisco",
+    "name": "Starbird Bowls",
+    "slug": "starbird-bowls",
     "category": "healthy",
     "metros": [
       "sf"
@@ -2279,8 +2279,8 @@
     ]
   },
   {
-    "name": "IL CANTO CAFE - SAN FRANCISCO, CA",
-    "slug": "ilcantocafe-sanfranciscoca",
+    "name": "IL CANTO CAFE",
+    "slug": "il-canto-cafe",
     "category": "cafe",
     "metros": [
       "sf"
@@ -2288,8 +2288,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/il-canto-cafe-san-francisco"
   },
   {
-    "name": "CIELITO LINDO RESTAURANT - SAN FRANCISCO, CA",
-    "slug": "cielitolindorestaurant-sanfranciscoca",
+    "name": "CIELITO LINDO RESTAURANT",
+    "slug": "cielito-lindo-restaurant",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -2297,8 +2297,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/cielito-lindo-restaurant-san-francisco"
   },
   {
-    "name": "PAKWAN O'FARRELL - SAN FRANCISCO, CA",
-    "slug": "pakwanofarrell-sanfranciscoca",
+    "name": "PAKWAN O'FARRELL",
+    "slug": "pakwan-o-farrell",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -2306,8 +2306,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/pakwan-ofarrell-san-francisco"
   },
   {
-    "name": "PUERTO ALEGRE - SAN FRANCISCO, CA",
-    "slug": "puertoalegre-sanfranciscoca",
+    "name": "PUERTO ALEGRE",
+    "slug": "puerto-alegre",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -2315,8 +2315,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/puerto-alegre-san-francisco"
   },
   {
-    "name": "PANCHITAS RESTAURANT #2 - SAN FRANCISCO, CA",
-    "slug": "panchitasrestaurant2-sanfranciscoca",
+    "name": "PANCHITAS RESTAURANT #2",
+    "slug": "panchitas-restaurant-2",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -2324,8 +2324,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/panchitas-restaurant-2-san-francisco"
   },
   {
-    "name": "PAKWAN - 16TH STREET - SAN FRANCISCO, CA",
-    "slug": "pakwan-16thstreet-sanfranciscoca",
+    "name": "PAKWAN - 16TH STREET",
+    "slug": "pakwan-16th-street",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -2333,8 +2333,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/pakwan--16th-street-san-francisco"
   },
   {
-    "name": "LA CUISINE CAFE - SAN FRANCISCO, CA",
-    "slug": "lacuisinecafe-sanfranciscoca",
+    "name": "LA CUISINE CAFE",
+    "slug": "la-cuisine-cafe",
     "category": "cafe",
     "metros": [
       "sf"
@@ -2342,8 +2342,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/la-cuisine-cafe-san-francisco-2"
   },
   {
-    "name": "RESTAURANT SOFIYA - SAN FRANCISCO, CA",
-    "slug": "restaurantsofiya-sanfranciscoca",
+    "name": "RESTAURANT SOFIYA",
+    "slug": "restaurant-sofiya",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -2351,8 +2351,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/restaurant-sofiya-sf"
   },
   {
-    "name": "SASA JAPANESE RESTAURANT - SAN FRANCISCO, CA",
-    "slug": "sasajapaneserestaurant-sanfranciscoca",
+    "name": "SASA JAPANESE RESTAURANT",
+    "slug": "sasa-japanese-restaurant",
     "category": "japanese",
     "metros": [
       "sf"
@@ -2360,8 +2360,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/sasa-japanese-restaurant-san-francisco-2"
   },
   {
-    "name": "PANCHITAS RESTAURANT LLC - SAN FRANCISCO, CA",
-    "slug": "panchitasrestaurantllc-sanfranciscoca",
+    "name": "PANCHITAS RESTAURANT LLC",
+    "slug": "panchitas-restaurant-llc",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -2369,8 +2369,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/panchitas-restaurant-llc-san-francisco"
   },
   {
-    "name": "WING LUM RESTAURANT - SAN FRANCISCO, CA",
-    "slug": "winglumrestaurant-sanfranciscoca",
+    "name": "WING LUM RESTAURANT",
+    "slug": "wing-lum-restaurant",
     "category": "wings",
     "metros": [
       "sf"
@@ -2378,8 +2378,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/wing-lum-restaurant-san-francisco"
   },
   {
-    "name": "BARISTA CAFE - SAN FRANCISCO, CA",
-    "slug": "baristacafe-sanfranciscoca",
+    "name": "BARISTA CAFE",
+    "slug": "barista-cafe",
     "category": "cafe",
     "metros": [
       "sf"
@@ -2387,8 +2387,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/barista-cafe-san-francisco"
   },
   {
-    "name": "Tikal Restaurante Y Pan - San Francisco, CA",
-    "slug": "tikalrestauranteypan-sanfranciscoca",
+    "name": "Tikal Restaurante Y Pan",
+    "slug": "tikal-restaurante-y-pan",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -2396,8 +2396,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/tikal-restaurante-y-pan-san-francisco"
   },
   {
-    "name": "EA CAFE - SAN FRANCISCO, CA",
-    "slug": "eacafe-sanfranciscoca",
+    "name": "EA CAFE",
+    "slug": "ea-cafe",
     "category": "cafe",
     "metros": [
       "sf"
@@ -2405,8 +2405,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/ea-cafe-san-francisco"
   },
   {
-    "name": "SEAFOOD STATION - SAN FRANCISCO, CA",
-    "slug": "seafoodstation-sanfranciscoca",
+    "name": "SEAFOOD STATION",
+    "slug": "seafood-station",
     "category": "seafood",
     "metros": [
       "sf"
@@ -2414,8 +2414,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/seafood-station-san-francisco-2"
   },
   {
-    "name": "MAGIC FLUTE RESTAURANT - SAN FRANCISCO, CA",
-    "slug": "magicfluterestaurant-sanfranciscoca",
+    "name": "MAGIC FLUTE RESTAURANT",
+    "slug": "magic-flute-restaurant",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -2423,8 +2423,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/magic-flute-restaurant-san-francisco-2"
   },
   {
-    "name": "ENSENADA RESTAURANT - SAN FRANCISCO, CA",
-    "slug": "ensenadarestaurant-sanfranciscoca",
+    "name": "ENSENADA RESTAURANT",
+    "slug": "ensenada-restaurant",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -2432,8 +2432,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/ensenada-restaurant-san-francisco-2"
   },
   {
-    "name": "PICARO CAFE - San Francisco, CA",
-    "slug": "picarocafe-sanfranciscoca",
+    "name": "PICARO CAFE",
+    "slug": "picaro-cafe",
     "category": "cafe",
     "metros": [
       "sf"
@@ -2441,8 +2441,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/picaro-cafe-san-francisco"
   },
   {
-    "name": "FIRE & BREW Cloud Kitchen & Bar - SAN FRANCISCO, CA",
-    "slug": "firebrewcloudkitchenbar-sanfranciscoca",
+    "name": "FIRE & BREW Cloud Kitchen & Bar",
+    "slug": "fire-brew-cloud-kitchen-bar",
     "category": "cafe",
     "metros": [
       "sf"
@@ -2531,8 +2531,8 @@
     "websiteOrderUrl": "http://ordering.chownow.com/order/42441/locations/"
   },
   {
-    "name": "Belly Deli 1304 Second Street",
-    "slug": "bellydeli1304secondstreet",
+    "name": "Belly Deli",
+    "slug": "belly-deli",
     "category": "deli",
     "metros": [
       "sf"
@@ -2558,8 +2558,8 @@
     "toastUrl": "https://order.toasttab.com/online/deli-co-110-main-st-suite-1204"
   },
   {
-    "name": "Feng Cha CA - San Francisco",
-    "slug": "fengchaca-sanfrancisco",
+    "name": "Feng Cha CA",
+    "slug": "feng-cha-ca",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -2594,8 +2594,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-urban-deli"
   },
   {
-    "name": "Anthony's Italian Deli 5575 Government St",
-    "slug": "anthonysitaliandeli5575governmentst",
+    "name": "Anthony's Italian Deli",
+    "slug": "anthony-s-italian-deli",
     "category": "deli",
     "metros": [
       "sf"
@@ -2729,8 +2729,8 @@
     "toastUrl": "https://order.toasttab.com/online/fire-wings-san-bernardino"
   },
   {
-    "name": "Fry n Wings- Bloomingdale 369 West Army Trail Road",
-    "slug": "frynwings-bloomingdale369westarmytrailro",
+    "name": "Fry n Wings- Bloomingdale",
+    "slug": "fry-n-wings-bloomingdale",
     "category": "wings",
     "metros": [
       "sf"
@@ -2765,8 +2765,8 @@
     "toastUrl": "https://order.toasttab.com/online/wingsnthingscortez"
   },
   {
-    "name": "Wings and Burgers To Go 1733 West Mississippi Avenue",
-    "slug": "wingsandburgerstogo1733westmississippiav",
+    "name": "Wings and Burgers To Go",
+    "slug": "wings-and-burgers-to-go",
     "category": "burgers",
     "metros": [
       "sf"
@@ -2792,8 +2792,8 @@
     "toastUrl": "https://order.toasttab.com/online/taishokensf"
   },
   {
-    "name": "Burma Superstar San Francisco-309 Clement St",
-    "slug": "burmasuperstarsanfrancisco-309clementst",
+    "name": "Burma Superstar San Francisco",
+    "slug": "burma-superstar-san-francisco",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -2801,8 +2801,8 @@
     "toastUrl": "https://order.toasttab.com/online/burma-superstar-309-clement-st"
   },
   {
-    "name": "Lao Table - San Francisco 149 2nd Street",
-    "slug": "laotable-sanfrancisco1492ndstreet",
+    "name": "Lao Table",
+    "slug": "lao-table",
     "category": "restaurant",
     "metros": [
       "sf"
@@ -2846,8 +2846,8 @@
     "toastUrl": "https://order.toasttab.com/online/qbacubankitchen"
   },
   {
-    "name": "Tina's Cuban Cuisine 23 W 56th St",
-    "slug": "tinascubancuisine23w56thst",
+    "name": "Tina's Cuban Cuisine",
+    "slug": "tina-s-cuban-cuisine",
     "category": "latin",
     "metros": [
       "sf"

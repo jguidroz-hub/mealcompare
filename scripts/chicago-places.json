@@ -202,8 +202,8 @@
     "toastUrl": "https://order.toasttab.com/online/roberts-pizza-and-dough-company"
   },
   {
-    "name": "Labriola Ristorante - Chicago",
-    "slug": "labriolaristorante-chicago",
+    "name": "Labriola Ristorante",
+    "slug": "labriola-ristorante",
     "category": "italian",
     "metros": [
       "chicago"
@@ -533,8 +533,8 @@
     "website": "https://cafenoseaustin.com/"
   },
   {
-    "name": "Costera Cocina Tulum - Chicago",
-    "slug": "costeracocinatulum-chicago",
+    "name": "Costera Cocina Tulum",
+    "slug": "costera-cocina-tulum",
     "category": "restaurant",
     "metros": [
       "chicago"
@@ -1287,8 +1287,8 @@
     ]
   },
   {
-    "name": "Kitchen + Kocktails By Kevin Kelley - Chicago",
-    "slug": "kitchenkocktailsbykevinkelley-chicago",
+    "name": "Kitchen + Kocktails By Kevin Kelley",
+    "slug": "kitchen-kocktails-by-kevin-kelley",
     "category": "restaurant",
     "metros": [
       "chicago"
@@ -1571,8 +1571,8 @@
     "toastUrl": "https://order.toasttab.com/online/chicago-pizza-el-cajon"
   },
   {
-    "name": "Pizza Friendly Pizza - Chicago",
-    "slug": "pizzafriendlypizza-chicago",
+    "name": "Pizza Friendly Pizza",
+    "slug": "pizza-friendly-pizza",
     "category": "pizza",
     "metros": [
       "chicago"
@@ -1598,8 +1598,8 @@
     "toastUrl": "https://order.toasttab.com/online/zacharys-chicago-pizza-oakland"
   },
   {
-    "name": "Tony's Chicago Pizza & Breakfast 2297 falcon ave",
-    "slug": "tonyschicagopizzabreakfast2297falconave",
+    "name": "Tony's Chicago Pizza & Breakfast",
+    "slug": "tony-s-chicago-pizza-breakfast",
     "category": "pizza",
     "metros": [
       "chicago"
@@ -1643,8 +1643,8 @@
     "toastUrl": "https://order.toasttab.com/online/food-on-the-run-2-new-130-east-51st-street"
   },
   {
-    "name": "La Unica Food Mart IL 1515 W Devon Ave",
-    "slug": "launicafoodmartil1515wdevonave",
+    "name": "La Unica Food Mart IL",
+    "slug": "la-unica-food-mart-il",
     "category": "restaurant",
     "metros": [
       "chicago"
@@ -1706,8 +1706,8 @@
     "toastUrl": "https://order.toasttab.com/online/thechicagodinerlakeview"
   },
   {
-    "name": "Gene & Georgetti - Chicago",
-    "slug": "genegeorgetti-chicago",
+    "name": "Gene & Georgetti",
+    "slug": "gene-georgetti",
     "category": "restaurant",
     "metros": [
       "chicago"
@@ -1715,8 +1715,8 @@
     "toastUrl": "https://order.toasttab.com/online/gene-georgetti-chicago"
   },
   {
-    "name": "El Che West Loop, Chicago",
-    "slug": "elchewestloopchicago",
+    "name": "El Che West Loop",
+    "slug": "el-che-west-loop",
     "category": "restaurant",
     "metros": [
       "chicago"
@@ -1760,8 +1760,8 @@
     "toastUrl": "https://order.toasttab.com/online/cafe-press-chicago"
   },
   {
-    "name": "3288 North Elston Avenue Cafe Urbano Avondale",
-    "slug": "3288northelstonavenuecafeurbanoavondale",
+    "name": "Cafe Urbano Avondale",
+    "slug": "cafe-urbano-avondale",
     "category": "cafe",
     "metros": [
       "chicago"
@@ -1769,8 +1769,8 @@
     "toastUrl": "https://order.toasttab.com/online/cafe-urbano-avondale-3288-north-elston-avenue"
   },
   {
-    "name": "OMi Cafe 3135 N Broadway St",
-    "slug": "omicafe3135nbroadwayst",
+    "name": "OMi Cafe",
+    "slug": "omi-cafe",
     "category": "cafe",
     "metros": [
       "chicago"
@@ -1787,8 +1787,8 @@
     "toastUrl": "https://order.toasttab.com/online/khepri-cafe"
   },
   {
-    "name": "Le Cafe Station Grill 1901 N Western Ave",
-    "slug": "lecafestationgrill1901nwesternave",
+    "name": "Le Cafe Station Grill",
+    "slug": "le-cafe-station-grill",
     "category": "cafe",
     "metros": [
       "chicago"
@@ -1832,8 +1832,8 @@
     "toastUrl": "https://order.toasttab.com/online/willow-cafe-and-bistro-4729-north-lincoln-avenue"
   },
   {
-    "name": "Swadesi Cafe 328 South Jefferson Street",
-    "slug": "swadesicafe328southjeffersonstreet",
+    "name": "Swadesi Cafe",
+    "slug": "swadesi-cafe",
     "category": "cafe",
     "metros": [
       "chicago"
@@ -1859,8 +1859,8 @@
     "toastUrl": "https://order.toasttab.com/online/liors-cafe-10500-s-halsted"
   },
   {
-    "name": "Lula Cafe 2537 N Kedzie Blvd",
-    "slug": "lulacafe2537nkedzieblvd",
+    "name": "Lula Cafe",
+    "slug": "lula-cafe",
     "category": "cafe",
     "metros": [
       "chicago"
@@ -1868,8 +1868,8 @@
     "toastUrl": "https://order.toasttab.com/online/lula-cafe-2537-n-kedzie-blvd"
   },
   {
-    "name": "Zocalo - ZÓCALO 1438 West Chicago Avenue",
-    "slug": "zocalo-zcalo1438westchicagoavenue",
+    "name": "Zocalo - ZÓCALO",
+    "slug": "zocalo-z-calo",
     "category": "restaurant",
     "metros": [
       "chicago"
@@ -1877,8 +1877,8 @@
     "toastUrl": "https://order.toasttab.com/online/zocalo-bng"
   },
   {
-    "name": "CAFE NOVA 6431 North Sheridan Road",
-    "slug": "cafenova6431northsheridanroad",
+    "name": "CAFE NOVA",
+    "slug": "cafe-nova",
     "category": "cafe",
     "metros": [
       "chicago"
@@ -1886,8 +1886,8 @@
     "toastUrl": "https://order.toasttab.com/online/cafe-nova-6431-north-sheridan-road"
   },
   {
-    "name": "Top Cafe Cuisine 4393 North Elston Avenue",
-    "slug": "topcafecuisine4393northelstonavenue",
+    "name": "Top Cafe Cuisine",
+    "slug": "top-cafe-cuisine",
     "category": "cafe",
     "metros": [
       "chicago"
@@ -1940,8 +1940,8 @@
     "toastUrl": "https://order.toasttab.com/online/birdsnest-lincoln-park-2500-n-southport-ave"
   },
   {
-    "name": "Cornerstone Cafe Lincoln Park 2200 N Clybourn Ave",
-    "slug": "cornerstonecafelincolnpark2200nclybourna",
+    "name": "Cornerstone Cafe Lincoln Park",
+    "slug": "cornerstone-cafe-lincoln-park",
     "category": "cafe",
     "metros": [
       "chicago"
@@ -2048,8 +2048,8 @@
     "toastUrl": "https://order.toasttab.com/online/peakthaitogorivernorth"
   },
   {
-    "name": "Giardino Trattoria & Pizzeria 12 North River Street",
-    "slug": "giardinotrattoriapizzeria12northriverstr",
+    "name": "Giardino Trattoria & Pizzeria",
+    "slug": "giardino-trattoria-pizzeria",
     "category": "pizza",
     "metros": [
       "chicago"
@@ -2129,8 +2129,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-poke-west-loop-1100-w-madison"
   },
   {
-    "name": "Parlor Pizza Bar - West Loop 108 North Green Street",
-    "slug": "parlorpizzabar-westloop108northgreenstre",
+    "name": "Parlor Pizza Bar",
+    "slug": "parlor-pizza-bar",
     "category": "pizza",
     "metros": [
       "chicago"
@@ -2210,8 +2210,8 @@
     "toastUrl": "https://order.toasttab.com/online/wasabi-ramen-llc"
   },
   {
-    "name": "Order Online | La Boulangerie & Co – Logan Square, Chicago",
-    "slug": "orderonlinelaboulangeriecologansquarechi",
+    "name": "Order Online | La Boulangerie & Co – Logan Square",
+    "slug": "order-online-la-boulangerie-co-logan-square",
     "category": "restaurant",
     "metros": [
       "chicago"
@@ -2282,8 +2282,8 @@
     "toastUrl": "https://order.toasttab.com/online/lakeview-grille"
   },
   {
-    "name": "ROCKS lakeview 3463 N Broadway St",
-    "slug": "rockslakeview3463nbroadwayst",
+    "name": "ROCKS lakeview",
+    "slug": "rocks-lakeview",
     "category": "restaurant",
     "metros": [
       "chicago"
@@ -2300,8 +2300,8 @@
     "toastUrl": "https://order.toasttab.com/online/lakeview-pearl-6300-canal-blvd"
   },
   {
-    "name": "Lakeview Bagel 78 Lakeview Avenue",
-    "slug": "lakeviewbagel78lakeviewavenue",
+    "name": "Lakeview Bagel",
+    "slug": "lakeview-bagel",
     "category": "bakery",
     "metros": [
       "chicago"
@@ -2327,8 +2327,8 @@
     "toastUrl": "https://order.toasttab.com/online/farm-bar-lakeview"
   },
   {
-    "name": "Zazas Pizzeria Clark 3037 N Clark St, Chicago, IL",
-    "slug": "zazaspizzeriaclark3037nclarkstchicagoil",
+    "name": "Zazas Pizzeria Clark",
+    "slug": "zazas-pizzeria-clark",
     "category": "pizza",
     "metros": [
       "chicago"
@@ -2372,8 +2372,8 @@
     "toastUrl": "https://order.toasttab.com/online/east-of-chicago-pizza-company-location-1"
   },
   {
-    "name": "Pazza Pizza 1 1543 N Sedgwick St",
-    "slug": "pazzapizza11543nsedgwickst",
+    "name": "Pazza Pizza 1",
+    "slug": "pazza-pizza-1",
     "category": "pizza",
     "metros": [
       "chicago"
@@ -2435,8 +2435,8 @@
     "toastUrl": "https://order.toasttab.com/online/yeah-man-good-vibes-restaurant-mcdonough-2152-ga-155-n"
   },
   {
-    "name": "Strait Jamaican Cuisine LLC 15 School St",
-    "slug": "straitjamaicancuisinellc15schoolst",
+    "name": "Strait Jamaican Cuisine LLC",
+    "slug": "strait-jamaican-cuisine-llc",
     "category": "caribbean",
     "metros": [
       "chicago"
@@ -2453,8 +2453,8 @@
     "toastUrl": "https://order.toasttab.com/online/countrystylejamaican"
   },
   {
-    "name": "Jamaican Flavors - 358 Kosciuszko Street",
-    "slug": "jamaicanflavors-358kosciuszkostreet",
+    "name": "Jamaican Flavors",
+    "slug": "jamaican-flavors",
     "category": "caribbean",
     "metros": [
       "chicago"
@@ -2471,8 +2471,8 @@
     "toastUrl": "https://order.toasttab.com/online/carenas-jamaican-grille"
   },
   {
-    "name": "JJ Thai Street Food 1715 W CHICAGO AVE",
-    "slug": "jjthaistreetfood1715wchicagoave",
+    "name": "JJ Thai Street Food",
+    "slug": "jj-thai-street-food",
     "category": "thai",
     "metros": [
       "chicago"
@@ -2489,8 +2489,8 @@
     "toastUrl": "https://order.toasttab.com/online/maroon-girl-jamaican-cuisine"
   },
   {
-    "name": "Jamaican Cafe Cuisine 1 -Bear 1643 Pulaski Highway",
-    "slug": "jamaicancafecuisine1-bear1643pulaskihigh",
+    "name": "Jamaican Cafe Cuisine 1 -Bear",
+    "slug": "jamaican-cafe-cuisine-1-bear",
     "category": "cafe",
     "metros": [
       "chicago"
@@ -2552,8 +2552,8 @@
     "toastUrl": "https://order.toasttab.com/online/irie-jamaican-lakewood"
   },
   {
-    "name": "Sunnin Lebanese Café 1776 Westwood Blvd",
-    "slug": "sunninlebanesecaf1776westwoodblvd",
+    "name": "Sunnin Lebanese Café",
+    "slug": "sunnin-lebanese-caf",
     "category": "cafe",
     "metros": [
       "chicago"
@@ -2669,8 +2669,8 @@
     "toastUrl": "https://order.toasttab.com/online/heathers"
   },
   {
-    "name": "705 South Seeley Avenue, Chicago, IL 60612",
-    "slug": "705southseeleyavenuechicagoil60612",
+    "name": "Pita Pita Chicago",
+    "slug": "pita-pita-chicago",
     "category": "restaurant",
     "metros": [
       "chicago"
@@ -3144,8 +3144,8 @@
     "websiteOrderUrl": "https://oceanprime.olo.com/menu/ocean-prime-chicago"
   },
   {
-    "name": "Solita - Chicago",
-    "slug": "solita-chicago",
+    "name": "Solita",
+    "slug": "solita",
     "category": "mexican",
     "metros": [
       "chicago"
@@ -3197,8 +3197,8 @@
     "websiteOrderUrl": "https://jenis.olo.com/menu/connors-park"
   },
   {
-    "name": "MrBeast Burger - 1208 North Wells Street",
-    "slug": "mrbeastburger-1208northwellsstreet",
+    "name": "MrBeast Burger",
+    "slug": "mrbeast-burger",
     "category": "burgers",
     "metros": [
       "chicago"
@@ -3393,8 +3393,8 @@
     "websiteOrderUrl": "https://hairesgulfshrimp.getbento.com/online-ordering/"
   },
   {
-    "name": "CAFE 75 - CHICAGO, IL",
-    "slug": "cafe75-chicagoil",
+    "name": "CAFE 75",
+    "slug": "cafe-75",
     "category": "cafe",
     "metros": [
       "chicago"
@@ -3402,8 +3402,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/cafe-75-chicago"
   },
   {
-    "name": "Anmol BBQ Restaurant - Chicago, IL",
-    "slug": "anmolbbqrestaurant-chicagoil",
+    "name": "Anmol BBQ Restaurant",
+    "slug": "anmol-bbq-restaurant",
     "category": "bbq",
     "metros": [
       "chicago"
@@ -3411,8 +3411,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/anmol-bbq-restaurant-chicago/"
   },
   {
-    "name": "CINCO - CHICAGO, IL",
-    "slug": "cinco-chicagoil",
+    "name": "CINCO",
+    "slug": "cinco",
     "category": "restaurant",
     "metros": [
       "chicago"
@@ -3420,8 +3420,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/cinco--chicago"
   },
   {
-    "name": "ADDA INDIAN CUISINE - CHICAGO, IL",
-    "slug": "addaindiancuisine-chicagoil",
+    "name": "ADDA INDIAN CUISINE",
+    "slug": "adda-indian-cuisine",
     "category": "indian",
     "metros": [
       "chicago"
@@ -3429,8 +3429,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/adda-indian-cuisine-chicago"
   },
   {
-    "name": "LET`S EAT TO LIVE - CHICAGO, IL",
-    "slug": "letseattolive-chicagoil",
+    "name": "LET`S EAT TO LIVE",
+    "slug": "let-s-eat-to-live",
     "category": "restaurant",
     "metros": [
       "chicago"
@@ -3438,8 +3438,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/lets-eat-to-live-chicago"
   },
   {
-    "name": "ANTIQUE TACO WICKER PARK - CHICAGO, IL",
-    "slug": "antiquetacowickerpark-chicagoil",
+    "name": "ANTIQUE TACO WICKER PARK",
+    "slug": "antique-taco-wicker-park",
     "category": "mexican",
     "metros": [
       "chicago"
@@ -3447,8 +3447,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/antique-taco-wicker-park-chicago"
   },
   {
-    "name": "PITA EXPRESS - CHICAGO, IL",
-    "slug": "pitaexpress-chicagoil",
+    "name": "PITA EXPRESS",
+    "slug": "pita-express",
     "category": "mediterranean",
     "metros": [
       "chicago"
@@ -3456,8 +3456,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/pita-express-chicago"
   },
   {
-    "name": "Antique Taco Bridgeport - CHICAGO, IL",
-    "slug": "antiquetacobridgeport-chicagoil",
+    "name": "Antique Taco Bridgeport",
+    "slug": "antique-taco-bridgeport",
     "category": "mexican",
     "metros": [
       "chicago"
@@ -3465,8 +3465,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/antique-taco-bridgeport-chicago"
   },
   {
-    "name": "Sandwich Queen Express - CHICAGO, IL",
-    "slug": "sandwichqueenexpress-chicagoil",
+    "name": "Sandwich Queen Express",
+    "slug": "sandwich-queen-express",
     "category": "deli",
     "metros": [
       "chicago"
@@ -3474,8 +3474,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/sandwich-queen-express-chicago"
   },
   {
-    "name": "RIVERS & ROADS CAFE - CHICAGO, IL",
-    "slug": "riversroadscafe-chicagoil",
+    "name": "RIVERS & ROADS CAFE",
+    "slug": "rivers-roads-cafe",
     "category": "cafe",
     "metros": [
       "chicago"
@@ -3483,8 +3483,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/rivers--roads-cafe-chicago"
   },
   {
-    "name": "CAFE NOVA - CHICAGO, IL",
-    "slug": "cafenova-chicagoil",
+    "name": "CAFE NOVA",
+    "slug": "cafe-nova",
     "category": "cafe",
     "metros": [
       "chicago"
@@ -3492,8 +3492,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/cafe-nova-chicago"
   },
   {
-    "name": "THE CUPTOWN - CHICAGO, IL",
-    "slug": "thecuptown-chicagoil",
+    "name": "THE CUPTOWN",
+    "slug": "the-cuptown",
     "category": "restaurant",
     "metros": [
       "chicago"
@@ -3501,8 +3501,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/the-cuptown-chicago"
   },
   {
-    "name": "LOLA'S CONEY ISLAND - CHICAGO, IL",
-    "slug": "lolasconeyisland-chicagoil",
+    "name": "LOLA'S CONEY ISLAND",
+    "slug": "lola-s-coney-island",
     "category": "restaurant",
     "metros": [
       "chicago"
@@ -3510,8 +3510,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/lolas-coney-island-chicago"
   },
   {
-    "name": "JOSEPHINE'S SOUTHERN COOKING - CHICAGO, IL",
-    "slug": "josephinessoutherncooking-chicagoil",
+    "name": "JOSEPHINE'S SOUTHERN COOKING",
+    "slug": "josephine-s-southern-cooking",
     "category": "southern",
     "metros": [
       "chicago"
@@ -3519,8 +3519,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/josephines-cooking"
   },
   {
-    "name": "SALSA PICANTE - CHICAGO, IL",
-    "slug": "salsapicante-chicagoil",
+    "name": "SALSA PICANTE",
+    "slug": "salsa-picante",
     "category": "restaurant",
     "metros": [
       "chicago"
@@ -3600,8 +3600,8 @@
     "toastUrl": "https://order.toasttab.com/online/oshi-poke-and-sushi-new-201-jefferson-street-north"
   },
   {
-    "name": "Poke Sushi 1720 Washington Road",
-    "slug": "pokesushi1720washingtonroad",
+    "name": "Poke Sushi",
+    "slug": "poke-sushi",
     "category": "japanese",
     "metros": [
       "chicago"
@@ -3627,8 +3627,8 @@
     "toastUrl": "https://order.toasttab.com/online/sabor-a-cafe-restaurant"
   },
   {
-    "name": "Himalayan Restaurant - Chicago 606 South Wabash Avenue",
-    "slug": "himalayanrestaurant-chicago606southwabas",
+    "name": "Himalayan Restaurant",
+    "slug": "himalayan-restaurant",
     "category": "restaurant",
     "metros": [
       "chicago"
@@ -3663,8 +3663,8 @@
     "toastUrl": "https://order.toasttab.com/online/hninasseafood"
   },
   {
-    "name": "Seafood Hut & Market 1936 MacDade Boulevard",
-    "slug": "seafoodhutmarket1936macdadeboulevard",
+    "name": "Seafood Hut & Market",
+    "slug": "seafood-hut-market",
     "category": "seafood",
     "metros": [
       "chicago"
@@ -3690,8 +3690,8 @@
     "toastUrl": "https://order.toasttab.com/online/orleans-seafood-kitchen"
   },
   {
-    "name": "Greek Islands Restaurant - Chicago 200 S Halsted Street",
-    "slug": "greekislandsrestaurant-chicago200shalste",
+    "name": "Greek Islands Restaurant",
+    "slug": "greek-islands-restaurant",
     "category": "mediterranean",
     "metros": [
       "chicago"
@@ -3699,8 +3699,8 @@
     "toastUrl": "https://order.toasttab.com/online/greek-islands-restaurant-chicago-200-s-halsted-street"
   },
   {
-    "name": "Greek Islands - Lombard 300 East 22nd Street",
-    "slug": "greekislands-lombard300east22ndstreet",
+    "name": "Greek Islands - Lombard",
+    "slug": "greek-islands-lombard",
     "category": "mediterranean",
     "metros": [
       "chicago"
@@ -3816,8 +3816,8 @@
     "toastUrl": "https://order.toasttab.com/online/flanagans-bar-north-chicago-3201-buckley-rd-n"
   },
   {
-    "name": "Breakfast House - Lincoln Park 501 West Diversey Parkway",
-    "slug": "breakfasthouse-lincolnpark501westdiverse",
+    "name": "Breakfast House - Lincoln Park",
+    "slug": "breakfast-house-lincoln-park",
     "category": "breakfast",
     "metros": [
       "chicago"
@@ -3879,8 +3879,8 @@
     "toastUrl": "https://order.toasttab.com/online/method-juice-cafe-downtown-718-w-riverside"
   },
   {
-    "name": "Juice World 89 Passaic St",
-    "slug": "juiceworld89passaicst",
+    "name": "Juice World",
+    "slug": "juice-world",
     "category": "juice",
     "metros": [
       "chicago"
@@ -3897,8 +3897,8 @@
     "toastUrl": "https://order.toasttab.com/online/base-smoothies-juice-frisco"
   },
   {
-    "name": "The Juice House 103200 Overseas Hwy ste13",
-    "slug": "thejuicehouse103200overseashwyste13",
+    "name": "The Juice House",
+    "slug": "the-juice-house",
     "category": "juice",
     "metros": [
       "chicago"
@@ -3924,8 +3924,8 @@
     "toastUrl": "https://order.toasttab.com/online/blended-health-smoothie-bar-950-harlem-ave"
   },
   {
-    "name": "Planta Organic Juice Bar 131 Pine Street",
-    "slug": "plantaorganicjuicebar131pinestreet",
+    "name": "Planta Organic Juice Bar",
+    "slug": "planta-organic-juice-bar",
     "category": "juice",
     "metros": [
       "chicago"

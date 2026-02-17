@@ -739,8 +739,8 @@
     ]
   },
   {
-    "name": "Mango's - Miami",
-    "slug": "mangos-miami",
+    "name": "Mango's",
+    "slug": "mango-s",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -791,8 +791,8 @@
     "toastUrl": "https://order.toasttab.com/online/all-star-pizza-miami"
   },
   {
-    "name": "Joe's Pizza NYC Wynwood, Miami",
-    "slug": "joespizzanycwynwoodmiami",
+    "name": "Joe's Pizza NYC Wynwood",
+    "slug": "joe-s-pizza-nyc-wynwood",
     "category": "pizza",
     "metros": [
       "miami"
@@ -809,8 +809,8 @@
     "toastUrl": "https://order.toasttab.com/online/pizzafiore"
   },
   {
-    "name": "Eleventh Street Pizza 1035 N Miami Ave",
-    "slug": "eleventhstreetpizza1035nmiamiave",
+    "name": "Eleventh Street Pizza",
+    "slug": "eleventh-street-pizza",
     "category": "pizza",
     "metros": [
       "miami"
@@ -854,8 +854,8 @@
     "toastUrl": "https://order.toasttab.com/online/natespizza"
   },
   {
-    "name": "Steve's Pizza West 16285 Southwest 88th Street",
-    "slug": "stevespizzawest16285southwest88thstreet",
+    "name": "Steve's Pizza West",
+    "slug": "steve-s-pizza-west",
     "category": "pizza",
     "metros": [
       "miami"
@@ -872,7 +872,7 @@
     "toastUrl": "https://order.toasttab.com/online/pizza-mia-gourmet-2100-nw-107th-ave"
   },
   {
-    "name": "41 pizza",
+    "name": "41pizza",
     "slug": "41pizza",
     "category": "pizza",
     "metros": [
@@ -890,8 +890,8 @@
     "toastUrl": "https://order.toasttab.com/online/milanos-pizza-subs-taps-miami-9572-north-springboro-pike"
   },
   {
-    "name": "Fratesi's Pizza 69 E Flagler St",
-    "slug": "fratesispizza69eflaglerst",
+    "name": "Fratesi's Pizza",
+    "slug": "fratesi-s-pizza",
     "category": "pizza",
     "metros": [
       "miami"
@@ -917,8 +917,8 @@
     "toastUrl": "https://order.toasttab.com/online/andiamo-brick-oven-pizza-5600-biscayne-blvd"
   },
   {
-    "name": "Eleventh Street Pizza - Dadeland 9025 SW 72nd Place",
-    "slug": "eleventhstreetpizza-dadeland9025sw72ndpl",
+    "name": "Eleventh Street Pizza - Dadeland",
+    "slug": "eleventh-street-pizza-dadeland",
     "category": "pizza",
     "metros": [
       "miami"
@@ -935,8 +935,8 @@
     "toastUrl": "https://order.toasttab.com/online/backyard.miami"
   },
   {
-    "name": "Lost Weekend - Miami",
-    "slug": "lostweekend-miami",
+    "name": "Lost Weekend",
+    "slug": "lost-weekend",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -962,8 +962,8 @@
     "toastUrl": "https://order.toasttab.com/online/yes-cafe-miami-beach-601-71-st"
   },
   {
-    "name": "Wet Miami 1110 S MIAMI AVE",
-    "slug": "wetmiami1110smiamiave",
+    "name": "Wet Miami",
+    "slug": "wet-miami",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -980,8 +980,8 @@
     "toastUrl": "https://order.toasttab.com/online/guajiro-s"
   },
   {
-    "name": "El Bagel - MiMo 6910 Biscayne Blvd, Miami, FL 33138",
-    "slug": "elbagel-mimo6910biscayneblvdmiamifl33138",
+    "name": "El Bagel - MiMo",
+    "slug": "el-bagel-mimo",
     "category": "bakery",
     "metros": [
       "miami"
@@ -1025,8 +1025,8 @@
     "toastUrl": "https://order.toasttab.com/online/mexi-cafe"
   },
   {
-    "name": "Seasons Cafe 318 21ST ST",
-    "slug": "seasonscafe31821stst",
+    "name": "Seasons Cafe",
+    "slug": "seasons-cafe",
     "category": "cafe",
     "metros": [
       "miami"
@@ -1079,8 +1079,8 @@
     "toastUrl": "https://order.toasttab.com/online/grand-cafe-miami-gardens"
   },
   {
-    "name": "Beach Cafe 1326 2nd Avenue",
-    "slug": "beachcafe13262ndavenue",
+    "name": "Beach Cafe",
+    "slug": "beach-cafe",
     "category": "cafe",
     "metros": [
       "miami"
@@ -1187,8 +1187,8 @@
     "toastUrl": "https://order.toasttab.com/online/leparccafe"
   },
   {
-    "name": "Threefold Cafe - 141 Giralda Avenue, Coral Gables, FL",
-    "slug": "threefoldcafe-141giraldaavenuecoralgable",
+    "name": "Threefold Cafe",
+    "slug": "threefold-cafe",
     "category": "cafe",
     "metros": [
       "miami"
@@ -1376,8 +1376,8 @@
     "toastUrl": "https://order.toasttab.com/online/el-arabito-grill-restaurant-brickell"
   },
   {
-    "name": "DC PIE CO. 1010 Brickell ave",
-    "slug": "dcpieco1010brickellave",
+    "name": "DC PIE CO.",
+    "slug": "dc-pie-co",
     "category": "pizza",
     "metros": [
       "miami"
@@ -1484,8 +1484,8 @@
     "toastUrl": "https://order.toasttab.com/online/power-pizzeria-brickell"
   },
   {
-    "name": "Tripletails Restaurant 113 S Beach Blvd",
-    "slug": "tripletailsrestaurant113sbeachblvd",
+    "name": "Tripletails Restaurant",
+    "slug": "tripletails-restaurant",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -1547,8 +1547,8 @@
     "toastUrl": "https://order.toasttab.com/online/sergios-tacos-cocoa-beach"
   },
   {
-    "name": "South Seas 1301 Story Avenue",
-    "slug": "southseas1301storyavenue",
+    "name": "South Seas",
+    "slug": "south-seas",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -1565,8 +1565,8 @@
     "toastUrl": "https://order.toasttab.com/online/mission-garnet-pacific-beach-800-garnet-ave/6c7c5fc6-f9f1-477c-b6c2-bc0fe1482896"
   },
   {
-    "name": "6300 Collins Ave - Order Online",
-    "slug": "6300collinsave-orderonline",
+    "name": "Yes! Cafe",
+    "slug": "yes-cafe",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -1691,8 +1691,8 @@
     "toastUrl": "https://order.toasttab.com/online/littlehavanarestaurant"
   },
   {
-    "name": "CRAFT Little Havana 2114 Sw 8th St",
-    "slug": "craftlittlehavana2114sw8thst",
+    "name": "CRAFT Little Havana",
+    "slug": "craft-little-havana",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -1718,8 +1718,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-little-grand-pablos-havana-cafe-710-grandview-crossing-way-suite-108"
   },
   {
-    "name": "New Manhattan Pizza 2611 West Flagler St",
-    "slug": "newmanhattanpizza2611westflaglerst",
+    "name": "New Manhattan Pizza",
+    "slug": "new-manhattan-pizza",
     "category": "pizza",
     "metros": [
       "miami"
@@ -1727,8 +1727,8 @@
     "toastUrl": "https://order.toasttab.com/online/new-manhattan-pizza-2611-west-flagler-st"
   },
   {
-    "name": "Pina's Pizza 12041 SW 117th AVE",
-    "slug": "pinaspizza12041sw117thave",
+    "name": "Pina's Pizza",
+    "slug": "pina-s-pizza",
     "category": "pizza",
     "metros": [
       "miami"
@@ -1781,8 +1781,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-og-downtown-161-se-1st-street"
   },
   {
-    "name": "Poke OG @ 1800 143 NW 23 ST",
-    "slug": "pokeog1800143nw23st",
+    "name": "Poke OG @ 1800",
+    "slug": "poke-og-1800",
     "category": "japanese",
     "metros": [
       "miami"
@@ -1844,8 +1844,8 @@
     "toastUrl": "https://order.toasttab.com/online/miyako-poke-867-s-broadway-ste-110"
   },
   {
-    "name": "NEW Siesta Poke 5206 Ocean Boulevard",
-    "slug": "newsiestapoke5206oceanboulevard",
+    "name": "NEW Siesta Poke",
+    "slug": "new-siesta-poke",
     "category": "japanese",
     "metros": [
       "miami"
@@ -1898,8 +1898,8 @@
     "toastUrl": "https://order.toasttab.com/online/sports-grill-south-miami"
   },
   {
-    "name": "The Chicken Spot - Miami 114 SW North River Dr",
-    "slug": "thechickenspot-miami114swnorthriverdr",
+    "name": "The Chicken Spot",
+    "slug": "the-chicken-spot",
     "category": "chicken",
     "metros": [
       "miami"
@@ -1916,8 +1916,8 @@
     "toastUrl": "https://order.toasttab.com/online/pollosyjarrasdowntownmiami"
   },
   {
-    "name": "Drunken Wok 2304 NW 36 ST, Miami, FL 33142",
-    "slug": "drunkenwok2304nw36stmiamifl33142",
+    "name": "Drunken Wok",
+    "slug": "drunken-wok",
     "category": "chinese",
     "metros": [
       "miami"
@@ -1943,8 +1943,8 @@
     "toastUrl": "https://order.toasttab.com/online/pubbellymiamibeach"
   },
   {
-    "name": "92 Town Korean BBQ",
-    "slug": "92townkoreanbbq",
+    "name": "92town",
+    "slug": "92town",
     "category": "bbq",
     "metros": [
       "miami"
@@ -1997,8 +1997,8 @@
     "toastUrl": "https://order.toasttab.com/online/yummys-kbbq"
   },
   {
-    "name": "Soko Bag Korean Fried Chicken 95 Nutt Road",
-    "slug": "sokobagkoreanfriedchicken95nuttroad",
+    "name": "Soko Bag Korean Fried Chicken",
+    "slug": "soko-bag-korean-fried-chicken",
     "category": "korean",
     "metros": [
       "miami"
@@ -2511,8 +2511,8 @@
     "websiteOrderUrl": "https://www.getbento.com/products/dine-in-ordering/"
   },
   {
-    "name": "41 Miami Restaurant - MIAMI, FL",
-    "slug": "41miamirestaurant-miamifl",
+    "name": "41 Miami Restaurant",
+    "slug": "41-miami-restaurant",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -2520,8 +2520,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/41miami"
   },
   {
-    "name": "PASSIONE PIZZA - MIAMI, FL",
-    "slug": "passionepizza-miamifl",
+    "name": "PASSIONE PIZZA",
+    "slug": "passione-pizza",
     "category": "pizza",
     "metros": [
       "miami"
@@ -2529,8 +2529,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/passione-pizza-miami"
   },
   {
-    "name": "JAMAICA HOUSE RESTAURANT - MIAMI, FL",
-    "slug": "jamaicahouserestaurant-miamifl",
+    "name": "JAMAICA HOUSE RESTAURANT",
+    "slug": "jamaica-house-restaurant",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -2538,8 +2538,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/jamaica-house-restaura-miami"
   },
   {
-    "name": "AREPAS Y MUCHO MAS - MIAMI, FL",
-    "slug": "arepasymuchomas-miamifl",
+    "name": "AREPAS Y MUCHO MAS",
+    "slug": "arepas-y-mucho-mas",
     "category": "latin",
     "metros": [
       "miami"
@@ -2556,8 +2556,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/faraon-restaurant-miami/49Q6GVG57VX6A"
   },
   {
-    "name": "LIMA FUSION - MIAMI, FL",
-    "slug": "limafusion-miamifl",
+    "name": "LIMA FUSION",
+    "slug": "lima-fusion",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -2574,8 +2574,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/miam-miami-beach-miami-beach/SZYD24JYGTNFG"
   },
   {
-    "name": "The B100m & Shade - Miami, FL",
-    "slug": "theb100mshade-miamifl",
+    "name": "The B100m & Shade",
+    "slug": "the-b100m-shade",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -2583,8 +2583,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/TheB100M"
   },
   {
-    "name": "MI PUEBLO RESTAURANTE - MIAMI, FL",
-    "slug": "mipueblorestaurante-miamifl",
+    "name": "MI PUEBLO RESTAURANTE",
+    "slug": "mi-pueblo-restaurante",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -2592,8 +2592,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/mi-pueblo-restaurante-miami-2"
   },
   {
-    "name": "PALO QUEMAO DOWNTOWN - MIAMI, FL",
-    "slug": "paloquemaodowntown-miamifl",
+    "name": "PALO QUEMAO DOWNTOWN",
+    "slug": "palo-quemao-downtown",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -2601,8 +2601,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/palo-quemao-downtown-miami"
   },
   {
-    "name": "Miami Nice - MIAMI, FL",
-    "slug": "miaminice-miamifl",
+    "name": "Miami Nice",
+    "slug": "miami-nice",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -2619,8 +2619,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/sahara-grill-miami"
   },
   {
-    "name": "Chips & Salsa Mexican - MIAMI, FL",
-    "slug": "chipssalsamexican-miamifl",
+    "name": "Chips & Salsa Mexican",
+    "slug": "chips-salsa-mexican",
     "category": "mexican",
     "metros": [
       "miami"
@@ -2628,8 +2628,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/chips--salsa-mexican-miami/service-hours"
   },
   {
-    "name": "NEW TIME - MIAMI, FL",
-    "slug": "newtime-miamifl",
+    "name": "NEW TIME",
+    "slug": "new-time",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -2646,8 +2646,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/peruvianfusionmiami"
   },
   {
-    "name": "LEV11 Restaurant - MIAMI, FL",
-    "slug": "lev11restaurant-miamifl",
+    "name": "LEV11 Restaurant",
+    "slug": "lev11-restaurant",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -2655,8 +2655,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/lev11-inc-miami/6NMH3AVQM8VV4"
   },
   {
-    "name": "PHO 79 - MIAMI, FL",
-    "slug": "pho79-miamifl",
+    "name": "PHO 79",
+    "slug": "pho-79",
     "category": "vietnamese",
     "metros": [
       "miami"
@@ -2673,8 +2673,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/coppolas-bistro-kendall-miami"
   },
   {
-    "name": "PALO QUEMAO - MIAMI, FL",
-    "slug": "paloquemao-miamifl",
+    "name": "PALO QUEMAO",
+    "slug": "palo-quemao",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -2682,8 +2682,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/palo-quemao-miami"
   },
   {
-    "name": "Pho 79 III - MIAMI, FL",
-    "slug": "pho79iii-miamifl",
+    "name": "Pho 79 III",
+    "slug": "pho-79-iii",
     "category": "vietnamese",
     "metros": [
       "miami"
@@ -2691,8 +2691,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/pho-79-miami-2"
   },
   {
-    "name": "Shahs of Kabob Catering in South Miami, FL - 5975 Sunset Dr",
-    "slug": "shahsofkabobcateringinsouthmiamifl-5975s",
+    "name": "Shahs of Kabob Catering in South Miami, FL",
+    "slug": "shahs-of-kabob-catering-in-south-miami-fl",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -2700,8 +2700,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/shahs-of-kabob-3"
   },
   {
-    "name": "El Mio Catering in Miami, FL - 12362 Quail Roost Dr",
-    "slug": "elmiocateringinmiamifl-12362quailroostdr",
+    "name": "El Mio Catering in Miami, FL",
+    "slug": "el-mio-catering-in-miami-fl",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -2709,8 +2709,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/el-mio-3"
   },
   {
-    "name": "Sushi Maki Catering in Miami, FL - 14491 S Dixie Hwy",
-    "slug": "sushimakicateringinmiamifl-14491sdixiehw",
+    "name": "Sushi Maki Catering in Miami, FL",
+    "slug": "sushi-maki-catering-in-miami-fl",
     "category": "japanese",
     "metros": [
       "miami"
@@ -2727,8 +2727,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/lunchrush/office/best-catering-miami/"
   },
   {
-    "name": "Sergio's Restaurant Catering in Miami, FL - 3252 SW 22nd St",
-    "slug": "sergiosrestaurantcateringinmiamifl-3252s",
+    "name": "Sergio's Restaurant Catering in Miami, FL",
+    "slug": "sergio-s-restaurant-catering-in-miami-fl",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -2736,8 +2736,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/sergios-restaurant-miami-sw-nd-st"
   },
   {
-    "name": "Miami Grill Catering in Miami, FL - 19000 NW 2nd Ave",
-    "slug": "miamigrillcateringinmiamifl-19000nw2ndav",
+    "name": "Miami Grill Catering in Miami, FL",
+    "slug": "miami-grill-catering-in-miami-fl",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -2745,8 +2745,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/miami-subs-grills-miami-gardens"
   },
   {
-    "name": "Sergio's Restaurant Catering in Miami, FL - 9330 SW 40th St",
-    "slug": "sergiosrestaurantcateringinmiamifl-9330s",
+    "name": "Sergio's Restaurant Catering in Miami, FL",
+    "slug": "sergio-s-restaurant-catering-in-miami-fl",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -2907,8 +2907,8 @@
     "websiteOrderUrl": "https://slicelife.com/restaurants/fl/boca-raton/33434/stromboli-s-pizza-kitchen-of-west-boca/menu"
   },
   {
-    "name": "Toasted Bagelry & Deli - (Midtown) 178 NE 29th Street",
-    "slug": "toastedbagelrydeli-midtown178ne29thstree",
+    "name": "Toasted Bagelry & Deli - (Midtown)",
+    "slug": "toasted-bagelry-deli-midtown",
     "category": "deli",
     "metros": [
       "miami"
@@ -2952,8 +2952,8 @@
     "toastUrl": "https://order.toasttab.com/online/deli-on-4th"
   },
   {
-    "name": "Mikey & Mel's Deli 8191 Maple Lawn Blvd",
-    "slug": "mikeymelsdeli8191maplelawnblvd",
+    "name": "Mikey & Mel's Deli",
+    "slug": "mikey-mel-s-deli",
     "category": "deli",
     "metros": [
       "miami"
@@ -2970,8 +2970,8 @@
     "toastUrl": "https://order.toasttab.com/online/deli-at-dwell"
   },
   {
-    "name": "Downtown Deli 718 East Main Street",
-    "slug": "downtowndeli718eastmainstreet",
+    "name": "Downtown Deli",
+    "slug": "downtown-deli",
     "category": "deli",
     "metros": [
       "miami"
@@ -3006,8 +3006,8 @@
     "toastUrl": "https://order.toasttab.com/online/amazing-deli-134-e-main-st"
   },
   {
-    "name": "Belly Deli 1304 Second Street",
-    "slug": "bellydeli1304secondstreet",
+    "name": "Belly Deli",
+    "slug": "belly-deli",
     "category": "deli",
     "metros": [
       "miami"
@@ -3024,8 +3024,8 @@
     "toastUrl": "https://order.toasttab.com/online/manoapoke"
   },
   {
-    "name": "Poke Boba 360 GREENWICH AVE",
-    "slug": "pokeboba360greenwichave",
+    "name": "Poke Boba",
+    "slug": "poke-boba",
     "category": "japanese",
     "metros": [
       "miami"
@@ -3186,8 +3186,8 @@
     "toastUrl": "https://order.toasttab.com/online/georges-greek-cafe-lakewood"
   },
   {
-    "name": "The Greek Corner 2366 Massachusetts Avenue",
-    "slug": "thegreekcorner2366massachusettsavenue",
+    "name": "The Greek Corner",
+    "slug": "the-greek-corner",
     "category": "mediterranean",
     "metros": [
       "miami"
@@ -3195,8 +3195,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-greek-corner-2366-massachusetts-avenue"
   },
   {
-    "name": "Love Life Cafe 2616 NW 5th Ave Miami, FL 33127",
-    "slug": "lovelifecafe2616nw5thavemiamifl33127",
+    "name": "Love Life Cafe",
+    "slug": "love-life-cafe",
     "category": "cafe",
     "metros": [
       "miami"
@@ -3204,8 +3204,8 @@
     "toastUrl": "https://order.toasttab.com/online/lovelifecafe-miami"
   },
   {
-    "name": "Mayor's Cafe Miami Lakes 15478 NW 77th Court",
-    "slug": "mayorscafemiamilakes15478nw77thcourt",
+    "name": "Mayor's Cafe Miami Lakes",
+    "slug": "mayor-s-cafe-miami-lakes",
     "category": "cafe",
     "metros": [
       "miami"
@@ -3213,8 +3213,8 @@
     "toastUrl": "https://order.toasttab.com/online/mayors-cafe-miami-lakes-15478-nw-77th-court"
   },
   {
-    "name": "Miami River II 1881 NW 7th Street",
-    "slug": "miamiriverii1881nw7thstreet",
+    "name": "Miami River II",
+    "slug": "miami-river-ii",
     "category": "restaurant",
     "metros": [
       "miami"
@@ -3231,8 +3231,8 @@
     "toastUrl": "https://order.toasttab.com/online/craft-brickell-new-947-brickell-av"
   },
   {
-    "name": "Alaska Coffee Roasting - Miami 13130 Biscayne Blvd",
-    "slug": "alaskacoffeeroasting-miami13130biscayneb",
+    "name": "Alaska Coffee Roasting",
+    "slug": "alaska-coffee-roasting",
     "category": "cafe",
     "metros": [
       "miami"
@@ -3249,8 +3249,8 @@
     "toastUrl": "https://order.toasttab.com/online/rc-k-4-2322-nw-7th-ct"
   },
   {
-    "name": "Raccoon coffee Brickell 609 brickell ave miami fl 33131",
-    "slug": "raccooncoffeebrickell609brickellavemiami",
+    "name": "Raccoon coffee Brickell 609 brickell ave miami fl",
+    "slug": "raccoon-coffee-brickell-609-brickell-ave-miami-fl",
     "category": "cafe",
     "metros": [
       "miami"
@@ -3330,8 +3330,8 @@
     "toastUrl": "https://order.toasttab.com/online/grateful-juice-bar"
   },
   {
-    "name": "EXOTI'KAZ Juice Bar 195 Northwest 40th Street",
-    "slug": "exotikazjuicebar195northwest40thstreet",
+    "name": "EXOTI'KAZ Juice Bar",
+    "slug": "exoti-kaz-juice-bar",
     "category": "juice",
     "metros": [
       "miami"

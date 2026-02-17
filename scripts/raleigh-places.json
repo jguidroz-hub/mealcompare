@@ -330,8 +330,8 @@
     "toastUrl": "https://order.toasttab.com/online/v-pizza-raleigh-7930-skyland-ridge-parkway"
   },
   {
-    "name": "Big Cheese Pizza - Raleigh 1030 N Rogers Ln Ste 139",
-    "slug": "bigcheesepizza-raleigh1030nrogerslnste13",
+    "name": "Big Cheese Pizza",
+    "slug": "big-cheese-pizza",
     "category": "pizza",
     "metros": [
       "raleigh"
@@ -456,8 +456,8 @@
     "toastUrl": "https://order.toasttab.com/online/durham-tech-cafe"
   },
   {
-    "name": "Cafe Parizade 2200 W Main St",
-    "slug": "cafeparizade2200wmainst",
+    "name": "Cafe Parizade",
+    "slug": "cafe-parizade",
     "category": "cafe",
     "metros": [
       "raleigh"
@@ -591,8 +591,8 @@
     "toastUrl": "https://order.toasttab.com/online/trali-irish-pub-restaurant-raleigh"
   },
   {
-    "name": "Sushi Nine - Raleigh",
-    "slug": "sushinine-raleigh",
+    "name": "Sushi Nine",
+    "slug": "sushi-nine",
     "category": "japanese",
     "metros": [
       "raleigh"
@@ -600,8 +600,8 @@
     "toastUrl": "https://order.toasttab.com/online/sushi-nine-raleigh-3812-western-blvd"
   },
   {
-    "name": "Timber - Raleigh 627 East Whitaker Mill Road",
-    "slug": "timber-raleigh627eastwhitakermillroad",
+    "name": "Timber",
+    "slug": "timber",
     "category": "restaurant",
     "metros": [
       "raleigh"
@@ -699,8 +699,8 @@
     "toastUrl": "https://order.toasttab.com/online/picnic-durham-1647-cole-mill-rd"
   },
   {
-    "name": "Cosmic Cantina Durham 1920 Perry St",
-    "slug": "cosmiccantinadurham1920perryst",
+    "name": "Cosmic Cantina Durham",
+    "slug": "cosmic-cantina-durham",
     "category": "restaurant",
     "metros": [
       "raleigh"
@@ -717,8 +717,8 @@
     "toastUrl": "https://order.toasttab.com/online/viceroy-durham"
   },
   {
-    "name": "Fonda Lupita Durham 905 West Main Street",
-    "slug": "fondalupitadurham905westmainstreet",
+    "name": "Fonda Lupita Durham",
+    "slug": "fonda-lupita-durham",
     "category": "mediterranean",
     "metros": [
       "raleigh"
@@ -816,8 +816,8 @@
     "toastUrl": "https://order.toasttab.com/online/living-kitchen"
   },
   {
-    "name": "Lula and Sadie's 2023 2022 Chapel Hill Road",
-    "slug": "lulaandsadies20232022chapelhillroad",
+    "name": "Lula and Sadie's 2023",
+    "slug": "lula-and-sadie-s-2023",
     "category": "restaurant",
     "metros": [
       "raleigh"
@@ -834,8 +834,8 @@
     "toastUrl": "https://order.toasttab.com/online/jvgchapelhill"
   },
   {
-    "name": "Isaac's Bagels 1003 West Chapel Hill Street",
-    "slug": "isaacsbagels1003westchapelhillstreet",
+    "name": "Isaac's Bagels",
+    "slug": "isaac-s-bagels",
     "category": "bakery",
     "metros": [
       "raleigh"
@@ -843,8 +843,8 @@
     "toastUrl": "https://order.toasttab.com/online/isaacs-bagels"
   },
   {
-    "name": "Blue Agave 3000 Chapel Hill Road",
-    "slug": "blueagave3000chapelhillroad",
+    "name": "Blue Agave",
+    "slug": "blue-agave",
     "category": "restaurant",
     "metros": [
       "raleigh"
@@ -852,8 +852,8 @@
     "toastUrl": "https://order.toasttab.com/online/blue-agave"
   },
   {
-    "name": "Mothers & Sons 107 W Chapel Hill St",
-    "slug": "motherssons107wchapelhillst",
+    "name": "Mothers & Sons",
+    "slug": "mothers-sons",
     "category": "restaurant",
     "metros": [
       "raleigh"
@@ -942,8 +942,8 @@
     "toastUrl": "https://order.toasttab.com/online/carydairy"
   },
   {
-    "name": "Lawrence Barbecue - Cary 150 East Cedar Street",
-    "slug": "lawrencebarbecue-cary150eastcedarstreet",
+    "name": "Lawrence Barbecue - Cary",
+    "slug": "lawrence-barbecue-cary",
     "category": "bbq",
     "metros": [
       "raleigh"
@@ -987,8 +987,8 @@
     "toastUrl": "https://order.toasttab.com/online/neomonde-mediterranean-raleigh"
   },
   {
-    "name": "Greek Fiesta Brier Creek, Raleigh",
-    "slug": "greekfiestabriercreekraleigh",
+    "name": "Greek Fiesta Brier Creek",
+    "slug": "greek-fiesta-brier-creek",
     "category": "mediterranean",
     "metros": [
       "raleigh"
@@ -1077,8 +1077,8 @@
     "toastUrl": "https://order.toasttab.com/online/greekoncary"
   },
   {
-    "name": "The Greek Taverna 1903 Staples Mill Rd",
-    "slug": "thegreektaverna1903staplesmillrd",
+    "name": "The Greek Taverna",
+    "slug": "the-greek-taverna",
     "category": "mediterranean",
     "metros": [
       "raleigh"
@@ -1095,8 +1095,8 @@
     "toastUrl": "https://order.toasttab.com/online/simply-greek-express-57-commack-rd"
   },
   {
-    "name": "simply greek 44 Centennial Drive",
-    "slug": "simplygreek44centennialdrive",
+    "name": "simply greek",
+    "slug": "simply-greek",
     "category": "mediterranean",
     "metros": [
       "raleigh"
@@ -1140,8 +1140,8 @@
     "toastUrl": "https://order.toasttab.com/online/itsgreektome"
   },
   {
-    "name": "Strait Jamaican Cuisine LLC 15 School St",
-    "slug": "straitjamaicancuisinellc15schoolst",
+    "name": "Strait Jamaican Cuisine LLC",
+    "slug": "strait-jamaican-cuisine-llc",
     "category": "caribbean",
     "metros": [
       "raleigh"
@@ -1212,8 +1212,8 @@
     "toastUrl": "https://order.toasttab.com/online/jamaican-vibes-airline-hwy"
   },
   {
-    "name": "Jamaican Cafe Cuisine 1 -Bear 1643 Pulaski Highway",
-    "slug": "jamaicancafecuisine1-bear1643pulaskihigh",
+    "name": "Jamaican Cafe Cuisine 1 -Bear",
+    "slug": "jamaican-cafe-cuisine-1-bear",
     "category": "cafe",
     "metros": [
       "raleigh"
@@ -1221,8 +1221,8 @@
     "toastUrl": "https://order.toasttab.com/online/jamaican-cafe-cuisine-1-1643-pulaski-highway"
   },
   {
-    "name": "Jamaican Flavors - 358 Kosciuszko Street",
-    "slug": "jamaicanflavors-358kosciuszkostreet",
+    "name": "Jamaican Flavors",
+    "slug": "jamaican-flavors",
     "category": "caribbean",
     "metros": [
       "raleigh"
@@ -1230,8 +1230,8 @@
     "toastUrl": "https://order.toasttab.com/online/jamaican-flavors-358-kosciuszko-street-358-kosciuszko-street"
   },
   {
-    "name": "Paradise Jamaican Restaurant 452 North Park Avenue",
-    "slug": "paradisejamaicanrestaurant452northparkav",
+    "name": "Paradise Jamaican Restaurant",
+    "slug": "paradise-jamaican-restaurant",
     "category": "caribbean",
     "metros": [
       "raleigh"
@@ -1266,8 +1266,8 @@
     "toastUrl": "https://order.toasttab.com/online/taco-bamba-raleigh"
   },
   {
-    "name": "Pure Vegan Café 8369 Creedmoor Rd",
-    "slug": "purevegancaf8369creedmoorrd",
+    "name": "Pure Vegan Café",
+    "slug": "pure-vegan-caf",
     "category": "cafe",
     "metros": [
       "raleigh"
@@ -1275,8 +1275,8 @@
     "toastUrl": "https://order.toasttab.com/online/pure-vegan-cafe-juicery-and-eatery-raleigh"
   },
   {
-    "name": "The Cowfish Sushi Burger Bar - Raleigh",
-    "slug": "thecowfishsushiburgerbar-raleigh",
+    "name": "The Cowfish Sushi Burger Bar",
+    "slug": "the-cowfish-sushi-burger-bar",
     "category": "japanese",
     "metros": [
       "raleigh"
@@ -1284,8 +1284,8 @@
     "toastUrl": "https://order.toasttab.com/online/cowfishraleigh"
   },
   {
-    "name": "The Vegan Joint - West LA 10438 National Boulevard",
-    "slug": "theveganjoint-westla10438nationalbouleva",
+    "name": "The Vegan Joint - West LA",
+    "slug": "the-vegan-joint-west-la",
     "category": "vegan",
     "metros": [
       "raleigh"
@@ -1293,8 +1293,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-vegan-joint-west-la"
   },
   {
-    "name": "West Coast Vegan Grill 2023 100 W CENTRAL AVE",
-    "slug": "westcoastvegangrill2023100wcentralave",
+    "name": "West Coast Vegan Grill 2023",
+    "slug": "west-coast-vegan-grill-2023",
     "category": "vegan",
     "metros": [
       "raleigh"
@@ -1302,8 +1302,8 @@
     "toastUrl": "https://order.toasttab.com/online/west-coast-vegan-grill-2023-100-w-central-ave"
   },
   {
-    "name": "Vegan International Co 13751 N Nebraska Ave",
-    "slug": "veganinternationalco13751nnebraskaave",
+    "name": "Vegan International Co",
+    "slug": "vegan-international-co",
     "category": "vegan",
     "metros": [
       "raleigh"
@@ -1347,8 +1347,8 @@
     "toastUrl": "https://order.toasttab.com/online/dope-vegan-sw"
   },
   {
-    "name": "San Jose Mexican Restaurant 5811 Poyner Village Parkway",
-    "slug": "sanjosemexicanrestaurant5811poynervillag",
+    "name": "San Jose Mexican Restaurant",
+    "slug": "san-jose-mexican-restaurant",
     "category": "mexican",
     "metros": [
       "raleigh"
@@ -1488,8 +1488,8 @@
     "websiteOrderUrl": "https://hibachicompany.menufy.com/order"
   },
   {
-    "name": "Perry's Steakhouse & Grille - Raleigh",
-    "slug": "perryssteakhousegrille-raleigh",
+    "name": "Perry's Steakhouse & Grille",
+    "slug": "perry-s-steakhouse-grille",
     "category": "steakhouse",
     "metros": [
       "raleigh"
@@ -1770,8 +1770,8 @@
     "websiteOrderUrl": "https://www.getbento.com/products/dine-in-ordering/"
   },
   {
-    "name": "WARAJI JAPANESE RESTAURANT - RALEIGH, NC",
-    "slug": "warajijapaneserestaurant-raleighnc",
+    "name": "WARAJI JAPANESE RESTAURANT",
+    "slug": "waraji-japanese-restaurant",
     "category": "japanese",
     "metros": [
       "raleigh"
@@ -1779,8 +1779,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/waraji-japanese-restaurant-raleigh"
   },
   {
-    "name": "KABAB AND CURRY - RALEIGH, NC",
-    "slug": "kababandcurry-raleighnc",
+    "name": "KABAB AND CURRY",
+    "slug": "kabab-and-curry",
     "category": "indian",
     "metros": [
       "raleigh"
@@ -1788,8 +1788,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/kabab-and-curry-raleigh"
   },
   {
-    "name": "LUCILLE?S NY BAGEL CAFE & DELI - RALEIGH, NC",
-    "slug": "lucillesnybagelcafedeli-raleighnc",
+    "name": "LUCILLE?S NY BAGEL CAFE & DELI",
+    "slug": "lucille-s-ny-bagel-cafe-deli",
     "category": "cafe",
     "metros": [
       "raleigh"
@@ -1797,8 +1797,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/lucilles-ny-bagel-cafe--deli-raleigh"
   },
   {
-    "name": "THE DOMINICAN RESTAURANT - RALEIGH, NC",
-    "slug": "thedominicanrestaurant-raleighnc",
+    "name": "THE DOMINICAN RESTAURANT",
+    "slug": "the-dominican-restaurant",
     "category": "restaurant",
     "metros": [
       "raleigh"
@@ -1806,8 +1806,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/the-dominican-restaurant-raleigh-2"
   },
   {
-    "name": "BOMBAY CURRY - RALEIGH, NC",
-    "slug": "bombaycurry-raleighnc",
+    "name": "BOMBAY CURRY",
+    "slug": "bombay-curry",
     "category": "indian",
     "metros": [
       "raleigh"
@@ -1824,8 +1824,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/the-dominican-restaurant-raleigh"
   },
   {
-    "name": "Royal India - RALEIGH, NC",
-    "slug": "royalindia-raleighnc",
+    "name": "Royal India",
+    "slug": "royal-india",
     "category": "restaurant",
     "metros": [
       "raleigh"
@@ -1842,8 +1842,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/the-dominican-restaurant-raleigh-2/KN0M6YJAVVV26"
   },
   {
-    "name": "KABOBI - RALEIGH, NC",
-    "slug": "kabobi-raleighnc",
+    "name": "KABOBI",
+    "slug": "kabobi",
     "category": "restaurant",
     "metros": [
       "raleigh"
@@ -1860,8 +1860,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/gumbys-of-raleigh-raleigh"
   },
   {
-    "name": "THE DANKERY New Birch - RALEIGH, NC",
-    "slug": "thedankerynewbirch-raleighnc",
+    "name": "THE DANKERY New Birch",
+    "slug": "the-dankery-new-birch",
     "category": "restaurant",
     "metros": [
       "raleigh"
@@ -1869,8 +1869,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/the-dankery-new-birch-raleigh"
   },
   {
-    "name": "CHHOTES INDIAN GRILL - RALEIGH, NC",
-    "slug": "chhotesindiangrill-raleighnc",
+    "name": "CHHOTES INDIAN GRILL",
+    "slug": "chhotes-indian-grill",
     "category": "indian",
     "metros": [
       "raleigh"
@@ -1878,8 +1878,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/chhotes"
   },
   {
-    "name": "CHEX HILLSBOROUGH ST - RALEIGH, NC",
-    "slug": "chexhillsboroughst-raleighnc",
+    "name": "CHEX HILLSBOROUGH ST",
+    "slug": "chex-hillsborough-st",
     "category": "restaurant",
     "metros": [
       "raleigh"
@@ -1887,8 +1887,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/chex-hillsborough-st-raleigh"
   },
   {
-    "name": "Budacai - RALEIGH, NC",
-    "slug": "budacai-raleighnc",
+    "name": "Budacai",
+    "slug": "budacai",
     "category": "poke",
     "metros": [
       "raleigh"
@@ -1896,8 +1896,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/budacai-raleigh"
   },
   {
-    "name": "ROYAL INDIA EST SINCE 1990 - RALEIGH, NC",
-    "slug": "royalindiaestsince1990-raleighnc",
+    "name": "ROYAL INDIA EST SINCE 1990",
+    "slug": "royal-india-est-since-1990",
     "category": "restaurant",
     "metros": [
       "raleigh"
@@ -1905,8 +1905,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/royal-india-est-since-1990-raleigh"
   },
   {
-    "name": "PITA BOWL - RALEIGH, NC",
-    "slug": "pitabowl-raleighnc",
+    "name": "PITA BOWL",
+    "slug": "pita-bowl",
     "category": "mediterranean",
     "metros": [
       "raleigh"
@@ -1923,8 +1923,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/crema-cafe-raleigh"
   },
   {
-    "name": "KADHAI THE INDIAN WOK - RALEIGH, NC",
-    "slug": "kadhaitheindianwok-raleighnc",
+    "name": "KADHAI THE INDIAN WOK",
+    "slug": "kadhai-the-indian-wok",
     "category": "indian",
     "metros": [
       "raleigh"
@@ -1932,8 +1932,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/kadhai-the-indian-wok-raleigh"
   },
   {
-    "name": "50 Cups - RALEIGH, NC",
-    "slug": "50cups-raleighnc",
+    "name": "50 Cups",
+    "slug": "50-cups",
     "category": "restaurant",
     "metros": [
       "raleigh"
@@ -1941,8 +1941,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/50-cups-raleigh-2"
   },
   {
-    "name": "Poke Sushi 1720 Washington Road",
-    "slug": "pokesushi1720washingtonroad",
+    "name": "Poke Sushi",
+    "slug": "poke-sushi",
     "category": "japanese",
     "metros": [
       "raleigh"
@@ -2004,8 +2004,8 @@
     "toastUrl": "https://order.toasttab.com/online/fresh-catch-poke-pearl"
   },
   {
-    "name": "Poke Burri 3231 powelton ave",
-    "slug": "pokeburri3231poweltonave",
+    "name": "Poke Burri",
+    "slug": "poke-burri",
     "category": "japanese",
     "metros": [
       "raleigh"
@@ -2022,8 +2022,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke"
   },
   {
-    "name": "Poke OG @ 1800 143 NW 23 ST",
-    "slug": "pokeog1800143nw23st",
+    "name": "Poke OG @ 1800",
+    "slug": "poke-og-1800",
     "category": "japanese",
     "metros": [
       "raleigh"
@@ -2031,8 +2031,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-og-1800-143-nw-23-st"
   },
   {
-    "name": "Poke Dot 17921 MacArthur Blvd",
-    "slug": "pokedot17921macarthurblvd",
+    "name": "Poke Dot",
+    "slug": "poke-dot",
     "category": "japanese",
     "metros": [
       "raleigh"
@@ -2058,8 +2058,8 @@
     "toastUrl": "https://order.toasttab.com/online/cape-fear-seafood-company-raleigh-832-spring-forest-road-suite-100"
   },
   {
-    "name": "Chatham Meat Co. 114 W Raleigh St",
-    "slug": "chathammeatco114wraleighst",
+    "name": "Chatham Meat Co.",
+    "slug": "chatham-meat-co",
     "category": "restaurant",
     "metros": [
       "raleigh"
@@ -2103,8 +2103,8 @@
     "toastUrl": "https://order.toasttab.com/online/rockfishcampbowie"
   },
   {
-    "name": "Roe Seafood Dining & Fish Market 5374 E 2nd St",
-    "slug": "roeseafooddiningfishmarket5374e2ndst",
+    "name": "Roe Seafood Dining & Fish Market",
+    "slug": "roe-seafood-dining-fish-market",
     "category": "seafood",
     "metros": [
       "raleigh"
@@ -2139,8 +2139,8 @@
     "toastUrl": "https://order.toasttab.com/online/just-greek-142-south-livingston-avenue"
   },
   {
-    "name": "The Greek Corner 2366 Massachusetts Avenue",
-    "slug": "thegreekcorner2366massachusettsavenue",
+    "name": "The Greek Corner",
+    "slug": "the-greek-corner",
     "category": "mediterranean",
     "metros": [
       "raleigh"
@@ -2229,8 +2229,8 @@
     "toastUrl": "https://order.toasttab.com/online/radiant-juice-smoothie-bar-702-main-st"
   },
   {
-    "name": "Feng Cha NC - Raleigh",
-    "slug": "fengchanc-raleigh",
+    "name": "Feng Cha NC",
+    "slug": "feng-cha-nc",
     "category": "restaurant",
     "metros": [
       "raleigh"
@@ -2265,8 +2265,8 @@
     "toastUrl": "https://order.toasttab.com/online/juiceria-smoothie-bar-cafe"
   },
   {
-    "name": "Juice World 89 Passaic St",
-    "slug": "juiceworld89passaicst",
+    "name": "Juice World",
+    "slug": "juice-world",
     "category": "juice",
     "metros": [
       "raleigh"

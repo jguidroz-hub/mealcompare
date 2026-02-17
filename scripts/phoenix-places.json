@@ -545,8 +545,8 @@
     "toastUrl": "https://order.toasttab.com/online/pekesbachi"
   },
   {
-    "name": "Phoenix Food & Spirits - South 11212 Richland Drive",
-    "slug": "phoenixfoodspirits-south11212richlanddri",
+    "name": "Phoenix Food & Spirits",
+    "slug": "phoenix-food-spirits",
     "category": "vietnamese",
     "metros": [
       "phoenix"
@@ -554,8 +554,8 @@
     "toastUrl": "https://order.toasttab.com/online/phoenix-food-spirits-south-11212-richland-drive"
   },
   {
-    "name": "PYRO PYRO The Grove - Phoenix",
-    "slug": "pyropyrothegrove-phoenix",
+    "name": "PYRO PYRO The Grove",
+    "slug": "pyro-pyro-the-grove",
     "category": "vietnamese",
     "metros": [
       "phoenix"
@@ -563,8 +563,8 @@
     "toastUrl": "https://order.toasttab.com/online/pyro-phoenix"
   },
   {
-    "name": "Tabla Indian Restaurant - Phoenix, AZ",
-    "slug": "tablaindianrestaurant-phoenixaz",
+    "name": "Tabla Indian Restaurant",
+    "slug": "tabla-indian-restaurant",
     "category": "indian",
     "metros": [
       "phoenix"
@@ -572,8 +572,8 @@
     "toastUrl": "https://order.toasttab.com/online/tabla-indian-restaurant-phoenix-az-2501-w-happy-valley-rd-suite-50-1240"
   },
   {
-    "name": "Fate Brewing Company - Phoenix",
-    "slug": "fatebrewingcompany-phoenix",
+    "name": "Fate Brewing Company",
+    "slug": "fate-brewing-company",
     "category": "cafe",
     "metros": [
       "phoenix"
@@ -590,8 +590,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-phoenix-kitchen-&-cocktails"
   },
   {
-    "name": "Los Reyes De La Torta - Phoenix",
-    "slug": "losreyesdelatorta-phoenix",
+    "name": "Los Reyes De La Torta",
+    "slug": "los-reyes-de-la-torta",
     "category": "vietnamese",
     "metros": [
       "phoenix"
@@ -626,8 +626,8 @@
     "toastUrl": "https://order.toasttab.com/online/phoenix-public-house"
   },
   {
-    "name": "Phoenix Smokehouse 21 Sonja Drive",
-    "slug": "phoenixsmokehouse21sonjadrive",
+    "name": "Phoenix Smokehouse",
+    "slug": "phoenix-smokehouse",
     "category": "bbq",
     "metros": [
       "phoenix"
@@ -680,8 +680,8 @@
     "toastUrl": "https://order.toasttab.com/online/fair-trade-cafe-1020-north-1st-avenue"
   },
   {
-    "name": "Nino's Greek Cafe 3102 N 16 St",
-    "slug": "ninosgreekcafe3102n16st",
+    "name": "Nino's Greek Cafe",
+    "slug": "nino-s-greek-cafe",
     "category": "cafe",
     "metros": [
       "phoenix"
@@ -896,8 +896,8 @@
     "toastUrl": "https://order.toasttab.com/online/temptations-cafe-coolidge-corner"
   },
   {
-    "name": "CAFE 1908 7 West Preston St",
-    "slug": "cafe19087westprestonst",
+    "name": "CAFE 1908",
+    "slug": "cafe-1908",
     "category": "cafe",
     "metros": [
       "phoenix"
@@ -923,8 +923,8 @@
     "toastUrl": "https://order.toasttab.com/online/teresas-cafe"
   },
   {
-    "name": "In & Out Cafe 1621 N Road Street",
-    "slug": "inoutcafe1621nroadstreet",
+    "name": "In & Out Cafe",
+    "slug": "in-out-cafe",
     "category": "cafe",
     "metros": [
       "phoenix"
@@ -932,8 +932,8 @@
     "toastUrl": "https://order.toasttab.com/online/in-out-cafe"
   },
   {
-    "name": "Morningside Cafe 16369 East Warren Avenue",
-    "slug": "morningsidecafe16369eastwarrenavenue",
+    "name": "Morningside Cafe",
+    "slug": "morningside-cafe",
     "category": "cafe",
     "metros": [
       "phoenix"
@@ -959,8 +959,8 @@
     "toastUrl": "https://order.toasttab.com/online/old-town-kitchen-and-cocktails-300-technology-center-way-ste-203"
   },
   {
-    "name": "Chin Up Donuts Old Town 7021 E Main Street",
-    "slug": "chinupdonutsoldtown7021emainstreet",
+    "name": "Chin Up Donuts Old Town",
+    "slug": "chin-up-donuts-old-town",
     "category": "bakery",
     "metros": [
       "phoenix"
@@ -968,8 +968,8 @@
     "toastUrl": "https://order.toasttab.com/online/chin-up-donuts-old-town"
   },
   {
-    "name": "Old Town Pub 1339 N Wells St",
-    "slug": "oldtownpub1339nwellsst",
+    "name": "Old Town Pub",
+    "slug": "old-town-pub",
     "category": "restaurant",
     "metros": [
       "phoenix"
@@ -977,8 +977,8 @@
     "toastUrl": "https://order.toasttab.com/online/old-town-pub-1339-n-wells-st"
   },
   {
-    "name": "Old Town Station Restaurant 2530 Main St",
-    "slug": "oldtownstationrestaurant2530mainst",
+    "name": "Old Town Station Restaurant",
+    "slug": "old-town-station-restaurant",
     "category": "restaurant",
     "metros": [
       "phoenix"
@@ -986,8 +986,8 @@
     "toastUrl": "https://order.toasttab.com/online/oldtownstation"
   },
   {
-    "name": "Old Town Tavern & Beer Garden 900 Duval Street",
-    "slug": "oldtowntavernbeergarden900duvalstreet",
+    "name": "Old Town Tavern & Beer Garden",
+    "slug": "old-town-tavern-beer-garden",
     "category": "restaurant",
     "metros": [
       "phoenix"
@@ -995,8 +995,8 @@
     "toastUrl": "https://order.toasttab.com/online/old-town-tavern-beer-garden-900-duval-street"
   },
   {
-    "name": "Old Town Bar and Grill 315 East 1st Street",
-    "slug": "oldtownbarandgrill315east1ststreet",
+    "name": "Old Town Bar and Grill",
+    "slug": "old-town-bar-and-grill",
     "category": "restaurant",
     "metros": [
       "phoenix"
@@ -1040,8 +1040,8 @@
     "toastUrl": "https://order.toasttab.com/online/st-elmos-coffee-old-town"
   },
   {
-    "name": "Indochen- Old Town 1615 King Street",
-    "slug": "indochen-oldtown1615kingstreet",
+    "name": "Indochen- Old Town",
+    "slug": "indochen-old-town",
     "category": "restaurant",
     "metros": [
       "phoenix"
@@ -1067,8 +1067,8 @@
     "toastUrl": "https://order.toasttab.com/online/aflourshopdowntownphx"
   },
   {
-    "name": "Downtown Gastropub and Restaurant 401 Main Street",
-    "slug": "downtowngastropubandrestaurant401mainstr",
+    "name": "Downtown Gastropub and Restaurant",
+    "slug": "downtown-gastropub-and-restaurant",
     "category": "restaurant",
     "metros": [
       "phoenix"
@@ -1103,8 +1103,8 @@
     "toastUrl": "https://order.toasttab.com/online/phoenixdessertsd"
   },
   {
-    "name": "Downtown Cafe 221 west 5th street",
-    "slug": "downtowncafe221west5thstreet",
+    "name": "Downtown Cafe",
+    "slug": "downtown-cafe",
     "category": "cafe",
     "metros": [
       "phoenix"
@@ -1148,8 +1148,8 @@
     "toastUrl": "https://order.toasttab.com/online/stuffdnyc"
   },
   {
-    "name": "The VIG - Arcadia - 4041 N 40th Street, Phoenix, AZ 85018",
-    "slug": "thevig-arcadia-4041n40thstreetphoenixaz8",
+    "name": "The VIG - Arcadia",
+    "slug": "the-vig-arcadia",
     "category": "vietnamese",
     "metros": [
       "phoenix"
@@ -1238,8 +1238,8 @@
     "toastUrl": "https://order.toasttab.com/online/phoenicia-pizza-28"
   },
   {
-    "name": "Foxy Fox Pizza 5878 E Lake Pkwy",
-    "slug": "foxyfoxpizza5878elakepkwy",
+    "name": "Foxy Fox Pizza",
+    "slug": "foxy-fox-pizza",
     "category": "pizza",
     "metros": [
       "phoenix"
@@ -1247,8 +1247,8 @@
     "toastUrl": "https://order.toasttab.com/online/foxyfoxpizza"
   },
   {
-    "name": "Hey Now Pizza 607 Main St",
-    "slug": "heynowpizza607mainst",
+    "name": "Hey Now Pizza",
+    "slug": "hey-now-pizza",
     "category": "pizza",
     "metros": [
       "phoenix"
@@ -1274,8 +1274,8 @@
     "toastUrl": "https://order.toasttab.com/online/mykes-pizza"
   },
   {
-    "name": "Pizza Fenice 304 Fifth Ave",
-    "slug": "pizzafenice304fifthave",
+    "name": "Pizza Fenice",
+    "slug": "pizza-fenice",
     "category": "pizza",
     "metros": [
       "phoenix"
@@ -1283,8 +1283,8 @@
     "toastUrl": "https://order.toasttab.com/online/pizzafenice"
   },
   {
-    "name": "Pokitrition- Phoenix",
-    "slug": "pokitrition-phoenix",
+    "name": "Pokitrition",
+    "slug": "pokitrition",
     "category": "vietnamese",
     "metros": [
       "phoenix"
@@ -1310,8 +1310,8 @@
     "toastUrl": "https://order.toasttab.com/online/seasons-regions-seafood-grill"
   },
   {
-    "name": "Roe Seafood Dining & Fish Market 5374 E 2nd St",
-    "slug": "roeseafooddiningfishmarket5374e2ndst",
+    "name": "Roe Seafood Dining & Fish Market",
+    "slug": "roe-seafood-dining-fish-market",
     "category": "seafood",
     "metros": [
       "phoenix"
@@ -1319,8 +1319,8 @@
     "toastUrl": "https://order.toasttab.com/online/roe-seafood-5374-e-2nd-st"
   },
   {
-    "name": "Seafood Hut & Market 1936 MacDade Boulevard",
-    "slug": "seafoodhutmarket1936macdadeboulevard",
+    "name": "Seafood Hut & Market",
+    "slug": "seafood-hut-market",
     "category": "seafood",
     "metros": [
       "phoenix"
@@ -1400,8 +1400,8 @@
     "toastUrl": "https://order.toasttab.com/online/ajo-als-biltmore-5101-n-16th-st"
   },
   {
-    "name": "Alejandro's Mexican Food 6 East Aspen Avenue, Suite 120",
-    "slug": "alejandrosmexicanfood6eastaspenavenuesui",
+    "name": "Alejandro's Mexican Food",
+    "slug": "alejandro-s-mexican-food",
     "category": "mexican",
     "metros": [
       "phoenix"
@@ -1427,8 +1427,8 @@
     "toastUrl": "https://order.toasttab.com/online/sol-azteca-mexican-kitchen-9265-e-baseline-rd"
   },
   {
-    "name": "Azteca Mexican Grill 12 West 8th Street",
-    "slug": "aztecamexicangrill12west8thstreet",
+    "name": "Azteca Mexican Grill",
+    "slug": "azteca-mexican-grill",
     "category": "mexican",
     "metros": [
       "phoenix"
@@ -1445,8 +1445,8 @@
     "toastUrl": "https://order.toasttab.com/online/la-fuente-mex"
   },
   {
-    "name": "El Chapulin Mexican Restaurant 8901 West Chester Pike",
-    "slug": "elchapulinmexicanrestaurant8901westchest",
+    "name": "El Chapulin Mexican Restaurant",
+    "slug": "el-chapulin-mexican-restaurant",
     "category": "mexican",
     "metros": [
       "phoenix"
@@ -1866,8 +1866,8 @@
     "websiteOrderUrl": "https://twinpeaksrestaurant.olo.com/menu/twin-peaks-phoenix"
   },
   {
-    "name": "Sauce - Uptown",
-    "slug": "sauce-uptown",
+    "name": "Sauce",
+    "slug": "sauce",
     "category": "pizza",
     "metros": [
       "phoenix"
@@ -2164,8 +2164,8 @@
     "websiteOrderUrl": "https://atlaspizzapdx.getbento.com/online-ordering/"
   },
   {
-    "name": "EARTH PLANT BASED CUIS - PHOENIX, AZ",
-    "slug": "earthplantbasedcuis-phoenixaz",
+    "name": "EARTH PLANT BASED CUIS",
+    "slug": "earth-plant-based-cuis",
     "category": "vegan",
     "metros": [
       "phoenix"
@@ -2173,8 +2173,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/earth-phoenix"
   },
   {
-    "name": "Sala Thai Phoenix 32nd St - PHOENIX, AZ",
-    "slug": "salathaiphoenix32ndst-phoenixaz",
+    "name": "Sala Thai Phoenix 32nd St",
+    "slug": "sala-thai-phoenix-32nd-st",
     "category": "thai",
     "metros": [
       "phoenix"
@@ -2182,8 +2182,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/sala-thai-phoenix-32nd"
   },
   {
-    "name": "Restaurant - PHOENIX, AZ",
-    "slug": "restaurant-phoenixaz",
+    "name": "Restaurant",
+    "slug": "restaurant",
     "category": "vietnamese",
     "metros": [
       "phoenix"
@@ -2191,8 +2191,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/restaurant-phoenix"
   },
   {
-    "name": "SWEET MAGIC LLC - PHOENIX, AZ",
-    "slug": "sweetmagicllc-phoenixaz",
+    "name": "SWEET MAGIC LLC",
+    "slug": "sweet-magic-llc",
     "category": "vietnamese",
     "metros": [
       "phoenix"
@@ -2200,8 +2200,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/sweet-magic-llc-phoenix"
   },
   {
-    "name": "SALA THAI RESTAURANT - PHOENIX, AZ",
-    "slug": "salathairestaurant-phoenixaz",
+    "name": "SALA THAI RESTAURANT",
+    "slug": "sala-thai-restaurant",
     "category": "thai",
     "metros": [
       "phoenix"
@@ -2209,8 +2209,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/sala-thai-restaurant-phoenix"
   },
   {
-    "name": "SWEET MAGIC - PHOENIX, AZ",
-    "slug": "sweetmagic-phoenixaz",
+    "name": "SWEET MAGIC",
+    "slug": "sweet-magic",
     "category": "vietnamese",
     "metros": [
       "phoenix"
@@ -2218,8 +2218,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/sweet-magic-phoenix"
   },
   {
-    "name": "PITIC RESTAURANT & LOUNG - PHOENIX, AZ",
-    "slug": "piticrestaurantloung-phoenixaz",
+    "name": "PITIC RESTAURANT & LOUNG",
+    "slug": "pitic-restaurant-loung",
     "category": "vietnamese",
     "metros": [
       "phoenix"
@@ -2227,8 +2227,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/pitic-restaurant--loung-phoenix/JR2N6YWRHA56W"
   },
   {
-    "name": "5TH AVENUE CAFE - PHOENIX, AZ",
-    "slug": "5thavenuecafe-phoenixaz",
+    "name": "5TH AVENUE CAFE",
+    "slug": "5th-avenue-cafe",
     "category": "cafe",
     "metros": [
       "phoenix"
@@ -2236,8 +2236,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/5th-avenue-cafe-phoenix"
   },
   {
-    "name": "EL MR.CAMARON LLC - PHOENIX, AZ",
-    "slug": "elmrcamaronllc-phoenixaz",
+    "name": "EL MR.CAMARON LLC",
+    "slug": "el-mr-camaron-llc",
     "category": "vietnamese",
     "metros": [
       "phoenix"
@@ -2245,8 +2245,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/ElMr-CamaronLLC"
   },
   {
-    "name": "QUE HUONG RESTAURANT - PHOENIX, AZ",
-    "slug": "quehuongrestaurant-phoenixaz",
+    "name": "QUE HUONG RESTAURANT",
+    "slug": "que-huong-restaurant",
     "category": "vietnamese",
     "metros": [
       "phoenix"
@@ -2254,8 +2254,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/que-huong-restaurant-cc-phoenix"
   },
   {
-    "name": "Pho Noodles - 7th ave - PHOENIX, AZ",
-    "slug": "phonoodles-7thave-phoenixaz",
+    "name": "Pho Noodles - 7th ave",
+    "slug": "pho-noodles-7th-ave",
     "category": "chinese",
     "metros": [
       "phoenix"
@@ -2263,8 +2263,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/pho-noodles--7th-ave-phoenix"
   },
   {
-    "name": "Moon Valley Cafe - PHOENIX, AZ",
-    "slug": "moonvalleycafe-phoenixaz",
+    "name": "Moon Valley Cafe",
+    "slug": "moon-valley-cafe",
     "category": "cafe",
     "metros": [
       "phoenix"
@@ -2290,8 +2290,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/phoenix-flame-niles"
   },
   {
-    "name": "STICKLERS CAFE - PHOENIX, AZ",
-    "slug": "sticklerscafe-phoenixaz",
+    "name": "STICKLERS CAFE",
+    "slug": "sticklers-cafe",
     "category": "cafe",
     "metros": [
       "phoenix"
@@ -2299,8 +2299,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/sticklers-cafe-phoenix/EBP6DP4NQE3S0"
   },
   {
-    "name": "BY THE BUCKET - LAVEEN - Phoenix, AZ",
-    "slug": "bythebucket-laveen-phoenixaz",
+    "name": "BY THE BUCKET - LAVEEN",
+    "slug": "by-the-bucket-laveen",
     "category": "vietnamese",
     "metros": [
       "phoenix"
@@ -2308,8 +2308,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/by-the-bucket--laveen-phoenix"
   },
   {
-    "name": "CORNER ON THE MARKET - PHOENIX, AZ",
-    "slug": "corneronthemarket-phoenixaz",
+    "name": "CORNER ON THE MARKET",
+    "slug": "corner-on-the-market",
     "category": "vietnamese",
     "metros": [
       "phoenix"
@@ -2317,8 +2317,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/corner-on-the-market-phoenix"
   },
   {
-    "name": "LA TAPATIA - PHOENIX, AZ",
-    "slug": "latapatia-phoenixaz",
+    "name": "LA TAPATIA",
+    "slug": "la-tapatia",
     "category": "vietnamese",
     "metros": [
       "phoenix"
@@ -2326,8 +2326,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/la-tapatia-phoenix"
   },
   {
-    "name": "PRESIDIO - PHOENIX, AZ",
-    "slug": "presidio-phoenixaz",
+    "name": "PRESIDIO",
+    "slug": "presidio",
     "category": "vietnamese",
     "metros": [
       "phoenix"
@@ -2380,8 +2380,8 @@
     "toastUrl": "https://order.toasttab.com/online/rockfishrichardson"
   },
   {
-    "name": "Hookers Seafood Joint (Harrisburg) 405 Walnut Street",
-    "slug": "hookersseafoodjointharrisburg405walnutst",
+    "name": "Hookers Seafood Joint (Harrisburg)",
+    "slug": "hookers-seafood-joint-harrisburg",
     "category": "seafood",
     "metros": [
       "phoenix"
@@ -2398,8 +2398,8 @@
     "toastUrl": "https://order.toasttab.com/online/hninasseafood"
   },
   {
-    "name": "Opa Greek Yeeros 378 Highland Ave",
-    "slug": "opagreekyeeros378highlandave",
+    "name": "Opa Greek Yeeros",
+    "slug": "opa-greek-yeeros",
     "category": "mediterranean",
     "metros": [
       "phoenix"
@@ -2407,8 +2407,8 @@
     "toastUrl": "https://order.toasttab.com/online/opagreekyeeros"
   },
   {
-    "name": "The Greek Corner 2366 Massachusetts Avenue",
-    "slug": "thegreekcorner2366massachusettsavenue",
+    "name": "The Greek Corner",
+    "slug": "the-greek-corner",
     "category": "mediterranean",
     "metros": [
       "phoenix"
@@ -2524,8 +2524,8 @@
     "toastUrl": "https://order.toasttab.com/online/breakfastbitchaz"
   },
   {
-    "name": "Sunshine Breakfast Bar - Phoenix",
-    "slug": "sunshinebreakfastbar-phoenix",
+    "name": "Sunshine Breakfast Bar",
+    "slug": "sunshine-breakfast-bar",
     "category": "breakfast",
     "metros": [
       "phoenix"
@@ -2596,8 +2596,8 @@
     "toastUrl": "https://order.toasttab.com/online/hello-juice-smoothie-kirkwood"
   },
   {
-    "name": "Juice World 89 Passaic St",
-    "slug": "juiceworld89passaicst",
+    "name": "Juice World",
+    "slug": "juice-world",
     "category": "juice",
     "metros": [
       "phoenix"

@@ -72,8 +72,8 @@
     ]
   },
   {
-    "name": "State of Confusion- Charlotte",
-    "slug": "stateofconfusion-charlotte",
+    "name": "State of Confusion",
+    "slug": "state-of-confusion",
     "category": "restaurant",
     "metros": [
       "charlotte"
@@ -475,8 +475,8 @@
     "toastUrl": "https://order.toasttab.com/online/sea-hut-charlotte"
   },
   {
-    "name": "Charlotte Tavern 2 River Street",
-    "slug": "charlottetavern2riverstreet",
+    "name": "Charlotte Tavern",
+    "slug": "charlotte-tavern",
     "category": "restaurant",
     "metros": [
       "charlotte"
@@ -484,8 +484,8 @@
     "toastUrl": "https://order.toasttab.com/online/charlotte-tavern-2-river-street"
   },
   {
-    "name": "Time Square Pizza Greensboro 101 Elmsley Meadows Ln",
-    "slug": "timesquarepizzagreensboro101elmsleymeado",
+    "name": "Time Square Pizza Greensboro",
+    "slug": "time-square-pizza-greensboro",
     "category": "pizza",
     "metros": [
       "charlotte"
@@ -565,8 +565,8 @@
     "toastUrl": "https://order.toasttab.com/online/wing-king-cafe-indian-land-8356-charlotte-hwy-suite-108"
   },
   {
-    "name": "In & Out Cafe 1621 N Road Street",
-    "slug": "inoutcafe1621nroadstreet",
+    "name": "In & Out Cafe",
+    "slug": "in-out-cafe",
     "category": "cafe",
     "metros": [
       "charlotte"
@@ -673,8 +673,8 @@
     "toastUrl": "https://order.toasttab.com/online/chef-alyssas-family-dinners"
   },
   {
-    "name": "South Seas 1301 Story Avenue",
-    "slug": "southseas1301storyavenue",
+    "name": "South Seas",
+    "slug": "south-seas",
     "category": "restaurant",
     "metros": [
       "charlotte"
@@ -700,8 +700,8 @@
     "toastUrl": "https://order.toasttab.com/online/beautiful-south-brick-and-mortar-128-columbus-stsuite-101-charleston-sc-29405"
   },
   {
-    "name": "Dish Plaza Midwood - 1220 Thomas Ave, Charlotte, NC",
-    "slug": "dishplazamidwood-1220thomasavecharlotten",
+    "name": "Dish Plaza Midwood",
+    "slug": "dish-plaza-midwood",
     "category": "restaurant",
     "metros": [
       "charlotte"
@@ -745,8 +745,8 @@
     "toastUrl": "https://order.toasttab.com/online/calle-sol-1205-thomas-ave"
   },
   {
-    "name": "Sandwich Max - Plaza Midwood 933 Louise Avenue",
-    "slug": "sandwichmax-plazamidwood933louiseavenue",
+    "name": "Sandwich Max - Plaza Midwood",
+    "slug": "sandwich-max-plaza-midwood",
     "category": "deli",
     "metros": [
       "charlotte"
@@ -763,8 +763,8 @@
     "toastUrl": "https://order.toasttab.com/online/cilantro-noodle"
   },
   {
-    "name": "Midwood Smokehouse - 1401 Central Ave., Charlotte, NC",
-    "slug": "midwoodsmokehouse-1401centralavecharlott",
+    "name": "Midwood Smokehouse - 1401 Central Ave.",
+    "slug": "midwood-smokehouse-1401-central-ave",
     "category": "bbq",
     "metros": [
       "charlotte"
@@ -781,8 +781,8 @@
     "toastUrl": "https://order.toasttab.com/online/capishe"
   },
   {
-    "name": "Inizio Dilworth 2230 Park Road Suite 101",
-    "slug": "iniziodilworth2230parkroadsuite101",
+    "name": "Inizio Dilworth",
+    "slug": "inizio-dilworth",
     "category": "restaurant",
     "metros": [
       "charlotte"
@@ -817,8 +817,8 @@
     "toastUrl": "https://order.toasttab.com/online/dovetailcharlestown"
   },
   {
-    "name": "Delicias restaurant 18119 Egret Bay Boulevard",
-    "slug": "deliciasrestaurant18119egretbayboulevard",
+    "name": "Delicias restaurant",
+    "slug": "delicias-restaurant",
     "category": "deli",
     "metros": [
       "charlotte"
@@ -844,8 +844,8 @@
     "toastUrl": "https://order.toasttab.com/online/skillets-port-charlotte-24123-peachland-blvd-unit-a10"
   },
   {
-    "name": "Village Juice & Kitchen Optimist Hall - Charlotte",
-    "slug": "villagejuicekitchenoptimisthall-charlott",
+    "name": "Village Juice & Kitchen Optimist Hall",
+    "slug": "village-juice-kitchen-optimist-hall",
     "category": "juice",
     "metros": [
       "charlotte"
@@ -853,8 +853,8 @@
     "toastUrl": "https://order.toasttab.com/online/village-juice-clt-optimist-hall"
   },
   {
-    "name": "51st Deli charlotte pike 7104 charlotte pike",
-    "slug": "51stdelicharlottepike7104charlottepike",
+    "name": "51st Deli charlotte pike",
+    "slug": "51st-deli-charlotte-pike",
     "category": "deli",
     "metros": [
       "charlotte"
@@ -934,8 +934,8 @@
     "toastUrl": "https://order.toasttab.com/online/mediterranean-cruise-cafe"
   },
   {
-    "name": "Sevmar Mediterranean Bistro 401 Main St",
-    "slug": "sevmarmediterraneanbistro401mainst",
+    "name": "Sevmar Mediterranean Bistro",
+    "slug": "sevmar-mediterranean-bistro",
     "category": "mediterranean",
     "metros": [
       "charlotte"
@@ -1006,8 +1006,8 @@
     "toastUrl": "https://order.toasttab.com/online/bellissimatx"
   },
   {
-    "name": "Pala Mediterranean Kitchen 3317 Sheridan st",
-    "slug": "palamediterraneankitchen3317sheridanst",
+    "name": "Pala Mediterranean Kitchen",
+    "slug": "pala-mediterranean-kitchen",
     "category": "mediterranean",
     "metros": [
       "charlotte"
@@ -1024,8 +1024,8 @@
     "toastUrl": "https://order.toasttab.com/online/hc-burger-company-2315-n-davidson-st-300"
   },
   {
-    "name": "The Cowfish Sushi Burger Bar - Charlotte",
-    "slug": "thecowfishsushiburgerbar-charlotte",
+    "name": "The Cowfish Sushi Burger Bar",
+    "slug": "the-cowfish-sushi-burger-bar",
     "category": "japanese",
     "metros": [
       "charlotte"
@@ -1060,8 +1060,8 @@
     "toastUrl": "https://order.toasttab.com/online/burgercity"
   },
   {
-    "name": "Sunnin Lebanese Café 1776 Westwood Blvd",
-    "slug": "sunninlebanesecaf1776westwoodblvd",
+    "name": "Sunnin Lebanese Café",
+    "slug": "sunnin-lebanese-caf",
     "category": "cafe",
     "metros": [
       "charlotte"
@@ -1579,8 +1579,8 @@
     "websiteOrderUrl": "https://firebirdscatering.olo.com/menu/firebirds-catering-stonecrest"
   },
   {
-    "name": "Sal's Pizza Factory - 3723 Monroe Rd, Charlotte, NC 28205",
-    "slug": "salspizzafactory-3723monroerdcharlottenc",
+    "name": "Sal's Pizza Factory",
+    "slug": "sal-s-pizza-factory",
     "category": "pizza",
     "metros": [
       "charlotte"
@@ -1710,8 +1710,8 @@
     ]
   },
   {
-    "name": "MAD GREEK CAFE - CHARLOTTE, NC",
-    "slug": "madgreekcafe-charlottenc",
+    "name": "MAD GREEK CAFE",
+    "slug": "mad-greek-cafe",
     "category": "cafe",
     "metros": [
       "charlotte"
@@ -1728,8 +1728,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/circle-g-restaurant-charlotte"
   },
   {
-    "name": "New York Diner - CHARLOTTE, NC",
-    "slug": "newyorkdiner-charlottenc",
+    "name": "New York Diner",
+    "slug": "new-york-diner",
     "category": "restaurant",
     "metros": [
       "charlotte"
@@ -1737,8 +1737,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/new-york-diner-charlotte/"
   },
   {
-    "name": "Card and ID required at time of pick up. - CHARLOTTE, NC",
-    "slug": "cardandidrequiredattimeofpickup-charlott",
+    "name": "Card and ID required at time of pick up.",
+    "slug": "card-and-id-required-at-time-of-pick-up",
     "category": "restaurant",
     "metros": [
       "charlotte"
@@ -1755,8 +1755,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/retaj-charlotte"
   },
   {
-    "name": "Saku Yakitori & Sushi Bar - CHARLOTTE, NC",
-    "slug": "sakuyakitorisushibar-charlottenc",
+    "name": "Saku Yakitori & Sushi Bar",
+    "slug": "saku-yakitori-sushi-bar",
     "category": "japanese",
     "metros": [
       "charlotte"
@@ -1764,8 +1764,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/sakucharlotte"
   },
   {
-    "name": "CHEX UPTOWN - CHARLOTTE, NC",
-    "slug": "chexuptown-charlottenc",
+    "name": "CHEX UPTOWN",
+    "slug": "chex-uptown",
     "category": "restaurant",
     "metros": [
       "charlotte"
@@ -1773,8 +1773,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/chex-uptown-charlotte"
   },
   {
-    "name": "CHEX PLAZA - CHARLOTTE, NC",
-    "slug": "chexplaza-charlottenc",
+    "name": "CHEX PLAZA",
+    "slug": "chex-plaza",
     "category": "restaurant",
     "metros": [
       "charlotte"
@@ -1782,8 +1782,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/chex-plaza-charlotte"
   },
   {
-    "name": "BIG APPLE DELI - CHARLOTTE, NC",
-    "slug": "bigappledeli-charlottenc",
+    "name": "BIG APPLE DELI",
+    "slug": "big-apple-deli",
     "category": "deli",
     "metros": [
       "charlotte"
@@ -1809,8 +1809,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/curry-and-kabab-port-charlotte"
   },
   {
-    "name": "VIBE CAFE AND WINE - CHARLOTTE, NC",
-    "slug": "vibecafeandwine-charlottenc",
+    "name": "VIBE CAFE AND WINE",
+    "slug": "vibe-cafe-and-wine",
     "category": "cafe",
     "metros": [
       "charlotte"
@@ -1845,8 +1845,8 @@
     "websiteOrderUrl": "https://tap.clover.com/samsclub/industries/restaurants/"
   },
   {
-    "name": "Cabo's Mexican Cuisine & Cantina - CHARLOTTE, NC",
-    "slug": "cabosmexicancuisinecantina-charlottenc",
+    "name": "Cabo's Mexican Cuisine & Cantina",
+    "slug": "cabo-s-mexican-cuisine-cantina",
     "category": "mexican",
     "metros": [
       "charlotte"
@@ -1872,8 +1872,8 @@
     "websiteOrderUrl": "https://www.clover.com/deals/restaurant/"
   },
   {
-    "name": "CHEX SARDIS - CHARLOTTE, NC",
-    "slug": "chexsardis-charlottenc",
+    "name": "CHEX SARDIS",
+    "slug": "chex-sardis",
     "category": "restaurant",
     "metros": [
       "charlotte"
@@ -1881,8 +1881,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/chex-sardis-charlotte/03VCX0SVHAWHP"
   },
   {
-    "name": "Pokenash - 4101 Charlotte Avenue, G120, Nashville, TN",
-    "slug": "pokenash-4101charlotteavenueg120nashvill",
+    "name": "Pokenash - 4101 Charlotte Avenue, G120",
+    "slug": "pokenash-4101-charlotte-avenue-g120",
     "category": "japanese",
     "metros": [
       "charlotte"
@@ -1917,8 +1917,8 @@
     "toastUrl": "https://order.toasttab.com/online/oshi-poke-and-sushi-new-201-jefferson-street-north"
   },
   {
-    "name": "Poke Dot 17921 MacArthur Blvd",
-    "slug": "pokedot17921macarthurblvd",
+    "name": "Poke Dot",
+    "slug": "poke-dot",
     "category": "japanese",
     "metros": [
       "charlotte"
@@ -1944,8 +1944,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-cafe-fayetteville-1946-skibo-rd"
   },
   {
-    "name": "Poke OG @ 1800 143 NW 23 ST",
-    "slug": "pokeog1800143nw23st",
+    "name": "Poke OG @ 1800",
+    "slug": "poke-og-1800",
     "category": "japanese",
     "metros": [
       "charlotte"
@@ -1962,8 +1962,8 @@
     "toastUrl": "https://order.toasttab.com/online/pokecafewestashley"
   },
   {
-    "name": "NEW Siesta Poke 5206 Ocean Boulevard",
-    "slug": "newsiestapoke5206oceanboulevard",
+    "name": "NEW Siesta Poke",
+    "slug": "new-siesta-poke",
     "category": "japanese",
     "metros": [
       "charlotte"
@@ -2043,8 +2043,8 @@
     "toastUrl": "https://order.toasttab.com/online/katies-seafood-house"
   },
   {
-    "name": "Seafood Hut & Market 1936 MacDade Boulevard",
-    "slug": "seafoodhutmarket1936macdadeboulevard",
+    "name": "Seafood Hut & Market",
+    "slug": "seafood-hut-market",
     "category": "seafood",
     "metros": [
       "charlotte"
@@ -2061,8 +2061,8 @@
     "toastUrl": "https://order.toasttab.com/online/hninasseafood"
   },
   {
-    "name": "Hookers Seafood Joint (Harrisburg) 405 Walnut Street",
-    "slug": "hookersseafoodjointharrisburg405walnutst",
+    "name": "Hookers Seafood Joint (Harrisburg)",
+    "slug": "hookers-seafood-joint-harrisburg",
     "category": "seafood",
     "metros": [
       "charlotte"
@@ -2079,8 +2079,8 @@
     "toastUrl": "https://order.toasttab.com/online/catch-25-220-holmes-avenue-northeast"
   },
   {
-    "name": "La Mer Seafood 407 Main Street",
-    "slug": "lamerseafood407mainstreet",
+    "name": "La Mer Seafood",
+    "slug": "la-mer-seafood",
     "category": "seafood",
     "metros": [
       "charlotte"
@@ -2106,8 +2106,8 @@
     "toastUrl": "https://order.toasttab.com/online/greekoncary"
   },
   {
-    "name": "The Greek Corner 2366 Massachusetts Avenue",
-    "slug": "thegreekcorner2366massachusettsavenue",
+    "name": "The Greek Corner",
+    "slug": "the-greek-corner",
     "category": "mediterranean",
     "metros": [
       "charlotte"
@@ -2151,8 +2151,8 @@
     "toastUrl": "https://order.toasttab.com/online/georges-greek-cafe-lakewood"
   },
   {
-    "name": "Opa Greek Yeeros 378 Highland Ave",
-    "slug": "opagreekyeeros378highlandave",
+    "name": "Opa Greek Yeeros",
+    "slug": "opa-greek-yeeros",
     "category": "mediterranean",
     "metros": [
       "charlotte"
@@ -2268,8 +2268,8 @@
     "toastUrl": "https://order.toasttab.com/online/hello-juice-smoothie-kirkwood"
   },
   {
-    "name": "Juice World 89 Passaic St",
-    "slug": "juiceworld89passaicst",
+    "name": "Juice World",
+    "slug": "juice-world",
     "category": "juice",
     "metros": [
       "charlotte"

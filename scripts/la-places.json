@@ -1418,8 +1418,8 @@
     "toastUrl": "https://order.toasttab.com/online/eat-this-cafe"
   },
   {
-    "name": "LA Rose Cafe 4749 Fountain Ave",
-    "slug": "larosecafe4749fountainave",
+    "name": "LA Rose Cafe",
+    "slug": "la-rose-cafe",
     "category": "cafe",
     "metros": [
       "la"
@@ -1490,8 +1490,8 @@
     "toastUrl": "https://order.toasttab.com/online/homeboy-diner-lacityhall"
   },
   {
-    "name": "Winsome Cafe 6080 Center Drive",
-    "slug": "winsomecafe6080centerdrive",
+    "name": "Winsome Cafe",
+    "slug": "winsome-cafe",
     "category": "cafe",
     "metros": [
       "la"
@@ -1535,8 +1535,8 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/28003/locations"
   },
   {
-    "name": "Terun Pizza - Palo Alto 448 S California Ave",
-    "slug": "terunpizza-paloalto448scaliforniaave",
+    "name": "Terun Pizza - Palo Alto",
+    "slug": "terun-pizza-palo-alto",
     "category": "pizza",
     "metros": [
       "la"
@@ -1544,8 +1544,8 @@
     "toastUrl": "https://order.toasttab.com/online/terun-pizza-palo-alto-448-s-california-ave"
   },
   {
-    "name": "Pizza Supreme 19070 La Puente Road",
-    "slug": "pizzasupreme19070lapuenteroad",
+    "name": "Pizza Supreme",
+    "slug": "pizza-supreme",
     "category": "pizza",
     "metros": [
       "la"
@@ -1607,8 +1607,8 @@
     "toastUrl": "https://order.toasttab.com/online/little-star-pizza-solano-1181-solano-avenue"
   },
   {
-    "name": "Pizza Hub 40986 Fremont Boulevard",
-    "slug": "pizzahub40986fremontboulevard",
+    "name": "Pizza Hub",
+    "slug": "pizza-hub",
     "category": "pizza",
     "metros": [
       "la"
@@ -1643,8 +1643,8 @@
     "toastUrl": "https://order.toasttab.com/online/knockout-pizza"
   },
   {
-    "name": "The Original Pizza Presto 9450 Whittier Blvd",
-    "slug": "theoriginalpizzapresto9450whittierblvd",
+    "name": "The Original Pizza Presto",
+    "slug": "the-original-pizza-presto",
     "category": "pizza",
     "metros": [
       "la"
@@ -1652,8 +1652,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-original-pizza-presto-9450-whittier-blvd"
   },
   {
-    "name": "Tony's Pizza Bros 31 N Lewis Rd",
-    "slug": "tonyspizzabros31nlewisrd",
+    "name": "Tony's Pizza Bros",
+    "slug": "tony-s-pizza-bros",
     "category": "pizza",
     "metros": [
       "la"
@@ -1787,8 +1787,8 @@
     "toastUrl": "https://order.toasttab.com/online/pizzagirlweho"
   },
   {
-    "name": "Vito's Pizzeria West Hollywood 846 N LaCienega Blvd",
-    "slug": "vitospizzeriawesthollywood846nlacienegab",
+    "name": "Vito's Pizzeria West Hollywood",
+    "slug": "vito-s-pizzeria-west-hollywood",
     "category": "pizza",
     "metros": [
       "la"
@@ -1796,8 +1796,8 @@
     "toastUrl": "https://order.toasttab.com/online/vitos-pizzeria-west-hollywood-846-n-lacienega-blvd"
   },
   {
-    "name": "Prince Street Pizza 9161 sunset Blvd",
-    "slug": "princestreetpizza9161sunsetblvd",
+    "name": "Prince Street Pizza",
+    "slug": "prince-street-pizza",
     "category": "pizza",
     "metros": [
       "la"
@@ -1832,8 +1832,8 @@
     "toastUrl": "https://order.toasttab.com/online/carousel-restaurant-hollywood"
   },
   {
-    "name": "NeueHouse HollyWood 6121 Sunset Blvd",
-    "slug": "neuehousehollywood6121sunsetblvd",
+    "name": "NeueHouse HollyWood",
+    "slug": "neuehouse-hollywood",
     "category": "restaurant",
     "metros": [
       "la"
@@ -1868,8 +1868,8 @@
     "toastUrl": "https://order.toasttab.com/online/cao-bakery-hollywood"
   },
   {
-    "name": "Hollywood Beach Cafe 117 Los Altos St",
-    "slug": "hollywoodbeachcafe117losaltosst",
+    "name": "Hollywood Beach Cafe",
+    "slug": "hollywood-beach-cafe",
     "category": "cafe",
     "metros": [
       "la"
@@ -1913,8 +1913,8 @@
     "toastUrl": "https://order.toasttab.com/online/shin-ramen-hollywood"
   },
   {
-    "name": "Sutadonya - Santa Monica 3760 S Centinela Ave",
-    "slug": "sutadonya-santamonica3760scentinelaave",
+    "name": "Sutadonya - Santa Monica",
+    "slug": "sutadonya-santa-monica",
     "category": "restaurant",
     "metros": [
       "la"
@@ -1949,8 +1949,8 @@
     "toastUrl": "https://order.toasttab.com/online/tartine-santa-monica"
   },
   {
-    "name": "Bludso's BBQ 1329 Santa Monica Blvd",
-    "slug": "bludsosbbq1329santamonicablvd",
+    "name": "Bludso's BBQ",
+    "slug": "bludso-s-bbq",
     "category": "bbq",
     "metros": [
       "la"
@@ -1958,8 +1958,8 @@
     "toastUrl": "https://order.toasttab.com/online/bludsos-bbq-santamonica"
   },
   {
-    "name": "MONICA CAFÉ 508 Santa Monica Blvd",
-    "slug": "monicacaf508santamonicablvd",
+    "name": "MONICA CAFÉ",
+    "slug": "monica-caf",
     "category": "cafe",
     "metros": [
       "la"
@@ -1976,8 +1976,8 @@
     "toastUrl": "https://order.toasttab.com/online/zgardensantamonica"
   },
   {
-    "name": "Santa Monica Pizza Kitchen 1318 Wilshire Blvd",
-    "slug": "santamonicapizzakitchen1318wilshireblvd",
+    "name": "Santa Monica Pizza Kitchen",
+    "slug": "santa-monica-pizza-kitchen",
     "category": "pizza",
     "metros": [
       "la"
@@ -1994,8 +1994,8 @@
     "toastUrl": "https://order.toasttab.com/online/katsubar.santamonica"
   },
   {
-    "name": "Vito's Pizza 2455 Santa Monica Blvd",
-    "slug": "vitospizza2455santamonicablvd",
+    "name": "Vito's Pizza",
+    "slug": "vito-s-pizza",
     "category": "pizza",
     "metros": [
       "la"
@@ -2075,8 +2075,8 @@
     "toastUrl": "https://order.toasttab.com/online/food-plus-beer-venice-301-tamiami-trail-s"
   },
   {
-    "name": "Prince Street Pizza - Venice 326 Lincoln Blvd",
-    "slug": "princestreetpizza-venice326lincolnblvd",
+    "name": "Prince Street Pizza - Venice",
+    "slug": "prince-street-pizza-venice",
     "category": "pizza",
     "metros": [
       "la"
@@ -2129,8 +2129,8 @@
     "toastUrl": "https://order.toasttab.com/online/belles"
   },
   {
-    "name": "NeueHouse - Venice 73 Market Street",
-    "slug": "neuehouse-venice73marketstreet",
+    "name": "NeueHouse - Venice",
+    "slug": "neuehouse-venice",
     "category": "restaurant",
     "metros": [
       "la"
@@ -2174,8 +2174,8 @@
     "toastUrl": "https://order.toasttab.com/online/charcoal-venice"
   },
   {
-    "name": "The Ramen Joint 6220 West 87th Street",
-    "slug": "theramenjoint6220west87thstreet",
+    "name": "The Ramen Joint",
+    "slug": "the-ramen-joint",
     "category": "japanese",
     "metros": [
       "la"
@@ -2201,8 +2201,8 @@
     "toastUrl": "https://order.toasttab.com/online/tatsu-ramen-dtla-427-s-hewitt-st"
   },
   {
-    "name": "Tonchin- Los Angeles 5665 Melrose Avenue",
-    "slug": "tonchin-losangeles5665melroseavenue",
+    "name": "Tonchin- Los Angeles",
+    "slug": "tonchin-los-angeles",
     "category": "restaurant",
     "metros": [
       "la"
@@ -2228,8 +2228,8 @@
     "toastUrl": "https://order.toasttab.com/online/shin-sen-gumi-hakata-ramen-little-tokyo"
   },
   {
-    "name": "5179 Hollywood Boulevard, Los Angeles, CA",
-    "slug": "5179hollywoodboulevardlosangelesca",
+    "name": "Los Angeles, CA",
+    "slug": "los-angeles-ca",
     "category": "restaurant",
     "metros": [
       "la"
@@ -2237,8 +2237,8 @@
     "toastUrl": "https://order.toasttab.com/online/oki-5179-hollywood-boulevard"
   },
   {
-    "name": "Afuri Los Angeles 688 Mateo street",
-    "slug": "afurilosangeles688mateostreet",
+    "name": "Afuri Los Angeles",
+    "slug": "afuri-los-angeles",
     "category": "restaurant",
     "metros": [
       "la"
@@ -2273,8 +2273,8 @@
     "toastUrl": "https://order.toasttab.com/online/rasselbock-los-angeles"
   },
   {
-    "name": "Rao's Los Angeles 1006 Seward St",
-    "slug": "raoslosangeles1006sewardst",
+    "name": "Rao's Los Angeles",
+    "slug": "rao-s-los-angeles",
     "category": "restaurant",
     "metros": [
       "la"
@@ -2291,8 +2291,8 @@
     "toastUrl": "https://order.toasttab.com/online/fist-of-fusion-island-grill"
   },
   {
-    "name": "Fruit and Salad Co 680 Pittsford Victor Road",
-    "slug": "fruitandsaladco680pittsfordvictorroad",
+    "name": "Fruit and Salad Co",
+    "slug": "fruit-and-salad-co",
     "category": "healthy",
     "metros": [
       "la"
@@ -2318,8 +2318,8 @@
     "toastUrl": "https://order.toasttab.com/online/saladworld"
   },
   {
-    "name": "305 Peruvian 261 SW 8 TH ST",
-    "slug": "305peruvian261sw8thst",
+    "name": "305 Peruvian",
+    "slug": "305-peruvian",
     "category": "latin",
     "metros": [
       "la"
@@ -2354,8 +2354,8 @@
     "toastUrl": "https://order.toasttab.com/online/lomitoperuvianfood"
   },
   {
-    "name": "Origen Signature Peruvian Cuisine 10000 Stirling Rd ste 8",
-    "slug": "origensignatureperuviancuisine10000stirl",
+    "name": "Origen Signature Peruvian Cuisine",
+    "slug": "origen-signature-peruvian-cuisine",
     "category": "latin",
     "metros": [
       "la"
@@ -2372,8 +2372,8 @@
     "toastUrl": "https://order.toasttab.com/online/autentico"
   },
   {
-    "name": "Bludso's BBQ 609 N La Brea Ave",
-    "slug": "bludsosbbq609nlabreaave",
+    "name": "Bludso's BBQ",
+    "slug": "bludso-s-bbq",
     "category": "bbq",
     "metros": [
       "la"
@@ -2426,8 +2426,8 @@
     "toastUrl": "https://order.toasttab.com/online/hailmary-la"
   },
   {
-    "name": "Amalia's Restaurant 4210 Beverly Boulevard",
-    "slug": "amaliasrestaurant4210beverlyboulevard",
+    "name": "Amalia's Restaurant",
+    "slug": "amalia-s-restaurant",
     "category": "restaurant",
     "metros": [
       "la"
@@ -2435,8 +2435,8 @@
     "websiteOrderUrl": "https://order.online/store/amalia's-restaurant-los-angeles-6065"
   },
   {
-    "name": "Stamp Proper Foods 4500 Los Feliz Boulevard",
-    "slug": "stampproperfoods4500losfelizboulevard",
+    "name": "Stamp Proper Foods",
+    "slug": "stamp-proper-foods",
     "category": "restaurant",
     "metros": [
       "la"
@@ -3169,8 +3169,8 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/7962/locations/10809"
   },
   {
-    "name": "The Pan-Torrance 3160 Pacific Coast Hwy",
-    "slug": "thepan-torrance3160pacificcoasthwy",
+    "name": "The Pan-Torrance",
+    "slug": "the-pan-torrance",
     "category": "restaurant",
     "metros": [
       "la"
@@ -3187,8 +3187,8 @@
     "toastUrl": "https://order.toasttab.com/online/rascals-teriyaki-grill-torrance"
   },
   {
-    "name": "Pho Hana Torrance 22815 Hawthorne Blvd",
-    "slug": "phohanatorrance22815hawthorneblvd",
+    "name": "Pho Hana Torrance",
+    "slug": "pho-hana-torrance",
     "category": "vietnamese",
     "metros": [
       "la"
@@ -3358,8 +3358,8 @@
     "toastUrl": "https://order.toasttab.com/online/factorsdeli"
   },
   {
-    "name": "Uncle Paulies Deli - Studio City 3990 Vantage Avenue",
-    "slug": "unclepauliesdeli-studiocity3990vantageav",
+    "name": "Uncle Paulies Deli - Studio City",
+    "slug": "uncle-paulies-deli-studio-city",
     "category": "deli",
     "metros": [
       "la"
@@ -3367,8 +3367,8 @@
     "toastUrl": "https://order.toasttab.com/online/uncle-paulies-deli-studio-city-3990-vantage-avenue"
   },
   {
-    "name": "Schwartz's Kosher Deli 8820 West Pico Blvd",
-    "slug": "schwartzskosherdeli8820westpicoblvd",
+    "name": "Schwartz's Kosher Deli",
+    "slug": "schwartz-s-kosher-deli",
     "category": "deli",
     "metros": [
       "la"
@@ -3376,8 +3376,8 @@
     "toastUrl": "https://order.toasttab.com/online/schwartz-deli-8820-22-west-pico-blvd"
   },
   {
-    "name": "Uncle Paulie's Deli - 3rd 8053 West 3rd Street",
-    "slug": "unclepauliesdeli-3rd8053west3rdstreet",
+    "name": "Uncle Paulie's Deli - 3rd",
+    "slug": "uncle-paulie-s-deli-3rd",
     "category": "deli",
     "metros": [
       "la"
@@ -3385,8 +3385,8 @@
     "toastUrl": "https://order.toasttab.com/online/uncle-paulies-deli-3rd-8053-west-3rd-street"
   },
   {
-    "name": "Belly Deli 1304 Second Street",
-    "slug": "bellydeli1304secondstreet",
+    "name": "Belly Deli",
+    "slug": "belly-deli",
     "category": "deli",
     "metros": [
       "la"
@@ -3403,8 +3403,8 @@
     "toastUrl": "https://order.toasttab.com/online/main-street-deli-513-south-main-st"
   },
   {
-    "name": "Downtown Deli 718 East Main Street",
-    "slug": "downtowndeli718eastmainstreet",
+    "name": "Downtown Deli",
+    "slug": "downtown-deli",
     "category": "deli",
     "metros": [
       "la"
@@ -3448,8 +3448,8 @@
     "toastUrl": "https://order.toasttab.com/online/morts-deli"
   },
   {
-    "name": "Ellie's Deli 201 Central Ave",
-    "slug": "elliesdeli201centralave",
+    "name": "Ellie's Deli",
+    "slug": "ellie-s-deli",
     "category": "deli",
     "metros": [
       "la"
@@ -3484,8 +3484,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-napa-deli-5121-business-center-dr"
   },
   {
-    "name": "Ok's Deli 3932 Telegraph Avenue",
-    "slug": "oksdeli3932telegraphavenue",
+    "name": "Ok's Deli",
+    "slug": "ok-s-deli",
     "category": "deli",
     "metros": [
       "la"
@@ -3511,8 +3511,8 @@
     "toastUrl": "https://order.toasttab.com/online/hoke-poke"
   },
   {
-    "name": "Poke Dot 17921 MacArthur Blvd",
-    "slug": "pokedot17921macarthurblvd",
+    "name": "Poke Dot",
+    "slug": "poke-dot",
     "category": "japanese",
     "metros": [
       "la"
@@ -3556,8 +3556,8 @@
     "toastUrl": "https://order.toasttab.com/online/oshi-poke-and-sushi-new-201-jefferson-street-north"
   },
   {
-    "name": "Poke Burri 3231 powelton ave",
-    "slug": "pokeburri3231poweltonave",
+    "name": "Poke Burri",
+    "slug": "poke-burri",
     "category": "japanese",
     "metros": [
       "la"
@@ -3664,8 +3664,8 @@
     "toastUrl": "https://order.toasttab.com/online/pokebunnyllc"
   },
   {
-    "name": "La Mer Seafood 407 Main Street",
-    "slug": "lamerseafood407mainstreet",
+    "name": "La Mer Seafood",
+    "slug": "la-mer-seafood",
     "category": "seafood",
     "metros": [
       "la"
@@ -3691,8 +3691,8 @@
     "toastUrl": "https://order.toasttab.com/online/shibuya-llc-2600-glades-circle-ste-700"
   },
   {
-    "name": "Sayle's Seafood 99 Washington Street",
-    "slug": "saylesseafood99washingtonstreet",
+    "name": "Sayle's Seafood",
+    "slug": "sayle-s-seafood",
     "category": "seafood",
     "metros": [
       "la"
@@ -3745,8 +3745,8 @@
     "toastUrl": "https://order.toasttab.com/online/mid-atlantic-seafood-laurel"
   },
   {
-    "name": "Out Of The Blue Seafood 252 E Montauk Hwy",
-    "slug": "outoftheblueseafood252emontaukhwy",
+    "name": "Out Of The Blue Seafood",
+    "slug": "out-of-the-blue-seafood",
     "category": "seafood",
     "metros": [
       "la"
@@ -3772,8 +3772,8 @@
     "toastUrl": "https://order.toasttab.com/online/hometown-seafood-llc-5010-broadway-st"
   },
   {
-    "name": "Roe Seafood Dining & Fish Market 5374 E 2nd St",
-    "slug": "roeseafooddiningfishmarket5374e2ndst",
+    "name": "Roe Seafood Dining & Fish Market",
+    "slug": "roe-seafood-dining-fish-market",
     "category": "seafood",
     "metros": [
       "la"
@@ -3844,8 +3844,8 @@
     "toastUrl": "https://order.toasttab.com/online/greeks-pizzeria-westfield"
   },
   {
-    "name": "The Greek Corner 2366 Massachusetts Avenue",
-    "slug": "thegreekcorner2366massachusettsavenue",
+    "name": "The Greek Corner",
+    "slug": "the-greek-corner",
     "category": "mediterranean",
     "metros": [
       "la"
@@ -3997,8 +3997,8 @@
     "toastUrl": "https://order.toasttab.com/online/giorgiosgreekcafe"
   },
   {
-    "name": "759 South La Brea Ave, Los Angeles, CA",
-    "slug": "759southlabreaavelosangelesca",
+    "name": "Los Angeles, CA",
+    "slug": "los-angeles-ca",
     "category": "restaurant",
     "metros": [
       "la"
@@ -4006,8 +4006,8 @@
     "toastUrl": "https://order.toasttab.com/online/met-her-at-a-bar-759-south-la-brea-ave"
   },
   {
-    "name": "Bike Shed Moto Co. Los Angeles 1580 Industrial Street",
-    "slug": "bikeshedmotocolosangeles1580industrialst",
+    "name": "Bike Shed Moto Co. Los Angeles",
+    "slug": "bike-shed-moto-co-los-angeles",
     "category": "restaurant",
     "metros": [
       "la"
@@ -4078,8 +4078,8 @@
     "toastUrl": "https://order.toasttab.com/online/rock-solid-reboot-juice-1-50-watkins-park-dr"
   },
   {
-    "name": "Planta Organic Juice Bar 131 Pine Street",
-    "slug": "plantaorganicjuicebar131pinestreet",
+    "name": "Planta Organic Juice Bar",
+    "slug": "planta-organic-juice-bar",
     "category": "juice",
     "metros": [
       "la"
@@ -4096,8 +4096,8 @@
     "toastUrl": "https://order.toasttab.com/online/method-juice-cafe-northside-7704-north-division"
   },
   {
-    "name": "Juice World 89 Passaic St",
-    "slug": "juiceworld89passaicst",
+    "name": "Juice World",
+    "slug": "juice-world",
     "category": "juice",
     "metros": [
       "la"

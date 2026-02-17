@@ -176,8 +176,8 @@
     ]
   },
   {
-    "name": "Cilantro Latin - Grandview Food Truck 993 King Avenue",
-    "slug": "cilantrolatin-grandviewfoodtruck993kinga",
+    "name": "Cilantro Latin - Grandview Food Truck",
+    "slug": "cilantro-latin-grandview-food-truck",
     "category": "latin",
     "metros": [
       "columbus"
@@ -230,8 +230,8 @@
     "toastUrl": "https://order.toasttab.com/online/emmettscafe"
   },
   {
-    "name": "Cafe Istanbul Easton 3983 WORTH AVE",
-    "slug": "cafeistanbuleaston3983worthave",
+    "name": "Cafe Istanbul Easton",
+    "slug": "cafe-istanbul-easton",
     "category": "cafe",
     "metros": [
       "columbus"
@@ -248,8 +248,8 @@
     "toastUrl": "https://order.toasttab.com/online/lavashcafe"
   },
   {
-    "name": "1185 Columbus Street, Orient, Ohio 43146 - Order Online",
-    "slug": "1185columbusstreetorientohio43146-ordero",
+    "name": "Orient, Ohio 43146 - Order Online",
+    "slug": "orient-ohio-43146-order-online",
     "category": "restaurant",
     "metros": [
       "columbus"
@@ -257,8 +257,8 @@
     "toastUrl": "https://order.toasttab.com/online/columbus-cheesecake-cafe"
   },
   {
-    "name": "Son of Thurman - Galena 31 West Columbus Street",
-    "slug": "sonofthurman-galena31westcolumbusstreet",
+    "name": "Son of Thurman - Galena",
+    "slug": "son-of-thurman-galena",
     "category": "restaurant",
     "metros": [
       "columbus"
@@ -284,8 +284,8 @@
     "toastUrl": "https://order.toasttab.com/online/hangovereasy-columbus-osu"
   },
   {
-    "name": "Seafood Shake Boil 3860 Morse rd. Columbus ohio 43219",
-    "slug": "seafoodshakeboil3860morserdcolumbusohio4",
+    "name": "Seafood Shake Boil 3860 Morse rd. Columbus ohio",
+    "slug": "seafood-shake-boil-3860-morse-rd-columbus-ohio",
     "category": "seafood",
     "metros": [
       "columbus"
@@ -293,8 +293,8 @@
     "toastUrl": "https://order.toasttab.com/online/eastonseafoodshakeboil"
   },
   {
-    "name": "OMi Cafe 3135 N Broadway St",
-    "slug": "omicafe3135nbroadwayst",
+    "name": "OMi Cafe",
+    "slug": "omi-cafe",
     "category": "cafe",
     "metros": [
       "columbus"
@@ -302,8 +302,8 @@
     "toastUrl": "https://order.toasttab.com/online/omidessert"
   },
   {
-    "name": "CAFE 1908 7 West Preston St",
-    "slug": "cafe19087westprestonst",
+    "name": "CAFE 1908",
+    "slug": "cafe-1908",
     "category": "cafe",
     "metros": [
       "columbus"
@@ -311,8 +311,8 @@
     "toastUrl": "https://order.toasttab.com/online/cafe1908"
   },
   {
-    "name": "Munchies Columbus 2045 Brice Road",
-    "slug": "munchiescolumbus2045briceroad",
+    "name": "Munchies Columbus",
+    "slug": "munchies-columbus",
     "category": "restaurant",
     "metros": [
       "columbus"
@@ -419,8 +419,8 @@
     "toastUrl": "https://order.toasttab.com/online/one-line-coffee-short-north-745-n-high-st"
   },
   {
-    "name": "Lunchroom - North",
-    "slug": "lunchroom-north",
+    "name": "Lunchroom",
+    "slug": "lunchroom",
     "category": "restaurant",
     "metros": [
       "columbus"
@@ -428,8 +428,8 @@
     "toastUrl": "https://order.toasttab.com/online/lunchroom"
   },
   {
-    "name": "CZEN Englewood 36 North Van Brunt Street",
-    "slug": "czenenglewood36northvanbruntstreet",
+    "name": "CZEN Englewood",
+    "slug": "czen-englewood",
     "category": "restaurant",
     "metros": [
       "columbus"
@@ -464,8 +464,8 @@
     "toastUrl": "https://order.toasttab.com/online/one-door-north"
   },
   {
-    "name": "Salma's Pizza and Indian Restaurant 4810 north street",
-    "slug": "salmaspizzaandindianrestaurant4810norths",
+    "name": "Salma's Pizza and Indian Restaurant",
+    "slug": "salma-s-pizza-and-indian-restaurant",
     "category": "pizza",
     "metros": [
       "columbus"
@@ -491,8 +491,8 @@
     "toastUrl": "https://order.toasttab.com/online/schmidts-restaurant-und-sausage-haus"
   },
   {
-    "name": "Barcelona Restaurant German Village, Columbus, OH",
-    "slug": "barcelonarestaurantgermanvillagecolumbus",
+    "name": "Barcelona Restaurant German Village",
+    "slug": "barcelona-restaurant-german-village",
     "category": "restaurant",
     "metros": [
       "columbus"
@@ -509,8 +509,8 @@
     "toastUrl": "https://order.toasttab.com/online/roosters-german-village"
   },
   {
-    "name": "Katzinger's Delicatessen German Village 475 S 3rd St",
-    "slug": "katzingersdelicatessengermanvillage475s3",
+    "name": "Katzinger's Delicatessen German Village",
+    "slug": "katzinger-s-delicatessen-german-village",
     "category": "deli",
     "metros": [
       "columbus"
@@ -527,8 +527,8 @@
     "toastUrl": "https://order.toasttab.com/online/basils-restaurant-tapas-bar-2985-grandview-ave-ne"
   },
   {
-    "name": "Steel Mill Saloon 1225 Grandview Avenue",
-    "slug": "steelmillsaloon1225grandviewavenue",
+    "name": "Steel Mill Saloon",
+    "slug": "steel-mill-saloon",
     "category": "restaurant",
     "metros": [
       "columbus"
@@ -536,8 +536,8 @@
     "toastUrl": "https://order.toasttab.com/online/steel-mill-saloon-1225-grandview-avenue"
   },
   {
-    "name": "Alchemy Kitchen 1439 Grandview Ave",
-    "slug": "alchemykitchen1439grandviewave",
+    "name": "Alchemy Kitchen",
+    "slug": "alchemy-kitchen",
     "category": "restaurant",
     "metros": [
       "columbus"
@@ -563,8 +563,8 @@
     "toastUrl": "https://order.toasttab.com/online/barrio-grandview-1416-w-5th-ave"
   },
   {
-    "name": "Big Mamma's Burritos - Grandview 1359 Grandview Avenue",
-    "slug": "bigmammasburritos-grandview1359grandview",
+    "name": "Big Mamma's Burritos - Grandview",
+    "slug": "big-mamma-s-burritos-grandview",
     "category": "mexican",
     "metros": [
       "columbus"
@@ -617,8 +617,8 @@
     "toastUrl": "https://order.toasttab.com/online/restaurant-45"
   },
   {
-    "name": "Home Restaurant 3909 Steve Tate Highway",
-    "slug": "homerestaurant3909stevetatehighway",
+    "name": "Home Restaurant",
+    "slug": "home-restaurant",
     "category": "restaurant",
     "metros": [
       "columbus"
@@ -635,8 +635,8 @@
     "toastUrl": "https://order.toasttab.com/online/familyrestaurantandbakery"
   },
   {
-    "name": "Old Town Station Restaurant 2530 Main St",
-    "slug": "oldtownstationrestaurant2530mainst",
+    "name": "Old Town Station Restaurant",
+    "slug": "old-town-station-restaurant",
     "category": "restaurant",
     "metros": [
       "columbus"
@@ -662,8 +662,8 @@
     "toastUrl": "https://order.toasttab.com/online/lost-pizza-co-columbus"
   },
   {
-    "name": "Iacono's Pizza & Restaurant - Columbus",
-    "slug": "iaconospizzarestaurant-columbus",
+    "name": "Iacono's Pizza & Restaurant",
+    "slug": "iacono-s-pizza-restaurant",
     "category": "pizza",
     "metros": [
       "columbus"
@@ -671,8 +671,8 @@
     "toastUrl": "https://order.toasttab.com/online/iaconos-pizza-columbus"
   },
   {
-    "name": "Cappy's Pizza - Columbus 3947 West Broad Street",
-    "slug": "cappyspizza-columbus3947westbroadstreet",
+    "name": "Cappy's Pizza",
+    "slug": "cappy-s-pizza",
     "category": "pizza",
     "metros": [
       "columbus"
@@ -707,8 +707,8 @@
     "toastUrl": "https://order.toasttab.com/online/picassos-pizza-1030-broadway"
   },
   {
-    "name": "Pasta Villa - Columbus",
-    "slug": "pastavilla-columbus",
+    "name": "Pasta Villa",
+    "slug": "pasta-villa",
     "category": "italian",
     "metros": [
       "columbus"
@@ -716,8 +716,8 @@
     "toastUrl": "https://order.toasttab.com/online/pasta-villa-columbus"
   },
   {
-    "name": "Castello Pizza Indianola 2577 Indianola Ave",
-    "slug": "castellopizzaindianola2577indianolaave",
+    "name": "Castello Pizza Indianola",
+    "slug": "castello-pizza-indianola",
     "category": "pizza",
     "metros": [
       "columbus"
@@ -725,8 +725,8 @@
     "toastUrl": "https://order.toasttab.com/online/castello-pizza-indianola-2577-indianola-ave"
   },
   {
-    "name": "Josie's Pizza Hilltop 3205 W Broad St",
-    "slug": "josiespizzahilltop3205wbroadst",
+    "name": "Josie's Pizza Hilltop",
+    "slug": "josie-s-pizza-hilltop",
     "category": "pizza",
     "metros": [
       "columbus"
@@ -734,8 +734,8 @@
     "toastUrl": "https://order.toasttab.com/online/josiespizzahilltop"
   },
   {
-    "name": "DBLPie Pizza 924 Amsterdam Ave",
-    "slug": "dblpiepizza924amsterdamave",
+    "name": "DBLPie Pizza",
+    "slug": "dblpie-pizza",
     "category": "pizza",
     "metros": [
       "columbus"
@@ -788,8 +788,8 @@
     "toastUrl": "https://order.toasttab.com/online/cajun-corner"
   },
   {
-    "name": "Crawdaddys Cajun 13 Tomlinson Mill Rd",
-    "slug": "crawdaddyscajun13tomlinsonmillrd",
+    "name": "Crawdaddys Cajun",
+    "slug": "crawdaddys-cajun",
     "category": "southern",
     "metros": [
       "columbus"
@@ -860,8 +860,8 @@
     "toastUrl": "https://order.toasttab.com/online/bbr-columbus"
   },
   {
-    "name": "Taffach Ethiopian Restaurant 113 D Street",
-    "slug": "taffachethiopianrestaurant113dstreet",
+    "name": "Taffach Ethiopian Restaurant",
+    "slug": "taffach-ethiopian-restaurant",
     "category": "african",
     "metros": [
       "columbus"
@@ -950,8 +950,8 @@
     "toastUrl": "https://order.toasttab.com/online/letenadc"
   },
   {
-    "name": "Modern Bread & Bagel 472 Columbus Ave",
-    "slug": "modernbreadbagel472columbusave",
+    "name": "Modern Bread & Bagel",
+    "slug": "modern-bread-bagel",
     "category": "bakery",
     "metros": [
       "columbus"
@@ -959,8 +959,8 @@
     "toastUrl": "https://order.toasttab.com/online/modern-bread-bagel"
   },
   {
-    "name": "Cleveland Vegan 17112 Detroit Ave",
-    "slug": "clevelandvegan17112detroitave",
+    "name": "Cleveland Vegan",
+    "slug": "cleveland-vegan",
     "category": "vegan",
     "metros": [
       "columbus"
@@ -968,8 +968,8 @@
     "toastUrl": "https://order.toasttab.com/online/clevelandvegan"
   },
   {
-    "name": "Vegan International Co 13751 N Nebraska Ave",
-    "slug": "veganinternationalco13751nnebraskaave",
+    "name": "Vegan International Co",
+    "slug": "vegan-international-co",
     "category": "vegan",
     "metros": [
       "columbus"
@@ -1304,8 +1304,8 @@
     "websiteOrderUrl": "https://truefoodkitchencatering.olo.com/menu/columbus-catering"
   },
   {
-    "name": "Twin Peaks - Columbus",
-    "slug": "twinpeaks-columbus",
+    "name": "Twin Peaks",
+    "slug": "twin-peaks",
     "category": "restaurant",
     "metros": [
       "columbus"
@@ -1529,8 +1529,8 @@
     "websiteOrderUrl": "https://www.gloriafood.com/online-ordering"
   },
   {
-    "name": "MCL Catering in Columbus, OH - 5240 E Main St",
-    "slug": "mclcateringincolumbusoh-5240emainst",
+    "name": "MCL Catering in Columbus, OH",
+    "slug": "mcl-catering-in-columbus-oh",
     "category": "restaurant",
     "metros": [
       "columbus"
@@ -1547,8 +1547,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/lunchrush/office/top-5-boxed-lunch-restaurants-in-columbus-ohio/"
   },
   {
-    "name": "Subway Catering in Columbus, GA - 5600 Milgen Rd",
-    "slug": "subwaycateringincolumbusga-5600milgenrd",
+    "name": "Subway Catering in Columbus, GA",
+    "slug": "subway-catering-in-columbus-ga",
     "category": "deli",
     "metros": [
       "columbus"
@@ -1556,8 +1556,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/subway-columbus-milgen-rd"
   },
   {
-    "name": "Dadu's Bakery 8495 SANCUS BLVD",
-    "slug": "dadusbakery8495sancusblvd",
+    "name": "Dadu's Bakery",
+    "slug": "dadu-s-bakery",
     "category": "bakery",
     "metros": [
       "columbus"
@@ -1601,8 +1601,8 @@
     "toastUrl": "https://order.toasttab.com/online/magnolia-bakery-moynihan"
   },
   {
-    "name": "Batch 22 Bakery 15466 Los Gatos Blvd Ste 113",
-    "slug": "batch22bakery15466losgatosblvdste113",
+    "name": "Batch 22 Bakery",
+    "slug": "batch-22-bakery",
     "category": "bakery",
     "metros": [
       "columbus"
@@ -1682,8 +1682,8 @@
     "toastUrl": "https://order.toasttab.com/online/locations/d476cabf-b66e-451e-a9c0-5dded0752bdd"
   },
   {
-    "name": "Beaumont Bakery & Cafe 3979 Wasatch Blvd Suite B",
-    "slug": "beaumontbakerycafe3979wasatchblvdsuiteb",
+    "name": "Beaumont Bakery & Cafe",
+    "slug": "beaumont-bakery-cafe",
     "category": "cafe",
     "metros": [
       "columbus"
@@ -1736,8 +1736,8 @@
     "toastUrl": "https://order.toasttab.com/online/big-boss-chinese"
   },
   {
-    "name": "JB's Downtown Grill 111 N Columbus St",
-    "slug": "jbsdowntowngrill111ncolumbusst",
+    "name": "JB's Downtown Grill",
+    "slug": "jb-s-downtown-grill",
     "category": "restaurant",
     "metros": [
       "columbus"
@@ -1745,8 +1745,8 @@
     "toastUrl": "https://order.toasttab.com/online/jb-s-downtown-grill-111-n-columbus-st"
   },
   {
-    "name": "Marx Bagels - Columbus 6115 McNaughten Rd",
-    "slug": "marxbagels-columbus6115mcnaughtenrd",
+    "name": "Marx Bagels",
+    "slug": "marx-bagels",
     "category": "bakery",
     "metros": [
       "columbus"
@@ -1754,8 +1754,8 @@
     "toastUrl": "https://order.toasttab.com/online/marx-bagels-columbus-6115-mcnaughten-rd"
   },
   {
-    "name": "Hi-Way Burger - North Beach 411 Columbus Ave",
-    "slug": "hi-wayburger-northbeach411columbusave",
+    "name": "Hi-Way Burger - North Beach",
+    "slug": "hi-way-burger-north-beach",
     "category": "burgers",
     "metros": [
       "columbus"
@@ -1763,8 +1763,8 @@
     "toastUrl": "https://order.toasttab.com/online/hi-way-burger-new-sf-411-columbus-ave"
   },
   {
-    "name": "Petit Robert Bistro 480 Columbus Ave",
-    "slug": "petitrobertbistro480columbusave",
+    "name": "Petit Robert Bistro",
+    "slug": "petit-robert-bistro",
     "category": "restaurant",
     "metros": [
       "columbus"
@@ -1781,8 +1781,8 @@
     "toastUrl": "https://order.toasttab.com/online/moes-original-bbq-columbus"
   },
   {
-    "name": "Wild Willy's Burgers -Rochester, NH 724 Columbus Avenue",
-    "slug": "wildwillysburgers-rochesternh724columbus",
+    "name": "Wild Willy's Burgers -Rochester, NH",
+    "slug": "wild-willy-s-burgers-rochester-nh",
     "category": "burgers",
     "metros": [
       "columbus"
@@ -1790,8 +1790,8 @@
     "toastUrl": "https://order.toasttab.com/online/wild-willys-burgers-rochester-nh-new-724-columbus-avenue"
   },
   {
-    "name": "Thyme & Tonic 474 Columbus Ave",
-    "slug": "thymetonic474columbusave",
+    "name": "Thyme & Tonic",
+    "slug": "thyme-tonic",
     "category": "restaurant",
     "metros": [
       "columbus"
@@ -1817,8 +1817,8 @@
     "toastUrl": "https://order.toasttab.com/online/pure-taqueria-columbus"
   },
   {
-    "name": "VARA Juice - Columbus 2019 Polaris Parkway",
-    "slug": "varajuice-columbus2019polarisparkway",
+    "name": "VARA Juice",
+    "slug": "vara-juice",
     "category": "juice",
     "metros": [
       "columbus"
@@ -1835,8 +1835,8 @@
     "toastUrl": "https://order.toasttab.com/online/li-s-smoothie-bar-23203-columbus-rd-l"
   },
   {
-    "name": "Dash and Joey's Bellefontaine 210 w Columbus Ave",
-    "slug": "dashandjoeysbellefontaine210wcolumbusave",
+    "name": "Dash and Joey's Bellefontaine",
+    "slug": "dash-and-joey-s-bellefontaine",
     "category": "restaurant",
     "metros": [
       "columbus"
@@ -1862,8 +1862,8 @@
     "toastUrl": "https://order.toasttab.com/online/yoshi-columbus-1502-n-high-st"
   },
   {
-    "name": "Juva Juice - Columbus",
-    "slug": "juvajuice-columbus",
+    "name": "Juva Juice",
+    "slug": "juva-juice",
     "category": "juice",
     "metros": [
       "columbus"
@@ -1934,8 +1934,8 @@
     "toastUrl": "https://order.toasttab.com/online/smoothieshaven"
   },
   {
-    "name": "Juice World 89 Passaic St",
-    "slug": "juiceworld89passaicst",
+    "name": "Juice World",
+    "slug": "juice-world",
     "category": "juice",
     "metros": [
       "columbus"

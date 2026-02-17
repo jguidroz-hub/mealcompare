@@ -409,8 +409,8 @@
     "toastUrl": "https://order.toasttab.com/online/franklin-pizza-minneapolis"
   },
   {
-    "name": "Black Sheep Coal Fired Pizza - North Loop",
-    "slug": "blacksheepcoalfiredpizza-northloop",
+    "name": "Black Sheep Coal Fired Pizza",
+    "slug": "black-sheep-coal-fired-pizza",
     "category": "pizza",
     "metros": [
       "minneapolis"
@@ -427,8 +427,8 @@
     "toastUrl": "https://order.toasttab.com/online/broadway-pizza-eagles-nest-lounge-4106-lakeland-ave-n"
   },
   {
-    "name": "Uptown Pizza 323 West Lake Street",
-    "slug": "uptownpizza323westlakestreet",
+    "name": "Uptown Pizza",
+    "slug": "uptown-pizza",
     "category": "pizza",
     "metros": [
       "minneapolis"
@@ -499,8 +499,8 @@
     "toastUrl": "https://order.toasttab.com/online/pizza-man-anoka"
   },
   {
-    "name": "Miners Pizza Co 121 E 1st St",
-    "slug": "minerspizzaco121e1stst",
+    "name": "Miners Pizza Co",
+    "slug": "miners-pizza-co",
     "category": "pizza",
     "metros": [
       "minneapolis"
@@ -517,8 +517,8 @@
     "toastUrl": "https://order.toasttab.com/online/michaels-pizza"
   },
   {
-    "name": "Milano's Pizza 215 North 17th Street",
-    "slug": "milanospizza215north17thstreet",
+    "name": "Milano's Pizza",
+    "slug": "milano-s-pizza",
     "category": "pizza",
     "metros": [
       "minneapolis"
@@ -598,8 +598,8 @@
     "toastUrl": "https://order.toasttab.com/online/st-paul-tap"
   },
   {
-    "name": "Lost Fox 213 4th St E #100, St Paul, MN 55101",
-    "slug": "lostfox2134thste100stpaulmn55101",
+    "name": "Lost Fox 213 4th St E #100, St Paul, MN",
+    "slug": "lost-fox-213-4th-st-e-100-st-paul-mn",
     "category": "restaurant",
     "metros": [
       "minneapolis"
@@ -760,8 +760,8 @@
     "toastUrl": "https://order.toasttab.com/online/steubens-uptown-523-e-17th-ave"
   },
   {
-    "name": "Uptown Burger 6370 North Campbell Avenue suite 160",
-    "slug": "uptownburger6370northcampbellavenuesuite",
+    "name": "Uptown Burger",
+    "slug": "uptown-burger",
     "category": "burgers",
     "metros": [
       "minneapolis"
@@ -796,8 +796,8 @@
     "toastUrl": "https://order.toasttab.com/online/famous-toastery-uptown"
   },
   {
-    "name": "Uptown Slice Depot 1217 N 8th St",
-    "slug": "uptownslicedepot1217n8thst",
+    "name": "Uptown Slice Depot",
+    "slug": "uptown-slice-depot",
     "category": "restaurant",
     "metros": [
       "minneapolis"
@@ -823,8 +823,8 @@
     "toastUrl": "https://order.toasttab.com/online/uptownchina"
   },
   {
-    "name": "Uptown Barrel Room 2011 Main Street",
-    "slug": "uptownbarrelroom2011mainstreet",
+    "name": "Uptown Barrel Room",
+    "slug": "uptown-barrel-room",
     "category": "restaurant",
     "metros": [
       "minneapolis"
@@ -877,8 +877,8 @@
     "toastUrl": "https://order.toasttab.com/online/bricksworth-brewing-co-north-loop"
   },
   {
-    "name": "Ay Chiwawa Mexican Cafe - North Loop",
-    "slug": "aychiwawamexicancafe-northloop",
+    "name": "Ay Chiwawa Mexican Cafe",
+    "slug": "ay-chiwawa-mexican-cafe",
     "category": "mexican",
     "metros": [
       "minneapolis"
@@ -894,8 +894,8 @@
     "toastUrl": "https://order.toasttab.com/online/backstory-coffee-roasters-north-loop-mpls-528-n-washington-ave"
   },
   {
-    "name": "Maiz cocina mexicana North Loop 1604 East Access Road",
-    "slug": "maizcocinamexicananorthloop1604eastacces",
+    "name": "Maiz cocina mexicana North Loop",
+    "slug": "maiz-cocina-mexicana-north-loop",
     "category": "mexican",
     "metros": [
       "minneapolis"
@@ -912,8 +912,8 @@
     "toastUrl": "https://order.toasttab.com/online/red-rabbit-minneapolis"
   },
   {
-    "name": "High Tower Cafe HT-11 Ella North Loop West",
-    "slug": "hightowercafeht-11ellanorthloopwest",
+    "name": "High Tower Cafe HT",
+    "slug": "high-tower-cafe-ht",
     "category": "cafe",
     "metros": [
       "minneapolis"
@@ -966,8 +966,8 @@
     "toastUrl": "https://order.toasttab.com/online/tonosaintpaul"
   },
   {
-    "name": "The Tee Box LLC 221-223 East St Paul Street",
-    "slug": "theteeboxllc221-223eaststpaulstreet",
+    "name": "The Tee Box LLC 221",
+    "slug": "the-tee-box-llc-221",
     "category": "restaurant",
     "metros": [
       "minneapolis"
@@ -1065,8 +1065,8 @@
     "toastUrl": "https://order.toasttab.com/online/thaliwalaindiankitchen"
   },
   {
-    "name": "Tocabe An American Indian Eatery 3536 W 44th Ave",
-    "slug": "tocabeanamericanindianeatery3536w44thave",
+    "name": "Tocabe An American Indian Eatery",
+    "slug": "tocabe-an-american-indian-eatery",
     "category": "indian",
     "metros": [
       "minneapolis"
@@ -1083,8 +1083,8 @@
     "toastUrl": "https://order.toasttab.com/online/rang-indian-bistro"
   },
   {
-    "name": "Masala House Indian Bistro 5102 Baum blvd",
-    "slug": "masalahouseindianbistro5102baumblvd",
+    "name": "Masala House Indian Bistro",
+    "slug": "masala-house-indian-bistro",
     "category": "indian",
     "metros": [
       "minneapolis"
@@ -1101,8 +1101,8 @@
     "toastUrl": "https://order.toasttab.com/online/pintus"
   },
   {
-    "name": "Manam Indian Cuisine 124 Lancaster Avenue",
-    "slug": "manamindiancuisine124lancasteravenue",
+    "name": "Manam Indian Cuisine",
+    "slug": "manam-indian-cuisine",
     "category": "indian",
     "metros": [
       "minneapolis"
@@ -1110,8 +1110,8 @@
     "toastUrl": "https://order.toasttab.com/online/manum-indian-cuisine-124-lancaster-avenue"
   },
   {
-    "name": "Nawab's Indian Cuisine 4715 Kirkwood Highway",
-    "slug": "nawabsindiancuisine4715kirkwoodhighway",
+    "name": "Nawab's Indian Cuisine",
+    "slug": "nawab-s-indian-cuisine",
     "category": "indian",
     "metros": [
       "minneapolis"
@@ -1137,8 +1137,8 @@
     "toastUrl": "https://order.toasttab.com/online/kashmir-indian-cuisine-396-south-broadway"
   },
   {
-    "name": "Desi Indian Lounge 1355 Hornby Street",
-    "slug": "desiindianlounge1355hornbystreet",
+    "name": "Desi Indian Lounge",
+    "slug": "desi-indian-lounge",
     "category": "indian",
     "metros": [
       "minneapolis"
@@ -1164,8 +1164,8 @@
     "toastUrl": "https://order.toasttab.com/online/tajmaine"
   },
   {
-    "name": "NAMASTE INDIAN CUISINE 1501 Mission Street",
-    "slug": "namasteindiancuisine1501missionstreet",
+    "name": "NAMASTE INDIAN CUISINE",
+    "slug": "namaste-indian-cuisine",
     "category": "indian",
     "metros": [
       "minneapolis"
@@ -1209,8 +1209,8 @@
     "toastUrl": "https://order.toasttab.com/online/mo-wings"
   },
   {
-    "name": "Them Wings - Henderson 9985 S Eastern Ave",
-    "slug": "themwings-henderson9985seasternave",
+    "name": "Them Wings - Henderson",
+    "slug": "them-wings-henderson",
     "category": "wings",
     "metros": [
       "minneapolis"
@@ -1227,8 +1227,8 @@
     "toastUrl": "https://order.toasttab.com/online/wingsnthingscortez"
   },
   {
-    "name": "King of Wings 7741 W 44th Ave",
-    "slug": "kingofwings7741w44thave",
+    "name": "King of Wings",
+    "slug": "king-of-wings",
     "category": "wings",
     "metros": [
       "minneapolis"
@@ -1236,8 +1236,8 @@
     "toastUrl": "https://order.toasttab.com/online/kingofwingstaphouse"
   },
   {
-    "name": "Wings and Burgers To Go 1733 West Mississippi Avenue",
-    "slug": "wingsandburgerstogo1733westmississippiav",
+    "name": "Wings and Burgers To Go",
+    "slug": "wings-and-burgers-to-go",
     "category": "burgers",
     "metros": [
       "minneapolis"
@@ -1254,8 +1254,8 @@
     "toastUrl": "https://order.toasttab.com/online/wild-wings-n-things-3265-w-alexis-rd-ste-a"
   },
   {
-    "name": "Stuff'd Wings 401 Richmond Ave",
-    "slug": "stuffdwings401richmondave",
+    "name": "Stuff'd Wings",
+    "slug": "stuff-d-wings",
     "category": "wings",
     "metros": [
       "minneapolis"
@@ -1272,8 +1272,8 @@
     "toastUrl": "https://order.toasttab.com/online/boss-wings-3725-club-dr"
   },
   {
-    "name": "WINGS & ALE OF LEXINGTON 154 Ellis Avenue",
-    "slug": "wingsaleoflexington154ellisavenue",
+    "name": "WINGS & ALE OF LEXINGTON",
+    "slug": "wings-ale-of-lexington",
     "category": "wings",
     "metros": [
       "minneapolis"
@@ -1326,8 +1326,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-shop-kitchen-730-n-milpas-st"
   },
   {
-    "name": "Just Brunch 1950 Satellite Blvd Suite 400",
-    "slug": "justbrunch1950satelliteblvdsuite400",
+    "name": "Just Brunch",
+    "slug": "just-brunch",
     "category": "breakfast",
     "metros": [
       "minneapolis"
@@ -1362,8 +1362,8 @@
     "toastUrl": "https://order.toasttab.com/online/brunched"
   },
   {
-    "name": "Taberna 3126 West Lake Street, Minneapolis, MN 55416",
-    "slug": "taberna3126westlakestreetminneapolismn55",
+    "name": "Taberna",
+    "slug": "taberna",
     "category": "restaurant",
     "metros": [
       "minneapolis"
@@ -1389,8 +1389,8 @@
     "toastUrl": "https://order.toasttab.com/online/brunch-delafield-705-north-genesee-street"
   },
   {
-    "name": "Brunch It Up - Milwaukee 714 N MILWAUKEE ST",
-    "slug": "brunchitup-milwaukee714nmilwaukeest",
+    "name": "Brunch It Up",
+    "slug": "brunch-it-up",
     "category": "breakfast",
     "metros": [
       "minneapolis"
@@ -1398,8 +1398,8 @@
     "toastUrl": "https://order.toasttab.com/online/brunch-milwaukee-714-n-milwaukee-st"
   },
   {
-    "name": "Mezcal Restaurante and Taqueria 1855 East Lake Street",
-    "slug": "mezcalrestauranteandtaqueria1855eastlake",
+    "name": "Mezcal Restaurante and Taqueria",
+    "slug": "mezcal-restaurante-and-taqueria",
     "category": "mexican",
     "metros": [
       "minneapolis"
@@ -1425,8 +1425,8 @@
     "websiteOrderUrl": "https://order.online/store/mcdonalds-674667/"
   },
   {
-    "name": "Colonial Market and Restaurant 2750 Nicollet Avenue",
-    "slug": "colonialmarketandrestaurant2750nicolleta",
+    "name": "Colonial Market and Restaurant",
+    "slug": "colonial-market-and-restaurant",
     "category": "restaurant",
     "metros": [
       "minneapolis"
@@ -1858,8 +1858,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/meimeis"
   },
   {
-    "name": "KATAR RIVER RESTAURANT - Minneapolis, MN",
-    "slug": "katarriverrestaurant-minneapolismn",
+    "name": "KATAR RIVER RESTAURANT",
+    "slug": "katar-river-restaurant",
     "category": "restaurant",
     "metros": [
       "minneapolis"
@@ -1867,8 +1867,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/katar-river-restaurant-minneapolis"
   },
   {
-    "name": "EL SAZON COCINA & TRAGOS - MINNEAPOLIS, MN",
-    "slug": "elsazoncocinatragos-minneapolismn",
+    "name": "EL SAZON COCINA & TRAGOS",
+    "slug": "el-sazon-cocina-tragos",
     "category": "restaurant",
     "metros": [
       "minneapolis"
@@ -1876,8 +1876,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/el-sazon-cocina--tragos-minneapolis"
   },
   {
-    "name": "CHIMBORAZO RESTAURANT - MINNEAPOLIS, MN",
-    "slug": "chimborazorestaurant-minneapolismn",
+    "name": "CHIMBORAZO RESTAURANT",
+    "slug": "chimborazo-restaurant",
     "category": "restaurant",
     "metros": [
       "minneapolis"
@@ -1885,8 +1885,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/chimborazo-restaurant-minneapolis/Y176KSHAFNNHW"
   },
   {
-    "name": "LUMI RESTAURANT AND BAR - MINNEAPOLIS, MN",
-    "slug": "lumirestaurantandbar-minneapolismn",
+    "name": "LUMI RESTAURANT AND BAR",
+    "slug": "lumi-restaurant-and-bar",
     "category": "restaurant",
     "metros": [
       "minneapolis"
@@ -1903,8 +1903,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/chimborazo-restaurant-minneapolis/Q9GK6EP0CKF3C"
   },
   {
-    "name": "ENA - MINNEAPOLIS, MN",
-    "slug": "ena-minneapolismn",
+    "name": "ENA",
+    "slug": "ena",
     "category": "restaurant",
     "metros": [
       "minneapolis"
@@ -1930,8 +1930,8 @@
     "websiteOrderUrl": "https://partners.clover.com/restaurant-depot/home/"
   },
   {
-    "name": "CATRINAS ST ANTHONY - MINNEAPOLIS, MN",
-    "slug": "catrinasstanthony-minneapolismn",
+    "name": "CATRINAS ST ANTHONY",
+    "slug": "catrinas-st-anthony",
     "category": "restaurant",
     "metros": [
       "minneapolis"
@@ -1957,8 +1957,8 @@
     "websiteOrderUrl": "https://partners.clover.com/restaurant-depot/business-types/table-service-restaurants/"
   },
   {
-    "name": "CHIMBORAZO ON WHEELS - MINNEAPOLIS, MN",
-    "slug": "chimborazoonwheels-minneapolismn",
+    "name": "CHIMBORAZO ON WHEELS",
+    "slug": "chimborazo-on-wheels",
     "category": "restaurant",
     "metros": [
       "minneapolis"
@@ -1966,8 +1966,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/chimborazo-on-wheels-llc-minneapolis"
   },
   {
-    "name": "FOOTBALL PIZZA - MINNEAPOLIS, MN",
-    "slug": "footballpizza-minneapolismn",
+    "name": "FOOTBALL PIZZA",
+    "slug": "football-pizza",
     "category": "pizza",
     "metros": [
       "minneapolis"
@@ -2038,8 +2038,8 @@
     "toastUrl": "https://order.toasttab.com/online/mipals-deli-2300-s-16th-st"
   },
   {
-    "name": "Downtown Deli 718 East Main Street",
-    "slug": "downtowndeli718eastmainstreet",
+    "name": "Downtown Deli",
+    "slug": "downtown-deli",
     "category": "deli",
     "metros": [
       "minneapolis"
@@ -2065,8 +2065,8 @@
     "toastUrl": "https://order.toasttab.com/online/deli-co-110-main-st-suite-1204"
   },
   {
-    "name": "Mikey & Mel's Deli 8191 Maple Lawn Blvd",
-    "slug": "mikeymelsdeli8191maplelawnblvd",
+    "name": "Mikey & Mel's Deli",
+    "slug": "mikey-mel-s-deli",
     "category": "deli",
     "metros": [
       "minneapolis"
@@ -2101,8 +2101,8 @@
     "toastUrl": "https://order.toasttab.com/online/hawaii-poke-bowl-st-louis-park-3234-west-lake-st"
   },
   {
-    "name": "Hawaii Poke Bowl - West St. Paul 1375 South Robert Street",
-    "slug": "hawaiipokebowl-weststpaul1375southrobert",
+    "name": "Hawaii Poke Bowl - West St. Paul",
+    "slug": "hawaii-poke-bowl-west-st-paul",
     "category": "japanese",
     "metros": [
       "minneapolis"
@@ -2146,8 +2146,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-fresh-east-lansing"
   },
   {
-    "name": "Poke OG @ 1800 143 NW 23 ST",
-    "slug": "pokeog1800143nw23st",
+    "name": "Poke OG @ 1800",
+    "slug": "poke-og-1800",
     "category": "japanese",
     "metros": [
       "minneapolis"
@@ -2164,8 +2164,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-row-2735-nw-crossing-dr-105"
   },
   {
-    "name": "Poke Dot 17921 MacArthur Blvd",
-    "slug": "pokedot17921macarthurblvd",
+    "name": "Poke Dot",
+    "slug": "poke-dot",
     "category": "japanese",
     "metros": [
       "minneapolis"
@@ -2173,8 +2173,8 @@
     "toastUrl": "https://order.toasttab.com/online/irvinepokedot"
   },
   {
-    "name": "Poke Burri 3231 powelton ave",
-    "slug": "pokeburri3231poweltonave",
+    "name": "Poke Burri",
+    "slug": "poke-burri",
     "category": "japanese",
     "metros": [
       "minneapolis"
@@ -2236,8 +2236,8 @@
     "toastUrl": "https://order.toasttab.com/online/nico-s-taco-tequila-bar-minneapolis-2516-hennepin-ave-s"
   },
   {
-    "name": "Mo's Seafood & Chowder - Original 622 SW Blvd",
-    "slug": "mosseafoodchowder-original622swblvd",
+    "name": "Mo's Seafood & Chowder - Original",
+    "slug": "mo-s-seafood-chowder-original",
     "category": "chinese",
     "metros": [
       "minneapolis"
@@ -2245,8 +2245,8 @@
     "toastUrl": "https://order.toasttab.com/online/original-mos-622-sw-blvd"
   },
   {
-    "name": "Mr Seafood - Town Center 494-1 Town Center Place",
-    "slug": "mrseafood-towncenter494-1towncenterplace",
+    "name": "Mr Seafood - Town Center 494",
+    "slug": "mr-seafood-town-center-494",
     "category": "seafood",
     "metros": [
       "minneapolis"
@@ -2254,8 +2254,8 @@
     "toastUrl": "https://order.toasttab.com/online/mr-seafood-town-center-494-1-town-center-place"
   },
   {
-    "name": "Seafood Hut & Market 1936 MacDade Boulevard",
-    "slug": "seafoodhutmarket1936macdadeboulevard",
+    "name": "Seafood Hut & Market",
+    "slug": "seafood-hut-market",
     "category": "seafood",
     "metros": [
       "minneapolis"
@@ -2308,8 +2308,8 @@
     "toastUrl": "https://order.toasttab.com/online/mos-chowder-lincoln-city"
   },
   {
-    "name": "La Mer Seafood 407 Main Street",
-    "slug": "lamerseafood407mainstreet",
+    "name": "La Mer Seafood",
+    "slug": "la-mer-seafood",
     "category": "seafood",
     "metros": [
       "minneapolis"
@@ -2317,8 +2317,8 @@
     "toastUrl": "https://order.toasttab.com/online/lamerseafood"
   },
   {
-    "name": "Roe Seafood Dining & Fish Market 5374 E 2nd St",
-    "slug": "roeseafooddiningfishmarket5374e2ndst",
+    "name": "Roe Seafood Dining & Fish Market",
+    "slug": "roe-seafood-dining-fish-market",
     "category": "seafood",
     "metros": [
       "minneapolis"
@@ -2425,8 +2425,8 @@
     "toastUrl": "https://order.toasttab.com/online/victors-1959-cafe"
   },
   {
-    "name": "1424 Nicollet Ave",
-    "slug": "1424nicolletave",
+    "name": "Muffintopcafe",
+    "slug": "muffintopcafe",
     "category": "restaurant",
     "metros": [
       "minneapolis"
@@ -2434,8 +2434,8 @@
     "toastUrl": "https://order.toasttab.com/online/muffintopcafe"
   },
   {
-    "name": "Dave's Downtown - Minneapolis",
-    "slug": "davesdowntown-minneapolis",
+    "name": "Dave's Downtown",
+    "slug": "dave-s-downtown",
     "category": "restaurant",
     "metros": [
       "minneapolis"
@@ -2488,8 +2488,8 @@
     "toastUrl": "https://order.toasttab.com/online/hello-juice-smoothie-kirkwood"
   },
   {
-    "name": "Juice World 89 Passaic St",
-    "slug": "juiceworld89passaicst",
+    "name": "Juice World",
+    "slug": "juice-world",
     "category": "juice",
     "metros": [
       "minneapolis"
@@ -2542,8 +2542,8 @@
     "toastUrl": "https://order.toasttab.com/online/fresco-juice-co"
   },
   {
-    "name": "Awake Juice Bar - Apple Valley 18855 Bear Valley Rd",
-    "slug": "awakejuicebar-applevalley18855bearvalley",
+    "name": "Awake Juice Bar - Apple Valley",
+    "slug": "awake-juice-bar-apple-valley",
     "category": "juice",
     "metros": [
       "minneapolis"

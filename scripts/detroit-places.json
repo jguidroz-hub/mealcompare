@@ -442,8 +442,8 @@
     "toastUrl": "https://order.toasttab.com/online/coneytown-gyroland-fishcity-new-200-renaissance-center-suite-3145-aqbed"
   },
   {
-    "name": "Green Dot Stables - Detroit",
-    "slug": "greendotstables-detroit",
+    "name": "Green Dot Stables",
+    "slug": "green-dot-stables",
     "category": "restaurant",
     "metros": [
       "detroit"
@@ -487,8 +487,8 @@
     "toastUrl": "https://order.toasttab.com/online/middleeatsdetroit"
   },
   {
-    "name": "One Mike Detroit 1331 Broadway Street",
-    "slug": "onemikedetroit1331broadwaystreet",
+    "name": "One Mike Detroit",
+    "slug": "one-mike-detroit",
     "category": "restaurant",
     "metros": [
       "detroit"
@@ -559,8 +559,8 @@
     "toastUrl": "https://order.toasttab.com/online/detroit-perk-22722-ford-rd"
   },
   {
-    "name": "Frita Detroit! 66 West Columbia Street",
-    "slug": "fritadetroit66westcolumbiastreet",
+    "name": "Frita Detroit!",
+    "slug": "frita-detroit",
     "category": "restaurant",
     "metros": [
       "detroit"
@@ -586,8 +586,8 @@
     "toastUrl": "https://order.toasttab.com/online/just-love-coffee-detroit"
   },
   {
-    "name": "Grandma Bob's Pizza 2135 Michigan Avenue",
-    "slug": "grandmabobspizza2135michiganavenue",
+    "name": "Grandma Bob's Pizza",
+    "slug": "grandma-bob-s-pizza",
     "category": "pizza",
     "metros": [
       "detroit"
@@ -613,8 +613,8 @@
     "toastUrl": "https://order.toasttab.com/online/pie-sci-2-8150-w-nine-mile-rd"
   },
   {
-    "name": "Detroit Pizza Depot 6219 Franklin Avenue",
-    "slug": "detroitpizzadepot6219franklinavenue",
+    "name": "Detroit Pizza Depot",
+    "slug": "detroit-pizza-depot",
     "category": "pizza",
     "metros": [
       "detroit"
@@ -721,8 +721,8 @@
     "toastUrl": "https://order.toasttab.com/online/oakparksocial"
   },
   {
-    "name": "Oak Bistro 1287 Cambridge Street",
-    "slug": "oakbistro1287cambridgestreet",
+    "name": "Oak Bistro",
+    "slug": "oak-bistro",
     "category": "restaurant",
     "metros": [
       "detroit"
@@ -811,8 +811,8 @@
     "toastUrl": "https://order.toasttab.com/online/oaks"
   },
   {
-    "name": "Oak Diner 1400 North Campbell Road",
-    "slug": "oakdiner1400northcampbellroad",
+    "name": "Oak Diner",
+    "slug": "oak-diner",
     "category": "restaurant",
     "metros": [
       "detroit"
@@ -829,8 +829,8 @@
     "toastUrl": "https://order.toasttab.com/online/red-oak-cafe-league-city"
   },
   {
-    "name": "Oak Street Cafe 926 Oak St",
-    "slug": "oakstreetcafe926oakst",
+    "name": "Oak Street Cafe",
+    "slug": "oak-street-cafe",
     "category": "cafe",
     "metros": [
       "detroit"
@@ -838,8 +838,8 @@
     "toastUrl": "https://order.toasttab.com/online/oak-st-cafe-926-oak-st"
   },
   {
-    "name": "CAFE 1908 7 West Preston St",
-    "slug": "cafe19087westprestonst",
+    "name": "CAFE 1908",
+    "slug": "cafe-1908",
     "category": "cafe",
     "metros": [
       "detroit"
@@ -847,8 +847,8 @@
     "toastUrl": "https://order.toasttab.com/online/cafe1908"
   },
   {
-    "name": "Oak + Bean 100 W Washing st",
-    "slug": "oakbean100wwashingst",
+    "name": "Oak + Bean",
+    "slug": "oak-bean",
     "category": "restaurant",
     "metros": [
       "detroit"
@@ -874,8 +874,8 @@
     "toastUrl": "https://order.toasttab.com/online/corktown-deli-and-brews-102-south-27th-ave-west"
   },
   {
-    "name": "The YARD at Corktown 1375 Michigan Avenue",
-    "slug": "theyardatcorktown1375michiganavenue",
+    "name": "The YARD at Corktown",
+    "slug": "the-yard-at-corktown",
     "category": "restaurant",
     "metros": [
       "detroit"
@@ -910,8 +910,8 @@
     "toastUrl": "https://order.toasttab.com/online/streetbeetdetroit"
   },
   {
-    "name": "Slows BarBQ Corktown 2138 MICHIGAN AVE",
-    "slug": "slowsbarbqcorktown2138michiganave",
+    "name": "Slows BarBQ Corktown",
+    "slug": "slows-barbq-corktown",
     "category": "restaurant",
     "metros": [
       "detroit"
@@ -928,8 +928,8 @@
     "toastUrl": "https://order.toasttab.com/online/midtown-eats-and-sandbar-736-j-clyde-morris-blvd"
   },
   {
-    "name": "Midtown Tavern 1855 Central Ave",
-    "slug": "midtowntavern1855centralave",
+    "name": "Midtown Tavern",
+    "slug": "midtown-tavern",
     "category": "restaurant",
     "metros": [
       "detroit"
@@ -937,8 +937,8 @@
     "toastUrl": "https://order.toasttab.com/online/midtown-tavern-1855-central-ave"
   },
   {
-    "name": "1618 Midtown 1724 Battleground Ave STE 105.",
-    "slug": "1618midtown1724battlegroundaveste105",
+    "name": "1618 Midtown",
+    "slug": "1618-midtown",
     "category": "restaurant",
     "metros": [
       "detroit"
@@ -1018,8 +1018,8 @@
     "toastUrl": "https://order.toasttab.com/online/crave-fishbar-midtown-945-2nd-avenue"
   },
   {
-    "name": "Midtown Vegan Deli and Market 5071 E 5th St",
-    "slug": "midtownvegandeliandmarket5071e5thst",
+    "name": "Midtown Vegan Deli and Market",
+    "slug": "midtown-vegan-deli-and-market",
     "category": "deli",
     "metros": [
       "detroit"
@@ -1027,8 +1027,8 @@
     "toastUrl": "https://order.toasttab.com/online/midtownvegandeli"
   },
   {
-    "name": "26 Thai Kitchen & Bar Midtown",
-    "slug": "26thaikitchenbarmidtown",
+    "name": "26thaimidtown",
+    "slug": "26thaimidtown",
     "category": "thai",
     "metros": [
       "detroit"
@@ -1072,8 +1072,8 @@
     "toastUrl": "https://order.toasttab.com/online/comos-restaurant-22812-woodward-ave"
   },
   {
-    "name": "Howe's Bayou - 22848 Woodward Ave, Ferndale, MI",
-    "slug": "howesbayou-22848woodwardaveferndalemi",
+    "name": "Howe's Bayou",
+    "slug": "howe-s-bayou",
     "category": "restaurant",
     "metros": [
       "detroit"
@@ -1126,8 +1126,8 @@
     "toastUrl": "https://order.toasttab.com/online/oneeyedbettys"
   },
   {
-    "name": "Jim Bradys - Royal Oak 1214 S Main St",
-    "slug": "jimbradys-royaloak1214smainst",
+    "name": "Jim Bradys - Royal Oak",
+    "slug": "jim-bradys-royal-oak",
     "category": "restaurant",
     "metros": [
       "detroit"
@@ -1153,8 +1153,8 @@
     "toastUrl": "https://order.toasttab.com/online/red-oak-sanford"
   },
   {
-    "name": "J Cups Pizza - Detroit Ave 4843 North Detroit Avenue",
-    "slug": "jcupspizza-detroitave4843northdetroitave",
+    "name": "J Cups Pizza - Detroit Ave",
+    "slug": "j-cups-pizza-detroit-ave",
     "category": "pizza",
     "metros": [
       "detroit"
@@ -1198,8 +1198,8 @@
     "toastUrl": "https://order.toasttab.com/online/bai-mai-thai"
   },
   {
-    "name": "92 Town Korean BBQ",
-    "slug": "92townkoreanbbq",
+    "name": "92town",
+    "slug": "92town",
     "category": "bbq",
     "metros": [
       "detroit"
@@ -1252,8 +1252,8 @@
     "toastUrl": "https://order.toasttab.com/online/yabostacosevansfarm"
   },
   {
-    "name": "Soko Bag Korean Fried Chicken 95 Nutt Road",
-    "slug": "sokobagkoreanfriedchicken95nuttroad",
+    "name": "Soko Bag Korean Fried Chicken",
+    "slug": "soko-bag-korean-fried-chicken",
     "category": "korean",
     "metros": [
       "detroit"
@@ -1297,8 +1297,8 @@
     "toastUrl": "https://order.toasttab.com/online/jingo-cajun-eatery-lumberton-133-a-north-lhs-dr"
   },
   {
-    "name": "The Cajun Spot 17731 Fairgrove Park Dr",
-    "slug": "thecajunspot17731fairgroveparkdr",
+    "name": "The Cajun Spot",
+    "slug": "the-cajun-spot",
     "category": "southern",
     "metros": [
       "detroit"
@@ -1342,8 +1342,8 @@
     "toastUrl": "https://order.toasttab.com/online/cajuncornerokc"
   },
   {
-    "name": "Crawdaddys Cajun 13 Tomlinson Mill Rd",
-    "slug": "crawdaddyscajun13tomlinsonmillrd",
+    "name": "Crawdaddys Cajun",
+    "slug": "crawdaddys-cajun",
     "category": "southern",
     "metros": [
       "detroit"
@@ -1369,8 +1369,8 @@
     "toastUrl": "https://order.toasttab.com/online/vivios-detroit"
   },
   {
-    "name": "Sushi Ai Downtown 910 Olive Street",
-    "slug": "sushiaidowntown910olivestreet",
+    "name": "Sushi Ai Downtown",
+    "slug": "sushi-ai-downtown",
     "category": "japanese",
     "metros": [
       "detroit"
@@ -1378,8 +1378,8 @@
     "toastUrl": "https://order.toasttab.com/online/sushi-ai-downtown-910-olive-street"
   },
   {
-    "name": "Sushi Too 5432 Walnut St",
-    "slug": "sushitoo5432walnutst",
+    "name": "Sushi Too",
+    "slug": "sushi-too",
     "category": "japanese",
     "metros": [
       "detroit"
@@ -1387,8 +1387,8 @@
     "toastUrl": "https://order.toasttab.com/online/sushi-too-5432-walnut-st"
   },
   {
-    "name": "KAMON SUSHI 17855 Colima Rd. city of industry CA91748",
-    "slug": "kamonsushi17855colimardcityofindustryca9",
+    "name": "KAMON SUSHI 17855 Colima Rd. city of industry CA",
+    "slug": "kamon-sushi-17855-colima-rd-city-of-industry-ca",
     "category": "japanese",
     "metros": [
       "detroit"
@@ -1396,8 +1396,8 @@
     "toastUrl": "https://order.toasttab.com/online/kamon-sushi-city-of-industry-17855-colima-rd"
   },
   {
-    "name": "Kozo Sushi - Pearl City 1029 Makolu Street",
-    "slug": "kozosushi-pearlcity1029makolustreet",
+    "name": "Kozo Sushi - Pearl City",
+    "slug": "kozo-sushi-pearl-city",
     "category": "japanese",
     "metros": [
       "detroit"
@@ -1432,8 +1432,8 @@
     "toastUrl": "https://order.toasttab.com/online/tbd-sushi-2023-e-4th-st"
   },
   {
-    "name": "Shoyou Sushi @ Fed Hill 1450 Light Street",
-    "slug": "shoyousushifedhill1450lightstreet",
+    "name": "Shoyou Sushi @ Fed Hill",
+    "slug": "shoyou-sushi-fed-hill",
     "category": "japanese",
     "metros": [
       "detroit"
@@ -1450,8 +1450,8 @@
     "toastUrl": "https://order.toasttab.com/online/that-sushi-spot-3004-avenue-l"
   },
   {
-    "name": "Sushi Coup 29141 Dequindre Road",
-    "slug": "sushicoup29141dequindreroad",
+    "name": "Sushi Coup",
+    "slug": "sushi-coup",
     "category": "japanese",
     "metros": [
       "detroit"
@@ -1459,8 +1459,8 @@
     "toastUrl": "https://order.toasttab.com/online/sushicoup"
   },
   {
-    "name": "Asian Fusion Sushi & Bar 7827 Bergenline Ave",
-    "slug": "asianfusionsushibar7827bergenlineave",
+    "name": "Asian Fusion Sushi & Bar",
+    "slug": "asian-fusion-sushi-bar",
     "category": "japanese",
     "metros": [
       "detroit"
@@ -1839,8 +1839,8 @@
     "websiteOrderUrl": "https://wahlburgersrestaurant.olo.com/menu/wahlburgers-greektown/categories/31190"
   },
   {
-    "name": "Checkers East 8 Mile Road",
-    "slug": "checkerseast8mileroad",
+    "name": "Checkers East",
+    "slug": "checkers-east",
     "category": "restaurant",
     "metros": [
       "detroit"
@@ -2107,8 +2107,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/lunchrush/office/top-5-boxed-lunch-restaurants-in-detroit-michigan/"
   },
   {
-    "name": "Detroit Eatery Catering in Royal Oak, MI - 200 W 5th Ave",
-    "slug": "detroiteaterycateringinroyaloakmi-200w5t",
+    "name": "Detroit Eatery Catering in Royal Oak, MI",
+    "slug": "detroit-eatery-catering-in-royal-oak-mi",
     "category": "restaurant",
     "metros": [
       "detroit"
@@ -2116,8 +2116,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/detroit-eatery-royal-oak"
   },
   {
-    "name": "Breadless Catering in Detroit, MI - 2760 E Larned St",
-    "slug": "breadlesscateringindetroitmi-2760elarned",
+    "name": "Breadless Catering in Detroit, MI",
+    "slug": "breadless-catering-in-detroit-mi",
     "category": "bakery",
     "metros": [
       "detroit"
@@ -2125,8 +2125,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/breadless-3"
   },
   {
-    "name": "Lunchtime Global Catering in Detroit, MI - 660 Woodward Ave",
-    "slug": "lunchtimeglobalcateringindetroitmi-660wo",
+    "name": "Lunchtime Global Catering in Detroit, MI",
+    "slug": "lunchtime-global-catering-in-detroit-mi",
     "category": "restaurant",
     "metros": [
       "detroit"
@@ -2143,8 +2143,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/lunchrush/office/top-5-breakfast-catering-restaurants-in-detroit-michigan/"
   },
   {
-    "name": "Sheeba Express Catering in Detroit, MI - 1366 W Fort St",
-    "slug": "sheebaexpresscateringindetroitmi-1366wfo",
+    "name": "Sheeba Express Catering in Detroit, MI",
+    "slug": "sheeba-express-catering-in-detroit-mi",
     "category": "restaurant",
     "metros": [
       "detroit"
@@ -2161,8 +2161,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/best-detroit-caterers"
   },
   {
-    "name": "Tasteful Sensations Catering in Detroit, MI - 5026 Cooper St",
-    "slug": "tastefulsensationscateringindetroitmi-50",
+    "name": "Tasteful Sensations Catering in Detroit, MI",
+    "slug": "tasteful-sensations-catering-in-detroit-mi",
     "category": "restaurant",
     "metros": [
       "detroit"
@@ -2197,8 +2197,8 @@
     "toastUrl": "https://order.toasttab.com/online/downtownbakery"
   },
   {
-    "name": "Batch 22 Bakery 15466 Los Gatos Blvd Ste 113",
-    "slug": "batch22bakery15466losgatosblvdste113",
+    "name": "Batch 22 Bakery",
+    "slug": "batch-22-bakery",
     "category": "bakery",
     "metros": [
       "detroit"
@@ -2305,8 +2305,8 @@
     "toastUrl": "https://order.toasttab.com/online/sliced"
   },
   {
-    "name": "Tartine Bistro 19110 Old Detroit Road",
-    "slug": "tartinebistro19110olddetroitroad",
+    "name": "Tartine Bistro",
+    "slug": "tartine-bistro",
     "category": "restaurant",
     "metros": [
       "detroit"

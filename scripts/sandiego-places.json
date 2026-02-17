@@ -663,8 +663,8 @@
     "toastUrl": "https://order.toasttab.com/online/home-away-sd"
   },
   {
-    "name": "Aladdin Cafe 5420 Clairemont Mesa Blvd",
-    "slug": "aladdincafe5420clairemontmesablvd",
+    "name": "Aladdin Cafe",
+    "slug": "aladdin-cafe",
     "category": "cafe",
     "metros": [
       "sandiego"
@@ -672,8 +672,8 @@
     "toastUrl": "https://order.toasttab.com/online/aladdin-cafe-san-diego-5420-clairemont-mesa-blvd"
   },
   {
-    "name": "Asa Bakery Cafe East Village, San Diego",
-    "slug": "asabakerycafeeastvillagesandiego",
+    "name": "Asa Bakery Cafe East Village",
+    "slug": "asa-bakery-cafe-east-village",
     "category": "cafe",
     "metros": [
       "sandiego"
@@ -771,8 +771,8 @@
     "toastUrl": "https://order.toasttab.com/online/tnt-pizza-550-14th-street-116"
   },
   {
-    "name": "Pizza On 5th 734 5th Ave",
-    "slug": "pizzaon5th7345thave",
+    "name": "Pizza On 5th",
+    "slug": "pizza-on-5th",
     "category": "pizza",
     "metros": [
       "sandiego"
@@ -780,8 +780,8 @@
     "toastUrl": "https://order.toasttab.com/online/pizza-on-5th-734-5th-ave"
   },
   {
-    "name": "Prince Street Pizza - San Diego 415 Market Street",
-    "slug": "princestreetpizza-sandiego415marketstree",
+    "name": "Prince Street Pizza",
+    "slug": "prince-street-pizza",
     "category": "pizza",
     "metros": [
       "sandiego"
@@ -807,8 +807,8 @@
     "toastUrl": "https://order.toasttab.com/online/conceptopizza"
   },
   {
-    "name": "Rockets Pizza and Subs 5151 Waring Rd",
-    "slug": "rocketspizzaandsubs5151waringrd",
+    "name": "Rockets Pizza and Subs",
+    "slug": "rockets-pizza-and-subs",
     "category": "pizza",
     "metros": [
       "sandiego"
@@ -816,8 +816,8 @@
     "toastUrl": "https://order.toasttab.com/online/rocketspizzaandsubs"
   },
   {
-    "name": "Seaside Pizza Co. 4263 Mission Blvd",
-    "slug": "seasidepizzaco4263missionblvd",
+    "name": "Seaside Pizza Co.",
+    "slug": "seaside-pizza-co",
     "category": "pizza",
     "metros": [
       "sandiego"
@@ -870,8 +870,8 @@
     "toastUrl": "https://order.toasttab.com/online/sandbox-pizza-pacific-beach"
   },
   {
-    "name": "Prince Street Pizza - Pacific Beach 4505 Mission Blvd",
-    "slug": "princestreetpizza-pacificbeach4505missio",
+    "name": "Prince Street Pizza - Pacific Beach",
+    "slug": "prince-street-pizza-pacific-beach",
     "category": "pizza",
     "metros": [
       "sandiego"
@@ -879,8 +879,8 @@
     "toastUrl": "https://order.toasttab.com/online/prince-street-pizza-pacific-beach-4505-mission-blvd"
   },
   {
-    "name": "3038 University Ave. Mastiff Kitchen (North Park)",
-    "slug": "3038universityavemastiffkitchennorthpark",
+    "name": "Mastiff Kitchen North Park",
+    "slug": "mastiff-kitchen-north-park",
     "category": "restaurant",
     "metros": [
       "sandiego"
@@ -915,8 +915,8 @@
     "toastUrl": "https://order.toasttab.com/online/craft-house-north-park-monster-crafts-food-truck-4101-30th-st-suite-c"
   },
   {
-    "name": "Soi 30th- North Park Thai Eatery 3442 30th Street",
-    "slug": "soi30th-northparkthaieatery344230thstree",
+    "name": "Soi 30th- North Park Thai Eatery",
+    "slug": "soi-30th-north-park-thai-eatery",
     "category": "thai",
     "metros": [
       "sandiego"
@@ -978,8 +978,8 @@
     "toastUrl": "https://order.toasttab.com/online/la-fuente-hillcrest-1227-university-ave"
   },
   {
-    "name": "Heroes Sports Bar and Grille - West Mobile 36 Hillcrest Road",
-    "slug": "heroessportsbarandgrille-westmobile36hil",
+    "name": "Heroes Sports Bar and Grille - West Mobile",
+    "slug": "heroes-sports-bar-and-grille-west-mobile",
     "category": "restaurant",
     "metros": [
       "sandiego"
@@ -996,8 +996,8 @@
     "toastUrl": "https://order.toasttab.com/online/starwood-cafe-hillcrest-village"
   },
   {
-    "name": "Hillcrest Tavern 3212 Frankfort Ave",
-    "slug": "hillcresttavern3212frankfortave",
+    "name": "Hillcrest Tavern",
+    "slug": "hillcrest-tavern",
     "category": "restaurant",
     "metros": [
       "sandiego"
@@ -1005,8 +1005,8 @@
     "toastUrl": "https://order.toasttab.com/online/hillcrest-tavern-3212-frankfort-ave"
   },
   {
-    "name": "Baja Betty's Hillcrest, San Diego",
-    "slug": "bajabettyshillcrestsandiego",
+    "name": "Baja Betty's Hillcrest",
+    "slug": "baja-betty-s-hillcrest",
     "category": "restaurant",
     "metros": [
       "sandiego"
@@ -1014,8 +1014,8 @@
     "toastUrl": "https://order.toasttab.com/online/baja-betty-s"
   },
   {
-    "name": "Hillcrest Swim Club 7500 Queen Anne Drive",
-    "slug": "hillcrestswimclub7500queenannedrive",
+    "name": "Hillcrest Swim Club",
+    "slug": "hillcrest-swim-club",
     "category": "restaurant",
     "metros": [
       "sandiego"
@@ -1032,8 +1032,8 @@
     "toastUrl": "https://order.toasttab.com/online/hillcrest-brewing-company"
   },
   {
-    "name": "Gaslamp Tavern 868 5th Ave",
-    "slug": "gaslamptavern8685thave",
+    "name": "Gaslamp Tavern",
+    "slug": "gaslamp-tavern",
     "category": "restaurant",
     "metros": [
       "sandiego"
@@ -1050,8 +1050,8 @@
     "toastUrl": "https://order.toasttab.com/online/gaslamp-breakfast-company-breakfast-company-llc"
   },
   {
-    "name": "Cerveza Jack's Gaslamp 322 Fifth Ave",
-    "slug": "cervezajacksgaslamp322fifthave",
+    "name": "Cerveza Jack's Gaslamp",
+    "slug": "cerveza-jack-s-gaslamp",
     "category": "restaurant",
     "metros": [
       "sandiego"
@@ -1158,8 +1158,8 @@
     "toastUrl": "https://order.toasttab.com/online/brockton-villa-restaurant-1235-coast-blvd"
   },
   {
-    "name": "La Jolla 8147 Vaughn Rd",
-    "slug": "lajolla8147vaughnrd",
+    "name": "La Jolla",
+    "slug": "la-jolla",
     "category": "restaurant",
     "metros": [
       "sandiego"
@@ -1212,8 +1212,8 @@
     "toastUrl": "https://order.toasttab.com/online/ambrogio15-pacific-beach"
   },
   {
-    "name": "Dirty Birds Pacific Beach 4656 Mission Blvd",
-    "slug": "dirtybirdspacificbeach4656missionblvd",
+    "name": "Dirty Birds Pacific Beach",
+    "slug": "dirty-birds-pacific-beach",
     "category": "restaurant",
     "metros": [
       "sandiego"
@@ -1275,8 +1275,8 @@
     "toastUrl": "https://order.toasttab.com/online/italian-homemade-long-beach-6460-e-pacific-coast-hwy-130"
   },
   {
-    "name": "Spill the Beans Pacific Beach 980 GARNET AVENUE",
-    "slug": "spillthebeanspacificbeach980garnetavenue",
+    "name": "Spill the Beans Pacific Beach",
+    "slug": "spill-the-beans-pacific-beach",
     "category": "restaurant",
     "metros": [
       "sandiego"
@@ -1293,8 +1293,8 @@
     "toastUrl": "https://order.toasttab.com/online/pop-pie-co-pacific-beach-829-garnet-avenue"
   },
   {
-    "name": "Pacific Beach Fish Shop 1775 Garnet Ave",
-    "slug": "pacificbeachfishshop1775garnetave",
+    "name": "Pacific Beach Fish Shop",
+    "slug": "pacific-beach-fish-shop",
     "category": "seafood",
     "metros": [
       "sandiego"
@@ -1320,8 +1320,8 @@
     "toastUrl": "https://order.toasttab.com/online/annapurna-indian-cuisine"
   },
   {
-    "name": "Sanjh Indian Restaurant 5250 N Oconnor Blvd, Ste 146",
-    "slug": "sanjhindianrestaurant5250noconnorblvdste",
+    "name": "Sanjh Indian Restaurant",
+    "slug": "sanjh-indian-restaurant",
     "category": "indian",
     "metros": [
       "sandiego"
@@ -1338,8 +1338,8 @@
     "toastUrl": "https://order.toasttab.com/online/indian-spice-san-mateo-146-e-3rd-ave"
   },
   {
-    "name": "Desi Indian Lounge 1355 Hornby Street",
-    "slug": "desiindianlounge1355hornbystreet",
+    "name": "Desi Indian Lounge",
+    "slug": "desi-indian-lounge",
     "category": "indian",
     "metros": [
       "sandiego"
@@ -1356,8 +1356,8 @@
     "toastUrl": "https://order.toasttab.com/online/tabla-indian-restaurant-pleasanton-1991-santa-rita-road"
   },
   {
-    "name": "Tocabe An American Indian Eatery 3536 W 44th Ave",
-    "slug": "tocabeanamericanindianeatery3536w44thave",
+    "name": "Tocabe An American Indian Eatery",
+    "slug": "tocabe-an-american-indian-eatery",
     "category": "indian",
     "metros": [
       "sandiego"
@@ -1383,8 +1383,8 @@
     "toastUrl": "https://order.toasttab.com/online/tabla-indian-restaurant-ca-450-s-norfolk-st"
   },
   {
-    "name": "Mimoza Mediterranean Restaurant 409 F Street",
-    "slug": "mimozamediterraneanrestaurant409fstreet",
+    "name": "Mimoza Mediterranean Restaurant",
+    "slug": "mimoza-mediterranean-restaurant",
     "category": "mediterranean",
     "metros": [
       "sandiego"
@@ -1464,8 +1464,8 @@
     "toastUrl": "https://order.toasttab.com/online/cali-bbq-spring-valley"
   },
   {
-    "name": "Louisiana Charlies San Diego 849 West Harbor Dr Ste W11B",
-    "slug": "louisianacharliessandiego849westharbordr",
+    "name": "Louisiana Charlies San Diego",
+    "slug": "louisiana-charlies-san-diego",
     "category": "restaurant",
     "metros": [
       "sandiego"
@@ -1545,8 +1545,8 @@
     "toastUrl": "https://order.toasttab.com/online/so-saap-4134universityave"
   },
   {
-    "name": "Soi OB-Thai Street Food 1916 Cable St",
-    "slug": "soiob-thaistreetfood1916cablest",
+    "name": "Soi OB-Thai Street Food",
+    "slug": "soi-ob-thai-street-food",
     "category": "thai",
     "metros": [
       "sandiego"
@@ -1590,8 +1590,8 @@
     "toastUrl": "https://order.toasttab.com/online/sanphanthaidc"
   },
   {
-    "name": "Thai Thai Restaurant - EM 221 E North St",
-    "slug": "thaithairestaurant-em221enorthst",
+    "name": "Thai Thai Restaurant - EM",
+    "slug": "thai-thai-restaurant-em",
     "category": "thai",
     "metros": [
       "sandiego"
@@ -1617,8 +1617,8 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/23642/locations/35936"
   },
   {
-    "name": "Alforon 5965 El Cajon Boulevard",
-    "slug": "alforon5965elcajonboulevard",
+    "name": "Alforon",
+    "slug": "alforon",
     "category": "restaurant",
     "metros": [
       "sandiego"
@@ -1895,8 +1895,8 @@
     "websiteOrderUrl": "https://coffeebean.olo.com/menu/coffee-bean-tea-leaf-governor-drive-san-diego-dt"
   },
   {
-    "name": "Carmel Mountain Plaza, San Diego",
-    "slug": "carmelmountainplazasandiego",
+    "name": "Carmel Mountain Plaza",
+    "slug": "carmel-mountain-plaza",
     "category": "restaurant",
     "metros": [
       "sandiego"
@@ -1948,8 +1948,8 @@
     ]
   },
   {
-    "name": "Mexican Food & Catering - Del Mar & Carmel Valley, San Diego",
-    "slug": "mexicanfoodcatering-delmarcarmelvalleysa",
+    "name": "Mexican Food & Catering - Del Mar & Carmel Valley",
+    "slug": "mexican-food-catering-del-mar-carmel-valley",
     "category": "mexican",
     "metros": [
       "sandiego"
@@ -2048,8 +2048,8 @@
     ]
   },
   {
-    "name": "UMI SUSHI - SAN DIEGO, CA",
-    "slug": "umisushi-sandiegoca",
+    "name": "UMI SUSHI",
+    "slug": "umi-sushi",
     "category": "japanese",
     "metros": [
       "sandiego"
@@ -2057,8 +2057,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/umi-sushi-san-diego-2"
   },
   {
-    "name": "BROTHERS MEXICAN RESTAUR - SAN DIEGO, CA",
-    "slug": "brothersmexicanrestaur-sandiegoca",
+    "name": "BROTHERS MEXICAN RESTAUR",
+    "slug": "brothers-mexican-restaur",
     "category": "mexican",
     "metros": [
       "sandiego"
@@ -2066,8 +2066,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/brothers-mexican-restaur-san-diego"
   },
   {
-    "name": "RK SUSHI - SAN DIEGO, CA",
-    "slug": "rksushi-sandiegoca",
+    "name": "RK SUSHI",
+    "slug": "rk-sushi",
     "category": "japanese",
     "metros": [
       "sandiego"
@@ -2075,8 +2075,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/rk-sushi-san-diego"
   },
   {
-    "name": "BURRITO SANTANA - SAN DIEGO, CA",
-    "slug": "burritosantana-sandiegoca",
+    "name": "BURRITO SANTANA",
+    "slug": "burrito-santana",
     "category": "mexican",
     "metros": [
       "sandiego"
@@ -2084,8 +2084,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/burrito-santana-san-diego"
   },
   {
-    "name": "BRONCO'S MEXICAN FOOD - SAN DIEGO, CA",
-    "slug": "broncosmexicanfood-sandiegoca",
+    "name": "BRONCO'S MEXICAN FOOD",
+    "slug": "bronco-s-mexican-food",
     "category": "mexican",
     "metros": [
       "sandiego"
@@ -2093,8 +2093,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/broncos-mexican-food-san-diego"
   },
   {
-    "name": "EL TIO'S RESTAURANT - SAN DIEGO, CA",
-    "slug": "eltiosrestaurant-sandiegoca",
+    "name": "EL TIO'S RESTAURANT",
+    "slug": "el-tio-s-restaurant",
     "category": "restaurant",
     "metros": [
       "sandiego"
@@ -2102,8 +2102,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/el-tios-restaurant-san-diego"
   },
   {
-    "name": "Awash Ethiopian Restaurant & Market - SAN DIEGO, CA",
-    "slug": "awashethiopianrestaurantmarket-sandiegoc",
+    "name": "Awash Ethiopian Restaurant & Market",
+    "slug": "awash-ethiopian-restaurant-market",
     "category": "african",
     "metros": [
       "sandiego"
@@ -2111,8 +2111,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/awash-ethiopian-restaurant--market--san-diego"
   },
   {
-    "name": "THE FOOD BOX - SAN DIEGO, CA",
-    "slug": "thefoodbox-sandiegoca",
+    "name": "THE FOOD BOX",
+    "slug": "the-food-box",
     "category": "restaurant",
     "metros": [
       "sandiego"
@@ -2129,8 +2129,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/juichi-san-diego"
   },
   {
-    "name": "VERDELI CAFE - SAN DIEGO, CA",
-    "slug": "verdelicafe-sandiegoca",
+    "name": "VERDELI CAFE",
+    "slug": "verdeli-cafe",
     "category": "cafe",
     "metros": [
       "sandiego"
@@ -2138,8 +2138,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/come-on-in-cafe-san-diego"
   },
   {
-    "name": "Mimoza Mediterranean Restaurant - SAN DIEGO, CA",
-    "slug": "mimozamediterraneanrestaurant-sandiegoca",
+    "name": "Mimoza Mediterranean Restaurant",
+    "slug": "mimoza-mediterranean-restaurant",
     "category": "mediterranean",
     "metros": [
       "sandiego"
@@ -2156,8 +2156,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/mimoza-restaurant-san-diego/NVNDMTH5R0C6G"
   },
   {
-    "name": "DI CHAN THAI RESTAURANT - SAN DIEGO, CA",
-    "slug": "dichanthairestaurant-sandiegoca",
+    "name": "DI CHAN THAI RESTAURANT",
+    "slug": "di-chan-thai-restaurant",
     "category": "thai",
     "metros": [
       "sandiego"
@@ -2165,8 +2165,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/di-chan-thai-restaurant-san-diego"
   },
   {
-    "name": "The Oasis Cafe - SAN DIEGO, CA",
-    "slug": "theoasiscafe-sandiegoca",
+    "name": "The Oasis Cafe",
+    "slug": "the-oasis-cafe",
     "category": "cafe",
     "metros": [
       "sandiego"
@@ -2174,8 +2174,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/omega-cafe-san-diego"
   },
   {
-    "name": "SIDNYS BAGELS & DELI - SAN DIEGO, CA",
-    "slug": "sidnysbagelsdeli-sandiegoca",
+    "name": "SIDNYS BAGELS & DELI",
+    "slug": "sidnys-bagels-deli",
     "category": "deli",
     "metros": [
       "sandiego"
@@ -2183,8 +2183,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/sidnys-bagels--deli-san-diego"
   },
   {
-    "name": "SALA THAI RESTAURANT - SAN DIEGO, CA",
-    "slug": "salathairestaurant-sandiegoca",
+    "name": "SALA THAI RESTAURANT",
+    "slug": "sala-thai-restaurant",
     "category": "thai",
     "metros": [
       "sandiego"
@@ -2192,8 +2192,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/sala-thai-restaurant-san-diego"
   },
   {
-    "name": "SEA RIDGE CAFE - SAN DIEGO, CA",
-    "slug": "searidgecafe-sandiegoca",
+    "name": "SEA RIDGE CAFE",
+    "slug": "sea-ridge-cafe",
     "category": "cafe",
     "metros": [
       "sandiego"
@@ -2201,8 +2201,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/sea-ridge-cafe-san-diego"
   },
   {
-    "name": "RB DELI CAFE - SAN DIEGO, CA",
-    "slug": "rbdelicafe-sandiegoca",
+    "name": "RB DELI CAFE",
+    "slug": "rb-deli-cafe",
     "category": "cafe",
     "metros": [
       "sandiego"
@@ -2210,8 +2210,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/rb-deli-cafe-san-diego"
   },
   {
-    "name": "CAFFE ITALIA - SAN DIEGO, CA",
-    "slug": "caffeitalia-sandiegoca",
+    "name": "CAFFE ITALIA",
+    "slug": "caffe-italia",
     "category": "restaurant",
     "metros": [
       "sandiego"
@@ -2309,8 +2309,8 @@
     "toastUrl": "https://order.toasttab.com/online/bluewateroceanbeach"
   },
   {
-    "name": "paradise biryani - san diego",
-    "slug": "paradisebiryani-sandiego",
+    "name": "paradise biryani",
+    "slug": "paradise-biryani",
     "category": "indian",
     "metros": [
       "sandiego"
@@ -2354,8 +2354,8 @@
     "toastUrl": "https://order.toasttab.com/online/katies-seafood-house"
   },
   {
-    "name": "La Mer Seafood 407 Main Street",
-    "slug": "lamerseafood407mainstreet",
+    "name": "La Mer Seafood",
+    "slug": "la-mer-seafood",
     "category": "seafood",
     "metros": [
       "sandiego"
@@ -2480,8 +2480,8 @@
     "toastUrl": "https://order.toasttab.com/online/giorgiosgreekcafe"
   },
   {
-    "name": "The Greek Corner 2366 Massachusetts Avenue",
-    "slug": "thegreekcorner2366massachusettsavenue",
+    "name": "The Greek Corner",
+    "slug": "the-greek-corner",
     "category": "mediterranean",
     "metros": [
       "sandiego"
@@ -2489,8 +2489,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-greek-corner-2366-massachusetts-avenue"
   },
   {
-    "name": "simply greek 44 Centennial Drive",
-    "slug": "simplygreek44centennialdrive",
+    "name": "simply greek",
+    "slug": "simply-greek",
     "category": "mediterranean",
     "metros": [
       "sandiego"
@@ -2525,8 +2525,8 @@
     "toastUrl": "https://order.toasttab.com/online/zinque-san-diego-2101-kettner-blvd"
   },
   {
-    "name": "Juice Adventure 935 Otay Lakes Rd",
-    "slug": "juiceadventure935otaylakesrd",
+    "name": "Juice Adventure",
+    "slug": "juice-adventure",
     "category": "juice",
     "metros": [
       "sandiego"
@@ -2570,8 +2570,8 @@
     "toastUrl": "https://order.toasttab.com/online/rock-n-juice-san-pedro-2470-s-western-ave-space-c"
   },
   {
-    "name": "Juice World 89 Passaic St",
-    "slug": "juiceworld89passaicst",
+    "name": "Juice World",
+    "slug": "juice-world",
     "category": "juice",
     "metros": [
       "sandiego"

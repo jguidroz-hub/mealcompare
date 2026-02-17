@@ -296,8 +296,8 @@
     ]
   },
   {
-    "name": "The Urban Tap - Southside",
-    "slug": "theurbantap-southside",
+    "name": "The Urban Tap",
+    "slug": "the-urban-tap",
     "category": "restaurant",
     "metros": [
       "pittsburgh"
@@ -376,8 +376,8 @@
     ]
   },
   {
-    "name": "Food For Thought 194 N Craig St",
-    "slug": "foodforthought194ncraigst",
+    "name": "Food For Thought",
+    "slug": "food-for-thought",
     "category": "restaurant",
     "metros": [
       "pittsburgh"
@@ -394,8 +394,8 @@
     "toastUrl": "https://order.toasttab.com/online/ephesus-mediterranean-restaurant"
   },
   {
-    "name": "Uzbek Food 1926 Spring Garden Avenue",
-    "slug": "uzbekfood1926springgardenavenue",
+    "name": "Uzbek Food",
+    "slug": "uzbek-food",
     "category": "restaurant",
     "metros": [
       "pittsburgh"
@@ -421,8 +421,8 @@
     "toastUrl": "https://order.toasttab.com/online/ckporders"
   },
   {
-    "name": "Spice Delight - 3513A Butler Street, Pittsburgh, PA",
-    "slug": "spicedelight-3513abutlerstreetpittsburgh",
+    "name": "Spice Delight - 3513A Butler Street",
+    "slug": "spice-delight-3513a-butler-street",
     "category": "deli",
     "metros": [
       "pittsburgh"
@@ -484,8 +484,8 @@
     "toastUrl": "https://order.toasttab.com/online/cafe-moulin"
   },
   {
-    "name": "Famous Cafe 15218",
-    "slug": "famouscafe15218",
+    "name": "Famous Cafe",
+    "slug": "famous-cafe",
     "category": "cafe",
     "metros": [
       "pittsburgh"
@@ -547,8 +547,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-pittsburgh-bottleshop-cafe-and-brewhouse"
   },
   {
-    "name": "In & Out Cafe 1621 N Road Street",
-    "slug": "inoutcafe1621nroadstreet",
+    "name": "In & Out Cafe",
+    "slug": "in-out-cafe",
     "category": "cafe",
     "metros": [
       "pittsburgh"
@@ -556,8 +556,8 @@
     "toastUrl": "https://order.toasttab.com/online/in-out-cafe"
   },
   {
-    "name": "Pizza Lupo - 5123 Butler Street, Pittsburgh, PA",
-    "slug": "pizzalupo-5123butlerstreetpittsburghpa",
+    "name": "Pizza Lupo",
+    "slug": "pizza-lupo",
     "category": "pizza",
     "metros": [
       "pittsburgh"
@@ -664,8 +664,8 @@
     "toastUrl": "https://order.toasttab.com/online/milky-way-pittsburgh"
   },
   {
-    "name": "AJ's Pizza & Hoagies 3565 Harts Run Rd",
-    "slug": "ajspizzahoagies3565hartsrunrd",
+    "name": "AJ's Pizza & Hoagies",
+    "slug": "aj-s-pizza-hoagies",
     "category": "pizza",
     "metros": [
       "pittsburgh"
@@ -673,8 +673,8 @@
     "toastUrl": "https://order.toasttab.com/online/ajspizzafoxchapel"
   },
   {
-    "name": "Tavern Pizza - 600 Lincoln Avenue, Bellevue, PA",
-    "slug": "tavernpizza-600lincolnavenuebellevuepa",
+    "name": "Tavern Pizza",
+    "slug": "tavern-pizza",
     "category": "pizza",
     "metros": [
       "pittsburgh"
@@ -718,8 +718,8 @@
     "toastUrl": "https://order.toasttab.com/online/papis-lawrenceville"
   },
   {
-    "name": "1430 five forks trickum rd, lawrenceville, ga",
-    "slug": "1430fiveforkstrickumrdlawrencevillega",
+    "name": "lawrenceville, ga",
+    "slug": "lawrenceville-ga",
     "category": "mexican",
     "metros": [
       "pittsburgh"
@@ -754,8 +754,8 @@
     "toastUrl": "https://order.toasttab.com/online/district-square"
   },
   {
-    "name": "District 37 Kitchen and Taphouse (NEW) 110 Sweeney Street",
-    "slug": "district37kitchenandtaphousenew110sweene",
+    "name": "District 37 Kitchen and Taphouse (NEW)",
+    "slug": "district-37-kitchen-and-taphouse-new",
     "category": "vietnamese",
     "metros": [
       "pittsburgh"
@@ -808,8 +808,8 @@
     "toastUrl": "https://order.toasttab.com/online/all-set-restaurant"
   },
   {
-    "name": "The District Kitchen & Saloon NEW 367 East Bennett Avenue",
-    "slug": "thedistrictkitchensaloonnew367eastbennet",
+    "name": "The District Kitchen & Saloon NEW",
+    "slug": "the-district-kitchen-saloon-new",
     "category": "restaurant",
     "metros": [
       "pittsburgh"
@@ -817,8 +817,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-district-kitchen-saloon-new-367-east-bennett-avenue"
   },
   {
-    "name": "Lanterns Restaurant and Tavern LLC 87-064 Farrington Hwy",
-    "slug": "lanternsrestaurantandtavernllc87-064farr",
+    "name": "Lanterns Restaurant and Tavern LLC 87",
+    "slug": "lanterns-restaurant-and-tavern-llc-87",
     "category": "restaurant",
     "metros": [
       "pittsburgh"
@@ -898,8 +898,8 @@
     "toastUrl": "https://order.toasttab.com/online/southside-century"
   },
   {
-    "name": "Tinker Latin Food Restaurant 502 South Main Street",
-    "slug": "tinkerlatinfoodrestaurant502southmainstr",
+    "name": "Tinker Latin Food Restaurant",
+    "slug": "tinker-latin-food-restaurant",
     "category": "latin",
     "metros": [
       "pittsburgh"
@@ -907,8 +907,8 @@
     "toastUrl": "https://order.toasttab.com/online/tinker-latin-food-restaurant"
   },
   {
-    "name": "PHS Pop Up Garden South Street 1438 South St",
-    "slug": "phspopupgardensouthstreet1438southst",
+    "name": "PHS Pop Up Garden South Street",
+    "slug": "phs-pop-up-garden-south-street",
     "category": "restaurant",
     "metros": [
       "pittsburgh"
@@ -943,8 +943,8 @@
     "toastUrl": "https://order.toasttab.com/online/judcris-llc-620-georgia-155-south"
   },
   {
-    "name": "South Seas 1301 Story Avenue",
-    "slug": "southseas1301storyavenue",
+    "name": "South Seas",
+    "slug": "south-seas",
     "category": "restaurant",
     "metros": [
       "pittsburgh"
@@ -952,8 +952,8 @@
     "toastUrl": "https://order.toasttab.com/online/south-seas-1301-story-ave"
   },
   {
-    "name": "Wolfies 251 South US-1 Suite 1 Jupiter, Florida 33477",
-    "slug": "wolfies251southus-1suite1jupiterflorida3",
+    "name": "Wolfies 251 South US-1 Suite 1 Jupiter, Florida",
+    "slug": "wolfies-251-south-us-1-suite-1-jupiter-florida",
     "category": "restaurant",
     "metros": [
       "pittsburgh"
@@ -1096,8 +1096,8 @@
     "toastUrl": "https://order.toasttab.com/online/cajuncatfish"
   },
   {
-    "name": "The Cajun Spot 17731 Fairgrove Park Dr",
-    "slug": "thecajunspot17731fairgroveparkdr",
+    "name": "The Cajun Spot",
+    "slug": "the-cajun-spot",
     "category": "southern",
     "metros": [
       "pittsburgh"
@@ -1105,8 +1105,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-cajun-spot-17731-fairgrove-park-dr"
   },
   {
-    "name": "Crawdaddys Cajun 13 Tomlinson Mill Rd",
-    "slug": "crawdaddyscajun13tomlinsonmillrd",
+    "name": "Crawdaddys Cajun",
+    "slug": "crawdaddys-cajun",
     "category": "southern",
     "metros": [
       "pittsburgh"
@@ -1204,8 +1204,8 @@
     "toastUrl": "https://order.toasttab.com/online/cajun-queen"
   },
   {
-    "name": "Hookers Seafood Joint (Harrisburg) 405 Walnut Street",
-    "slug": "hookersseafoodjointharrisburg405walnutst",
+    "name": "Hookers Seafood Joint (Harrisburg)",
+    "slug": "hookers-seafood-joint-harrisburg",
     "category": "seafood",
     "metros": [
       "pittsburgh"
@@ -1213,8 +1213,8 @@
     "toastUrl": "https://order.toasttab.com/online/hookersharrisburg"
   },
   {
-    "name": "Seafood Hut & Market 1936 MacDade Boulevard",
-    "slug": "seafoodhutmarket1936macdadeboulevard",
+    "name": "Seafood Hut & Market",
+    "slug": "seafood-hut-market",
     "category": "seafood",
     "metros": [
       "pittsburgh"
@@ -1222,8 +1222,8 @@
     "toastUrl": "https://order.toasttab.com/online/seafoodhut"
   },
   {
-    "name": "Baytown Seafood Restaurant 2102 Broadway Street",
-    "slug": "baytownseafoodrestaurant2102broadwaystre",
+    "name": "Baytown Seafood Restaurant",
+    "slug": "baytown-seafood-restaurant",
     "category": "seafood",
     "metros": [
       "pittsburgh"
@@ -1258,8 +1258,8 @@
     "toastUrl": "https://order.toasttab.com/online/goode-company-seafood-1"
   },
   {
-    "name": "Sayle's Seafood 99 Washington Street",
-    "slug": "saylesseafood99washingtonstreet",
+    "name": "Sayle's Seafood",
+    "slug": "sayle-s-seafood",
     "category": "seafood",
     "metros": [
       "pittsburgh"
@@ -1276,8 +1276,8 @@
     "toastUrl": "https://order.toasttab.com/online/heads-tails-seafood-inc-2070-silverside-dr"
   },
   {
-    "name": "Roe Seafood Dining & Fish Market 5374 E 2nd St",
-    "slug": "roeseafooddiningfishmarket5374e2ndst",
+    "name": "Roe Seafood Dining & Fish Market",
+    "slug": "roe-seafood-dining-fish-market",
     "category": "seafood",
     "metros": [
       "pittsburgh"
@@ -1294,8 +1294,8 @@
     "toastUrl": "https://order.toasttab.com/online/buddys"
   },
   {
-    "name": "La Mer Seafood 407 Main Street",
-    "slug": "lamerseafood407mainstreet",
+    "name": "La Mer Seafood",
+    "slug": "la-mer-seafood",
     "category": "seafood",
     "metros": [
       "pittsburgh"
@@ -1303,8 +1303,8 @@
     "toastUrl": "https://order.toasttab.com/online/lamerseafood"
   },
   {
-    "name": "Out Of The Blue Seafood 252 E Montauk Hwy",
-    "slug": "outoftheblueseafood252emontaukhwy",
+    "name": "Out Of The Blue Seafood",
+    "slug": "out-of-the-blue-seafood",
     "category": "seafood",
     "metros": [
       "pittsburgh"
@@ -1330,8 +1330,8 @@
     "toastUrl": "https://order.toasttab.com/online/hometown-seafood-llc-5010-broadway-st"
   },
   {
-    "name": "Mr Seafood - Town Center 494-1 Town Center Place",
-    "slug": "mrseafood-towncenter494-1towncenterplace",
+    "name": "Mr Seafood - Town Center 494",
+    "slug": "mr-seafood-town-center-494",
     "category": "seafood",
     "metros": [
       "pittsburgh"
@@ -1357,8 +1357,8 @@
     "toastUrl": "https://order.toasttab.com/online/mainline-seafood-market"
   },
   {
-    "name": "Shrimp Lips Seafood 1622 Parsons Ave",
-    "slug": "shrimplipsseafood1622parsonsave",
+    "name": "Shrimp Lips Seafood",
+    "slug": "shrimp-lips-seafood",
     "category": "seafood",
     "metros": [
       "pittsburgh"
@@ -1366,8 +1366,8 @@
     "toastUrl": "https://order.toasttab.com/online/shrimp-lips-seafood-1622-parsons-ave"
   },
   {
-    "name": "Masala House Indian Bistro 5102 Baum blvd",
-    "slug": "masalahouseindianbistro5102baumblvd",
+    "name": "Masala House Indian Bistro",
+    "slug": "masala-house-indian-bistro",
     "category": "indian",
     "metros": [
       "pittsburgh"
@@ -1393,8 +1393,8 @@
     "toastUrl": "https://order.toasttab.com/online/kritunga-indian-cuisine"
   },
   {
-    "name": "The Purple Indian 508 W Marion Rd",
-    "slug": "thepurpleindian508wmarionrd",
+    "name": "The Purple Indian",
+    "slug": "the-purple-indian",
     "category": "indian",
     "metros": [
       "pittsburgh"
@@ -1402,8 +1402,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-purple-indian"
   },
   {
-    "name": "Indian Oven 2406 Paramount Blvd",
-    "slug": "indianoven2406paramountblvd",
+    "name": "Indian Oven",
+    "slug": "indian-oven",
     "category": "indian",
     "metros": [
       "pittsburgh"
@@ -1447,8 +1447,8 @@
     "toastUrl": "https://order.toasttab.com/online/gurusindiancuisine"
   },
   {
-    "name": "Amma's South Indian Cuisine-University City 103 S 39TH ST",
-    "slug": "ammassouthindiancuisine-universitycity10",
+    "name": "Amma's South Indian Cuisine-University City",
+    "slug": "amma-s-south-indian-cuisine-university-city",
     "category": "indian",
     "metros": [
       "pittsburgh"
@@ -1456,8 +1456,8 @@
     "toastUrl": "https://order.toasttab.com/online/ammas-university-city"
   },
   {
-    "name": "Nawab's Indian Cuisine 4715 Kirkwood Highway",
-    "slug": "nawabsindiancuisine4715kirkwoodhighway",
+    "name": "Nawab's Indian Cuisine",
+    "slug": "nawab-s-indian-cuisine",
     "category": "indian",
     "metros": [
       "pittsburgh"
@@ -1465,8 +1465,8 @@
     "toastUrl": "https://order.toasttab.com/online/nawabs"
   },
   {
-    "name": "Desi Indian Lounge 1355 Hornby Street",
-    "slug": "desiindianlounge1355hornbystreet",
+    "name": "Desi Indian Lounge",
+    "slug": "desi-indian-lounge",
     "category": "indian",
     "metros": [
       "pittsburgh"
@@ -1483,8 +1483,8 @@
     "toastUrl": "https://order.toasttab.com/online/veda-modern-indian-bistro"
   },
   {
-    "name": "Beenz Indian Grill and Bar 658 Motor Parkway",
-    "slug": "beenzindiangrillandbar658motorparkway",
+    "name": "Beenz Indian Grill and Bar",
+    "slug": "beenz-indian-grill-and-bar",
     "category": "indian",
     "metros": [
       "pittsburgh"
@@ -2111,8 +2111,8 @@
     "websiteOrderUrl": "https://www.gloriafood.com/wordpress-restaurant-plugin"
   },
   {
-    "name": "Turkish Grille Catering in Pittsburgh, PA - 272 Melwood Ave",
-    "slug": "turkishgrillecateringinpittsburghpa-272m",
+    "name": "Turkish Grille Catering in Pittsburgh, PA",
+    "slug": "turkish-grille-catering-in-pittsburgh-pa",
     "category": "restaurant",
     "metros": [
       "pittsburgh"
@@ -2120,8 +2120,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/turkish-grill-3"
   },
   {
-    "name": "Applebee's Catering in Pittsburgh, PA - 1601 S Braddock Ave",
-    "slug": "applebeescateringinpittsburghpa-1601sbra",
+    "name": "Applebee's Catering in Pittsburgh, PA",
+    "slug": "applebee-s-catering-in-pittsburgh-pa",
     "category": "restaurant",
     "metros": [
       "pittsburgh"
@@ -2129,8 +2129,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/applebees-pittsburgh"
   },
   {
-    "name": "Gaetano's Catering in Pittsburgh, PA - 1617 Banksville Rd",
-    "slug": "gaetanoscateringinpittsburghpa-1617banks",
+    "name": "Gaetano's Catering in Pittsburgh, PA",
+    "slug": "gaetano-s-catering-in-pittsburgh-pa",
     "category": "restaurant",
     "metros": [
       "pittsburgh"
@@ -2138,8 +2138,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/gaetanos-catering-3"
   },
   {
-    "name": "Subway Catering in Pittsburgh, PA - 418 S Craig St",
-    "slug": "subwaycateringinpittsburghpa-418scraigst",
+    "name": "Subway Catering in Pittsburgh, PA",
+    "slug": "subway-catering-in-pittsburgh-pa",
     "category": "deli",
     "metros": [
       "pittsburgh"
@@ -2147,8 +2147,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/subway-pittsburgh-s-craig-st"
   },
   {
-    "name": "Uptown Kitchen Catering in Pittsburgh, PA - 1710 Forbes Ave",
-    "slug": "uptownkitchencateringinpittsburghpa-1710",
+    "name": "Uptown Kitchen Catering in Pittsburgh, PA",
+    "slug": "uptown-kitchen-catering-in-pittsburgh-pa",
     "category": "restaurant",
     "metros": [
       "pittsburgh"
@@ -2156,8 +2156,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/uptown-kitchen-pa-3"
   },
   {
-    "name": "Subway Catering in Pittsburgh, PA - 971 Ohio River Blvd",
-    "slug": "subwaycateringinpittsburghpa-971ohiorive",
+    "name": "Subway Catering in Pittsburgh, PA",
+    "slug": "subway-catering-in-pittsburgh-pa",
     "category": "deli",
     "metros": [
       "pittsburgh"
@@ -2174,8 +2174,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering-partner/bjs-restaurant-and-brewhouse-upper-st-clair"
   },
   {
-    "name": "Subway Catering in Pittsburgh, PA - 809 W View Park Dr",
-    "slug": "subwaycateringinpittsburghpa-809wviewpar",
+    "name": "Subway Catering in Pittsburgh, PA",
+    "slug": "subway-catering-in-pittsburgh-pa",
     "category": "deli",
     "metros": [
       "pittsburgh"
@@ -2183,8 +2183,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/subway-pittsburgh-w-view-park-dr"
   },
   {
-    "name": "SoFresh Catering in Pittsburgh, PA - 177 S Highland Ave",
-    "slug": "sofreshcateringinpittsburghpa-177shighla",
+    "name": "SoFresh Catering in Pittsburgh, PA",
+    "slug": "sofresh-catering-in-pittsburgh-pa",
     "category": "restaurant",
     "metros": [
       "pittsburgh"
@@ -2192,8 +2192,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/sofresh-pittsburgh-s-highland-ave"
   },
   {
-    "name": "7 Senses Catering in Pittsburgh, PA - 531 N Homewood Ave",
-    "slug": "7sensescateringinpittsburghpa-531nhomewo",
+    "name": "7 Senses Catering in Pittsburgh, PA",
+    "slug": "7-senses-catering-in-pittsburgh-pa",
     "category": "restaurant",
     "metros": [
       "pittsburgh"
@@ -2201,8 +2201,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/7-senses-catering-pittsburgh"
   },
   {
-    "name": "Zen Ramen & Poke 977 Freeport Road Pittsburgh, PA 15238",
-    "slug": "zenramenpoke977freeportroadpittsburghpa1",
+    "name": "Zen Ramen & Poke",
+    "slug": "zen-ramen-poke",
     "category": "japanese",
     "metros": [
       "pittsburgh"
@@ -2237,8 +2237,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-og-downtown-161-se-1st-street"
   },
   {
-    "name": "Poke Burri - Philadelphia",
-    "slug": "pokeburri-philadelphia",
+    "name": "Poke Burri",
+    "slug": "poke-burri",
     "category": "japanese",
     "metros": [
       "pittsburgh"
@@ -2246,8 +2246,8 @@
     "toastUrl": "https://order.toasttab.com/online/konkol-llc-255-south-10th-st-1-fl"
   },
   {
-    "name": "Poke Burri 3231 powelton ave",
-    "slug": "pokeburri3231poweltonave",
+    "name": "Poke Burri",
+    "slug": "poke-burri",
     "category": "japanese",
     "metros": [
       "pittsburgh"
@@ -2291,8 +2291,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-row-2735-nw-crossing-dr-105"
   },
   {
-    "name": "Poke Dot 17921 MacArthur Blvd",
-    "slug": "pokedot17921macarthurblvd",
+    "name": "Poke Dot",
+    "slug": "poke-dot",
     "category": "japanese",
     "metros": [
       "pittsburgh"
@@ -2336,8 +2336,8 @@
     "toastUrl": "https://order.toasttab.com/online/pokebunnyllc"
   },
   {
-    "name": "The Ono Poke - Summit 325 Summit Boulevard",
-    "slug": "theonopoke-summit325summitboulevard",
+    "name": "The Ono Poke - Summit",
+    "slug": "the-ono-poke-summit",
     "category": "japanese",
     "metros": [
       "pittsburgh"
@@ -2390,8 +2390,8 @@
     "toastUrl": "https://order.toasttab.com/online/piato-greek-kitchen-173-south-riverside-avenue"
   },
   {
-    "name": "The Greek Pizzeria -----3400 Clairmont Rd",
-    "slug": "thegreekpizzeria-----3400clairmontrd",
+    "name": "The Greek Pizzeria --",
+    "slug": "the-greek-pizzeria",
     "category": "pizza",
     "metros": [
       "pittsburgh"
@@ -2399,8 +2399,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-greek-pizzeria-3400-clairmont-rd"
   },
   {
-    "name": "Opa Greek Yeeros 378 Highland Ave",
-    "slug": "opagreekyeeros378highlandave",
+    "name": "Opa Greek Yeeros",
+    "slug": "opa-greek-yeeros",
     "category": "mediterranean",
     "metros": [
       "pittsburgh"
@@ -2417,8 +2417,8 @@
     "toastUrl": "https://order.toasttab.com/online/grilla-224-broadway"
   },
   {
-    "name": "The Greek Taverna 1903 Staples Mill Rd",
-    "slug": "thegreektaverna1903staplesmillrd",
+    "name": "The Greek Taverna",
+    "slug": "the-greek-taverna",
     "category": "mediterranean",
     "metros": [
       "pittsburgh"
@@ -2444,8 +2444,8 @@
     "toastUrl": "https://order.toasttab.com/online/just-greek-142-south-livingston-avenue"
   },
   {
-    "name": "The Greek Corner 2366 Massachusetts Avenue",
-    "slug": "thegreekcorner2366massachusettsavenue",
+    "name": "The Greek Corner",
+    "slug": "the-greek-corner",
     "category": "mediterranean",
     "metros": [
       "pittsburgh"
@@ -2453,8 +2453,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-greek-corner-2366-massachusetts-avenue"
   },
   {
-    "name": "simply greek 44 Centennial Drive",
-    "slug": "simplygreek44centennialdrive",
+    "name": "simply greek",
+    "slug": "simply-greek",
     "category": "mediterranean",
     "metros": [
       "pittsburgh"
@@ -2588,8 +2588,8 @@
     "toastUrl": "https://order.toasttab.com/online/hellojuicesmoothies-stl"
   },
   {
-    "name": "Juice World 89 Passaic St",
-    "slug": "juiceworld89passaicst",
+    "name": "Juice World",
+    "slug": "juice-world",
     "category": "juice",
     "metros": [
       "pittsburgh"
@@ -2624,8 +2624,8 @@
     "toastUrl": "https://order.toasttab.com/online/juice-it-13th-ave-s-4302-13th-ave-s"
   },
   {
-    "name": "Pressed Juice Bar 19550 Grand River Avenue",
-    "slug": "pressedjuicebar19550grandriveravenue",
+    "name": "Pressed Juice Bar",
+    "slug": "pressed-juice-bar",
     "category": "juice",
     "metros": [
       "pittsburgh"

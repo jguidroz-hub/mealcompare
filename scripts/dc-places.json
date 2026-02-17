@@ -26,8 +26,8 @@
     "toastUrl": "https://order.toasttab.com/online/stepintothesidedoor"
   },
   {
-    "name": "90 Second Pizza - Georgetown 1077 Wisconsin Ave NW",
-    "slug": "90secondpizza-georgetown1077wisconsinave",
+    "name": "90 Second Pizza 1077 Wisconsin Avenue Nw",
+    "slug": "90-second-pizza-1077-wisconsin-avenue-nw",
     "category": "pizza",
     "metros": [
       "dc"
@@ -80,8 +80,8 @@
     "toastUrl": "https://order.toasttab.com/online/nicks-pizza-223-upshur-st-nw"
   },
   {
-    "name": "90 Second Pizza - U Street 1408 U St NW",
-    "slug": "90secondpizza-ustreet1408ustnw",
+    "name": "90 Second Pizza U Street",
+    "slug": "90-second-pizza-u-street",
     "category": "pizza",
     "metros": [
       "dc"
@@ -134,8 +134,8 @@
     "toastUrl": "https://order.toasttab.com/online/station-4-dc-1101-4th-street-southwest"
   },
   {
-    "name": "Slice Pizza House ( Kabylo's ) 153 N Washington St",
-    "slug": "slicepizzahousekabylos153nwashingtonst",
+    "name": "Slice Pizza House ( Kabylo's )",
+    "slug": "slice-pizza-house-kabylo-s",
     "category": "pizza",
     "metros": [
       "dc"
@@ -170,8 +170,8 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/3639/locations"
   },
   {
-    "name": "Immigrant Food @ Ballston 4245 N Fairfax Drive",
-    "slug": "immigrantfoodballston4245nfairfaxdrive",
+    "name": "Immigrant Food @ Ballston",
+    "slug": "immigrant-food-ballston",
     "category": "restaurant",
     "metros": [
       "dc"
@@ -539,8 +539,8 @@
     "toastUrl": "https://order.toasttab.com/online/rootgeorgetown"
   },
   {
-    "name": "Red State BBQ 4020 Georgetown Road",
-    "slug": "redstatebbq4020georgetownroad",
+    "name": "Red State BBQ",
+    "slug": "red-state-bbq",
     "category": "bbq",
     "metros": [
       "dc"
@@ -575,8 +575,8 @@
     "toastUrl": "https://order.toasttab.com/online/georgetown-pizza-arcade-5513-airport-way-south"
   },
   {
-    "name": "Country Boy Brewing- Georgetown 101 Innovation Way",
-    "slug": "countryboybrewing-georgetown101innovatio",
+    "name": "Country Boy Brewing- Georgetown",
+    "slug": "country-boy-brewing-georgetown",
     "category": "cafe",
     "metros": [
       "dc"
@@ -629,8 +629,8 @@
     "toastUrl": "https://order.toasttab.com/online/georgetown-bagelry"
   },
   {
-    "name": "812 Pizza Company Georgetown",
-    "slug": "812pizzacompanygeorgetown",
+    "name": "812 Pizza Company",
+    "slug": "812-pizza-company",
     "category": "pizza",
     "metros": [
       "dc"
@@ -764,8 +764,8 @@
     "toastUrl": "https://order.toasttab.com/online/eve-on-adams-101-s-adams-st"
   },
   {
-    "name": "Adams Ribs East 921 Chesapeake Avenue",
-    "slug": "adamsribseast921chesapeakeavenue",
+    "name": "Adams Ribs East",
+    "slug": "adams-ribs-east",
     "category": "restaurant",
     "metros": [
       "dc"
@@ -782,8 +782,8 @@
     "toastUrl": "https://order.toasttab.com/online/frescovelocemsfh"
   },
   {
-    "name": "ADAMS FAMILY PHARMACY 98 Peachtree St",
-    "slug": "adamsfamilypharmacy98peachtreest",
+    "name": "ADAMS FAMILY PHARMACY",
+    "slug": "adams-family-pharmacy",
     "category": "restaurant",
     "metros": [
       "dc"
@@ -926,8 +926,8 @@
     "toastUrl": "https://order.toasttab.com/online/untruckd"
   },
   {
-    "name": "Union Sandwich Co. 101 North Union Street",
-    "slug": "unionsandwichco101northunionstreet",
+    "name": "Union Sandwich Co.",
+    "slug": "union-sandwich-co",
     "category": "deli",
     "metros": [
       "dc"
@@ -1034,8 +1034,8 @@
     "toastUrl": "https://order.toasttab.com/online/food-on-the-run-2-new-130-east-51st-street"
   },
   {
-    "name": "Ruta 52 food & more 2505 OLD NORCROSS RD SUITE B",
-    "slug": "ruta52foodmore2505oldnorcrossrdsuiteb",
+    "name": "Ruta 52 food & more",
+    "slug": "ruta-52-food-more",
     "category": "restaurant",
     "metros": [
       "dc"
@@ -1043,8 +1043,8 @@
     "toastUrl": "https://order.toasttab.com/online/ruta-52-food"
   },
   {
-    "name": "Miriam Street Food - Park Slope 81 5TH AVE",
-    "slug": "miriamstreetfood-parkslope815thave",
+    "name": "Miriam Street Food - Park Slope",
+    "slug": "miriam-street-food-park-slope",
     "category": "restaurant",
     "metros": [
       "dc"
@@ -1088,8 +1088,8 @@
     "toastUrl": "https://order.toasttab.com/online/rosedale-4465-connecticut-ave-nw"
   },
   {
-    "name": "Hook & Reel Cajun Seafood and Bar 1033 - Washington DC",
-    "slug": "hookreelcajunseafoodandbar1033-washingto",
+    "name": "Hook & Reel Cajun Seafood and Bar 1033",
+    "slug": "hook-reel-cajun-seafood-and-bar-1033",
     "category": "seafood",
     "metros": [
       "dc"
@@ -1151,8 +1151,8 @@
     "toastUrl": "https://order.toasttab.com/online/redrocks-columbia-heights"
   },
   {
-    "name": "Cuba Libre - Washington DC",
-    "slug": "cubalibre-washingtondc",
+    "name": "Cuba Libre",
+    "slug": "cuba-libre",
     "category": "restaurant",
     "metros": [
       "dc"
@@ -1205,8 +1205,8 @@
     "toastUrl": "https://order.toasttab.com/online/jaleo-dc"
   },
   {
-    "name": "El Vaquero West Haymarket 14910 Washington Street",
-    "slug": "elvaquerowesthaymarket14910washingtonstr",
+    "name": "El Vaquero West Haymarket",
+    "slug": "el-vaquero-west-haymarket",
     "category": "restaurant",
     "metros": [
       "dc"
@@ -1952,8 +1952,8 @@
     "toastUrl": "https://order.toasttab.com/online/pokecafewestashley"
   },
   {
-    "name": "Poke-City Cambridge 1722 Massachusetts Avenue",
-    "slug": "poke-citycambridge1722massachusettsavenu",
+    "name": "Poke-City Cambridge",
+    "slug": "poke-city-cambridge",
     "category": "japanese",
     "metros": [
       "dc"
@@ -1997,8 +1997,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-poke-west-loop-1100-w-madison"
   },
   {
-    "name": "Poke Sushi 1720 Washington Road",
-    "slug": "pokesushi1720washingtonroad",
+    "name": "Poke Sushi",
+    "slug": "poke-sushi",
     "category": "japanese",
     "metros": [
       "dc"
@@ -2006,8 +2006,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-sushi-1720-washington-road"
   },
   {
-    "name": "The Ono Poke - Summit 325 Summit Boulevard",
-    "slug": "theonopoke-summit325summitboulevard",
+    "name": "The Ono Poke - Summit",
+    "slug": "the-ono-poke-summit",
     "category": "japanese",
     "metros": [
       "dc"
@@ -2024,8 +2024,8 @@
     "toastUrl": "https://order.toasttab.com/online/manoapoke"
   },
   {
-    "name": "Hawaii Poke Bowl - West St. Paul 1375 South Robert Street",
-    "slug": "hawaiipokebowl-weststpaul1375southrobert",
+    "name": "Hawaii Poke Bowl - West St. Paul",
+    "slug": "hawaii-poke-bowl-west-st-paul",
     "category": "japanese",
     "metros": [
       "dc"
@@ -2051,8 +2051,8 @@
     "toastUrl": "https://order.toasttab.com/online/miss-toyas-southern-bar-se-new"
   },
   {
-    "name": "Sea's Bounty Seafood & Chicken 117 N Washington Hwy",
-    "slug": "seasbountyseafoodchicken117nwashingtonhw",
+    "name": "Sea's Bounty Seafood & Chicken",
+    "slug": "sea-s-bounty-seafood-chicken",
     "category": "seafood",
     "metros": [
       "dc"
@@ -2078,8 +2078,8 @@
     "toastUrl": "https://order.toasttab.com/online/aladc"
   },
   {
-    "name": "The Greek Corner 2366 Massachusetts Avenue",
-    "slug": "thegreekcorner2366massachusettsavenue",
+    "name": "The Greek Corner",
+    "slug": "the-greek-corner",
     "category": "mediterranean",
     "metros": [
       "dc"
@@ -2177,8 +2177,8 @@
     "toastUrl": "https://order.toasttab.com/online/hello-juice-smoothie-kirkwood"
   },
   {
-    "name": "Juice World 89 Passaic St",
-    "slug": "juiceworld89passaicst",
+    "name": "Juice World",
+    "slug": "juice-world",
     "category": "juice",
     "metros": [
       "dc"
@@ -2213,8 +2213,8 @@
     "toastUrl": "https://order.toasttab.com/online/juice-for-life-new-hyde-park"
   },
   {
-    "name": "Awake Juice Bar - Apple Valley 18855 Bear Valley Rd",
-    "slug": "awakejuicebar-applevalley18855bearvalley",
+    "name": "Awake Juice Bar - Apple Valley",
+    "slug": "awake-juice-bar-apple-valley",
     "category": "juice",
     "metros": [
       "dc"
@@ -2258,8 +2258,8 @@
     "toastUrl": "https://order.toasttab.com/online/blended-health-smoothie-bar-950-harlem-ave"
   },
   {
-    "name": "Pressed Juice Bar 19550 Grand River Avenue",
-    "slug": "pressedjuicebar19550grandriveravenue",
+    "name": "Pressed Juice Bar",
+    "slug": "pressed-juice-bar",
     "category": "juice",
     "metros": [
       "dc"

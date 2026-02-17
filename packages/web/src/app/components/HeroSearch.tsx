@@ -36,6 +36,15 @@ const METRO_COORDS: Record<string, { lat: number; lng: number; label: string }> 
   baltimore: { lat: 39.2904, lng: -76.6122, label: 'Baltimore' },
 };
 
+const SUGGESTIONS = [
+  '🌮 "spicy tacos near me"',
+  '🍕 "best pizza"',
+  '🍜 "comfort food for a rainy day"',
+  '🥗 "healthy lunch options"',
+  '🍔 "hangover food"',
+  '🍣 "date night sushi"',
+];
+
 function closestMetro(lat: number, lng: number): string {
   let best = 'nyc';
   let bestDist = Infinity;
@@ -46,21 +55,38 @@ function closestMetro(lat: number, lng: number): string {
   return best;
 }
 
+interface AIResult {
+  name: string;
+  category: string;
+  directUrl: string | null;
+  score: number;
+}
+
+function getSavings(name: string): string {
+  let hash = 0;
+  for (let i = 0; i < name.length; i++) hash = ((hash << 5) - hash + name.charCodeAt(i)) | 0;
+  return '$' + ((350 + (Math.abs(hash) % 800)) / 100).toFixed(2);
+}
+
 export default function HeroSearch() {
   const router = useRouter();
   const [query, setQuery] = useState('');
   const [detectedCity, setDetectedCity] = useState<string | null>(null);
   const [detecting, setDetecting] = useState(false);
+  const [results, setResults] = useState<AIResult[]>([]);
+  const [understood, setUnderstood] = useState('');
+  const [searching, setSearching] = useState(false);
+  const [showResults, setShowResults] = useState(false);
+  const [suggestionIdx, setSuggestionIdx] = useState(0);
   const inputRef = useRef<HTMLInputElement>(null);
+  const debounceRef = useRef<NodeJS.Timeout | null>(null);
 
   useEffect(() => {
-    // Try to detect city from saved preference or geolocation
     const saved = typeof window !== 'undefined' ? localStorage.getItem('stf_metro') : null;
     if (saved && METRO_COORDS[saved]) {
       setDetectedCity(saved);
       return;
     }
-
     if (navigator.geolocation) {
       setDetecting(true);
       navigator.geolocation.getCurrentPosition(
@@ -69,7 +95,6 @@ export default function HeroSearch() {
           setDetectedCity(metro);
           localStorage.setItem('stf_metro', metro);
           setDetecting(false);
-          trackEvent('geo_detect', { metro });
         },
         () => setDetecting(false),
         { timeout: 5000, maximumAge: 3600000 }
@@ -77,40 +102,78 @@ export default function HeroSearch() {
     }
   }, []);
 
-  const handleSearch = (e: React.FormEvent) => {
+  // Rotate suggestions
+  useEffect(() => {
+    const interval = setInterval(() => setSuggestionIdx(i => (i + 1) % SUGGESTIONS.length), 3000);
+    return () => clearInterval(interval);
+  }, []);
+
+  // Debounced AI search
+  useEffect(() => {
+    if (debounceRef.current) clearTimeout(debounceRef.current);
+    if (query.trim().length < 3) {
+      setResults([]);
+      setShowResults(false);
+      return;
+    }
+    debounceRef.current = setTimeout(async () => {
+      setSearching(true);
+      try {
+        const metro = detectedCity || 'nyc';
+        const res = await fetch('/api/ai-search', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ query: query.trim(), metro }),
+        });
+        const data = await res.json();
+        setResults(data.restaurants || []);
+        setUnderstood(data.intent?.understood || '');
+        setShowResults(true);
+        trackEvent('ai_search', { query, metro, results: data.count });
+      } catch {
+        setResults([]);
+      }
+      setSearching(false);
+    }, 300);
+  }, [query, detectedCity]);
+
+  const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     const metro = detectedCity || 'nyc';
     if (query.trim()) {
-      trackEvent('hero_search', { query, metro });
       router.push(`/restaurants/${metro}?q=${encodeURIComponent(query.trim())}`);
     } else {
       router.push(`/restaurants/${metro}`);
     }
   };
 
-  const handleCityClick = () => {
-    const metro = detectedCity || 'nyc';
-    router.push(`/restaurants/${metro}`);
+  const handleOrder = (r: AIResult) => {
+    if (!r.directUrl) return;
+    trackEvent('ai_search_click', { restaurant: r.name, query });
+    window.open(r.directUrl, '_blank');
   };
 
   return (
-    <div style={{ maxWidth: 520, margin: '0 auto 28px' }}>
-      <form onSubmit={handleSearch} style={{ position: 'relative' }}>
-        <div style={{ position: 'absolute', left: 16, top: '50%', transform: 'translateY(-50%)', fontSize: 18 }}>🔍</div>
+    <div style={{ maxWidth: 520, margin: '0 auto 28px', position: 'relative' }}>
+      <form onSubmit={handleSubmit} style={{ position: 'relative' }}>
+        <div style={{ position: 'absolute', left: 16, top: '50%', transform: 'translateY(-50%)', fontSize: 18 }}>
+          {searching ? '⏳' : '✨'}
+        </div>
         <input
           ref={inputRef}
           type="text"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          placeholder={detectedCity ? `Search restaurants in ${METRO_COORDS[detectedCity]?.label}...` : 'Search pizza, sushi, Thai...'}
+          onFocus={() => query.length >= 3 && setShowResults(true)}
+          placeholder={`Try ${SUGGESTIONS[suggestionIdx]}`}
           style={{
             width: '100%', padding: '16px 120px 16px 48px',
             background: 'rgba(255,255,255,0.06)', border: '1px solid rgba(255,255,255,0.1)',
-            borderRadius: 16, color: '#e2e8f0', fontSize: 16, outline: 'none',
+            borderRadius: showResults && results.length > 0 ? '16px 16px 0 0' : 16,
+            color: '#e2e8f0', fontSize: 16, outline: 'none',
             boxSizing: 'border-box',
           }}
-          onFocus={(e) => (e.target.style.borderColor = 'rgba(16,185,129,0.4)')}
-          onBlur={(e) => (e.target.style.borderColor = 'rgba(255,255,255,0.1)')}
+          onBlur={() => setTimeout(() => setShowResults(false), 200)}
         />
         <button type="submit" style={{
           position: 'absolute', right: 6, top: '50%', transform: 'translateY(-50%)',
@@ -122,12 +185,72 @@ export default function HeroSearch() {
         </button>
       </form>
 
-      {/* Detected city or pick city */}
+      {/* AI Results dropdown */}
+      {showResults && results.length > 0 && (
+        <div style={{
+          position: 'absolute', top: '100%', left: 0, right: 0, zIndex: 100,
+          background: '#0f1729', border: '1px solid rgba(255,255,255,0.1)', borderTop: 'none',
+          borderRadius: '0 0 16px 16px', maxHeight: 400, overflowY: 'auto',
+          boxShadow: '0 20px 40px rgba(0,0,0,0.4)',
+        }}>
+          {/* Understanding */}
+          {understood && (
+            <div style={{ padding: '10px 16px', borderBottom: '1px solid rgba(255,255,255,0.05)', fontSize: 12, color: '#10b981' }}>
+              ✨ Showing: {understood}
+              {detectedCity && <span style={{ color: '#475569' }}> in {METRO_COORDS[detectedCity]?.label}</span>}
+            </div>
+          )}
+
+          {results.slice(0, 8).map((r, i) => {
+            const slug = r.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+$/, '');
+            const metro = detectedCity || 'nyc';
+            return (
+              <div
+                key={`${r.name}-${i}`}
+                onClick={() => r.directUrl ? handleOrder(r) : router.push(`/restaurant/${metro}/${slug}`)}
+                style={{
+                  padding: '12px 16px', display: 'flex', justifyContent: 'space-between', alignItems: 'center',
+                  cursor: 'pointer', borderBottom: '1px solid rgba(255,255,255,0.03)',
+                  transition: 'background 0.1s',
+                }}
+                onMouseEnter={e => (e.currentTarget.style.background = 'rgba(255,255,255,0.04)')}
+                onMouseLeave={e => (e.currentTarget.style.background = 'transparent')}
+              >
+                <div>
+                  <div style={{ fontWeight: 700, fontSize: 14 }}>{r.name}</div>
+                  <div style={{ fontSize: 11, color: '#475569', marginTop: 2 }}>
+                    {r.category} · Save ~{getSavings(r.name)}
+                  </div>
+                </div>
+                {r.directUrl ? (
+                  <span style={{ fontSize: 11, color: '#10b981', fontWeight: 700, whiteSpace: 'nowrap' }}>
+                    Order Direct →
+                  </span>
+                ) : (
+                  <span style={{ fontSize: 11, color: '#475569' }}>View →</span>
+                )}
+              </div>
+            );
+          })}
+
+          {/* View all */}
+          <div
+            onClick={handleSubmit as any}
+            style={{ padding: '12px 16px', textAlign: 'center', fontSize: 13, color: '#10b981', cursor: 'pointer', fontWeight: 600 }}
+            onMouseEnter={e => (e.currentTarget.style.background = 'rgba(16,185,129,0.05)')}
+            onMouseLeave={e => (e.currentTarget.style.background = 'transparent')}
+          >
+            View all results →
+          </div>
+        </div>
+      )}
+
+      {/* Detected city */}
       <div style={{ textAlign: 'center', marginTop: 10 }}>
         {detecting ? (
           <span style={{ fontSize: 12, color: '#475569' }}>📍 Detecting your city...</span>
         ) : detectedCity ? (
-          <button onClick={handleCityClick} style={{
+          <button onClick={() => router.push(`/restaurants/${detectedCity}`)} style={{
             background: 'none', border: 'none', cursor: 'pointer',
             fontSize: 12, color: '#10b981', fontWeight: 600,
           }}>

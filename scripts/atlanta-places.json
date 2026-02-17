@@ -33,8 +33,8 @@
     "website": "http://www.marymacs.com/"
   },
   {
-    "name": "Sugar Factory American Brasserie - Atlanta",
-    "slug": "sugarfactoryamericanbrasserie-atlanta",
+    "name": "Sugar Factory American Brasserie",
+    "slug": "sugar-factory-american-brasserie",
     "category": "restaurant",
     "metros": [
       "atlanta"
@@ -658,8 +658,8 @@
     "toastUrl": "https://order.toasttab.com/online/grant-central-east-1279-glenwood-avenue-se"
   },
   {
-    "name": "Zucca Bar & Pizza ZUCCA 2860 Atlanta Rd",
-    "slug": "zuccabarpizzazucca2860atlantard",
+    "name": "Zucca Bar & Pizza ZUCCA",
+    "slug": "zucca-bar-pizza-zucca",
     "category": "pizza",
     "metros": [
       "atlanta"
@@ -667,8 +667,8 @@
     "toastUrl": "https://order.toasttab.com/online/zucca-pizza-2860-atlanta-rd"
   },
   {
-    "name": "Pizza Valley - East Point 3061 Washington Rd",
-    "slug": "pizzavalley-eastpoint3061washingtonrd",
+    "name": "Pizza Valley - East Point",
+    "slug": "pizza-valley-east-point",
     "category": "pizza",
     "metros": [
       "atlanta"
@@ -757,8 +757,8 @@
     "toastUrl": "https://order.toasttab.com/online/glidepizzadecatur"
   },
   {
-    "name": "The Pizza Place 8544 south marcus St",
-    "slug": "thepizzaplace8544southmarcusst",
+    "name": "The Pizza Place",
+    "slug": "the-pizza-place",
     "category": "pizza",
     "metros": [
       "atlanta"
@@ -793,8 +793,8 @@
     "toastUrl": "https://order.toasttab.com/online/no-mas-cantina"
   },
   {
-    "name": "Nakato Japanese Restaurant - Atlanta",
-    "slug": "nakatojapaneserestaurant-atlanta",
+    "name": "Nakato Japanese Restaurant",
+    "slug": "nakato-japanese-restaurant",
     "category": "japanese",
     "metros": [
       "atlanta"
@@ -829,8 +829,8 @@
     "toastUrl": "https://order.toasttab.com/online/nrbatl"
   },
   {
-    "name": "Indi Fresh 2770 Atlanta Hwy Suite 100",
-    "slug": "indifresh2770atlantahwysuite100",
+    "name": "Indi Fresh",
+    "slug": "indi-fresh",
     "category": "restaurant",
     "metros": [
       "atlanta"
@@ -856,8 +856,8 @@
     "toastUrl": "https://order.toasttab.com/online/busy-bee-cafe-atlanta-810-martin-luther-king-drive-sw"
   },
   {
-    "name": "Cafe On 8th 226 8th Street, Augusta GA 30901",
-    "slug": "cafeon8th2268thstreetaugustaga30901",
+    "name": "Cafe On 8th 226 8th Street, Augusta GA",
+    "slug": "cafe-on-8th-226-8th-street-augusta-ga",
     "category": "cafe",
     "metros": [
       "atlanta"
@@ -919,8 +919,8 @@
     "toastUrl": "https://order.toasttab.com/online/brass-taps-atlanta"
   },
   {
-    "name": "170 - K+K Atlanta",
-    "slug": "170-kkatlanta",
+    "name": "Kitchen Kocktails Atlanta",
+    "slug": "kitchen-kocktails-atlanta",
     "category": "restaurant",
     "metros": [
       "atlanta"
@@ -1018,8 +1018,8 @@
     "toastUrl": "https://order.toasttab.com/online/rina"
   },
   {
-    "name": "Old Louisville Tavern 1532 S 4th St",
-    "slug": "oldlouisvilletavern1532s4thst",
+    "name": "Old Louisville Tavern",
+    "slug": "old-louisville-tavern",
     "category": "restaurant",
     "metros": [
       "atlanta"
@@ -1045,8 +1045,8 @@
     "toastUrl": "https://order.toasttab.com/online/stassis"
   },
   {
-    "name": "First Ward House 2101 St Joseph Ave",
-    "slug": "firstwardhouse2101stjosephave",
+    "name": "First Ward House",
+    "slug": "first-ward-house",
     "category": "restaurant",
     "metros": [
       "atlanta"
@@ -1117,8 +1117,8 @@
     "toastUrl": "https://order.toasttab.com/online/deallosseafood"
   },
   {
-    "name": "Ikhlas Seafood and Pastries 871 Cleveland Ave",
-    "slug": "ikhlasseafoodandpastries871clevelandave",
+    "name": "Ikhlas Seafood and Pastries",
+    "slug": "ikhlas-seafood-and-pastries",
     "category": "seafood",
     "metros": [
       "atlanta"
@@ -1126,8 +1126,8 @@
     "toastUrl": "https://order.toasttab.com/online/ikhlas-seafood-871-cleveland-ave"
   },
   {
-    "name": "880 Martin Luther King Junior Drive Southwest, Atlanta, GA",
-    "slug": "880martinlutherkingjuniordrivesouthwesta",
+    "name": "The Seafood Menu 880 Martin Luther King Junior Drive Southwest",
+    "slug": "the-seafood-menu-880-martin-luther-king-junior-drive-southwest",
     "category": "restaurant",
     "metros": [
       "atlanta"
@@ -1171,8 +1171,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-great-greek-atlanta-ga"
   },
   {
-    "name": "The Greek Pizzeria -----3400 Clairmont Rd",
-    "slug": "thegreekpizzeria-----3400clairmontrd",
+    "name": "The Greek Pizzeria --",
+    "slug": "the-greek-pizzeria",
     "category": "pizza",
     "metros": [
       "atlanta"
@@ -1207,8 +1207,8 @@
     "toastUrl": "https://order.toasttab.com/online/giorgiosgreekcafe"
   },
   {
-    "name": "Opa Greek Yeeros 378 Highland Ave",
-    "slug": "opagreekyeeros378highlandave",
+    "name": "Opa Greek Yeeros",
+    "slug": "opa-greek-yeeros",
     "category": "mediterranean",
     "metros": [
       "atlanta"
@@ -1225,8 +1225,8 @@
     "toastUrl": "https://order.toasttab.com/online/mrgreekofbuffalo"
   },
   {
-    "name": "simply greek 44 Centennial Drive",
-    "slug": "simplygreek44centennialdrive",
+    "name": "simply greek",
+    "slug": "simply-greek",
     "category": "mediterranean",
     "metros": [
       "atlanta"
@@ -1261,8 +1261,8 @@
     "toastUrl": "https://order.toasttab.com/online/eat-greek-215-elm-street"
   },
   {
-    "name": "The Greek Corner 2366 Massachusetts Avenue",
-    "slug": "thegreekcorner2366massachusettsavenue",
+    "name": "The Greek Corner",
+    "slug": "the-greek-corner",
     "category": "mediterranean",
     "metros": [
       "atlanta"
@@ -1333,8 +1333,8 @@
     "toastUrl": "https://order.toasttab.com/online/urban-wings-tbd-1825-piedmint-ave-ne"
   },
   {
-    "name": "King of Wings 7741 W 44th Ave",
-    "slug": "kingofwings7741w44thave",
+    "name": "King of Wings",
+    "slug": "king-of-wings",
     "category": "wings",
     "metros": [
       "atlanta"
@@ -1351,8 +1351,8 @@
     "toastUrl": "https://order.toasttab.com/online/bench-warmers-sports-grill-atlanta"
   },
   {
-    "name": "Sunnin Lebanese Café 1776 Westwood Blvd",
-    "slug": "sunninlebanesecaf1776westwoodblvd",
+    "name": "Sunnin Lebanese Café",
+    "slug": "sunnin-lebanese-caf",
     "category": "cafe",
     "metros": [
       "atlanta"
@@ -1669,8 +1669,8 @@
     "websiteOrderUrl": "https://fogo.olo.com/menu/fogo-de-cho-brazilian-steakhouse-24"
   },
   {
-    "name": "MrBeast Burger - 777 Oak Street Southwest",
-    "slug": "mrbeastburger-777oakstreetsouthwest",
+    "name": "MrBeast Burger",
+    "slug": "mrbeast-burger",
     "category": "burgers",
     "metros": [
       "atlanta"
@@ -1907,8 +1907,8 @@
     "websiteOrderUrl": "https://www.getbento.com/products/online-ordering/"
   },
   {
-    "name": "HOME GROWN GA INC - ATLANTA, GA",
-    "slug": "homegrowngainc-atlantaga",
+    "name": "HOME GROWN GA INC",
+    "slug": "home-grown-ga-inc",
     "category": "restaurant",
     "metros": [
       "atlanta"
@@ -1934,8 +1934,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/soul-food--culture-atlanta"
   },
   {
-    "name": "LAKESIDE CAFE - ATLANTA, GA",
-    "slug": "lakesidecafe-atlantaga",
+    "name": "LAKESIDE CAFE",
+    "slug": "lakeside-cafe",
     "category": "cafe",
     "metros": [
       "atlanta"
@@ -1943,8 +1943,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/lakeside-cafe-atlanta"
   },
   {
-    "name": "SOUL FOOD & CULTURE - ATLANTA, GA",
-    "slug": "soulfoodculture-atlantaga",
+    "name": "SOUL FOOD & CULTURE",
+    "slug": "soul-food-culture",
     "category": "southern",
     "metros": [
       "atlanta"
@@ -1952,8 +1952,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/soul-food--culture-atlanta-2"
   },
   {
-    "name": "SOUTHBOUND - ATLANTA, GA",
-    "slug": "southbound-atlantaga",
+    "name": "SOUTHBOUND",
+    "slug": "southbound",
     "category": "restaurant",
     "metros": [
       "atlanta"
@@ -1961,8 +1961,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/southbound-atlanta"
   },
   {
-    "name": "CLAIRMONT CAFE - ATLANTA, GA",
-    "slug": "clairmontcafe-atlantaga",
+    "name": "CLAIRMONT CAFE",
+    "slug": "clairmont-cafe",
     "category": "cafe",
     "metros": [
       "atlanta"
@@ -1970,8 +1970,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/clairmont-cafe-atlanta-3"
   },
   {
-    "name": "WAGAYA GROCERIES - ATLANTA, GA",
-    "slug": "wagayagroceries-atlantaga",
+    "name": "WAGAYA GROCERIES",
+    "slug": "wagaya-groceries",
     "category": "restaurant",
     "metros": [
       "atlanta"
@@ -1979,8 +1979,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/wagaya-groceries-atlanta"
   },
   {
-    "name": "Thaicoon & Sushi ATLANTA - Atlanta, GA",
-    "slug": "thaicoonsushiatlanta-atlantaga",
+    "name": "Thaicoon & Sushi ATLANTA",
+    "slug": "thaicoon-sushi-atlanta",
     "category": "japanese",
     "metros": [
       "atlanta"
@@ -1988,8 +1988,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/thaicoon--sushi-atlanta/0J0P0DBGHD1CJ"
   },
   {
-    "name": "JJ FISH & CHICKEN PRYOR - ATLANTA, GA",
-    "slug": "jjfishchickenpryor-atlantaga",
+    "name": "JJ FISH & CHICKEN PRYOR",
+    "slug": "jj-fish-chicken-pryor",
     "category": "seafood",
     "metros": [
       "atlanta"
@@ -1997,8 +1997,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/jj-fish--chicken-pryor-atlanta"
   },
   {
-    "name": "UTOPIA RESTAURANT & BAR - ATLANTA, GA",
-    "slug": "utopiarestaurantbar-atlantaga",
+    "name": "UTOPIA RESTAURANT & BAR",
+    "slug": "utopia-restaurant-bar",
     "category": "restaurant",
     "metros": [
       "atlanta"
@@ -2006,8 +2006,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/utopia-restaurant--bar-atlanta/RH942ZJ3CEWMY"
   },
   {
-    "name": "Soulbox Soulfood - ATLANTA, GA",
-    "slug": "soulboxsoulfood-atlantaga",
+    "name": "Soulbox Soulfood",
+    "slug": "soulbox-soulfood",
     "category": "restaurant",
     "metros": [
       "atlanta"
@@ -2024,8 +2024,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/-cheese-atlanta/JMJXGGH08QJ1T"
   },
   {
-    "name": "WINGS R US - ATLANTA, GA",
-    "slug": "wingsrus-atlantaga",
+    "name": "WINGS R US",
+    "slug": "wings-r-us",
     "category": "wings",
     "metros": [
       "atlanta"
@@ -2033,8 +2033,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/wings-r-us-atlanta-2"
   },
   {
-    "name": "DOMP LLC - ATLANTA, GA",
-    "slug": "dompllc-atlantaga",
+    "name": "DOMP LLC",
+    "slug": "domp-llc",
     "category": "restaurant",
     "metros": [
       "atlanta"
@@ -2042,8 +2042,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/domp-llc-atlanta"
   },
   {
-    "name": "THRILL KOREAN STEAK - ATLANTA, GA",
-    "slug": "thrillkoreansteak-atlantaga",
+    "name": "THRILL KOREAN STEAK",
+    "slug": "thrill-korean-steak",
     "category": "korean",
     "metros": [
       "atlanta"
@@ -2051,8 +2051,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/thrill-korean-steak-atlanta/5BX3BPSJ13HCG"
   },
   {
-    "name": "GYRO BROS - ATLANTA, GA",
-    "slug": "gyrobros-atlantaga",
+    "name": "GYRO BROS",
+    "slug": "gyro-bros",
     "category": "mediterranean",
     "metros": [
       "atlanta"
@@ -2114,8 +2114,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-poke-wabash-118-s-wabash-ave"
   },
   {
-    "name": "Poke Sushi 1720 Washington Road",
-    "slug": "pokesushi1720washingtonroad",
+    "name": "Poke Sushi",
+    "slug": "poke-sushi",
     "category": "japanese",
     "metros": [
       "atlanta"
@@ -2141,8 +2141,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-poke-west-loop-1100-w-madison"
   },
   {
-    "name": "Poke Burri 3231 powelton ave",
-    "slug": "pokeburri3231poweltonave",
+    "name": "Poke Burri",
+    "slug": "poke-burri",
     "category": "japanese",
     "metros": [
       "atlanta"
@@ -2195,8 +2195,8 @@
     "toastUrl": "https://order.toasttab.com/online/mammoth-poke-bowl-2-53-east-lake-street"
   },
   {
-    "name": "NEW Siesta Poke 5206 Ocean Boulevard",
-    "slug": "newsiestapoke5206oceanboulevard",
+    "name": "NEW Siesta Poke",
+    "slug": "new-siesta-poke",
     "category": "japanese",
     "metros": [
       "atlanta"
@@ -2357,8 +2357,8 @@
     "toastUrl": "https://order.toasttab.com/online/hellojuicesmoothies-stl"
   },
   {
-    "name": "Juice World 89 Passaic St",
-    "slug": "juiceworld89passaicst",
+    "name": "Juice World",
+    "slug": "juice-world",
     "category": "juice",
     "metros": [
       "atlanta"
@@ -2393,8 +2393,8 @@
     "toastUrl": "https://order.toasttab.com/online/wholesumjuicebar"
   },
   {
-    "name": "Sol Bean Juice Bar and Kitchen 221 S Main St",
-    "slug": "solbeanjuicebarandkitchen221smainst",
+    "name": "Sol Bean Juice Bar and Kitchen",
+    "slug": "sol-bean-juice-bar-and-kitchen",
     "category": "juice",
     "metros": [
       "atlanta"

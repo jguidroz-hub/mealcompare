@@ -59,8 +59,8 @@
     "website": "https://majortomdenver.com/"
   },
   {
-    "name": "Federales Tacos & Tequila - RiNo, Denver",
-    "slug": "federalestacostequila-rinodenver",
+    "name": "Federales Tacos & Tequila - RiNo",
+    "slug": "federales-tacos-tequila-rino",
     "category": "mexican",
     "metros": [
       "denver"
@@ -137,8 +137,8 @@
     "websiteOrderUrl": "https://order.online/store/24826"
   },
   {
-    "name": "The Hampton Social - Denver",
-    "slug": "thehamptonsocial-denver",
+    "name": "The Hampton Social",
+    "slug": "the-hampton-social",
     "category": "restaurant",
     "metros": [
       "denver"
@@ -240,8 +240,8 @@
     "website": "https://cherrycreekgrill.com/"
   },
   {
-    "name": "Kona Grill - Denver",
-    "slug": "konagrill-denver",
+    "name": "Kona Grill",
+    "slug": "kona-grill",
     "category": "restaurant",
     "metros": [
       "denver"
@@ -668,8 +668,8 @@
     "toastUrl": "https://order.toasttab.com/online/rosettahall"
   },
   {
-    "name": "The Sink 1165 13th StBoulder, CO 80302",
-    "slug": "thesink116513thstboulderco80302",
+    "name": "The Sink",
+    "slug": "the-sink",
     "category": "restaurant",
     "metros": [
       "denver"
@@ -686,8 +686,8 @@
     "toastUrl": "https://order.toasttab.com/online/efrains-mexican-restaurant-boulder"
   },
   {
-    "name": "Tangerine - Boulder 2777 Iris Avenue",
-    "slug": "tangerine-boulder2777irisavenue",
+    "name": "Tangerine - Boulder",
+    "slug": "tangerine-boulder",
     "category": "restaurant",
     "metros": [
       "denver"
@@ -803,8 +803,8 @@
     "toastUrl": "https://order.toasttab.com/online/hillside-pizza-boulder-1622-broadway"
   },
   {
-    "name": "Audrey Jane's Pizza Garage 2675 13th Street",
-    "slug": "audreyjanespizzagarage267513thstreet",
+    "name": "Audrey Jane's Pizza Garage",
+    "slug": "audrey-jane-s-pizza-garage",
     "category": "pizza",
     "metros": [
       "denver"
@@ -839,8 +839,8 @@
     "toastUrl": "https://order.toasttab.com/online/backcountry-pizza-tap-house-boulder-2319-arapahoe-ave"
   },
   {
-    "name": "Urban Field Pizza & Market 150 Main St",
-    "slug": "urbanfieldpizzamarket150mainst",
+    "name": "Urban Field Pizza & Market",
+    "slug": "urban-field-pizza-market",
     "category": "pizza",
     "metros": [
       "denver"
@@ -974,8 +974,8 @@
     "toastUrl": "https://order.toasttab.com/online/top-of-the-hill-restaurant-brewery"
   },
   {
-    "name": "Home Restaurant 3909 Steve Tate Highway",
-    "slug": "homerestaurant3909stevetatehighway",
+    "name": "Home Restaurant",
+    "slug": "home-restaurant",
     "category": "restaurant",
     "metros": [
       "denver"
@@ -1037,8 +1037,8 @@
     "toastUrl": "https://order.toasttab.com/online/jax-fish-house-denver"
   },
   {
-    "name": "Le Bledo Food Truck 6416 Brandon Avenue",
-    "slug": "lebledofoodtruck6416brandonavenue",
+    "name": "Le Bledo Food Truck",
+    "slug": "le-bledo-food-truck",
     "category": "restaurant",
     "metros": [
       "denver"
@@ -1064,8 +1064,8 @@
     "toastUrl": "https://order.toasttab.com/online/uncle-denver"
   },
   {
-    "name": "Highland Restaurant & Bar 2347 Oregon Pike",
-    "slug": "highlandrestaurantbar2347oregonpike",
+    "name": "Highland Restaurant & Bar",
+    "slug": "highland-restaurant-bar",
     "category": "restaurant",
     "metros": [
       "denver"
@@ -1073,8 +1073,8 @@
     "toastUrl": "https://order.toasttab.com/online/highlandrestaurantbar"
   },
   {
-    "name": "Highlands Bar & Grill 2280 Bardstown Rd",
-    "slug": "highlandsbargrill2280bardstownrd",
+    "name": "Highlands Bar & Grill",
+    "slug": "highlands-bar-grill",
     "category": "restaurant",
     "metros": [
       "denver"
@@ -1172,8 +1172,8 @@
     "toastUrl": "https://order.toasttab.com/online/louvino-highlands-1606-bardstown-rd"
   },
   {
-    "name": "Poke House - Denver",
-    "slug": "pokehouse-denver",
+    "name": "Poke House",
+    "slug": "poke-house",
     "category": "japanese",
     "metros": [
       "denver"
@@ -1190,8 +1190,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-house-denver/confirm"
   },
   {
-    "name": "Poke Me 7357 W Alaska Dr",
-    "slug": "pokeme7357walaskadr",
+    "name": "Poke Me",
+    "slug": "poke-me",
     "category": "japanese",
     "metros": [
       "denver"
@@ -1270,8 +1270,8 @@
     ]
   },
   {
-    "name": "100 Knox ct Denver CO 80219",
-    "slug": "100knoxctdenverco80219",
+    "name": "Knox Pizza And Taps",
+    "slug": "knox-pizza-and-taps",
     "category": "pizza",
     "metros": [
       "denver"
@@ -1315,8 +1315,8 @@
     "toastUrl": "https://order.toasttab.com/online/osagecafe"
   },
   {
-    "name": "Morning Story - Denver",
-    "slug": "morningstory-denver",
+    "name": "Morning Story",
+    "slug": "morning-story",
     "category": "breakfast",
     "metros": [
       "denver"
@@ -1351,8 +1351,8 @@
     "toastUrl": "https://order.toasttab.com/online/baracoa-cuban"
   },
   {
-    "name": "Zaman Mediterranean Fresh 282 South Logan Street",
-    "slug": "zamanmediterraneanfresh282southloganstre",
+    "name": "Zaman Mediterranean Fresh",
+    "slug": "zaman-mediterranean-fresh",
     "category": "mediterranean",
     "metros": [
       "denver"
@@ -1495,8 +1495,8 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/17490/25011/items"
   },
   {
-    "name": "Breakfast Inn & Dinner Too 6135 East Evans Avenue",
-    "slug": "breakfastinndinnertoo6135eastevansavenue",
+    "name": "Breakfast Inn & Dinner Too",
+    "slug": "breakfast-inn-dinner-too",
     "category": "breakfast",
     "metros": [
       "denver"
@@ -1504,8 +1504,8 @@
     "websiteOrderUrl": "https://order.online/store/breakfast-inn-&-dinner-too-denver-63165/"
   },
   {
-    "name": "Fat Shack 2041 South University Boulevard",
-    "slug": "fatshack2041southuniversityboulevard",
+    "name": "Fat Shack",
+    "slug": "fat-shack",
     "category": "restaurant",
     "metros": [
       "denver"
@@ -1999,8 +1999,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/godavari-centennial"
   },
   {
-    "name": "OMAR KHAYYAM - DENVER, CO",
-    "slug": "omarkhayyam-denverco",
+    "name": "OMAR KHAYYAM",
+    "slug": "omar-khayyam",
     "category": "restaurant",
     "metros": [
       "denver"
@@ -2008,8 +2008,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/omar-khayyam-denver"
   },
   {
-    "name": "Shish Kabob Grill (Sahtain!) - DENVER, CO",
-    "slug": "shishkabobgrillsahtain-denverco",
+    "name": "Shish Kabob Grill (Sahtain!)",
+    "slug": "shish-kabob-grill-sahtain",
     "category": "restaurant",
     "metros": [
       "denver"
@@ -2017,8 +2017,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/shish-kabob-grill-denver"
   },
   {
-    "name": "GAIA MASALA & BURGER LODO LOCATION - DENVER, CO",
-    "slug": "gaiamasalaburgerlodolocation-denverco",
+    "name": "GAIA MASALA & BURGER LODO LOCATION",
+    "slug": "gaia-masala-burger-lodo-location",
     "category": "indian",
     "metros": [
       "denver"
@@ -2026,8 +2026,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/LoDO"
   },
   {
-    "name": "COM NAHA KITCHEN & BARL - DENVER, CO",
-    "slug": "comnahakitchenbarl-denverco",
+    "name": "COM NAHA KITCHEN & BARL",
+    "slug": "com-naha-kitchen-barl",
     "category": "restaurant",
     "metros": [
       "denver"
@@ -2035,8 +2035,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/com-nha-kitchen-and-bar-denver"
   },
   {
-    "name": "TABLE PUBLIC HOUSE - DENVER, CO",
-    "slug": "tablepublichouse-denverco",
+    "name": "TABLE PUBLIC HOUSE",
+    "slug": "table-public-house",
     "category": "restaurant",
     "metros": [
       "denver"
@@ -2044,8 +2044,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/table-public-house-denver"
   },
   {
-    "name": "LA GAVIOTA MEXICAN RESTAURANT - DENVER, CO",
-    "slug": "lagaviotamexicanrestaurant-denverco",
+    "name": "LA GAVIOTA MEXICAN RESTAURANT",
+    "slug": "la-gaviota-mexican-restaurant",
     "category": "mexican",
     "metros": [
       "denver"
@@ -2053,8 +2053,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/la-gaviota-mexican-restaurant-denver"
   },
   {
-    "name": "GAIA MASALA & BURGER - DENVER, CO",
-    "slug": "gaiamasalaburger-denverco",
+    "name": "GAIA MASALA & BURGER",
+    "slug": "gaia-masala-burger",
     "category": "indian",
     "metros": [
       "denver"
@@ -2062,8 +2062,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/gaia-masala--burger-denver"
   },
   {
-    "name": "CARLOS KITCHEN - DENVER, CO",
-    "slug": "carloskitchen-denverco",
+    "name": "CARLOS KITCHEN",
+    "slug": "carlos-kitchen",
     "category": "restaurant",
     "metros": [
       "denver"
@@ -2071,8 +2071,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/carlos-kitchen-denver"
   },
   {
-    "name": "TEA STREET DENVER - DENVER, CO",
-    "slug": "teastreetdenver-denverco",
+    "name": "TEA STREET DENVER",
+    "slug": "tea-street-denver",
     "category": "tea",
     "metros": [
       "denver"
@@ -2089,8 +2089,8 @@
     "websiteOrderUrl": "https://merchantservices.clover.com/restaurant-depot/"
   },
   {
-    "name": "Little Venice Pizza - Denver, CO",
-    "slug": "littlevenicepizza-denverco",
+    "name": "Little Venice Pizza",
+    "slug": "little-venice-pizza",
     "category": "pizza",
     "metros": [
       "denver"
@@ -2098,8 +2098,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/little-venice-pizza-denver/"
   },
   {
-    "name": "BINKY'S POTLUCK - DENVER, CO",
-    "slug": "binkyspotluck-denverco",
+    "name": "BINKY'S POTLUCK",
+    "slug": "binky-s-potluck",
     "category": "restaurant",
     "metros": [
       "denver"
@@ -2116,8 +2116,8 @@
     "websiteOrderUrl": "https://www.clover.com/ca/pos-systems/online-ordering"
   },
   {
-    "name": "DU Food Pantry - DENVER, CO",
-    "slug": "dufoodpantry-denverco",
+    "name": "DU Food Pantry",
+    "slug": "du-food-pantry",
     "category": "restaurant",
     "metros": [
       "denver"
@@ -2125,8 +2125,8 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/ctr-for-sustainability-denver"
   },
   {
-    "name": "Denver West Deli 14143 Denver W Pkwy",
-    "slug": "denverwestdeli14143denverwpkwy",
+    "name": "Denver West Deli",
+    "slug": "denver-west-deli",
     "category": "deli",
     "metros": [
       "denver"
@@ -2215,8 +2215,8 @@
     "toastUrl": "https://order.toasttab.com/online/main-street-deli-513-south-main-st"
   },
   {
-    "name": "Poke Dot 17921 MacArthur Blvd",
-    "slug": "pokedot17921macarthurblvd",
+    "name": "Poke Dot",
+    "slug": "poke-dot",
     "category": "japanese",
     "metros": [
       "denver"
@@ -2242,8 +2242,8 @@
     "toastUrl": "https://order.toasttab.com/online/seasons-regions-seafood-grill"
   },
   {
-    "name": "Baytown Seafood Restaurant 2102 Broadway Street",
-    "slug": "baytownseafoodrestaurant2102broadwaystre",
+    "name": "Baytown Seafood Restaurant",
+    "slug": "baytown-seafood-restaurant",
     "category": "seafood",
     "metros": [
       "denver"
@@ -2269,8 +2269,8 @@
     "toastUrl": "https://order.toasttab.com/online/southpark-seafood"
   },
   {
-    "name": "Out Of The Blue Seafood 252 E Montauk Hwy",
-    "slug": "outoftheblueseafood252emontaukhwy",
+    "name": "Out Of The Blue Seafood",
+    "slug": "out-of-the-blue-seafood",
     "category": "seafood",
     "metros": [
       "denver"
@@ -2278,8 +2278,8 @@
     "toastUrl": "https://order.toasttab.com/online/out-of-the-blue-seafood"
   },
   {
-    "name": "Roe Seafood Dining & Fish Market 5374 E 2nd St",
-    "slug": "roeseafooddiningfishmarket5374e2ndst",
+    "name": "Roe Seafood Dining & Fish Market",
+    "slug": "roe-seafood-dining-fish-market",
     "category": "seafood",
     "metros": [
       "denver"
@@ -2305,8 +2305,8 @@
     "toastUrl": "https://order.toasttab.com/online/lawerance-seafood-company-1130-ocean-blvd"
   },
   {
-    "name": "La Mer Seafood 407 Main Street",
-    "slug": "lamerseafood407mainstreet",
+    "name": "La Mer Seafood",
+    "slug": "la-mer-seafood",
     "category": "seafood",
     "metros": [
       "denver"
@@ -2368,8 +2368,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-greek-spot-sunnyvale-604-south-mary-avenue"
   },
   {
-    "name": "The Greek Corner 2366 Massachusetts Avenue",
-    "slug": "thegreekcorner2366massachusettsavenue",
+    "name": "The Greek Corner",
+    "slug": "the-greek-corner",
     "category": "mediterranean",
     "metros": [
       "denver"
@@ -2377,8 +2377,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-greek-corner-2366-massachusetts-avenue"
   },
   {
-    "name": "The Greek Taverna 1903 Staples Mill Rd",
-    "slug": "thegreektaverna1903staplesmillrd",
+    "name": "The Greek Taverna",
+    "slug": "the-greek-taverna",
     "category": "mediterranean",
     "metros": [
       "denver"
@@ -2404,8 +2404,8 @@
     "toastUrl": "https://order.toasttab.com/online/demos-greek-food-stone-oak-1205-n-loop-1604-w-suite-235"
   },
   {
-    "name": "Opa Greek Yeeros 378 Highland Ave",
-    "slug": "opagreekyeeros378highlandave",
+    "name": "Opa Greek Yeeros",
+    "slug": "opa-greek-yeeros",
     "category": "mediterranean",
     "metros": [
       "denver"
@@ -2458,8 +2458,8 @@
     "toastUrl": "https://order.toasttab.com/online/greek-town-gyros"
   },
   {
-    "name": "George's Greek Cafe - Downtown",
-    "slug": "georgesgreekcafe-downtown",
+    "name": "George's Greek Cafe",
+    "slug": "george-s-greek-cafe",
     "category": "cafe",
     "metros": [
       "denver"
@@ -2467,8 +2467,8 @@
     "toastUrl": "https://order.toasttab.com/online/georges-greek-cafe"
   },
   {
-    "name": "simply greek 44 Centennial Drive",
-    "slug": "simplygreek44centennialdrive",
+    "name": "simply greek",
+    "slug": "simply-greek",
     "category": "mediterranean",
     "metros": [
       "denver"
@@ -2530,8 +2530,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-shack-creve-coeur-12521-olive-blvd"
   },
   {
-    "name": "Yardbird - Denver",
-    "slug": "yardbird-denver",
+    "name": "Yardbird",
+    "slug": "yardbird",
     "category": "restaurant",
     "metros": [
       "denver"
@@ -2566,8 +2566,8 @@
     "toastUrl": "https://order.toasttab.com/online/radiant-juice-smoothie-bar-702-main-st"
   },
   {
-    "name": "Juice World 89 Passaic St",
-    "slug": "juiceworld89passaicst",
+    "name": "Juice World",
+    "slug": "juice-world",
     "category": "juice",
     "metros": [
       "denver"

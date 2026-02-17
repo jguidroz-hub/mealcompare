@@ -384,8 +384,8 @@
     ]
   },
   {
-    "name": "BLT's Breakfast, Lunch & Tacos 626 N 6th St",
-    "slug": "bltsbreakfastlunchtacos626n6thst",
+    "name": "BLT's Breakfast, Lunch & Tacos",
+    "slug": "blt-s-breakfast-lunch-tacos",
     "category": "mexican",
     "metros": [
       "stlouis"
@@ -465,8 +465,8 @@
     "toastUrl": "https://order.toasttab.com/online/union-loafers"
   },
   {
-    "name": "Louie's Cafe 3322 Lake Street",
-    "slug": "louiescafe3322lakestreet",
+    "name": "Louie's Cafe",
+    "slug": "louie-s-cafe",
     "category": "cafe",
     "metros": [
       "stlouis"
@@ -483,8 +483,8 @@
     "toastUrl": "https://order.toasttab.com/online/lamocafe"
   },
   {
-    "name": "Ula Cafe 284 Amory St",
-    "slug": "ulacafe284amoryst",
+    "name": "Ula Cafe",
+    "slug": "ula-cafe",
     "category": "cafe",
     "metros": [
       "stlouis"
@@ -510,8 +510,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-southern-cafe-stc-1590-e-main-st"
   },
   {
-    "name": "Cool Moose Cafe 2708 Park St",
-    "slug": "coolmoosecafe2708parkst",
+    "name": "Cool Moose Cafe",
+    "slug": "cool-moose-cafe",
     "category": "cafe",
     "metros": [
       "stlouis"
@@ -519,8 +519,8 @@
     "toastUrl": "https://order.toasttab.com/online/coolmoosecafe"
   },
   {
-    "name": "CAFE 1908 7 West Preston St",
-    "slug": "cafe19087westprestonst",
+    "name": "CAFE 1908",
+    "slug": "cafe-1908",
     "category": "cafe",
     "metros": [
       "stlouis"
@@ -537,8 +537,8 @@
     "toastUrl": "https://order.toasttab.com/online/thespotonmain"
   },
   {
-    "name": "South Union Cafe 1007 Locust St",
-    "slug": "southunioncafe1007locustst",
+    "name": "South Union Cafe",
+    "slug": "south-union-cafe",
     "category": "cafe",
     "metros": [
       "stlouis"
@@ -546,8 +546,8 @@
     "toastUrl": "https://order.toasttab.com/online/south-union-cafe-1007-locust-st"
   },
   {
-    "name": "Seasons Cafe 318 21ST ST",
-    "slug": "seasonscafe31821stst",
+    "name": "Seasons Cafe",
+    "slug": "seasons-cafe",
     "category": "cafe",
     "metros": [
       "stlouis"
@@ -555,8 +555,8 @@
     "toastUrl": "https://order.toasttab.com/online/seasons-cafe-318-21st-st"
   },
   {
-    "name": "In & Out Cafe 1621 N Road Street",
-    "slug": "inoutcafe1621nroadstreet",
+    "name": "In & Out Cafe",
+    "slug": "in-out-cafe",
     "category": "cafe",
     "metros": [
       "stlouis"
@@ -645,8 +645,8 @@
     "toastUrl": "https://order.toasttab.com/online/sharedbrewing"
   },
   {
-    "name": "Louie's Pizza Inc. 11 Rehoboth Avenue",
-    "slug": "louiespizzainc11rehobothavenue",
+    "name": "Louie's Pizza Inc.",
+    "slug": "louie-s-pizza-inc",
     "category": "pizza",
     "metros": [
       "stlouis"
@@ -771,8 +771,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-west-side-kitchen"
   },
   {
-    "name": "BBQ 136 914 Central Avenue",
-    "slug": "bbq136914centralavenue",
+    "name": "BBQ",
+    "slug": "bbq",
     "category": "bbq",
     "metros": [
       "stlouis"
@@ -1058,8 +1058,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-grove-kitchen-and-bar-12826-sw-brookside-falls"
   },
   {
-    "name": "The Grove Tavern 204 N 4th St",
-    "slug": "thegrovetavern204n4thst",
+    "name": "The Grove Tavern",
+    "slug": "the-grove-tavern",
     "category": "restaurant",
     "metros": [
       "stlouis"
@@ -1094,8 +1094,8 @@
     "toastUrl": "https://order.toasttab.com/online/locations/a63a8b59-7dd4-4d94-a175-a940d9702a1a"
   },
   {
-    "name": "The Grove - Yerba Buena 690 Mission Street",
-    "slug": "thegrove-yerbabuena690missionstreet",
+    "name": "The Grove - Yerba Buena",
+    "slug": "the-grove-yerba-buena",
     "category": "restaurant",
     "metros": [
       "stlouis"
@@ -1112,8 +1112,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-grove-lakeway"
   },
   {
-    "name": "Alma at The Grove 189 The Grove Dr",
-    "slug": "almaatthegrove189thegrovedr",
+    "name": "Alma at The Grove",
+    "slug": "alma-at-the-grove",
     "category": "restaurant",
     "metros": [
       "stlouis"
@@ -1175,8 +1175,8 @@
     "toastUrl": "https://order.toasttab.com/online/thaisawadee"
   },
   {
-    "name": "Da's Thai Cuisine 1400 East Old Settlers Boulevard",
-    "slug": "dasthaicuisine1400eastoldsettlersbouleva",
+    "name": "Da's Thai Cuisine",
+    "slug": "da-s-thai-cuisine",
     "category": "thai",
     "metros": [
       "stlouis"
@@ -1184,8 +1184,8 @@
     "toastUrl": "https://order.toasttab.com/online/das-thai-cuisine-1400-east-old-settlers-boulevard"
   },
   {
-    "name": "Thai Flavors East 14th St 1254 E 14th St",
-    "slug": "thaiflavorseast14thst1254e14thst",
+    "name": "Thai Flavors East 14th St",
+    "slug": "thai-flavors-east-14th-st",
     "category": "thai",
     "metros": [
       "stlouis"
@@ -1193,8 +1193,8 @@
     "toastUrl": "https://order.toasttab.com/online/thai-flavors-east-14th-st-1254-e-14th-st-unit-500"
   },
   {
-    "name": "Taste of Thai 216 East State Street",
-    "slug": "tasteofthai216eaststatestreet",
+    "name": "Taste of Thai",
+    "slug": "taste-of-thai",
     "category": "thai",
     "metros": [
       "stlouis"
@@ -1202,8 +1202,8 @@
     "toastUrl": "https://order.toasttab.com/online/taste-of-thai-216-e-state-st"
   },
   {
-    "name": "Thai Thai Restaurant - EM 221 E North St",
-    "slug": "thaithairestaurant-em221enorthst",
+    "name": "Thai Thai Restaurant - EM",
+    "slug": "thai-thai-restaurant-em",
     "category": "thai",
     "metros": [
       "stlouis"
@@ -1211,8 +1211,8 @@
     "toastUrl": "https://order.toasttab.com/online/thai-thai"
   },
   {
-    "name": "Love Thai Cuisine 1180 Forest Ave",
-    "slug": "lovethaicuisine1180forestave",
+    "name": "Love Thai Cuisine",
+    "slug": "love-thai-cuisine",
     "category": "thai",
     "metros": [
       "stlouis"
@@ -1229,8 +1229,8 @@
     "toastUrl": "https://order.toasttab.com/online/too-thai-street-eats-2540-old-denton-rd-138"
   },
   {
-    "name": "Taste of Thai Express 209 S Meadow St",
-    "slug": "tasteofthaiexpress209smeadowst",
+    "name": "Taste of Thai Express",
+    "slug": "taste-of-thai-express",
     "category": "thai",
     "metros": [
       "stlouis"
@@ -1256,8 +1256,8 @@
     "toastUrl": "https://order.toasttab.com/online/chang-thai-1232-emmet-st-n"
   },
   {
-    "name": "Everyday Thai LLC 220 W Battlefield Rd",
-    "slug": "everydaythaillc220wbattlefieldrd",
+    "name": "Everyday Thai LLC",
+    "slug": "everyday-thai-llc",
     "category": "thai",
     "metros": [
       "stlouis"
@@ -1265,8 +1265,8 @@
     "toastUrl": "https://order.toasttab.com/online/everyday-thai-llc-220-w-battlefield-rd"
   },
   {
-    "name": "Capital Thai 14818 Hull Street Road",
-    "slug": "capitalthai14818hullstreetroad",
+    "name": "Capital Thai",
+    "slug": "capital-thai",
     "category": "thai",
     "metros": [
       "stlouis"
@@ -1274,8 +1274,8 @@
     "toastUrl": "https://order.toasttab.com/online/capitalthaiva"
   },
   {
-    "name": "Soi OB-Thai Street Food 1916 Cable St",
-    "slug": "soiob-thaistreetfood1916cablest",
+    "name": "Soi OB-Thai Street Food",
+    "slug": "soi-ob-thai-street-food",
     "category": "thai",
     "metros": [
       "stlouis"
@@ -1301,8 +1301,8 @@
     "toastUrl": "https://order.toasttab.com/online/thai-station-restaurant-201-e-main-st-ste-c"
   },
   {
-    "name": "Thai Me Restaurant 144 Main St",
-    "slug": "thaimerestaurant144mainst",
+    "name": "Thai Me Restaurant",
+    "slug": "thai-me-restaurant",
     "category": "thai",
     "metros": [
       "stlouis"
@@ -1310,8 +1310,8 @@
     "toastUrl": "https://order.toasttab.com/online/thai-me-restaurant-144-main-st"
   },
   {
-    "name": "Strait Jamaican Cuisine LLC 15 School St",
-    "slug": "straitjamaicancuisinellc15schoolst",
+    "name": "Strait Jamaican Cuisine LLC",
+    "slug": "strait-jamaican-cuisine-llc",
     "category": "caribbean",
     "metros": [
       "stlouis"
@@ -1337,8 +1337,8 @@
     "toastUrl": "https://order.toasttab.com/online/countrystylejamaican"
   },
   {
-    "name": "Jamaican Flavors - 358 Kosciuszko Street",
-    "slug": "jamaicanflavors-358kosciuszkostreet",
+    "name": "Jamaican Flavors",
+    "slug": "jamaican-flavors",
     "category": "caribbean",
     "metros": [
       "stlouis"
@@ -1373,8 +1373,8 @@
     "toastUrl": "https://order.toasttab.com/online/maroon-girl-jamaican-cuisine"
   },
   {
-    "name": "Jamaican Cafe Cuisine 1 -Bear 1643 Pulaski Highway",
-    "slug": "jamaicancafecuisine1-bear1643pulaskihigh",
+    "name": "Jamaican Cafe Cuisine 1 -Bear",
+    "slug": "jamaican-cafe-cuisine-1-bear",
     "category": "cafe",
     "metros": [
       "stlouis"
@@ -1418,8 +1418,8 @@
     "toastUrl": "https://order.toasttab.com/online/irie-jamaican-lakewood"
   },
   {
-    "name": "Reds Alehouse - North Liberty 405 N Dubuque St",
-    "slug": "redsalehouse-northliberty405ndubuquest",
+    "name": "Reds Alehouse - North Liberty",
+    "slug": "reds-alehouse-north-liberty",
     "category": "restaurant",
     "metros": [
       "stlouis"
@@ -1436,8 +1436,8 @@
     "toastUrl": "https://order.toasttab.com/online/ijkeast"
   },
   {
-    "name": "Susuru Ramen 621 E GREEN ST STE A",
-    "slug": "susururamen621egreenststea",
+    "name": "Susuru Ramen",
+    "slug": "susuru-ramen",
     "category": "japanese",
     "metros": [
       "stlouis"
@@ -1463,8 +1463,8 @@
     "toastUrl": "https://order.toasttab.com/online/ramenwell-3378-18th-st"
   },
   {
-    "name": "Table to Stix Ramen 1007 Davis St",
-    "slug": "tabletostixramen1007davisst",
+    "name": "Table to Stix Ramen",
+    "slug": "table-to-stix-ramen",
     "category": "japanese",
     "metros": [
       "stlouis"
@@ -1499,8 +1499,8 @@
     "toastUrl": "https://order.toasttab.com/online/renshoku"
   },
   {
-    "name": "2nd Language Ramen 401 NW 2nd St Suite A",
-    "slug": "2ndlanguageramen401nw2ndstsuitea",
+    "name": "2nd Language Ramen",
+    "slug": "2nd-language-ramen",
     "category": "japanese",
     "metros": [
       "stlouis"
@@ -1517,8 +1517,8 @@
     "toastUrl": "https://order.toasttab.com/online/lime-house-sushi-ramen-1-5-south-lake-street"
   },
   {
-    "name": "Zundo Ramen Bar 3100 N state street suite 102",
-    "slug": "zundoramenbar3100nstatestreetsuite102",
+    "name": "Zundo Ramen Bar",
+    "slug": "zundo-ramen-bar",
     "category": "japanese",
     "metros": [
       "stlouis"
@@ -1535,8 +1535,8 @@
     "toastUrl": "https://order.toasttab.com/online/kuro-ramen"
   },
   {
-    "name": "Sukiya Ramen Pearl 1472 S Pearl St",
-    "slug": "sukiyaramenpearl1472spearlst",
+    "name": "Sukiya Ramen Pearl",
+    "slug": "sukiya-ramen-pearl",
     "category": "japanese",
     "metros": [
       "stlouis"
@@ -1544,8 +1544,8 @@
     "toastUrl": "https://order.toasttab.com/online/sukiyaramenpearl"
   },
   {
-    "name": "Umami 1 Main St",
-    "slug": "umami1mainst",
+    "name": "Umami",
+    "slug": "umami",
     "category": "restaurant",
     "metros": [
       "stlouis"
@@ -1571,8 +1571,8 @@
     "toastUrl": "https://order.toasttab.com/online/noburu-ramen-and-sushi-8900-161st-avenue-northeast-170"
   },
   {
-    "name": "O Ramen 131 North Grand Avenue",
-    "slug": "oramen131northgrandavenue",
+    "name": "O Ramen",
+    "slug": "o-ramen",
     "category": "japanese",
     "metros": [
       "stlouis"
@@ -1580,8 +1580,8 @@
     "toastUrl": "https://order.toasttab.com/online/o-ramen-131-north-grand-avenue"
   },
   {
-    "name": "Oh! Ramen 341 Wantagh Ave",
-    "slug": "ohramen341wantaghave",
+    "name": "Oh! Ramen",
+    "slug": "oh-ramen",
     "category": "japanese",
     "metros": [
       "stlouis"
@@ -1589,8 +1589,8 @@
     "toastUrl": "https://order.toasttab.com/online/oh-ramen-341-wantagh-ave"
   },
   {
-    "name": "Ramen Mafia 271 W 4th Street",
-    "slug": "ramenmafia271w4thstreet",
+    "name": "Ramen Mafia",
+    "slug": "ramen-mafia",
     "category": "japanese",
     "metros": [
       "stlouis"
@@ -1706,8 +1706,8 @@
     "toastUrl": "https://order.toasttab.com/online/ya-better-eat-cajun-smokehouse-711-2nd-avenue-north"
   },
   {
-    "name": "The Cajun Spot 17731 Fairgrove Park Dr",
-    "slug": "thecajunspot17731fairgroveparkdr",
+    "name": "The Cajun Spot",
+    "slug": "the-cajun-spot",
     "category": "southern",
     "metros": [
       "stlouis"
@@ -1715,8 +1715,8 @@
     "toastUrl": "https://order.toasttab.com/online/the-cajun-spot-17731-fairgrove-park-dr"
   },
   {
-    "name": "Cajun Fish Grill 2960 West Eldorado Parkway Suite 5",
-    "slug": "cajunfishgrill2960westeldoradoparkwaysui",
+    "name": "Cajun Fish Grill",
+    "slug": "cajun-fish-grill",
     "category": "seafood",
     "metros": [
       "stlouis"
@@ -1733,8 +1733,8 @@
     "toastUrl": "https://order.toasttab.com/online/cajun-queen"
   },
   {
-    "name": "Crawdaddys Cajun 13 Tomlinson Mill Rd",
-    "slug": "crawdaddyscajun13tomlinsonmillrd",
+    "name": "Crawdaddys Cajun",
+    "slug": "crawdaddys-cajun",
     "category": "southern",
     "metros": [
       "stlouis"
@@ -1751,8 +1751,8 @@
     "toastUrl": "https://order.toasttab.com/online/jingo-cajun-eatery-lumberton-133-a-north-lhs-dr"
   },
   {
-    "name": "Johnny's food mart 4300 Chippewa Street",
-    "slug": "johnnysfoodmart4300chippewastreet",
+    "name": "Johnny's food mart",
+    "slug": "johnny-s-food-mart",
     "category": "restaurant",
     "metros": [
       "stlouis"
@@ -2086,8 +2086,8 @@
     "websiteOrderUrl": "https://www.gloriafood.com/hotel-ordering-system"
   },
   {
-    "name": "Collina Eatery Catering in St. Louis, MO - 2030 Macklind Ave",
-    "slug": "collinaeaterycateringinstlouismo-2030mac",
+    "name": "Collina Eatery Catering in St. Louis, MO",
+    "slug": "collina-eatery-catering-in-st-louis-mo",
     "category": "restaurant",
     "metros": [
       "stlouis"
@@ -2095,8 +2095,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/collina-eatery-3"
   },
   {
-    "name": "The Christy Catering in St. Louis, MO - 5856 Christy Blvd",
-    "slug": "thechristycateringinstlouismo-5856christ",
+    "name": "The Christy Catering in St. Louis, MO",
+    "slug": "the-christy-catering-in-st-louis-mo",
     "category": "restaurant",
     "metros": [
       "stlouis"
@@ -2104,8 +2104,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/the-christy-catering-st-louis"
   },
   {
-    "name": "Rated Test Kitchen Catering in St. Louis, MO - 313 N 11th St",
-    "slug": "ratedtestkitchencateringinstlouismo-313n",
+    "name": "Rated Test Kitchen Catering in St. Louis, MO",
+    "slug": "rated-test-kitchen-catering-in-st-louis-mo",
     "category": "restaurant",
     "metros": [
       "stlouis"
@@ -2122,8 +2122,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/best-st-louis-caterers"
   },
   {
-    "name": "Patty Long Catering in St. Louis, MO - 412 N Euclid Ave",
-    "slug": "pattylongcateringinstlouismo-412neuclida",
+    "name": "Patty Long Catering in St. Louis, MO",
+    "slug": "patty-long-catering-in-st-louis-mo",
     "category": "restaurant",
     "metros": [
       "stlouis"
@@ -2140,8 +2140,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/gateway-grub-st-louis"
   },
   {
-    "name": "Companion Catering in St. Louis, MO - 9781 Clayton Rd",
-    "slug": "companioncateringinstlouismo-9781clayton",
+    "name": "Companion Catering in St. Louis, MO",
+    "slug": "companion-catering-in-st-louis-mo",
     "category": "restaurant",
     "metros": [
       "stlouis"
@@ -2149,8 +2149,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/companion-st-louis"
   },
   {
-    "name": "UKRAFT Catering in St. Louis, MO - 701 Market St",
-    "slug": "ukraftcateringinstlouismo-701marketst",
+    "name": "UKRAFT Catering in St. Louis, MO",
+    "slug": "ukraft-catering-in-st-louis-mo",
     "category": "restaurant",
     "metros": [
       "stlouis"
@@ -2176,8 +2176,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/lunchrush/office/best-catering-st-louis/"
   },
   {
-    "name": "Subway Catering in St. Louis, MO - 10443 Page Ave",
-    "slug": "subwaycateringinstlouismo-10443pageave",
+    "name": "Subway Catering in St. Louis, MO",
+    "slug": "subway-catering-in-st-louis-mo",
     "category": "deli",
     "metros": [
       "stlouis"
@@ -2185,8 +2185,8 @@
     "websiteOrderUrl": "https://www.ezcater.com/catering/subway-st-louis-page-ave"
   },
   {
-    "name": "The Pasta House Catering in St. Louis, MO - 8831 Ladue Rd",
-    "slug": "thepastahousecateringinstlouismo-8831lad",
+    "name": "The Pasta House Catering in St. Louis, MO",
+    "slug": "the-pasta-house-catering-in-st-louis-mo",
     "category": "italian",
     "metros": [
       "stlouis"
@@ -2221,8 +2221,8 @@
     "toastUrl": "https://order.toasttab.com/online/fresh-catch-poke-co"
   },
   {
-    "name": "Hawaii Poke Bowl - West St. Paul 1375 South Robert Street",
-    "slug": "hawaiipokebowl-weststpaul1375southrobert",
+    "name": "Hawaii Poke Bowl - West St. Paul",
+    "slug": "hawaii-poke-bowl-west-st-paul",
     "category": "japanese",
     "metros": [
       "stlouis"
@@ -2239,8 +2239,8 @@
     "toastUrl": "https://order.toasttab.com/online/streeterville"
   },
   {
-    "name": "Pokehana 436 W Market St",
-    "slug": "pokehana436wmarketst",
+    "name": "Pokehana",
+    "slug": "pokehana",
     "category": "japanese",
     "metros": [
       "stlouis"
@@ -2257,8 +2257,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-poke-wabash-118-s-wabash-ave"
   },
   {
-    "name": "Poke OG @ 1800 143 NW 23 ST",
-    "slug": "pokeog1800143nw23st",
+    "name": "Poke OG @ 1800",
+    "slug": "poke-og-1800",
     "category": "japanese",
     "metros": [
       "stlouis"
@@ -2266,8 +2266,8 @@
     "toastUrl": "https://order.toasttab.com/online/poke-og-1800-143-nw-23-st"
   },
   {
-    "name": "Poke Sushi 1720 Washington Road",
-    "slug": "pokesushi1720washingtonroad",
+    "name": "Poke Sushi",
+    "slug": "poke-sushi",
     "category": "japanese",
     "metros": [
       "stlouis"
@@ -2293,8 +2293,8 @@
     "toastUrl": "https://order.toasttab.com/online/st-louis-fish-chicken-grill-ferguson-200-north-florissant-road"
   },
   {
-    "name": "Roe Seafood Dining & Fish Market 5374 E 2nd St",
-    "slug": "roeseafooddiningfishmarket5374e2ndst",
+    "name": "Roe Seafood Dining & Fish Market",
+    "slug": "roe-seafood-dining-fish-market",
     "category": "seafood",
     "metros": [
       "stlouis"
@@ -2302,8 +2302,8 @@
     "toastUrl": "https://order.toasttab.com/online/roe-seafood-5374-e-2nd-st"
   },
   {
-    "name": "The Fish House Grill 1 West St",
-    "slug": "thefishhousegrill1westst",
+    "name": "The Fish House Grill",
+    "slug": "the-fish-house-grill",
     "category": "seafood",
     "metros": [
       "stlouis"
@@ -2311,8 +2311,8 @@
     "toastUrl": "https://order.toasttab.com/online/fish-house-grill"
   },
   {
-    "name": "Baytown Seafood Restaurant 2102 Broadway Street",
-    "slug": "baytownseafoodrestaurant2102broadwaystre",
+    "name": "Baytown Seafood Restaurant",
+    "slug": "baytown-seafood-restaurant",
     "category": "seafood",
     "metros": [
       "stlouis"
@@ -2365,8 +2365,8 @@
     "toastUrl": "https://order.toasttab.com/online/locals-seafood-market-oyster-bar"
   },
   {
-    "name": "La Mer Seafood 407 Main Street",
-    "slug": "lamerseafood407mainstreet",
+    "name": "La Mer Seafood",
+    "slug": "la-mer-seafood",
     "category": "seafood",
     "metros": [
       "stlouis"
@@ -2383,8 +2383,8 @@
     "toastUrl": "https://order.toasttab.com/online/rockfishcampbowie"
   },
   {
-    "name": "Sayle's Seafood 99 Washington Street",
-    "slug": "saylesseafood99washingtonstreet",
+    "name": "Sayle's Seafood",
+    "slug": "sayle-s-seafood",
     "category": "seafood",
     "metros": [
       "stlouis"
@@ -2428,8 +2428,8 @@
     "toastUrl": "https://order.toasttab.com/online/nohsc-elmwood"
   },
   {
-    "name": "Kajun Seafood 3895 Cherokee Street, ste 621",
-    "slug": "kajunseafood3895cherokeestreetste621",
+    "name": "Kajun Seafood",
+    "slug": "kajun-seafood",
     "category": "seafood",
     "metros": [
       "stlouis"
@@ -2491,8 +2491,8 @@
     "toastUrl": "https://order.toasttab.com/online/mrgreekofbuffalo"
   },
   {
-    "name": "The Greek Corner 2366 Massachusetts Avenue",
-    "slug": "thegreekcorner2366massachusettsavenue",
+    "name": "The Greek Corner",
+    "slug": "the-greek-corner",
     "category": "mediterranean",
     "metros": [
       "stlouis"
@@ -2608,8 +2608,8 @@
     "toastUrl": "https://order.toasttab.com/online/radiant-juice-smoothie-bar-702-main-st"
   },
   {
-    "name": "Juice World 89 Passaic St",
-    "slug": "juiceworld89passaicst",
+    "name": "Juice World",
+    "slug": "juice-world",
     "category": "juice",
     "metros": [
       "stlouis"
@@ -2617,8 +2617,8 @@
     "toastUrl": "https://order.toasttab.com/online/juice-world-89-passaic-st"
   },
   {
-    "name": "Wyogrown Microgreens & Things 113 E 17th st",
-    "slug": "wyogrownmicrogreensthings113e17thst",
+    "name": "Wyogrown Microgreens & Things",
+    "slug": "wyogrown-microgreens-things",
     "category": "restaurant",
     "metros": [
       "stlouis"
@@ -2635,8 +2635,8 @@
     "toastUrl": "https://order.toasttab.com/online/hello-juice-smoothie-kirkwood"
   },
   {
-    "name": "GoodNatured Juice and Smoothie Bar - Laconia 569 Main St",
-    "slug": "goodnaturedjuiceandsmoothiebar-laconia56",
+    "name": "GoodNatured Juice and Smoothie Bar - Laconia",
+    "slug": "goodnatured-juice-and-smoothie-bar-laconia",
     "category": "juice",
     "metros": [
       "stlouis"
@@ -2644,8 +2644,8 @@
     "toastUrl": "https://order.toasttab.com/online/goodnaturednh"
   },
   {
-    "name": "Sol Bean Juice Bar and Kitchen 221 S Main St",
-    "slug": "solbeanjuicebarandkitchen221smainst",
+    "name": "Sol Bean Juice Bar and Kitchen",
+    "slug": "sol-bean-juice-bar-and-kitchen",
     "category": "juice",
     "metros": [
       "stlouis"
