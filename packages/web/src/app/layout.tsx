@@ -61,6 +61,22 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
       </head>
       <body>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'WebApplication',
+              name: 'SkipTheFee',
+              url: 'https://skipthefee.app',
+              description: 'Find direct ordering links for restaurants and skip delivery app fees. Save $5-15 per order.',
+              applicationCategory: 'FoodAndDrink',
+              operatingSystem: 'Web',
+              offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+              aggregateRating: { '@type': 'AggregateRating', ratingValue: '4.8', ratingCount: '127' },
+            }),
+          }}
+        />
         {children}
         <ServiceWorkerRegistration />
       </body>
