@@ -2372,5 +2372,500 @@
       "seattle"
     ],
     "websiteOrderUrl": "https://www.owner.com/partner-with-owner"
+  },
+  {
+    "name": "Roosevelt",
+    "slug": "roosevelt",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://tacodelmar.olo.com/menu/roosevelt"
+  },
+  {
+    "name": "Tutta Bella Seattle",
+    "slug": "tuttabellaseattle",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://tuttabella.olo.com/menu/tutta-bella-south-lake-union"
+  },
+  {
+    "name": "Seattle",
+    "slug": "seattle",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://fogo.olo.com/menu/seattle"
+  },
+  {
+    "name": "Convention Center",
+    "slug": "conventioncenter",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://tacodelmar.olo.com/menu/convention-center"
+  },
+  {
+    "name": "Tutta Bella Columbia City",
+    "slug": "tuttabellacolumbiacity",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://tuttabella.olo.com/menu/tutta-bella-columbia-city/"
+  },
+  {
+    "name": "Seattle, WA—Wallingford",
+    "slug": "seattlewawallingford",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://ezellschicken.olo.com/menu/wallingford"
+  },
+  {
+    "name": "Seattle, WA—Rainier Valley",
+    "slug": "seattlewarainiervalley",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://ezellschicken.olo.com/menu/genesse"
+  },
+  {
+    "name": "Seattle, WA—Garfield High",
+    "slug": "seattlewagarfieldhigh",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://ezellschicken.olo.com/menu/23rd-seattle"
+  },
+  {
+    "name": "Greenwood",
+    "slug": "greenwood",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://tacodelmar.olo.com/menu/greenwood"
+  },
+  {
+    "name": "West Seattle",
+    "slug": "westseattle",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://motopizza.olo.com/menu/west-seattle-2"
+  },
+  {
+    "name": "Buca Seattle - Catering",
+    "slug": "bucaseattle-catering",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://bucadibeppocatering.olo.com/menu/buca-catering-seattle"
+  },
+  {
+    "name": "Ballard",
+    "slug": "ballard",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://tacodelmar.olo.com/menu/ballard"
+  },
+  {
+    "name": "Tutta Bella Wallingford",
+    "slug": "tuttabellawallingford",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://tuttabella.olo.com/menu/tutta-bella-wallingford/"
+  },
+  {
+    "name": "Seattle University",
+    "slug": "seattleuniversity",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://tacodelmar.olo.com/menu/seattle-university"
+  },
+  {
+    "name": "West Seattle, WA",
+    "slug": "westseattlewa",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://ezellschicken.olo.com/menu/ezells-famous-chicken-west-seattle"
+  },
+  {
+    "name": "University Village",
+    "slug": "universityvillage",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://tuttabella.olo.com/menu/university-village"
+  },
+  {
+    "name": "Northgate Village",
+    "slug": "northgatevillage",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://tacodelmar.olo.com/menu/northgate-village"
+  },
+  {
+    "name": "1st & Blanchard",
+    "slug": "1stblanchard",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://tacodelmar.olo.com/menu/1st-blanchard"
+  },
+  {
+    "name": "Tutta Bella South Lake Union",
+    "slug": "tuttabellasouthlakeunion",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://tuttabella.olo.com/menu/tutta-bella-south-lake-union/"
+  },
+  {
+    "name": "Federal Way, WA",
+    "slug": "federalwaywa",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://ezellschicken.olo.com/menu/federal-way"
+  },
+  {
+    "name": "ᐅ Seattle Pizza Delivery - Best Pizza Places in Seattle 2026",
+    "slug": "seattlepizzadelivery-bestpizzaplacesinse",
+    "category": "pizza",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/pizza-delivery/wa-seattle"
+  },
+  {
+    "name": "Secret Burger Kitchen Capitol Hill Seattle",
+    "slug": "secretburgerkitchencapitolhillseattle",
+    "category": "burgers",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://secretburgerkitchen.getbento.com/online-ordering/"
+  },
+  {
+    "name": "Maa Kiin",
+    "slug": "maakiin",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://maakiin.getbento.com/online-ordering/"
+  },
+  {
+    "name": "Easy Caribbean",
+    "slug": "easycaribbean",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://easycaribbeanfoods.getbento.com/"
+  },
+  {
+    "name": "BentoBox Launches Online Ordering for Restaurants",
+    "slug": "bentoboxlaunchesonlineorderingforrestaur",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/bento-ordering/"
+  },
+  {
+    "name": "Restaurant Online Ordering",
+    "slug": "restaurantonlineordering",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/products/online-ordering/"
+  },
+  {
+    "name": "The Best Online Ordering System for Restaurants in 2024",
+    "slug": "thebestonlineorderingsystemforrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/the-best-online-ordering-system-for-restaurants/"
+  },
+  {
+    "name": "Brunch & Mediterranean Food in Downtown Seattle",
+    "slug": "brunchmediterraneanfoodindowntownseattle",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://lolaseattle.getbento.com/"
+  },
+  {
+    "name": "Fully at Your Service",
+    "slug": "fullyatyourservice",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/why-bentobox/"
+  },
+  {
+    "name": "Which Restaurant Reservation System Should You Use?",
+    "slug": "whichrestaurantreservationsystemshouldyo",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/online-restaurant-reservation-systems/"
+  },
+  {
+    "name": "A Letter from the CEO",
+    "slug": "aletterfromtheceo",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/a-letter-from-the-ceo/"
+  },
+  {
+    "name": "BentoBox",
+    "slug": "bentobox",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://ricebeansandhappiness-order.getbento.com/our-story/"
+  },
+  {
+    "name": "Looking For Delivery Fulfillment For Your Restaurant?",
+    "slug": "lookingfordeliveryfulfillmentforyourrest",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/benefits-of-delivery-fulfillment-for-restaurants/"
+  },
+  {
+    "name": "Considering Online Ordering for Your Restaurant?",
+    "slug": "consideringonlineorderingforyourrestaura",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/online-ordering-grubhub-doordash-postmates-ubereats-caviar-chownow/"
+  },
+  {
+    "name": "Dine-in ordering",
+    "slug": "dine-inordering",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/products/dine-in-ordering/"
+  },
+  {
+    "name": "THE BOAT SEATTLE",
+    "slug": "theboatseattle",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/the-boat-seattle-seattle"
+  },
+  {
+    "name": "GLO`S RESTAURANT - SEATTLE, WA",
+    "slug": "glosrestaurant-seattlewa",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/glos-restaurant-seattle"
+  },
+  {
+    "name": "Maiz - SEATTLE, WA",
+    "slug": "maiz-seattlewa",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/maz--seattle"
+  },
+  {
+    "name": "Miss Pho - SEATTLE, WA",
+    "slug": "misspho-seattlewa",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/miss-pho-seattle"
+  },
+  {
+    "name": "THE STATION BEACON HILL - SEATTLE, WA",
+    "slug": "thestationbeaconhill-seattlewa",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/the-station-beacon-hill-seattle"
+  },
+  {
+    "name": "SODAM CHICKEN 2 - SEATTLE, WA",
+    "slug": "sodamchicken2-seattlewa",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/sodam-chicken-2-seattle"
+  },
+  {
+    "name": "KAU KAU BBQ RESTAURANT - Seattle, WA",
+    "slug": "kaukaubbqrestaurant-seattlewa",
+    "category": "bbq",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/kau-kau-bbq-restaurant-seattle"
+  },
+  {
+    "name": "Online Ordering",
+    "slug": "onlineordering",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/sushi-me-bellevue-2"
+  },
+  {
+    "name": "KUDEDON - Seattle, Washington",
+    "slug": "kudedon-seattlewashington",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/kudedon-seattle"
+  },
+  {
+    "name": "KHAO SAN ROAD THAI CUISI - SEATTLE, WA",
+    "slug": "khaosanroadthaicuisi-seattlewa",
+    "category": "thai",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/khao-san-road-thai-cuisi-seattle"
+  },
+  {
+    "name": "LA VILLA MEXICAN FOOD - Seattle, Washington",
+    "slug": "lavillamexicanfood-seattlewashington",
+    "category": "mexican",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/la-villa-mexican-food-seattle"
+  },
+  {
+    "name": "SHEWA-BER - Seattle, WA",
+    "slug": "shewa-ber-seattlewa",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/shewaber-seattle"
+  },
+  {
+    "name": "MEKONG VILLAGE - SEATTLE, WA",
+    "slug": "mekongvillage-seattlewa",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/mekongvillage"
+  },
+  {
+    "name": "OKINAWA TERIYAKI - SEATTLE, WA",
+    "slug": "okinawateriyaki-seattlewa",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/okinawa-teriyaki-seattle"
+  },
+  {
+    "name": "Don Lucho`s Restaurant a - SEATTLE, WA",
+    "slug": "donluchosrestauranta-seattlewa",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/don-luchos-restaurant-a-seattle"
+  },
+  {
+    "name": "EVEREST RESTAURANT - WINCHESTER, VA",
+    "slug": "everestrestaurant-winchesterva",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/everest-restaurant-winchester"
+  },
+  {
+    "name": "SOME RANDOM BAR - SEATTLE, WA",
+    "slug": "somerandombar-seattlewa",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/some-random-bar-seattle"
+  },
+  {
+    "name": "THE STATION CC - SEATTLE, WA",
+    "slug": "thestationcc-seattlewa",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/station-columbia-city-seattle"
+  },
+  {
+    "name": "FALAFELVILLE - SEATTLE, WA",
+    "slug": "falafelville-seattlewa",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/falafelville-seattle"
+  },
+  {
+    "name": "SHARETEA SEATTLE chinatown",
+    "slug": "shareteaseattlechinatown",
+    "category": "restaurant",
+    "metros": [
+      "seattle"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/sharetea-seattle-seattle"
   }
 ]

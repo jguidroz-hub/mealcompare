@@ -1995,5 +1995,491 @@
       "tampa"
     ],
     "websiteOrderUrl": "https://www.owner.com/downloads/online-ordering-system-checklist"
+  },
+  {
+    "name": "Ocean Prime Tampa",
+    "slug": "oceanprimetampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://oceanprime.olo.com/menu/ocean-prime-tampa"
+  },
+  {
+    "name": "The Pearl - Tampa",
+    "slug": "thepearl-tampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://cameronmitchellrest.olo.com/menu/pearl-tampa/"
+  },
+  {
+    "name": "Kona Grill Tampa",
+    "slug": "konagrilltampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://konagrill.olo.com/menu/kona-grill-tampa"
+  },
+  {
+    "name": "Glory Days Grill of New Tampa",
+    "slug": "glorydaysgrillofnewtampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://glorydaysgrill.olo.com/menu/glory-days-grill-new-tampa"
+  },
+  {
+    "name": "J. Alexander's - Tampa FL",
+    "slug": "jalexanders-tampafl",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://jalexanders.olo.com/menu/j-alexanders-2"
+  },
+  {
+    "name": "Tampa (South Mabry).",
+    "slug": "tampasouthmabry",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://anotherbrokeneggcafe.olo.com/menu/tampa-south-mabry"
+  },
+  {
+    "name": "Tampa Catering",
+    "slug": "tampacatering",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://truefoodkitchencatering.olo.com/menu/tampa-catering"
+  },
+  {
+    "name": "Village Bowls",
+    "slug": "villagebowls",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://villagebowls.olo.com/menu/tampa-30th-street-2"
+  },
+  {
+    "name": "Fuzzy's Taco Shop Temple Terrace, FL (USF)",
+    "slug": "fuzzystacoshoptempleterraceflusf",
+    "category": "mexican",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://fuzzystacoshop.olo.com/menu/usf"
+  },
+  {
+    "name": "Glory Days Grill of Carrollwood (Dale Mabry HWY)",
+    "slug": "glorydaysgrillofcarrollwooddalemabryhwy",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://glorydaysgrill.olo.com/menu/glory-days-grill-carrollwood"
+  },
+  {
+    "name": "Zukku Sushi Tampa",
+    "slug": "zukkusushitampa",
+    "category": "japanese",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://zukkusushi.olo.com/menu/zukku-sushi-tampa"
+  },
+  {
+    "name": "Marlow's Tavern CarrollwoodX",
+    "slug": "marlowstaverncarrollwoodx",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://marlowstavern.olo.com/menu/marlows-tavern-carrollwood"
+  },
+  {
+    "name": "MrBeast Burger - International Plaza",
+    "slug": "mrbeastburger-internationalplaza",
+    "category": "burgers",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://beastburger.olo.com/menu/mrbeast-burger-2223-n-westshore-blvd-2"
+  },
+  {
+    "name": "Ling's Dumplings Tampa",
+    "slug": "lingsdumplingstampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://zukkusushi.olo.com/menu/lings-dumplings-tampa"
+  },
+  {
+    "name": "Jeremiah's Italian Ice of Carrollwood",
+    "slug": "jeremiahsitalianiceofcarrollwood",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://jeremiahsice.olo.com/menu/jeremiahs-italian-ice-carrollwood"
+  },
+  {
+    "name": "Gigi's Cupcakes Tampa",
+    "slug": "gigiscupcakestampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://gigiscupcakesusa.olo.com/menu/gigis-cupcakes-tampa"
+  },
+  {
+    "name": "Sparkman Wharf",
+    "slug": "sparkmanwharf",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://jenis.olo.com/menu/sparkman"
+  },
+  {
+    "name": "Macs & Stacks Tampa",
+    "slug": "macsstackstampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://macsandstacks.olo.com/menu/macs-stacks-tampa"
+  },
+  {
+    "name": "Checkers E. Broadway",
+    "slug": "checkersebroadway",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://checkersandrallys.olo.com/menu/5280-ybor-city"
+  },
+  {
+    "name": "Jeremiah's Italian Ice of Westchase",
+    "slug": "jeremiahsitalianiceofwestchase",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://jeremiahsice.olo.com/menu/jeremiahs-italian-ice-westchase"
+  },
+  {
+    "name": "ᐅ Tampa Pizza Delivery - Best Pizza Places in Tampa 2025",
+    "slug": "tampapizzadelivery-bestpizzaplacesintamp",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/pizza-delivery/fl-tampa"
+  },
+  {
+    "name": "NY to Philly",
+    "slug": "nytophilly",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://nytophilly.getbento.com/"
+  },
+  {
+    "name": "La Canasta Food Truck",
+    "slug": "lacanastafoodtruck",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://lacanastafoodtruck.getbento.com/"
+  },
+  {
+    "name": "lunch",
+    "slug": "lunch",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://eatpsomi.getbento.com/menu/lunch/"
+  },
+  {
+    "name": "Psomi Restaurant",
+    "slug": "psomirestaurant",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://eatpsomi.getbento.com/"
+  },
+  {
+    "name": "Pizza in Tampa, FL",
+    "slug": "pizzaintampafl",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://dueamiciybor.getbento.com/online-ordering/due-amici-ybor/menu"
+  },
+  {
+    "name": "Restaurant Online Ordering",
+    "slug": "restaurantonlineordering",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/products/online-ordering/"
+  },
+  {
+    "name": "BentoBox",
+    "slug": "bentobox",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://thewhiskeyjoes.getbento.com/location/whiskey-joes-tampa-fl"
+  },
+  {
+    "name": "Fish Restaurant Miami Beach",
+    "slug": "fishrestaurantmiamibeach",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://afishcalledavalon.getbento.com/"
+  },
+  {
+    "name": "Meat Market",
+    "slug": "meatmarket",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://meatmarket-copy.getbento.com/"
+  },
+  {
+    "name": "Restaurant Website Inspiration for 2020",
+    "slug": "restaurantwebsiteinspirationfor2020",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/restaurant-website-design-inspiration-for-2020/"
+  },
+  {
+    "name": "Restaurant Catering Software",
+    "slug": "restaurantcateringsoftware",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/products/preorder-catering/"
+  },
+  {
+    "name": "Dine-in ordering",
+    "slug": "dine-inordering",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/products/dine-in-ordering/"
+  },
+  {
+    "name": "Happy Hour",
+    "slug": "happyhour",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://afishcalledavalon.getbento.com/happy-hour/"
+  },
+  {
+    "name": "Tell your guests about Online Ordering on Google",
+    "slug": "tellyourguestsaboutonlineorderingongoogl",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://help.getbento.com/en/articles/407745"
+  },
+  {
+    "name": "Factory@4914 - TAMPA, FL",
+    "slug": "factory4914-tampafl",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/factory4914-tampa"
+  },
+  {
+    "name": "NENE'S RESTAURANT & BAR - TAMPA, FL",
+    "slug": "nenesrestaurantbar-tampafl",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/nenes-restaurant--bar-tampa"
+  },
+  {
+    "name": "EL TABLADO RESTAURANT - TAMPA, FL",
+    "slug": "eltabladorestaurant-tampafl",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/el-tablado-restaurant-tampa/9T7VDY8PYWGW4"
+  },
+  {
+    "name": "TRAN NOODLE - TAMPA, FL",
+    "slug": "trannoodle-tampafl",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/tran-noodle-tampa"
+  },
+  {
+    "name": "NAMASTE EXPRESS - TAMPA PALMS, FL",
+    "slug": "namasteexpress-tampapalmsfl",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/namaste-express-tampa"
+  },
+  {
+    "name": "CUBAN FOODIES - TAMPA, FL",
+    "slug": "cubanfoodies-tampafl",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/cuban-foodies-tampa"
+  },
+  {
+    "name": "CHAMPION PIZZA - SOUTH TAMPA - Clover",
+    "slug": "championpizza-southtampa-clover",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/champion-pizza--south-tampa-tampa"
+  },
+  {
+    "name": "BURGER CULTURE - TAMPA, FL",
+    "slug": "burgerculture-tampafl",
+    "category": "burgers",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/burger-culture-tampa"
+  },
+  {
+    "name": "Online Ordering",
+    "slug": "onlineordering",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/tampa-burger-apollo-beach"
+  },
+  {
+    "name": "SMASH BUN BURGER - Tampa, FL",
+    "slug": "smashbunburger-tampafl",
+    "category": "burgers",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/smash-bun-burger-tampa"
+  },
+  {
+    "name": "BURGER CULTURE LUTZ - TAMPA, FL",
+    "slug": "burgerculturelutz-tampafl",
+    "category": "burgers",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/burger-culture-lutz-tampa"
+  },
+  {
+    "name": "Pickford's Sundries - TAMPA, FL",
+    "slug": "pickfordssundries-tampafl",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/urban-bungalow-tampa"
+  },
+  {
+    "name": "YAH MON LLC - TAMPA, FL",
+    "slug": "yahmonllc-tampafl",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/yah-mon-llc-tampa"
+  },
+  {
+    "name": "JAMAICAN ON THE GO - TAMPA, FL",
+    "slug": "jamaicanonthego-tampafl",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/jamaican-on-the-go-tampa"
+  },
+  {
+    "name": "LECADA LLC - TAMPA, FL",
+    "slug": "lecadallc-tampafl",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/lecada-llc-tampa"
+  },
+  {
+    "name": "Tampa Burger",
+    "slug": "tampaburger",
+    "category": "burgers",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/tampa-burger-apollo-beach/service-hours"
+  },
+  {
+    "name": "BURGER CULTURE DALE MABR - Tampa, Florida",
+    "slug": "burgerculturedalemabr-tampaflorida",
+    "category": "burgers",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/burger-culture-dale-mabr-tampa"
+  },
+  {
+    "name": "ELEVENSES CO - TAMPA, FL",
+    "slug": "elevensesco-tampafl",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/elevenses-co-tampa/HFS8EEK7QKJWC"
+  },
+  {
+    "name": "Table Service Restaurants",
+    "slug": "tableservicerestaurants",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://partners.clover.com/restaurant-depot/business-types/table-service-restaurants/"
   }
 ]

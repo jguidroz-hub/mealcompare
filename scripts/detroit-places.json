@@ -2078,5 +2078,383 @@
       "detroit"
     ],
     "websiteOrderUrl": "https://www.owner.com/releases"
+  },
+  {
+    "name": "Ocean Prime Detroit",
+    "slug": "oceanprimedetroit",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://oceanprime.olo.com/menu/ocean-prime-troy"
+  },
+  {
+    "name": "Wahlburgers Detroit X",
+    "slug": "wahlburgersdetroitx",
+    "category": "burgers",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://wahlburgersrestaurant.olo.com/menu/wahlburgers-greektown/categories/31190"
+  },
+  {
+    "name": "Checkers East 8 Mile Road",
+    "slug": "checkerseast8mileroad",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://checkersandrallys.olo.com/menu/6239-east-eight-mile-rd/products/66723962"
+  },
+  {
+    "name": "Olo",
+    "slug": "olo",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/ordering"
+  },
+  {
+    "name": "Olo Partner - Detroit Labs",
+    "slug": "olopartner-detroitlabs",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://partners.olo.com/partners/detroit-labs-octocart/"
+  },
+  {
+    "name": "Restaurant Order Management Software",
+    "slug": "restaurantordermanagementsoftware",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/switchboard"
+  },
+  {
+    "name": "Olo - Restaurant Technology & Digital Ordering Platform",
+    "slug": "olo-restauranttechnologydigitalorderingp",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/"
+  },
+  {
+    "name": "Restaurant Delivery Management Software",
+    "slug": "restaurantdeliverymanagementsoftware",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/dispatch"
+  },
+  {
+    "name": "Norms Van Nuys",
+    "slug": "normsvannuys",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://norms.olo.com/menu/norms-van-nuys"
+  },
+  {
+    "name": "Olo Host",
+    "slug": "olohost",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/host"
+  },
+  {
+    "name": "Order Solution Suite",
+    "slug": "ordersolutionsuite",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/solutions/order"
+  },
+  {
+    "name": "Norms Claremont",
+    "slug": "normsclaremont",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://norms.olo.com/menu/norms-claremont"
+  },
+  {
+    "name": "Norms",
+    "slug": "norms",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://norms.olo.com/"
+  },
+  {
+    "name": "Olo Sync",
+    "slug": "olosync",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/sync"
+  },
+  {
+    "name": "Restaurant Technology for Enterprise Chains",
+    "slug": "restauranttechnologyforenterprisechains",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/restaurants/enterprise-brands"
+  },
+  {
+    "name": "Restaurant Customer Data Platform",
+    "slug": "restaurantcustomerdataplatform",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/gdp"
+  },
+  {
+    "name": "Restaurant Catering Software for Driving High-Margin Revenue",
+    "slug": "restaurantcateringsoftwarefordrivinghigh",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/catering"
+  },
+  {
+    "name": "Norms West Covina",
+    "slug": "normswestcovina",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://norms.olo.com/menu/norms-west-covina"
+  },
+  {
+    "name": "Norms Riverside",
+    "slug": "normsriverside",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://norms.olo.com/menu/norms-riverside"
+  },
+  {
+    "name": "ᐅ Detroit Pizza Near Me - Detroit Pizza Delivery on Slice",
+    "slug": "detroitpizzanearme-detroitpizzadeliveryo",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/pizza-types/detroit-pizza"
+  },
+  {
+    "name": "ᐅ Detroit Pizza Delivery - Best Pizza Places in Detroit 2025",
+    "slug": "detroitpizzadelivery-bestpizzaplacesinde",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/pizza-delivery/mi-detroit"
+  },
+  {
+    "name": "What is Detroit-Style Pizza? - Slice Pizza Blog",
+    "slug": "whatisdetroit-stylepizza-slicepizzablog",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://blog.slicelife.com/what-is-detroit-style-pizza/"
+  },
+  {
+    "name": "GloriaFood Online Ordering: Online Food Ordering Mobile App",
+    "slug": "gloriafoodonlineorderingonlinefoodorderi",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/mobile-app-for-clients"
+  },
+  {
+    "name": "GloriaFood Partner Program",
+    "slug": "gloriafoodpartnerprogram",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/partner-program"
+  },
+  {
+    "name": "GloriaFood Online Ordering: Online Ordering System",
+    "slug": "gloriafoodonlineorderingonlineorderingsy",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/online-ordering-system"
+  },
+  {
+    "name": "GloriaFood Online Ordering: White Label Ordering App",
+    "slug": "gloriafoodonlineorderingwhitelabelorderi",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/white-label-food-ordering-app"
+  },
+  {
+    "name": "GloriaFood Online Ordering: Free Restaurant Order Taking App",
+    "slug": "gloriafoodonlineorderingfreerestaurantor",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/restaurant-order-taking-app"
+  },
+  {
+    "name": "GloriaFood Online Ordering: Restaurant Website Builder",
+    "slug": "gloriafoodonlineorderingrestaurantwebsit",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/restaurant-website-builder"
+  },
+  {
+    "name": "GloriaFood Online Ordering: Testimonials",
+    "slug": "gloriafoodonlineorderingtestimonials",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/reviews"
+  },
+  {
+    "name": "GloriaFood Online Ordering: WordPress food menu plugin",
+    "slug": "gloriafoodonlineorderingwordpressfoodmen",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/wordpress-food-menu-plugin"
+  },
+  {
+    "name": "GloriaFood Online Ordering: Hotel Ordering System",
+    "slug": "gloriafoodonlineorderinghotelorderingsys",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/hotel-ordering-system"
+  },
+  {
+    "name": "The GloriaFood Marketing Center",
+    "slug": "thegloriafoodmarketingcenter",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/marketing-center"
+  },
+  {
+    "name": "Detroit Eatery Catering",
+    "slug": "detroiteaterycatering",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.ezcater.com/brand/detroit-eatery"
+  },
+  {
+    "name": "ezCater’s top picks: Best catering in Detroit",
+    "slug": "ezcaterstoppicksbestcateringindetroit",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.ezcater.com/lunchrush/office/top-5-boxed-lunch-restaurants-in-detroit-michigan/"
+  },
+  {
+    "name": "Detroit, MI Catering Near Me",
+    "slug": "detroitmicateringnearme",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.ezcater.com/catering/mi/detroit"
+  },
+  {
+    "name": "Detroit Eatery Catering in Royal Oak, MI - 200 W 5th Ave",
+    "slug": "detroiteaterycateringinroyaloakmi-200w5t",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.ezcater.com/catering/detroit-eatery-royal-oak"
+  },
+  {
+    "name": "Breadless Catering in Detroit, MI - 2760 E Larned St",
+    "slug": "breadlesscateringindetroitmi-2760elarned",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.ezcater.com/catering/breadless-3"
+  },
+  {
+    "name": "Lunchtime Global Catering in Detroit, MI - 660 Woodward Ave",
+    "slug": "lunchtimeglobalcateringindetroitmi-660wo",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.ezcater.com/catering/lunchtime-global-detroit"
+  },
+  {
+    "name": "Discover top breakfast catering in Detroit",
+    "slug": "discovertopbreakfastcateringindetroit",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.ezcater.com/lunchrush/office/top-5-breakfast-catering-restaurants-in-detroit-michigan/"
+  },
+  {
+    "name": "Sheeba Express Catering in Detroit, MI - 1366 W Fort St",
+    "slug": "sheebaexpresscateringindetroitmi-1366wfo",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.ezcater.com/catering/sheeba-express-3"
+  },
+  {
+    "name": "Best Detroit Caterers",
+    "slug": "bestdetroitcaterers",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.ezcater.com/best-detroit-caterers"
+  },
+  {
+    "name": "Tasteful Sensations Catering in Detroit, MI - 5026 Cooper St",
+    "slug": "tastefulsensationscateringindetroitmi-50",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.ezcater.com/catering/tasteful-sensations-catering-3"
   }
 ]

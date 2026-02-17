@@ -3344,5 +3344,446 @@
       "chicago"
     ],
     "websiteOrderUrl": "https://www.owner.com/downloads/online-ordering-system-checklist"
+  },
+  {
+    "name": "Ocean Prime Chicago",
+    "slug": "oceanprimechicago",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://oceanprime.olo.com/menu/ocean-prime-chicago"
+  },
+  {
+    "name": "Solita - Chicago",
+    "slug": "solita-chicago",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://solitatacos.olo.com/menu/solita-chicago/products/53776881"
+  },
+  {
+    "name": "Velvet Taco Fulton Market Catering",
+    "slug": "velvettacofultonmarketcatering",
+    "category": "mexican",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://velvettacocatering.olo.com/menu/velvet-taco-fulton-market-catering"
+  },
+  {
+    "name": "Old Chicago Catering",
+    "slug": "oldchicagocatering",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://oldchicagocatering.olo.com/"
+  },
+  {
+    "name": "Stan's Damen Order Ahead",
+    "slug": "stansdamenorderahead",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://stansdonutsorderahead.olo.com/menu/damen-ave-stans-3"
+  },
+  {
+    "name": "Stan's Damen Catering",
+    "slug": "stansdamencatering",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://stansdonutscatering.olo.com/menu/damen-ave-stans"
+  },
+  {
+    "name": "Connors Park",
+    "slug": "connorspark",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://jenis.olo.com/menu/connors-park"
+  },
+  {
+    "name": "MrBeast Burger - 1208 North Wells Street",
+    "slug": "mrbeastburger-1208northwellsstreet",
+    "category": "burgers",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://beastburger.olo.com/menu/mrbeast-burger-1208-north-wells-street"
+  },
+  {
+    "name": "Wrigley Field",
+    "slug": "wrigleyfield",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://jenis.olo.com/menu/wrigley-field"
+  },
+  {
+    "name": "Stan's Lake",
+    "slug": "stanslake",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://stansdonuts.olo.com/menu/stans-lake"
+  },
+  {
+    "name": "Chicago - Fogo de Chão",
+    "slug": "chicago-fogodecho",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://fogo.olo.com/menu/fogo-de-cho-brazilian-steakhouse-10/products/24057297"
+  },
+  {
+    "name": "Olo",
+    "slug": "olo",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/ordering"
+  },
+  {
+    "name": "Restaurant Order Management Software",
+    "slug": "restaurantordermanagementsoftware",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/switchboard"
+  },
+  {
+    "name": "Stan's Donuts Roosevelt Rd",
+    "slug": "stansdonutsrooseveltrd",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://stansdonuts.olo.com/menu/stans-donuts-roosevelt-rd"
+  },
+  {
+    "name": "Stan's Donuts Hyde Park",
+    "slug": "stansdonutshydepark",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://stansdonuts.olo.com/menu/stans-donuts-hp"
+  },
+  {
+    "name": "Andersonville",
+    "slug": "andersonville",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://jenis.olo.com/menu/andersonville"
+  },
+  {
+    "name": "Stan's Donuts Washington St Order Ahead",
+    "slug": "stansdonutswashingtonstorderahead",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://stansdonutsorderahead.olo.com/menu/stans-donuts-washington-st-3"
+  },
+  {
+    "name": "Southport",
+    "slug": "southport",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://jenis.olo.com/menu/chicago-southport/products/37985593"
+  },
+  {
+    "name": "Armitage",
+    "slug": "armitage",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://jenis.olo.com/menu/armitage/categories/53820_85829"
+  },
+  {
+    "name": "Chicago Pizza Near Me - Locations, Hours, & Menus - Slice",
+    "slug": "chicagopizzanearme-locationshoursmenus-s",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/brands/chicago-pizza"
+  },
+  {
+    "name": "Chicago's Pizza Near Me - Locations, Hours, & Menus - Slice.",
+    "slug": "chicagospizzanearme-locationshoursmenus-",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/brands/chicago-s-pizza"
+  },
+  {
+    "name": "ᐅ Chicago Pizza Delivery - Best Pizza Places in Chicago 2025",
+    "slug": "chicagopizzadelivery-bestpizzaplacesinch",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/pizza-delivery/il-chicago"
+  },
+  {
+    "name": "Online Ordering",
+    "slug": "onlineordering",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://letseattolive.getbento.com/online-ordering/lets-eat-to-live/menu"
+  },
+  {
+    "name": "Milly's Pizza In The Pan - Pizza Restaurant in Chicago, IL",
+    "slug": "millyspizzainthepan-pizzarestaurantinchi",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://millyspizzachi.getbento.com/online-ordering/"
+  },
+  {
+    "name": "Big Hill",
+    "slug": "bighill",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://bighillchicago.getbento.com/online-ordering/big-hill/menu"
+  },
+  {
+    "name": "The Best Restaurant Websites in Chicago",
+    "slug": "thebestrestaurantwebsitesinchicago",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-chicago/"
+  },
+  {
+    "name": "Chicago Restaurant Week 2025 DINNER MENU",
+    "slug": "chicagorestaurantweek2025dinnermenu",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/f6ff01c46a03f776e4903e197ac135d5/media/8bY3STx9QqKP8AbUo527_BLVD_Restaurant%20Week%20Menu%20(2025).pdf"
+  },
+  {
+    "name": "Catering",
+    "slug": "catering",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://zeitlinsdeli.getbento.com/catering-store-v2/zeitlins-delicatessen/menu/order-settings"
+  },
+  {
+    "name": "Chicago Restaurant Week Menu 2026",
+    "slug": "chicagorestaurantweekmenu2026",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/268228e5996e8411061b3005bd80dab6/media/nnInYdaTXCInPb15yi4G_Chicago%20Restaurant%20Week%20Menu%202026.pdf"
+  },
+  {
+    "name": "Hangry Cluck",
+    "slug": "hangrycluck",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://hangry-cluck.getbento.com/online-ordering/hangry-cluck-llc/menu"
+  },
+  {
+    "name": "Manny's Deli - Delicatessen in Chicago, IL",
+    "slug": "mannysdeli-delicatesseninchicagoil",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://mannysdeli.getbento.com/online-ordering/"
+  },
+  {
+    "name": "Haire's Gulf Shrimp",
+    "slug": "hairesgulfshrimp",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://hairesgulfshrimp.getbento.com/online-ordering/"
+  },
+  {
+    "name": "CAFE 75 - CHICAGO, IL",
+    "slug": "cafe75-chicagoil",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/cafe-75-chicago"
+  },
+  {
+    "name": "Anmol BBQ Restaurant - Chicago, IL",
+    "slug": "anmolbbqrestaurant-chicagoil",
+    "category": "bbq",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/anmol-bbq-restaurant-chicago/"
+  },
+  {
+    "name": "CINCO - CHICAGO, IL",
+    "slug": "cinco-chicagoil",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/cinco--chicago"
+  },
+  {
+    "name": "ADDA INDIAN CUISINE - CHICAGO, IL",
+    "slug": "addaindiancuisine-chicagoil",
+    "category": "indian",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/adda-indian-cuisine-chicago"
+  },
+  {
+    "name": "LET`S EAT TO LIVE - CHICAGO, IL",
+    "slug": "letseattolive-chicagoil",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/lets-eat-to-live-chicago"
+  },
+  {
+    "name": "ANTIQUE TACO WICKER PARK - CHICAGO, IL",
+    "slug": "antiquetacowickerpark-chicagoil",
+    "category": "mexican",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/antique-taco-wicker-park-chicago"
+  },
+  {
+    "name": "PITA EXPRESS - CHICAGO, IL",
+    "slug": "pitaexpress-chicagoil",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/pita-express-chicago"
+  },
+  {
+    "name": "Antique Taco Bridgeport - CHICAGO, IL",
+    "slug": "antiquetacobridgeport-chicagoil",
+    "category": "mexican",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/antique-taco-bridgeport-chicago"
+  },
+  {
+    "name": "Sandwich Queen Express - CHICAGO, IL",
+    "slug": "sandwichqueenexpress-chicagoil",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/sandwich-queen-express-chicago"
+  },
+  {
+    "name": "RIVERS & ROADS CAFE - CHICAGO, IL",
+    "slug": "riversroadscafe-chicagoil",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/rivers--roads-cafe-chicago"
+  },
+  {
+    "name": "CAFE NOVA - CHICAGO, IL",
+    "slug": "cafenova-chicagoil",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/cafe-nova-chicago"
+  },
+  {
+    "name": "THE CUPTOWN - CHICAGO, IL",
+    "slug": "thecuptown-chicagoil",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/the-cuptown-chicago"
+  },
+  {
+    "name": "LOLA'S CONEY ISLAND - CHICAGO, IL",
+    "slug": "lolasconeyisland-chicagoil",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/lolas-coney-island-chicago"
+  },
+  {
+    "name": "JOSEPHINE'S SOUTHERN COOKING - CHICAGO, IL",
+    "slug": "josephinessoutherncooking-chicagoil",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/josephines-cooking"
+  },
+  {
+    "name": "SALSA PICANTE - CHICAGO, IL",
+    "slug": "salsapicante-chicagoil",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/salsa-picante-chicago"
+  },
+  {
+    "name": "Restaurant",
+    "slug": "restaurant",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://partners.clover.com/citi/industries/restaurants/"
+  },
+  {
+    "name": "Restaurant Depot",
+    "slug": "restaurantdepot",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "websiteOrderUrl": "https://partners.clover.com/restaurant-depot/home/"
   }
 ]

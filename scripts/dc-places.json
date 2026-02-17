@@ -1951,5 +1951,383 @@
       "dc"
     ],
     "websiteOrderUrl": "https://www.owner.com/b"
+  },
+  {
+    "name": "Ocean Prime Washington DC",
+    "slug": "oceanprimewashingtondc",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://oceanprime.olo.com/menu/ocean-prime-washington-dc"
+  },
+  {
+    "name": "California Tortilla Ronald Reagan Building",
+    "slug": "californiatortillaronaldreaganbuilding",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://californiatortilla.olo.com/menu/california-tortilla-ronald-reagan-building"
+  },
+  {
+    "name": "CARMINE'S DC",
+    "slug": "carminesdc",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://carminesnyc.olo.com/menu/carmines-dc"
+  },
+  {
+    "name": "Pinstripes Georgetown",
+    "slug": "pinstripesgeorgetown",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://pinstripesbistro.olo.com/menu/pinstripes-georgetown"
+  },
+  {
+    "name": "Washington DC - Fogo de Chão",
+    "slug": "washingtondc-fogodecho",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://fogo.olo.com/menu/fogo-de-cho-brazilian-steakhouse-40/categories/38841_78039"
+  },
+  {
+    "name": "Olo",
+    "slug": "olo",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/ordering"
+  },
+  {
+    "name": "Pinstripes Georgetown Catering",
+    "slug": "pinstripesgeorgetowncatering",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://pinstripescater.olo.com/menu/pinstripes-georgetown-catering"
+  },
+  {
+    "name": "14th & Wallach",
+    "slug": "14thwallach",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://jenis.olo.com/menu/dc-14th-wallach/products/74681362"
+  },
+  {
+    "name": "Olo - Restaurant Technology & Digital Ordering Platform",
+    "slug": "olo-restauranttechnologydigitalorderingp",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/"
+  },
+  {
+    "name": "Wings to Go Menu: Pizza Delivery Washington, DC",
+    "slug": "wingstogomenupizzadeliverywashingtondc",
+    "category": "pizza",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/restaurants/dc/washington/20017/wings-to-go-washington/menu"
+  },
+  {
+    "name": "Dupont Pizza Menu: Pizza Delivery Washington, DC",
+    "slug": "dupontpizzamenupizzadeliverywashingtondc",
+    "category": "pizza",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/restaurants/dc/washington/20036/dupont-s-pizza-2004-p-st-nw-washington/menu"
+  },
+  {
+    "name": "Jumbo Slice Pizza Mart Menu: Pizza Delivery Washington, DC",
+    "slug": "jumboslicepizzamartmenupizzadeliverywash",
+    "category": "pizza",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/restaurants/dc/washington/20009/jumbo-slice-pizza-mart-washington/menu"
+  },
+  {
+    "name": "Da Love of Soul Menu: Pizza Delivery Washington, DC",
+    "slug": "daloveofsoulmenupizzadeliverywashingtond",
+    "category": "pizza",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/restaurants/dc/washington/20032/da-love-of-soul/menu"
+  },
+  {
+    "name": "GloriaFood Online Ordering: Food Ordering API",
+    "slug": "gloriafoodonlineorderingfoodorderingapi",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/restaurant-ordering-system-with-food-ordering-api"
+  },
+  {
+    "name": "GloriaFood Online Ordering: Online Ordering System",
+    "slug": "gloriafoodonlineorderingonlineorderingsy",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/online-ordering-system"
+  },
+  {
+    "name": "GloriaFood Online Ordering: White Label Ordering App",
+    "slug": "gloriafoodonlineorderingwhitelabelorderi",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/white-label-food-ordering-app"
+  },
+  {
+    "name": "GloriaFood Online Ordering: Online Food Ordering Mobile App",
+    "slug": "gloriafoodonlineorderingonlinefoodorderi",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/mobile-app-for-clients"
+  },
+  {
+    "name": "GloriaFood Online Ordering: WordPress food menu plugin",
+    "slug": "gloriafoodonlineorderingwordpressfoodmen",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/wordpress-food-menu-plugin"
+  },
+  {
+    "name": "GloriaFood Online Ordering: Weebly Reservation System",
+    "slug": "gloriafoodonlineorderingweeblyreservatio",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/weebly-reservation-system-for-restaurants"
+  },
+  {
+    "name": "GloriaFood Online Ordering Software",
+    "slug": "gloriafoodonlineorderingsoftware",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/online-ordering"
+  },
+  {
+    "name": "Free restaurant booking system",
+    "slug": "freerestaurantbookingsystem",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/free-restaurant-booking-system"
+  },
+  {
+    "name": "GloriaFood Online Ordering: Hotel Ordering System",
+    "slug": "gloriafoodonlineorderinghotelorderingsys",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/hotel-ordering-system"
+  },
+  {
+    "name": "GloriaFood Online Ordering: Restaurant Website Builder",
+    "slug": "gloriafoodonlineorderingrestaurantwebsit",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/restaurant-website-builder"
+  },
+  {
+    "name": "Mood Swings Food Hall - WASHINGTON, DC",
+    "slug": "moodswingsfoodhall-washingtondc",
+    "category": "wings",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/moodswingsfoodhall"
+  },
+  {
+    "name": "VEGZ - Washington, District of Columbia",
+    "slug": "vegz-washingtondistrictofcolumbia",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/vegz-washington"
+  },
+  {
+    "name": "LITTLE FOOD STUDIO - WASHINGTON, DC",
+    "slug": "littlefoodstudio-washingtondc",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/little-food-studio-washington"
+  },
+  {
+    "name": "PLNTR dc - WASHINGTON, DC",
+    "slug": "plntrdc-washingtondc",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/plntr-washington"
+  },
+  {
+    "name": "Menomale Brookland - WASHINGTON, DC",
+    "slug": "menomalebrookland-washingtondc",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/menomale-washington"
+  },
+  {
+    "name": "Online Ordering",
+    "slug": "onlineordering",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/food-gallery-washington"
+  },
+  {
+    "name": "54 NOODLES BAR - WASHINGTON, DC",
+    "slug": "54noodlesbar-washingtondc",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/54-noodles-bar--new-washington"
+  },
+  {
+    "name": "THE BEST SANDWICH PLACE - WASHINGTON, DC",
+    "slug": "thebestsandwichplace-washingtondc",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/the-best-sandwich-place-washington-2"
+  },
+  {
+    "name": "68 Cafe - Pho Noodles, Wings & Rice - WASHINGTON, DC",
+    "slug": "68cafe-phonoodleswingsrice-washingtondc",
+    "category": "cafe",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/68-cafe-washington/FMRJM99F1BRTR"
+  },
+  {
+    "name": "Curry and Pie - WASHINGTON, DC",
+    "slug": "curryandpie-washingtondc",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/food-gallery-washington/CCR2SZ4YFRSWG"
+  },
+  {
+    "name": "LiLLiES Restaurant & Bar - Washington, District of Columbia",
+    "slug": "lilliesrestaurantbar-washingtondistricto",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/LiLLiESDC"
+  },
+  {
+    "name": "PHO 88 NOODLES & GRILL - WASHINGTON, DC",
+    "slug": "pho88noodlesgrill-washingtondc",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/pho-88-noodles--grill-washington"
+  },
+  {
+    "name": "CHERCHER ETHIOPIAN RESTAURANT",
+    "slug": "chercherethiopianrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/chercher-ethiopian-restaurant-washington"
+  },
+  {
+    "name": "PHO 54 - WASHINGTON, DC",
+    "slug": "pho54-washingtondc",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/pho-54-washington-2"
+  },
+  {
+    "name": "FRUITIVE CityCenter - WASHINGTON, DC",
+    "slug": "fruitivecitycenter-washingtondc",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/fruitive-citycenter-washington"
+  },
+  {
+    "name": "City Sliders - WASHINGTON, DC",
+    "slug": "citysliders-washingtondc",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/city-sliders-washington"
+  },
+  {
+    "name": "54 NOODLES BAR - Washington, District of Columbia",
+    "slug": "54noodlesbar-washingtondistrictofcolumbi",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/54-noodles-bar-washington-2"
+  },
+  {
+    "name": "54 PENNSYLVANIA - WASHINGTON, DC",
+    "slug": "54pennsylvania-washingtondc",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/54-pennsylvania-washington"
+  },
+  {
+    "name": "KUDEDON - Seattle, Washington",
+    "slug": "kudedon-seattlewashington",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/kudedon-seattle"
   }
 ]

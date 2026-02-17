@@ -2425,5 +2425,437 @@
       "dallas"
     ],
     "websiteOrderUrl": "https://www.owner.com/restaurant-participation-agreement"
+  },
+  {
+    "name": "Ocean Prime Dallas",
+    "slug": "oceanprimedallas",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://oceanprime.olo.com/menu/ocean-prime-dallas"
+  },
+  {
+    "name": "Dallas Catering",
+    "slug": "dallascatering",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://truefoodkitchencatering.olo.com/menu/dallas-catering"
+  },
+  {
+    "name": "Hillstone - Dallas",
+    "slug": "hillstone-dallas",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://hillstone.olo.com/menu/hillstone-dallas"
+  },
+  {
+    "name": "Sadelle's - Dallas",
+    "slug": "sadelles-dallas",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://sadellescatering.olo.com/menu/sadelles-dallas"
+  },
+  {
+    "name": "Dallas (W Mockingbird Ln & Forest Park Rd)",
+    "slug": "dallaswmockingbirdlnforestparkrd",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://snarfssandwiches.olo.com/menu/dallas-w-mockingbird-ln-forest-park-rd"
+  },
+  {
+    "name": "Dallas (Abrams Pkwy & La Vista Dr)",
+    "slug": "dallasabramspkwylavistadr",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://snarfssandwiches.olo.com/menu/dallas-abrams-pkwy-la-vistra-dr"
+  },
+  {
+    "name": "Golden Chick Dallas E NW Highway",
+    "slug": "goldenchickdallasenwhighway",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://goldenchick.olo.com/menu/golden-chick-dallas-e-nw-highway"
+  },
+  {
+    "name": "Cane Rosso - North Dallas",
+    "slug": "canerosso-northdallas",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://pilfrestaurantgroupcater.olo.com/menu/cane-rosso-north-dallas-3"
+  },
+  {
+    "name": "Golden Chick Dallas Ledbetter Dr",
+    "slug": "goldenchickdallasledbetterdr",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://goldenchick.olo.com/menu/golden-chick-ledbetter"
+  },
+  {
+    "name": "Dallas Lemmon Ave.",
+    "slug": "dallaslemmonave",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://anotherbrokeneggcafe.olo.com/menu/dallas-lemmon-ave"
+  },
+  {
+    "name": "Bahama Buck's - Dallas (Abrams Road)",
+    "slug": "bahamabucks-dallasabramsroad",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://bahamabucks.olo.com/menu/bahama-bucks-dallas"
+  },
+  {
+    "name": "Golden Chick Dallas Illinois Ave",
+    "slug": "goldenchickdallasillinoisave",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://goldenchick.olo.com/menu/golden-chick-illinois"
+  },
+  {
+    "name": "Hillstone - DallasX",
+    "slug": "hillstone-dallasx",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://hillstone.olo.com/menu/hillstone-dallas/categories/48143"
+  },
+  {
+    "name": "Cane Rosso - Deep Ellum",
+    "slug": "canerosso-deepellum",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://pilfrestaurantgroupcater.olo.com/menu/cane-rosso-deep-ellum-3"
+  },
+  {
+    "name": "Cane Rosso - White Rock",
+    "slug": "canerosso-whiterock",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://pilfrestaurantgroupcater.olo.com/menu/cane-rosso-white-rock-3"
+  },
+  {
+    "name": "Fuzzy's Taco Shop Dallas, TX (Deep Ellum)",
+    "slug": "fuzzystacoshopdallastxdeepellum",
+    "category": "mexican",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://fuzzystacoshop.olo.com/menu/deep-ellum/products/5410142"
+  },
+  {
+    "name": "Golden Chick Dallas N Masters Rd",
+    "slug": "goldenchickdallasnmastersrd",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://goldenchick.olo.com/menu/golden-chick-dallas-n-masters-rd"
+  },
+  {
+    "name": "Golden Chick Dallas Hillcrest",
+    "slug": "goldenchickdallashillcrest",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://goldenchick.olo.com/menu/golden-chick-dallas-hillcrest"
+  },
+  {
+    "name": "ᐅ Dallas Pizza Delivery - Best Pizza Places in Dallas 2025",
+    "slug": "dallaspizzadelivery-bestpizzaplacesindal",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/pizza-delivery/tx-dallas"
+  },
+  {
+    "name": "Online Ordering",
+    "slug": "onlineordering",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://localrestaurant.getbento.com/online-ordering/"
+  },
+  {
+    "name": "The Best Restaurant Websites in Dallas",
+    "slug": "thebestrestaurantwebsitesindallas",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-dallas/"
+  },
+  {
+    "name": "Dallas",
+    "slug": "dallas",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://sadelles.getbento.com/location/dallas/"
+  },
+  {
+    "name": "Billy Can Can",
+    "slug": "billycancan",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://billycancan.getbento.com/"
+  },
+  {
+    "name": "Snappy Salads in Dallas, TX",
+    "slug": "snappysaladsindallastx",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://snappysalads.getbento.com/"
+  },
+  {
+    "name": "Sadelle's - Major Food Group Restaurant",
+    "slug": "sadelles-majorfoodgrouprestaurant",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://sadelles.getbento.com/catering-store-v2/sadelles-new-york/menu/order-settings"
+  },
+  {
+    "name": "Highland Park Dallas Holiday",
+    "slug": "highlandparkdallasholiday",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://sadelles.getbento.com/location/highland-park-dallas-holiday/"
+  },
+  {
+    "name": "Best Restaurant Websites - Texas",
+    "slug": "bestrestaurantwebsites-texas",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-texas/"
+  },
+  {
+    "name": "Home",
+    "slug": "home",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://preciosamarket.getbento.com/"
+  },
+  {
+    "name": "New The Finch Dallas LBW Menu 10.2.24",
+    "slug": "newthefinchdallaslbwmenu10224",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/dd1a47fbd9ff0e1595f0b8b7a8c89839/media/F474tXORky0gJ33nSIVf_New%20The%20Finch%20Dallas%20LBW%20Menu%2010.2.24.pdf"
+  },
+  {
+    "name": "Vino Carbone",
+    "slug": "vinocarbone",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://vinocarbonedallas.getbento.com/catering-store-v2/"
+  },
+  {
+    "name": "The Reserve (HILTON Curio Dallas)",
+    "slug": "thereservehiltoncuriodallas",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://thereservehighland.getbento.com/"
+  },
+  {
+    "name": "BentoBox",
+    "slug": "bentobox",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://majorfood.getbento.com/dallas/"
+  },
+  {
+    "name": "PRIVATE DINING 2817 WEST DALLAS STREET HOUSTON TX 77019",
+    "slug": "privatedining2817westdallasstreethouston",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/c31ee7a22b8a5de7f98fbe0d9d8c0438/media/gC2mbBtfSaGXsKumwMrP_2180617%20LGRG%20-%20Banquet%20Menu%20--%2010-23%20(1).pdf"
+  },
+  {
+    "name": "Menus",
+    "slug": "menus",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://tedeseo.getbento.com/menus/"
+  },
+  {
+    "name": "THE LUNCHROOM",
+    "slug": "thelunchroom",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://thalunchroom.getbento.com/"
+  },
+  {
+    "name": "STEAKYARD - DALLAS, TX",
+    "slug": "steakyard-dallastx",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/steakyard-dallas"
+  },
+  {
+    "name": "OLORI AFRICAN CUISINE - Dallas, Texas",
+    "slug": "oloriafricancuisine-dallastexas",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/olori-african-cuisine-dallas"
+  },
+  {
+    "name": "INVASIONS - DALLAS, TX",
+    "slug": "invasions-dallastx",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/invasions-dallas"
+  },
+  {
+    "name": "C ROLLS SUSHI - DALLAS, TX",
+    "slug": "crollssushi-dallastx",
+    "category": "japanese",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/c-rolls-sushi-dallas"
+  },
+  {
+    "name": "LA VUI VIETNAMESE RESTAURANT - DALLAS, TX",
+    "slug": "lavuivietnameserestaurant-dallastx",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/lavui-vietnamese-restaurant-dallas"
+  },
+  {
+    "name": "Wulf Burger - Dallas, Texas",
+    "slug": "wulfburger-dallastexas",
+    "category": "burgers",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/wulf-burger-dallas"
+  },
+  {
+    "name": "THE FIVE EXPERIENCE - DALLAS, TX",
+    "slug": "thefiveexperience-dallastx",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/THEFIVEE"
+  },
+  {
+    "name": "POS System & Credit Card Readers",
+    "slug": "possystemcreditcardreaders",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/pos-systems/online-ordering"
+  },
+  {
+    "name": "Clover’s got restaurant delivery covered: 4 services to try",
+    "slug": "cloversgotrestaurantdeliverycovered4serv",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://partners.clover.com/santander/resources/restaurant/4deliveryservicestotry/"
+  },
+  {
+    "name": "ONEDON - Dallas, TX",
+    "slug": "onedon-dallastx",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/one-don-dallas/9N528TB2N84BP"
+  },
+  {
+    "name": "Restaurant Depot",
+    "slug": "restaurantdepot",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://merchantservices.clover.com/restaurant-depot/"
+  },
+  {
+    "name": "Table Service Restaurants",
+    "slug": "tableservicerestaurants",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://partners.clover.com/restaurant-depot/business-types/table-service-restaurants/"
+  },
+  {
+    "name": "IEC Restaurant - HOUSTON, TX",
+    "slug": "iecrestaurant-houstontx",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/iec-houston"
   }
 ]

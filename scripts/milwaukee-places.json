@@ -1796,5 +1796,482 @@
       "milwaukee"
     ],
     "websiteOrderUrl": "https://www.menufy.com/WI/South%20Milwaukee/Brunch"
+  },
+  {
+    "name": "Milwaukee Burger Company",
+    "slug": "milwaukeeburgercompany",
+    "category": "burgers",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://milwaukeeburger.olo.com/"
+  },
+  {
+    "name": "Restaurant Consulting Group",
+    "slug": "restaurantconsultinggroup",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://restaurantconsulting.olo.com/"
+  },
+  {
+    "name": "Olo",
+    "slug": "olo",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/ordering"
+  },
+  {
+    "name": "Restaurant Delivery Management Software",
+    "slug": "restaurantdeliverymanagementsoftware",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/dispatch"
+  },
+  {
+    "name": "Restaurant Order Management Software",
+    "slug": "restaurantordermanagementsoftware",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/switchboard"
+  },
+  {
+    "name": "Olo Rails",
+    "slug": "olorails",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/rails"
+  },
+  {
+    "name": "Olo - Restaurant Technology & Digital Ordering Platform",
+    "slug": "olo-restauranttechnologydigitalorderingp",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/"
+  },
+  {
+    "name": "Restaurant Payment Processing Platform",
+    "slug": "restaurantpaymentprocessingplatform",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/pay"
+  },
+  {
+    "name": "Restaurant Catering Software for Driving High-Margin Revenue",
+    "slug": "restaurantcateringsoftwarefordrivinghigh",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/catering"
+  },
+  {
+    "name": "Online Restaurant Reservation Software",
+    "slug": "onlinerestaurantreservationsoftware",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/host"
+  },
+  {
+    "name": "The Skrimp Shack",
+    "slug": "theskrimpshack",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://theskrimpshack.olo.com/frequently-asked-questions"
+  },
+  {
+    "name": "Portillo's",
+    "slug": "portillos",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/case-studies/portillos"
+  },
+  {
+    "name": "Olo Partner - ezCater",
+    "slug": "olopartner-ezcater",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://partners.olo.com/partners/ezcater/"
+  },
+  {
+    "name": "Restaurant Technology for Enterprise Chains",
+    "slug": "restauranttechnologyforenterprisechains",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/restaurants/enterprise-brands"
+  },
+  {
+    "name": "Contact Olo",
+    "slug": "contactolo",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/contact/food-orders"
+  },
+  {
+    "name": "Norms",
+    "slug": "norms",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://norms.olo.com/privacy-policy"
+  },
+  {
+    "name": "Order Solution Suite",
+    "slug": "ordersolutionsuite",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/solutions/order"
+  },
+  {
+    "name": "Nomad",
+    "slug": "nomad",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://nomadcoffeebar.getbento.com/online-ordering/nomad-coffee-bar/menu"
+  },
+  {
+    "name": "Vientiane Noodle Shop - Laotian Cuisine in Milwaukee, WI",
+    "slug": "vientianenoodleshop-laotiancuisineinmilw",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://vientianenoodleshop.getbento.com/online-ordering/"
+  },
+  {
+    "name": "BLACK SHOE HOSPITALITY – APPLICATION JOB APPLICATION",
+    "slug": "blackshoehospitalityapplicationjobapplic",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/b67afb7c6203b8a4a64f90c85896c05b/media/hgIGhYRqSRuuZiDn5JSQ_Black_Shoe_Application.pdf"
+  },
+  {
+    "name": "The Best Online Ordering System for Restaurants in 2024",
+    "slug": "thebestonlineorderingsystemforrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/the-best-online-ordering-system-for-restaurants/"
+  },
+  {
+    "name": "Restaurant Online Ordering",
+    "slug": "restaurantonlineordering",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/products/online-ordering/"
+  },
+  {
+    "name": "Restaurant Musings: How Restaurants are Giving Back",
+    "slug": "restaurantmusingshowrestaurantsaregiving",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/restaurant-musings-how-restaurants-are-giving-back/"
+  },
+  {
+    "name": "Take Online Orders Through Facebook & Instagram",
+    "slug": "takeonlineordersthroughfacebookinstagram",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/facebook-instagram-online-order-now/"
+  },
+  {
+    "name": "Looking For Delivery Fulfillment For Your Restaurant?",
+    "slug": "lookingfordeliveryfulfillmentforyourrest",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/benefits-of-delivery-fulfillment-for-restaurants/"
+  },
+  {
+    "name": "Direct Online Ordering System Advantages for Restaurants",
+    "slug": "directonlineorderingsystemadvantagesforr",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/direct-online-ordering-system-for-restaurants/"
+  },
+  {
+    "name": "Which Restaurant Reservation System Should You Use?",
+    "slug": "whichrestaurantreservationsystemshouldyo",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/online-restaurant-reservation-systems/"
+  },
+  {
+    "name": "Restaurant Catering Software",
+    "slug": "restaurantcateringsoftware",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/products/preorder-catering/"
+  },
+  {
+    "name": "The Best Restaurant Websites in Chicago",
+    "slug": "thebestrestaurantwebsitesinchicago",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-chicago/"
+  },
+  {
+    "name": "Pre",
+    "slug": "pre",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/why-we-built-restaurant-pre-order-catering/"
+  },
+  {
+    "name": "Dine-in ordering",
+    "slug": "dine-inordering",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/products/dine-in-ordering/"
+  },
+  {
+    "name": "Takeout & Delivery Commission Calculator",
+    "slug": "takeoutdeliverycommissioncalculator",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/commission-calculator/"
+  },
+  {
+    "name": "Online Ordering",
+    "slug": "onlineordering",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/uppa-yard-llc-milwaukee-2"
+  },
+  {
+    "name": "BURGER TOWN - SOUTH MILWAUKEE, WI",
+    "slug": "burgertown-southmilwaukeewi",
+    "category": "burgers",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/burger-town-south-milwaukee-2"
+  },
+  {
+    "name": "ROLLUP - MILWAUKEE, WI",
+    "slug": "rollup-milwaukeewi",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/roll-up-milwaukee"
+  },
+  {
+    "name": "YOUR IN LUCK EATS - MILWAUKEE, WI",
+    "slug": "yourinluckeats-milwaukeewi",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/your-in-luck-eats-milwaukee"
+  },
+  {
+    "name": "MILW WATERFRONT DELI - MILWAUKEE, WI",
+    "slug": "milwwaterfrontdeli-milwaukeewi",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/waterfront-deli-milwaukee"
+  },
+  {
+    "name": "Rise and Grind Cafe - MLK - MILWAUKEE, WI",
+    "slug": "riseandgrindcafe-mlk-milwaukeewi",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/rise-and-grind-cafe--mlk-milwaukee"
+  },
+  {
+    "name": "MKE WATERFRONT DELI - MILWAUKEE, WI",
+    "slug": "mkewaterfrontdeli-milwaukeewi",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/Milwaukee-waterfront-deli"
+  },
+  {
+    "name": "RCW'S CAFE - MILWAUKEE, WI",
+    "slug": "rcwscafe-milwaukeewi",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/rcws-cafe-milwaukee"
+  },
+  {
+    "name": "BreaD HousE - MILWAUKEE, WI",
+    "slug": "breadhouse-milwaukeewi",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/bread-house-milwaukee-2/JTBXKCBCPFST6"
+  },
+  {
+    "name": "MKE FISH & CHICKEN - MILWAUKEE, WI",
+    "slug": "mkefishchicken-milwaukeewi",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/mke-fish--chicken-milwaukee"
+  },
+  {
+    "name": "1700 PULL UP - MILWAUKEE, WI",
+    "slug": "1700pullup-milwaukeewi",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/1700-pull-up-milwaukee"
+  },
+  {
+    "name": "JJ Fish and Chicken - Milwaukee, WI",
+    "slug": "jjfishandchicken-milwaukeewi",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/halal-jj-fish-and-chicke-milwaukee"
+  },
+  {
+    "name": "BOILER HOUSE CAFE - MILWAUKEE, WI",
+    "slug": "boilerhousecafe-milwaukeewi",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/boiler-house-cafe-milwaukee"
+  },
+  {
+    "name": "LUCKY GINGER - MILWAUKEE, WI",
+    "slug": "luckyginger-milwaukeewi",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/lucky-ginger-milwaukee-2"
+  },
+  {
+    "name": "HOUSE OF CORNED BEEF - MILWAUKEE, WI",
+    "slug": "houseofcornedbeef-milwaukeewi",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/house-of-corned-beef-milwaukee"
+  },
+  {
+    "name": "THE CLUCKERY - CREAM CITY - MILWAUKEE, WI",
+    "slug": "thecluckery-creamcity-milwaukeewi",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/cluckerymilwaukee"
+  },
+  {
+    "name": "MOCHINUT BAYVIEW - MILWAUKEE, WI",
+    "slug": "mochinutbayview-milwaukeewi",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/mochinut-bayview-milwaukee"
+  },
+  {
+    "name": "Bistro - South Milwaukee, WI",
+    "slug": "bistro-southmilwaukeewi",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/bistro-south-milwaukee"
+  },
+  {
+    "name": "HOUSE OF CORNED BEEF - Milwaukee, Wisconsin",
+    "slug": "houseofcornedbeef-milwaukeewisconsin",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/house-of-corned-beef-milwaukee/6TT8GC1WB8BYY"
+  },
+  {
+    "name": "VIENTIANE NOODLE SHOP - MILWAUKEE, WI",
+    "slug": "vientianenoodleshop-milwaukeewi",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/vientiane-noodle-shop-milwaukee"
+  },
+  {
+    "name": "HONEYPIE CAFE - MILWAUKEE, WI 53207 (Menu & Order Online)",
+    "slug": "honeypiecafe-milwaukeewi53207menuorderon",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://honeypiecafe.menufy.com/"
   }
 ]

@@ -1856,5 +1856,437 @@
       "minneapolis"
     ],
     "websiteOrderUrl": "https://www.menufy.com/MN/South%20Minneapolis/Indo-Chinese"
+  },
+  {
+    "name": "Minneapolis - Fogo de Chão",
+    "slug": "minneapolis-fogodecho",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://fogo.olo.com/menu/fogo-de-cho-brazilian-steakhouse-11"
+  },
+  {
+    "name": "Fuzzy's Taco Shop Minneapolis, MN",
+    "slug": "fuzzystacoshopminneapolismn",
+    "category": "mexican",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://fuzzystacoshop.olo.com/menu/minneapolis"
+  },
+  {
+    "name": "Fuzzy's Taco Shop Minneapolis, MN Catering",
+    "slug": "fuzzystacoshopminneapolismncatering",
+    "category": "mexican",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://fuzzyscatering.olo.com/menu/fuzzys-taco-shop-minneapolis-mn-catering"
+  },
+  {
+    "name": "Centro Restaurant Group",
+    "slug": "centrorestaurantgroup",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/case-studies/centro-restaurant-group"
+  },
+  {
+    "name": "Sally's Saloon (X)",
+    "slug": "sallyssaloonx",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://aftermidnightgroup.olo.com/menu/sallys-saloon"
+  },
+  {
+    "name": "Restaurant Tech Solutions & Ordering Benefits",
+    "slug": "restauranttechsolutionsorderingbenefits",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/why-olo"
+  },
+  {
+    "name": "Norms",
+    "slug": "norms",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://norms.olo.com/"
+  },
+  {
+    "name": "Dunn Brothers LaSalle Plaza",
+    "slug": "dunnbrotherslasalleplaza",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://dunnbros.olo.com/menu/dunn-bros-lasalle-plaza"
+  },
+  {
+    "name": "Cowboy Slims (X)",
+    "slug": "cowboyslimsx",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://aftermidnightgroup.olo.com/menu/cowboy-slims"
+  },
+  {
+    "name": "Dunn Brothers Freight House (x)",
+    "slug": "dunnbrothersfreighthousex",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://dunnbros.olo.com/menu/dunn-bros-freight-house/products/13305892"
+  },
+  {
+    "name": "Norms Rialto",
+    "slug": "normsrialto",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://norms.olo.com/menu/norms-rialto"
+  },
+  {
+    "name": "Olo",
+    "slug": "olo",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/ordering"
+  },
+  {
+    "name": "Norms El Monte",
+    "slug": "normselmonte",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://norms.olo.com/menu/norms-el-monte"
+  },
+  {
+    "name": "Contact Olo",
+    "slug": "contactolo",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/contact/food-orders"
+  },
+  {
+    "name": "Norms Orange",
+    "slug": "normsorange",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://norms.olo.com/menu/norms-orange"
+  },
+  {
+    "name": "Norms Catering",
+    "slug": "normscatering",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://normscatering.olo.com/"
+  },
+  {
+    "name": "Catering",
+    "slug": "catering",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://foodontheflymn.getbento.com/catering-store-v2/food-on-the-fly/menu/order-settings"
+  },
+  {
+    "name": "Chef Ann Kim's Minneapolis Pizza Restaurant",
+    "slug": "chefannkimsminneapolispizzarestaurant",
+    "category": "pizza",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://pizzerialola.getbento.com/"
+  },
+  {
+    "name": "BentoBox",
+    "slug": "bentobox",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://kadaikitchen.getbento.com/online-ordering/"
+  },
+  {
+    "name": "Hours + Location",
+    "slug": "hourslocation",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://kifway.getbento.com/location/kifway-eats/"
+  },
+  {
+    "name": "Restaurant Online Ordering",
+    "slug": "restaurantonlineordering",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/products/online-ordering/"
+  },
+  {
+    "name": "Restaurant Marketing & Commerce Platform",
+    "slug": "restaurantmarketingcommerceplatform",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/"
+  },
+  {
+    "name": "Which Restaurant Reservation System Should You Use?",
+    "slug": "whichrestaurantreservationsystemshouldyo",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/online-restaurant-reservation-systems/"
+  },
+  {
+    "name": "Rajo Kitchen",
+    "slug": "rajokitchen",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://rajokitchen-archive.getbento.com/"
+  },
+  {
+    "name": "Restaurant Catering Software",
+    "slug": "restaurantcateringsoftware",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/products/preorder-catering/"
+  },
+  {
+    "name": "Pre",
+    "slug": "pre",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/why-we-built-restaurant-pre-order-catering/"
+  },
+  {
+    "name": "Restaurant Reservation Software",
+    "slug": "restaurantreservationsoftware",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/products/reservations/"
+  },
+  {
+    "name": "Looking For Delivery Fulfillment For Your Restaurant?",
+    "slug": "lookingfordeliveryfulfillmentforyourrest",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/benefits-of-delivery-fulfillment-for-restaurants/"
+  },
+  {
+    "name": "Direct Online Ordering System Advantages for Restaurants",
+    "slug": "directonlineorderingsystemadvantagesforr",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/direct-online-ordering-system-for-restaurants/"
+  },
+  {
+    "name": "Dine-in ordering",
+    "slug": "dine-inordering",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/products/dine-in-ordering/"
+  },
+  {
+    "name": "Take Online Orders Through Facebook & Instagram",
+    "slug": "takeonlineordersthroughfacebookinstagram",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/facebook-instagram-online-order-now/"
+  },
+  {
+    "name": "Restaurant Payment Processing",
+    "slug": "restaurantpaymentprocessing",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/products/payment-processing/"
+  },
+  {
+    "name": "Reservation Diner Terms",
+    "slug": "reservationdinerterms",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/reservations-diner-terms/"
+  },
+  {
+    "name": "CHIMBORAZO RESTAURANT",
+    "slug": "chimborazorestaurant",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/chimborazo-restaurant-minneapolis"
+  },
+  {
+    "name": "MEI MEI'S RESTAURANT - SAINT PAUL, MN",
+    "slug": "meimeisrestaurant-saintpaulmn",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/meimeis"
+  },
+  {
+    "name": "KATAR RIVER RESTAURANT - Minneapolis, MN",
+    "slug": "katarriverrestaurant-minneapolismn",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/katar-river-restaurant-minneapolis"
+  },
+  {
+    "name": "EL SAZON COCINA & TRAGOS - MINNEAPOLIS, MN",
+    "slug": "elsazoncocinatragos-minneapolismn",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/el-sazon-cocina--tragos-minneapolis"
+  },
+  {
+    "name": "CHIMBORAZO RESTAURANT - MINNEAPOLIS, MN",
+    "slug": "chimborazorestaurant-minneapolismn",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/chimborazo-restaurant-minneapolis/Y176KSHAFNNHW"
+  },
+  {
+    "name": "LUMI RESTAURANT AND BAR - MINNEAPOLIS, MN",
+    "slug": "lumirestaurantandbar-minneapolismn",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/lumi-restaurant-and-bar-minneapolis"
+  },
+  {
+    "name": "minneapolis online ordering",
+    "slug": "minneapolisonlineordering",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/chimborazo-restaurant-minneapolis/Q9GK6EP0CKF3C"
+  },
+  {
+    "name": "ENA - MINNEAPOLIS, MN",
+    "slug": "ena-minneapolismn",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/CAFEENA"
+  },
+  {
+    "name": "Online Ordering",
+    "slug": "onlineordering",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/chimborazo-restaurant-minneapolis/KTASMYNCQW81G"
+  },
+  {
+    "name": "Restaurant Depot",
+    "slug": "restaurantdepot",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://partners.clover.com/restaurant-depot/home/"
+  },
+  {
+    "name": "CATRINAS ST ANTHONY - MINNEAPOLIS, MN",
+    "slug": "catrinasstanthony-minneapolismn",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/catrinas-st-anthony"
+  },
+  {
+    "name": "POS System & Credit Card Readers",
+    "slug": "possystemcreditcardreaders",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/pos-systems/online-ordering"
+  },
+  {
+    "name": "Table Service Restaurants",
+    "slug": "tableservicerestaurants",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://partners.clover.com/restaurant-depot/business-types/table-service-restaurants/"
+  },
+  {
+    "name": "CHIMBORAZO ON WHEELS - MINNEAPOLIS, MN",
+    "slug": "chimborazoonwheels-minneapolismn",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/chimborazo-on-wheels-llc-minneapolis"
+  },
+  {
+    "name": "FOOTBALL PIZZA - MINNEAPOLIS, MN",
+    "slug": "footballpizza-minneapolismn",
+    "category": "pizza",
+    "metros": [
+      "minneapolis"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/football-pizza-minneapolis"
   }
 ]

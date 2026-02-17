@@ -1947,5 +1947,464 @@
       "portland"
     ],
     "websiteOrderUrl": "https://www.menufy.com/OR/PORTLAND/Russian"
+  },
+  {
+    "name": "Portland - Fogo de Chão",
+    "slug": "portland-fogodecho",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://fogo.olo.com/menu/fogo-de-cho-brazilian-steakhouse-2"
+  },
+  {
+    "name": "Laughing Planet - Gabriel Park",
+    "slug": "laughingplanet-gabrielpark",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://laughingplanet.olo.com/menu/gabriel-park"
+  },
+  {
+    "name": "Laughing Planet - Hollywood",
+    "slug": "laughingplanet-hollywood",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://laughingplanet.olo.com/menu/hollywood"
+  },
+  {
+    "name": "Laughing Planet - Cedar Mill",
+    "slug": "laughingplanet-cedarmill",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://laughingplanet.olo.com/menu/cedar-mill"
+  },
+  {
+    "name": "LEE'S SANDWICHES PORTLAND",
+    "slug": "leessandwichesportland",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://leesandwiches.olo.com/menu/lees-sandwiches-portland"
+  },
+  {
+    "name": "Laughing Planet - Belmont",
+    "slug": "laughingplanet-belmont",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://laughingplanet.olo.com/menu/belmont"
+  },
+  {
+    "name": "Laughing Planet - Woodstock",
+    "slug": "laughingplanet-woodstock",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://laughingplanet.olo.com/menu/woodstock"
+  },
+  {
+    "name": "82nd & Otty - Clackamas",
+    "slug": "82ndotty-clackamas",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://tacodelmar.olo.com/menu/82nd-otty-clackamas"
+  },
+  {
+    "name": "Sizzle Pie Downtown",
+    "slug": "sizzlepiedowntown",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://sizzlepie.olo.com/menu/sizzle-pie-downtown"
+  },
+  {
+    "name": "Laughing Planet - NW 21st",
+    "slug": "laughingplanet-nw21st",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://laughingplanet.olo.com/menu/nw-21st"
+  },
+  {
+    "name": "Sizzle Pie Central EastsideX",
+    "slug": "sizzlepiecentraleastsidex",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://sizzlepie.olo.com/menu/sizzle-pie-central-eastside"
+  },
+  {
+    "name": "Sizzle Pie Hollywood DistrictX",
+    "slug": "sizzlepiehollywooddistrictx",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://sizzlepie.olo.com/menu/sizzle-pie-hollywood-district"
+  },
+  {
+    "name": "Sharis of HALSEY CROSSING",
+    "slug": "sharisofhalseycrossing",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://sharis.olo.com/menu/sharis-halsey-crossing"
+  },
+  {
+    "name": "The Old Spaghetti Factory Portland",
+    "slug": "theoldspaghettifactoryportland",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://osf.olo.com/menu/old-spaghetti-factory-portland/products/24790373"
+  },
+  {
+    "name": "Sharis of AIRPORT WAY",
+    "slug": "sharisofairportway",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://sharis.olo.com/menu/sharis-airport-way"
+  },
+  {
+    "name": "Sizzle Pie DowntownX",
+    "slug": "sizzlepiedowntownx",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://sizzlepie.olo.com/menu/sizzle-pie-downtown"
+  },
+  {
+    "name": "Olo",
+    "slug": "olo",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/ordering"
+  },
+  {
+    "name": "Sharis of GARDEN HOME",
+    "slug": "sharisofgardenhome",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://sharis.olo.com/menu/sharis-garden-home"
+  },
+  {
+    "name": "Aladdin's Cafe Restaurant",
+    "slug": "aladdinscaferestaurant",
+    "category": "cafe",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://aladdinscafepdxx.getbento.com/online-ordering/"
+  },
+  {
+    "name": "Tandoor",
+    "slug": "tandoor",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://tandoorme.getbento.com/online-ordering/"
+  },
+  {
+    "name": "Studio One Theaters",
+    "slug": "studioonetheaters",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://studioonetheater.getbento.com/"
+  },
+  {
+    "name": "The Best Online Ordering System for Restaurants in 2024",
+    "slug": "thebestonlineorderingsystemforrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/the-best-online-ordering-system-for-restaurants/"
+  },
+  {
+    "name": "Restaurant Online Ordering",
+    "slug": "restaurantonlineordering",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/products/online-ordering/"
+  },
+  {
+    "name": "Which Restaurant Reservation System Should You Use?",
+    "slug": "whichrestaurantreservationsystemshouldyo",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/online-restaurant-reservation-systems/"
+  },
+  {
+    "name": "Dine-in ordering",
+    "slug": "dine-inordering",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/products/dine-in-ordering/"
+  },
+  {
+    "name": "Restaurant Marketing & Commerce Platform",
+    "slug": "restaurantmarketingcommerceplatform",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/"
+  },
+  {
+    "name": "Restaurant Catering Software",
+    "slug": "restaurantcateringsoftware",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/products/preorder-catering/"
+  },
+  {
+    "name": "BentoBox",
+    "slug": "bentobox",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://carinalounge.getbento.com/"
+  },
+  {
+    "name": "Direct Online Ordering System Advantages for Restaurants",
+    "slug": "directonlineorderingsystemadvantagesforr",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/direct-online-ordering-system-for-restaurants/"
+  },
+  {
+    "name": "Looking For Delivery Fulfillment For Your Restaurant?",
+    "slug": "lookingfordeliveryfulfillmentforyourrest",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/benefits-of-delivery-fulfillment-for-restaurants/"
+  },
+  {
+    "name": "Pre",
+    "slug": "pre",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/why-we-built-restaurant-pre-order-catering/"
+  },
+  {
+    "name": "COLIBRI - Portland, Oregon",
+    "slug": "colibri-portlandoregon",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/colibribar-portland"
+  },
+  {
+    "name": "Nicholas Restaurant - PORTLAND, OR",
+    "slug": "nicholasrestaurant-portlandor",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/nicholasrestaurantmadison"
+  },
+  {
+    "name": "Birrieria PDX Restaurant - PORTLAND, OR",
+    "slug": "birrieriapdxrestaurant-portlandor",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/birrieria-pdx-restaurant-portland"
+  },
+  {
+    "name": "Online Ordering",
+    "slug": "onlineordering",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/pho-hung-portland-2"
+  },
+  {
+    "name": "Moonlight grill - Portland, Oregon",
+    "slug": "moonlightgrill-portlandoregon",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/moonlight-grill-pdx-portland"
+  },
+  {
+    "name": "Nicholas Restaurant - Broadway - Portland, Oregon",
+    "slug": "nicholasrestaurant-broadway-portlandoreg",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/nicholas-restaurant-portland"
+  },
+  {
+    "name": "SHAMI CAFÉ - Portland, Oregon",
+    "slug": "shamicaf-portlandoregon",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/shami-cafe-portland"
+  },
+  {
+    "name": "COQUINE MARKET - PORTLAND, OR",
+    "slug": "coquinemarket-portlandor",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/coquine-portland"
+  },
+  {
+    "name": "GUILDER - PORTLAND, OR",
+    "slug": "guilder-portlandor",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/guilder-portland"
+  },
+  {
+    "name": "TAJ INDIAN CUISINE - SOUTH PORTLAND, ME",
+    "slug": "tajindiancuisine-southportlandme",
+    "category": "indian",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/tajmaine"
+  },
+  {
+    "name": "MI BURRITO 2021 - PORTLAND, OR",
+    "slug": "miburrito2021-portlandor",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/miburrito"
+  },
+  {
+    "name": "Teote House Cafe - PORTLAND, OR",
+    "slug": "teotehousecafe-portlandor",
+    "category": "cafe",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/teote-house-cafe-portland"
+  },
+  {
+    "name": "Sisters Ethiopian Restaurant - PORTLAND, OR",
+    "slug": "sistersethiopianrestaurant-portlandor",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/sisters-ethiopian-restaurant-portland"
+  },
+  {
+    "name": "THANH THANH - PORTLAND, ME",
+    "slug": "thanhthanh-portlandme",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/thanh-thanh-portland"
+  },
+  {
+    "name": "FLAVOURS OF INDIA @ RMH - PORTLAND, OR",
+    "slug": "flavoursofindiarmh-portlandor",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/flavoursofindia-rmh"
+  },
+  {
+    "name": "ZELLS CAFE - PORTLAND, OR",
+    "slug": "zellscafe-portlandor",
+    "category": "cafe",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/zells-cafe-portland"
+  },
+  {
+    "name": "TERRAZZA RESTAURANT - PORTLAND, CT",
+    "slug": "terrazzarestaurant-portlandct",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/terrazza-restaurant-portland/17G658FE1TNXJ"
+  },
+  {
+    "name": "DON KAMARON - Portland, OR",
+    "slug": "donkamaron-portlandor",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/don-kamaron-restaurant-portland"
+  },
+  {
+    "name": "DRUNKEN NOODLE - PORTLAND, OR",
+    "slug": "drunkennoodle-portlandor",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/drunken-noodles-restaura-portland"
+  },
+  {
+    "name": "FANTASTEA @ PSU - PORTLAND, OR",
+    "slug": "fantasteapsu-portlandor",
+    "category": "restaurant",
+    "metros": [
+      "portland"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/fantastea-psu"
   }
 ]

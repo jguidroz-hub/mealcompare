@@ -2065,5 +2065,509 @@
       "sandiego"
     ],
     "websiteOrderUrl": "https://www.menufy.com/CA/San%20Rafael"
+  },
+  {
+    "name": "San Diego UTC Catering",
+    "slug": "sandiegoutccatering",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://truefoodkitchencatering.olo.com/menu/san-diego-utc-catering"
+  },
+  {
+    "name": "Tender Greens Downtown San Diego",
+    "slug": "tendergreensdowntownsandiego",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://tendergreenscatering.olo.com/menu/tender-greens-downtown-san-diego"
+  },
+  {
+    "name": "Panini Kabob Grill - UTC",
+    "slug": "paninikabobgrill-utc",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://paninikabobgrill.olo.com/menu/panini-kabob-grill-san-diego-utc"
+  },
+  {
+    "name": "San Diego FV Catering",
+    "slug": "sandiegofvcatering",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://truefoodkitchencatering.olo.com/menu/san-diego-fv-catering"
+  },
+  {
+    "name": "San Diego (Mission Valley) Dine-In",
+    "slug": "sandiegomissionvalleydine-in",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://lazydogrestaurantsdinein.olo.com/menu/san-diego"
+  },
+  {
+    "name": "Panini Kabob Grill - Mission Valley",
+    "slug": "paninikabobgrill-missionvalley",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://paninikabobgrillcatering.olo.com/menu/panini-kabob-grill-mission-valley"
+  },
+  {
+    "name": "Postino Little Italy",
+    "slug": "postinolittleitaly",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://postino.olo.com/menu/postino-little-italy"
+  },
+  {
+    "name": "San Diego, CA (North Park)",
+    "slug": "sandiegocanorthpark",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://parlordoughnuts.olo.com/menu/san-diego-north-park"
+  },
+  {
+    "name": "San Diego-Kearny Mesa",
+    "slug": "sandiego-kearnymesa",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://robeks.olo.com/menu/san-diego-kearny-mesa"
+  },
+  {
+    "name": "The Old Spaghetti Factory San Diego",
+    "slug": "theoldspaghettifactorysandiego",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://osf.olo.com/menu/old-spaghetti-factory-san-diego/products/24788555"
+  },
+  {
+    "name": "Panini Kabob Grill - Del Mar",
+    "slug": "paninikabobgrill-delmar",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://paninikabobgrillcatering.olo.com/menu/panini-kabob-grill-del-mar"
+  },
+  {
+    "name": "Salt & Straw One Paseo",
+    "slug": "saltstrawonepaseo",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://saltandstraw.olo.com/menu/salt-straw-one-paseo"
+  },
+  {
+    "name": "Randy’s Donuts Aero Drive",
+    "slug": "randysdonutsaerodrive",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://randysdonuts.olo.com/menu/aero-drive"
+  },
+  {
+    "name": "Governor Drive - San Diego DT",
+    "slug": "governordrive-sandiegodt",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://coffeebean.olo.com/menu/coffee-bean-tea-leaf-governor-drive-san-diego-dt"
+  },
+  {
+    "name": "Carmel Mountain Plaza, San Diego",
+    "slug": "carmelmountainplazasandiego",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://coffeebean.olo.com/menu/coffee-bean-tea-leaf-carmel-mountain-plaza-san-diego"
+  },
+  {
+    "name": "Sweetfin Del Mar",
+    "slug": "sweetfindelmar",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://sweetfincatering.olo.com/menu/sweetfin-del-mar-2"
+  },
+  {
+    "name": "Lee's Sandwiches San Diego",
+    "slug": "leessandwichessandiego",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://leesandwiches.olo.com/menu/lees-sandwiches-san-diego/categories/32294_180474"
+  },
+  {
+    "name": "Sammy's Scripps Ranch",
+    "slug": "sammysscrippsranch",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://sammyswoodfiredpizza.olo.com/menu/sammys-scripps-ranch"
+  },
+  {
+    "name": "Pita 22 - Mediterranean Restaurant in San Diego, CA",
+    "slug": "pita22-mediterraneanrestaurantinsandiego",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://pita22.getbento.com/online-ordering/"
+  },
+  {
+    "name": "Homepage",
+    "slug": "homepage",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://gallegosmexicanfood.getbento.com"
+  },
+  {
+    "name": "Mexican Food & Catering - Del Mar & Carmel Valley, San Diego",
+    "slug": "mexicanfoodcatering-delmarcarmelvalleysa",
+    "category": "mexican",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://goporkyland-archive.getbento.com/"
+  },
+  {
+    "name": "Tocaya Organica",
+    "slug": "tocayaorganica",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://tocayaorganica.getbento.com/"
+  },
+  {
+    "name": "Online Ordering",
+    "slug": "onlineordering",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://istanbul-doner-kebab.getbento.com/online-ordering/"
+  },
+  {
+    "name": "Bánh Mì Hội An - Vietnamese restaurant in San Diego, CA",
+    "slug": "bnhmhian-vietnameserestaurantinsandiegoc",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://banhmihoiansd.getbento.com/online-ordering/banh-mi-hoi-an/menu"
+  },
+  {
+    "name": "Please inform us of any allergies or dietary restrictions.",
+    "slug": "pleaseinformusofanyallergiesordietaryres",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/da0852b18398aa96542d852e7f5a44d2/media/menus_files/sIw00KNRkKi67t8sUSbW_Flora%20dinner%2010.09.18.pdf"
+  },
+  {
+    "name": "DINNER Fall 2021 STARTERS",
+    "slug": "dinnerfall2021starters",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/b9ff056cb393704c55946141b6b4c65f/media/Owzcr742Q52aBPJXx0vF_FW%20Fall%20Dinner%20Menu%209.27.pdf"
+  },
+  {
+    "name": "Restaurant Online Ordering",
+    "slug": "restaurantonlineordering",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/products/online-ordering/"
+  },
+  {
+    "name": "Assistance and Resource Guide for Restaurants",
+    "slug": "assistanceandresourceguideforrestaurants",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/assistance-and-resource-guide-for-restaurants/"
+  },
+  {
+    "name": "Which Restaurant Reservation System Should You Use?",
+    "slug": "whichrestaurantreservationsystemshouldyo",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/online-restaurant-reservation-systems/"
+  },
+  {
+    "name": "Dine-in ordering",
+    "slug": "dine-inordering",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/products/dine-in-ordering/"
+  },
+  {
+    "name": "Take Online Orders Through Facebook & Instagram",
+    "slug": "takeonlineordersthroughfacebookinstagram",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/facebook-instagram-online-order-now/"
+  },
+  {
+    "name": "Direct Online Ordering System Advantages for Restaurants",
+    "slug": "directonlineorderingsystemadvantagesforr",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/direct-online-ordering-system-for-restaurants/"
+  },
+  {
+    "name": "The Best Restaurant Websites in Los Angeles",
+    "slug": "thebestrestaurantwebsitesinlosangeles",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-los-angeles/"
+  },
+  {
+    "name": "The 20 Best Restaurant Websites of 2024",
+    "slug": "the20bestrestaurantwebsitesof2024",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-design/"
+  },
+  {
+    "name": "Best Restaurant Websites - Texas",
+    "slug": "bestrestaurantwebsites-texas",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-texas/"
+  },
+  {
+    "name": "The Best Restaurant Websites in San Francisco",
+    "slug": "thebestrestaurantwebsitesinsanfrancisco",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-san-francisco/"
+  },
+  {
+    "name": "UMI SUSHI - SAN DIEGO, CA",
+    "slug": "umisushi-sandiegoca",
+    "category": "japanese",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/umi-sushi-san-diego-2"
+  },
+  {
+    "name": "BROTHERS MEXICAN RESTAUR - SAN DIEGO, CA",
+    "slug": "brothersmexicanrestaur-sandiegoca",
+    "category": "mexican",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/brothers-mexican-restaur-san-diego"
+  },
+  {
+    "name": "RK SUSHI - SAN DIEGO, CA",
+    "slug": "rksushi-sandiegoca",
+    "category": "japanese",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/rk-sushi-san-diego"
+  },
+  {
+    "name": "BURRITO SANTANA - SAN DIEGO, CA",
+    "slug": "burritosantana-sandiegoca",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/burrito-santana-san-diego"
+  },
+  {
+    "name": "BRONCO'S MEXICAN FOOD - SAN DIEGO, CA",
+    "slug": "broncosmexicanfood-sandiegoca",
+    "category": "mexican",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/broncos-mexican-food-san-diego"
+  },
+  {
+    "name": "EL TIO'S RESTAURANT - SAN DIEGO, CA",
+    "slug": "eltiosrestaurant-sandiegoca",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/el-tios-restaurant-san-diego"
+  },
+  {
+    "name": "Awash Ethiopian Restaurant & Market - SAN DIEGO, CA",
+    "slug": "awashethiopianrestaurantmarket-sandiegoc",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/awash-ethiopian-restaurant--market--san-diego"
+  },
+  {
+    "name": "THE FOOD BOX - SAN DIEGO, CA",
+    "slug": "thefoodbox-sandiegoca",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/the-food-box-san-diego"
+  },
+  {
+    "name": "JU-ICHI - San Diego, California",
+    "slug": "ju-ichi-sandiegocalifornia",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/juichi-san-diego"
+  },
+  {
+    "name": "VERDELI CAFE - SAN DIEGO, CA",
+    "slug": "verdelicafe-sandiegoca",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/come-on-in-cafe-san-diego"
+  },
+  {
+    "name": "Mimoza Mediterranean Restaurant - SAN DIEGO, CA",
+    "slug": "mimozamediterraneanrestaurant-sandiegoca",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/mimoza-restaurant-san-diego"
+  },
+  {
+    "name": "Mimoza Mediterranean Restaurant",
+    "slug": "mimozamediterraneanrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/mimoza-restaurant-san-diego/NVNDMTH5R0C6G"
+  },
+  {
+    "name": "DI CHAN THAI RESTAURANT - SAN DIEGO, CA",
+    "slug": "dichanthairestaurant-sandiegoca",
+    "category": "thai",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/di-chan-thai-restaurant-san-diego"
+  },
+  {
+    "name": "The Oasis Cafe - SAN DIEGO, CA",
+    "slug": "theoasiscafe-sandiegoca",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/omega-cafe-san-diego"
+  },
+  {
+    "name": "SIDNYS BAGELS & DELI - SAN DIEGO, CA",
+    "slug": "sidnysbagelsdeli-sandiegoca",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/sidnys-bagels--deli-san-diego"
+  },
+  {
+    "name": "SALA THAI RESTAURANT - SAN DIEGO, CA",
+    "slug": "salathairestaurant-sandiegoca",
+    "category": "thai",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/sala-thai-restaurant-san-diego"
+  },
+  {
+    "name": "SEA RIDGE CAFE - SAN DIEGO, CA",
+    "slug": "searidgecafe-sandiegoca",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/sea-ridge-cafe-san-diego"
+  },
+  {
+    "name": "RB DELI CAFE - SAN DIEGO, CA",
+    "slug": "rbdelicafe-sandiegoca",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/rb-deli-cafe-san-diego"
+  },
+  {
+    "name": "CAFFE ITALIA - SAN DIEGO, CA",
+    "slug": "caffeitalia-sandiegoca",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/caffe-italia-san-diego-3"
+  },
+  {
+    "name": "HiroNori Craft Ramen (San Diego)",
+    "slug": "hironoricraftramensandiego",
+    "category": "japanese",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/hironori-sandiego/0QY6PZ6E3M9W4"
   }
 ]

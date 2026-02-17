@@ -4449,5 +4449,428 @@
       "nyc"
     ],
     "websiteOrderUrl": "https://www.owner.com/comparison"
+  },
+  {
+    "name": "Planet Hollywood New York",
+    "slug": "planethollywoodnewyork",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://planethollywoodintl.olo.com/menu/planet-hollywood-new-york"
+  },
+  {
+    "name": "Olo - Restaurant Technology & Digital Ordering Platform",
+    "slug": "olo-restauranttechnologydigitalorderingp",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/"
+  },
+  {
+    "name": "CARMINE'S UPPER WEST SIDE",
+    "slug": "carminesupperwestside",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://carminesnyc.olo.com/menu/carmines-broadway-feast"
+  },
+  {
+    "name": "VIRGIL'S UPPER WEST SIDE",
+    "slug": "virgilsupperwestside",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://carminesnyc.olo.com/menu/virgils-upper-west-side"
+  },
+  {
+    "name": "About Olo: The Leading Open SaaS Restaurant Platform",
+    "slug": "aboutolotheleadingopensaasrestaurantplat",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/about-us"
+  },
+  {
+    "name": "New York City - Fogo de Chão",
+    "slug": "newyorkcity-fogodecho",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://fogo.olo.com/menu/fogo-de-cho-brazilian-steakhouse-21"
+  },
+  {
+    "name": "CARMINE'S TIMES SQUARE",
+    "slug": "carminestimessquare",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://carminesnyc.olo.com/menu/little-fish-corp"
+  },
+  {
+    "name": "VIRGIL'S REAL BBQ NYC",
+    "slug": "virgilsrealbbqnyc",
+    "category": "bbq",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://carminesnyc.olo.com/menu/times-square-bbq-inc"
+  },
+  {
+    "name": "Ocean Prime New York City",
+    "slug": "oceanprimenewyorkcity",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://oceanprime.olo.com/menu/ocean-prime-new-york-city"
+  },
+  {
+    "name": "Sizzler",
+    "slug": "sizzler",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://sizzler.olo.com/menu/sizzler-18/products/59924319"
+  },
+  {
+    "name": "Hillstone - MidtownX",
+    "slug": "hillstone-midtownx",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://hillstone.olo.com/menu/hillstone-midtown"
+  },
+  {
+    "name": "Sizzler - New York Strip (12 oz)",
+    "slug": "sizzler-newyorkstrip12oz",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://sizzler.olo.com/menu/sizzler-28/products/42297207"
+  },
+  {
+    "name": "STK Steakhouse Midtown Catering",
+    "slug": "stksteakhousemidtowncatering",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://stksteakhousecatering.olo.com/menu/stk-midtown"
+  },
+  {
+    "name": "Olo",
+    "slug": "olo",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/ordering"
+  },
+  {
+    "name": "MrBeast Burger - 274 New York 94 S",
+    "slug": "mrbeastburger-274newyork94s",
+    "category": "burgers",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://beastburger.olo.com/menu/mrbeast-burger-274-new-york-94-s/"
+  },
+  {
+    "name": "Sol New York",
+    "slug": "solnewyork",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://solcocina.olo.com/menu/sol-new-york/products/61234718"
+  },
+  {
+    "name": "WTC",
+    "slug": "wtc",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://fogo.olo.com/menu/wtc"
+  },
+  {
+    "name": "Olo Partner",
+    "slug": "olopartner",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://partners.olo.com/partners/delivery-com/"
+  },
+  {
+    "name": "FIELDTRIP ROCKEFELLER",
+    "slug": "fieldtriprockefeller",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://fieldtrip.olo.com/menu/fieldtrip-rockefeller"
+  },
+  {
+    "name": "Juice Generation E 53rd St",
+    "slug": "juicegeneratione53rdst",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://juicegeneration.olo.com/menu/juice-generation-599-lexington-avenue"
+  },
+  {
+    "name": "New York Pizza Near Me - Locations, Hours, & Menus - Slice",
+    "slug": "newyorkpizzanearme-locationshoursmenus-s",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/brands/new-york-pizza-b68d60d2-b2ba-48f2-a131-464b8700d1d0"
+  },
+  {
+    "name": "What Makes New York Pizza Special? - The Sauce by Slice",
+    "slug": "whatmakesnewyorkpizzaspecial-thesaucebys",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://blog.slicelife.com/what-makes-new-york-pizza-special/"
+  },
+  {
+    "name": "Styles Spotlight: New York-style pizza - Slice Pizza Blog",
+    "slug": "stylesspotlightnewyork-stylepizza-slicep",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://blog.slicelife.com/pizza-new-york-style/"
+  },
+  {
+    "name": "Sadelle's - Major Food Group Restaurant",
+    "slug": "sadelles-majorfoodgrouprestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://sadelles.getbento.com/catering-store-v2/sadelles-new-york/menu/order-settings"
+  },
+  {
+    "name": "The Best Restaurant Websites in New York City",
+    "slug": "thebestrestaurantwebsitesinnewyorkcity",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-nyc/"
+  },
+  {
+    "name": "Online Ordering",
+    "slug": "onlineordering",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://barbalu.getbento.com/online-ordering/"
+  },
+  {
+    "name": "Catering",
+    "slug": "catering",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://unclegussys.getbento.com/catering-store-v2/"
+  },
+  {
+    "name": "Smor",
+    "slug": "smor",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://smornyc.getbento.com/online-ordering/"
+  },
+  {
+    "name": "GOOD SHABBOS",
+    "slug": "goodshabbos",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://goodshabbos.getbento.com/catering-store-v2/"
+  },
+  {
+    "name": "Dine-in ordering",
+    "slug": "dine-inordering",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/products/dine-in-ordering/"
+  },
+  {
+    "name": "Restaurant Marketing & Commerce Platform",
+    "slug": "restaurantmarketingcommerceplatform",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/"
+  },
+  {
+    "name": "J'S KITCHEN NEW YORK",
+    "slug": "jskitchennewyork",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/js-kitchen-new-york-new-york"
+  },
+  {
+    "name": "New York Diner - CHARLOTTE, NC",
+    "slug": "newyorkdiner-charlottenc",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/new-york-diner-charlotte/"
+  },
+  {
+    "name": "Pita Mediterranean Cuisine - Rochester, New York",
+    "slug": "pitamediterraneancuisine-rochesternewyor",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/pitamthope"
+  },
+  {
+    "name": "Xi'an Famous Foods (Financial District) - NEW YORK, NY",
+    "slug": "xianfamousfoodsfinancialdistrict-newyork",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/xff8"
+  },
+  {
+    "name": "Xi'an Famous Foods (Upper East Side) - NEW YORK, NY",
+    "slug": "xianfamousfoodsuppereastside-newyorkny",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/78--xian-famous-foods-new-york"
+  },
+  {
+    "name": "Xi'an Famous Foods (Chinatown) - NEW YORK, NY",
+    "slug": "xianfamousfoodschinatown-newyorkny",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/xian-famous-foods-chinatown-new-york"
+  },
+  {
+    "name": "Lattanzi Cucina Italiana - NEW YORK, NY",
+    "slug": "lattanzicucinaitaliana-newyorkny",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/erminia-restaurant-corporation-manhattan"
+  },
+  {
+    "name": "MANHATTAN ESPRESSO CAFE - NEW YORK, NY",
+    "slug": "manhattanespressocafe-newyorkny",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/manhattan-espresso-cafe-new-york"
+  },
+  {
+    "name": "Xi'an Famous Foods (Flatiron) - NEW YORK, NY",
+    "slug": "xianfamousfoodsflatiron-newyorkny",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/xian-famous-foods-flatiron-new-york"
+  },
+  {
+    "name": "LA DIAGONAL - NEW YORK, NY",
+    "slug": "ladiagonal-newyorkny",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/la-diagonal-new-york"
+  },
+  {
+    "name": "IONESTEA - NEW YORK, NY",
+    "slug": "ionestea-newyorkny",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/ionestea-new-york"
+  },
+  {
+    "name": "Silvana - NEW YORK, NY",
+    "slug": "silvana-newyorkny",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/silvana-new-york"
+  },
+  {
+    "name": "CURRY KING - NEW YORK, NY",
+    "slug": "curryking-newyorkny",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/curry-king-new-york-2"
+  },
+  {
+    "name": "LITTLE BIGGS - Fidi - NEW YORK, NY",
+    "slug": "littlebiggs-fidi-newyorkny",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/little-biggs--fidi-new-york"
+  },
+  {
+    "name": "Thai Eats - NEW YORK, NY",
+    "slug": "thaieats-newyorkny",
+    "category": "thai",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/thai-eats-new-york"
+  },
+  {
+    "name": "NEW YORK'S BEST PIZZA - ARLINGTON, TX",
+    "slug": "newyorksbestpizza-arlingtontx",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/new-yorks-best-pizza-arlington"
   }
 ]

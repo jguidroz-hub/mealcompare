@@ -2066,5 +2066,338 @@
       "pittsburgh"
     ],
     "websiteOrderUrl": "https://www.owner.com/blog"
+  },
+  {
+    "name": "Pita Jungle",
+    "slug": "pitajungle",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://pitajungle.olo.com/"
+  },
+  {
+    "name": "Olo",
+    "slug": "olo",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/ordering"
+  },
+  {
+    "name": "Family Express",
+    "slug": "familyexpress",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://familyexpress.olo.com/"
+  },
+  {
+    "name": "Norms",
+    "slug": "norms",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://norms.olo.com/"
+  },
+  {
+    "name": "Olo - Restaurant Technology & Digital Ordering Platform",
+    "slug": "olo-restauranttechnologydigitalorderingp",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/"
+  },
+  {
+    "name": "Norms Pico Rivera",
+    "slug": "normspicorivera",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://norms.olo.com/menu/norms-pico-rivera"
+  },
+  {
+    "name": "Norms Claremont",
+    "slug": "normsclaremont",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://norms.olo.com/menu/norms-claremont"
+  },
+  {
+    "name": "Ameriplex",
+    "slug": "ameriplex",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://familyexpress.olo.com/menu/ameriplex"
+  },
+  {
+    "name": "Pita Jungle Catering",
+    "slug": "pitajunglecatering",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://pitajunglecatering.olo.com/"
+  },
+  {
+    "name": "Lowell South",
+    "slug": "lowellsouth",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://familyexpress.olo.com/menu/lowell-south"
+  },
+  {
+    "name": "Modern Market",
+    "slug": "modernmarket",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://modernmarket.olo.com/"
+  },
+  {
+    "name": "Chesterton",
+    "slug": "chesterton",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://familyexpress.olo.com/menu/chesterton"
+  },
+  {
+    "name": "Lafayette State Road 38",
+    "slug": "lafayettestateroad38",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://familyexpress.olo.com/menu/lafayette-state-road-38"
+  },
+  {
+    "name": "Hebron",
+    "slug": "hebron",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://familyexpress.olo.com/menu/hebron"
+  },
+  {
+    "name": "ᐅ Best Local Sandwiches in Pittsburgh, Pennsylvania",
+    "slug": "bestlocalsandwichesinpittsburghpennsylva",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/pizza-delivery/pa-pittsburgh/sandwiches"
+  },
+  {
+    "name": "GloriaFood Online Ordering: Online Pizza Ordering System",
+    "slug": "gloriafoodonlineorderingonlinepizzaorder",
+    "category": "pizza",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/pizza-ordering-system"
+  },
+  {
+    "name": "GloriaFood Online Ordering: Online Food Ordering Mobile App",
+    "slug": "gloriafoodonlineorderingonlinefoodorderi",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/mobile-app-for-clients"
+  },
+  {
+    "name": "GloriaFood Online Ordering: Restaurant Website Builder",
+    "slug": "gloriafoodonlineorderingrestaurantwebsit",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/restaurant-website-builder"
+  },
+  {
+    "name": "GloriaFood Online Ordering: White Label Ordering App",
+    "slug": "gloriafoodonlineorderingwhitelabelorderi",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/white-label-food-ordering-app"
+  },
+  {
+    "name": "Free restaurant booking system",
+    "slug": "freerestaurantbookingsystem",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/free-restaurant-booking-system"
+  },
+  {
+    "name": "GloriaFood Online Ordering: QR Code Restaurant Menu",
+    "slug": "gloriafoodonlineorderingqrcoderestaurant",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/qr-code-restaurant-menu"
+  },
+  {
+    "name": "GloriaFood Online Ordering: Talented sales people",
+    "slug": "gloriafoodonlineorderingtalentedsalespeo",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/partners-talented-sales-people"
+  },
+  {
+    "name": "GloriaFood Online Ordering: Online Ordering System",
+    "slug": "gloriafoodonlineorderingonlineorderingsy",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/online-ordering-system"
+  },
+  {
+    "name": "GloriaFood Online Ordering: Free Restaurant Booking Software",
+    "slug": "gloriafoodonlineorderingfreerestaurantbo",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/free-restaurant-booking-software"
+  },
+  {
+    "name": "GloriaFood Online Ordering: Free Restaurant Order Taking App",
+    "slug": "gloriafoodonlineorderingfreerestaurantor",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/restaurant-order-taking-app"
+  },
+  {
+    "name": "GloriaFood Online Ordering: WordPress Restaurant Plugin",
+    "slug": "gloriafoodonlineorderingwordpressrestaur",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.gloriafood.com/wordpress-restaurant-plugin"
+  },
+  {
+    "name": "Pittsburgh, PA Catering Near Me",
+    "slug": "pittsburghpacateringnearme",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.ezcater.com/catering/PA/PITTSBURGH"
+  },
+  {
+    "name": "Turkish Grille Catering in Pittsburgh, PA - 272 Melwood Ave",
+    "slug": "turkishgrillecateringinpittsburghpa-272m",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.ezcater.com/catering/turkish-grill-3"
+  },
+  {
+    "name": "Applebee's Catering in Pittsburgh, PA - 1601 S Braddock Ave",
+    "slug": "applebeescateringinpittsburghpa-1601sbra",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.ezcater.com/catering/applebees-pittsburgh"
+  },
+  {
+    "name": "Gaetano's Catering in Pittsburgh, PA - 1617 Banksville Rd",
+    "slug": "gaetanoscateringinpittsburghpa-1617banks",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.ezcater.com/catering/gaetanos-catering-3"
+  },
+  {
+    "name": "Subway Catering in Pittsburgh, PA - 418 S Craig St",
+    "slug": "subwaycateringinpittsburghpa-418scraigst",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.ezcater.com/catering/subway-pittsburgh-s-craig-st"
+  },
+  {
+    "name": "Uptown Kitchen Catering in Pittsburgh, PA - 1710 Forbes Ave",
+    "slug": "uptownkitchencateringinpittsburghpa-1710",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.ezcater.com/catering/uptown-kitchen-pa-3"
+  },
+  {
+    "name": "Subway Catering in Pittsburgh, PA - 971 Ohio River Blvd",
+    "slug": "subwaycateringinpittsburghpa-971ohiorive",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.ezcater.com/catering/subway-pittsburgh-ohio-river-blvd"
+  },
+  {
+    "name": "BJ's Restaurant & Brewhouse Catering Pittsburgh",
+    "slug": "bjsrestaurantbrewhousecateringpittsburgh",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.ezcater.com/catering-partner/bjs-restaurant-and-brewhouse-upper-st-clair"
+  },
+  {
+    "name": "Subway Catering in Pittsburgh, PA - 809 W View Park Dr",
+    "slug": "subwaycateringinpittsburghpa-809wviewpar",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.ezcater.com/catering/subway-pittsburgh-w-view-park-dr"
+  },
+  {
+    "name": "SoFresh Catering in Pittsburgh, PA - 177 S Highland Ave",
+    "slug": "sofreshcateringinpittsburghpa-177shighla",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.ezcater.com/catering/sofresh-pittsburgh-s-highland-ave"
+  },
+  {
+    "name": "7 Senses Catering in Pittsburgh, PA - 531 N Homewood Ave",
+    "slug": "7sensescateringinpittsburghpa-531nhomewo",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "websiteOrderUrl": "https://www.ezcater.com/catering/7-senses-catering-pittsburgh"
   }
 ]

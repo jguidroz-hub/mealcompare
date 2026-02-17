@@ -2065,5 +2065,428 @@
       "philly"
     ],
     "websiteOrderUrl": "https://www.owner.com/releases"
+  },
+  {
+    "name": "Ocean Prime Philadelphia",
+    "slug": "oceanprimephiladelphia",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://oceanprime.olo.com/menu/ocean-prime-philadelphia"
+  },
+  {
+    "name": "Philadelphia - Fogo de Chão",
+    "slug": "philadelphia-fogodecho",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://fogo.olo.com/menu/fogo-de-cho-brazilian-steakhouse-37"
+  },
+  {
+    "name": "East Coast Wings + Grill Philadelphia, PA - Castor Ave.",
+    "slug": "eastcoastwingsgrillphiladelphiapa-castor",
+    "category": "wings",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://eastcoastwings.olo.com/menu/east-coast-wings-grill-philadelphia-pa-castor-ave/"
+  },
+  {
+    "name": "Fishtown",
+    "slug": "fishtown",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://jenis.olo.com/menu/fishtown"
+  },
+  {
+    "name": "Rittenhouse",
+    "slug": "rittenhouse",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://jenis.olo.com/menu/rittenhouse"
+  },
+  {
+    "name": "UPenn",
+    "slug": "upenn",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://honeygrow.olo.com/menu/upenn"
+  },
+  {
+    "name": "11th Street",
+    "slug": "11thstreet",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://honeygrow.olo.com/menu/11th-street"
+  },
+  {
+    "name": "honeygrow - UPenn Catering",
+    "slug": "honeygrow-upenncatering",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://honeygrowcatering.olo.com/menu/upenn"
+  },
+  {
+    "name": "Olo",
+    "slug": "olo",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/ordering"
+  },
+  {
+    "name": "California Tortilla Red LionX",
+    "slug": "californiatortillaredlionx",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://californiatortilla.olo.com/menu/redlion-california-tortilla"
+  },
+  {
+    "name": "Restaurant Order Management Software",
+    "slug": "restaurantordermanagementsoftware",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.olo.com/switchboard"
+  },
+  {
+    "name": "Temple",
+    "slug": "temple",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://honeygrow.olo.com/menu/temple"
+  },
+  {
+    "name": "16th Street",
+    "slug": "16thstreet",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://honeygrow.olo.com/menu/16th-street/products/35977576"
+  },
+  {
+    "name": "The Best Restaurant Websites in Philadelphia",
+    "slug": "thebestrestaurantwebsitesinphiladelphia",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-philadelphia/"
+  },
+  {
+    "name": "Chef Green at Shealita's Place",
+    "slug": "chefgreenatshealitasplace",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://shealitasplace.getbento.com/"
+  },
+  {
+    "name": "Breakfast & Lunch Catering in Rittenhouse Square & Fishtown",
+    "slug": "breakfastlunchcateringinrittenhousesquar",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://milestable.getbento.com/"
+  },
+  {
+    "name": "Online Ordering",
+    "slug": "onlineordering",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://mixbarandgrillphilly.getbento.com/online-ordering/"
+  },
+  {
+    "name": "Kinme",
+    "slug": "kinme",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://kinmepa.getbento.com/"
+  },
+  {
+    "name": "NY to Philly",
+    "slug": "nytophilly",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://nytophilly.getbento.com/"
+  },
+  {
+    "name": "Source Brewing",
+    "slug": "sourcebrewing",
+    "category": "wings",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://sourcebrewing.getbento.com/online-ordering/"
+  },
+  {
+    "name": "Best Price Philly Market",
+    "slug": "bestpricephillymarket",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://bestpricephilly.getbento.com/"
+  },
+  {
+    "name": "Restaurant Online Ordering",
+    "slug": "restaurantonlineordering",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/products/online-ordering/"
+  },
+  {
+    "name": "Vegan Vibes Cafe & Juice Bar",
+    "slug": "veganvibescafejuicebar",
+    "category": "cafe",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://iloveveganvibes-archive.getbento.com/"
+  },
+  {
+    "name": "BentoBox",
+    "slug": "bentobox",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://indycheesesteak.getbento.com/menus/"
+  },
+  {
+    "name": "Looking For Delivery Fulfillment For Your Restaurant?",
+    "slug": "lookingfordeliveryfulfillmentforyourrest",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/benefits-of-delivery-fulfillment-for-restaurants/"
+  },
+  {
+    "name": "Menus",
+    "slug": "menus",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://nytophilly.getbento.com/menus/"
+  },
+  {
+    "name": "A Letter from the CEO",
+    "slug": "aletterfromtheceo",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/a-letter-from-the-ceo/"
+  },
+  {
+    "name": "Which Restaurant Reservation System Should You Use?",
+    "slug": "whichrestaurantreservationsystemshouldyo",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/online-restaurant-reservation-systems/"
+  },
+  {
+    "name": "Restaurant Catering Software",
+    "slug": "restaurantcateringsoftware",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/products/preorder-catering/"
+  },
+  {
+    "name": "4 Tips to Improve Food Delivery Packaging",
+    "slug": "4tipstoimprovefooddeliverypackaging",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/food-delivery-packaging/"
+  },
+  {
+    "name": "BREWERYTOWN FOOD HALL - PHILADELPHIA, PA",
+    "slug": "brewerytownfoodhall-philadelphiapa",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/brewerytown-philadelphia"
+  },
+  {
+    "name": "JJ THAI CUISINE - PHILADELPHIA, PA",
+    "slug": "jjthaicuisine-philadelphiapa",
+    "category": "thai",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/jj-thai-cuisine-philadelphia"
+  },
+  {
+    "name": "THE Corner - PHILADELPHIA, PA",
+    "slug": "thecorner-philadelphiapa",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/the-corner-philadelphia"
+  },
+  {
+    "name": "THE PALACE OF INDIAN CUISINE - PHILADELPHIA, PA",
+    "slug": "thepalaceofindiancuisine-philadelphiapa",
+    "category": "indian",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/the-palace-of-indian-cuisine-philadelphia"
+  },
+  {
+    "name": "LAST DROP - PHILADELPHIA, PA",
+    "slug": "lastdrop-philadelphiapa",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/the-last-drop-espress-philadelphia"
+  },
+  {
+    "name": "CAKE - PHILADELPHIA, PA",
+    "slug": "cake-philadelphiapa",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/cake-philadelphia"
+  },
+  {
+    "name": "EL BOCHINCHE RESTAURANT INC. - PHILADELPHIA, PA",
+    "slug": "elbochincherestaurantinc-philadelphiapa",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/elbochinchephilly"
+  },
+  {
+    "name": "SOUL KITCHEN 5935 - PHILADELPHIA, PA",
+    "slug": "soulkitchen5935-philadelphiapa",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/soul-kitchen-5935-north-philadelphia"
+  },
+  {
+    "name": "From The Boot - Clover Blog",
+    "slug": "fromtheboot-cloverblog",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://blog.clover.com/from-the-boot/"
+  },
+  {
+    "name": "IMPERIAL CARIBBEAN & SEAFOOD - PHILADELPHIA, PA",
+    "slug": "imperialcaribbeanseafood-philadelphiapa",
+    "category": "seafood",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/imperialseafoodpa"
+  },
+  {
+    "name": "Avenues Café - PHILADELPHIA, PA",
+    "slug": "avenuescaf-philadelphiapa",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/avenues-cafe-philadelphia"
+  },
+  {
+    "name": "ORIGINAL PIZZA PALACE - PHILADELPHIA, PA",
+    "slug": "originalpizzapalace-philadelphiapa",
+    "category": "pizza",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/original-pizza-palace-philadelphia"
+  },
+  {
+    "name": "HELLO VIETNAM ASIAN - PHILADELPHIA, PA",
+    "slug": "hellovietnamasian-philadelphiapa",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/hello-vietnam-restaurant-philadelphia/EGT8MBMWQNPTR"
+  },
+  {
+    "name": "Gouldsburger's Express - Philadelphia, Pennsylvania",
+    "slug": "gouldsburgersexpress-philadelphiapennsyl",
+    "category": "burgers",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/gouldsburgers-express-philadelphia-2"
+  },
+  {
+    "name": "THE MARKET BAKERY - PHILADELPHIA, PA",
+    "slug": "themarketbakery-philadelphiapa",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/the-market-bakery-philadelphia"
+  },
+  {
+    "name": "How to choose a self",
+    "slug": "howtochooseaself",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://blog.clover.com/how-to-choose-a-self-ordering-kiosk-for-restaurants/"
+  },
+  {
+    "name": "Restaurant Depot",
+    "slug": "restaurantdepot",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://merchantservices.clover.com/restaurant-depot/"
   }
 ]

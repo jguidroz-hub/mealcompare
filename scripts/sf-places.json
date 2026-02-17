@@ -2335,5 +2335,464 @@
       "sf"
     ],
     "websiteOrderUrl": "https://www.owner.com/downloads/online-ordering-system-checklist"
+  },
+  {
+    "name": "S. San Francisco",
+    "slug": "ssanfrancisco",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://chevys.olo.com/menu/s-san-francisco"
+  },
+  {
+    "name": "Hillstone - San FranciscoX",
+    "slug": "hillstone-sanfranciscox",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://hillstone.olo.com/menu/hillstone-san-francisco"
+  },
+  {
+    "name": "Tender Greens Downtown San Francisco",
+    "slug": "tendergreensdowntownsanfrancisco",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://tendergreenscatering.olo.com/menu/tender-greens-downtown-san-francisco"
+  },
+  {
+    "name": "San Francisco",
+    "slug": "sanfrancisco",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://hillstone.olo.com/menu/hillstone-san-francisco"
+  },
+  {
+    "name": "San Francisco - Fogo de Chão",
+    "slug": "sanfrancisco-fogodecho",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://fogo.olo.com/menu/fogo-de-cho-brazilian-steakhouse-29"
+  },
+  {
+    "name": "Starbird Wings - San Francisco",
+    "slug": "starbirdwings-sanfrancisco",
+    "category": "wings",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://starbirdwings.olo.com/menu/starbird-sf-cloud"
+  },
+  {
+    "name": "South San Francisco - S Airport Blvd",
+    "slug": "southsanfrancisco-sairportblvd",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://togoscatering.olo.com/menu/south-san-francisco-s-airport-blvd"
+  },
+  {
+    "name": "San Francisco - 16th St",
+    "slug": "sanfrancisco-16thst",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://togoscatering.olo.com/menu/san-francisco-16th-st"
+  },
+  {
+    "name": "Hillstone - San Francisco",
+    "slug": "hillstone-sanfrancisco",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://hillstone.olo.com/menu/hillstone-san-francisco/products/31248196"
+  },
+  {
+    "name": "Starbird Salads - San Francisco",
+    "slug": "starbirdsalads-sanfrancisco",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://starbirdsalads.olo.com/menu/starbird-salads-san-francisco"
+  },
+  {
+    "name": "Gardenbird - San Francisco",
+    "slug": "gardenbird-sanfrancisco",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://gardenbird.olo.com/menu/gardenbird-san-francisco"
+  },
+  {
+    "name": "Norms",
+    "slug": "norms",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://norms.olo.com/"
+  },
+  {
+    "name": "Starbird Bowls - San Francisco",
+    "slug": "starbirdbowls-sanfrancisco",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://starbirdbowls.olo.com/menu/starbird-bowls-san-francisco"
+  },
+  {
+    "name": "STK San Francisco",
+    "slug": "stksanfrancisco",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://stksteakhouse.olo.com/menu/stk-steakhouse-san-francisco"
+  },
+  {
+    "name": "Pickup & Delivery",
+    "slug": "pickupdelivery",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://enjoyveggie.getbento.com/online-ordering/"
+  },
+  {
+    "name": "Z & Y Restaurant",
+    "slug": "zyrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://zandyrestaurant.getbento.com/"
+  },
+  {
+    "name": "Hours + Location",
+    "slug": "hourslocation",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://zandyrestaurant.getbento.com/location/z-and-y-restaurant/"
+  },
+  {
+    "name": "The Best Restaurant Websites in San Francisco",
+    "slug": "thebestrestaurantwebsitesinsanfrancisco",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-san-francisco/"
+  },
+  {
+    "name": "Cart",
+    "slug": "cart",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://zandyrestaurant.getbento.com/store/cart/"
+  },
+  {
+    "name": "‭380 Golden Gate Ave, San Francisco 94102‬ ‭(415) 723-1955‬",
+    "slug": "380goldengateavesanfrancisco94102415723-",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://media-cdn.getbento.com/accounts/75aa0711e14d766b7387c6dd17738629/media/IPrBRPxQSOmyvVOMRxwV_B&B%20Catering%20Brochure.pdf"
+  },
+  {
+    "name": "Gracias Madre",
+    "slug": "graciasmadre",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://gracias-madre.getbento.com/"
+  },
+  {
+    "name": "Online Ordering",
+    "slug": "onlineordering",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://embergrillsf.getbento.com/online-ordering/ember-grill/menu"
+  },
+  {
+    "name": "Viet Quan - Vietnamese Restaurant in San Francisco, CA",
+    "slug": "vietquan-vietnameserestaurantinsanfranci",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://vietquanvietnamese.getbento.com/online-ordering/"
+  },
+  {
+    "name": "Dalida",
+    "slug": "dalida",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://dalidasf.getbento.com/"
+  },
+  {
+    "name": "Store",
+    "slug": "store",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://zandyrestaurant.getbento.com/store/"
+  },
+  {
+    "name": "Guerilla Catering",
+    "slug": "guerillacatering",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://guerillacateringsf.getbento.com/"
+  },
+  {
+    "name": "Dinner",
+    "slug": "dinner",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://frascatisf.getbento.com/menu/dinner/"
+  },
+  {
+    "name": "Del Popolo",
+    "slug": "delpopolo",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://delpopolosf.getbento.com/"
+  },
+  {
+    "name": "La Société Bar & Café",
+    "slug": "lasocitbarcaf",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://v1-lasocietecafe.getbento.com/"
+  },
+  {
+    "name": "We offer full-service and drop-off catering throughout the",
+    "slug": "weofferfull-serviceanddrop-offcateringth",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://images.getbento.com/accounts/cbf932b4583f16a6c84f37a989386a04/media/UTKgg9OoSh2OpK8UwEPF_Tlish_Catering_07222025.pdf"
+  },
+  {
+    "name": "Menu",
+    "slug": "menu",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://guerillacateringsf.getbento.com/menu/"
+  },
+  {
+    "name": "Lolinda SF",
+    "slug": "lolindasf",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://lolindasf.getbento.com/"
+  },
+  {
+    "name": "IL CANTO CAFE - SAN FRANCISCO, CA",
+    "slug": "ilcantocafe-sanfranciscoca",
+    "category": "cafe",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/il-canto-cafe-san-francisco"
+  },
+  {
+    "name": "CIELITO LINDO RESTAURANT - SAN FRANCISCO, CA",
+    "slug": "cielitolindorestaurant-sanfranciscoca",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/cielito-lindo-restaurant-san-francisco"
+  },
+  {
+    "name": "PAKWAN O'FARRELL - SAN FRANCISCO, CA",
+    "slug": "pakwanofarrell-sanfranciscoca",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/pakwan-ofarrell-san-francisco"
+  },
+  {
+    "name": "PUERTO ALEGRE - SAN FRANCISCO, CA",
+    "slug": "puertoalegre-sanfranciscoca",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/puerto-alegre-san-francisco"
+  },
+  {
+    "name": "PANCHITAS RESTAURANT #2 - SAN FRANCISCO, CA",
+    "slug": "panchitasrestaurant2-sanfranciscoca",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/panchitas-restaurant-2-san-francisco"
+  },
+  {
+    "name": "PAKWAN - 16TH STREET - SAN FRANCISCO, CA",
+    "slug": "pakwan-16thstreet-sanfranciscoca",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/pakwan--16th-street-san-francisco"
+  },
+  {
+    "name": "LA CUISINE CAFE - SAN FRANCISCO, CA",
+    "slug": "lacuisinecafe-sanfranciscoca",
+    "category": "cafe",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/la-cuisine-cafe-san-francisco-2"
+  },
+  {
+    "name": "RESTAURANT SOFIYA - SAN FRANCISCO, CA",
+    "slug": "restaurantsofiya-sanfranciscoca",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/restaurant-sofiya-sf"
+  },
+  {
+    "name": "SASA JAPANESE RESTAURANT - SAN FRANCISCO, CA",
+    "slug": "sasajapaneserestaurant-sanfranciscoca",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/sasa-japanese-restaurant-san-francisco-2"
+  },
+  {
+    "name": "PANCHITAS RESTAURANT LLC - SAN FRANCISCO, CA",
+    "slug": "panchitasrestaurantllc-sanfranciscoca",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/panchitas-restaurant-llc-san-francisco"
+  },
+  {
+    "name": "WING LUM RESTAURANT - SAN FRANCISCO, CA",
+    "slug": "winglumrestaurant-sanfranciscoca",
+    "category": "wings",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/wing-lum-restaurant-san-francisco"
+  },
+  {
+    "name": "BARISTA CAFE - SAN FRANCISCO, CA",
+    "slug": "baristacafe-sanfranciscoca",
+    "category": "cafe",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/barista-cafe-san-francisco"
+  },
+  {
+    "name": "Tikal Restaurante Y Pan - San Francisco, CA",
+    "slug": "tikalrestauranteypan-sanfranciscoca",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/tikal-restaurante-y-pan-san-francisco"
+  },
+  {
+    "name": "EA CAFE - SAN FRANCISCO, CA",
+    "slug": "eacafe-sanfranciscoca",
+    "category": "cafe",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/ea-cafe-san-francisco"
+  },
+  {
+    "name": "SEAFOOD STATION - SAN FRANCISCO, CA",
+    "slug": "seafoodstation-sanfranciscoca",
+    "category": "seafood",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/seafood-station-san-francisco-2"
+  },
+  {
+    "name": "MAGIC FLUTE RESTAURANT - SAN FRANCISCO, CA",
+    "slug": "magicfluterestaurant-sanfranciscoca",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/magic-flute-restaurant-san-francisco-2"
+  },
+  {
+    "name": "ENSENADA RESTAURANT - SAN FRANCISCO, CA",
+    "slug": "ensenadarestaurant-sanfranciscoca",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/ensenada-restaurant-san-francisco-2"
+  },
+  {
+    "name": "PICARO CAFE - San Francisco, CA",
+    "slug": "picarocafe-sanfranciscoca",
+    "category": "cafe",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/picaro-cafe-san-francisco"
+  },
+  {
+    "name": "FIRE & BREW Cloud Kitchen & Bar - SAN FRANCISCO, CA",
+    "slug": "firebrewcloudkitchenbar-sanfranciscoca",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/fire-and-brew-new-san-francisco"
   }
 ]

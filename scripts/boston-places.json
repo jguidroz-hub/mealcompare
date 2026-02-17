@@ -2789,5 +2789,446 @@
       "boston"
     ],
     "websiteOrderUrl": "https://www.menufy.com/NY/Bronx"
+  },
+  {
+    "name": "Ocean Prime Boston",
+    "slug": "oceanprimeboston",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://oceanprime.olo.com/menu/ocean-prime-boston"
+  },
+  {
+    "name": "Boston (Fenway)",
+    "slug": "bostonfenway",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://wahlburgersrestaurant.olo.com/menu/wahlburgers-boston"
+  },
+  {
+    "name": "Rock Bottom Boston",
+    "slug": "rockbottomboston",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://rockbottom.olo.com/menu/boston"
+  },
+  {
+    "name": "Pressed Cafe Huntington",
+    "slug": "pressedcafehuntington",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://pressedcafe.olo.com/menu/pressed-cafe-boston"
+  },
+  {
+    "name": "Boston Market",
+    "slug": "bostonmarket",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://bostonmarket.olo.com/"
+  },
+  {
+    "name": "Pink Taco Catering Boston",
+    "slug": "pinktacocateringboston",
+    "category": "mexican",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://pinktacocatering.olo.com/menu/pink-taco-catering-boston-2"
+  },
+  {
+    "name": "Pressed Cafe Catering Newton",
+    "slug": "pressedcafecateringnewton",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://pressedcafecatering.olo.com/menu/pressed-caf-catering-newton"
+  },
+  {
+    "name": "Boston - Fogo de Chão",
+    "slug": "boston-fogodecho",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://fogo.olo.com/menu/fogo-de-cho-brazilian-steakhouse-30"
+  },
+  {
+    "name": "Pink Taco Boston",
+    "slug": "pinktacoboston",
+    "category": "mexican",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://pinktaco.olo.com/menu/pink-taco-4"
+  },
+  {
+    "name": "Wahlburgers",
+    "slug": "wahlburgers",
+    "category": "burgers",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://wahlburgersrestaurant.olo.com/"
+  },
+  {
+    "name": "Lee’s Sandwiches Worcester - Boston",
+    "slug": "leessandwichesworcester-boston",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://leesandwiches.olo.com/menu/lees-sandwiches-worcester"
+  },
+  {
+    "name": "Wahlburgers Boston (Fenway)",
+    "slug": "wahlburgersbostonfenway",
+    "category": "burgers",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://wahlburgersrestaurant.olo.com/menu/wahlburgers-boston/products/60586292"
+  },
+  {
+    "name": "Daly City",
+    "slug": "dalycity",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://bostonmarket.olo.com/menu/1384"
+  },
+  {
+    "name": "Eataly Boston",
+    "slug": "eatalyboston",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://eataly.olo.com/menu/eataly-boston-2/products/64108296"
+  },
+  {
+    "name": "ᐅ Boston Pizza Delivery - Best Pizza Places in Boston 2025",
+    "slug": "bostonpizzadelivery-bestpizzaplacesinbos",
+    "category": "pizza",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://slicelife.com/pizza-delivery/ma-boston"
+  },
+  {
+    "name": "Boston News Cafe",
+    "slug": "bostonnewscafe",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://bostonnewscafe.getbento.com/"
+  },
+  {
+    "name": "State Street",
+    "slug": "statestreet",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://bostonnewscafe.getbento.com/location/boston-news-cafe-28-state-street/"
+  },
+  {
+    "name": "Rebeccas Culinary Group - American Food in Boston, MA",
+    "slug": "rebeccasculinarygroup-americanfoodinbost",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://rebeccasculinarygroup.getbento.com/catering-store-v2/"
+  },
+  {
+    "name": "Seafood Restaurant in Boston & Cambridge MA",
+    "slug": "seafoodrestaurantinbostoncambridgema",
+    "category": "seafood",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://summershackrestaurant.getbento.com/"
+  },
+  {
+    "name": "Catering",
+    "slug": "catering",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://caposouthboston.getbento.com/catering-store-v2/capo-restaurant/menu/order-settings"
+  },
+  {
+    "name": "Menus",
+    "slug": "menus",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://bostonnewscafe.getbento.com/menus/"
+  },
+  {
+    "name": "Tuscan Kitchen Seaport",
+    "slug": "tuscankitchenseaport",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://tuscanbrands.getbento.com/tuscankitchen-seaport/"
+  },
+  {
+    "name": "Best Restaurant Websites - Boston",
+    "slug": "bestrestaurantwebsites-boston",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/best-restaurant-websites-boston/"
+  },
+  {
+    "name": "Piattini",
+    "slug": "piattini",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://piattini.getbento.com/"
+  },
+  {
+    "name": "Arch Street",
+    "slug": "archstreet",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://bostonnewscafe.getbento.com/location/boston-news-cafe-80-arch-street/"
+  },
+  {
+    "name": "Watertown Menus",
+    "slug": "watertownmenus",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://buttermilkbourbon.getbento.com/watertown-menus/"
+  },
+  {
+    "name": "Soup and Salad",
+    "slug": "soupandsalad",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://bostonnewscafe.getbento.com/menu/soup-and-salad/"
+  },
+  {
+    "name": "China Pearl Restaurants",
+    "slug": "chinapearlrestaurants",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://chinapearlrestaurants.getbento.com/"
+  },
+  {
+    "name": "27 Subject Line Ideas for Your Restaurant Emails",
+    "slug": "27subjectlineideasforyourrestaurantemail",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/blog/restaurant-email-subject-lines/"
+  },
+  {
+    "name": "Reunion",
+    "slug": "reunion",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://reunion.getbento.com/"
+  },
+  {
+    "name": "Restaurant Online Ordering",
+    "slug": "restaurantonlineordering",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.getbento.com/products/online-ordering/"
+  },
+  {
+    "name": "TABLE - BOSTON, MA",
+    "slug": "table-bostonma",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/table-boston"
+  },
+  {
+    "name": "BLUE NILE - BOSTON, MA",
+    "slug": "bluenile-bostonma",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/blue-nile-boston"
+  },
+  {
+    "name": "DARBAR RESTAURANT - BOSTON, MA",
+    "slug": "darbarrestaurant-bostonma",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/7W4MHBR97KJE1"
+  },
+  {
+    "name": "BOSTON KEBAB - WALTHAM, MA",
+    "slug": "bostonkebab-walthamma",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/bostonkebabwaltham"
+  },
+  {
+    "name": "LUCY ETHIOPIAN CAFE - BOSTON, MA",
+    "slug": "lucyethiopiancafe-bostonma",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/lucy-ethiopian-cafe-boston"
+  },
+  {
+    "name": "R & S JAMAICAN RESTAURANT - BOSTON, MA",
+    "slug": "rsjamaicanrestaurant-bostonma",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/r--s-jamaican-restaurant-boston"
+  },
+  {
+    "name": "THE SILO 31626 - Boston, Georgia",
+    "slug": "thesilo31626-bostongeorgia",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/the-silo-31626-boston"
+  },
+  {
+    "name": "THAI PLACE - BOSTON, MA",
+    "slug": "thaiplace-bostonma",
+    "category": "thai",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/thai-place-boston"
+  },
+  {
+    "name": "WICHIT Sandwich - BOSTON, MA",
+    "slug": "wichitsandwich-bostonma",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/wichitboston"
+  },
+  {
+    "name": "BRASSERIE - BOSTON, MA",
+    "slug": "brasserie-bostonma",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/brasserie-boston"
+  },
+  {
+    "name": "FROM SCRATCH - BOSTON, MA",
+    "slug": "fromscratch-bostonma",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/from-scratch-boston"
+  },
+  {
+    "name": "CAPITOL COFFEE HOUSE - BOSTON, MA",
+    "slug": "capitolcoffeehouse-bostonma",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/capitol-coffee-house-boston"
+  },
+  {
+    "name": "CRYSTAL SPOONS - BOSTON, MA",
+    "slug": "crystalspoons-bostonma",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/crystalspoonscuisine"
+  },
+  {
+    "name": "POS System & Credit Card Readers",
+    "slug": "possystemcreditcardreaders",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/ca/pos-systems/online-ordering"
+  },
+  {
+    "name": "TUTUGETHER - BOSTON, MA",
+    "slug": "tutugether-bostonma",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/tutugether-boston"
+  },
+  {
+    "name": "How to choose a self",
+    "slug": "howtochooseaself",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://blog.clover.com/how-to-choose-a-self-ordering-kiosk-for-restaurants/"
+  },
+  {
+    "name": "Red Apple Farm at Boston Public Market",
+    "slug": "redapplefarmatbostonpublicmarket",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/red-apple-farm-market-boston"
+  },
+  {
+    "name": "So Sabe Catering & Treats - BOSTON, MA",
+    "slug": "sosabecateringtreats-bostonma",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.clover.com/online-ordering/so-sabe-inc-boston"
   }
 ]
