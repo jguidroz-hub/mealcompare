@@ -60,7 +60,7 @@ export default function Home() {
           </div>
 
           <p style={{ fontSize: 13, color: '#334155', marginTop: 20, fontWeight: 500 }}>
-            15 cities · 1,154+ restaurants · NYC, Chicago, LA, Miami & more
+            30 cities · 3,300+ restaurants · 1,700+ direct ordering links
           </p>
         </div>
       </section>
@@ -191,7 +191,7 @@ export default function Home() {
         {[
           { q: 'Is it really free?', a: 'Yes. No premium tier, no hidden catches, no account needed.' },
           { q: 'How do you get the prices?', a: 'Public APIs and menu data. Uber Eats prices come from their API. DoorDash and Grubhub are estimated from known fee models and verified with real orders.' },
-          { q: 'What cities?', a: '15 cities: NYC, Chicago, LA, Boston, Miami, Philly, Atlanta, Denver, Seattle, SF, Houston, Nashville, NOLA, Austin, DC. More every week.' },
+          { q: 'What cities?', a: '30 cities including NYC, Chicago, LA, Boston, Miami, SF, DC, Dallas, Phoenix, Portland, Detroit, Minneapolis, Tampa, San Diego, and more. New cities added weekly.' },
           { q: 'What is "direct ordering"?', a: "Many restaurants let you order delivery through their own website (Toast, Square, etc.). No 28-33% platform commission = 10-20% cheaper for you." },
           { q: 'DashPass / Uber One / GH+ support?', a: 'Coming soon. Currently compares standard (non-subscriber) pricing.' },
         ].map((faq) => (

@@ -45,6 +45,21 @@ const METRO_COORDS: Record<string, { lat: number; lng: number }> = {
   philly: { lat: 39.9526, lng: -75.1652 },
   nashville: { lat: 36.1627, lng: -86.7816 },
   nola: { lat: 29.9511, lng: -90.0715 },
+  dallas: { lat: 32.7767, lng: -96.797 },
+  phoenix: { lat: 33.4484, lng: -112.074 },
+  portland: { lat: 45.5152, lng: -122.6784 },
+  detroit: { lat: 42.3314, lng: -83.0458 },
+  minneapolis: { lat: 44.9778, lng: -93.265 },
+  charlotte: { lat: 35.2271, lng: -80.8431 },
+  tampa: { lat: 27.9506, lng: -82.4572 },
+  sandiego: { lat: 32.7157, lng: -117.1611 },
+  stlouis: { lat: 38.627, lng: -90.1994 },
+  pittsburgh: { lat: 40.4406, lng: -79.9959 },
+  columbus: { lat: 39.9612, lng: -82.9988 },
+  indianapolis: { lat: 39.7684, lng: -86.1581 },
+  milwaukee: { lat: 43.0389, lng: -87.9065 },
+  raleigh: { lat: 35.7796, lng: -78.6382 },
+  baltimore: { lat: 39.2904, lng: -76.6122 },
 };
 
 function closestMetro(lat: number, lng: number): string {
@@ -310,7 +325,7 @@ function HomeScreen({ onSearch, allRestaurants, selectedMetro, onTrack, favorite
       {/* Quick stats */}
       <View style={S.statsRow}>
         <View style={S.statCard}>
-          <Text style={S.statValue}>15</Text>
+          <Text style={S.statValue}>30</Text>
           <Text style={S.statLabel}>Cities</Text>
         </View>
         <View style={S.statCard}>
@@ -394,7 +409,14 @@ const METROS = [
   { id: 'houston', label: 'Houston' }, { id: 'atlanta', label: 'Atlanta' },
   { id: 'seattle', label: 'Seattle' }, { id: 'denver', label: 'Denver' },
   { id: 'philly', label: 'Philly' }, { id: 'nashville', label: 'Nashville' },
-  { id: 'nola', label: 'NOLA' },
+  { id: 'nola', label: 'NOLA' }, { id: 'dallas', label: 'Dallas' },
+  { id: 'phoenix', label: 'Phoenix' }, { id: 'portland', label: 'Portland' },
+  { id: 'detroit', label: 'Detroit' }, { id: 'minneapolis', label: 'Mpls' },
+  { id: 'charlotte', label: 'Charlotte' }, { id: 'tampa', label: 'Tampa' },
+  { id: 'sandiego', label: 'SD' }, { id: 'stlouis', label: 'STL' },
+  { id: 'pittsburgh', label: 'PGH' }, { id: 'columbus', label: 'Columbus' },
+  { id: 'indianapolis', label: 'Indy' }, { id: 'milwaukee', label: 'MKE' },
+  { id: 'raleigh', label: 'Raleigh' }, { id: 'baltimore', label: 'Baltimore' },
 ];
 
 function SearchScreen({ query, onQueryChange, loading, restaurants, sharedRestaurant, onTrack, favorites }: {

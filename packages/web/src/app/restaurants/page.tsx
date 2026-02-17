@@ -27,6 +27,21 @@ const METROS = [
   { id: 'philly', label: 'Philly', full: 'Philadelphia' },
   { id: 'nashville', label: 'Nashville', full: 'Nashville' },
   { id: 'nola', label: 'NOLA', full: 'New Orleans' },
+  { id: 'dallas', label: 'Dallas', full: 'Dallas' },
+  { id: 'phoenix', label: 'Phoenix', full: 'Phoenix' },
+  { id: 'portland', label: 'Portland', full: 'Portland' },
+  { id: 'detroit', label: 'Detroit', full: 'Detroit' },
+  { id: 'minneapolis', label: 'Minneapolis', full: 'Minneapolis' },
+  { id: 'charlotte', label: 'Charlotte', full: 'Charlotte' },
+  { id: 'tampa', label: 'Tampa', full: 'Tampa' },
+  { id: 'sandiego', label: 'San Diego', full: 'San Diego' },
+  { id: 'stlouis', label: 'St Louis', full: 'St Louis' },
+  { id: 'pittsburgh', label: 'Pittsburgh', full: 'Pittsburgh' },
+  { id: 'columbus', label: 'Columbus', full: 'Columbus' },
+  { id: 'indianapolis', label: 'Indy', full: 'Indianapolis' },
+  { id: 'milwaukee', label: 'Milwaukee', full: 'Milwaukee' },
+  { id: 'raleigh', label: 'Raleigh', full: 'Raleigh' },
+  { id: 'baltimore', label: 'Baltimore', full: 'Baltimore' },
 ];
 
 const CATEGORIES = [
