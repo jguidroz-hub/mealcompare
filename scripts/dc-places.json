@@ -351,7 +351,7 @@
     "toastUrl": "https://order.toasttab.com/online/lost-dog-cafe-south-arlington"
   },
   {
-    "name": "RĀKO - Arlington Cafe",
+    "name": "R\u0100KO - Arlington Cafe",
     "slug": "rko-arlingtoncafe",
     "category": "cafe",
     "metros": [
@@ -738,7 +738,7 @@
     "toastUrl": "https://order.toasttab.com/online/812-pizza-company"
   },
   {
-    "name": "chīko dupont - dc",
+    "name": "ch\u012bko dupont - dc",
     "slug": "chkodupont-dc",
     "category": "restaurant",
     "metros": [
@@ -900,7 +900,7 @@
     "toastUrl": "https://order.toasttab.com/online/kensington-cafe-4141-adams-ave"
   },
   {
-    "name": "chīko capitol hill - dc",
+    "name": "ch\u012bko capitol hill - dc",
     "slug": "chkocapitolhill-dc",
     "category": "restaurant",
     "metros": [
@@ -1323,7 +1323,7 @@
     "websiteOrderUrl": "https://order.online/store/muzette-karaoke-&-restaurant-washington-666053/"
   },
   {
-    "name": "Etto 1541 14th Street Northwest – Order pickup and delivery",
+    "name": "Etto 1541 14th Street Northwest \u2013 Order pickup and delivery",
     "slug": "etto154114thstreetnorthwestorderpickupan",
     "category": "restaurant",
     "metros": [
@@ -1332,7 +1332,7 @@
     "websiteOrderUrl": "https://order.online/store/etto-washington-96290"
   },
   {
-    "name": "Wasai 716 7th Street Northwest – Order pickup and delivery",
+    "name": "Wasai 716 7th Street Northwest \u2013 Order pickup and delivery",
     "slug": "wasai7167thstreetnorthwestorderpickupand",
     "category": "restaurant",
     "metros": [
@@ -1602,7 +1602,7 @@
     "squareUrl": "https://washington-whirlyball.square.site/"
   },
   {
-    "name": "Savoré",
+    "name": "Savor\u00e9",
     "slug": "savor",
     "category": "restaurant",
     "metros": [
@@ -1989,7 +1989,7 @@
     "websiteOrderUrl": "https://pinstripesbistro.olo.com/menu/pinstripes-georgetown"
   },
   {
-    "name": "Washington DC - Fogo de Chão",
+    "name": "Washington DC - Fogo de Ch\u00e3o",
     "slug": "washingtondc-fogodecho",
     "category": "restaurant",
     "metros": [
@@ -2520,7 +2520,7 @@
     "toastUrl": "https://order.toasttab.com/online/just-greek-142-south-livingston-avenue"
   },
   {
-    "name": "Meráki Greek Grill",
+    "name": "Mer\u00e1ki Greek Grill",
     "slug": "merkigreekgrill",
     "category": "mediterranean",
     "metros": [
@@ -2707,5 +2707,758 @@
       "dc"
     ],
     "toastUrl": "https://order.toasttab.com/online/juice-bar-norton-commons-10512-meeting-street"
+  },
+  {
+    "name": "Ometeo",
+    "slug": "ometeo",
+    "category": "mexican",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://ometeo.toast.site/"
+  },
+  {
+    "name": "DC Vegan",
+    "slug": "dcvegan",
+    "category": "vegan",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://dcvegan.toast.site/"
+  },
+  {
+    "name": "Your Only Friend",
+    "slug": "youronlyfriend",
+    "category": "bar",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://youronlyfriend.toast.site/"
+  },
+  {
+    "name": "GrillMarx Steakhouse",
+    "slug": "grillmarx",
+    "category": "steakhouse",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://grillmarxsteakhouserawbar.toast.site/"
+  },
+  {
+    "name": "Social Eats Caf\u00e9",
+    "slug": "socialeats",
+    "category": "cafe",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://socialeatscafproject607.toast.site/"
+  },
+  {
+    "name": "Central Bar & Restaurant",
+    "slug": "centralbar",
+    "category": "american",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://centralbarrestaurant.toast.site/"
+  },
+  {
+    "name": "WB Steakhouse",
+    "slug": "wbsteakhouse",
+    "category": "steakhouse",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://wbsteaks.toast.site/"
+  },
+  {
+    "name": "Portofino Restaurant",
+    "slug": "portofino",
+    "category": "italian",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://portofinorestaurant.toast.site/"
+  },
+  {
+    "name": "Northside Social",
+    "slug": "northsidesocial",
+    "category": "cafe",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://northsidesocialfallschurch-slhmsdug.toast.site/"
+  },
+  {
+    "name": "PLNT Burger",
+    "slug": "plntburger",
+    "category": "burgers",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://www.toasttab.com/local/plnt-burger-fav/r-58793d11-6ce8-4b04-b57a-0230495343ba"
+  },
+  {
+    "name": "On Toast",
+    "slug": "ontoast",
+    "category": "cafe",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://www.toasttab.com/local/order/on-toast-1309-5th-street-northeast/r-a0ddb273-1308-4db6-8032-2b411510fb9f"
+  },
+  {
+    "name": "Downtown Shawarma",
+    "slug": "downtownshawarma",
+    "category": "middle-eastern",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://downtownshawarma.toast.site/"
+  },
+  {
+    "name": "Tortas y Tacos La Chiquita",
+    "slug": "tortasytacoslachiquita",
+    "category": "mexican",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://tortasytacoslachiquitaiii.toast.site/"
+  },
+  {
+    "name": "Qui Qui",
+    "slug": "quiqui",
+    "category": "latin",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://quiquinew.toast.site/"
+  },
+  {
+    "name": "Kusshi Sushi",
+    "slug": "kusshi",
+    "category": "japanese",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://kusshi.toast.site/"
+  },
+  {
+    "name": "Cactus Cantina",
+    "slug": "cactuscantina",
+    "category": "mexican",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://cactuscantina.toast.site/"
+  },
+  {
+    "name": "Jack Rose Dining Saloon",
+    "slug": "jackrose",
+    "category": "american",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://jackrosediningsaloon.toast.site/"
+  },
+  {
+    "name": "DCity Smokehouse",
+    "slug": "dcitysmokehouse",
+    "category": "bbq",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://dcitysmokehouseinwashingtondc.toast.site/"
+  },
+  {
+    "name": "Sweet Crimes Bakery",
+    "slug": "sweetcrimes",
+    "category": "bakery",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://sweetcrimesbakery.toast.site/"
+  },
+  {
+    "name": "Sisters Sandwiches & Such",
+    "slug": "sisterssandwiches",
+    "category": "sandwiches",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://sisterssandwichessuch.toast.site/"
+  },
+  {
+    "name": "Tout de Sweet",
+    "slug": "toutdesweet",
+    "category": "bakery",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://toutdesweet.toast.site/"
+  },
+  {
+    "name": "BoBaPop Tea Bar",
+    "slug": "bobapop",
+    "category": "tea",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://bobapopteabar.toast.site/"
+  },
+  {
+    "name": "Flavor Hive",
+    "slug": "flavorhive",
+    "category": "asian",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://flavorhiveannandale.toast.site/"
+  },
+  {
+    "name": "The Morning Fork",
+    "slug": "themorningfork",
+    "category": "breakfast",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://themorningfork.toast.site/"
+  },
+  {
+    "name": "TipThai Thai Cuisine",
+    "slug": "tipthai",
+    "category": "thai",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://tipthai.toast.site/"
+  },
+  {
+    "name": "Baruch Cafe",
+    "slug": "baruchcafe",
+    "category": "cafe",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://baruchcafe.toast.site/"
+  },
+  {
+    "name": "No Tacos Amigo",
+    "slug": "notacosamigo",
+    "category": "mexican",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://notacosamigo.toast.site/"
+  },
+  {
+    "name": "Ladur\u00e9e Bethesda",
+    "slug": "laduree",
+    "category": "bakery",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://ladure-ssad58my.toast.site/"
+  },
+  {
+    "name": "Rien Tong Thai & Sushi Bar",
+    "slug": "rientong",
+    "category": "thai",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://rientongthaiasianrestaurantsushibararlington.toast.site/"
+  },
+  {
+    "name": "Taco Rock",
+    "slug": "tacorock",
+    "category": "mexican",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://tacorock.toast.site/"
+  },
+  {
+    "name": "La Chiquita Taqueria DMV",
+    "slug": "lachiquitadmv",
+    "category": "mexican",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://lachiquitataqueriadmv.toast.site/"
+  },
+  {
+    "name": "The Dabney",
+    "slug": "thedabney",
+    "category": "american",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://thedabney.toast.site/"
+  },
+  {
+    "name": "Rendezvous",
+    "slug": "rendezvous",
+    "category": "french",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://rendezvous.toast.site/"
+  },
+  {
+    "name": "Red Rocks",
+    "slug": "redrocks",
+    "category": "pizza",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://redrocks.toast.site/"
+  },
+  {
+    "name": "Rito Loco",
+    "slug": "ritoloco",
+    "category": "mexican",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://ritoloco.toast.site/"
+  },
+  {
+    "name": "Crisfield Seafood",
+    "slug": "crisfieldseafood",
+    "category": "seafood",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://crisfieldseafood.toast.site/"
+  },
+  {
+    "name": "Flavor After Ours",
+    "slug": "flavorafterours",
+    "category": "multicultural",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://flavorafterours.toast.site/"
+  },
+  {
+    "name": "Sweetgreen",
+    "slug": "sweetgreen",
+    "category": "salads",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://order.sweetgreen.com"
+  },
+  {
+    "name": "Halal Guys",
+    "slug": "halalguys",
+    "category": "halal",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://order.thehalalguys.com"
+  },
+  {
+    "name": "Founding Farmers",
+    "slug": "foundingfarmers",
+    "category": "american",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Nandos Peri-Peri",
+    "slug": "nandos",
+    "category": "chicken",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://www.nandosperiperi.com/order"
+  },
+  {
+    "name": "Busboys and Poets",
+    "slug": "busboysandpoets",
+    "category": "american",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Bens Chili Bowl",
+    "slug": "benschilibowl",
+    "category": "american",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Clyde\\",
+    "slug": "clydes",
+    "category": "american",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Rasika",
+    "slug": "rasika",
+    "category": "indian",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Maketto",
+    "slug": "maketto",
+    "category": "asian",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Daikaya",
+    "slug": "daikaya",
+    "category": "japanese",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Bantam King",
+    "slug": "bantamking",
+    "category": "japanese",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Doi Moi",
+    "slug": "doimoi",
+    "category": "vietnamese",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Pho 75",
+    "slug": "pho75",
+    "category": "vietnamese",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "District Taco",
+    "slug": "districttaco",
+    "category": "mexican",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Amsterdam Falafelshop",
+    "slug": "amsterdamfalafel",
+    "category": "falafel",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Bonchon",
+    "slug": "bonchon",
+    "category": "korean",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Good Stuff Eatery",
+    "slug": "goodstuffeatery",
+    "category": "burgers",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Le Diplomate",
+    "slug": "lediplomate",
+    "category": "french",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Compass Rose",
+    "slug": "compassrose",
+    "category": "international",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Old Ebbitt Grill",
+    "slug": "oldebbittgrill",
+    "category": "american",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Duke\\",
+    "slug": "dukesgrocery",
+    "category": "burgers",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Baked & Wired",
+    "slug": "bakedandwired",
+    "category": "bakery",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Call Your Mother",
+    "slug": "callyourmother",
+    "category": "deli",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Taqueria Habanero",
+    "slug": "taqueriahabanero",
+    "category": "mexican",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Rose\\",
+    "slug": "rosesluxury",
+    "category": "american",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Immigrant Food",
+    "slug": "immigrantfood",
+    "category": "international",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Federalist Pig",
+    "slug": "federalistpig",
+    "category": "bbq",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Bub and Pop\\",
+    "slug": "bubandpops",
+    "category": "sandwiches",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "DGS Delicatessen",
+    "slug": "dgs",
+    "category": "deli",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Wiseguy Pizza",
+    "slug": "wiseguypizza",
+    "category": "pizza",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "&pizza",
+    "slug": "andpizza",
+    "category": "pizza",
+    "metros": [
+      "dc"
+    ],
+    "websiteOrderUrl": "https://andpizza.com/order"
+  },
+  {
+    "name": "DC Pizza",
+    "slug": "dcpizza",
+    "category": "pizza",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://dcpizza.toast.site/"
+  },
+  {
+    "name": "Joselito",
+    "slug": "joselito",
+    "category": "latin",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://joselito.toast.site/"
+  },
+  {
+    "name": "Eat Today",
+    "slug": "eattoday",
+    "category": "american",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://eattodaynew.toast.site/"
+  },
+  {
+    "name": "Oohh\\",
+    "slug": "oohhsaaahhs",
+    "category": "soul-food",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://oohhsaahhsustreet.toast.site/"
+  },
+  {
+    "name": "The Cornerstone Grill & Loft",
+    "slug": "cornerstonegrill",
+    "category": "sports-bar",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://thecornerstonegrillloft.toast.site/"
+  },
+  {
+    "name": "WINNER Bakery",
+    "slug": "winnerbakery",
+    "category": "bakery",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://winnerbakery.toast.site/"
+  },
+  {
+    "name": "Ladur\u00e9e DC",
+    "slug": "ladurreedc",
+    "category": "bakery",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://ladure-ssad58my.toast.site/"
+  },
+  {
+    "name": "All-Purpose",
+    "slug": "allpurpose",
+    "category": "pizza",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Henry\\",
+    "slug": "henryssoulcafe",
+    "category": "soul-food",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "The Prime Rib",
+    "slug": "theprimerib",
+    "category": "steakhouse",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Bar Chinois",
+    "slug": "barchinois",
+    "category": "chinese",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Cru Lounge",
+    "slug": "crulounge",
+    "category": "lounge",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Catalogue",
+    "slug": "catalogue",
+    "category": "american",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "The Diner",
+    "slug": "thediner",
+    "category": "diner",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Prime Pizza",
+    "slug": "primepizza",
+    "category": "pizza",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://primepizza-o5fce583.toast.site/"
+  },
+  {
+    "name": "Jaleo",
+    "slug": "jaleo",
+    "category": "spanish",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Zaytinya",
+    "slug": "zaytinya",
+    "category": "mediterranean",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Medium Rare",
+    "slug": "mediumrare",
+    "category": "steakhouse",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Chaia Tacos",
+    "slug": "chaiatacos",
+    "category": "mexican",
+    "metros": [
+      "dc"
+    ]
+  },
+  {
+    "name": "Centrolina",
+    "slug": "centrolina",
+    "category": "italian",
+    "metros": [
+      "dc"
+    ]
   }
 ]

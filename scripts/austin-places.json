@@ -90,7 +90,7 @@
     "websiteOrderUrl": "https://get.popmenu.com/post/4-tech-focused-tips-to-fight-rising-restaurant-costs"
   },
   {
-    "name": "Austin’s Pizza",
+    "name": "Austin\u2019s Pizza",
     "slug": "austinspizza",
     "category": "pizza",
     "metros": [
@@ -477,7 +477,7 @@
     "toastUrl": "https://order.toasttab.com/online/cafe-crepe-of-austin-200-san-jacinto-blvd-suite-a"
   },
   {
-    "name": "Ski Shores Café - 2905 Pearce Road, Austin, TX",
+    "name": "Ski Shores Caf\u00e9 - 2905 Pearce Road, Austin, TX",
     "slug": "skishorescaf-2905pearceroadaustintx",
     "category": "restaurant",
     "metros": [
@@ -1458,7 +1458,7 @@
     "websiteOrderUrl": "https://truefoodkitchencatering.olo.com/menu/austin-catering"
   },
   {
-    "name": "Austin - Congress Fogo de Chão",
+    "name": "Austin - Congress Fogo de Ch\u00e3o",
     "slug": "austin-congressfogodecho",
     "category": "restaurant",
     "metros": [
@@ -1593,7 +1593,7 @@
     "websiteOrderUrl": "https://postino.olo.com/menu/postino-south-lamar"
   },
   {
-    "name": "ᐅ Austin Pizza Delivery - Best Pizza Places in Austin 2026",
+    "name": "\u1405 Austin Pizza Delivery - Best Pizza Places in Austin 2026",
     "slug": "austinpizzadelivery-bestpizzaplacesinaus",
     "category": "pizza",
     "metros": [
@@ -1602,7 +1602,7 @@
     "websiteOrderUrl": "https://slicelife.com/pizza-delivery/tx-austin"
   },
   {
-    "name": "Komé",
+    "name": "Kom\u00e9",
     "slug": "kom",
     "category": "restaurant",
     "metros": [
@@ -2230,5 +2230,624 @@
       "austin"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/34489/locations/52141"
+  },
+  {
+    "name": "La Traviata",
+    "slug": "latraviata",
+    "category": "italian",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://latraviataaustin.toast.site/"
+  },
+  {
+    "name": "Casa Tulum",
+    "slug": "casatulum",
+    "category": "mexican",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://casatulum.toast.site/"
+  },
+  {
+    "name": "Cafe Largesse",
+    "slug": "cafelargesse",
+    "category": "cafe",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://cafelargesse.toast.site/"
+  },
+  {
+    "name": "Fire Bowl Cafe",
+    "slug": "firebowlcafe",
+    "category": "asian",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://firebowlcafelima.toast.site/"
+  },
+  {
+    "name": "Taqueria 10 de 10",
+    "slug": "taqueria1010",
+    "category": "mexican",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://taqueria1010.toast.site/"
+  },
+  {
+    "name": "Mr. Chingon",
+    "slug": "mrchingon",
+    "category": "mexican",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://mrchingontaqueria.toast.site/"
+  },
+  {
+    "name": "ATX Latin Food",
+    "slug": "atxlatinfood",
+    "category": "latin",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://atxlatinfood.toast.site/"
+  },
+  {
+    "name": "Tropicana Cuban",
+    "slug": "tropicanacuban",
+    "category": "cuban",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://tropicanacubanrestaurant.toast.site/"
+  },
+  {
+    "name": "Foreign & Domestic",
+    "slug": "foreigndomestic",
+    "category": "american",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://foreigndomestic.toast.site/"
+  },
+  {
+    "name": "Taco n Ma\u00edz",
+    "slug": "taconmaiz",
+    "category": "mexican",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://taconmaiz.toast.site/"
+  },
+  {
+    "name": "Ovenbird",
+    "slug": "ovenbird",
+    "category": "american",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://ovenbird.toast.site/"
+  },
+  {
+    "name": "Om-Le Road",
+    "slug": "omleroad",
+    "category": "thai",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://omleroad.toast.site/"
+  },
+  {
+    "name": "Spread & Co.",
+    "slug": "spreadco",
+    "category": "cafe",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://spreadcocherrywood.toast.site/"
+  },
+  {
+    "name": "The Lokal Restaurant",
+    "slug": "thelokal",
+    "category": "american",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://thelokalrestaurant.toast.site/"
+  },
+  {
+    "name": "Relish Restaurant & Bar",
+    "slug": "relish",
+    "category": "american",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://relishrestaurantbar.toast.site/"
+  },
+  {
+    "name": "East Side Pies",
+    "slug": "eastsidepies",
+    "category": "pizza",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://eastsidepies.toast.site/"
+  },
+  {
+    "name": "The Front Page",
+    "slug": "thefrontpage",
+    "category": "sandwiches",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://thefrontpage.toast.site/"
+  },
+  {
+    "name": "Cedar Park Cafe",
+    "slug": "cedarparkcafe",
+    "category": "american",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://cedarparkcafe.toast.site/"
+  },
+  {
+    "name": "Rock N Grill Indian",
+    "slug": "rockngrill",
+    "category": "indian",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://rockngrillauthenticindiancuisinebar.toast.site/"
+  },
+  {
+    "name": "Aladdin Halal Grill",
+    "slug": "aladdinhalal",
+    "category": "halal",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://aladdingrillroundrock.toast.site/"
+  },
+  {
+    "name": "The Great Greek",
+    "slug": "thegreatgreek",
+    "category": "mediterranean",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://thegreatgreek.toast.site/"
+  },
+  {
+    "name": "Tejas Birria",
+    "slug": "tejasbirria",
+    "category": "mexican",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://tejasbirria.toast.site/"
+  },
+  {
+    "name": "Whataburger",
+    "slug": "whataburger",
+    "category": "burgers",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://whataburger.com/order"
+  },
+  {
+    "name": "Torchys Tacos",
+    "slug": "torchystacos",
+    "category": "mexican",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://torchystacos.com/order-now"
+  },
+  {
+    "name": "P. Terrys",
+    "slug": "pterrys",
+    "category": "burgers",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://pterrys.com/order"
+  },
+  {
+    "name": "In-N-Out Burger",
+    "slug": "innout",
+    "category": "burgers",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "HEB Curbside",
+    "slug": "heb",
+    "category": "grocery",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://www.heb.com/static-page/curbside"
+  },
+  {
+    "name": "Freebirds World Burrito",
+    "slug": "freebirds",
+    "category": "mexican",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://freebirds.com/order"
+  },
+  {
+    "name": "Pluckers Wing Bar",
+    "slug": "pluckers",
+    "category": "wings",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://pluckers.com/order-online"
+  },
+  {
+    "name": "Kerbey Lane Cafe",
+    "slug": "kerbeylane",
+    "category": "cafe",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Via 313 Pizza",
+    "slug": "via313",
+    "category": "pizza",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://via313.com/order-online"
+  },
+  {
+    "name": "Hopdoddy",
+    "slug": "hopdoddy",
+    "category": "burgers",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://www.hopdoddy.com/order-online"
+  },
+  {
+    "name": "Hat Creek Burger",
+    "slug": "hatcreek",
+    "category": "burgers",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Cabo Bobs",
+    "slug": "cabobobs",
+    "category": "mexican",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Thai Kitchen",
+    "slug": "thaikitchen",
+    "category": "thai",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Chuy\\",
+    "slug": "chuys",
+    "category": "mexican",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://www.chuys.com/order-online"
+  },
+  {
+    "name": "Tacodeli",
+    "slug": "tacodeli",
+    "category": "mexican",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://www.tacodeli.com/order"
+  },
+  {
+    "name": "Ramen Tatsu-Ya",
+    "slug": "ramentatsuya",
+    "category": "japanese",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Uchi",
+    "slug": "uchi",
+    "category": "japanese",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Suerte",
+    "slug": "suerte",
+    "category": "mexican",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Veracruz All Natural",
+    "slug": "veracruz",
+    "category": "mexican",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Flyrite Chicken",
+    "slug": "flyrite",
+    "category": "chicken",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Loro",
+    "slug": "loro",
+    "category": "bbq",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Franklin Barbecue",
+    "slug": "franklin",
+    "category": "bbq",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Terry Blacks BBQ",
+    "slug": "terryblacks",
+    "category": "bbq",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "La Barbecue",
+    "slug": "labarbecue",
+    "category": "bbq",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Salvation Pizza",
+    "slug": "salvationpizza",
+    "category": "pizza",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Home Slice Pizza",
+    "slug": "homeslice",
+    "category": "pizza",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Pinthouse Pizza",
+    "slug": "pinthouse",
+    "category": "pizza",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "The Picnic",
+    "slug": "thepicnic",
+    "category": "food-trucks",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Favor",
+    "slug": "favor",
+    "category": "delivery",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Halal Bros",
+    "slug": "halalbros",
+    "category": "halal",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Tso Chinese Delivery",
+    "slug": "tso",
+    "category": "chinese",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://www.tsochinese.com/"
+  },
+  {
+    "name": "Wasota African Cuisine",
+    "slug": "wasota",
+    "category": "african",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "DeSano Pizza",
+    "slug": "desano",
+    "category": "pizza",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "El Pollo Regio",
+    "slug": "elpolloregio",
+    "category": "chicken",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Tyson\\",
+    "slug": "tysonstacos",
+    "category": "mexican",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Chi\\",
+    "slug": "chilantro",
+    "category": "korean",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://www.chilantro.com/order"
+  },
+  {
+    "name": "Pueblo Viejo",
+    "slug": "puebloviejo",
+    "category": "mexican",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Paperboy",
+    "slug": "paperboy",
+    "category": "breakfast",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Pho Saigon",
+    "slug": "phosaigon",
+    "category": "vietnamese",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Sap\\",
+    "slug": "sapsfinethai",
+    "category": "thai",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Din Ho Chinese BBQ",
+    "slug": "dinho",
+    "category": "chinese",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Bouldin Creek Cafe",
+    "slug": "bouldincreek",
+    "category": "vegetarian",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Counter Cafe",
+    "slug": "countercafe",
+    "category": "breakfast",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Grizzeldas",
+    "slug": "grizzeldas",
+    "category": "mexican",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Mandola\\",
+    "slug": "mandolas",
+    "category": "italian",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Arpeggio Grill",
+    "slug": "arpeggiogrill",
+    "category": "mediterranean",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Kerlin BBQ",
+    "slug": "kerlinbbq",
+    "category": "bbq",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Interstellar BBQ",
+    "slug": "interstellarbbq",
+    "category": "bbq",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Lucky Robot",
+    "slug": "luckyrobot",
+    "category": "japanese",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Aba",
+    "slug": "aba",
+    "category": "mediterranean",
+    "metros": [
+      "austin"
+    ]
+  },
+  {
+    "name": "Blue Corn Harvest",
+    "slug": "bluecornharvest",
+    "category": "southwestern",
+    "metros": [
+      "austin"
+    ],
+    "toastUrl": "https://bluecornharvest.toast.site/"
   }
 ]
