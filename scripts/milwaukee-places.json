@@ -590,5 +590,365 @@
       "milwaukee"
     ],
     "toastUrl": "https://order.toasttab.com/online/littlevillage"
+  },
+  {
+    "name": "First Ward House 2101 St Joseph Ave",
+    "slug": "firstwardhouse2101stjosephave",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/firstwardhouse"
+  },
+  {
+    "name": "Wine on Third 501 3rd Street",
+    "slug": "wineonthird5013rdstreet",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wine-on-third"
+  },
+  {
+    "name": "Third Street Social KC",
+    "slug": "thirdstreetsocialkc",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/third-street-social-north-410-nw-legacy-dr"
+  },
+  {
+    "name": "Ward 8 90 N. Washington St.",
+    "slug": "ward890nwashingtonst",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ward-8-90-n-washington-st"
+  },
+  {
+    "name": "Joan's on Third Studio City - Order Online",
+    "slug": "joansonthirdstudiocity-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/joans-on-third-sc"
+  },
+  {
+    "name": "Third Day Kitchen",
+    "slug": "thirddaykitchen",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thirddaykitchen"
+  },
+  {
+    "name": "Third Base Grill",
+    "slug": "thirdbasegrill",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/third-base-grill"
+  },
+  {
+    "name": "Third Street Social KC TSS South Plaza",
+    "slug": "thirdstreetsocialkctsssouthplaza",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/third-street-social-plaza"
+  },
+  {
+    "name": "Trapezium Brewing 423 Third Street",
+    "slug": "trapeziumbrewing423thirdstreet",
+    "category": "wings",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/trapezium-brewing-423-third-street"
+  },
+  {
+    "name": "Bay View Restaurant and Bar",
+    "slug": "bayviewrestaurantandbar",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bay-view-restaurant-and-bar-tx"
+  },
+  {
+    "name": "Top Of The Bay Restaurant Oakland Beach",
+    "slug": "topofthebayrestaurantoaklandbeach",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/topofthebay"
+  },
+  {
+    "name": "Bay Breeze Restaurant and Bar - Order Online",
+    "slug": "baybreezerestaurantandbar-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/baybreezerestaurantandbar"
+  },
+  {
+    "name": "Bay Bistro To-Go",
+    "slug": "baybistroto-go",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/baybistrotogo"
+  },
+  {
+    "name": "Eat Thai Restaurant 565 w Bay Area Blvd, Webster, Texas ...",
+    "slug": "eatthairestaurant565wbayareablvdwebstert",
+    "category": "thai",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/eat-thai-restaurant-webster-565-w-bay-area-blvd"
+  },
+  {
+    "name": "Bay Diner",
+    "slug": "baydiner",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bay-diner"
+  },
+  {
+    "name": "Bay Local Eatery Shore Drive",
+    "slug": "baylocaleateryshoredrive",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bay-local-eatery-shore-drive"
+  },
+  {
+    "name": "Cafe of the Bay",
+    "slug": "cafeofthebay",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-of-the-bay"
+  },
+  {
+    "name": "The Pizzeria of Bay Shore",
+    "slug": "thepizzeriaofbayshore",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-pizzeria-bayshore-11-maple-ave"
+  },
+  {
+    "name": "Tropical Bay Broadview Heights",
+    "slug": "tropicalbaybroadviewheights",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tropical-bay-llc"
+  },
+  {
+    "name": "Grove Kitchen - Only For Residents of Grove at Grand Bay ...",
+    "slug": "grovekitchen-onlyforresidentsofgroveatgr",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/grand-bay-restaurant"
+  },
+  {
+    "name": "Fishermen's View Restaurant",
+    "slug": "fishermensviewrestaurant",
+    "category": "seafood",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fishermens-view-restaurant"
+  },
+  {
+    "name": "Bay Local Eatery Laskin Road",
+    "slug": "baylocaleaterylaskinroad",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bay-local-eatery-laskin-road"
+  },
+  {
+    "name": "Bahrs Landing Restaurant & Marina",
+    "slug": "bahrslandingrestaurantmarina",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bahrs-landing-restaurant"
+  },
+  {
+    "name": "Stadium View",
+    "slug": "stadiumview",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/stadium-view"
+  },
+  {
+    "name": "The View Restaurant 1701 W Roosevelt Rd",
+    "slug": "theviewrestaurant1701wrooseveltrd",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-view-restaurant-1701-w-roosevelt-rd"
+  },
+  {
+    "name": "East Side Eatery",
+    "slug": "eastsideeatery",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pleasure-pizza"
+  },
+  {
+    "name": "Allie Boy's Bagelry & Luncheonette East National Avenue",
+    "slug": "allieboysbagelryluncheonetteeastnational",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/allie-boys-bagelry-luncheonette-135-east-national-ave"
+  },
+  {
+    "name": "Carson's Ribs Milwaukee",
+    "slug": "carsonsribsmilwaukee",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/carsons-ribs-milwaukee"
+  },
+  {
+    "name": "Old Town Bar and Grill 315 East 1st Street",
+    "slug": "oldtownbarandgrill315east1ststreet",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/oldtownbar"
+  },
+  {
+    "name": "Points East Pub 1501 N JACKSON ST",
+    "slug": "pointseastpub1501njacksonst",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/points-east-pub-1501-n-jackson-st"
+  },
+  {
+    "name": "The Milwaukee Delicatessen Company Kansas City, MO",
+    "slug": "themilwaukeedelicatessencompanykansascit",
+    "category": "deli",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/milwaukee-deli"
+  },
+  {
+    "name": "Hamilton Walker's Online Ordering ...",
+    "slug": "hamiltonwalkersonlineordering",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hamilton-walker-s"
+  },
+  {
+    "name": "Richard Walker's Pancake House",
+    "slug": "richardwalkerspancakehouse",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/locations/19651610-b3a2-4701-bf59-72a672a58bf3"
+  },
+  {
+    "name": "Sticks and Stones - 2200 Walker Ave, Greensboro, NC",
+    "slug": "sticksandstones-2200walkeravegreensboron",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sticks-and-stones-2200-walker-ave"
+  },
+  {
+    "name": "Burger Punk #1 3012 N Walker Ave",
+    "slug": "burgerpunk13012nwalkerave",
+    "category": "burgers",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/burger-punk-3012-north-walker-avenue"
+  },
+  {
+    "name": "Seapoint Restaurant",
+    "slug": "seapointrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/seapoint-restaurant-367-e-8th-st-south-boston-ma"
+  },
+  {
+    "name": "Richard Walker's Pancake House Carlsbad",
+    "slug": "richardwalkerspancakehousecarlsbad",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/richard-walker-s-pancake-house-carlsbad-2656-gateway-rd"
+  },
+  {
+    "name": "Commercial Point Cafe Fort Lauderdale",
+    "slug": "commercialpointcafefortlauderdale",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/commercial-point"
+  },
+  {
+    "name": "Victory Point",
+    "slug": "victorypoint",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/victory-point"
+  },
+  {
+    "name": "The Hunger's Point",
+    "slug": "thehungerspoint",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thehungerspoint"
   }
 ]

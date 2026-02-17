@@ -990,5 +990,419 @@
       "nola"
     ],
     "toastUrl": "https://order.toasttab.com/online/the-original-pizza-presto-9450-whittier-blvd"
+  },
+  {
+    "name": "French Quarter Bistro 51 N FM 548 Suite 209",
+    "slug": "frenchquarterbistro51nfm548suite209",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fqbistro"
+  },
+  {
+    "name": "Bones' French Quarter Bar and Grill 14766 Manchester Rd",
+    "slug": "bonesfrenchquarterbarandgrill14766manche",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fqstl"
+  },
+  {
+    "name": "French Pub",
+    "slug": "frenchpub",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/french-pub"
+  },
+  {
+    "name": "Cups in the Quarter Quarter",
+    "slug": "cupsinthequarterquarter",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cups-in-quarter"
+  },
+  {
+    "name": "Lea French Cafe Loop Lake Street",
+    "slug": "leafrenchcafelooplakestreet",
+    "category": "cafe",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lea-french-street-food-2-70-east-lake-street"
+  },
+  {
+    "name": "French Market Express 5109 University Pkwy",
+    "slug": "frenchmarketexpress5109universitypkwy",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/french-market-express"
+  },
+  {
+    "name": "order-page-wrapper.order-online",
+    "slug": "order-page-wrapperorder-online",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/quincyhall"
+  },
+  {
+    "name": "Sol Food San Rafael",
+    "slug": "solfoodsanrafael",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/solfoodsanrafael"
+  },
+  {
+    "name": "Blondie's Food and Spirits",
+    "slug": "blondiesfoodandspirits",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/blondies-food-spirits"
+  },
+  {
+    "name": "The Bywater",
+    "slug": "thebywater",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-bywater"
+  },
+  {
+    "name": "Brightwaters Restaurant and Wine Bar 180 5th St",
+    "slug": "brightwatersrestaurantandwinebar1805thst",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/brightwaters-restaurant-and-wine-bar-180-5th-st"
+  },
+  {
+    "name": "Dirty Water Restaurant & Bar Market Steet",
+    "slug": "dirtywaterrestaurantbarmarketsteet",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dirty-water-restaurant-bar"
+  },
+  {
+    "name": "Waterhouse Restaurant & Baker's Station: Order Online",
+    "slug": "waterhouserestaurantbakersstationorderon",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/waterhouse-bar-restaurant"
+  },
+  {
+    "name": "Water's Edge Restaurant & Bar",
+    "slug": "watersedgerestaurantbar",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/watersedgemaine"
+  },
+  {
+    "name": "Restaurant 45",
+    "slug": "restaurant45",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/restaurant-45"
+  },
+  {
+    "name": "Clearwater Restaurant",
+    "slug": "clearwaterrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/clearwaterrestaurant"
+  },
+  {
+    "name": "SALT Waterfront Restaurant RSMAS",
+    "slug": "saltwaterfrontrestaurantrsmas",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/salt-waterfront-restaurant"
+  },
+  {
+    "name": "The Rum House Caribbean Taqueria 3128 Magazine Street",
+    "slug": "therumhousecaribbeantaqueria3128magazine",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-rum-house-caribbean-taqueria-3128-magazine-street"
+  },
+  {
+    "name": "Basin Seafood and Spirits 3222 Magazine Street",
+    "slug": "basinseafoodandspirits3222magazinestreet",
+    "category": "seafood",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/basin-seafood-and-spirits-3222-magazine-street"
+  },
+  {
+    "name": "Dat Dog Magazine Street Location and Ordering Hours",
+    "slug": "datdogmagazinestreetlocationandorderingh",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dat-dog-magazine"
+  },
+  {
+    "name": "Urban Hotdog Company - Food Truck",
+    "slug": "urbanhotdogcompany-foodtruck",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/urban-hotdog-company-food-truck"
+  },
+  {
+    "name": "Market Street Pizza",
+    "slug": "marketstreetpizza",
+    "category": "pizza",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/marketstreetpizzatx"
+  },
+  {
+    "name": "Wet City 223 W. Chase Street",
+    "slug": "wetcity223wchasestreet",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wet-city-223-w-chase-street"
+  },
+  {
+    "name": "Zocalo Street Food & Tequila",
+    "slug": "zocalostreetfoodtequila",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/zocalo-street-food-tequila-1474-barclay-pointe-blvd"
+  },
+  {
+    "name": "Today Food - 601 Kearny Street, San Francisco",
+    "slug": "todayfood-601kearnystreetsanfrancisco",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/todayfoodsf"
+  },
+  {
+    "name": "UNTRUCK'd Street Food Kitchen",
+    "slug": "untruckdstreetfoodkitchen",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/untruckd"
+  },
+  {
+    "name": "ASEAN Streat Food Hall",
+    "slug": "aseanstreatfoodhall",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/aseanstreat"
+  },
+  {
+    "name": "Hoboken Trós Greek Street Food",
+    "slug": "hobokentrsgreekstreetfood",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/www.trosgrk.com"
+  },
+  {
+    "name": "Union Sandwich Co. 101 North Union Street",
+    "slug": "unionsandwichco101northunionstreet",
+    "category": "deli",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/unionsandwichco-101-north-union-street"
+  },
+  {
+    "name": "Lashuk Street Food",
+    "slug": "lashukstreetfood",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lashuk-revival"
+  },
+  {
+    "name": "Tuk Tuk Thai Isan Street Food",
+    "slug": "tuktukthaiisanstreetfood",
+    "category": "thai",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tuk-tuk-thai-isan-street-food"
+  },
+  {
+    "name": "JJ Thai Street Food 1715 W CHICAGO AVE",
+    "slug": "jjthaistreetfood1715wchicagoave",
+    "category": "thai",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/jjthaistreetfood"
+  },
+  {
+    "name": "Fresco Veloce Morgan Street Food Hall",
+    "slug": "frescovelocemorganstreetfoodhall",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/frescovelocemsfh"
+  },
+  {
+    "name": "Uptown Kitchen + Taphouse",
+    "slug": "uptownkitchentaphouse",
+    "category": "vietnamese",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/nwauptown"
+  },
+  {
+    "name": "Angie's Soul Cafe Uptown",
+    "slug": "angiessoulcafeuptown",
+    "category": "cafe",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/angies-soul-cafe-uptown"
+  },
+  {
+    "name": "Uptown Tap & Eatery",
+    "slug": "uptowntapeatery",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uptown-tap-eatery"
+  },
+  {
+    "name": "Famous Toastery FT Uptown",
+    "slug": "famoustoasteryftuptown",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/famous-toastery-uptown"
+  },
+  {
+    "name": "Walter's303",
+    "slug": "walters303",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/walters-303-uptown"
+  },
+  {
+    "name": "Uptown Ansonia CT",
+    "slug": "uptownansoniact",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uptownansonia"
+  },
+  {
+    "name": "Uptown Pizza 323 West Lake Street",
+    "slug": "uptownpizza323westlakestreet",
+    "category": "pizza",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uptown-pizza-323-west-lake-street"
+  },
+  {
+    "name": "Gabrielle Restaurant",
+    "slug": "gabriellerestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gabrielle-restaurant"
+  },
+  {
+    "name": "Uptown Pizza Shops",
+    "slug": "uptownpizzashops",
+    "category": "pizza",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/locations/eadc9783-6062-40dc-91c2-afb1f574f19f/"
+  },
+  {
+    "name": "Sweet P's Uptown Corner Fountain City",
+    "slug": "sweetpsuptowncornerfountaincity",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sweet-p-uptown-corner"
+  },
+  {
+    "name": "Uptown Barrel Room 2011 Main Street",
+    "slug": "uptownbarrelroom2011mainstreet",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uptown-barrel-room-2011-main-street"
+  },
+  {
+    "name": "The Uptown Cafe",
+    "slug": "theuptowncafe",
+    "category": "cafe",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uptown-cafe-warrenton"
+  },
+  {
+    "name": "rt's restaurant",
+    "slug": "rtsrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rtrestaurant"
   }
 ]

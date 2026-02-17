@@ -872,5 +872,293 @@
       "detroit"
     ],
     "toastUrl": "https://order.toasttab.com/online/pikiscafe"
+  },
+  {
+    "name": "Corktown Eatery & Bar 102 South 27th Ave West",
+    "slug": "corktowneaterybar102south27thavewest",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/corktown-deli-and-brews-102-south-27th-ave-west"
+  },
+  {
+    "name": "The YARD at Corktown 1375 Michigan Avenue",
+    "slug": "theyardatcorktown1375michiganavenue",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-yard-at-corktown"
+  },
+  {
+    "name": "Corktown Pizza Co Petoskey",
+    "slug": "corktownpizzacopetoskey",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/corktown-petoskey"
+  },
+  {
+    "name": "Summertown Fresh Bar Summertown Fresh Bar Corktown",
+    "slug": "summertownfreshbarsummertownfreshbarcork",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/summertown-fresh-bar"
+  },
+  {
+    "name": "Street Beet Corktown Location and Ordering Hours",
+    "slug": "streetbeetcorktownlocationandorderinghou",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/streetbeetdetroit"
+  },
+  {
+    "name": "Slows BarBQ Corktown 2138 MICHIGAN AVE",
+    "slug": "slowsbarbqcorktown2138michiganave",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/slows-bar-bq"
+  },
+  {
+    "name": "Midtown Eats and Sandbar 736 J Clyde Morris Blvd",
+    "slug": "midtowneatsandsandbar736jclydemorrisblvd",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/midtown-eats-and-sandbar-736-j-clyde-morris-blvd"
+  },
+  {
+    "name": "Midtown Tavern 1855 Central Ave",
+    "slug": "midtowntavern1855centralave",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/midtown-tavern-1855-central-ave"
+  },
+  {
+    "name": "1618 Midtown 1724 Battleground Ave STE 105.",
+    "slug": "1618midtown1724battlegroundaveste105",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/1618-midtown"
+  },
+  {
+    "name": "Midtown Cafe & Dessertery",
+    "slug": "midtowncafedessertery",
+    "category": "cafe",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/midtown-cafe-dessertery-151-s-stratford-rd"
+  },
+  {
+    "name": "Midtown Social",
+    "slug": "midtownsocial",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/midtownsocial"
+  },
+  {
+    "name": "Midtown Deli & Grill, INC.",
+    "slug": "midtowndeligrillinc",
+    "category": "deli",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/midtown-deli-and-grill"
+  },
+  {
+    "name": "Midtown Grill",
+    "slug": "midtowngrill",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/midtown-grill-8913-w-north-ave"
+  },
+  {
+    "name": "Midtown's Cantina Alley",
+    "slug": "midtownscantinaalley",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/midtowns-cantina-alley"
+  },
+  {
+    "name": "Masa Midtown Corner of Broadway and Downs St in ...",
+    "slug": "masamidtowncornerofbroadwayanddownsstin",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/masa-midtown"
+  },
+  {
+    "name": "Fresh to Order Midtown",
+    "slug": "freshtoordermidtown",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/f2o-midtown"
+  },
+  {
+    "name": "Midtown -Crave Fishbar & Crave Sushi Bar",
+    "slug": "midtown-cravefishbarcravesushibar",
+    "category": "japanese",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/crave-fishbar-midtown-945-2nd-avenue"
+  },
+  {
+    "name": "Midtown Vegan Deli and Market 5071 E 5th St",
+    "slug": "midtownvegandeliandmarket5071e5thst",
+    "category": "deli",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/midtownvegandeli"
+  },
+  {
+    "name": "26 Thai Kitchen & Bar Midtown",
+    "slug": "26thaikitchenbarmidtown",
+    "category": "thai",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/26thaimidtown"
+  },
+  {
+    "name": "Midtown Oyster Bar",
+    "slug": "midtownoysterbar",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/midtown-oyster-bar"
+  },
+  {
+    "name": "Ming's at Midtown",
+    "slug": "mingsatmidtown",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mings-midtown"
+  },
+  {
+    "name": "Rowdy Rooster Midtown",
+    "slug": "rowdyroostermidtown",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rowdy-rooster-midtown-138-142-w-32nd-st"
+  },
+  {
+    "name": "Como's Restaurant - Ferndale",
+    "slug": "comosrestaurant-ferndale",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/comos-restaurant-22812-woodward-ave"
+  },
+  {
+    "name": "Howe's Bayou - 22848 Woodward Ave, Ferndale, MI",
+    "slug": "howesbayou-22848woodwardaveferndalemi",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/howes-bayou-22848-woodward-ave"
+  },
+  {
+    "name": "New York Bagel Ferndale",
+    "slug": "newyorkbagelferndale",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/new-york-bagel-ferndale"
+  },
+  {
+    "name": "Tigerlily - Ferndale",
+    "slug": "tigerlily-ferndale",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tigerlily-ferndale"
+  },
+  {
+    "name": "Barrel House Ferndale",
+    "slug": "barrelhouseferndale",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/barrel-house-22740-woodward-avenue"
+  },
+  {
+    "name": "Sakana Sushi Lounge - Order Online",
+    "slug": "sakanasushilounge-orderonline",
+    "category": "japanese",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sakanasushilounge"
+  },
+  {
+    "name": "order-page-wrapper.order-online",
+    "slug": "order-page-wrapperorder-online",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/oneeyedbettys"
+  },
+  {
+    "name": "Jim Bradys - Royal Oak 1214 S Main St",
+    "slug": "jimbradys-royaloak1214smainst",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/jim-bradys-royal-oak-1214-s-main-st"
+  },
+  {
+    "name": "zPieology Royal Oak - Closed",
+    "slug": "zpieologyroyaloak-closed",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pieology-royal-oak"
+  },
+  {
+    "name": "Red Oak Restaurant - Sanford, MI",
+    "slug": "redoakrestaurant-sanfordmi",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/red-oak-sanford"
   }
 ]

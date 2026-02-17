@@ -3135,5 +3135,455 @@
       "nyc"
     ],
     "toastUrl": "https://order.toasttab.com/online/pondfield-cafe"
+  },
+  {
+    "name": "Sushi of Gari Restaurant (3 locations in Manhattan)",
+    "slug": "sushiofgarirestaurant3locationsinmanhatt",
+    "category": "japanese",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/locations/2fc18258-effc-49c2-85e4-37cba56c4db7/default"
+  },
+  {
+    "name": "Manhattan Cafe Downtown Raleigh Location",
+    "slug": "manhattancafedowntownraleighlocation",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/manhattan-cafe-302-s-wilmington-st"
+  },
+  {
+    "name": "The Manhattan Southington 16 Eden Avenue",
+    "slug": "themanhattansouthington16edenavenue",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-manhattan-southington"
+  },
+  {
+    "name": "Manhattan Deli Bar & Grille",
+    "slug": "manhattandelibargrille",
+    "category": "deli",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/manhattan-deli-bar-grille"
+  },
+  {
+    "name": "fiVe: a new american restaurant 405 Poyntz Ave.",
+    "slug": "fiveanewamericanrestaurant405poyntzave",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/five"
+  },
+  {
+    "name": "Thai Dishes - Manhattan Beach 1015 N. Sepulveda Blvd.",
+    "slug": "thaidishes-manhattanbeach1015nsepulvedab",
+    "category": "thai",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thai-dishes-1015-n-sepulveda-blvd"
+  },
+  {
+    "name": "Yume Manhattan Beach",
+    "slug": "yumemanhattanbeach",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fusion-sushi-new-manhattan-beach"
+  },
+  {
+    "name": "Manhattan MarketPlace",
+    "slug": "manhattanmarketplace",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/manhattan-marketplace"
+  },
+  {
+    "name": "The Butchery Manhattan Beach",
+    "slug": "thebutcherymanhattanbeach",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-butchery-manhattan-beach"
+  },
+  {
+    "name": "Sakura 6 837 Manhattan Ave",
+    "slug": "sakura6837manhattanave",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sakura-6-837-manhattan-ave"
+  },
+  {
+    "name": "Manhattan - Order Online",
+    "slug": "manhattan-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bagel-point-manhattan-787-lexington-avenue"
+  },
+  {
+    "name": "Sohos Italian Restaurant Capitol Market",
+    "slug": "sohositalianrestaurantcapitolmarket",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sohos-italian-restaurant-800-smith-st"
+  },
+  {
+    "name": "Soho Social",
+    "slug": "sohosocial",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/soho-social"
+  },
+  {
+    "name": "12 Chairs - SoHo",
+    "slug": "12chairs-soho",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/12-chairs-soho-56-macdougal-56-macdougal-street"
+  },
+  {
+    "name": "nyc soho resto nyc soho resto",
+    "slug": "nycsohorestonycsohoresto",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/laduree-soho-396-w-broadway"
+  },
+  {
+    "name": "La Esquina - SoHo",
+    "slug": "laesquina-soho",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/la-esquina-soho"
+  },
+  {
+    "name": "Le Bab Soho",
+    "slug": "lebabsoho",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/le-bab-soho"
+  },
+  {
+    "name": "order-page-wrapper.order-online",
+    "slug": "order-page-wrapperorder-online",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/shibuya-llc-2600-glades-circle-ste-700"
+  },
+  {
+    "name": "So Thai Restaurant",
+    "slug": "sothairestaurant",
+    "category": "thai",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/so-thai-restaurant"
+  },
+  {
+    "name": "East Village Asian Diner 628 S Coast Hwy 101",
+    "slug": "eastvillageasiandiner628scoasthwy101",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/east-village-asian-diner-628-s-coast-hwy-101"
+  },
+  {
+    "name": "Monzu Fresh Pasta East Village",
+    "slug": "monzufreshpastaeastvillage",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/monzu-fresh-pasta"
+  },
+  {
+    "name": "Spicy Moon Vegetarian Szechuan East Village",
+    "slug": "spicymoonvegetarianszechuaneastvillage",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/spicymooneast"
+  },
+  {
+    "name": "Brodo East Village",
+    "slug": "brodoeastvillage",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/brodo-east-village"
+  },
+  {
+    "name": "East Village Ruby's",
+    "slug": "eastvillagerubys",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rubyseastvillage"
+  },
+  {
+    "name": "Two Boots Pizza East Village",
+    "slug": "twobootspizzaeastvillage",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/two-boots-east-village-east-village"
+  },
+  {
+    "name": "Oiji - East Village East Village",
+    "slug": "oiji-eastvillageeastvillage",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/oiji-new-york"
+  },
+  {
+    "name": "Han Dynasty - East Village",
+    "slug": "handynasty-eastvillage",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/han-dynasty-east-village"
+  },
+  {
+    "name": "Westville Upper West Side",
+    "slug": "westvilleupperwestside",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/westville-upper-west-side-2290-broadway"
+  },
+  {
+    "name": "Two Boots Pizza Upper West Side",
+    "slug": "twobootspizzaupperwestside",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/two-boots-uws-70-w-71st-st"
+  },
+  {
+    "name": "Pio Pio 06 - Upper West Side 702 Amsterdam Ave",
+    "slug": "piopio06-upperwestside702amsterdamave",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pio-pio-6-upper-west-side-702-amsterdam-ave"
+  },
+  {
+    "name": "Bondi Sushi Upper West Side: 2052 Broadway",
+    "slug": "bondisushiupperwestside2052broadway",
+    "category": "japanese",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bondi-upper-west-side"
+  },
+  {
+    "name": "Billy's Bakery Upper West Side",
+    "slug": "billysbakeryupperwestside",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/billys-bakery-uws"
+  },
+  {
+    "name": "Bustan NYC (Upper West Side)",
+    "slug": "bustannycupperwestside",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bustan-nyc-487-amsterdam-ave"
+  },
+  {
+    "name": "Han Dynasty - Upper West Side",
+    "slug": "handynasty-upperwestside",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/han-dynasty-upper-west-side"
+  },
+  {
+    "name": "Holy Schnitzel Upper West Side",
+    "slug": "holyschnitzelupperwestside",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/holy-schnitzel-uws"
+  },
+  {
+    "name": "Irving Farm New York Upper West Side",
+    "slug": "irvingfarmnewyorkupperwestside",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/irving-farm-new-york-upper-west-side"
+  },
+  {
+    "name": "Upper West Side (2022) 464 Amsterdam Avenue",
+    "slug": "upperwestside2022464amsterdamavenue",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/song-e-napule-upper-west-side-2022-464-amsterdam-avenue"
+  },
+  {
+    "name": "The Grand Astoria",
+    "slug": "thegrandastoria",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-grand-cafe-astoria-37-01-30th-ave"
+  },
+  {
+    "name": "Ruta Oaxaca Mexican Cuisine Astoria",
+    "slug": "rutaoaxacamexicancuisineastoria",
+    "category": "mexican",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ruta-oaxaca-mexican-cuisine-35-03-broadway"
+  },
+  {
+    "name": "ASTORIA CAFE & BAKERY 1107 Maple Ave",
+    "slug": "astoriacafebakery1107mapleave",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/astoria-cafe-bakery-1107-maple-ave"
+  },
+  {
+    "name": "Hunchos Halal Spot Astoria, 34th Ave",
+    "slug": "hunchoshalalspotastoria34thave",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hunchoshalalspot-astoria-34th-ave"
+  },
+  {
+    "name": "La Tiendita Taqueria Astoria NY",
+    "slug": "latienditataqueriaastoriany",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/la-tiendita-astoria-3706-30th-ave"
+  },
+  {
+    "name": "S.E.A. Crab House - Astoria Astoria",
+    "slug": "seacrabhouse-astoriaastoria",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-sea-astoria"
+  },
+  {
+    "name": "Barzola - Astoria 33-01 Broadway",
+    "slug": "barzola-astoria33-01broadway",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/barzola-astoria-33-01-broadway"
+  },
+  {
+    "name": "King of Falafel & Shawarma 3015 Broadway Astoria NY ...",
+    "slug": "kingoffalafelshawarma3015broadwayastoria",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/king-of-falafel-brick-mortar-3015-broadway-astoria-ny-11106"
+  },
+  {
+    "name": "Hot Peppers - Astoria 28-21 Steinway St",
+    "slug": "hotpeppers-astoria28-21steinwayst",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hot-peppers-astoria-28-21-steinway-st"
+  },
+  {
+    "name": "Havana Blvd 91-01 Astoria Boulevard",
+    "slug": "havanablvd91-01astoriaboulevard",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/havana-blvd-91-01-astoria-boulevard"
+  },
+  {
+    "name": "collective hospitality blend astoria",
+    "slug": "collectivehospitalityblendastoria",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/blend-astoria"
+  },
+  {
+    "name": "Breakside Brewery Astoria",
+    "slug": "breaksidebreweryastoria",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/breakside-brewery-astoria"
+  },
+  {
+    "name": "Mesa Azteca Restaurant Bushwick, Brooklyn",
+    "slug": "mesaaztecarestaurantbushwickbrooklyn",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mesaaztecanyc"
   }
 ]

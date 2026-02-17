@@ -886,5 +886,437 @@
       "sandiego"
     ],
     "toastUrl": "https://order.toasttab.com/online/prince-street-pizza-pacific-beach-4505-mission-blvd"
+  },
+  {
+    "name": "3038 University Ave. Mastiff Kitchen (North Park)",
+    "slug": "3038universityavemastiffkitchennorthpark",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mastiff-kitchen-north-park"
+  },
+  {
+    "name": "URBN Coal Fired Pizza & Bar North Park",
+    "slug": "urbncoalfiredpizzabarnorthpark",
+    "category": "pizza",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/urbn-north-park-3085-university-ave"
+  },
+  {
+    "name": "Underbelly North Park",
+    "slug": "underbellynorthpark",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ubnp"
+  },
+  {
+    "name": "Craft House Burgers North Park",
+    "slug": "crafthouseburgersnorthpark",
+    "category": "burgers",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/craft-house-north-park-monster-crafts-food-truck-4101-30th-st-suite-c"
+  },
+  {
+    "name": "Soi 30th- North Park Thai Eatery 3442 30th Street",
+    "slug": "soi30th-northparkthaieatery344230thstree",
+    "category": "thai",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/soi-30th-north-park-3442-30th-street"
+  },
+  {
+    "name": "The Taco Stand North Park",
+    "slug": "thetacostandnorthpark",
+    "category": "mexican",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/taco-stand-north-park-3000-upas-st-suite-105"
+  },
+  {
+    "name": "City Tacos North Park",
+    "slug": "citytacosnorthpark",
+    "category": "mexican",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/city-tacos-north-park-3028-university-ave"
+  },
+  {
+    "name": "North Park Beer Co - Bankers Hill",
+    "slug": "northparkbeerco-bankershill",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/northparkbeerco-bankershill"
+  },
+  {
+    "name": "Hillcrest Restaurant & Taphouse 2709 Hillcrest Ave.",
+    "slug": "hillcrestrestauranttaphouse2709hillcrest",
+    "category": "vietnamese",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hillcrest-restaurant-taphouse-2709-hillcrest-ave"
+  },
+  {
+    "name": "Tavola Nostra Pizzeria E Cucina Hillcrest, CA",
+    "slug": "tavolanostrapizzeriaecucinahillcrestca",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tavola-nostra-pizzeria-e-cucina"
+  },
+  {
+    "name": "La Fuente Hillcrest",
+    "slug": "lafuentehillcrest",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/la-fuente-hillcrest-1227-university-ave"
+  },
+  {
+    "name": "Heroes Sports Bar and Grille - West Mobile 36 Hillcrest Road",
+    "slug": "heroessportsbarandgrille-westmobile36hil",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/heros-sports-bar-and-grille-wemo-36-hillcrest-road"
+  },
+  {
+    "name": "Starwood Cafe @ Hillcrest Village Dallas ...",
+    "slug": "starwoodcafehillcrestvillagedallas",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/starwood-cafe-hillcrest-village"
+  },
+  {
+    "name": "Hillcrest Tavern 3212 Frankfort Ave",
+    "slug": "hillcresttavern3212frankfortave",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hillcrest-tavern-3212-frankfort-ave"
+  },
+  {
+    "name": "Baja Betty's Hillcrest, San Diego",
+    "slug": "bajabettyshillcrestsandiego",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/baja-betty-s"
+  },
+  {
+    "name": "Hillcrest Swim Club 7500 Queen Anne Drive",
+    "slug": "hillcrestswimclub7500queenannedrive",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hillcrest"
+  },
+  {
+    "name": "Hillcrest Brewing Company",
+    "slug": "hillcrestbrewingcompany",
+    "category": "wings",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hillcrest-brewing-company"
+  },
+  {
+    "name": "Gaslamp Tavern 868 5th Ave",
+    "slug": "gaslamptavern8685thave",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gaslamp-tavern-868-5th-ave"
+  },
+  {
+    "name": "Breakfast Company Gaslamp Breakfast Co",
+    "slug": "breakfastcompanygaslampbreakfastco",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gaslamp-breakfast-company-breakfast-company-llc"
+  },
+  {
+    "name": "Cerveza Jack's Gaslamp 322 Fifth Ave",
+    "slug": "cervezajacksgaslamp322fifthave",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cerveza-jacks-gaslamp"
+  },
+  {
+    "name": "The Blind Burro East Village / Gaslamp",
+    "slug": "theblindburroeastvillagegaslamp",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/blind-burro"
+  },
+  {
+    "name": "Blondie's Food and Spirits",
+    "slug": "blondiesfoodandspirits",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/blondies-food-spirits"
+  },
+  {
+    "name": "Urban Hotdog Company - Food Truck",
+    "slug": "urbanhotdogcompany-foodtruck",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/urban-hotdog-company-food-truck"
+  },
+  {
+    "name": "Piatti Restaurant La Jolla",
+    "slug": "piattirestaurantlajolla",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/piatti-la-jolla"
+  },
+  {
+    "name": "La Jolla Groves",
+    "slug": "lajollagroves",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/jollagroves"
+  },
+  {
+    "name": "The Taco Stand La Jolla",
+    "slug": "thetacostandlajolla",
+    "category": "mexican",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/taco-stand-la-jolla-621-pearl-st"
+  },
+  {
+    "name": "Takaramono 7513 La Jolla Blvd.",
+    "slug": "takaramono7513lajollablvd",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/takaramono-7513-la-jolla-blvd"
+  },
+  {
+    "name": "Public House La Jolla",
+    "slug": "publichouselajolla",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/public-house-la-jolla-la-jolla"
+  },
+  {
+    "name": "Lucrezia - San Diego 4301 La Jolla Village Dr suite 1050",
+    "slug": "lucrezia-sandiego4301lajollavillagedrsui",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lucrezia-san-diego-4301-la-jolla-village-dr-suite-1050"
+  },
+  {
+    "name": "zDuke's La Jolla",
+    "slug": "zdukeslajolla",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/duke-s-la-jolla"
+  },
+  {
+    "name": "Brockton Villa Restaurant La Jolla Cove",
+    "slug": "brocktonvillarestaurantlajollacove",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/brockton-villa-restaurant-1235-coast-blvd"
+  },
+  {
+    "name": "La Jolla 8147 Vaughn Rd",
+    "slug": "lajolla8147vaughnrd",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/la-jolla-8147-vaughn-rd"
+  },
+  {
+    "name": "Java Earth Coffee La Jolla",
+    "slug": "javaearthcoffeelajolla",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/java-earth-cafe-la-jolla-1030-torrey-pines-rd-suite-d"
+  },
+  {
+    "name": "The Living Room La Jolla La Jolla",
+    "slug": "thelivingroomlajollalajolla",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-living-room-la-jolla-1010-prospect-st"
+  },
+  {
+    "name": "Earlybird Breakfast Burritos Pacific Beach",
+    "slug": "earlybirdbreakfastburritospacificbeach",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mission-garnet-pacific-beach-800-garnet-ave/6c7c5fc6-f9f1-477c-b6c2-bc0fe1482896"
+  },
+  {
+    "name": "Mission + Garnet Food Hall",
+    "slug": "missiongarnetfoodhall",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mission-garnet-pacific-beach-800-garnet-ave"
+  },
+  {
+    "name": "Ambrogio15 Pacific Beach",
+    "slug": "ambrogio15pacificbeach",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ambrogio15-pacific-beach"
+  },
+  {
+    "name": "Dirty Birds Pacific Beach 4656 Mission Blvd",
+    "slug": "dirtybirdspacificbeach4656missionblvd",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dirty-birds-pacific-beach"
+  },
+  {
+    "name": "The Local Pacific Beach",
+    "slug": "thelocalpacificbeach",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thelocalpb"
+  },
+  {
+    "name": "City Tacos Pacific Beach",
+    "slug": "citytacospacificbeach",
+    "category": "mexican",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/city-tacos-pacific-beach-4516-mission-blvd-suite-e"
+  },
+  {
+    "name": "Amplified Kitchen + Beer Garden Pacific Beach",
+    "slug": "amplifiedkitchenbeergardenpacificbeach",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/amplified-pb"
+  },
+  {
+    "name": "Tacos El Goloso-Hermosa Beach 500 Pacific Coast Hwy.",
+    "slug": "tacoselgoloso-hermosabeach500pacificcoas",
+    "category": "mexican",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tacos-el-goloso-hermosa-beach-pch-500-pacific-coast-hwy"
+  },
+  {
+    "name": "Irv's Burgers - Pacific Beach 4505 Mission Blvd.",
+    "slug": "irvsburgers-pacificbeach4505missionblvd",
+    "category": "burgers",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/irvs-burgers-pacific-beach-4505-mission-blvd"
+  },
+  {
+    "name": "Italian Homemade - Long Beach 6460 Pacific Coast Hwy # ...",
+    "slug": "italianhomemade-longbeach6460pacificcoas",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/italian-homemade-long-beach-6460-e-pacific-coast-hwy-130"
+  },
+  {
+    "name": "Spill the Beans Pacific Beach 980 GARNET AVENUE",
+    "slug": "spillthebeanspacificbeach980garnetavenue",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/spill-the-beans-pacific-beach-980-garnet-avenue"
+  },
+  {
+    "name": "Pop Pie Co. & Stella Jean's Ice Cream Pacific Beach",
+    "slug": "poppiecostellajeansicecreampacificbeach",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pop-pie-co-pacific-beach-829-garnet-avenue"
+  },
+  {
+    "name": "Pacific Beach Fish Shop 1775 Garnet Ave",
+    "slug": "pacificbeachfishshop1775garnetave",
+    "category": "seafood",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pacificbeachfish1775garnet"
+  },
+  {
+    "name": "Fred's Mexican Cafe Huntington Beach 300 Pacific Coast ...",
+    "slug": "fredsmexicancafehuntingtonbeach300pacifi",
+    "category": "mexican",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/freds-mexican-cafe-huntington-beach-300-pacific-coast-hwy-201"
   }
 ]

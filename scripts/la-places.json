@@ -1930,5 +1930,356 @@
       "la"
     ],
     "websiteOrderUrl": "http://ordering.chownow.com/order/36733/locations/"
+  },
+  {
+    "name": "Carousel Restaurant Hollywood Hollywood",
+    "slug": "carouselrestauranthollywoodhollywood",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/carousel-restaurant-hollywood"
+  },
+  {
+    "name": "NeueHouse HollyWood 6121 Sunset Blvd",
+    "slug": "neuehousehollywood6121sunsetblvd",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/neuehouse-hollywood-6121-sunset-blvd"
+  },
+  {
+    "name": "Hollywood Tavern",
+    "slug": "hollywoodtavern",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hollywood-tavern-14501-woodinville-redmond-rd"
+  },
+  {
+    "name": "Hollywood Family Cafe & Catering",
+    "slug": "hollywoodfamilycafecatering",
+    "category": "cafe",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hollywood-family-cafe-catering"
+  },
+  {
+    "name": "CAO Bakery and Cafe #10 Hollywood",
+    "slug": "caobakeryandcafe10hollywood",
+    "category": "cafe",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cao-bakery-hollywood"
+  },
+  {
+    "name": "Hollywood Beach Cafe 117 Los Altos St",
+    "slug": "hollywoodbeachcafe117losaltosst",
+    "category": "cafe",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hollywood-beach-cafe"
+  },
+  {
+    "name": "ZWG 12/10/2024 ZWG0175 - West Hollywood (Sunset Blvd)",
+    "slug": "zwg12102024zwg0175-westhollywoodsunsetbl",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/waba-grill-west-hollywood-sunset-blvd-new"
+  },
+  {
+    "name": "HomeState Hollywood - Breakfast Tacos",
+    "slug": "homestatehollywood-breakfasttacos",
+    "category": "mexican",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/homestatehollywood"
+  },
+  {
+    "name": "GoBistro Hollywood 2035 HOLLYWOOD",
+    "slug": "gobistrohollywood2035hollywood",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gobistro-hollywood-2035-hollywood-ykugs"
+  },
+  {
+    "name": "Hollywood - Order Online",
+    "slug": "hollywood-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/shin-ramen-hollywood"
+  },
+  {
+    "name": "Sutadonya - Santa Monica 3760 S Centinela Ave",
+    "slug": "sutadonya-santamonica3760scentinelaave",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sutadonya-santa-monica-3525-w-carson-st-unti-164-i"
+  },
+  {
+    "name": "Sweet Maple I Santa Monica",
+    "slug": "sweetmapleisantamonica",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sweet-maple-santa-monica"
+  },
+  {
+    "name": "Edgemar Restaurant and Lounge 2435 Main Street Santa ...",
+    "slug": "edgemarrestaurantandlounge2435mainstreet",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/edgemar"
+  },
+  {
+    "name": "santa monica - tartine",
+    "slug": "santamonica-tartine",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tartine-santa-monica"
+  },
+  {
+    "name": "Bludso's BBQ 1329 Santa Monica Blvd",
+    "slug": "bludsosbbq1329santamonicablvd",
+    "category": "bbq",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bludsos-bbq-santamonica"
+  },
+  {
+    "name": "MONICA CAFÉ 508 Santa Monica Blvd",
+    "slug": "monicacaf508santamonicablvd",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/monica-cafe"
+  },
+  {
+    "name": "Z Garden Santa Monica",
+    "slug": "zgardensantamonica",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/zgardensantamonica"
+  },
+  {
+    "name": "Santa Monica Pizza Kitchen 1318 Wilshire Blvd",
+    "slug": "santamonicapizzakitchen1318wilshireblvd",
+    "category": "pizza",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/santa-monica-pizza-kitchen-the-doughroom-santa-monica-1318-wilshire-blvd"
+  },
+  {
+    "name": "Katsu Bar Santa Monica",
+    "slug": "katsubarsantamonica",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/katsubar.santamonica"
+  },
+  {
+    "name": "Vito's Pizza 2455 Santa Monica Blvd",
+    "slug": "vitospizza2455santamonicablvd",
+    "category": "pizza",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/vitos-pizza-2455-santa-monica-blvd"
+  },
+  {
+    "name": "Juice Crafters Santa Monica",
+    "slug": "juicecrafterssantamonica",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juice-crafters-santa-monica"
+  },
+  {
+    "name": "Wally's Santa Monica",
+    "slug": "wallyssantamonica",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wallys-santa-monica"
+  },
+  {
+    "name": "Rock'n Pies Pizza Santa Monica",
+    "slug": "rocknpiespizzasantamonica",
+    "category": "pizza",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rock-n-pies-pizza-santa-monica"
+  },
+  {
+    "name": "El Cholo Santa Monica",
+    "slug": "elcholosantamonica",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/el-cholo-santa-monica"
+  },
+  {
+    "name": "Beach & Brew Venice",
+    "slug": "beachbrewvenice",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/beach-brew-mdr-4139-via-marina-apt-302"
+  },
+  {
+    "name": "Cerveteca Venice - Clutch Roadhouse",
+    "slug": "cervetecavenice-clutchroadhouse",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cerveteca-venice"
+  },
+  {
+    "name": "Castanea Sicilian Cafe Venice Beach",
+    "slug": "castaneasiciliancafevenicebeach",
+    "category": "cafe",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/castanea-sicilian-cafe-inc-1307-ocean-front-walk"
+  },
+  {
+    "name": "Food + Beer - Venice",
+    "slug": "foodbeer-venice",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/food-plus-beer-venice-301-tamiami-trail-s"
+  },
+  {
+    "name": "Prince Street Pizza - Venice 326 Lincoln Blvd",
+    "slug": "princestreetpizza-venice326lincolnblvd",
+    "category": "pizza",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/princestreetvenice"
+  },
+  {
+    "name": "Wurstküche Venice",
+    "slug": "wurstkchevenice",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wurstkuche-venice"
+  },
+  {
+    "name": "Great White Venice",
+    "slug": "greatwhitevenice",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/great-white"
+  },
+  {
+    "name": "Venice Restaurant 911 North Broadwalk",
+    "slug": "venicerestaurant911northbroadwalk",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/venice-restaurant-911-north-broadwalk"
+  },
+  {
+    "name": "Original Word of Mouth - Venice",
+    "slug": "originalwordofmouth-venice",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wordofmouthvenice"
+  },
+  {
+    "name": "Belles Beach House Belles - Venice",
+    "slug": "bellesbeachhousebelles-venice",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/belles"
+  },
+  {
+    "name": "NeueHouse - Venice 73 Market Street",
+    "slug": "neuehouse-venice73marketstreet",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/neuehouse-venice-73-market-street"
+  },
+  {
+    "name": "Peach's 9 Venice",
+    "slug": "peachs9venice",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/peachs-9-venice"
+  },
+  {
+    "name": "Clutch Roadhouse Venice",
+    "slug": "clutchroadhousevenice",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/clutch-roadhouse-venice"
+  },
+  {
+    "name": "American Beauty Venice",
+    "slug": "americanbeautyvenice",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/american-beauty-steakhouse-venice"
+  },
+  {
+    "name": "Charcoal Venice",
+    "slug": "charcoalvenice",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/charcoal-venice"
   }
 ]

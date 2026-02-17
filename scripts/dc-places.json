@@ -583,5 +583,590 @@
       "dc"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/3640/locations"
+  },
+  {
+    "name": "Just Love Coffee & Cafe Georgetown",
+    "slug": "justlovecoffeecafegeorgetown",
+    "category": "cafe",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/just-love-coffee-cafe-georgetown"
+  },
+  {
+    "name": "YELLOW Georgetown",
+    "slug": "yellowgeorgetown",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/yellowgeorgetown"
+  },
+  {
+    "name": "Catfish Parlour - Georgetown - Order Online",
+    "slug": "catfishparlour-georgetown-orderonline",
+    "category": "seafood",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/catfish-parlour-georgetown-4159-williams-dr"
+  },
+  {
+    "name": "Tres amigos - Georgetown KY",
+    "slug": "tresamigos-georgetownky",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tres-amigos-georgetown-ky-800-s-broadway-st"
+  },
+  {
+    "name": "George's King of Falafel & Cheesesteak Georgetown",
+    "slug": "georgeskingoffalafelcheesesteakgeorgetow",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/georges-georgetown"
+  },
+  {
+    "name": "Root Georgetown",
+    "slug": "rootgeorgetown",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rootgeorgetown"
+  },
+  {
+    "name": "Red State BBQ 4020 Georgetown Road",
+    "slug": "redstatebbq4020georgetownroad",
+    "category": "bbq",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/redstatebbq"
+  },
+  {
+    "name": "Georgetown Liquor Company",
+    "slug": "georgetownliquorcompany",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/georgetown-liquor-company"
+  },
+  {
+    "name": "MasFajitas Georgetown",
+    "slug": "masfajitasgeorgetown",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/masfajitas-georgetown"
+  },
+  {
+    "name": "Georgetown Pizza & Arcade 5513 Airport Way South",
+    "slug": "georgetownpizzaarcade5513airportwaysouth",
+    "category": "pizza",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/georgetown-pizza-arcade-5513-airport-way-south"
+  },
+  {
+    "name": "Country Boy Brewing- Georgetown 101 Innovation Way",
+    "slug": "countryboybrewing-georgetown101innovatio",
+    "category": "wings",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/countryboygeorgetown"
+  },
+  {
+    "name": "Buzz's Roost Georgetown",
+    "slug": "buzzsroostgeorgetown",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/buzzsroostgeorgetown"
+  },
+  {
+    "name": "The Georgetown Bakery",
+    "slug": "thegeorgetownbakery",
+    "category": "cafe",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-georgetown-bakery-georgetown"
+  },
+  {
+    "name": "Georgetown Tavern on the Hill",
+    "slug": "georgetowntavernonthehill",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/georgetowntavern"
+  },
+  {
+    "name": "Juliet Italian Kitchen Georgetown",
+    "slug": "julietitaliankitchengeorgetown",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/juliet-italian-kitchen-gtx"
+  },
+  {
+    "name": "Georgetown Bagelry",
+    "slug": "georgetownbagelry",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/georgetown-bagelry"
+  },
+  {
+    "name": "812 Pizza Company Georgetown",
+    "slug": "812pizzacompanygeorgetown",
+    "category": "pizza",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/812-pizza-company"
+  },
+  {
+    "name": "chīko dupont - dc",
+    "slug": "chkodupont-dc",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/chiko-dupont"
+  },
+  {
+    "name": "Boogy & Peel Dupont Circle",
+    "slug": "boogypeeldupontcircle",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/boogy-peel-1-dupont-circle-nw-suite-115b"
+  },
+  {
+    "name": "Alero - Dupont Circle 1629 CONNECTICUT AVE NW",
+    "slug": "alero-dupontcircle1629connecticutavenw",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/alero-dupont-circle-1629-connecticut-ave-nw"
+  },
+  {
+    "name": "Sura Dupont Circle, DC",
+    "slug": "suradupontcircledc",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sura"
+  },
+  {
+    "name": "Compliments Only Subs - DuPont Circle 2029 P St NW",
+    "slug": "complimentsonlysubs-dupontcircle2029pstn",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/compliments-only-subs-1630-14th-st-nw"
+  },
+  {
+    "name": "muncheez Dupont Circle",
+    "slug": "muncheezdupontcircle",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/muncheez-dupont-circle"
+  },
+  {
+    "name": "Pizzeria Paradiso Dupont Circle",
+    "slug": "pizzeriaparadisodupontcircle",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizzeria-paradiso-dupont-circle"
+  },
+  {
+    "name": "Tatte Bakery",
+    "slug": "tattebakery",
+    "category": "cafe",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tatte-bakery-dupont"
+  },
+  {
+    "name": "Duke's Grocery Dupont",
+    "slug": "dukesgrocerydupont",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dukes-grocery-dupont"
+  },
+  {
+    "name": "Bombay Street Food - Adams Morgan 1915 18th street NW",
+    "slug": "bombaystreetfood-adamsmorgan191518thstre",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bombay-street-food-adams-morgan-1915-18th-street-nw"
+  },
+  {
+    "name": "Tsehay Restaurant & Bar Adams Morgan",
+    "slug": "tsehayrestaurantbaradamsmorgan",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tsehaydc18th"
+  },
+  {
+    "name": "Pitango Gelato & Cafe Adams Morgan",
+    "slug": "pitangogelatocafeadamsmorgan",
+    "category": "cafe",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pitango-gelato-cafe-adams-morgan-1841-columbia-rd-nw"
+  },
+  {
+    "name": "Taqueria Al Lado - Adams Morgan",
+    "slug": "taqueriaallado-adamsmorgan",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/taqueria-al-lado-adams-morgan-1792-columbia-rd-nw"
+  },
+  {
+    "name": "Eve on Adams 101 S. Adams St.",
+    "slug": "eveonadams101sadamsst",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/eve-on-adams-101-s-adams-st"
+  },
+  {
+    "name": "Adams Ribs East 921 Chesapeake Avenue",
+    "slug": "adamsribseast921chesapeakeavenue",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/adams-ribs-eastportshoppingcenter-921-chesapeake-avenue"
+  },
+  {
+    "name": "Fresco Veloce Morgan Street Food Hall",
+    "slug": "frescovelocemorganstreetfoodhall",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/frescovelocemsfh"
+  },
+  {
+    "name": "ADAMS FAMILY PHARMACY 98 Peachtree St",
+    "slug": "adamsfamilypharmacy98peachtreest",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/adamsfamilypharmacy"
+  },
+  {
+    "name": "Kensington Cafe 4141 Adams Ave.",
+    "slug": "kensingtoncafe4141adamsave",
+    "category": "cafe",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/kensington-cafe-4141-adams-ave"
+  },
+  {
+    "name": "chīko capitol hill - dc",
+    "slug": "chkocapitolhill-dc",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/chiko-washington"
+  },
+  {
+    "name": "Junction Bistro, Bar & Bakery Capitol Hill 238 ...",
+    "slug": "junctionbistrobarbakerycapitolhill238",
+    "category": "cafe",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/junction-bakery-bistro-capitol-hill-238-massachusetts-ave-ne"
+  },
+  {
+    "name": "Compliments Only - Capitol Hill 526 8th Street Southeast",
+    "slug": "complimentsonly-capitolhill5268thstreets",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/compliments-only-capitol-hill-526-8th-street-southeast"
+  },
+  {
+    "name": "Hopvine Pub - Capitol Hill 507 15th Ave E",
+    "slug": "hopvinepub-capitolhill50715thavee",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hopvinepub"
+  },
+  {
+    "name": "Victrola V1 Capitol Hill",
+    "slug": "victrolav1capitolhill",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/victrola-v1-capitol-hill"
+  },
+  {
+    "name": "Big Mario's Pizza (Capitol Hill)",
+    "slug": "bigmariospizzacapitolhill",
+    "category": "pizza",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bigmariospizza-capitolhill"
+  },
+  {
+    "name": "General Porpoise Capitol Hill",
+    "slug": "generalporpoisecapitolhill",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gp-capitolhill"
+  },
+  {
+    "name": "Homegrown - Capitol Hill Location and Ordering Hours",
+    "slug": "homegrown-capitolhilllocationandordering",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/homegrown-capitol-hill"
+  },
+  {
+    "name": "Voodoo Doughnut 19 - Capitol Hill",
+    "slug": "voodoodoughnut19-capitolhill",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/capitol-hill"
+  },
+  {
+    "name": "Hot Cakes Capitol Hill",
+    "slug": "hotcakescapitolhill",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hot-cakes-capitol-hill"
+  },
+  {
+    "name": "Homegrown - Capitol Hill",
+    "slug": "homegrown-capitolhill",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/homegrown-capitol-hill/checkout"
+  },
+  {
+    "name": "Urban Fine Street Food",
+    "slug": "urbanfinestreetfood",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/urban-18120-collins-avenue"
+  },
+  {
+    "name": "Oohh's & Aahh's - U Street",
+    "slug": "oohhsaahhs-ustreet",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/oohhs-aahhs-u-street"
+  },
+  {
+    "name": "UNTRUCK'd Street Food Kitchen",
+    "slug": "untruckdstreetfoodkitchen",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/untruckd"
+  },
+  {
+    "name": "Union Sandwich Co. 101 North Union Street",
+    "slug": "unionsandwichco101northunionstreet",
+    "category": "deli",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/unionsandwichco-101-north-union-street"
+  },
+  {
+    "name": "Budd Dairy Food Hall Beep! Beep! Noods | Rice",
+    "slug": "budddairyfoodhallbeepbeepnoodsrice",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/budd-dairy-beepbeep"
+  },
+  {
+    "name": "Union Street Public House",
+    "slug": "unionstreetpublichouse",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/union-street-public-house"
+  },
+  {
+    "name": "Tuk Tuk Thai Isan Street Food",
+    "slug": "tuktukthaiisanstreetfood",
+    "category": "thai",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tuk-tuk-thai-isan-street-food"
+  },
+  {
+    "name": "Jaffna Street Food",
+    "slug": "jaffnastreetfood",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/jaffna-street-food-toronto"
+  },
+  {
+    "name": "Local Foods Austin 2nd Street District",
+    "slug": "localfoodsaustin2ndstreetdistrict",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/local-foods-austin-2sd"
+  },
+  {
+    "name": "Ginger Thai Cuisine / Street Food",
+    "slug": "gingerthaicuisinestreetfood",
+    "category": "thai",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gingerthaicf"
+  },
+  {
+    "name": "Seoul Street",
+    "slug": "seoulstreet",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/seoul-street"
+  },
+  {
+    "name": "U :Dessert Story 3489 16th. St.",
+    "slug": "udessertstory348916thst",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/u-dessert-story-3489-16th-st"
+  },
+  {
+    "name": "Red Stix Asian Street Food Farmers Branch",
+    "slug": "redstixasianstreetfoodfarmersbranch",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/red-stix-asian-street-food-farmers-branch-13050-bee-street-140"
+  },
+  {
+    "name": "El Fuego Mexican Street Food",
+    "slug": "elfuegomexicanstreetfood",
+    "category": "mexican",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/el-fuego-mexican-street-food-new-17120-s-harlem-ave"
+  },
+  {
+    "name": "Food on the Run",
+    "slug": "foodontherun",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/food-on-the-run-2-new-130-east-51st-street"
+  },
+  {
+    "name": "Ruta 52 food & more 2505 OLD NORCROSS RD SUITE B",
+    "slug": "ruta52foodmore2505oldnorcrossrdsuiteb",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ruta-52-food"
+  },
+  {
+    "name": "Miriam Street Food - Park Slope 81 5TH AVE",
+    "slug": "miriamstreetfood-parkslope815thave",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/miriam-street-food-park-slope-81-5th-ave"
+  },
+  {
+    "name": "Bombay Street Food COLUMBIA HEIGHTS",
+    "slug": "bombaystreetfoodcolumbiaheights",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bombay-street-food"
+  },
+  {
+    "name": "Lashuk Street Food",
+    "slug": "lashukstreetfood",
+    "category": "restaurant",
+    "metros": [
+      "dc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lashuk-revival"
   }
 ]

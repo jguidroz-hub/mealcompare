@@ -688,5 +688,482 @@
       "stlouis"
     ],
     "toastUrl": "https://order.toasttab.com/online/art-of-pizza-on-state-street"
+  },
+  {
+    "name": "West End Diner",
+    "slug": "westenddiner",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/west-end-diner"
+  },
+  {
+    "name": "That Place in the West End - Order Online",
+    "slug": "thatplaceinthewestend-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/west-end-poke-750-summit-st"
+  },
+  {
+    "name": "Super Rico Colombian Restaurant & Bar 57 West Central ...",
+    "slug": "superricocolombianrestaurantbar57westcen",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/superrico"
+  },
+  {
+    "name": "Chef Geoff's West End",
+    "slug": "chefgeoffswestend",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/chefgeoffswestend"
+  },
+  {
+    "name": "WEST END TAVERN",
+    "slug": "westendtavern",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/west-end-tavern"
+  },
+  {
+    "name": "Wild Heaven Beer - West End",
+    "slug": "wildheavenbeer-westend",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wildheavenbeer-westend"
+  },
+  {
+    "name": "The Loop West End",
+    "slug": "theloopwestend",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-loop-west-end"
+  },
+  {
+    "name": "Two Fat Cats Bakery West End",
+    "slug": "twofatcatsbakerywestend",
+    "category": "cafe",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/two-fat-cats-west-end"
+  },
+  {
+    "name": "Friedmans Central Park",
+    "slug": "friedmanscentralpark",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/community-2-50-west-72"
+  },
+  {
+    "name": "The West Side Kitchen LLC Location and Ordering Hours",
+    "slug": "thewestsidekitchenllclocationandordering",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-west-side-kitchen"
+  },
+  {
+    "name": "BBQ 136 914 Central Avenue",
+    "slug": "bbq136914centralavenue",
+    "category": "bbq",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bbq-136-914-central-avenue"
+  },
+  {
+    "name": "West Main Taproom And Grill",
+    "slug": "westmaintaproomandgrill",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/west-main-taproom"
+  },
+  {
+    "name": "West Coast Catering Location and Ordering Hours",
+    "slug": "westcoastcateringlocationandorderinghour",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/west-coast-catering"
+  },
+  {
+    "name": "West Side Wok",
+    "slug": "westsidewok",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/west-side-wok-691-amsterdam-av"
+  },
+  {
+    "name": "Loop Mpls - Order Online",
+    "slug": "loopmpls-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-loop-mpls"
+  },
+  {
+    "name": "STL SUBS Delmar Loop",
+    "slug": "stlsubsdelmarloop",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/delmar-loop-stl-subs-6150-delmar-boulevard"
+  },
+  {
+    "name": "Loop Brewing Company The LBC",
+    "slug": "loopbrewingcompanythelbc",
+    "category": "wings",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/loop-brewing-company"
+  },
+  {
+    "name": "High Tower Cafe HT-Loop Central Dr.",
+    "slug": "hightowercafeht-loopcentraldr",
+    "category": "cafe",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/loopcentral"
+  },
+  {
+    "name": "Kingside Express Loop Delmar Loop",
+    "slug": "kingsideexpressloopdelmarloop",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/kingside-diner-express-6170-delmar-blvd"
+  },
+  {
+    "name": "Emerald Loop Bar & Grill",
+    "slug": "emeraldloopbargrill",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/emerald-loop-bar-grill"
+  },
+  {
+    "name": "Demeris Bar-B-Q - West Loop (290 and 610)",
+    "slug": "demerisbar-b-q-westloop290and610",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/demeris-bar-b-q-west-loop-1702-west-loop-n-suite-a"
+  },
+  {
+    "name": "Small Cheval West Loop",
+    "slug": "smallchevalwestloop",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sclk"
+  },
+  {
+    "name": "The Longmonter Restaurant - Order Online",
+    "slug": "thelongmonterrestaurant-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thelongmonter"
+  },
+  {
+    "name": "The Loft",
+    "slug": "theloft",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/theloft"
+  },
+  {
+    "name": "Poke Poke West Loop",
+    "slug": "pokepokewestloop",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-poke-west-loop-1100-w-madison"
+  },
+  {
+    "name": "Hope Breakfast Bar North Loop",
+    "slug": "hopebreakfastbarnorthloop",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hope-breakfast-bar-north-loop-350-n-5th-street-suite-150"
+  },
+  {
+    "name": "Sol Food San Rafael",
+    "slug": "solfoodsanrafael",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/solfoodsanrafael"
+  },
+  {
+    "name": "Sol Food Petaluma - Order Online",
+    "slug": "solfoodpetaluma-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/solfoodpetaluma"
+  },
+  {
+    "name": "Sol Food Mill Valley",
+    "slug": "solfoodmillvalley",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/solfoodmillvalley"
+  },
+  {
+    "name": "Session Taco Historic Soulard",
+    "slug": "sessiontacohistoricsoulard",
+    "category": "mexican",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/session-taco-soulard"
+  },
+  {
+    "name": "Soul Food Glasgow Giffnock",
+    "slug": "soulfoodglasgowgiffnock",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/soul-food-glasgow"
+  },
+  {
+    "name": "Herman's Soul Food & Catering",
+    "slug": "hermanssoulfoodcatering",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hermans"
+  },
+  {
+    "name": "Doro Soul Food 2108 8th St NW",
+    "slug": "dorosoulfood21088thstnw",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dorosoulfood"
+  },
+  {
+    "name": "SoFul Soul Food",
+    "slug": "sofulsoulfood",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/soful"
+  },
+  {
+    "name": "Bertha's Soul Food Bar & Grill",
+    "slug": "berthassoulfoodbargrill",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/berthassoulfood"
+  },
+  {
+    "name": "Esther's Soul Food + Kitchen Sandhills",
+    "slug": "estherssoulfoodkitchensandhills",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/estherssoulfoodkitchen"
+  },
+  {
+    "name": "Swole Food",
+    "slug": "swolefood",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/swolefood4lifeonlineordering.com"
+  },
+  {
+    "name": "Lady Sharon's Soul Food Kitchen",
+    "slug": "ladysharonssoulfoodkitchen",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lssoulfood"
+  },
+  {
+    "name": "The Grove Cafe & Market",
+    "slug": "thegrovecafemarket",
+    "category": "cafe",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-grove-cafe-market"
+  },
+  {
+    "name": "The Grove Restaurant",
+    "slug": "thegroverestaurant",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-grove-restaurant"
+  },
+  {
+    "name": "The Grove Family Restaurant",
+    "slug": "thegrovefamilyrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/grovefamilyrestaurant"
+  },
+  {
+    "name": "The Grove Kitchen & Bar",
+    "slug": "thegrovekitchenbar",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-grove-kitchen-and-bar-12826-sw-brookside-falls"
+  },
+  {
+    "name": "The Grove Tavern 204 N 4th St",
+    "slug": "thegrovetavern204n4thst",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thegrovetaverndekalbil"
+  },
+  {
+    "name": "Food for Thought - Grove Cafe FFT 35 - Schaumburg",
+    "slug": "foodforthought-grovecafefft35-schaumburg",
+    "category": "cafe",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/grove"
+  },
+  {
+    "name": "Cafe on the Grove",
+    "slug": "cafeonthegrove",
+    "category": "cafe",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-at-the-grove"
+  },
+  {
+    "name": "The Grove Wine Bar & Kitchen",
+    "slug": "thegrovewinebarkitchen",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/locations/a63a8b59-7dd4-4d94-a175-a940d9702a1a"
+  },
+  {
+    "name": "The Grove - Yerba Buena 690 Mission Street",
+    "slug": "thegrove-yerbabuena690missionstreet",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thegrovesf"
+  },
+  {
+    "name": "The Grove Wine Bar & Kitchen Lakeway",
+    "slug": "thegrovewinebarkitchenlakeway",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-grove-lakeway"
+  },
+  {
+    "name": "Alma at The Grove 189 The Grove Dr",
+    "slug": "almaatthegrove189thegrovedr",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/alma-at-the-grove-189-the-grove-dr"
+  },
+  {
+    "name": "The Grove Brewing Company",
+    "slug": "thegrovebrewingcompany",
+    "category": "wings",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/grovebrew"
+  },
+  {
+    "name": "The Grove, Restaurant & Bar at Red Hook Golf Club",
+    "slug": "thegroverestaurantbaratredhookgolfclub",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-grove-650-rt-199"
+  },
+  {
+    "name": "LoKal Coconut Grove",
+    "slug": "lokalcoconutgrove",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lokal"
+  },
+  {
+    "name": "Big Grove Brewery Iowa City",
+    "slug": "biggrovebreweryiowacity",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/big-grove-ic"
   }
 ]

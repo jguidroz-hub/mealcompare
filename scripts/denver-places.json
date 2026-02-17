@@ -978,5 +978,302 @@
       "denver"
     ],
     "toastUrl": "https://order.toasttab.com/online/boulder"
+  },
+  {
+    "name": "Hopvine Pub - Capitol Hill 507 15th Ave E",
+    "slug": "hopvinepub-capitolhill50715thavee",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hopvinepub"
+  },
+  {
+    "name": "Big Mario's Pizza (Capitol Hill)",
+    "slug": "bigmariospizzacapitolhill",
+    "category": "pizza",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bigmariospizza-capitolhill"
+  },
+  {
+    "name": "Victrola V1 Capitol Hill",
+    "slug": "victrolav1capitolhill",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/victrola-v1-capitol-hill"
+  },
+  {
+    "name": "General Porpoise Capitol Hill",
+    "slug": "generalporpoisecapitolhill",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gp-capitolhill"
+  },
+  {
+    "name": "Voodoo Doughnut 19 - Capitol Hill",
+    "slug": "voodoodoughnut19-capitolhill",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/capitol-hill"
+  },
+  {
+    "name": "Homegrown - Capitol Hill Location and Ordering Hours",
+    "slug": "homegrown-capitolhilllocationandordering",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/homegrown-capitol-hill"
+  },
+  {
+    "name": "Hot Cakes Capitol Hill",
+    "slug": "hotcakescapitolhill",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hot-cakes-capitol-hill"
+  },
+  {
+    "name": "On the Hill Cafe & Market",
+    "slug": "onthehillcafemarket",
+    "category": "cafe",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/onthehillcafe-market"
+  },
+  {
+    "name": "Junction Bistro, Bar & Bakery Capitol Hill 238 ...",
+    "slug": "junctionbistrobarbakerycapitolhill238",
+    "category": "cafe",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/junction-bakery-bistro-capitol-hill-238-massachusetts-ave-ne"
+  },
+  {
+    "name": "Hudson Hill",
+    "slug": "hudsonhill",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hudson-hill"
+  },
+  {
+    "name": "Top of the Hill Restaurant & Brewery",
+    "slug": "topofthehillrestaurantbrewery",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/top-of-the-hill-restaurant-brewery"
+  },
+  {
+    "name": "Home Restaurant 3909 Steve Tate Highway",
+    "slug": "homerestaurant3909stevetatehighway",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/home-restaurant"
+  },
+  {
+    "name": "Capitol East - Vintage Brewing Company",
+    "slug": "capitoleast-vintagebrewingcompany",
+    "category": "wings",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/vbc-capitol-east"
+  },
+  {
+    "name": "All-Purpose Capitol Riverfront",
+    "slug": "all-purposecapitolriverfront",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/all-purpose-capitol-riverfront"
+  },
+  {
+    "name": "The Hill Cafe",
+    "slug": "thehillcafe",
+    "category": "cafe",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-hill-cafe"
+  },
+  {
+    "name": "Yampa Sandwich Co. - LoDo Denver/LoDo",
+    "slug": "yampasandwichco-lododenverlodo",
+    "category": "deli",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/yampasandwichco-wazee-denver"
+  },
+  {
+    "name": "SliceWorks Lodo",
+    "slug": "sliceworkslodo",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sliceworks-lodo"
+  },
+  {
+    "name": "Jax Fish House",
+    "slug": "jaxfishhouse",
+    "category": "seafood",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/jax-fish-house-denver"
+  },
+  {
+    "name": "Le Bledo Food Truck 6416 Brandon Avenue",
+    "slug": "lebledofoodtruck6416brandonavenue",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/le-bledo-food-truck"
+  },
+  {
+    "name": "Doro Soul Food 2108 8th St NW",
+    "slug": "dorosoulfood21088thstnw",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dorosoulfood"
+  },
+  {
+    "name": "Uncle Highlands",
+    "slug": "unclehighlands",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uncle-denver"
+  },
+  {
+    "name": "Highland Restaurant & Bar 2347 Oregon Pike",
+    "slug": "highlandrestaurantbar2347oregonpike",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/highlandrestaurantbar"
+  },
+  {
+    "name": "Highlands Bar & Grill 2280 Bardstown Rd",
+    "slug": "highlandsbargrill2280bardstownrd",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/highlands-bar-grill-2241-lowell-ave"
+  },
+  {
+    "name": "Highlands Alehouse",
+    "slug": "highlandsalehouse",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/highlandsalehouse"
+  },
+  {
+    "name": "Smokin Fins Highlands Ranch - Sushi",
+    "slug": "smokinfinshighlandsranch-sushi",
+    "category": "japanese",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/smokin-fins-highlands-ranch-1104-cpl-max-donahue-lane"
+  },
+  {
+    "name": "Highlands 1,LLC 4706 14th Street NW",
+    "slug": "highlands1llc470614thstreetnw",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/highlandsdc"
+  },
+  {
+    "name": "Natuur - Highlands",
+    "slug": "natuur-highlands",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/natuur-highlands-3712-w-32nd-ave"
+  },
+  {
+    "name": "Lake Highlands Cafe",
+    "slug": "lakehighlandscafe",
+    "category": "cafe",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lake-highlands-cafe-new-6751-abrams-rd-ste-100"
+  },
+  {
+    "name": "Bristol Bar and Grille - Highlands",
+    "slug": "bristolbarandgrille-highlands",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bristol-bar-and-grille-highlands-1321-bardstown-rd"
+  },
+  {
+    "name": "The Highland Restaurant & Bar",
+    "slug": "thehighlandrestaurantbar",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/highland-bar-and-restaurant"
+  },
+  {
+    "name": "Cedar & Vine Lake Highlands",
+    "slug": "cedarvinelakehighlands",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cedarvinetx"
+  },
+  {
+    "name": "Highland House Restaurant",
+    "slug": "highlandhouserestaurant",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/highland-house-restaurant"
+  },
+  {
+    "name": "LouVino Highlands",
+    "slug": "louvinohighlands",
+    "category": "restaurant",
+    "metros": [
+      "denver"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/louvino-highlands-1606-bardstown-rd"
   }
 ]

@@ -659,5 +659,338 @@
       "minneapolis"
     ],
     "toastUrl": "https://order.toasttab.com/online/kkitchen"
+  },
+  {
+    "name": "Northeast Social",
+    "slug": "northeastsocial",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/northeast-social-359-13th-avenue-ne"
+  },
+  {
+    "name": "Saturday Dumpling Co. Northeast Minneapolis",
+    "slug": "saturdaydumplingconortheastminneapolis",
+    "category": "chinese",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/saturday-dumpling-co-519-central-ave-ne-minneapolis-mn-55413"
+  },
+  {
+    "name": "The Buttered Tin NE Minneapolis",
+    "slug": "thebutteredtinneminneapolis",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-buttered-tin-ne"
+  },
+  {
+    "name": "Order",
+    "slug": "order",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/egg-on-a-roll-northeast-minneapolis-945-broadway-street-ne"
+  },
+  {
+    "name": "Rainbow Restaurant Minneapolis",
+    "slug": "rainbowrestaurantminneapolis",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rainbow-restaurant-2739-nicollet-avenue-south"
+  },
+  {
+    "name": "Afro Deli & Grill - Stadium Village Minneapolis- Washington",
+    "slug": "afrodeligrill-stadiumvillageminneapolis-",
+    "category": "deli",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/afrodeli-minneapolis"
+  },
+  {
+    "name": "Blackwater Minneapolis Fifth Street Towers",
+    "slug": "blackwaterminneapolisfifthstreettowers",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/blackwater-minneapolis"
+  },
+  {
+    "name": "Uptown Kitchen + Taphouse",
+    "slug": "uptownkitchentaphouse",
+    "category": "vietnamese",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/nwauptown"
+  },
+  {
+    "name": "Order Confirmation",
+    "slug": "orderconfirmation",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uptown-pizza-323-west-lake-street/confirm"
+  },
+  {
+    "name": "Angie's Soul Cafe Uptown",
+    "slug": "angiessoulcafeuptown",
+    "category": "cafe",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/angies-soul-cafe-uptown"
+  },
+  {
+    "name": "Uptown Tap & Eatery",
+    "slug": "uptowntapeatery",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uptown-tap-eatery"
+  },
+  {
+    "name": "Steuben's Uptown Location and Ordering Hours",
+    "slug": "steubensuptownlocationandorderinghours",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/steubens-uptown-523-e-17th-ave"
+  },
+  {
+    "name": "Uptown Burger 6370 North Campbell Avenue suite 160",
+    "slug": "uptownburger6370northcampbellavenuesuite",
+    "category": "burgers",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uptown-burger-6370-north-campbell-avenue-suite-160"
+  },
+  {
+    "name": "Uptown Sports Club",
+    "slug": "uptownsportsclub",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uptown-sports-club-1200-e-6th-st"
+  },
+  {
+    "name": "Fatty's Uptown",
+    "slug": "fattysuptown",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fattys-uptown-11-colvin-ave"
+  },
+  {
+    "name": "Famous Toastery FT Uptown",
+    "slug": "famoustoasteryftuptown",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/famous-toastery-uptown"
+  },
+  {
+    "name": "Uptown Slice Depot 1217 N 8th St",
+    "slug": "uptownslicedepot1217n8thst",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uptown-slice-1116-michigan-avenue"
+  },
+  {
+    "name": "Walter's303",
+    "slug": "walters303",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/walters-303-uptown"
+  },
+  {
+    "name": "Uptown China",
+    "slug": "uptownchina",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uptownchina"
+  },
+  {
+    "name": "Uptown Barrel Room 2011 Main Street",
+    "slug": "uptownbarrelroom2011mainstreet",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uptown-barrel-room-2011-main-street"
+  },
+  {
+    "name": "Uptown Ansonia CT",
+    "slug": "uptownansoniact",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uptownansonia"
+  },
+  {
+    "name": "Cuz's Uptown Barbeque",
+    "slug": "cuzsuptownbarbeque",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cuzs-uptown-bbq"
+  },
+  {
+    "name": "Hope Breakfast Bar North Loop",
+    "slug": "hopebreakfastbarnorthloop",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hope-breakfast-bar-north-loop-350-n-5th-street-suite-150"
+  },
+  {
+    "name": "Red Cow North Loop",
+    "slug": "redcownorthloop",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/red-cow-1st-ave"
+  },
+  {
+    "name": "Bricksworth Beer Co. North Loop",
+    "slug": "bricksworthbeerconorthloop",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bricksworth-brewing-co-north-loop"
+  },
+  {
+    "name": "Ay Chiwawa Mexican Cafe - North Loop",
+    "slug": "aychiwawamexicancafe-northloop",
+    "category": "mexican",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/myaychiwawa.com"
+  },
+  {
+    "name": "Backstory Coffee Roasters North Loop - MPLS",
+    "slug": "backstorycoffeeroastersnorthloop-mpls",
+    "category": "cafe",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/backstory-coffee-roasters-north-loop-mpls-528-n-washington-ave"
+  },
+  {
+    "name": "Maiz cocina mexicana North Loop 1604 East Access Road",
+    "slug": "maizcocinamexicananorthloop1604eastacces",
+    "category": "mexican",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/maiz-cocina-mexicana-north-loop-1604-east-access-road"
+  },
+  {
+    "name": "Red Rabbit RR North Loop",
+    "slug": "redrabbitrrnorthloop",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/red-rabbit-minneapolis"
+  },
+  {
+    "name": "High Tower Cafe HT-11 Ella North Loop West",
+    "slug": "hightowercafeht-11ellanorthloopwest",
+    "category": "cafe",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hightower11"
+  },
+  {
+    "name": "Jack Allen's Kitchen Loop 360",
+    "slug": "jackallenskitchenloop360",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/jack-allens-kitchen-loop-360-3600-capital-of-texas-highway-north-building-d"
+  },
+  {
+    "name": "St Paul Tavern",
+    "slug": "stpaultavern",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/st-paul-tavern"
+  },
+  {
+    "name": "Erta Ale Ethiopian Restaurant St Paul- Lowertown",
+    "slug": "ertaaleethiopianrestaurantstpaul-lowerto",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/erta-ale-ethiopian"
+  },
+  {
+    "name": "Paul French Bakery & Cafe",
+    "slug": "paulfrenchbakerycafe",
+    "category": "cafe",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/paul-french-bakery-k-street"
+  },
+  {
+    "name": "Tono Pizzeria + Cheesesteaks St Paul",
+    "slug": "tonopizzeriacheesesteaksstpaul",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tonosaintpaul"
+  },
+  {
+    "name": "The Tee Box LLC 221-223 East St Paul Street",
+    "slug": "theteeboxllc221-223eaststpaulstreet",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-takeaway-co-221-east-st-paul-street"
+  },
+  {
+    "name": "Hope Breakfast Bar Saint Paul",
+    "slug": "hopebreakfastbarsaintpaul",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hope-breakfast-bar"
   }
 ]

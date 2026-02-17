@@ -2021,5 +2021,419 @@
       "chicago"
     ],
     "toastUrl": "https://order.toasttab.com/online/lea-french-street-food"
+  },
+  {
+    "name": "Fry the Coop - Lincoln Park",
+    "slug": "frythecoop-lincolnpark",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fry-the-coop-lincoln-park-2404-north-lincoln-avenue"
+  },
+  {
+    "name": "Parson's Chicken and Fish (Lincoln Park) ...",
+    "slug": "parsonschickenandfishlincolnpark",
+    "category": "seafood",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/parsons-chicken-and-fish-lincoln-park"
+  },
+  {
+    "name": "Bird's Nest - Lincoln Park",
+    "slug": "birdsnest-lincolnpark",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/birdsnest-lincoln-park-2500-n-southport-ave"
+  },
+  {
+    "name": "Cornerstone Cafe Lincoln Park 2200 N Clybourn Ave",
+    "slug": "cornerstonecafelincolnpark2200nclybourna",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cornerstone-cafe-lincoln-park-2200-n-clybourn-ave"
+  },
+  {
+    "name": "Zeitlins Deli - Lincoln Park",
+    "slug": "zeitlinsdeli-lincolnpark",
+    "category": "deli",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/zeitlins-deli-lincoln-park-2203-north-clybourn-avenue"
+  },
+  {
+    "name": "Sweet Mandy B's Lincoln Park",
+    "slug": "sweetmandybslincolnpark",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sweet-mandy-b-s"
+  },
+  {
+    "name": "Bali Asian Cuisine Lincoln Park",
+    "slug": "baliasiancuisinelincolnpark",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bali-asian-cuisine-1931-west-superior-street"
+  },
+  {
+    "name": "Lincoln Park - Order Online",
+    "slug": "lincolnpark-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/roti-lincoln-park"
+  },
+  {
+    "name": "Epic Burger Lincoln Park",
+    "slug": "epicburgerlincolnpark",
+    "category": "burgers",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/epic-burger-lincoln-park-1000-w-north-ave"
+  },
+  {
+    "name": "Parlay Lincoln Park",
+    "slug": "parlaylincolnpark",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/parlay-lp"
+  },
+  {
+    "name": "Batter & Berries",
+    "slug": "batterberries",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/batter-berries-2748-n-lincoln-ave"
+  },
+  {
+    "name": "Firecakes Lincoln Park",
+    "slug": "firecakeslincolnpark",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/firecakes-lincoln-park"
+  },
+  {
+    "name": "River North Bistro",
+    "slug": "rivernorthbistro",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/river-north-bistro-660-north-state-street"
+  },
+  {
+    "name": "Schneider Deli River North",
+    "slug": "schneiderdelirivernorth",
+    "category": "deli",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/schneider-deli-600-n-lasalle"
+  },
+  {
+    "name": "Peak Thai To Go River North",
+    "slug": "peakthaitogorivernorth",
+    "category": "thai",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/peakthaitogorivernorth"
+  },
+  {
+    "name": "Giardino Trattoria & Pizzeria 12 North River Street",
+    "slug": "giardinotrattoriapizzeria12northriverstr",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/giardino-aurora"
+  },
+  {
+    "name": "Avli River North",
+    "slug": "avlirivernorth",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/avli-river-north"
+  },
+  {
+    "name": "Firecakes River North",
+    "slug": "firecakesrivernorth",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/firecakes-river-north"
+  },
+  {
+    "name": "Checkout",
+    "slug": "checkout",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/als-beef-river-north-548-north-wells-street/checkout"
+  },
+  {
+    "name": "Meli Cafe on Grand River North",
+    "slug": "melicafeongrandrivernorth",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/meli-cafe-on-grand"
+  },
+  {
+    "name": "Sunda New Asian River North",
+    "slug": "sundanewasianrivernorth",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sunda-new-asian-110-w-illinois"
+  },
+  {
+    "name": "avec river north",
+    "slug": "avecrivernorth",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/avecrivernorth"
+  },
+  {
+    "name": "Tkilaz Mexican Restaurant Bar and Grill",
+    "slug": "tkilazmexicanrestaurantbarandgrill",
+    "category": "mexican",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tkilaz-mexican-restaurant-bar-and-grill-n-loop-3322-north-loop-250-west"
+  },
+  {
+    "name": "Poke Poke West Loop",
+    "slug": "pokepokewestloop",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/poke-poke-west-loop-1100-w-madison"
+  },
+  {
+    "name": "Parlor Pizza Bar - West Loop 108 North Green Street",
+    "slug": "parlorpizzabar-westloop108northgreenstre",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/parlor-pizza-bar-west-loop"
+  },
+  {
+    "name": "Small Cheval West Loop",
+    "slug": "smallchevalwestloop",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sclk"
+  },
+  {
+    "name": "Demeris Bar-B-Q - West Loop (290 and 610)",
+    "slug": "demerisbar-b-q-westloop290and610",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/demeris-bar-b-q-west-loop-1702-west-loop-n-suite-a"
+  },
+  {
+    "name": "The Loop West End",
+    "slug": "theloopwestend",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-loop-west-end"
+  },
+  {
+    "name": "Umami Burger West Loop",
+    "slug": "umamiburgerwestloop",
+    "category": "burgers",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/citizenswestloop"
+  },
+  {
+    "name": "Glaze River West",
+    "slug": "glazeriverwest",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/glaze-west-loop"
+  },
+  {
+    "name": "Loop Mpls - Order Online",
+    "slug": "loopmpls-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-loop-mpls"
+  },
+  {
+    "name": "High Tower Cafe HT-Loop Central Dr.",
+    "slug": "hightowercafeht-loopcentraldr",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/loopcentral"
+  },
+  {
+    "name": "Ramen Wasabi Logan Square",
+    "slug": "ramenwasabilogansquare",
+    "category": "japanese",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wasabi-ramen-llc"
+  },
+  {
+    "name": "Order Online | La Boulangerie & Co – Logan Square, Chicago",
+    "slug": "orderonlinelaboulangeriecologansquarechi",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/la-boulangerieandco-logan"
+  },
+  {
+    "name": "Pizza Lobo Logan Square",
+    "slug": "pizzalobologansquare",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizza-lobo-logan-square"
+  },
+  {
+    "name": "Parson's Chicken and Fish (Logan Square) ...",
+    "slug": "parsonschickenandfishlogansquare",
+    "category": "seafood",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/parsons-chicken-and-fish-logan-square"
+  },
+  {
+    "name": "Osteria Langhe Logan Square",
+    "slug": "osterialanghelogansquare",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/osteria-langhe"
+  },
+  {
+    "name": "Lonesome Rose - Logan Square",
+    "slug": "lonesomerose-logansquare",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/golden-teardrops-lonesome-rose"
+  },
+  {
+    "name": "Lakeview Restaurant Saint Agatha",
+    "slug": "lakeviewrestaurantsaintagatha",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lakeview-restaurant"
+  },
+  {
+    "name": "NEW Lakeview Restaurant 50 Lake St Coventry",
+    "slug": "newlakeviewrestaurant50lakestcoventry",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lakeviewct"
+  },
+  {
+    "name": "Lakeview Grille",
+    "slug": "lakeviewgrille",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lakeview-grille"
+  },
+  {
+    "name": "ROCKS lakeview 3463 N Broadway St",
+    "slug": "rockslakeview3463nbroadwayst",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rocks-bar-group-lakeview-3463-n-broadway-st"
+  },
+  {
+    "name": "Lakeview Pearl",
+    "slug": "lakeviewpearl",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lakeview-pearl-6300-canal-blvd"
+  },
+  {
+    "name": "Lakeview Bagel 78 Lakeview Avenue",
+    "slug": "lakeviewbagel78lakeviewavenue",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lakeviewbagel"
+  },
+  {
+    "name": "Breakfast House Lakeview",
+    "slug": "breakfasthouselakeview",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/breakfast-house-lakeview"
+  },
+  {
+    "name": "Farm Bar Lakeview",
+    "slug": "farmbarlakeview",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/farm-bar-lakeview"
   }
 ]

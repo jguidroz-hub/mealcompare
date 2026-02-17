@@ -762,5 +762,293 @@
       "tampa"
     ],
     "toastUrl": "https://order.toasttab.com/online/popspizza"
+  },
+  {
+    "name": "The Bricks Ybor City",
+    "slug": "thebricksyborcity",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-bricks-of-ybor"
+  },
+  {
+    "name": "Ybor City Vegan Deli 1903 N 19th st",
+    "slug": "yborcityvegandeli1903n19thst",
+    "category": "deli",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ybor-city-vegan-deli-1903-n-19th-st"
+  },
+  {
+    "name": "Tampa Bay Brewing Company - Ybor City",
+    "slug": "tampabaybrewingcompany-yborcity",
+    "category": "wings",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tampa-bay-brewing-company-ybor-13937-monroes-business-park"
+  },
+  {
+    "name": "The Big Easy Ybor City Ybor City",
+    "slug": "thebigeasyyborcityyborcity",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bigeasyyborcity"
+  },
+  {
+    "name": "La Segunda Ybor",
+    "slug": "lasegundaybor",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/la-segunda-bakery-cafe-ybor-2512-north-15th-street"
+  },
+  {
+    "name": "Riverview",
+    "slug": "riverview",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ny-ny-pizza-riverview/checkout"
+  },
+  {
+    "name": "Old City Barbeque . Williamsburg, VA",
+    "slug": "oldcitybarbequewilliamsburgva",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/old-city-bbq-700-york-street"
+  },
+  {
+    "name": "Uncle Nicky's Hyde Park",
+    "slug": "unclenickyshydepark",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/unclenickys-hydepark"
+  },
+  {
+    "name": "Buddy Brew Coffee Hyde Park",
+    "slug": "buddybrewcoffeehydepark",
+    "category": "cafe",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/buddybrewhydepark"
+  },
+  {
+    "name": "Curra's Hyde Park",
+    "slug": "currashydepark",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/curras-grill-hyde-park-4215-duval-st"
+  },
+  {
+    "name": "Dope Asian Street Fare - Hyde Park 2912 Wasson Rd",
+    "slug": "dopeasianstreetfare-hydepark2912wassonrd",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dope-asian-street-fare-hyde-park-2912-wasson-rd-antki"
+  },
+  {
+    "name": "Forno Osteria & Bar - Hyde Park",
+    "slug": "fornoosteriabar-hydepark",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/forno-hyde-park"
+  },
+  {
+    "name": "Hyde Park - Order Online",
+    "slug": "hydepark-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/roti-hyde-park/"
+  },
+  {
+    "name": "Soul de Cuba - Seminole Heights",
+    "slug": "souldecuba-seminoleheights",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/soul-de-cuba-tampa-fl-6428-north-florida-avenue"
+  },
+  {
+    "name": "Local Foods The Heights",
+    "slug": "localfoodstheheights",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/local-food-heights"
+  },
+  {
+    "name": "Burger Heights",
+    "slug": "burgerheights",
+    "category": "burgers",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/burger-heights"
+  },
+  {
+    "name": "Linking Heights 3001 28th Street North",
+    "slug": "linkingheights300128thstreetnorth",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/linkingheightsstpete"
+  },
+  {
+    "name": "The Heights",
+    "slug": "theheights",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-heights"
+  },
+  {
+    "name": "Ze's Diner Mendota Heights Online Order",
+    "slug": "zesdinermendotaheightsonlineorder",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/zes-diner-mendota-heights-730-main-street"
+  },
+  {
+    "name": "Comal Heritage Food Incubator",
+    "slug": "comalheritagefoodincubator",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/comalkitchen"
+  },
+  {
+    "name": "Carmelita's Mexican Restaurant St. Pete",
+    "slug": "carmelitasmexicanrestaurantstpete",
+    "category": "mexican",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/carmelitas-mexican-restaurant-st-pete-5211-park-st-n"
+  },
+  {
+    "name": "The Library Restaurant",
+    "slug": "thelibraryrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-library-restaurant"
+  },
+  {
+    "name": "CD Roma Restaurant",
+    "slug": "cdromarestaurant",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cd-roma-restaurant"
+  },
+  {
+    "name": "Pesky Pelican Brew Pub 923 72nd ST N",
+    "slug": "peskypelicanbrewpub92372ndstn",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pesky-pelican-923-72nd-st-n"
+  },
+  {
+    "name": "Datz St. Pete",
+    "slug": "datzstpete",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/datz-st-pete"
+  },
+  {
+    "name": "Pirrone's Pizzeria-St. Peters St. Peter",
+    "slug": "pirronespizzeria-stpetersstpeter",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pirrones-st-peter"
+  },
+  {
+    "name": "Pete's Restaurant & Brewhouse - Redding",
+    "slug": "petesrestaurantbrewhouse-redding",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/petes-restaurant-brewhouse-redding"
+  },
+  {
+    "name": "JDubbz 771 Main St N.",
+    "slug": "jdubbz771mainstn",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/jdubbz29809"
+  },
+  {
+    "name": "Toast",
+    "slug": "toast",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/petersbakery"
+  },
+  {
+    "name": "Murray Bros. Caddyshack - St. Augustine",
+    "slug": "murraybroscaddyshack-staugustine",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mbcssa"
+  },
+  {
+    "name": "The Longmonter Restaurant - Order Online",
+    "slug": "thelongmonterrestaurant-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thelongmonter"
+  },
+  {
+    "name": "Pearl St. Pizza 159 North Main Street",
+    "slug": "pearlstpizza159northmainstreet",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pearlstreetpizza"
   }
 ]

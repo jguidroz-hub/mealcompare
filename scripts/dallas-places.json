@@ -1111,5 +1111,365 @@
       "dallas"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/4964/locations/6438"
+  },
+  {
+    "name": "Twisted Root - Deep Ellum",
+    "slug": "twistedroot-deepellum",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/twisted-root-dallas-commerce-st"
+  },
+  {
+    "name": "Tiki Loco Deep Ellum",
+    "slug": "tikilocodeepellum",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tiki-loco-deep-ellum-2639-elm-st-ste-100"
+  },
+  {
+    "name": "Postino X_Deep Ellum",
+    "slug": "postinoxdeepellum",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/postino-deep-ellum"
+  },
+  {
+    "name": "Westlake Brewing Company Deep Ellum",
+    "slug": "westlakebrewingcompanydeepellum",
+    "category": "wings",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/westlakebeer"
+  },
+  {
+    "name": "Land of a Thousand Hills Coffee Deep Ellum",
+    "slug": "landofathousandhillscoffeedeepellum",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lthdeepellum"
+  },
+  {
+    "name": "White Rhino Coffee The Stack (Deep Ellum)",
+    "slug": "whiterhinocoffeethestackdeepellum",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/white-rhino-coffee-the-stack-2700-commerce-street-suite-110"
+  },
+  {
+    "name": "Rolling Deep Food Truck - Order Online",
+    "slug": "rollingdeepfoodtruck-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rolling-deep-3405-arnhem-ct"
+  },
+  {
+    "name": "Deep End Subs",
+    "slug": "deependsubs",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/deep-end-subs-7211-easy-wind-dr-1243"
+  },
+  {
+    "name": "Taco Lingo Uptown",
+    "slug": "tacolingouptown",
+    "category": "mexican",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/taco-lingo-uptown"
+  },
+  {
+    "name": "Uptown Tap & Eatery",
+    "slug": "uptowntapeatery",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uptown-tap-eatery"
+  },
+  {
+    "name": "Uptown Kitchen + Taphouse",
+    "slug": "uptownkitchentaphouse",
+    "category": "vietnamese",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/nwauptown"
+  },
+  {
+    "name": "Walter's303",
+    "slug": "walters303",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/walters-303-uptown"
+  },
+  {
+    "name": "Uptown Ansonia CT",
+    "slug": "uptownansoniact",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uptownansonia"
+  },
+  {
+    "name": "Fatty's Uptown",
+    "slug": "fattysuptown",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fattys-uptown-11-colvin-ave"
+  },
+  {
+    "name": "Steuben's Uptown Location and Ordering Hours",
+    "slug": "steubensuptownlocationandorderinghours",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/steubens-uptown-523-e-17th-ave"
+  },
+  {
+    "name": "The Uptown Cafe",
+    "slug": "theuptowncafe",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uptown-cafe-warrenton"
+  },
+  {
+    "name": "Stoney's Uptown Joint",
+    "slug": "stoneysuptownjoint",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/stoneys-uptown-joint"
+  },
+  {
+    "name": "Famous Toastery FT Uptown",
+    "slug": "famoustoasteryftuptown",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/famous-toastery-uptown"
+  },
+  {
+    "name": "Uptown Barrel Room 2011 Main Street",
+    "slug": "uptownbarrelroom2011mainstreet",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uptown-barrel-room-2011-main-street"
+  },
+  {
+    "name": "Uptown Pizza 323 West Lake Street",
+    "slug": "uptownpizza323westlakestreet",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uptown-pizza-323-west-lake-street"
+  },
+  {
+    "name": "Uptown Sports Club",
+    "slug": "uptownsportsclub",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uptown-sports-club-1200-e-6th-st"
+  },
+  {
+    "name": "Dalat Restaurant & Bar",
+    "slug": "dalatrestaurantbar",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dalat-restaurant-bar"
+  },
+  {
+    "name": "Cuz's Uptown Barbeque",
+    "slug": "cuzsuptownbarbeque",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cuzs-uptown-bbq"
+  },
+  {
+    "name": "Bishop's Orchards",
+    "slug": "bishopsorchards",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bishops-orchards"
+  },
+  {
+    "name": "Salsa's Taqueria II Bishop",
+    "slug": "salsastaqueriaiibishop",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/salsastaqbsp"
+  },
+  {
+    "name": "Arts & Central 611 Central Avenue, Sarasota, FL 34236",
+    "slug": "artscentral611centralavenuesarasotafl342",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/arts-and-central-611-central-avenue"
+  },
+  {
+    "name": "Arts Pub",
+    "slug": "artspub",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/arts-pub-lansing"
+  },
+  {
+    "name": "Leela's Wine Bar Dallas - Lower Greenville",
+    "slug": "leelaswinebardallas-lowergreenville",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/leelas-1914-greenville-ave"
+  },
+  {
+    "name": "Voodoo Doughnut 17 - Lower Greenville",
+    "slug": "voodoodoughnut17-lowergreenville",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lowergreenville"
+  },
+  {
+    "name": "Doe's Eat Place GREENVILLE 502 Nelson Street",
+    "slug": "doeseatplacegreenville502nelsonstreet",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/does-eats-place-502-nelson-street"
+  },
+  {
+    "name": "Texas Cafe Diner Greenville TX - Order Online",
+    "slug": "texascafedinergreenvilletx-orderonline",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/texas-cafe-diner-greenville"
+  },
+  {
+    "name": "Don Toro - Greenville 2808 Lee Street",
+    "slug": "dontoro-greenville2808leestreet",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/don-toro-greenville-2808-lee-street"
+  },
+  {
+    "name": "Rancherita Greenville",
+    "slug": "rancheritagreenville",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/la-rancherita-greenville"
+  },
+  {
+    "name": "Company Cafe & Bar 2104 Greenville Ave",
+    "slug": "companycafebar2104greenvilleave",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/company-cafe-bar-2104-greenville-ave"
+  },
+  {
+    "name": "Sup Dogs Restaurant Greenville",
+    "slug": "supdogsrestaurantgreenville",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sup-dogs-restaurant-greenville"
+  },
+  {
+    "name": "Tie Breakers - Greenville Blvd",
+    "slug": "tiebreakers-greenvilleblvd",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tie-breakers-sports-bar-grill-greenville-blvd-1840-se-greenville-blvd"
+  },
+  {
+    "name": "Fortune House - Dallas 2010 A Greenville Ave",
+    "slug": "fortunehouse-dallas2010agreenvilleave",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fortune-house-dallas-2010-a-greenville-ave"
+  },
+  {
+    "name": "Carolina Ale House CAH - DT Greenville",
+    "slug": "carolinaalehousecah-dtgreenville",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/carolina-ale-house-dt-greenville"
+  },
+  {
+    "name": "Kolapasi Indian Canteen - Greenville, SC",
+    "slug": "kolapasiindiancanteen-greenvillesc",
+    "category": "indian",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/kolapasi-indian-canteen-greenville-sc-27-south-pleasantburg-drive"
+  },
+  {
+    "name": "Seasons of Tokyo - Greenville NC",
+    "slug": "seasonsoftokyo-greenvillenc",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tokyogreenvillenc"
   }
 ]
