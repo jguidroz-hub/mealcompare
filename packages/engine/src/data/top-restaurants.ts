@@ -429,7 +429,7 @@ export const CHICAGO_RESTAURANTS: RestaurantData[] = [
   { name: 'Chicago Q', slug: 'chicagoq', category: 'restaurant', metros: ['chicago'] },
   { name: 'Carson’s Prime Steaks & Famous Barbecue – Chicago (Streeterville)', slug: 'carsonsprimesteaksfamousbarbecuechicagos', category: 'restaurant', metros: ['chicago'] },
   { name: 'Soul & Smoke - Avondale at Rockwell on the River', slug: 'soulsmoke-avondaleatrockwellontheriver', category: 'restaurant', metros: ['chicago'], toastUrl: 'https://order.toasttab.com/online/soulandsmoke' },
-  { name: 'Smoke Daddy BBQ - Wrigleyville', slug: 'smokedaddybbq-wrigleyville', category: 'korean', metros: ['chicago'] },
+  { name: 'Smoke Daddy BBQ - Wrigleyville', slug: 'smokedaddybbq-wrigleyville', category: 'korean', metros: ['chicago'], toastUrl: 'https://order.toasttab.com/online/the-smoke-daddy-wrigleyville-3636-north-clark-street', websiteOrderUrl: 'https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js' },
   { name: 'Union', slug: 'union', category: 'restaurant', metros: ['chicago'] },
   { name: 'Fuego Logan Square', slug: 'fuegologansquare', category: 'restaurant', metros: ['chicago'] },
   { name: 'Scofflaw', slug: 'scofflaw', category: 'restaurant', metros: ['chicago'] },

@@ -756,7 +756,11 @@
     "metros": [
       "chicago"
     ],
-    "address": "3636 N Clark St"
+    "address": "3636 N Clark St",
+    "placeId": "ChIJ_a1sKLPTD4gRhT7iW0HjF1Q",
+    "website": "https://www.thesmokedaddy.com/",
+    "toastUrl": "https://order.toasttab.com/online/the-smoke-daddy-wrigleyville-3636-north-clark-street",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Union",
@@ -764,7 +768,9 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ]
+    ],
+    "placeId": "ChIJc2iJr6jTD4gRL6JSc6HYb8Q",
+    "website": "https://www.unionlogansquare.com/"
   },
   {
     "name": "Fuego Logan Square",
@@ -772,7 +778,9 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ]
+    ],
+    "placeId": "ChIJw5tQI9bND4gR_hcDZDe3JeI",
+    "website": "http://www.fuegologansquare.com/"
   },
   {
     "name": "Scofflaw",
@@ -780,7 +788,9 @@
     "category": "restaurant",
     "metros": [
       "chicago"
-    ]
+    ],
+    "placeId": "ChIJYcVJ42fND4gRrlDhumAWX5Q",
+    "website": "https://scofflawchicago.com/"
   },
   {
     "name": "Gretel",
