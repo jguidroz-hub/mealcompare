@@ -1,0 +1,766 @@
+[
+  {
+    "name": "Naked Farmer",
+    "slug": "nakedfarmer",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Ulele",
+    "slug": "ulele",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "OLIVIA",
+    "slug": "olivia",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Ocean Prime",
+    "slug": "oceanprime",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Rocca",
+    "slug": "rocca",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "The Pearl Tampa",
+    "slug": "thepearltampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Oxford Exchange",
+    "slug": "oxfordexchange",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Rusty Pelican Tampa",
+    "slug": "rustypelicantampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Seasons 52",
+    "slug": "seasons52",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Madame Fortune Dessert + HiFi Parlour",
+    "slug": "madamefortunedesserthifiparlour",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Teak",
+    "slug": "teak",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Fresco's Waterfront Bistro",
+    "slug": "frescoswaterfrontbistro",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Parkshore Grill",
+    "slug": "parkshoregrill",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Social Roost",
+    "slug": "socialroost",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Brick & Mortar",
+    "slug": "brickmortar",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Perry's Porch",
+    "slug": "perrysporch",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Elliott Aster",
+    "slug": "elliottaster",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "The Library - inspired by the George Peabody Library",
+    "slug": "thelibrary-inspiredbythegeorgepeabodylib",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Pepe's Cantina St. Petersburg",
+    "slug": "pepescantinastpetersburg",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Doc Ford's Rum Bar and Grille St Pete Pier",
+    "slug": "docfordsrumbarandgrillestpetepier",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Flan Factory - Ybor",
+    "slug": "flanfactory-ybor",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "La Teresita Restaurant",
+    "slug": "lateresitarestaurant",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Soul de Cuba Cafe",
+    "slug": "souldecubacafe",
+    "category": "cafe",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Columbia Restaurant",
+    "slug": "columbiarestaurant",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Box of Cubans",
+    "slug": "boxofcubans",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "A lo cubanisimo",
+    "slug": "alocubanisimo",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Pipo's Restaurant",
+    "slug": "piposrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "El Cubano",
+    "slug": "elcubano",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Columbia Restaurant Sand Key",
+    "slug": "columbiarestaurantsandkey",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "West Tampa Sandwich Shop",
+    "slug": "westtampasandwichshop",
+    "category": "deli",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Bulla Gastrobar Tampa",
+    "slug": "bullagastrobartampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Babushka's - Hyde Park",
+    "slug": "babushkas-hydepark",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Armature Works",
+    "slug": "armatureworks",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "On Swann",
+    "slug": "onswann",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Timpano Hyde Park",
+    "slug": "timpanohydepark",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Ro Hyde Park",
+    "slug": "rohydepark",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Bern's Steak House",
+    "slug": "bernssteakhouse",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Green Lemon",
+    "slug": "greenlemon",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Salt Shack On The Bay",
+    "slug": "saltshackonthebay",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Oystercatchers",
+    "slug": "oystercatchers",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Eddie V's Prime Seafood",
+    "slug": "eddievsprimeseafood",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Hula Bay Club",
+    "slug": "hulabayclub",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Harpoon Harry's Crab House - Tampa",
+    "slug": "harpoonharryscrabhouse-tampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Bahama Breeze",
+    "slug": "bahamabreeze",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "DUMMY CRABBY",
+    "slug": "dummycrabby",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Big Ray's Fish Camp",
+    "slug": "bigraysfishcamp",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ]
+  },
+  {
+    "name": "Bavaro's Pizza Napoletana & Pastaria Tampa",
+    "slug": "bavarospizzanapoletanapastariatampa",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bavaros-pos-tampa"
+  },
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cappys"
+  },
+  {
+    "name": "Reziero's NY Pizza",
+    "slug": "rezierosnypizza",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rezieros"
+  },
+  {
+    "name": "Marina's Pizza & Pasta Westchase",
+    "slug": "marinaspizzapastawestchase",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/marinas-pizza"
+  },
+  {
+    "name": "Gourmet Pizza Company",
+    "slug": "gourmetpizzacompany",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gourmetpizzaco"
+  },
+  {
+    "name": "3 Corners Pizza - Water Street",
+    "slug": "3cornerspizza-waterstreet",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/3cornerspizza"
+  },
+  {
+    "name": "Florish South Tampa",
+    "slug": "florishsouthtampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/florish-southtampa"
+  },
+  {
+    "name": "The Brass Tap Tampa FL (Carrollwood) FSC #016",
+    "slug": "thebrasstaptampaflcarrollwoodfsc016",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/brass-tap-carrollwood"
+  },
+  {
+    "name": "GiGi's Pizzeria 1346 Tampa Rd",
+    "slug": "gigispizzeria1346tampard",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gigis-pizzeria"
+  },
+  {
+    "name": "New York New York Pizza",
+    "slug": "newyorknewyorkpizza",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/new-york-new-york-ybor-city"
+  },
+  {
+    "name": "Sunda - Tampa 3648 Midtown Dr",
+    "slug": "sunda-tampa3648midtowndr",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sunda-tampa-3648-midtown-dr"
+  },
+  {
+    "name": "Online Ordering for Restaurants with No Commissions",
+    "slug": "onlineorderingforrestaurantswithnocommis",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/11517/locations"
+  },
+  {
+    "name": "El Churrascaso Grill Tampa Food Truck 8603 N Dale ...",
+    "slug": "elchurrascasogrilltampafoodtruck8603ndal",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/el-churrascaso-grill-tampa-food-truck-8603-n-dale-mabry-hwy"
+  },
+  {
+    "name": "Florida Avenue Brewing Co. Tampa",
+    "slug": "floridaavenuebrewingcotampa",
+    "category": "wings",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/floridaavenuetampa"
+  },
+  {
+    "name": "Meat Market Tampa 1606 West Snow Avenue",
+    "slug": "meatmarkettampa1606westsnowavenue",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/meat-market-tampa-1606-west-snow-avenue"
+  },
+  {
+    "name": "Le Peep Tampa",
+    "slug": "lepeeptampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/le-peep-tampa"
+  },
+  {
+    "name": "Vale Food Co. Tampa",
+    "slug": "valefoodcotampa",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/vale-food-co-tampa-501-n-franklin-st"
+  },
+  {
+    "name": "Don Julios- Tampa Palms Authentic Mexican Cuisine",
+    "slug": "donjulios-tampapalmsauthenticmexicancuis",
+    "category": "mexican",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/don-julios-tampa-palms-16023-tampa-palms-blvd-w"
+  },
+  {
+    "name": "Barrio Tampa, FL",
+    "slug": "barriotampafl",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/barrio-tampa-fl"
+  },
+  {
+    "name": "El Churrascaso Grill Tampa 8425 W Hillsborough Ave",
+    "slug": "elchurrascasogrilltampa8425whillsborough",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/el-churrascaso-grill-tampa-8425-w-hillsborough-ave"
+  },
+  {
+    "name": "Cao Bakery and Cafe #13 Tampa",
+    "slug": "caobakeryandcafe13tampa",
+    "category": "cafe",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cao-bakery-tampa-7616-w-hillsborough-avenue"
+  },
+  {
+    "name": "Cao Bakery and Cafe #16 - Flatwoods Tampa",
+    "slug": "caobakeryandcafe16-flatwoodstampa",
+    "category": "cafe",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cao-bakery-flatwoods-tampa-17519-bruce-b-downs"
+  },
+  {
+    "name": "Moxies Cafe",
+    "slug": "moxiescafe",
+    "category": "cafe",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/moxiescafe"
+  },
+  {
+    "name": "Beef 'O' Brady's Tampa FL (Palma Ceia/MacDill) #009",
+    "slug": "beefobradystampaflpalmaceiamacdill009",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/beef-o-bradys-tampa-palma-ceia-fl-009"
+  },
+  {
+    "name": "Beef 'O' Brady's Tampa FL (North Dale) #006",
+    "slug": "beefobradystampaflnorthdale006",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/beef-o-bradys-tampa-northdale-fl-006"
+  },
+  {
+    "name": "Beef 'O' Brady's Tampa FL (Forest Hills/Busch & Himes) #059",
+    "slug": "beefobradystampaflforesthillsbuschhimes0",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/beef-o-bradys-tampa-forest-hills-fl-059"
+  },
+  {
+    "name": "Bavaro's Pizza Napoletana & Pastaria St. Pete",
+    "slug": "bavarospizzanapoletanapastariastpete",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bavaros-pos-st-pete"
+  },
+  {
+    "name": "Paisano's Pizza 'n Pasta 6000 4th St N",
+    "slug": "paisanospizzanpasta60004thstn",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/paisanos-pizzeria-st-pete-6000-4th-st-n"
+  },
+  {
+    "name": "Cassis St. Pete",
+    "slug": "cassisstpete",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cassis-st-pete"
+  },
+  {
+    "name": "CJs Backstage 7022 22nd Ave N, St. Petersburg, FL 33710",
+    "slug": "cjsbackstage702222ndavenstpetersburgfl33",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cjs-backstage-7022-22nd-ave-n-st-petersburg-fl-33710"
+  },
+  {
+    "name": "Taylor Sam's St. Petersburg",
+    "slug": "taylorsamsstpetersburg",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/taylorsamsdtsp"
+  },
+  {
+    "name": "Sonic Sports Bar 400 49th St S",
+    "slug": "sonicsportsbar40049thsts",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tacosmylove"
+  },
+  {
+    "name": "Pizza District 6919 SW 18th St #101",
+    "slug": "pizzadistrict6919sw18thst101",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizzadistrict"
+  },
+  {
+    "name": "Beef 'O' Brady's St Petersburg FL (34th St) #137",
+    "slug": "beefobradysstpetersburgfl34thst137",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/beef-o-bradys-st-petersburg-fl-137"
+  },
+  {
+    "name": "Pizza on Pearl 617 Pearl St",
+    "slug": "pizzaonpearl617pearlst",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizza-on-pearl-617-pearl-st"
+  },
+  {
+    "name": "your pizza shop 1200 8th Ave SW",
+    "slug": "yourpizzashop12008thavesw",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/your-pizza-shop-1200-8th-ave-sw-2nd"
+  },
+  {
+    "name": "Pete's Pizza & Taphouse",
+    "slug": "petespizzataphouse",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/petes-pizza"
+  },
+  {
+    "name": "The Pizza Box located today at Wheathead Brewing Co.",
+    "slug": "thepizzaboxlocatedtodayatwheatheadbrewin",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thepizzabox509"
+  },
+  {
+    "name": "Hey Now Pizza 607 Main St",
+    "slug": "heynowpizza607mainst",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/heynowpizza"
+  },
+  {
+    "name": "Pesci's Buffalo Pizza & Wings 8065 Main Street",
+    "slug": "pescisbuffalopizzawings8065mainstreet",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pescis-pizza-8065-main-st"
+  },
+  {
+    "name": "Peppino's Pizza & Subs 610 Main St",
+    "slug": "peppinospizzasubs610mainst",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/peppinos-pizza-subs-610-main-st"
+  },
+  {
+    "name": "Prince Street Pizza & Pub 123 E Prince St",
+    "slug": "princestreetpizzapub123eprincest",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/prince"
+  },
+  {
+    "name": "Setti's Pizza & More",
+    "slug": "settispizzamore",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/settis"
+  },
+  {
+    "name": "Pop's Pizza And Pasta 1620 S 312TH ST #D",
+    "slug": "popspizzaandpasta1620s312thstd",
+    "category": "pizza",
+    "metros": [
+      "tampa"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/popspizza"
+  }
+]

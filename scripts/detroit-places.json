@@ -1,0 +1,876 @@
+[
+  {
+    "name": "Grey Ghost Detroit",
+    "slug": "greyghostdetroit",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Experience Zuzu",
+    "slug": "experiencezuzu",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Selden Standard",
+    "slug": "seldenstandard",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Sexy Steak",
+    "slug": "sexysteak",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "ADELINA",
+    "slug": "adelina",
+    "category": "deli",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Mad Nice",
+    "slug": "madnice",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "The Whitney",
+    "slug": "thewhitney",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Parc",
+    "slug": "parc",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Mabel Gray",
+    "slug": "mabelgray",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Fixins Soul Kitchen",
+    "slug": "fixinssoulkitchen",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Cork & Gabel",
+    "slug": "corkgabel",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Ottava Via",
+    "slug": "ottavavia",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Supergeil",
+    "slug": "supergeil",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Ima Izakaya",
+    "slug": "imaizakaya",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Mudgie's Deli and Wine Shop",
+    "slug": "mudgiesdeliandwineshop",
+    "category": "deli",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Alpino Detroit",
+    "slug": "alpinodetroit",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Takoi",
+    "slug": "takoi",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Batch Brewing Company",
+    "slug": "batchbrewingcompany",
+    "category": "wings",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Hamilton's Restaurant",
+    "slug": "hamiltonsrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Midtown Social Kitchen and Bar",
+    "slug": "midtownsocialkitchenandbar",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Vecino",
+    "slug": "vecino",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Chartreuse Kitchen & Cocktails",
+    "slug": "chartreusekitchencocktails",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Freya",
+    "slug": "freya",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Baobab Fare",
+    "slug": "baobabfare",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Blind Owl Royal Oak",
+    "slug": "blindowlroyaloak",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "beppé",
+    "slug": "bepp",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Blue Goat",
+    "slug": "bluegoat",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Royal Eats Brunch & Dinner",
+    "slug": "royaleatsbrunchdinner",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Tom's Oyster Bar",
+    "slug": "tomsoysterbar",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Vinsetta Garage",
+    "slug": "vinsettagarage",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Lily's Seafood Grill & Brewery",
+    "slug": "lilysseafoodgrillbrewery",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Jim Brady's Royal Oak",
+    "slug": "jimbradysroyaloak",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Alchemi",
+    "slug": "alchemi",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "D'Amato's Restaurant",
+    "slug": "damatosrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "One-Eyed Betty's",
+    "slug": "one-eyedbettys",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "BARREL HOUSE",
+    "slug": "barrelhouse",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Imperial",
+    "slug": "imperial",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Syndicate Ferndale",
+    "slug": "syndicateferndale",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Pop's For Italian",
+    "slug": "popsforitalian",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Nine Kitchen + Bar",
+    "slug": "ninekitchenbar",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Howe's Bayou",
+    "slug": "howesbayou",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "The Corner Grill, Bar + Game Room",
+    "slug": "thecornergrillbargameroom",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Ferndale Project",
+    "slug": "ferndaleproject",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Anita's Kitchen - Ferndale",
+    "slug": "anitaskitchen-ferndale",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Mootz Pizzeria + Bar",
+    "slug": "mootzpizzeriabar",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Michigan & Trumbull",
+    "slug": "michigantrumbull",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Grandma Bob's Pizza",
+    "slug": "grandmabobspizza",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Loui's Pizza",
+    "slug": "louispizza",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Pie Sci Pizza | Detroit",
+    "slug": "piescipizzadetroit",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Buddy's Pizza",
+    "slug": "buddyspizza",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Sicily's pizzeria and subs",
+    "slug": "sicilyspizzeriaandsubs",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "La Lanterna",
+    "slug": "lalanterna",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Pizza Joint",
+    "slug": "pizzajoint",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ]
+  },
+  {
+    "name": "Hygrade Deli Michigan Ave",
+    "slug": "hygradedelimichiganave",
+    "category": "deli",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hygrade-deli-3640-michigan-avenue"
+  },
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/yum-village-new-center-6500-woodward-ave"
+  },
+  {
+    "name": "Coneytown, Gyroland Food Court",
+    "slug": "coneytowngyrolandfoodcourt",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/coneytown-gyroland-fishcity-new-200-renaissance-center-suite-3145-aqbed"
+  },
+  {
+    "name": "Green Dot Stables - Detroit",
+    "slug": "greendotstables-detroit",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gdsdetroit"
+  },
+  {
+    "name": "Anita's Kitchen Detroit",
+    "slug": "anitaskitchendetroit",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/aktakeaway"
+  },
+  {
+    "name": "Detroit Street Filling Station",
+    "slug": "detroitstreetfillingstation",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/detroit-street-filling-station"
+  },
+  {
+    "name": "FUEL'D FOOD - Ann Arbor",
+    "slug": "fueldfood-annarbor",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fuel-d-food-expansion-2-980-w-eisenhower-pkwy"
+  },
+  {
+    "name": "Middle Eats Detroit",
+    "slug": "middleeatsdetroit",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/middleeatsdetroit"
+  },
+  {
+    "name": "One Mike Detroit 1331 Broadway Street",
+    "slug": "onemikedetroit1331broadwaystreet",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/one-mike-detroit-1331-broadway-street"
+  },
+  {
+    "name": "SoDOUGH SQUARE - (SOUTH DOWNTOWN) MICHIGAN ...",
+    "slug": "sodoughsquare-southdowntownmichigan",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sodough-square-419-e-michigan-st-suite-3"
+  },
+  {
+    "name": "Detroit Style Pizza Co. Saint Clair Shores, MI",
+    "slug": "detroitstylepizzacosaintclairshoresmi",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/detroit-style-pizza-co"
+  },
+  {
+    "name": "Urban Soul",
+    "slug": "urbansoul",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/locations/00f2eaa8-77a3-47af-a553-177a6f38ee29/default"
+  },
+  {
+    "name": "The Congregation Detroit 9321 Rosa Parks Blvd.",
+    "slug": "thecongregationdetroit9321rosaparksblvd",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thecongregationdetroit"
+  },
+  {
+    "name": "Detroit Fish House",
+    "slug": "detroitfishhouse",
+    "category": "seafood",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/detroit-fish-house"
+  },
+  {
+    "name": "Hudson Cafe Detroit 1241 Woodward",
+    "slug": "hudsoncafedetroit1241woodward",
+    "category": "cafe",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hudson-cafe-detroit-1241-woodward-ozdqg"
+  },
+  {
+    "name": "Detroit Perk Coffee",
+    "slug": "detroitperkcoffee",
+    "category": "cafe",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/detroit-perk-22722-ford-rd"
+  },
+  {
+    "name": "Frita Detroit! 66 West Columbia Street",
+    "slug": "fritadetroit66westcolumbiastreet",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/frita-batidos-detroit"
+  },
+  {
+    "name": "Hudson Cafe Northville",
+    "slug": "hudsoncafenorthville",
+    "category": "cafe",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hudson-cafe"
+  },
+  {
+    "name": "Just Love Coffee & Cafe Shelby Township",
+    "slug": "justlovecoffeecafeshelbytownship",
+    "category": "cafe",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/just-love-coffee-detroit"
+  },
+  {
+    "name": "Grandma Bob's Pizza 2135 Michigan Avenue",
+    "slug": "grandmabobspizza2135michiganavenue",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/grandma-bobs-pizza-2135-michigan-avenue"
+  },
+  {
+    "name": "Belle Isle Pizza",
+    "slug": "belleislepizza",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/belle-isle-pizza"
+  },
+  {
+    "name": "Pie Sci Pizza",
+    "slug": "piescipizza",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pie-sci-2-8150-w-nine-mile-rd"
+  },
+  {
+    "name": "Detroit Pizza Depot 6219 Franklin Avenue",
+    "slug": "detroitpizzadepot6219franklinavenue",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/detroit-pizza-depot-hollywood"
+  },
+  {
+    "name": "They Say Detroit",
+    "slug": "theysaydetroit",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/they-say-detroit-267-joseph-campau-avenue"
+  },
+  {
+    "name": "Toni's Detroit Style Pizza",
+    "slug": "tonisdetroitstylepizza",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tonispizza"
+  },
+  {
+    "name": "Town Hall Pizza",
+    "slug": "townhallpizza",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/town-hall-pizza"
+  },
+  {
+    "name": "Sick Pizza Company 33 N Washington",
+    "slug": "sickpizzacompany33nwashington",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sick-pizza-company-33-n-washington"
+  },
+  {
+    "name": "Pizza Cat Oak Park",
+    "slug": "pizzacatoakpark",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizza-cat-oak-park-25298-greenfield-road"
+  },
+  {
+    "name": "Pizza by Robert | 440-899-9750",
+    "slug": "pizzabyrobert440-899-9750",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizza-by-robert-30634-detroit-rd"
+  },
+  {
+    "name": "TNT Pizza 550 14th Street #116",
+    "slug": "tntpizza55014thstreet116",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tnt-pizza-550-14th-street-116"
+  },
+  {
+    "name": "Gold Tooth Tony's Detroit Pizza - Heights",
+    "slug": "goldtoothtonysdetroitpizza-heights",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/goldtoothtonys"
+  },
+  {
+    "name": "Descendant Detroit Style Pizza Prudential",
+    "slug": "descendantdetroitstylepizzaprudential",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/descendant-pizza-800-boylston-st"
+  },
+  {
+    "name": "Gyrosa Saanich - Royal Oak",
+    "slug": "gyrosasaanich-royaloak",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gyrosa-saanich"
+  },
+  {
+    "name": "Oak Park Social",
+    "slug": "oakparksocial",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/oakparksocial"
+  },
+  {
+    "name": "Oak Bistro 1287 Cambridge Street",
+    "slug": "oakbistro1287cambridgestreet",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/oak-bistro-1287-cambridge-street"
+  },
+  {
+    "name": "Royal Restaurant",
+    "slug": "royalrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/royal-restaurant"
+  },
+  {
+    "name": "Scarlet Oak/Side Door Pizza",
+    "slug": "scarletoaksidedoorpizza",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/stepintothesidedoor"
+  },
+  {
+    "name": "Publican Quality Bread -Oak Park",
+    "slug": "publicanqualitybread-oakpark",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/publican-quality-bread-oak-park"
+  },
+  {
+    "name": "Original American Kitchen (OAK)",
+    "slug": "originalamericankitchenoak",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/original-american-kitchen"
+  },
+  {
+    "name": "Live Oak Cafe",
+    "slug": "liveoakcafe",
+    "category": "cafe",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/live-oak-cafe"
+  },
+  {
+    "name": "Alice & Friends - Oak Park",
+    "slug": "alicefriends-oakpark",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/account-alice-friends-oak-park"
+  },
+  {
+    "name": "Lookout Tavern - Oak Bluffs",
+    "slug": "lookouttavern-oakbluffs",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lookout-tavern"
+  },
+  {
+    "name": "Post Oak BBQ 1 - Tennyson Street",
+    "slug": "postoakbbq1-tennysonstreet",
+    "category": "bbq",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/postoakbbq"
+  },
+  {
+    "name": "Oak's Korean Kitchen",
+    "slug": "oakskoreankitchen",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/oaks"
+  },
+  {
+    "name": "Oak Diner 1400 North Campbell Road",
+    "slug": "oakdiner1400northcampbellroad",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/oak-diner-1400-north-campbell-road"
+  },
+  {
+    "name": "Red Oak Cafe League City",
+    "slug": "redoakcafeleaguecity",
+    "category": "cafe",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/red-oak-cafe-league-city"
+  },
+  {
+    "name": "Oak Street Cafe 926 Oak St",
+    "slug": "oakstreetcafe926oakst",
+    "category": "cafe",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/oak-st-cafe-926-oak-st"
+  },
+  {
+    "name": "CAFE 1908 7 West Preston St",
+    "slug": "cafe19087westprestonst",
+    "category": "cafe",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe1908"
+  },
+  {
+    "name": "Oak + Bean 100 W Washing st",
+    "slug": "oakbean100wwashingst",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/oak-bean-100-w-washing-st"
+  },
+  {
+    "name": "Piki's Cafe & Torta Shop 111 Main St.",
+    "slug": "pikiscafetortashop111mainst",
+    "category": "cafe",
+    "metros": [
+      "detroit"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pikiscafe"
+  }
+]

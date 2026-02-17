@@ -1,0 +1,663 @@
+[
+  {
+    "name": "Spoon and Stable",
+    "slug": "spoonandstable",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Martina",
+    "slug": "martina",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Maison Margaux",
+    "slug": "maisonmargaux",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Butcher & The Boar",
+    "slug": "butchertheboar",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Bar La Grassa",
+    "slug": "barlagrassa",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Alma",
+    "slug": "alma",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Bûcheron",
+    "slug": "bcheron",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "The Butcher's Tale",
+    "slug": "thebutcherstale",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Demi",
+    "slug": "demi",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Lumi Restaurant",
+    "slug": "lumirestaurant",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Black Duck Spirits & Hearth",
+    "slug": "blackduckspiritshearth",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Diane's Place",
+    "slug": "dianesplace",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Stanley's Northeast Bar Room",
+    "slug": "stanleysnortheastbarroom",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Aster Cafe",
+    "slug": "astercafe",
+    "category": "cafe",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Hai Hai",
+    "slug": "haihai",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Hazel's Northeast",
+    "slug": "hazelsnortheast",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Steele & Hops",
+    "slug": "steelehops",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Twin Cities 400 Tavern",
+    "slug": "twincities400tavern",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Smack Shack",
+    "slug": "smackshack",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "The Breakfast Club MPLS",
+    "slug": "thebreakfastclubmpls",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Lake & Irving Restaurant & Bar",
+    "slug": "lakeirvingrestaurantbar",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Barbette",
+    "slug": "barbette",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Khâluna",
+    "slug": "khluna",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Nightingale",
+    "slug": "nightingale",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Waterbury Restaurant",
+    "slug": "waterburyrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "World Street Kitchen",
+    "slug": "worldstreetkitchen",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Estelle",
+    "slug": "estelle",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "The High Hat",
+    "slug": "thehighhat",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Red Rabbit St. Paul",
+    "slug": "redrabbitstpaul",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Moscow on the Hill",
+    "slug": "moscowonthehill",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Gus Gus",
+    "slug": "gusgus",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Red Cow St. Paul",
+    "slug": "redcowstpaul",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Tongue in Cheek",
+    "slug": "tongueincheek",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Holman's Table",
+    "slug": "holmanstable",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "DeGidio's Restaurant & Bar, St. Paul",
+    "slug": "degidiosrestaurantbarstpaul",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Hen House Eatery",
+    "slug": "henhouseeatery",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Wise Acre Eatery",
+    "slug": "wiseacreeatery",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Heather's",
+    "slug": "heathers",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "NOLO's Kitchen & Bar",
+    "slug": "noloskitchenbar",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Lake and Bryant Cafe",
+    "slug": "lakeandbryantcafe",
+    "category": "cafe",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "French Meadow Cafe & Bluestem Bar",
+    "slug": "frenchmeadowcafebluestembar",
+    "category": "cafe",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "My Huong Kitchen",
+    "slug": "myhuongkitchen",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Quang Restaurant",
+    "slug": "quangrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Savouré Vietnamese Eatery",
+    "slug": "savourvietnameseeatery",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Khue's Kitchen",
+    "slug": "khueskitchen",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Que Viet Village House",
+    "slug": "quevietvillagehouse",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Mi-Sant Kitchen & Bakery",
+    "slug": "mi-santkitchenbakery",
+    "category": "cafe",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Thanh Luong Vegetarian",
+    "slug": "thanhluongvegetarian",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "eM Que Viet Restaurant and Bar",
+    "slug": "emquevietrestaurantandbar",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Lotus Restaurant",
+    "slug": "lotusrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ]
+  },
+  {
+    "name": "Franklin Pizza Minneapolis",
+    "slug": "franklinpizzaminneapolis",
+    "category": "pizza",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/franklin-pizza-minneapolis"
+  },
+  {
+    "name": "Black Sheep Coal Fired Pizza - North Loop",
+    "slug": "blacksheepcoalfiredpizza-northloop",
+    "category": "pizza",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/black-sheep-pizza-600-washington-ave-n-ste-b101"
+  },
+  {
+    "name": "Broadway Pizza (Eagles Nest Lounge) 4106 Lakeland Ave N",
+    "slug": "broadwaypizzaeaglesnestlounge4106lakelan",
+    "category": "pizza",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/broadway-pizza-eagles-nest-lounge-4106-lakeland-ave-n"
+  },
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bricksworth-brewing-co-north-loop"
+  },
+  {
+    "name": "Uptown Pizza 323 West Lake Street",
+    "slug": "uptownpizza323westlakestreet",
+    "category": "pizza",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uptown-pizza-323-west-lake-street"
+  },
+  {
+    "name": "Bryn Mawr Pizza & Deli 404 Cedar Lake Rd S",
+    "slug": "brynmawrpizzadeli404cedarlakerds",
+    "category": "pizza",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bryn-mawr-pizza-deli-404-cedar-lake-rd-s"
+  },
+  {
+    "name": "Red Wagon Pizza Co 5416 Penn Ave S",
+    "slug": "redwagonpizzaco5416pennaves",
+    "category": "pizza",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/redwagon"
+  },
+  {
+    "name": "Day Block Brewing Company Minneapolis",
+    "slug": "dayblockbrewingcompanyminneapolis",
+    "category": "wings",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/day-block-brewing-company"
+  },
+  {
+    "name": "North Mr. Pizza",
+    "slug": "northmrpizza",
+    "category": "pizza",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mrpizzanorth"
+  },
+  {
+    "name": "Olive's Fresh Pizza Bar Edina",
+    "slug": "olivesfreshpizzabaredina",
+    "category": "pizza",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/olivesfreshedina"
+  },
+  {
+    "name": "Pi Wood-Fired Pizza",
+    "slug": "piwood-firedpizza",
+    "category": "pizza",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pipizza"
+  },
+  {
+    "name": "Pizza Man Anoka",
+    "slug": "pizzamananoka",
+    "category": "pizza",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizza-man-anoka"
+  },
+  {
+    "name": "Miners Pizza Co 121 E 1st St",
+    "slug": "minerspizzaco121e1stst",
+    "category": "pizza",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/minerspizzaco"
+  },
+  {
+    "name": "Michaels Pizza",
+    "slug": "michaelspizza",
+    "category": "pizza",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/michaels-pizza"
+  },
+  {
+    "name": "Milano's Pizza 215 North 17th Street",
+    "slug": "milanospizza215north17thstreet",
+    "category": "pizza",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/milanos-pizza"
+  },
+  {
+    "name": "Afro Deli & Grill St. Paul",
+    "slug": "afrodeligrillstpaul",
+    "category": "deli",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/afrodeli-stpaul"
+  },
+  {
+    "name": "Yumi Saint Paul",
+    "slug": "yumisaintpaul",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/yumi-st-paul"
+  },
+  {
+    "name": "Dilla Sports Bar & Restaurant Saint Paul, MN",
+    "slug": "dillasportsbarrestaurantsaintpaulmn",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dilla-sports-bar-1625-university-ave-w"
+  },
+  {
+    "name": "St Paul Bagelry",
+    "slug": "stpaulbagelry",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/st-paul-bagelry-st-paul-1702-lexington-ave-n"
+  },
+  {
+    "name": "Red Rabbit RR St. Paul",
+    "slug": "redrabbitrrstpaul",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/redrabbitsp"
+  },
+  {
+    "name": "St Paul Bagelry Minneapolis - Order Online",
+    "slug": "stpaulbagelryminneapolis-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/st-paul-bagelry-mpls-5426-nicollet-ave-south"
+  },
+  {
+    "name": "Parlour St Paul",
+    "slug": "parlourstpaul",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/parlour-st-paul-267-w-7th-street"
+  },
+  {
+    "name": "St. Paul Tap",
+    "slug": "stpaultap",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/st-paul-tap"
+  },
+  {
+    "name": "Lost Fox 213 4th St E #100, St Paul, MN 55101",
+    "slug": "lostfox2134thste100stpaulmn55101",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lost-fox-213-4th-st-e-100-st-paul-mn-55101"
+  },
+  {
+    "name": "Cafe Latte",
+    "slug": "cafelatte",
+    "category": "cafe",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-latte-850-grand-ave"
+  },
+  {
+    "name": "Pappy's St. Paul 1783 MARYLAND AVE E",
+    "slug": "pappysstpaul1783marylandavee",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pappys-st-paul-1783-maryland-ave-e"
+  },
+  {
+    "name": "Shish A Mediterranean Grill & Cafe",
+    "slug": "shishamediterraneangrillcafe",
+    "category": "cafe",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/shishongrand"
+  },
+  {
+    "name": "The Buttered Tin Lowertown St. Paul",
+    "slug": "thebutteredtinlowertownstpaul",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-buttered-tin"
+  },
+  {
+    "name": "K's Kitchen and Deli 1515 White Bear Ave N St. Paul, MN ...",
+    "slug": "kskitchenanddeli1515whitebearavenstpaulm",
+    "category": "deli",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/kkitchen"
+  }
+]

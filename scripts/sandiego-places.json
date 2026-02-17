@@ -1,0 +1,890 @@
+[
+  {
+    "name": "Born and Raised",
+    "slug": "bornandraised",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Juniper and Ivy",
+    "slug": "juniperandivy",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Freddy’s Chophouse",
+    "slug": "freddyschophouse",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Wolf In The Woods",
+    "slug": "wolfinthewoods",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "insideOUT",
+    "slug": "insideout",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Buon Appetito Restaurant",
+    "slug": "buonappetitorestaurant",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Herb & Wood",
+    "slug": "herbwood",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "C Level Lounge",
+    "slug": "clevellounge",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "The Fish Market",
+    "slug": "thefishmarket",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "The Lion's Share",
+    "slug": "thelionsshare",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Rustic Root",
+    "slug": "rusticroot",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "La Puerta",
+    "slug": "lapuerta",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Cafe Sevilla of San Diego",
+    "slug": "cafesevillaofsandiego",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Werewolf",
+    "slug": "werewolf",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Osteria Panevino",
+    "slug": "osteriapanevino",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Union Kitchen and Tap Gaslamp",
+    "slug": "unionkitchenandtapgaslamp",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Zama San Diego",
+    "slug": "zamasandiego",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Lou & Mickey's",
+    "slug": "loumickeys",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "The Melt",
+    "slug": "themelt",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "The Smoking Goat",
+    "slug": "thesmokinggoat",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "One Door North",
+    "slug": "onedoornorth",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Cocina de Barrio North Park",
+    "slug": "cocinadebarrionorthpark",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "RustiCucina",
+    "slug": "rusticucina",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Dunedin New Zealand Eats",
+    "slug": "dunedinnewzealandeats",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Carbon Angela’s Kitchen",
+    "slug": "carbonangelaskitchen",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Bacari North Park",
+    "slug": "bacarinorthpark",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Black Radish",
+    "slug": "blackradish",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Flora North Park",
+    "slug": "floranorthpark",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Casa Guadalajara Mexican Restaurant",
+    "slug": "casaguadalajaramexicanrestaurant",
+    "category": "mexican",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Ed Fernandez Restaurant Birrieria",
+    "slug": "edfernandezrestaurantbirrieria",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Tacos El Prieto",
+    "slug": "tacoselprieto",
+    "category": "mexican",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Old Town Mexican Cafe",
+    "slug": "oldtownmexicancafe",
+    "category": "mexican",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Casa de Reyes",
+    "slug": "casadereyes",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "El Agave Restaurant & Tequileria",
+    "slug": "elagaverestauranttequileria",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "La Casa Verde",
+    "slug": "lacasaverde",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Tacos El Gordo",
+    "slug": "tacoselgordo",
+    "category": "mexican",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Mike's Red Tacos - Point Loma",
+    "slug": "mikesredtacos-pointloma",
+    "category": "mexican",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Louisiana Purchase",
+    "slug": "louisianapurchase",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Mitch's Seafood",
+    "slug": "mitchsseafood",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Blue Water Seafood Market & Grill",
+    "slug": "bluewaterseafoodmarketgrill",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Portside Pier",
+    "slug": "portsidepier",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Ironside Fish & Oyster",
+    "slug": "ironsidefishoyster",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Water Grill San Diego",
+    "slug": "watergrillsandiego",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "The Fishery",
+    "slug": "thefishery",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Point Loma Seafoods",
+    "slug": "pointlomaseafoods",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Eddie V's Prime Seafood",
+    "slug": "eddievsprimeseafood",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Brigantine Seafood & Oyster Bar",
+    "slug": "brigantineseafoodoysterbar",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Duke's La Jolla",
+    "slug": "dukeslajolla",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Cove House",
+    "slug": "covehouse",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Georges at the Cove",
+    "slug": "georgesatthecove",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "The Cottage La Jolla",
+    "slug": "thecottagelajolla",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Catania",
+    "slug": "catania",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Puesto La Jolla",
+    "slug": "puestolajolla",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Beeside Balcony La Jolla",
+    "slug": "beesidebalconylajolla",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "NINE-TEN Restaurant & Bar",
+    "slug": "nine-tenrestaurantbar",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "The Marine Room",
+    "slug": "themarineroom",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Brockton Villa",
+    "slug": "brocktonvilla",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Madi",
+    "slug": "madi",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Morning Glory",
+    "slug": "morningglory",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Hash House A Go Go",
+    "slug": "hashhouseagogo",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Benedict's Brunch",
+    "slug": "benedictsbrunch",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Farmer's Bottega",
+    "slug": "farmersbottega",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Mission Valley Breakfast Company",
+    "slug": "missionvalleybreakfastcompany",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Breakfast Republic",
+    "slug": "breakfastrepublic",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Great Maple",
+    "slug": "greatmaple",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Parkhouse Eatery",
+    "slug": "parkhouseeatery",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ]
+  },
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ladonaob"
+  },
+  {
+    "name": "Evolution Fast Food",
+    "slug": "evolutionfastfood",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/evolution-fast-food-2965-5th-ave"
+  },
+  {
+    "name": "BCB Cafe San Diego Airport",
+    "slug": "bcbcafesandiegoairport",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bcb-cafe-san-diego-airport"
+  },
+  {
+    "name": "Toast Cafe San Diego",
+    "slug": "toastcafesandiego",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/toast-cafe-11455-el-camino-real"
+  },
+  {
+    "name": "San Diego Mexican Restaurant",
+    "slug": "sandiegomexicanrestaurant",
+    "category": "mexican",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/san-diego-mexican-restaurant-4959-bill-gardner-pkwy-ste-101"
+  },
+  {
+    "name": "Sombrero Mexican Food #11 - Mission Gorge San Diego",
+    "slug": "sombreromexicanfood11-missiongorgesandie",
+    "category": "mexican",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sombrero-missiongorge"
+  },
+  {
+    "name": "Bullpen Bar and Grill San Diego",
+    "slug": "bullpenbarandgrillsandiego",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bullpen-bar-and-grill-san-diego-8199-clairemont-mesa-blvd"
+  },
+  {
+    "name": "Phoenix Dessert San Diego",
+    "slug": "phoenixdessertsandiego",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/phoenixdessertsd"
+  },
+  {
+    "name": "The Counter SAN",
+    "slug": "thecountersan",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/high-flying-foods-counter"
+  },
+  {
+    "name": "Karl Strauss Brewing Company Downtown San Diego",
+    "slug": "karlstraussbrewingcompanydowntownsandieg",
+    "category": "wings",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ksdt"
+  },
+  {
+    "name": "Cafe Coyote San Diego",
+    "slug": "cafecoyotesandiego",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-coyote-2461-san-diego-ave"
+  },
+  {
+    "name": "Sabor Brazilian Grill San Diego",
+    "slug": "saborbraziliangrillsandiego",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/eatsabor-sandiego"
+  },
+  {
+    "name": "King and Queen Cantina San Diego",
+    "slug": "kingandqueencantinasandiego",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/king-and-queen-cantina"
+  },
+  {
+    "name": "Sombrero Mexican Food #14-Rio Vista San Diego",
+    "slug": "sombreromexicanfood14-riovistasandiego",
+    "category": "mexican",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sombrero-missionvalley"
+  },
+  {
+    "name": "Old Town Mexican Cafe 2489 San Diego Ave.",
+    "slug": "oldtownmexicancafe2489sandiegoave",
+    "category": "mexican",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/old-town-mexican-cafe-2489-san-diego-ave"
+  },
+  {
+    "name": "Home & Away San Diego Ave",
+    "slug": "homeawaysandiegoave",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/home-away-sd"
+  },
+  {
+    "name": "Aladdin Cafe 5420 Clairemont Mesa Blvd",
+    "slug": "aladdincafe5420clairemontmesablvd",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/aladdin-cafe-san-diego-5420-clairemont-mesa-blvd"
+  },
+  {
+    "name": "Asa Bakery Cafe East Village, San Diego",
+    "slug": "asabakerycafeeastvillagesandiego",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sushi-gaga-634-14th-street-109-110"
+  },
+  {
+    "name": "San Diego Boba Tea Cafe National City",
+    "slug": "sandiegobobateacafenationalcity",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sdbobatea"
+  },
+  {
+    "name": "One La Jolla Center Banyan Kitchen Cafe & Catering",
+    "slug": "onelajollacenterbanyankitchencafecaterin",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/banyan-kitchen-catering-4655-executive-drive-san-diego-ca"
+  },
+  {
+    "name": "Nutmeg Bakery & Cafe Sabre Springs #1",
+    "slug": "nutmegbakerycafesabresprings1",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/nutmeg-bakery-cafe-sabre-springs-parkway"
+  },
+  {
+    "name": "BCB Cafe SDSU Huaxyacac",
+    "slug": "bcbcafesdsuhuaxyacac",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bcb-cafe-sdsu-48"
+  },
+  {
+    "name": "Cafe Sevilla of San Diego, Inc. Cafe ... - Order Online",
+    "slug": "cafesevillaofsandiegoinccafe-orderonline",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-sevilla-san-diego"
+  },
+  {
+    "name": "BCB Cafe North Park",
+    "slug": "bcbcafenorthpark",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bcb-cafe-north-park"
+  },
+  {
+    "name": "Welcome to Big City Bagels (BCB Cafe)",
+    "slug": "welcometobigcitybagelsbcbcafe",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bcb-cafe-hillcrest"
+  },
+  {
+    "name": "The Living Room Rancho Rancho San Diego",
+    "slug": "thelivingroomranchoranchosandiego",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/livingroomrsd"
+  },
+  {
+    "name": "Square Pizza Co Pacific Beach",
+    "slug": "squarepizzacopacificbeach",
+    "category": "pizza",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/square-pizza-co-4508-cass-st-ste-c-san-diego-ca"
+  },
+  {
+    "name": "TNT Pizza 550 14th Street #116",
+    "slug": "tntpizza55014thstreet116",
+    "category": "pizza",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tnt-pizza-550-14th-street-116"
+  },
+  {
+    "name": "Pizza On 5th 734 5th Ave",
+    "slug": "pizzaon5th7345thave",
+    "category": "pizza",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizza-on-5th-734-5th-ave"
+  },
+  {
+    "name": "Prince Street Pizza - San Diego 415 Market Street",
+    "slug": "princestreetpizza-sandiego415marketstree",
+    "category": "pizza",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/princestsandiego"
+  },
+  {
+    "name": "Pizza Bella 2707 CONGRESS ST 1P",
+    "slug": "pizzabella2707congressst1p",
+    "category": "pizza",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizza-bella-2707-congress-st-1p"
+  },
+  {
+    "name": "Concepto Pizza Co. 342 Euclid Ave #404",
+    "slug": "conceptopizzaco342euclidave404",
+    "category": "pizza",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/conceptopizza"
+  },
+  {
+    "name": "Rockets Pizza and Subs 5151 Waring Rd",
+    "slug": "rocketspizzaandsubs5151waringrd",
+    "category": "pizza",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rocketspizzaandsubs"
+  },
+  {
+    "name": "Seaside Pizza Co. 4263 Mission Blvd",
+    "slug": "seasidepizzaco4263missionblvd",
+    "category": "pizza",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/seaside-pizza-co-4263-mission-blvd"
+  },
+  {
+    "name": "THE SHOP: PIZZA + COCKTAILS Rancho Bernardo",
+    "slug": "theshoppizzacocktailsranchobernardo",
+    "category": "pizza",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-shop"
+  },
+  {
+    "name": "The Pizza Taproom",
+    "slug": "thepizzataproom",
+    "category": "pizza",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thepizzataproom"
+  },
+  {
+    "name": "North Park Beer Co - Pizza Shop",
+    "slug": "northparkbeerco-pizzashop",
+    "category": "pizza",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/north-park-beer-company-pacific-beach"
+  },
+  {
+    "name": "Gnarly Girl Pizza",
+    "slug": "gnarlygirlpizza",
+    "category": "pizza",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gnarlygirlpizza"
+  },
+  {
+    "name": "SandBox Pizza - Pacific Beach",
+    "slug": "sandboxpizza-pacificbeach",
+    "category": "pizza",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sandbox-pizza-pacific-beach"
+  },
+  {
+    "name": "Prince Street Pizza - Pacific Beach 4505 Mission Blvd",
+    "slug": "princestreetpizza-pacificbeach4505missio",
+    "category": "pizza",
+    "metros": [
+      "sandiego"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/prince-street-pizza-pacific-beach-4505-mission-blvd"
+  }
+]

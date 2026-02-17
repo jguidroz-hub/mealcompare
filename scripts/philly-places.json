@@ -778,5 +778,284 @@
       "philly"
     ],
     "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
+  },
+  {
+    "name": "Opera House Chinatown, Philadelphia",
+    "slug": "operahousechinatownphiladelphia",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/operahouse"
+  },
+  {
+    "name": "Old Nelson II Food Co",
+    "slug": "oldnelsoniifoodco",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/oldnelsonii"
+  },
+  {
+    "name": "DJ Casmirri Food Service - PECO",
+    "slug": "djcasmirrifoodservice-peco",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/2301cafe"
+  },
+  {
+    "name": "The Philadelphia Tavern",
+    "slug": "thephiladelphiatavern",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-philadelphia-tavern"
+  },
+  {
+    "name": "Root & Sprig Philadelphia",
+    "slug": "rootsprigphiladelphia",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/1goal-philly"
+  },
+  {
+    "name": "Freebyrd Chicken Philadelphia",
+    "slug": "freebyrdchickenphiladelphia",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/freebyrd-111-south-independence-mall-e"
+  },
+  {
+    "name": "TB3 Food Truck 705 Old Philadelphia Road",
+    "slug": "tb3foodtruck705oldphiladelphiaroad",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tb3-food-truck-705-old-philadelphia-road"
+  },
+  {
+    "name": "Pizza Plus South Philly",
+    "slug": "pizzaplussouthphilly",
+    "category": "pizza",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/key-pizza-grill-1846-s-12th-st"
+  },
+  {
+    "name": "Jim & Nena's Pizza - Phila St. 501 West Philadelphia Street",
+    "slug": "jimnenaspizza-philast501westphiladelphia",
+    "category": "pizza",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/jim-nenas-pizza-phila-st-501-west-philadelphia-street"
+  },
+  {
+    "name": "Joseph's Pizza",
+    "slug": "josephspizza",
+    "category": "pizza",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/josephs-pizza-7945-47-oxford-ave"
+  },
+  {
+    "name": "Pizza Plus West Philly",
+    "slug": "pizzapluswestphilly",
+    "category": "pizza",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizza-plus-university-city-4814-spruce-st"
+  },
+  {
+    "name": "Pietro's Pizza (Philadelphia) 1714 Walnut Street",
+    "slug": "pietrospizzaphiladelphia1714walnutstreet",
+    "category": "pizza",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pietros-pizza-philadelphia-1714-walnut-street"
+  },
+  {
+    "name": "Barra Rossa Ristorante 503 - Philadelphia",
+    "slug": "barrarossaristorante503-philadelphia",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/barra-rosa-929-walnut-street"
+  },
+  {
+    "name": "Top Tomato Bar & Pizza 116 S 11th St",
+    "slug": "toptomatobarpizza116s11thst",
+    "category": "pizza",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/top-tomato-116-s-11th-st"
+  },
+  {
+    "name": "Bruno's Pizza",
+    "slug": "brunospizza",
+    "category": "pizza",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/brunos-pizza"
+  },
+  {
+    "name": "Philly's Pizza 207 Depot Street",
+    "slug": "phillyspizza207depotstreet",
+    "category": "pizza",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/philly-s-pizza-207-depot-street"
+  },
+  {
+    "name": "20th Street Pizza - Order Online",
+    "slug": "20thstreetpizza-orderonline",
+    "category": "pizza",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/20th-street-pizza"
+  },
+  {
+    "name": "Lamberti Pizza & Market",
+    "slug": "lambertipizzamarket",
+    "category": "pizza",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lamberti-pizza-market"
+  },
+  {
+    "name": "Philly Originals",
+    "slug": "phillyoriginals",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/philly-originals-400-3rd-street"
+  },
+  {
+    "name": "South Restaurant & Jazz Club",
+    "slug": "southrestaurantjazzclub",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/southjazzkitchen.com"
+  },
+  {
+    "name": "Philly Flats",
+    "slug": "phillyflats",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/philly-flats"
+  },
+  {
+    "name": "Philly's Phinest",
+    "slug": "phillysphinest",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/phillys-phinest"
+  },
+  {
+    "name": "Abyssinia Bar & Restaurant 229 S 45th St",
+    "slug": "abyssiniabarrestaurant229s45thst",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/abyssinia-bar-restaurant-229-s-45th-st"
+  },
+  {
+    "name": "Go Philly Lakewood",
+    "slug": "gophillylakewood",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/go-philly-lakewood"
+  },
+  {
+    "name": "Laytons Family Restaurant 1601 Philadelphia Ave.",
+    "slug": "laytonsfamilyrestaurant1601philadelphiaa",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/laytons-family-restaurant-1601-philadelphia-ave"
+  },
+  {
+    "name": "Pizza Roma McCandless",
+    "slug": "pizzaromamccandless",
+    "category": "pizza",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizza-roma-pittsburgh-8360-perry-hwy"
+  },
+  {
+    "name": "Pete's Famous Pizza (South Philly) 2942 Wharton Street",
+    "slug": "petesfamouspizzasouthphilly2942whartonst",
+    "category": "pizza",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/petes-famous-pizza-south-philly-2942-wharton-street"
+  },
+  {
+    "name": "Cafe Carmela Philly Philadelphia",
+    "slug": "cafecarmelaphillyphiladelphia",
+    "category": "cafe",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-carmela-2859-holme-ave-philadelphia-pa-19152"
+  },
+  {
+    "name": "Philly Cheesesteaks Berwyn",
+    "slug": "phillycheesesteaksberwyn",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/philly-steaks-and-wings"
+  },
+  {
+    "name": "Palace Pizza - Downtown",
+    "slug": "palacepizza-downtown",
+    "category": "pizza",
+    "metros": [
+      "philly"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/palace-pizza-downtown"
+  },
+  {
+    "name": "Online Ordering for Square on Square Restaurant PA",
+    "slug": "onlineorderingforsquareonsquarerestauran",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/7317/locations/9788"
   }
 ]

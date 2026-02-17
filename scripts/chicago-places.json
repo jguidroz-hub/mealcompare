@@ -1598,5 +1598,428 @@
       "chicago"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/28003/locations"
+  },
+  {
+    "name": "West of Chicago Pizza Company",
+    "slug": "westofchicagopizzacompany",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/west-of-chicago-pizza-company-3770-southwest-alaska-street"
+  },
+  {
+    "name": "The original Chicago pizza and curry - Elk Grove 9308 ...",
+    "slug": "theoriginalchicagopizzaandcurry-elkgrove",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-original-chicago-pizza-and-curry-elk-grove-9308-elk-grove-blvd-100"
+  },
+  {
+    "name": "Chicago Bros Pizzeria 10423 San Diego Mission Rd",
+    "slug": "chicagobrospizzeria10423sandiegomissionr",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/chicago-bros-pizzeria-10423-san-diego-mission-rd"
+  },
+  {
+    "name": "Chicago Pizza and Oven Grinder Co",
+    "slug": "chicagopizzaandovengrinderco",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/chicago-pizza-and-oven-grinder-co-2121-north-clark-street"
+  },
+  {
+    "name": "Angry Gene's Pizza Now West Chicago",
+    "slug": "angrygenespizzanowwestchicago",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/westchicagopizzanow"
+  },
+  {
+    "name": "Zachary's Chicago Pizza Livermore",
+    "slug": "zacharyschicagopizzalivermore",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/zacharys-chicago-pizza-livermore-2740-first-street-ste-104"
+  },
+  {
+    "name": "East of Chicago Pizza Company 9th Place, Downtown ...",
+    "slug": "eastofchicagopizzacompany9thplacedowntow",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/east-of-chicago-pizza-company-location-3"
+  },
+  {
+    "name": "East of Chicago Rochester",
+    "slug": "eastofchicagorochester",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/east-of-chicago-rochester"
+  },
+  {
+    "name": "Chicago Pizza Company - El Cajon 1466 Graves Avenue # ...",
+    "slug": "chicagopizzacompany-elcajon1466gravesave",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/chicago-pizza-el-cajon"
+  },
+  {
+    "name": "Pizza Friendly Pizza - Chicago",
+    "slug": "pizzafriendlypizza-chicago",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizza-friendly-pizza-1039-north-western-avenue"
+  },
+  {
+    "name": "Zachary's Chicago Pizza Grand Ave",
+    "slug": "zacharyschicagopizzagrandave",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/zacharys-chicago-pizza-grand-ave"
+  },
+  {
+    "name": "Zachary's Chicago Pizza Oakland",
+    "slug": "zacharyschicagopizzaoakland",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/zacharys-chicago-pizza-oakland"
+  },
+  {
+    "name": "Tony's Chicago Pizza & Breakfast 2297 falcon ave",
+    "slug": "tonyschicagopizzabreakfast2297falconave",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tony-s-pizzeria-2297-falcon-ave"
+  },
+  {
+    "name": "Zachary's Chicago Pizza",
+    "slug": "zacharyschicagopizza",
+    "category": "pizza",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/locations/a17ab75d-0e30-44d3-a0d6-51b4fe659182/f8f1cac1-00fd-48bc-98f4-d16036647cfe"
+  },
+  {
+    "name": "The Warehouse Bar & Pizzeria Chicago",
+    "slug": "thewarehousebarpizzeriachicago",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-warehouse-bar-pizzeria-chicago"
+  },
+  {
+    "name": "Crushed Pizzeria Chicago",
+    "slug": "crushedpizzeriachicago",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/crushed-pizzeria"
+  },
+  {
+    "name": "Food on the Run",
+    "slug": "foodontherun",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/food-on-the-run-2-new-130-east-51st-street"
+  },
+  {
+    "name": "La Unica Food Mart IL 1515 W Devon Ave",
+    "slug": "launicafoodmartil1515wdevonave",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/la-unica-food-mart-il-1515-w-devon-ave"
+  },
+  {
+    "name": "Food for thought - Lighthouse",
+    "slug": "foodforthought-lighthouse",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/food-for-thought-lighthouse"
+  },
+  {
+    "name": "The Chicago Diner - Logan Square",
+    "slug": "thechicagodiner-logansquare",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thechicagodinerlogansquare"
+  },
+  {
+    "name": "Food For Thought - Tempus FFT 31",
+    "slug": "foodforthought-tempusfft31",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/food-for-thought-tempus"
+  },
+  {
+    "name": "Lashuk Street Food",
+    "slug": "lashukstreetfood",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lashuk-revival"
+  },
+  {
+    "name": "Pepes Mexican Restaurant - Chicago Heights",
+    "slug": "pepesmexicanrestaurant-chicagoheights",
+    "category": "mexican",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pepesmexicanrestaurantchicagoheights"
+  },
+  {
+    "name": "The Chicago Diner - Lakeview",
+    "slug": "thechicagodiner-lakeview",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thechicagodinerlakeview"
+  },
+  {
+    "name": "Gene & Georgetti - Chicago",
+    "slug": "genegeorgetti-chicago",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gene-georgetti-chicago"
+  },
+  {
+    "name": "El Che West Loop, Chicago",
+    "slug": "elchewestloopchicago",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/el-che-chicago"
+  },
+  {
+    "name": "Market Sushi & Bar Gangnam Market Food Court",
+    "slug": "marketsushibargangnammarketfoodcourt",
+    "category": "japanese",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/em-market-sushi-1001-west-chicago-avenue-vxopz"
+  },
+  {
+    "name": "Zenwich Chicago",
+    "slug": "zenwichchicago",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/zenwich-chicago"
+  },
+  {
+    "name": "Firenze - Italian Street Food Chicago French Market",
+    "slug": "firenze-italianstreetfoodchicagofrenchma",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/firenze-italian-street-food"
+  },
+  {
+    "name": "Cafe Press Chicago",
+    "slug": "cafepresschicago",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-press-chicago"
+  },
+  {
+    "name": "3288 North Elston Avenue Cafe Urbano Avondale",
+    "slug": "3288northelstonavenuecafeurbanoavondale",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-urbano-avondale-3288-north-elston-avenue"
+  },
+  {
+    "name": "OMi Cafe 3135 N Broadway St",
+    "slug": "omicafe3135nbroadwayst",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/omidessert"
+  },
+  {
+    "name": "Khepri Cafe",
+    "slug": "khepricafe",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/khepri-cafe"
+  },
+  {
+    "name": "Le Cafe Station Grill 1901 N Western Ave",
+    "slug": "lecafestationgrill1901nwesternave",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/le-cafe-station-grill-1889-n-winnebago-ave"
+  },
+  {
+    "name": "Cafe Colao",
+    "slug": "cafecolao",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-colao"
+  },
+  {
+    "name": "Kopi Cafe",
+    "slug": "kopicafe",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/kopicafe"
+  },
+  {
+    "name": "Spoken Cafe",
+    "slug": "spokencafe",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/spoken-chicago"
+  },
+  {
+    "name": "Willow Cafe and Bistro",
+    "slug": "willowcafeandbistro",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/willow-cafe-and-bistro-4729-north-lincoln-avenue"
+  },
+  {
+    "name": "Swadesi Cafe 328 South Jefferson Street",
+    "slug": "swadesicafe328southjeffersonstreet",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/swadesi-328-south-jefferson-street"
+  },
+  {
+    "name": "Geja's Cafe",
+    "slug": "gejascafe",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gejas-cafe"
+  },
+  {
+    "name": "Lior's Cafe - Order Online",
+    "slug": "liorscafe-orderonline",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/liors-cafe-10500-s-halsted"
+  },
+  {
+    "name": "Lula Cafe 2537 N Kedzie Blvd",
+    "slug": "lulacafe2537nkedzieblvd",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lula-cafe-2537-n-kedzie-blvd"
+  },
+  {
+    "name": "Zocalo - ZÓCALO 1438 West Chicago Avenue",
+    "slug": "zocalo-zcalo1438westchicagoavenue",
+    "category": "restaurant",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/zocalo-bng"
+  },
+  {
+    "name": "CAFE NOVA 6431 North Sheridan Road",
+    "slug": "cafenova6431northsheridanroad",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-nova-6431-north-sheridan-road"
+  },
+  {
+    "name": "Top Cafe Cuisine 4393 North Elston Avenue",
+    "slug": "topcafecuisine4393northelstonavenue",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/top-cafe-cuisine-4393-north-elston-avenue"
+  },
+  {
+    "name": "Hearts & Flour Bakery and Cafe 6130 N. Ravenswood",
+    "slug": "heartsflourbakeryandcafe6130nravenswood",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hearts-flour-bakery-and-cafe"
+  },
+  {
+    "name": "Lea French Cafe Oak Park",
+    "slug": "leafrenchcafeoakpark",
+    "category": "cafe",
+    "metros": [
+      "chicago"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lea-french-street-food"
   }
 ]

@@ -860,5 +860,518 @@
       "miami"
     ],
     "websiteOrderUrl": "https://get.popmenu.com/"
+  },
+  {
+    "name": "All Star Pizza Miami , FL Call 305-385-1400",
+    "slug": "allstarpizzamiamiflcall305-385-1400",
+    "category": "pizza",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/all-star-pizza-miami"
+  },
+  {
+    "name": "Joe's Pizza NYC Wynwood, Miami",
+    "slug": "joespizzanycwynwoodmiami",
+    "category": "pizza",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/joes-pizza-miami-234-nw-25th-st"
+  },
+  {
+    "name": "Pizzafiore Miami Shores",
+    "slug": "pizzafioremiamishores",
+    "category": "pizza",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizzafiore"
+  },
+  {
+    "name": "Eleventh Street Pizza 1035 N Miami Ave",
+    "slug": "eleventhstreetpizza1035nmiamiave",
+    "category": "pizza",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/eleventh-street-pizza-1035-n-miami-ave-suite-103"
+  },
+  {
+    "name": "K Pizza Dadeland Miami",
+    "slug": "kpizzadadelandmiami",
+    "category": "pizza",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/kpizza"
+  },
+  {
+    "name": "Gramps Gramps / Pizza Tropical Wynwood",
+    "slug": "grampsgrampspizzatropicalwynwood",
+    "category": "pizza",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/grampspizzatropical"
+  },
+  {
+    "name": "Goodfella's Pizzeria Miami Location",
+    "slug": "goodfellaspizzeriamiamilocation",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/goodfellas-pizzeria"
+  },
+  {
+    "name": "Nate's Pizza North Miami, Florida",
+    "slug": "natespizzanorthmiamiflorida",
+    "category": "pizza",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/natespizza"
+  },
+  {
+    "name": "Steve's Pizza West 16285 Southwest 88th Street",
+    "slug": "stevespizzawest16285southwest88thstreet",
+    "category": "pizza",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/steves-pizza-west-16285-southwest-88th-street"
+  },
+  {
+    "name": "Pizza Mia - Doral 2100 NW 107th Ave Unit 111",
+    "slug": "pizzamia-doral2100nw107thaveunit111",
+    "category": "pizza",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizza-mia-gourmet-2100-nw-107th-ave"
+  },
+  {
+    "name": "41 pizza",
+    "slug": "41pizza",
+    "category": "pizza",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/41pizza"
+  },
+  {
+    "name": "Milano's Pizza, Subs & Taps Miami Township",
+    "slug": "milanospizzasubstapsmiamitownship",
+    "category": "pizza",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/milanos-pizza-subs-taps-miami-9572-north-springboro-pike"
+  },
+  {
+    "name": "Fratesi's Pizza 69 E Flagler St",
+    "slug": "fratesispizza69eflaglerst",
+    "category": "pizza",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fratesispizza"
+  },
+  {
+    "name": "Spris Artisan Pizza - Midtown Spris Midtown",
+    "slug": "sprisartisanpizza-midtownsprismidtown",
+    "category": "pizza",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/spris-artisan-pizza-midtown-3201-n-miami-ave-102"
+  },
+  {
+    "name": "Andiamo! Brick Oven Pizza",
+    "slug": "andiamobrickovenpizza",
+    "category": "pizza",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/andiamo-brick-oven-pizza-5600-biscayne-blvd"
+  },
+  {
+    "name": "Eleventh Street Pizza - Dadeland 9025 SW 72nd Place",
+    "slug": "eleventhstreetpizza-dadeland9025sw72ndpl",
+    "category": "pizza",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/eleventh-street-pizza-dadeland-9025-sw-72nd-place"
+  },
+  {
+    "name": "Backyard Miami Beach",
+    "slug": "backyardmiamibeach",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/backyard.miami"
+  },
+  {
+    "name": "Lost Weekend - Miami",
+    "slug": "lostweekend-miami",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lost-weekend-miami"
+  },
+  {
+    "name": "Crazy Good Kitchen Miami",
+    "slug": "crazygoodkitchenmiami",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/crazygoodkitchenmiami"
+  },
+  {
+    "name": "YES! Cafe Yes! Miami Beach",
+    "slug": "yescafeyesmiamibeach",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/yes-cafe-miami-beach-601-71-st"
+  },
+  {
+    "name": "Wet Miami 1110 S MIAMI AVE",
+    "slug": "wetmiami1110smiamiave",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mad-baron-miami-1110-s-miami-ave"
+  },
+  {
+    "name": "Guajiros Miami Eatery",
+    "slug": "guajirosmiamieatery",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/guajiro-s"
+  },
+  {
+    "name": "El Bagel - MiMo 6910 Biscayne Blvd, Miami, FL 33138",
+    "slug": "elbagel-mimo6910biscayneblvdmiamifl33138",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/el-bagel-mimo"
+  },
+  {
+    "name": "Grand Cafe - Miami Beach",
+    "slug": "grandcafe-miamibeach",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/grand-cafe-sb-540-collins-ave"
+  },
+  {
+    "name": "CAO Bakery and Cafe #07 Miami Beach",
+    "slug": "caobakeryandcafe07miamibeach",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/caobakery_sobe"
+  },
+  {
+    "name": "CAO Bakery and Cafe #05 North Miami Beach",
+    "slug": "caobakeryandcafe05northmiamibeach",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/caobakery_nmb"
+  },
+  {
+    "name": "Mexi Cafe Mexi - Miami Beach",
+    "slug": "mexicafemexi-miamibeach",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mexi-cafe"
+  },
+  {
+    "name": "Seasons Cafe 318 21ST ST",
+    "slug": "seasonscafe31821stst",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/seasons-cafe-318-21st-st"
+  },
+  {
+    "name": "Cafe Bastille - Downtown Miami",
+    "slug": "cafebastille-downtownmiami",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-bastille-248-se-1-st"
+  },
+  {
+    "name": "Cafe Bastille - South Beach",
+    "slug": "cafebastille-southbeach",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-bastille-sobe-538-washington-avenue"
+  },
+  {
+    "name": "YES! Cafe & Pizza Yes! UpperEast",
+    "slug": "yescafepizzayesuppereast",
+    "category": "pizza",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/yes-cafe-and-pizza"
+  },
+  {
+    "name": "Oliver's Bistro South Beach",
+    "slug": "oliversbistrosouthbeach",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/olivers-bistro-south-beach-959-west-ave-15"
+  },
+  {
+    "name": "Grand Cafe - Aventura",
+    "slug": "grandcafe-aventura",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/grand-cafe-miami-gardens"
+  },
+  {
+    "name": "Beach Cafe 1326 2nd Avenue",
+    "slug": "beachcafe13262ndavenue",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/beach-cafe-1326-2nd-avenue"
+  },
+  {
+    "name": "Ironside Cafe",
+    "slug": "ironsidecafe",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ironsidecafe"
+  },
+  {
+    "name": "Online Ordering for Halves & Wholes - Miami Beach",
+    "slug": "onlineorderingforhalveswholes-miamibeach",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/5752/locations/7529"
+  },
+  {
+    "name": "Online Ordering for Restaurants with No Commissions",
+    "slug": "onlineorderingforrestaurantswithnocommis",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/11167/locations"
+  },
+  {
+    "name": "Online Ordering for Beach Mex",
+    "slug": "onlineorderingforbeachmex",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/387/locations"
+  },
+  {
+    "name": "Online Ordering for Rolling Harvest Food Truck",
+    "slug": "onlineorderingforrollingharvestfoodtruck",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/4462/locations/5795"
+  },
+  {
+    "name": "Grazianos Restaurant Coral Gables - Order Online",
+    "slug": "grazianosrestaurantcoralgables-orderonli",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/grazianos-restaurant-coral-gables-394-giralda-avenue"
+  },
+  {
+    "name": "Rice Mediterranean Kitchen Coral Gables",
+    "slug": "ricemediterraneankitchencoralgables",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rice-mediterranean-kitchen-coral-gables"
+  },
+  {
+    "name": "Tinta y Cafe Coral Gables",
+    "slug": "tintaycafecoralgables",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tinta-y-cafe-coral-gables-1315-ponce-de-leon-blvd"
+  },
+  {
+    "name": "Grazianos Market Coral Gables",
+    "slug": "grazianosmarketcoralgables",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/grazianos-market-coral-gables-2301"
+  },
+  {
+    "name": "Bulla Gastrobar Coral Gables",
+    "slug": "bullagastrobarcoralgables",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bullagastrobar-coral-cables"
+  },
+  {
+    "name": "CRAFT Coral Gables 127 Giralda Av.",
+    "slug": "craftcoralgables127giraldaav",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/craft-coral-gables-127-giralda-av"
+  },
+  {
+    "name": "CVI.CHE 105 CVI.CHE 105 Coral Gables",
+    "slug": "cviche105cviche105coralgables",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cvi-che-105-coral-gables-111-palermo-ave-suite-108"
+  },
+  {
+    "name": "Tina in the Gables",
+    "slug": "tinainthegables",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tinainthegables"
+  },
+  {
+    "name": "Miam Cafe - Coral Gables",
+    "slug": "miamcafe-coralgables",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/miam-coral-gables-2300-ponce-de-leon-blvd"
+  },
+  {
+    "name": "LeParc Cafe By Bonjour Bakery Coral Gables (Le Parc)",
+    "slug": "leparccafebybonjourbakerycoralgableslepa",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/leparccafe"
+  },
+  {
+    "name": "Threefold Cafe - 141 Giralda Avenue, Coral Gables, FL",
+    "slug": "threefoldcafe-141giraldaavenuecoralgable",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/threefold-giralda-141-giralda-avenue"
+  },
+  {
+    "name": "CFS Coffee 013 - Coral",
+    "slug": "cfscoffee013-coral",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cfs-coffee-coral-gables-256-giralda-avenue"
+  },
+  {
+    "name": "Cafe at Books and books 265 Aragon Ave.",
+    "slug": "cafeatbooksandbooks265aragonave",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-of-books-and-books-265-aragon-ave"
+  },
+  {
+    "name": "Cao Bakery #18 Coral Gables",
+    "slug": "caobakery18coralgables",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cao-bakery-coral-gables-241-university-drive"
+  },
+  {
+    "name": "RC Cafe 276 Alhambra Cir",
+    "slug": "rccafe276alhambracir",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rc-cafe-276-alhambra-cir"
+  },
+  {
+    "name": "Vicky Cafe UM",
+    "slug": "vickycafeum",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/vicky-cafe-um/javascript:;"
+  },
+  {
+    "name": "CAO Bakery and Cafe #01 Bird Road",
+    "slug": "caobakeryandcafe01birdroad",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/caobakery"
+  },
+  {
+    "name": "Al's Coffee Shop Coral Gables 2121 Ponce de Leon. #199",
+    "slug": "alscoffeeshopcoralgables2121poncedeleon1",
+    "category": "cafe",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/als-coffee-shop-coral-gables-2121-ponce-de-leon-199"
   }
 ]

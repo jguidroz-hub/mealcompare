@@ -751,5 +751,365 @@
       "atlanta"
     ],
     "websiteOrderUrl": "https://get.popmenu.com/pricing"
+  },
+  {
+    "name": "Buckhead Pizza Co.",
+    "slug": "buckheadpizzaco",
+    "category": "pizza",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/buckhead-pizza-co-3324-peachtree-rd-ne-ste-b"
+  },
+  {
+    "name": "Grant Central Pizza East",
+    "slug": "grantcentralpizzaeast",
+    "category": "pizza",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/grant-central-east-1279-glenwood-avenue-se"
+  },
+  {
+    "name": "Zucca Bar & Pizza ZUCCA 2860 Atlanta Rd",
+    "slug": "zuccabarpizzazucca2860atlantard",
+    "category": "pizza",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/zucca-pizza-2860-atlanta-rd"
+  },
+  {
+    "name": "Pizza Valley - East Point 3061 Washington Rd",
+    "slug": "pizzavalley-eastpoint3061washingtonrd",
+    "category": "pizza",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizza-valley-east-point-3061-washington-rd"
+  },
+  {
+    "name": "Glide Pizza Old Fourth Ward",
+    "slug": "glidepizzaoldfourthward",
+    "category": "pizza",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/glidepizza"
+  },
+  {
+    "name": "St Angelo's Pizza - Vinings",
+    "slug": "stangelospizza-vinings",
+    "category": "pizza",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/st-angelos-vinings-4687-s-atlanta-road-suite-128b"
+  },
+  {
+    "name": "Pizza Jeans First Floor PCM",
+    "slug": "pizzajeansfirstfloorpcm",
+    "category": "pizza",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizzajeans"
+  },
+  {
+    "name": "Brasiliana Pizza SEF",
+    "slug": "brasilianapizzasef",
+    "category": "pizza",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/brasiliana-pizza-1245-glenwood-avenue-southeast"
+  },
+  {
+    "name": "Atwood's Pizza Cafe",
+    "slug": "atwoodspizzacafe",
+    "category": "pizza",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/atwoods-pizza-cafe"
+  },
+  {
+    "name": "Ray's New York Pizza 26 5th Street Northwest",
+    "slug": "raysnewyorkpizza265thstreetnorthwest",
+    "category": "pizza",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/raysnypizza"
+  },
+  {
+    "name": "Riverside Pizza - Order Online",
+    "slug": "riversidepizza-orderonline",
+    "category": "pizza",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/riverside-pizza-cumming-ga-3030-old-atlanta-rd-suite-800"
+  },
+  {
+    "name": "Vinnys NY Pizza - Piedmont",
+    "slug": "vinnysnypizza-piedmont",
+    "category": "pizza",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/vinnys-ny-pizza-piedmont"
+  },
+  {
+    "name": "Glide Pizza - Decatur",
+    "slug": "glidepizza-decatur",
+    "category": "pizza",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/glidepizzadecatur"
+  },
+  {
+    "name": "The Pizza Place 8544 south marcus St",
+    "slug": "thepizzaplace8544southmarcusst",
+    "category": "pizza",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thepizzaplacewrightsville"
+  },
+  {
+    "name": "Local Green Atlanta JoLo",
+    "slug": "localgreenatlantajolo",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/localgreenatlanta"
+  },
+  {
+    "name": "O-Ku Atlanta",
+    "slug": "o-kuatlanta",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/o-ku-atlanta"
+  },
+  {
+    "name": "No Mas! Cantina Atlanta",
+    "slug": "nomascantinaatlanta",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/no-mas-cantina"
+  },
+  {
+    "name": "Nakato Japanese Restaurant - Atlanta",
+    "slug": "nakatojapaneserestaurant-atlanta",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/nakato"
+  },
+  {
+    "name": "Minero Atlanta",
+    "slug": "mineroatlanta",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/minero-atl"
+  },
+  {
+    "name": "Mr. Fries Man Atlanta",
+    "slug": "mrfriesmanatlanta",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mrfriesmanatlanta"
+  },
+  {
+    "name": "New Realm Brewing Company Atlanta",
+    "slug": "newrealmbrewingcompanyatlanta",
+    "category": "wings",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/nrbatl"
+  },
+  {
+    "name": "Indi Fresh 2770 Atlanta Hwy Suite 100",
+    "slug": "indifresh2770atlantahwysuite100",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/indifresh"
+  },
+  {
+    "name": "Cafe Circa- NEW 464 Edgewood Avenue Southeast",
+    "slug": "cafecirca-new464edgewoodavenuesoutheast",
+    "category": "cafe",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-circa-new-464-edgewood-avenue-southeast"
+  },
+  {
+    "name": "The Busy Bee Cafe",
+    "slug": "thebusybeecafe",
+    "category": "cafe",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/busy-bee-cafe-atlanta-810-martin-luther-king-drive-sw"
+  },
+  {
+    "name": "Cafe On 8th 226 8th Street, Augusta GA 30901",
+    "slug": "cafeon8th2268thstreetaugustaga30901",
+    "category": "cafe",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/226-8thstreet"
+  },
+  {
+    "name": "Grounded Cafe 1545 Peachtree Street Northeast",
+    "slug": "groundedcafe1545peachtreestreetnortheast",
+    "category": "cafe",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/groundedcafeatl"
+  },
+  {
+    "name": "Lovett Lion's Cafe - Open to the Lovett Community only!",
+    "slug": "lovettlionscafe-opentothelovettcommunity",
+    "category": "cafe",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lovett-lions-cafe-4075-paces-ferry-rd-nw"
+  },
+  {
+    "name": "Cafe At Pharr - Buckhead",
+    "slug": "cafeatpharr-buckhead",
+    "category": "cafe",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-at-pharr"
+  },
+  {
+    "name": "Egg Harbor Cafe Johns Creek",
+    "slug": "eggharborcafejohnscreek",
+    "category": "cafe",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/locations/4aa188e7-c4ac-41f2-b197-552bb9d47437"
+  },
+  {
+    "name": "Wildwood Cafe",
+    "slug": "wildwoodcafe",
+    "category": "cafe",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wildwood_cafe"
+  },
+  {
+    "name": "The Brass Tap Atlanta GA (Hapeville) #162",
+    "slug": "thebrasstapatlantagahapeville162",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/brass-taps-atlanta"
+  },
+  {
+    "name": "170 - K+K Atlanta",
+    "slug": "170-kkatlanta",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/kitchen-kocktails-atlanta-4400-ashford-dunwoody-rd-suite-3030"
+  },
+  {
+    "name": "Singas Famous Pizza Decatur, GA",
+    "slug": "singasfamouspizzadecaturga",
+    "category": "pizza",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/singas-famous-pizza-decatur"
+  },
+  {
+    "name": "Glide Pizza - Decatur 254 West Ponce de Leon Avenue",
+    "slug": "glidepizza-decatur254westponcedeleonaven",
+    "category": "pizza",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/glide-pizza-254-west-ponce-254-west-ponce-de-leon-avenue"
+  },
+  {
+    "name": "Lit Ass Wings - Decatur 1820 Austin Dr decatur ga",
+    "slug": "litasswings-decatur1820austindrdecaturga",
+    "category": "wings",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lit-ass-wings-east-point-1820-austin-dr-decatur-ga"
+  },
+  {
+    "name": "Stone Mountain Pizza Cafe",
+    "slug": "stonemountainpizzacafe",
+    "category": "pizza",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/stonemountainpizzacafe"
+  },
+  {
+    "name": "The Po'Boy Shop Decatur, Georgia",
+    "slug": "thepoboyshopdecaturgeorgia",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thepoboyshop"
+  },
+  {
+    "name": "Fresh to Order Decatur",
+    "slug": "freshtoorderdecatur",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/f2o-decatur"
+  },
+  {
+    "name": "La Chiquiada Decatur, GA",
+    "slug": "lachiquiadadecaturga",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lachiquiada-decatur"
+  },
+  {
+    "name": "Mezcalito's Cantina Decatur",
+    "slug": "mezcalitoscantinadecatur",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mezcalitos-decatur"
   }
 ]

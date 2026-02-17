@@ -2253,5 +2253,887 @@
       "nyc"
     ],
     "websiteOrderUrl": "https://www.owner.com/blog/6-popmenu-competitors-to-consider-with-pros-cons"
+  },
+  {
+    "name": "Mason Jar NYC 43 E 30th St, New York, NY",
+    "slug": "masonjarnyc43e30thstnewyorkny",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mason-jar-nyc-43-e-30th-st-new-york-ny"
+  },
+  {
+    "name": "New York Eats (Arlington) Arlington",
+    "slug": "newyorkeatsarlingtonarlington",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/new-york-eat-arlington"
+  },
+  {
+    "name": "Old Town Station Restaurant 2530 Main St",
+    "slug": "oldtownstationrestaurant2530mainst",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/oldtownstation"
+  },
+  {
+    "name": "Tony D's New York Pizza & Restaurant",
+    "slug": "tonydsnewyorkpizzarestaurant",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tony-d-s-new-york-pizza-restaurant-8358-point-meadows-dr-ste-10"
+  },
+  {
+    "name": "Vince's New York Pizza and Italian Restaurant",
+    "slug": "vincesnewyorkpizzaanditalianrestaurant",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/vincesnypizza"
+  },
+  {
+    "name": "THEP Thai Restaurant 1439 2nd Avenue",
+    "slug": "thepthairestaurant14392ndavenue",
+    "category": "thai",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thepnewyork"
+  },
+  {
+    "name": "Massawa Restaurant",
+    "slug": "massawarestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/massawa-restaurant"
+  },
+  {
+    "name": "Restaurant Nippon - Order Online",
+    "slug": "restaurantnippon-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/restaurant-nippon"
+  },
+  {
+    "name": "New York Pizza Co.",
+    "slug": "newyorkpizzaco",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/newyorkpizza"
+  },
+  {
+    "name": "Russo's New York Pizzeria & Italian Kitchen",
+    "slug": "russosnewyorkpizzeriaitaliankitchen",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/russos-new-york-pizzeria-frisco"
+  },
+  {
+    "name": "New York Pizza Factory",
+    "slug": "newyorkpizzafactory",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/new-york-pizza-factory-11143-lee-hwy"
+  },
+  {
+    "name": "Amico's New York Pizza Nolensville",
+    "slug": "amicosnewyorkpizzanolensville",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/amicos-new-york-pizza-7177-nolensville-rd"
+  },
+  {
+    "name": "New York Pizza (A ST) 1086 A ST",
+    "slug": "newyorkpizzaast1086ast",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thebestnewyorkpizza"
+  },
+  {
+    "name": "New York Pizza Department 2279 Eagle Glen Parkway ...",
+    "slug": "newyorkpizzadepartment2279eagleglenparkw",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/new-york-pizza-department-2279-eagle-glen-parkway-suite-105"
+  },
+  {
+    "name": "Mike's New York Pizzeria",
+    "slug": "mikesnewyorkpizzeria",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mikes-pizzeria-5035-w-slauson-avenue-suite-d"
+  },
+  {
+    "name": "New York Pizza and Pasta San Leandro",
+    "slug": "newyorkpizzaandpastasanleandro",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/new-york-pizza-and-pasta"
+  },
+  {
+    "name": "NYC Pizza Company Sugarloaf Market Place - Duluth",
+    "slug": "nycpizzacompanysugarloafmarketplace-dulu",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/nycpizzaco"
+  },
+  {
+    "name": "New York Pizza Department",
+    "slug": "newyorkpizzadepartment",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/new-york-pizza-department-lakesite-nro-8627-hixson-pike"
+  },
+  {
+    "name": "Finelli New York Pizzeria 12 Downeast Hwy",
+    "slug": "finellinewyorkpizzeria12downeasthwy",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/finellis-authentic-new-york-pizzeria-12-downeast-hwy"
+  },
+  {
+    "name": "Favillas New York Pizza 5 regent park blvd suite 107",
+    "slug": "favillasnewyorkpizza5regentparkblvdsuite",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/favillas-new-york-pizza-5-regent-park-blvd-suite-107"
+  },
+  {
+    "name": "New York New York Pizza",
+    "slug": "newyorknewyorkpizza",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/new-york-new-york-ybor-city"
+  },
+  {
+    "name": "NEW YORK SLICES Highland Park",
+    "slug": "newyorksliceshighlandpark",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/new-york-slices"
+  },
+  {
+    "name": "New York Pizza & Pasta - Collier Blvd - Order Online",
+    "slug": "newyorkpizzapasta-collierblvd-orderonlin",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/nyppcollierblvd"
+  },
+  {
+    "name": "New York City Pizza Pope Ave",
+    "slug": "newyorkcitypizzapopeave",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/newyorkcitypizzapopeave"
+  },
+  {
+    "name": "900 Degrees New York Pizza 900 at the Grove Mall",
+    "slug": "900degreesnewyorkpizza900atthegrovemall",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/900-new-york-pizza"
+  },
+  {
+    "name": "Order Bodrum Online - Mediterranean Restaurant in New ...",
+    "slug": "orderbodrumonline-mediterraneanrestauran",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/3990/locations/5187"
+  },
+  {
+    "name": "Mise en Place Restaurant Menu",
+    "slug": "miseenplacerestaurantmenu",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/26920/locations"
+  },
+  {
+    "name": "Choice Market Brooklyn",
+    "slug": "choicemarketbrooklyn",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/choicebrooklyn"
+  },
+  {
+    "name": "Hot Peppers - Brooklyn 57 Willoughby Street",
+    "slug": "hotpeppers-brooklyn57willoughbystreet",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hot-peppers-brooklyn-2025-57-willoughby-street"
+  },
+  {
+    "name": "Halal Bros Grill - 2504 Flatbush Ave Brooklyn",
+    "slug": "halalbrosgrill-2504flatbushavebrooklyn",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/halalbrosgrill-brooklyn"
+  },
+  {
+    "name": "Upside Craft Burger Brooklyn",
+    "slug": "upsidecraftburgerbrooklyn",
+    "category": "burgers",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/upside-craft/"
+  },
+  {
+    "name": "Brooklyn Pizza Restaurant - Brooklyn CT",
+    "slug": "brooklynpizzarestaurant-brooklynct",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/brooklyn-pizza-restaurant-brooklyn-ct-109-hartford-rd"
+  },
+  {
+    "name": "Brooklyn's Best Pizza and Pasta BB1",
+    "slug": "brooklynsbestpizzaandpastabb1",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/brooklyns-best-pizza-and-pasta-1-5270-south-fort-apache-road"
+  },
+  {
+    "name": "Brain Food - Court St 111 court st",
+    "slug": "brainfood-courtst111courtst",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/brain-food-court-st-111-court-st"
+  },
+  {
+    "name": "Medusa the Greek Brooklyn",
+    "slug": "medusathegreekbrooklyn",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/medusa-the-greek"
+  },
+  {
+    "name": "Soul Food Caterers",
+    "slug": "soulfoodcaterers",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/soul-food-caterers-88-kingston-ave"
+  },
+  {
+    "name": "Brooklyn Ave. Pizza Co.",
+    "slug": "brooklynavepizzaco",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bapco"
+  },
+  {
+    "name": "Brooklyn's Finest Pizza Denver - 16th Street Mall",
+    "slug": "brooklynsfinestpizzadenver-16thstreetmal",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/brooklyn-finest-pizza"
+  },
+  {
+    "name": "Sunday in Brooklyn Williamsburg",
+    "slug": "sundayinbrooklynwilliamsburg",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sundaybk"
+  },
+  {
+    "name": "Pasha's Halal Food - Downtown Brooklyn Pasha's #3",
+    "slug": "pashashalalfood-downtownbrooklynpashas3",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/notinuse"
+  },
+  {
+    "name": "Café Rosé Brooklyn",
+    "slug": "cafrosbrooklyn",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-rose-brooklyn"
+  },
+  {
+    "name": "Mr. Lee's - Brooklyn 471 Myrtle Ave",
+    "slug": "mrlees-brooklyn471myrtleave",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mr-lees-brooklyn-471-myrtle-ave"
+  },
+  {
+    "name": "Caffè Panna Brooklyn",
+    "slug": "caffpannabrooklyn",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/caffe-panna-brooklyn"
+  },
+  {
+    "name": "Brooklyn Cafe 4775 W Panther Creek Dr Ste 255",
+    "slug": "brooklyncafe4775wpanthercreekdrste255",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thebrooklyncafe"
+  },
+  {
+    "name": "IX Cafe",
+    "slug": "ixcafe",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ix-cafe-brooklyn-43-lincoln-rd"
+  },
+  {
+    "name": "Brooklyn Bread - Tribeca (NEW)",
+    "slug": "brooklynbread-tribecanew",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/brooklyn-bread-tribeca-111-murray-st"
+  },
+  {
+    "name": "Zatar Cafe & Bistro Park Slope - 8th Ave",
+    "slug": "zatarcafebistroparkslope-8thave",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/zaatarcafebistroparkslope"
+  },
+  {
+    "name": "Tower cafe @ Tower18 Tower18",
+    "slug": "towercafetower18tower18",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tower-18-18-spencer-st"
+  },
+  {
+    "name": "Cafe on 7th 493 7th Ave",
+    "slug": "cafeon7th4937thave",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-on-7th-493-7th-ave"
+  },
+  {
+    "name": "Jungle Cafe Vegan",
+    "slug": "junglecafevegan",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/jungle-cafe-131-greenpoint-avenue"
+  },
+  {
+    "name": "Marte's Cafe",
+    "slug": "martescafe",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/martes-cafe-610-5th-ave"
+  },
+  {
+    "name": "Stocked Cafe + Burgers",
+    "slug": "stockedcafeburgers",
+    "category": "burgers",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/stocked-cafe-burgers"
+  },
+  {
+    "name": "The Brooklyn Street Local 1266 Michigan Ave",
+    "slug": "thebrooklynstreetlocal1266michiganave",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-brooklyn-street-local-llc-1266-michigan-ave"
+  },
+  {
+    "name": "City Cafe 4923 18th Avenue",
+    "slug": "citycafe492318thavenue",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/city-cafe"
+  },
+  {
+    "name": "The Cookie Corner - Boro Park Brooklyn",
+    "slug": "thecookiecorner-boroparkbrooklyn",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-cookie-corner"
+  },
+  {
+    "name": "Online Ordering for Brooklyn Soul Food - Brooklyn",
+    "slug": "onlineorderingforbrooklynsoulfood-brookl",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/3881/locations/5034"
+  },
+  {
+    "name": "Online Ordering for Restaurants with No Commissions",
+    "slug": "onlineorderingforrestaurantswithnocommis",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/6916/locations"
+  },
+  {
+    "name": "Online Ordering for Brooklyn Pizza Crew - Brooklyn",
+    "slug": "onlineorderingforbrooklynpizzacrew-brook",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/6916/locations/9206"
+  },
+  {
+    "name": "Online Ordering for The Original Brooklyn Water Bagel Co.",
+    "slug": "onlineorderingfortheoriginalbrooklynwate",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/3500/locations"
+  },
+  {
+    "name": "Online Ordering for The Brooklyn Tree - Brooklyn",
+    "slug": "onlineorderingforthebrooklyntree-brookly",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/7835/locations/10516"
+  },
+  {
+    "name": "Online Ordering for Old Brooklyn Bagel Shoppe",
+    "slug": "onlineorderingforoldbrooklynbagelshoppe",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/11147/locations"
+  },
+  {
+    "name": "Online Ordering for Bergen Bagel",
+    "slug": "onlineorderingforbergenbagel",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/11991/locations"
+  },
+  {
+    "name": "Online Ordering for Nagle’s Bagels",
+    "slug": "onlineorderingfornaglesbagels",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/9972/locations"
+  },
+  {
+    "name": "Queens Foods Trailer",
+    "slug": "queensfoodstrailer",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/queens"
+  },
+  {
+    "name": "JoJu- Flushing, Queens",
+    "slug": "joju-flushingqueens",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/joju-4-133-22-37th-street-suite-fh6"
+  },
+  {
+    "name": "Burger Spot Queens",
+    "slug": "burgerspotqueens",
+    "category": "burgers",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/burgerspot"
+  },
+  {
+    "name": "Philomena's Sunnyside Queens",
+    "slug": "philomenassunnysidequeens",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/philomena-s"
+  },
+  {
+    "name": "Queens NY Pizza 158 hialeah DR",
+    "slug": "queensnypizza158hialeahdr",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/queens-ny-pizza-158-hialeah-dr"
+  },
+  {
+    "name": "Queens Bagels and Delicatessen Queens Bagels",
+    "slug": "queensbagelsanddelicatessenqueensbagels",
+    "category": "deli",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/queens-bagels-and-delicatessen"
+  },
+  {
+    "name": "71-30 main street - Order Online",
+    "slug": "71-30mainstreet-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sushi-kingdom-71-30-main-street"
+  },
+  {
+    "name": "Caffeine Queens Drive-Thru",
+    "slug": "caffeinequeensdrive-thru",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/caffeine-queens-n-a"
+  },
+  {
+    "name": "Go! Go! Curry Express Queens",
+    "slug": "gogocurryexpressqueens",
+    "category": "indian",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/go-go-curry-franchisee-queens-43-31-33rd-street-4th-floor"
+  },
+  {
+    "name": "Queens' Café 2609 Keiser Boulevard",
+    "slug": "queenscaf2609keiserboulevard",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/queens-cafe-2609-keiser-boulevard"
+  },
+  {
+    "name": "Queen B Coffee Company & Cafe",
+    "slug": "queenbcoffeecompanycafe",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/queen-b-coffee-company-ii-417-main-street"
+  },
+  {
+    "name": "Cafe on the Square",
+    "slug": "cafeonthesquare",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-on-the-square"
+  },
+  {
+    "name": "CAFE 1908 7 West Preston St",
+    "slug": "cafe19087westprestonst",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe1908"
+  },
+  {
+    "name": "Mas Tortilla 113-27B QUEENS BLVD, FOREST HILLS NY ...",
+    "slug": "mastortilla113-27bqueensblvdforesthillsn",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mas-tortilla-113-27b-queens-blvd-forest-hills-ny-11375"
+  },
+  {
+    "name": "Suzie Q Cafe",
+    "slug": "suzieqcafe",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/suzieqcafe"
+  },
+  {
+    "name": "Famous Cafe 15218",
+    "slug": "famouscafe15218",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/famous-cafe-15218"
+  },
+  {
+    "name": "The Lexington + Cafe Beatrice + Geppetto",
+    "slug": "thelexingtoncafebeatricegeppetto",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thelexingtoncx"
+  },
+  {
+    "name": "Manhattan Pizza & Pub 167 Main St",
+    "slug": "manhattanpizzapub167mainst",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/manhattan-pizza-pub-167-main-st"
+  },
+  {
+    "name": "Manhattan Pizza",
+    "slug": "manhattanpizza",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/manhattan-pizza"
+  },
+  {
+    "name": "Manhattan Joe's Pizzeria Polo Club",
+    "slug": "manhattanjoespizzeriapoloclub",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/manhattan-joes-pizzeria-polo-club-5030-champion-blvd-unit-g1a"
+  },
+  {
+    "name": "New Manhattan Pizza 2611 West Flagler St",
+    "slug": "newmanhattanpizza2611westflaglerst",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/new-manhattan-pizza-2611-west-flagler-st"
+  },
+  {
+    "name": "Upside Pizza Greenpoint",
+    "slug": "upsidepizzagreenpoint",
+    "category": "pizza",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/upside-pizza-greenpoint-640-manhattan-ave-uptbn"
+  },
+  {
+    "name": "IT-ITALIAN TRATTORIA 530 7TH AVENUE - MANHATTAN",
+    "slug": "it-italiantrattoria5307thavenue-manhatta",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/trattoria-nyc"
+  },
+  {
+    "name": "Bronx Drafthouse 884 GERARD AVENUE",
+    "slug": "bronxdrafthouse884gerardavenue",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bronx-drafthouse-884-gerard-avenue"
+  },
+  {
+    "name": "Caridad Restaurant - Bronx 2230 Grand Concourse Ave",
+    "slug": "caridadrestaurant-bronx2230grandconcours",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/caridad-restaurant-bronx-2230-grand-concourse-ave"
+  },
+  {
+    "name": "Bronx Alehouse 216 W 238TH STREET",
+    "slug": "bronxalehouse216w238thstreet",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bronx-alehouse-216-w-238th-street"
+  },
+  {
+    "name": "D'Bronx Authentic Deli & Pizzeria 7070 W 105TH ST",
+    "slug": "dbronxauthenticdelipizzeria7070w105thst",
+    "category": "deli",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/d-bronx-overland-park-7070-w-105th-st"
+  },
+  {
+    "name": "Vegan Grill - Bronx",
+    "slug": "vegangrill-bronx",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/vegan-grill-bronx-1201-castle-hill-avenue"
+  },
+  {
+    "name": "Frankies Food Truck",
+    "slug": "frankiesfoodtruck",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/frankiesfoodtruck"
+  },
+  {
+    "name": "Corner Cafe & Bakery Riverdale, NYC",
+    "slug": "cornercafebakeryriverdalenyc",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/corner-cafe-bakery"
+  },
+  {
+    "name": "Bronx Heros",
+    "slug": "bronxheros",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bronx-heros-500-tiffany-street"
+  },
+  {
+    "name": "Bronze Cafe Summerlin / Desert Shores",
+    "slug": "bronzecafesummerlindesertshores",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bronze-cafe"
+  },
+  {
+    "name": "The Bronx Brewery 856 East 136th Street",
+    "slug": "thebronxbrewery856east136thstreet",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-bronx-brewery-856-east-136th-street"
+  },
+  {
+    "name": "mary's bagel cafe",
+    "slug": "marysbagelcafe",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/marys-bagel-cafe"
+  },
+  {
+    "name": "Pondfield Cafe",
+    "slug": "pondfieldcafe",
+    "category": "cafe",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pondfield-cafe"
   }
 ]

@@ -1,0 +1,960 @@
+[
+  {
+    "name": "Miel De Agave Phoenix",
+    "slug": "mieldeagavephoenix",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Wren & Wolf",
+    "slug": "wrenwolf",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Different Pointe of View",
+    "slug": "differentpointeofview",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "The Arrogant Butcher",
+    "slug": "thearrogantbutcher",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "The Vig",
+    "slug": "thevig",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "The Farish House",
+    "slug": "thefarishhouse",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Palma",
+    "slug": "palma",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "The Gladly",
+    "slug": "thegladly",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Chelsea’s Kitchen",
+    "slug": "chelseaskitchen",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Seasons 52",
+    "slug": "seasons52",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Olive & Ivy",
+    "slug": "oliveivy",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "ZuZu",
+    "slug": "zuzu",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Culinary Dropout",
+    "slug": "culinarydropout",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Farm and Craft Scottsdale",
+    "slug": "farmandcraftscottsdale",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Cafe Monarch",
+    "slug": "cafemonarch",
+    "category": "cafe",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Toca Madera Scottsdale",
+    "slug": "tocamaderascottsdale",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Cala Scottsdale",
+    "slug": "calascottsdale",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "elements",
+    "slug": "elements",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Carlsbad Tavern",
+    "slug": "carlsbadtavern",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Maple & Ash",
+    "slug": "mapleash",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Top of the Rock Restaurant",
+    "slug": "topoftherockrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Society",
+    "slug": "society",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Perfect Pear Bistro",
+    "slug": "perfectpearbistro",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Filthy Animal",
+    "slug": "filthyanimal",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Thirsty Lion",
+    "slug": "thirstylion",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Ghost Ranch: Modern Southwest Cuisine",
+    "slug": "ghostranchmodernsouthwestcuisine",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Postino Annex",
+    "slug": "postinoannex",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Alter Ego",
+    "slug": "alterego",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Terra Tempe Kitchen & Spirits",
+    "slug": "terratempekitchenspirits",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Cocina Madrigal Tacos + Tequila",
+    "slug": "cocinamadrigaltacostequila",
+    "category": "mexican",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Casa Corazon Restaurant",
+    "slug": "casacorazonrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Los Cuatro Nietos AZ",
+    "slug": "loscuatronietosaz",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Tacos Los Vales",
+    "slug": "tacoslosvales",
+    "category": "mexican",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Centrico",
+    "slug": "centrico",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Gallo Blanco",
+    "slug": "galloblanco",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Corazón de Agave",
+    "slug": "corazndeagave",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "La Cocina Economica",
+    "slug": "lacocinaeconomica",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Blanco Cocina + Cantina",
+    "slug": "blancococinacantina",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "The Mission Old Town",
+    "slug": "themissionoldtown",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Bourbon & Bones Chophouse | Bar",
+    "slug": "bourbonboneschophousebar",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Citizen Public House",
+    "slug": "citizenpublichouse",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "HULA'S Modern Tiki Scottsdale",
+    "slug": "hulasmoderntikiscottsdale",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Board & Batten",
+    "slug": "boardbatten",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Goat and Ram",
+    "slug": "goatandram",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Guadalupe On Main",
+    "slug": "guadalupeonmain",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Charleston's Restaurant",
+    "slug": "charlestonsrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Espiritu Mesa",
+    "slug": "espiritumesa",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "The Original Blue Adobe Grille",
+    "slug": "theoriginalblueadobegrille",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Buck & Rider Gilbert",
+    "slug": "buckridergilbert",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Gus's World Famous Fried Chicken",
+    "slug": "gussworldfamousfriedchicken",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "The Porch",
+    "slug": "theporch",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Pizzeria Bianco",
+    "slug": "pizzeriabianco",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Pizza To The Rescue",
+    "slug": "pizzatotherescue",
+    "category": "pizza",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "The Parlor Pizzeria",
+    "slug": "theparlorpizzeria",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Humble Bistro",
+    "slug": "humblebistro",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "CIBO",
+    "slug": "cibo",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Federal Pizza",
+    "slug": "federalpizza",
+    "category": "pizza",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Forno 301",
+    "slug": "forno301",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Pizza A Metro",
+    "slug": "pizzaametro",
+    "category": "pizza",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Via Della Slice Shop",
+    "slug": "viadellasliceshop",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "The Henry",
+    "slug": "thehenry",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Hope’s Brunch House",
+    "slug": "hopesbrunchhouse",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Brunch & Sip",
+    "slug": "brunchsip",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Brunch",
+    "slug": "brunch",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "The Eleanor",
+    "slug": "theeleanor",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Brunch Snob",
+    "slug": "brunchsnob",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Luci's at the Orchard",
+    "slug": "lucisattheorchard",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Hash Kitchen",
+    "slug": "hashkitchen",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ]
+  },
+  {
+    "name": "Pekesbachi - Hottest Hibachi Food Truck! See More",
+    "slug": "pekesbachi-hottesthibachifoodtruckseemor",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pekesbachi"
+  },
+  {
+    "name": "Phoenix Food & Spirits - South 11212 Richland Drive",
+    "slug": "phoenixfoodspirits-south11212richlanddri",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/phoenix-food-spirits-south-11212-richland-drive"
+  },
+  {
+    "name": "PYRO PYRO The Grove - Phoenix",
+    "slug": "pyropyrothegrove-phoenix",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pyro-phoenix"
+  },
+  {
+    "name": "Tabla Indian Restaurant - Phoenix, AZ",
+    "slug": "tablaindianrestaurant-phoenixaz",
+    "category": "indian",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tabla-indian-restaurant-phoenix-az-2501-w-happy-valley-rd-suite-50-1240"
+  },
+  {
+    "name": "Fate Brewing Company - Phoenix",
+    "slug": "fatebrewingcompany-phoenix",
+    "category": "wings",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fate-phoenix"
+  },
+  {
+    "name": "The Phoenix Kitchen and Cocktails Phoenix - Homer Glen",
+    "slug": "thephoenixkitchenandcocktailsphoenix-hom",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-phoenix-kitchen-&-cocktails"
+  },
+  {
+    "name": "Los Reyes De La Torta - Phoenix",
+    "slug": "losreyesdelatorta-phoenix",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/losreyes-phoenix"
+  },
+  {
+    "name": "Phoenix Food Boutique Rowland Heights",
+    "slug": "phoenixfoodboutiquerowlandheights",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/phoenix-food-boutique-rowland-heights-nogales"
+  },
+  {
+    "name": "The Phoenix House",
+    "slug": "thephoenixhouse",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-phoenix-house-5648-old-highway-rd"
+  },
+  {
+    "name": "Phoenix Public House",
+    "slug": "phoenixpublichouse",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/phoenix-public-house"
+  },
+  {
+    "name": "Phoenix Smokehouse 21 Sonja Drive",
+    "slug": "phoenixsmokehouse21sonjadrive",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/phoenix-smokehouse"
+  },
+  {
+    "name": "Tryst Cafe Phoenix",
+    "slug": "trystcafephoenix",
+    "category": "cafe",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tryst-cafe-21050-n-tatum-blvd"
+  },
+  {
+    "name": "Elly's Brunch and Cafe Phoenix",
+    "slug": "ellysbrunchandcafephoenix",
+    "category": "cafe",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ellys-brunch-and-cafe-phoenix-100-east-camelback-road"
+  },
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lucis-urban-concepts-at-the-orchard-7100-north-12th-street-building-two"
+  },
+  {
+    "name": "Bertha's Cafe",
+    "slug": "berthascafe",
+    "category": "cafe",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/berthas-cafe"
+  },
+  {
+    "name": "Tryst Cafe Chandler",
+    "slug": "trystcafechandler",
+    "category": "cafe",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tryst-cafe-chandler-4205-south-gilbert-road"
+  },
+  {
+    "name": "Fair Trade Cafe",
+    "slug": "fairtradecafe",
+    "category": "cafe",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fair-trade-cafe-1020-north-1st-avenue"
+  },
+  {
+    "name": "Nino's Greek Cafe 3102 N 16 St",
+    "slug": "ninosgreekcafe3102n16st",
+    "category": "cafe",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ninos-greek-cafe-3102-n-16-st"
+  },
+  {
+    "name": "Outlier Cafe 668 N. 44th Street, Suite 104W",
+    "slug": "outliercafe668n44thstreetsuite104w",
+    "category": "cafe",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/outliercafe"
+  },
+  {
+    "name": "Biscuits Cafe Inc 3rd Street",
+    "slug": "biscuitscafeinc3rdstreet",
+    "category": "cafe",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/biscuits-cafe-inc-phoenix-3rd-and-bell-st"
+  },
+  {
+    "name": "Tryst Cafe",
+    "slug": "trystcafe",
+    "category": "cafe",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/locations/157d5b01-45a9-4a86-98eb-74167cc61c60/default"
+  },
+  {
+    "name": "Pomo Pizzeria Napoletana Scottsdale",
+    "slug": "pomopizzerianapoletanascottsdale",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pomo-pizzeria-scottsdale"
+  },
+  {
+    "name": "IL Bosco Pizza Becker Lane - Scottsdale",
+    "slug": "ilboscopizzabeckerlane-scottsdale",
+    "category": "pizza",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/il-bosco-pizza"
+  },
+  {
+    "name": "Fired Pie-Zocallo Plaza 15425 n scottsdale rd, #100",
+    "slug": "firedpie-zocalloplaza15425nscottsdalerd1",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fired-pie-zocallo-plaza-15425-n-scottsdale-rd-100"
+  },
+  {
+    "name": "Scottsdale",
+    "slug": "scottsdale",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pomo-pizzeria-scottsdale/checkout"
+  },
+  {
+    "name": "Over Easy Scottsdale",
+    "slug": "overeasyscottsdale",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/over-easy-scottsdale"
+  },
+  {
+    "name": "Sugo Bistro SOHO Scottsdale",
+    "slug": "sugobistrosohoscottsdale",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-vinery-soho-scottsdale-16580-n-92nd-st-1000"
+  },
+  {
+    "name": "Dilla Libre Dos Scottsdale",
+    "slug": "dillalibredosscottsdale",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dilla-libre-dos-scottsdale"
+  },
+  {
+    "name": "Maui Pasta Scottsdale",
+    "slug": "mauipastascottsdale",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mauipasta"
+  },
+  {
+    "name": "Indian Street Food Tempe",
+    "slug": "indianstreetfoodtempe",
+    "category": "indian",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/indianstreetfood"
+  },
+  {
+    "name": "Electric Pickle Tempe, AZ",
+    "slug": "electricpickletempeaz",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/electric-pickle-tempe-az"
+  },
+  {
+    "name": "Snakes & Lattes- Tempe",
+    "slug": "snakeslattes-tempe",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/snakesandlattestempe"
+  },
+  {
+    "name": "Kabuki Tempe AZ",
+    "slug": "kabukitempeaz",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/kabuki-tempe-az"
+  },
+  {
+    "name": "Voodoo Doughnut 16 - Tempe",
+    "slug": "voodoodoughnut16-tempe",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tempe"
+  },
+  {
+    "name": "Sol Food Petaluma - Order Online",
+    "slug": "solfoodpetaluma-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/solfoodpetaluma"
+  },
+  {
+    "name": "Food For Thought - Tempus FFT 31",
+    "slug": "foodforthought-tempusfft31",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/food-for-thought-tempus"
+  },
+  {
+    "name": "Austin Food Company S. LAMAR BLVD",
+    "slug": "austinfoodcompanyslamarblvd",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/atxfoodco"
+  },
+  {
+    "name": "TaiwanMama(Tempe)",
+    "slug": "taiwanmamatempe",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/taiwan-mama-725-s-rural-rd-ste-107"
+  },
+  {
+    "name": "AS Brew Cafe",
+    "slug": "asbrewcafe",
+    "category": "cafe",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/asbrew-cafe"
+  },
+  {
+    "name": "Thirsty Lion Tempe",
+    "slug": "thirstyliontempe",
+    "category": "restaurant",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thirsty-lion-tempe/"
+  },
+  {
+    "name": "Temptations Cafe Coolidge Corner",
+    "slug": "temptationscafecoolidgecorner",
+    "category": "cafe",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/temptations-cafe-coolidge-corner"
+  },
+  {
+    "name": "CAFE 1908 7 West Preston St",
+    "slug": "cafe19087westprestonst",
+    "category": "cafe",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe1908"
+  },
+  {
+    "name": "Chefs Cafe 7250 Fields Ertel Rd.",
+    "slug": "chefscafe7250fieldsertelrd",
+    "category": "cafe",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/chefscafecincy"
+  },
+  {
+    "name": "Teresa's Cafe and Next Door",
+    "slug": "teresascafeandnextdoor",
+    "category": "cafe",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/teresas-cafe"
+  },
+  {
+    "name": "In & Out Cafe 1621 N Road Street",
+    "slug": "inoutcafe1621nroadstreet",
+    "category": "cafe",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/in-out-cafe"
+  },
+  {
+    "name": "Morningside Cafe 16369 East Warren Avenue",
+    "slug": "morningsidecafe16369eastwarrenavenue",
+    "category": "cafe",
+    "metros": [
+      "phoenix"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/morningsidecafe"
+  }
+]

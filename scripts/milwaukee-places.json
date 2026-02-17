@@ -1,0 +1,594 @@
+[
+  {
+    "name": "Swingin' Door Exchange",
+    "slug": "swingindoorexchange",
+    "category": "wings",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Odd Duck",
+    "slug": "oddduck",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Stella Van Buren",
+    "slug": "stellavanburen",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Sanford",
+    "slug": "sanford",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Birch",
+    "slug": "birch",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Carnevor | Milwaukee’s Premier Steakhouse",
+    "slug": "carnevormilwaukeespremiersteakhouse",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "The Bridgewater Modern Grill",
+    "slug": "thebridgewatermoderngrill",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Harbor House",
+    "slug": "harborhouse",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Morel",
+    "slug": "morel",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Lupi & Iris",
+    "slug": "lupiiris",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "SafeHouse",
+    "slug": "safehouse",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Goodkind",
+    "slug": "goodkind",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Axolotl Café",
+    "slug": "axolotlcaf",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Sorella",
+    "slug": "sorella",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Room Service Bayview",
+    "slug": "roomservicebayview",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Santino's Little Italy",
+    "slug": "santinoslittleitaly",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "The Vanguard",
+    "slug": "thevanguard",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Tenuta's Italian Restaurant",
+    "slug": "tenutasitalianrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Heirloom MKE",
+    "slug": "heirloommke",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Centraal Grand Café & Tappery",
+    "slug": "centraalgrandcaftappery",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Uncle Wolfie's Breakfast Tavern",
+    "slug": "unclewolfiesbreakfasttavern",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Honey Butter Cafe",
+    "slug": "honeybuttercafe",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Brunch Berry",
+    "slug": "brunchberry",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Toast Milwaukee",
+    "slug": "toastmilwaukee",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Brunch.",
+    "slug": "brunch",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Story Hill BKC",
+    "slug": "storyhillbkc",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Blue's Egg + Bakery",
+    "slug": "blueseggbakery",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Sweet Diner",
+    "slug": "sweetdiner",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "The Wicked Hop",
+    "slug": "thewickedhop",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ]
+  },
+  {
+    "name": "Milwaukee Street Pizza Janesville",
+    "slug": "milwaukeestreetpizzajanesville",
+    "category": "pizza",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/milwaukee-street-pizza"
+  },
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/transfer-pizzeria-cafe"
+  },
+  {
+    "name": "Bacci Pizzeria Of Jefferson Park 4367 North Milwaukee ...",
+    "slug": "baccipizzeriaofjeffersonpark4367northmil",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/baccis-pizza-jefferson-portage-park-4367-north-milwaukee-avenue"
+  },
+  {
+    "name": "Pizza Shuttle East Side - Farwell",
+    "slug": "pizzashuttleeastside-farwell",
+    "category": "pizza",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizza-shuttle"
+  },
+  {
+    "name": "Beto's Pizza Milwaukee 1234 S Cesar E Chavez Dr",
+    "slug": "betospizzamilwaukee1234scesarechavezdr",
+    "category": "pizza",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/betos-pizza-milwaukee-1234-s-cesar-e-chavez-dr"
+  },
+  {
+    "name": "SLYCE Coal Fired Pizza Company - Vernon Hills 913 N ...",
+    "slug": "slycecoalfiredpizzacompany-vernonhills91",
+    "category": "pizza",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/slyce-coal-fired-pizza-company-vernon-hills-913-n-milwaukee-ave-100"
+  },
+  {
+    "name": "Sorella - Milwaukee",
+    "slug": "sorella-milwaukee",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sorella-milwaukee"
+  },
+  {
+    "name": "Pizza Man - MKE (Humboldt) 2060 North Humboldt Boulevard",
+    "slug": "pizzaman-mkehumboldt2060northhumboldtbou",
+    "category": "pizza",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizza-man-mke-humboldt-2060-north-humboldt-boulevard"
+  },
+  {
+    "name": "Dario's Pizza & Calzone 6810 Milwaukee Avenue",
+    "slug": "dariospizzacalzone6810milwaukeeavenue",
+    "category": "pizza",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dario-s-pizza-calzone-6810-milwaukee-avenue"
+  },
+  {
+    "name": "Paulie Gee's Logan Square 2451 N Milwaukee Ave",
+    "slug": "pauliegeeslogansquare2451nmilwaukeeave",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/paulie-gees-logan-square-2451-n-milwaukee-ave"
+  },
+  {
+    "name": "Avli Milwaukee",
+    "slug": "avlimilwaukee",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/avli-milwaukee"
+  },
+  {
+    "name": "Red Lion Pub RLP Milwaukee, WI",
+    "slug": "redlionpubrlpmilwaukeewi",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/red-lion-pub-milwaukee"
+  },
+  {
+    "name": "Cubanitas - Milwaukee",
+    "slug": "cubanitas-milwaukee",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cubanitas-milwaukee-st-728-n-milwaukee-st"
+  },
+  {
+    "name": "Patty Shack Milwaukee",
+    "slug": "pattyshackmilwaukee",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pattyshackwi"
+  },
+  {
+    "name": "Indeed Brewing Company - Milwaukee",
+    "slug": "indeedbrewingcompany-milwaukee",
+    "category": "wings",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/indeed-milw-to-go"
+  },
+  {
+    "name": "Brunch It Up - Milwaukee 714 N MILWAUKEE ST",
+    "slug": "brunchitup-milwaukee714nmilwaukeest",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/brunch-milwaukee-714-n-milwaukee-st"
+  },
+  {
+    "name": "Milwaukee Burger Company Wausau",
+    "slug": "milwaukeeburgercompanywausau",
+    "category": "burgers",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/milwaukee-burger-company-wausau"
+  },
+  {
+    "name": "Milwaukee Burger Company Eau Claire",
+    "slug": "milwaukeeburgercompanyeauclaire",
+    "category": "burgers",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/milwaukee-burger-company-eau-claire"
+  },
+  {
+    "name": "Mo's Irish Pub Milwaukee",
+    "slug": "mosirishpubmilwaukee",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/arbed-llc-142-w-wisconsin-ave"
+  },
+  {
+    "name": "Milwaukee Burger Company Pleasant Prairie",
+    "slug": "milwaukeeburgercompanypleasantprairie",
+    "category": "burgers",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/milwaukee-burger-company-pleasant-prairie"
+  },
+  {
+    "name": "Milwaukee Burger Company La Crosse",
+    "slug": "milwaukeeburgercompanylacrosse",
+    "category": "burgers",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/milwaukee-burger-company-la-crosse"
+  },
+  {
+    "name": "Milwaukee Burger Company Franklin",
+    "slug": "milwaukeeburgercompanyfranklin",
+    "category": "burgers",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/milwaukee-burger-company-franklin"
+  },
+  {
+    "name": "Milwaukee Burger Company Appleton",
+    "slug": "milwaukeeburgercompanyappleton",
+    "category": "burgers",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/milwaukee-burger-company-appleton"
+  },
+  {
+    "name": "Cafe Corazon - Riverwest",
+    "slug": "cafecorazon-riverwest",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-corazon-riverwest"
+  },
+  {
+    "name": "The National Cafe & Takeaway",
+    "slug": "thenationalcafetakeaway",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-national-cafe-takeaway-839-w-national-ave"
+  },
+  {
+    "name": "Fuel Cafe 5th Street Walker's Point",
+    "slug": "fuelcafe5thstreetwalkerspoint",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fuelcafe"
+  },
+  {
+    "name": "Mobay Cafe",
+    "slug": "mobaycafe",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mobaycafe"
+  },
+  {
+    "name": "Cafe Benelux",
+    "slug": "cafebenelux",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-benelux-346-n-broadway"
+  },
+  {
+    "name": "Cafe Corazon Bayview",
+    "slug": "cafecorazonbayview",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-corazon-bayview"
+  },
+  {
+    "name": "Stay Cafe",
+    "slug": "staycafe",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/stay-cafe-2045-north-milwaukee-avenue"
+  },
+  {
+    "name": "Miss Molly's Cafe & Pastry Shop",
+    "slug": "missmollyscafepastryshop",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/miss-mollys-cafe-pastry-shop-9201-w-center-st"
+  },
+  {
+    "name": "Transfer Pizzeria Cafe",
+    "slug": "transferpizzeriacafe",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/transfer-pizzeria-cafe"
+  },
+  {
+    "name": "Cafe at the Plaza",
+    "slug": "cafeattheplaza",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-at-the-plaza-1007-n-cass-st"
+  },
+  {
+    "name": "City Market Cafe Wauwatosa",
+    "slug": "citymarketcafewauwatosa",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/city-market-cafe-wauwatosa"
+  },
+  {
+    "name": "Madhura Cafe 20534 Milwaukee Ave",
+    "slug": "madhuracafe20534milwaukeeave",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/madhuracafe"
+  },
+  {
+    "name": "Cafe Corazon Brown Deer",
+    "slug": "cafecorazonbrowndeer",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-corazon-brown-deer-4102-n-bradley-road"
+  },
+  {
+    "name": "Stax Cafe River West",
+    "slug": "staxcaferiverwest",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/stax-cafe-river-west"
+  },
+  {
+    "name": "Your Office 763 North Milwaukee St.",
+    "slug": "youroffice763northmilwaukeest",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/your-office"
+  },
+  {
+    "name": "The City Market Cafe Shorewood",
+    "slug": "thecitymarketcafeshorewood",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-city-market-cafe-shorewood"
+  },
+  {
+    "name": "The Little Village Play Cafe 6505 West North Avenue",
+    "slug": "thelittlevillageplaycafe6505westnorthave",
+    "category": "cafe",
+    "metros": [
+      "milwaukee"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/littlevillage"
+  }
+]

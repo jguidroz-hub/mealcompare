@@ -1,0 +1,638 @@
+[
+  {
+    "name": "The Fig Tree Restaurant",
+    "slug": "thefigtreerestaurant",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "STK Steakhouse",
+    "slug": "stksteakhouse",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Angeline's",
+    "slug": "angelines",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Coquette",
+    "slug": "coquette",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Fahrenheit Charlotte",
+    "slug": "fahrenheitcharlotte",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "RH Rooftop Restaurant at RH Charlotte",
+    "slug": "rhrooftoprestaurantatrhcharlotte",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Church and Union Charlotte",
+    "slug": "churchandunioncharlotte",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Dean's Italian Steakhouse",
+    "slug": "deansitaliansteakhouse",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Supperland",
+    "slug": "supperland",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "State of Confusion- Charlotte",
+    "slug": "stateofconfusion-charlotte",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Haberdish",
+    "slug": "haberdish",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "The Goodyear House",
+    "slug": "thegoodyearhouse",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Oh My Soul",
+    "slug": "ohmysoul",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Amélie's French Bakery & Café",
+    "slug": "amliesfrenchbakerycaf",
+    "category": "cafe",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "The Ugly",
+    "slug": "theugly",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Artisan’s Palate",
+    "slug": "artisanspalate",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Jack Brown's",
+    "slug": "jackbrowns",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Soul Gastrolounge",
+    "slug": "soulgastrolounge",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "JackBeagle's Noda",
+    "slug": "jackbeaglesnoda",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Ever Andalo",
+    "slug": "everandalo",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "STIR",
+    "slug": "stir",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Culinary Dropout",
+    "slug": "culinarydropout",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "La Capital MX",
+    "slug": "lacapitalmx",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Sixty Vines",
+    "slug": "sixtyvines",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Chapter 6",
+    "slug": "chapter6",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "North Italia",
+    "slug": "northitalia",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "PARA Charlotte",
+    "slug": "paracharlotte",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Yunta",
+    "slug": "yunta",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "South End Eats",
+    "slug": "southendeats",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Midwood Smokehouse",
+    "slug": "midwoodsmokehouse",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Noble Smoke",
+    "slug": "noblesmoke",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Jon G's Barbecue",
+    "slug": "jongsbarbecue",
+    "category": "bbq",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Sweet Lew's BBQ",
+    "slug": "sweetlewsbbq",
+    "category": "bbq",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "McKoy's Smokehouse and Saloon",
+    "slug": "mckoyssmokehouseandsaloon",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "THE SMOKE PIT",
+    "slug": "thesmokepit",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Mac's Speed Shop",
+    "slug": "macsspeedshop",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Lexington Barbecue",
+    "slug": "lexingtonbarbecue",
+    "category": "bbq",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "The Workman’s Friend",
+    "slug": "theworkmansfriend",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "DTR Plaza Midwood",
+    "slug": "dtrplazamidwood",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Painted Rooster",
+    "slug": "paintedrooster",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Mezzo Market",
+    "slug": "mezzomarket",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Moo & Brew",
+    "slug": "moobrew",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Que Onda - Plaza Midwood",
+    "slug": "queonda-plazamidwood",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Whiskey Warehouse",
+    "slug": "whiskeywarehouse",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Ruby Sunshine",
+    "slug": "rubysunshine",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Cafe Monte French Bakery and Bistro",
+    "slug": "cafemontefrenchbakeryandbistro",
+    "category": "cafe",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Easy Like Sunday",
+    "slug": "easylikesunday",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Sweet Crunch",
+    "slug": "sweetcrunch",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ]
+  },
+  {
+    "name": "Singas Famous Pizza Charlotte, NC",
+    "slug": "singasfamouspizzacharlottenc",
+    "category": "pizza",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/singas-famous-pizza-charlotte"
+  },
+  {
+    "name": "Pure Pizza on The Plaza 2838 The Plaza",
+    "slug": "purepizzaontheplaza2838theplaza",
+    "category": "pizza",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pure-charlotte-2838-the-plaza"
+  },
+  {
+    "name": "Wolfman Pizza Quail Corners",
+    "slug": "wolfmanpizzaquailcorners",
+    "category": "pizza",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wolfman-pizza-quail-corners"
+  },
+  {
+    "name": "Gravity Sourdough Pizza Co.",
+    "slug": "gravitysourdoughpizzaco",
+    "category": "pizza",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gravity-sourdough-pizza-co-1824-statesville-avenue-suite-101"
+  },
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thejimmyclt"
+  },
+  {
+    "name": "Charlotte Beer Garden",
+    "slug": "charlottebeergarden",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/charlotte-beer-garden"
+  },
+  {
+    "name": "Turn 4 Pizza",
+    "slug": "turn4pizza",
+    "category": "pizza",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/turn-4-pizza"
+  },
+  {
+    "name": "Kosher Charlotte",
+    "slug": "koshercharlotte",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/koshercharlotte"
+  },
+  {
+    "name": "Nags Head Pizza Company MP 12.5 on beach road",
+    "slug": "nagsheadpizzacompanymp125onbeachroad",
+    "category": "pizza",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/nagsheadpizzaco"
+  },
+  {
+    "name": "Village Pizza OBX",
+    "slug": "villagepizzaobx",
+    "category": "pizza",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/village-pizza-obx-new-5205-s-croatan-hwy"
+  },
+  {
+    "name": "The Great Social Munchie Group Charlotte NC",
+    "slug": "thegreatsocialmunchiegroupcharlottenc",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/greatsocialmunchiegroup"
+  },
+  {
+    "name": "Sea Hut Charlotte",
+    "slug": "seahutcharlotte",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sea-hut-charlotte"
+  },
+  {
+    "name": "Charlotte Tavern 2 River Street",
+    "slug": "charlottetavern2riverstreet",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/charlotte-tavern-2-river-street"
+  },
+  {
+    "name": "Time Square Pizza Greensboro 101 Elmsley Meadows Ln",
+    "slug": "timesquarepizzagreensboro101elmsleymeado",
+    "category": "pizza",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/time-square-pizza-greensboro-101-elmsley-meadows-ln"
+  },
+  {
+    "name": "STATS Restaurant & Bar Charlotte",
+    "slug": "statsrestaurantbarcharlotte",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/statsclt"
+  },
+  {
+    "name": "Salud Beer Shop 3306-B North Davidson Street",
+    "slug": "saludbeershop3306-bnorthdavidsonstreet",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/salud-beer-shop"
+  },
+  {
+    "name": "Chaat N Dosa - Charlotte NC",
+    "slug": "chaatndosa-charlottenc",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/chaat-n-dosa-nc-8624-camfield-st-suite-c"
+  },
+  {
+    "name": "Carolina Kitchen and Barbeque Co.",
+    "slug": "carolinakitchenandbarbequeco",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/carolinabbq"
+  },
+  {
+    "name": "Carolina Coffee Shop",
+    "slug": "carolinacoffeeshop",
+    "category": "cafe",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/carolina-coffee-shop"
+  },
+  {
+    "name": "Chima Steakhouse Charlotte",
+    "slug": "chimasteakhousecharlotte",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/chima-steakhouse-charlotte"
+  },
+  {
+    "name": "Vavela Cafe 440 E McCullough Dr a 210",
+    "slug": "vavelacafe440emcculloughdra210",
+    "category": "cafe",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-vavela-440-e-mccullough-dr-a-210"
+  },
+  {
+    "name": "Wing King Cafe Indian Land",
+    "slug": "wingkingcafeindianland",
+    "category": "indian",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/wing-king-cafe-indian-land-8356-charlotte-hwy-suite-108"
+  },
+  {
+    "name": "In & Out Cafe 1621 N Road Street",
+    "slug": "inoutcafe1621nroadstreet",
+    "category": "cafe",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/in-out-cafe"
+  },
+  {
+    "name": "The Neighborhood Cafe",
+    "slug": "theneighborhoodcafe",
+    "category": "cafe",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/theneighborhoodcafe"
+  },
+  {
+    "name": "Caroline's Seaside Cafe",
+    "slug": "carolinesseasidecafe",
+    "category": "cafe",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/carolines-seaside-cafe"
+  },
+  {
+    "name": "Breakaway Cafe Briar Chapel",
+    "slug": "breakawaycafebriarchapel",
+    "category": "cafe",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/breakaway-cafe"
+  },
+  {
+    "name": "Henry's Soul Cafe Oxon Hill",
+    "slug": "henryssoulcafeoxonhill",
+    "category": "cafe",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/henryssoulcafeoxonhill"
+  },
+  {
+    "name": "Tobacco Road Sports Cafe Raleigh",
+    "slug": "tobaccoroadsportscaferaleigh",
+    "category": "cafe",
+    "metros": [
+      "charlotte"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tobacco-road"
+  }
+]

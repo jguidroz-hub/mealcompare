@@ -1,0 +1,574 @@
+[
+  {
+    "name": "The Mill Raleigh",
+    "slug": "themillraleigh",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Flour and Barrel",
+    "slug": "flourandbarrel",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Flavor Hills",
+    "slug": "flavorhills",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "RH Rooftop Restaurant at RH Raleigh",
+    "slug": "rhrooftoprestaurantatrhraleigh",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Vidrio",
+    "slug": "vidrio",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Madre",
+    "slug": "madre",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Stanbury",
+    "slug": "stanbury",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Second Empire Restaurant and Tavern",
+    "slug": "secondempirerestaurantandtavern",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Angus Barn",
+    "slug": "angusbarn",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "STIR",
+    "slug": "stir",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Guglhupf Restaurant",
+    "slug": "guglhupfrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Little Bull",
+    "slug": "littlebull",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "It's a Southern thing - Downtown Durham",
+    "slug": "itsasouthernthing-downtowndurham",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Glasshouse Kitchen",
+    "slug": "glasshousekitchen",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "GRUB Durham",
+    "slug": "grubdurham",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Local 22 Kitchen & Bar",
+    "slug": "local22kitchenbar",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Farmside Kitchen - Durham RTP",
+    "slug": "farmsidekitchen-durhamrtp",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "PRESS Coffee Crêpes Cocktails",
+    "slug": "presscoffeecrpescocktails",
+    "category": "cafe",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Mothers & Sons Trattoria",
+    "slug": "motherssonstrattoria",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Geer Street Garden",
+    "slug": "geerstreetgarden",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "HAWTHORNE & WOOD",
+    "slug": "hawthornewood",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Bluebird",
+    "slug": "bluebird",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Osteria Georgi",
+    "slug": "osteriageorgi",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "One40 Social",
+    "slug": "one40social",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Proximo",
+    "slug": "proximo",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Top of the Hill Restaurant & Brewery",
+    "slug": "topofthehillrestaurantbrewery",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Stoney River Steakhouse and Grill",
+    "slug": "stoneyriversteakhouseandgrill",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Oakleaf",
+    "slug": "oakleaf",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Bombolo",
+    "slug": "bombolo",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Glasshalfull",
+    "slug": "glasshalfull",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "The Pit Authentic Barbecue",
+    "slug": "thepitauthenticbarbecue",
+    "category": "bbq",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Midwood Smokehouse",
+    "slug": "midwoodsmokehouse",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Ole Time Barbecue",
+    "slug": "oletimebarbecue",
+    "category": "bbq",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Sam Jones BBQ",
+    "slug": "samjonesbbq",
+    "category": "bbq",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "The Redneck BBQ Lab",
+    "slug": "theredneckbbqlab",
+    "category": "bbq",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Prime Barbecue",
+    "slug": "primebarbecue",
+    "category": "bbq",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Dampf Good BBQ",
+    "slug": "dampfgoodbbq",
+    "category": "bbq",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Oink N Moo",
+    "slug": "oinknmoo",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Lechon Latin BBQ & Bar",
+    "slug": "lechonlatinbbqbar",
+    "category": "bbq",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Chop Shop BBQ & Grill",
+    "slug": "chopshopbbqgrill",
+    "category": "bbq",
+    "metros": [
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Lilly's Pizza • Five Points",
+    "slug": "lillyspizzafivepoints",
+    "category": "pizza",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lillys-pizza"
+  },
+  {
+    "name": "V Pizza & Flask Brier Creek & Flask",
+    "slug": "vpizzaflaskbriercreekflask",
+    "category": "pizza",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/v-pizza-raleigh-7930-skyland-ridge-parkway"
+  },
+  {
+    "name": "Big Cheese Pizza - Raleigh 1030 N Rogers Ln Ste 139",
+    "slug": "bigcheesepizza-raleigh1030nrogerslnste13",
+    "category": "pizza",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/big-cheese-pizza-raleigh"
+  },
+  {
+    "name": "Bowstring Pizza & Brewyard Bowstring Raleigh",
+    "slug": "bowstringpizzabrewyardbowstringraleigh",
+    "category": "pizza",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bowstring"
+  },
+  {
+    "name": "Ponysaurus Brewing Co. Raleigh",
+    "slug": "ponysaurusbrewingcoraleigh",
+    "category": "wings",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ponysauraus-raleigh-new-2221-iron-works-dr-suite-1100"
+  },
+  {
+    "name": "Pizza Times",
+    "slug": "pizzatimes",
+    "category": "pizza",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/raleighpizzatimes"
+  },
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/benchwarmers-transfer-co"
+  },
+  {
+    "name": "Trophy Brewing & Pizza",
+    "slug": "trophybrewingpizza",
+    "category": "pizza",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/trophy-pizza"
+  },
+  {
+    "name": "Schiano's Pizza Leesville Road",
+    "slug": "schianospizzaleesvilleroad",
+    "category": "pizza",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/schianos-pizza-leesville-road"
+  },
+  {
+    "name": "The Brass Tap Raleigh NC #218",
+    "slug": "thebrasstapraleighnc218",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-brass-taps-raleigh-nc-gghgt"
+  },
+  {
+    "name": "Sassool Raleigh",
+    "slug": "sassoolraleigh",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sasool-raleigh-9650-strickland-rd-suite-149"
+  },
+  {
+    "name": "CO - Raleigh NC",
+    "slug": "co-raleighnc",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/co-raleigh-nc-101-park-at-n-hills-st"
+  },
+  {
+    "name": "Nantucket Grill-Durham Sutton Station",
+    "slug": "nantucketgrill-durhamsuttonstation",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/nantucketdurham"
+  },
+  {
+    "name": "CO - Durham",
+    "slug": "co-durham",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/co-durham-8030-renaissance-parkway"
+  },
+  {
+    "name": "COPA Durham",
+    "slug": "copadurham",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/copa-durham"
+  },
+  {
+    "name": "Mezcalito Durham",
+    "slug": "mezcalitodurham",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mezcalitogrill-durham"
+  },
+  {
+    "name": "Cafe' @ Durham Tech Cafe' @ Durham Tech",
+    "slug": "cafedurhamtechcafedurhamtech",
+    "category": "cafe",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/durham-tech-cafe"
+  },
+  {
+    "name": "Cafe Parizade 2200 W Main St",
+    "slug": "cafeparizade2200wmainst",
+    "category": "cafe",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/parizade"
+  },
+  {
+    "name": "Chelsea Cafe and Catering",
+    "slug": "chelseacafeandcatering",
+    "category": "cafe",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/chelsea-cafe-1007-slater-rd"
+  },
+  {
+    "name": "Tobacco Road Sports Cafe Durham",
+    "slug": "tobaccoroadsportscafedurham",
+    "category": "cafe",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tobacco-road-sports-cafe-durham-280-s-mangum-st"
+  },
+  {
+    "name": "J. Lights Market & Cafe Golden Belt Campus",
+    "slug": "jlightsmarketcafegoldenbeltcampus",
+    "category": "cafe",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/j-lights-market-cafe-800-taylor-street-suite-9-152"
+  },
+  {
+    "name": "The Durham Hotel - The Coffee Bar",
+    "slug": "thedurhamhotel-thecoffeebar",
+    "category": "cafe",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/durham-hotel-group-315-e-chapel-hill-st"
+  },
+  {
+    "name": "Liturgy Beverage Durham Food Hall",
+    "slug": "liturgybeveragedurhamfoodhall",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/liturgybeverage"
+  },
+  {
+    "name": "The Oak House Durham",
+    "slug": "theoakhousedurham",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/oak-house-durham"
+  },
+  {
+    "name": "Tobacco Road Sports Cafe Raleigh",
+    "slug": "tobaccoroadsportscaferaleigh",
+    "category": "cafe",
+    "metros": [
+      "raleigh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tobacco-road"
+  },
+  {
+    "name": "Online Ordering for Dame's Chicken & Waffles - Cary",
+    "slug": "onlineorderingfordameschickenwaffles-car",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/5532/locations/7242"
+  },
+  {
+    "name": "Online Ordering for Dame's Chicken & Waffles - Greensboro",
+    "slug": "onlineorderingfordameschickenwaffles-gre",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/5532/locations/7241"
+  },
+  {
+    "name": "Online Food Ordering System & App",
+    "slug": "onlinefoodorderingsystemapp",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/5226/locations"
+  }
+]

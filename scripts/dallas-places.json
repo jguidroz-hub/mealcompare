@@ -1,0 +1,1115 @@
+[
+  {
+    "name": "Dragonfly",
+    "slug": "dragonfly",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "The Woolworth",
+    "slug": "thewoolworth",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "The Hampton Social - Dallas",
+    "slug": "thehamptonsocial-dallas",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "The Henry",
+    "slug": "thehenry",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Monarch Restaurant",
+    "slug": "monarchrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Written by the Seasons",
+    "slug": "writtenbytheseasons",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "3Eleven Kitchen and Cocktails",
+    "slug": "3elevenkitchenandcocktails",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "La Stella Cucina Verace",
+    "slug": "lastellacucinaverace",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Al Biernat's Oak Lawn",
+    "slug": "albiernatsoaklawn",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "MIRADOR",
+    "slug": "mirador",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Terry Black's Barbecue",
+    "slug": "terryblacksbarbecue",
+    "category": "bbq",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Hawkers Asian Street Food",
+    "slug": "hawkersasianstreetfood",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Brick & Bones",
+    "slug": "brickbones",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Angry Dog",
+    "slug": "angrydog",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Vidorra",
+    "slug": "vidorra",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Nowhere Deep Ellum",
+    "slug": "nowheredeepellum",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Pecan Lodge",
+    "slug": "pecanlodge",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Cane Rosso",
+    "slug": "canerosso",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Ruins",
+    "slug": "ruins",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Dot's Hop House & Cocktail Courtyard",
+    "slug": "dotshophousecocktailcourtyard",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Sixty Vines",
+    "slug": "sixtyvines",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Haywire",
+    "slug": "haywire",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "The Rustic",
+    "slug": "therustic",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Kitchen + Kocktails by Kevin Kelley - Dallas",
+    "slug": "kitchenkocktailsbykevinkelley-dallas",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Moxies Dallas Uptown Restaurant",
+    "slug": "moxiesdallasuptownrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Lyla",
+    "slug": "lyla",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Paradiso",
+    "slug": "paradiso",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Oddfellows",
+    "slug": "oddfellows",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Stock & Barrel",
+    "slug": "stockbarrel",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Lucia",
+    "slug": "lucia",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Encina",
+    "slug": "encina",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "La Reunion",
+    "slug": "lareunion",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Coco’s",
+    "slug": "cocos",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Sketches of Spain",
+    "slug": "sketchesofspain",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Little Blue Bistro",
+    "slug": "littlebluebistro",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Hurtado Barbecue Dallas",
+    "slug": "hurtadobarbecuedallas",
+    "category": "bbq",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Goldee's Barbecue",
+    "slug": "goldeesbarbecue",
+    "category": "bbq",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "The Original Roy Hutchins Barbeque",
+    "slug": "theoriginalroyhutchinsbarbeque",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Lane's OAK'D BBQ",
+    "slug": "lanesoakdbbq",
+    "category": "bbq",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Earnest B's BBQ",
+    "slug": "earnestbsbbq",
+    "category": "bbq",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Cattleack Barbeque",
+    "slug": "cattleackbarbeque",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Slow Bone BBQ",
+    "slug": "slowbonebbq",
+    "category": "bbq",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Oak'd BBQ",
+    "slug": "oakdbbq",
+    "category": "bbq",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Las Palmas Tex-Mex",
+    "slug": "laspalmastex-mex",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Rj Mexican Cuisine",
+    "slug": "rjmexicancuisine",
+    "category": "mexican",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Uno Mas Tex Mex",
+    "slug": "unomastexmex",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Mia's Tex-Mex Restaurant",
+    "slug": "miastex-mexrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Mexican Sugar",
+    "slug": "mexicansugar",
+    "category": "mexican",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "E Bar Tex-Mex",
+    "slug": "ebartex-mex",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Meso Maya Comida y Copas",
+    "slug": "mesomayacomidaycopas",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Pepe's & Mito's",
+    "slug": "pepesmitos",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "El Vecino Tex Mex",
+    "slug": "elvecinotexmex",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Desperados Mexican Restaurant",
+    "slug": "desperadosmexicanrestaurant",
+    "category": "mexican",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Mister O1 Extraordinary Pizza Turtle Creek",
+    "slug": "mistero1extraordinarypizzaturtlecreek",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Bellatrino Pizzeria",
+    "slug": "bellatrinopizzeria",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Pie Tap Pizza + Rotisserie + Bar",
+    "slug": "pietappizzarotisseriebar",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Delucca Gaucho Pizza & Wine - Dallas",
+    "slug": "deluccagauchopizzawine-dallas",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Good Side Pizza Pub",
+    "slug": "goodsidepizzapub",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Stoner's Pizza Joint",
+    "slug": "stonerspizzajoint",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Pizzeria Carina",
+    "slug": "pizzeriacarina",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Eno's Pizza Tavern",
+    "slug": "enospizzatavern",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Partenope Ristorante",
+    "slug": "partenoperistorante",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "The Heritage Table",
+    "slug": "theheritagetable",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Craftway Kitchen Frisco",
+    "slug": "craftwaykitchenfrisco",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "The Common Table",
+    "slug": "thecommontable",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Hutchins BBQ",
+    "slug": "hutchinsbbq",
+    "category": "bbq",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Tupelo Honey Southern Kitchen & Bar",
+    "slug": "tupelohoneysouthernkitchenbar",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "The Glen Restaurant",
+    "slug": "theglenrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "La Hacienda Ranch",
+    "slug": "lahaciendaranch",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Nerdvana",
+    "slug": "nerdvana",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Salute Italian Restaurant Frisco",
+    "slug": "saluteitalianrestaurantfrisco",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Hudson House",
+    "slug": "hudsonhouse",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Ida Claire",
+    "slug": "idaclaire",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Little Daisy",
+    "slug": "littledaisy",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "Maple Leaf Diner",
+    "slug": "mapleleafdiner",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ]
+  },
+  {
+    "name": "DanSungSa Dallas",
+    "slug": "dansungsadallas",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dss.dallas"
+  },
+  {
+    "name": "ZAAP Kitchen Lao & Thai Street Eats Fitzhugh Ave - Dallas",
+    "slug": "zaapkitchenlaothaistreeteatsfitzhughave-",
+    "category": "thai",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/zaap-kitchen-lao-thai-street-eats-fitzhugh-2325-n-fitzhugh-ave-suite-105"
+  },
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dalat-restaurant-bar"
+  },
+  {
+    "name": "La Marmite Dallas",
+    "slug": "lamarmitedallas",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lamarmitedallas"
+  },
+  {
+    "name": "del sur tacos 720 E. Jefferson Blvd. Dallas, Texas 75203",
+    "slug": "delsurtacos720ejeffersonblvddallastexas7",
+    "category": "mexican",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/del-sur-tacos-720-e-jefferson-blvd"
+  },
+  {
+    "name": "K-Pop Ramen Dallas",
+    "slug": "k-popramendallas",
+    "category": "japanese",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/k-pop-ramen-dallas-5150-lemmon-ave-ste-104"
+  },
+  {
+    "name": "100 - K+K Dallas",
+    "slug": "100-kkdallas",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/kitchen-kocktails-dallas-1933-elm-street"
+  },
+  {
+    "name": "ZAAP Kitchen Lao & Thai Street Eats Victory Park - Dallas",
+    "slug": "zaapkitchenlaothaistreeteatsvictorypark-",
+    "category": "thai",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/zaap-kitchen-lao-thai-street-eats-park-2420-victory-park-ln"
+  },
+  {
+    "name": "Yardbird Dallas - Order Online",
+    "slug": "yardbirddallas-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/yb-dallas"
+  },
+  {
+    "name": "Onēsan Dim Sum & Sushi 12300 Inwood Rd #180, Dallas, ...",
+    "slug": "onsandimsumsushi12300inwoodrd180dallas",
+    "category": "japanese",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/onesan-12300-inwood-rd-180-dallas-tx-75244"
+  },
+  {
+    "name": "Khaohorm Thai",
+    "slug": "khaohormthai",
+    "category": "thai",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/khaohormthaidallas"
+  },
+  {
+    "name": "La Cocina Mexican Restaurant Dallas",
+    "slug": "lacocinamexicanrestaurantdallas",
+    "category": "mexican",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/la-cocina-mexican-restaurant-dallas"
+  },
+  {
+    "name": "The Meteor Dallas",
+    "slug": "themeteordallas",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dallas-meteor-cafe-1950-hi-line-drive"
+  },
+  {
+    "name": "Zest Cafe",
+    "slug": "zestcafe",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/zestcafe"
+  },
+  {
+    "name": "Cafe Atrium Colonnade",
+    "slug": "cafeatriumcolonnade",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/colonnade-15303-dallas-pkwy"
+  },
+  {
+    "name": "Xaman Cafe",
+    "slug": "xamancafe",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/xaman-cafe-334-w-jefferson-blvd"
+  },
+  {
+    "name": "Cafe Momentum",
+    "slug": "cafemomentum",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-momentum-1510-pacific-avenue"
+  },
+  {
+    "name": "JJs cafe",
+    "slug": "jjscafe",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/jjs-cafe-10233-east-northwest-highway-suite-434"
+  },
+  {
+    "name": "High Tower Cafe HT-Eldridge",
+    "slug": "hightowercafeht-eldridge",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hteldridge"
+  },
+  {
+    "name": "Frannick's Cafe Dallas, Georgia",
+    "slug": "frannickscafedallasgeorgia",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/frannicks-cafe"
+  },
+  {
+    "name": "Texas Cafe Diner 2000 Live Oak St",
+    "slug": "texascafediner2000liveoakst",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/texas-cafe-diner"
+  },
+  {
+    "name": "The Nest Cafe 7777 Warren Pkwy Ste 325",
+    "slug": "thenestcafe7777warrenpkwyste325",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thenestcafe"
+  },
+  {
+    "name": "Texan Cafe & Pie Shop",
+    "slug": "texancafepieshop",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/texan-cafe-pie-shop-207-east-street"
+  },
+  {
+    "name": "Zio Al's Pizza & Pasta \"Richardson\"",
+    "slug": "zioalspizzapastarichardson",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/zio-als-dallas-210-w-main-st"
+  },
+  {
+    "name": "Pizza Getti 3302 N Buckner Blvd Suite 108",
+    "slug": "pizzagetti3302nbucknerblvdsuite108",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizza-getti-3302-n-buckner-blvd-suite-108"
+  },
+  {
+    "name": "Zio Al's Pizza Pasta \" Carrollton \"",
+    "slug": "zioalspizzapastacarrollton",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/zio-als-carrollton-3940-rosemeade-parkway"
+  },
+  {
+    "name": "Serious Pizza - Dallas",
+    "slug": "seriouspizza-dallas",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/serious-pizza-dallas"
+  },
+  {
+    "name": "Mister O1 Extraordinary Pizza - Turtle Creek Village, TX",
+    "slug": "mistero1extraordinarypizza-turtlecreekvi",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mister-o1-extraordinary-pizza--dallas-turtle-creek-village"
+  },
+  {
+    "name": "The Brass Tap North Dallas TX #075",
+    "slug": "thebrasstapnorthdallastx075",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/brass-taps-north-dallas"
+  },
+  {
+    "name": "Mister O1 Extraordinary Pizza - Grapevine, TX",
+    "slug": "mistero1extraordinarypizza-grapevinetx",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mister-o1-extraordinary-pizza-dallas-grapevine"
+  },
+  {
+    "name": "Mister O1 Extraordinary Pizza - Mansfield, TX",
+    "slug": "mistero1extraordinarypizza-mansfieldtx",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mister-o1-extraordinary-pizza-dallas-mansfield"
+  },
+  {
+    "name": "The Brass Tap zzClosed Dallas TX #219",
+    "slug": "thebrasstapzzcloseddallastx219",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-brass-taps-dallas-tx"
+  },
+  {
+    "name": "Eno's Pizza Tavern Bishop Arts District",
+    "slug": "enospizzatavernbishopartsdistrict",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/enos1"
+  },
+  {
+    "name": "Eno's Pizza Tavern Historic Downtown Forney",
+    "slug": "enospizzatavernhistoricdowntownforney",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/enos2"
+  },
+  {
+    "name": "Eno's Pizza Tavern The Sound @ Cypress Waters (Coppell)",
+    "slug": "enospizzatavernthesoundcypresswaterscopp",
+    "category": "pizza",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/enos3"
+  },
+  {
+    "name": "Online Ordering for Restaurants with No Commissions",
+    "slug": "onlineorderingforrestaurantswithnocommis",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/41970/locations/"
+  },
+  {
+    "name": "Cookshack, Fort Worth, TX",
+    "slug": "cookshackfortworthtx",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cookshack"
+  },
+  {
+    "name": "Hurtado Barbecue - Fort Worth",
+    "slug": "hurtadobarbecue-fortworth",
+    "category": "bbq",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hurtado-barbecue-fort-worth-1116-8th-ave"
+  },
+  {
+    "name": "Ascension Coffee Fort Worth",
+    "slug": "ascensioncoffeefortworth",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ascension-coffee-fort-worth"
+  },
+  {
+    "name": "Don Taco DT - Fort Worth",
+    "slug": "dontacodt-fortworth",
+    "category": "mexican",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dontaco"
+  },
+  {
+    "name": "Plank Provisions Plank Shops at Clearfork - Fort Worth",
+    "slug": "plankprovisionsplankshopsatclearfork-for",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/plank-fort-worth"
+  },
+  {
+    "name": "order-page-wrapper.order-online",
+    "slug": "order-page-wrapperorder-online",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/local-foods-kitchen-4548-hartwood-dr"
+  },
+  {
+    "name": "HG SPLY CO Fort Worth - River Run",
+    "slug": "hgsplycofortworth-riverrun",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hg-sply-co-fort-worth-1621-river-run-suite-176"
+  },
+  {
+    "name": "BREWED - Fort Worth 801 W Magnolia Ave",
+    "slug": "brewed-fortworth801wmagnoliaave",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/brewed-fort-worth-801-w-magnolia-ave"
+  },
+  {
+    "name": "Unrefined Bakery Fort Worth",
+    "slug": "unrefinedbakeryfortworth",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/unrefined-bakery-fort-worth"
+  },
+  {
+    "name": "Seven Mile Cafe",
+    "slug": "sevenmilecafe",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/seven-mile-cafe-fort-worth-new-6300-north-freeway"
+  },
+  {
+    "name": "Cafecito - 401 West Magnolia Avenue, Fort Worth, TX",
+    "slug": "cafecito-401westmagnoliaavenuefortwortht",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafecito-new-401-west-magnolia-avenue"
+  },
+  {
+    "name": "Cafe' 6000 6000 Western Place",
+    "slug": "cafe60006000westernplace",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-6000-western-place"
+  },
+  {
+    "name": "Nickel City Fort Worth - Order Online",
+    "slug": "nickelcityfortworth-orderonline",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/nickel-city-fort-worth"
+  },
+  {
+    "name": "Oldwest Cafe Denton",
+    "slug": "oldwestcafedenton",
+    "category": "cafe",
+    "metros": [
+      "dallas"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/old-west-cafe-denton-2420-south-interstate-35"
+  },
+  {
+    "name": "Online Ordering for Righteous Foods - Fort Worth",
+    "slug": "onlineorderingforrighteousfoods-fortwort",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/7364/locations/9855"
+  },
+  {
+    "name": "Online Ordering for Rolling Harvest Food Truck",
+    "slug": "onlineorderingforrollingharvestfoodtruck",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/4462/locations/5795"
+  },
+  {
+    "name": "Online Food Ordering System & App",
+    "slug": "onlinefoodorderingsystemapp",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/12278/locations"
+  },
+  {
+    "name": "Online Ordering for Fired Up - Mclean",
+    "slug": "onlineorderingforfiredup-mclean",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/6936/locations/9237"
+  },
+  {
+    "name": "Online Ordering for Little Fatty",
+    "slug": "onlineorderingforlittlefatty",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/1963/locations"
+  },
+  {
+    "name": "Online Ordering for Time-Out Restaurant",
+    "slug": "onlineorderingfortime-outrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/505/locations/660"
+  },
+  {
+    "name": "Online Ordering for Skirted Heifer - Downtown",
+    "slug": "onlineorderingforskirtedheifer-downtown",
+    "category": "restaurant",
+    "metros": [
+      "dallas"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/4964/locations/6438"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Fig & Ash",
+    "slug": "figash",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Altius",
+    "slug": "altius",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Ritual House",
+    "slug": "ritualhouse",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Scratch & Co.",
+    "slug": "scratchco",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Eleven",
+    "slug": "eleven",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "The Capital Grille",
+    "slug": "thecapitalgrille",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Morcilla",
+    "slug": "morcilla",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Alla Famiglia",
+    "slug": "allafamiglia",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Monterey Bay Fish Grotto",
+    "slug": "montereybayfishgrotto",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "The Forge",
+    "slug": "theforge",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "The Abbey on Butler Street",
+    "slug": "theabbeyonbutlerstreet",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "The Nook",
+    "slug": "thenook",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Piccolo Forno",
+    "slug": "piccoloforno",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "The Church Brew Works",
+    "slug": "thechurchbrewworks",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "The Vandal",
+    "slug": "thevandal",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Industry Public House",
+    "slug": "industrypublichouse",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "The Porch",
+    "slug": "theporch",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Pusadee's Garden",
+    "slug": "pusadeesgarden",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "DiAnoia's Eatery",
+    "slug": "dianoiaseatery",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "The PA Market",
+    "slug": "thepamarket",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Coop De Ville",
+    "slug": "coopdeville",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Roland's Seafood Grill",
+    "slug": "rolandsseafoodgrill",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Kaya",
+    "slug": "kaya",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Pamela's Diner",
+    "slug": "pamelasdiner",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Cellars Speakeasy",
+    "slug": "cellarsspeakeasy",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Little Bangkok in the Strip",
+    "slug": "littlebangkokinthestrip",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Fiori's Pizzaria",
+    "slug": "fiorispizzaria",
+    "category": "pizza",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Pizza Lupo",
+    "slug": "pizzalupo",
+    "category": "pizza",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Driftwood Oven",
+    "slug": "driftwoodoven",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Pizza Parma",
+    "slug": "pizzaparma",
+    "category": "pizza",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Proper Brick Oven & Tap Room",
+    "slug": "properbrickoventaproom",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Iron Born Pizza & Pasta | Strip District",
+    "slug": "ironbornpizzapastastripdistrict",
+    "category": "pizza",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Spak Brothers",
+    "slug": "spakbrothers",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Mercurio's Shadyside",
+    "slug": "mercuriosshadyside",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Benny Fierro's",
+    "slug": "bennyfierros",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Hofbräuhaus Pittsburgh",
+    "slug": "hofbruhauspittsburgh",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Grand Concourse",
+    "slug": "grandconcourse",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "The Urban Tap - Southside",
+    "slug": "theurbantap-southside",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Streets",
+    "slug": "streets",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Dish Osteria Bar",
+    "slug": "dishosteriabar",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Carmella's Plates & Pints",
+    "slug": "carmellasplatespints",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Fat Head's Saloon",
+    "slug": "fatheadssaloon",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Steel Mill Saloon",
+    "slug": "steelmillsaloon",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "The Yard",
+    "slug": "theyard",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "The Commoner",
+    "slug": "thecommoner",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Caffé Mona Strip District",
+    "slug": "caffmonastripdistrict",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Café Momentum Pittsburgh",
+    "slug": "cafmomentumpittsburgh",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ]
+  },
+  {
+    "name": "Food For Thought 194 N Craig St",
+    "slug": "foodforthought194ncraigst",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/food-for-thought-194-n-craig-st"
+  },
+  {
+    "name": "Ephesus Mediterranean Restaurant Pittsburgh",
+    "slug": "ephesusmediterraneanrestaurantpittsburgh",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ephesus-mediterranean-restaurant"
+  },
+  {
+    "name": "Uzbek Food 1926 Spring Garden Avenue",
+    "slug": "uzbekfood1926springgardenavenue",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/uzbek-food-1926-spring-garden-avenue"
+  },
+  {
+    "name": "Southern Tier Pittsburgh",
+    "slug": "southerntierpittsburgh",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/stbcpgh"
+  },
+  {
+    "name": "Order Online",
+    "slug": "orderonline",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tana-ethiopian-cuisine-5929-baum-blvd"
+  },
+  {
+    "name": "Community Kitchen Pittsburgh",
+    "slug": "communitykitchenpittsburgh",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ckporders"
+  },
+  {
+    "name": "Spice Delight - 3513A Butler Street, Pittsburgh, PA",
+    "slug": "spicedelight-3513abutlerstreetpittsburgh",
+    "category": "deli",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/spicedelight"
+  },
+  {
+    "name": "Local Provisions Pittsburgh",
+    "slug": "localprovisionspittsburgh",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/localprovisions"
+  },
+  {
+    "name": "Sly Fox Taphouse Downtown Pittsburgh",
+    "slug": "slyfoxtaphousedowntownpittsburgh",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sly-fox-taphouse-pittsburgh"
+  },
+  {
+    "name": "J Corks 25 East Pittsburgh St.",
+    "slug": "jcorks25eastpittsburghst",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/j-corks-25-east-pittsburgh-st"
+  },
+  {
+    "name": "The James Cafe",
+    "slug": "thejamescafe",
+    "category": "cafe",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thejamescafe"
+  },
+  {
+    "name": "Bae Bae's Cafe",
+    "slug": "baebaescafe",
+    "category": "cafe",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/baebaescafe"
+  },
+  {
+    "name": "Cafe Moulin Shady Side Pittsburgh, PA",
+    "slug": "cafemoulinshadysidepittsburghpa",
+    "category": "cafe",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-moulin"
+  },
+  {
+    "name": "Famous Cafe 15218",
+    "slug": "famouscafe15218",
+    "category": "cafe",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/famous-cafe-15218"
+  },
+  {
+    "name": "Square Cafe",
+    "slug": "squarecafe",
+    "category": "cafe",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/square-cafe"
+  },
+  {
+    "name": "Point Brugge Cafe",
+    "slug": "pointbruggecafe",
+    "category": "cafe",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/point-brugge-cafe"
+  },
+  {
+    "name": "Mediterra Cafe - Lawrenceville",
+    "slug": "mediterracafe-lawrenceville",
+    "category": "cafe",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mediterra-lawrenceville"
+  },
+  {
+    "name": "Cafe Raymond",
+    "slug": "caferaymond",
+    "category": "cafe",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-raymond"
+  },
+  {
+    "name": "Hardwood Cafe Butler",
+    "slug": "hardwoodcafebutler",
+    "category": "cafe",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/hardwood-cafe"
+  },
+  {
+    "name": "Pittsburgh Bottleshop Pittsburgh Bottleshop",
+    "slug": "pittsburghbottleshoppittsburghbottleshop",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-pittsburgh-bottleshop-cafe-and-brewhouse"
+  },
+  {
+    "name": "In & Out Cafe 1621 N Road Street",
+    "slug": "inoutcafe1621nroadstreet",
+    "category": "cafe",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/in-out-cafe"
+  },
+  {
+    "name": "Pizza Lupo - 5123 Butler Street, Pittsburgh, PA",
+    "slug": "pizzalupo-5123butlerstreetpittsburghpa",
+    "category": "pizza",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizza-lupo-5123-butler-street"
+  },
+  {
+    "name": "Spak Brothers Pizza",
+    "slug": "spakbrotherspizza",
+    "category": "pizza",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/spak-brothers"
+  },
+  {
+    "name": "Pizza Fiesta - Order Online",
+    "slug": "pizzafiesta-orderonline",
+    "category": "pizza",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizza-fiesta-downtown-14-smithfield-street"
+  },
+  {
+    "name": "Pizza Roma McCandless",
+    "slug": "pizzaromamccandless",
+    "category": "pizza",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizza-roma-pittsburgh-8360-perry-hwy"
+  },
+  {
+    "name": "Mario's Pizza Greentree",
+    "slug": "mariospizzagreentree",
+    "category": "pizza",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/marios-pizza-greentree"
+  },
+  {
+    "name": "Vallozzi's Pittsburgh Downtown",
+    "slug": "vallozzispittsburghdowntown",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/vallozzis-pittsburgh"
+  },
+  {
+    "name": "Mandy's Pizza Pittsburgh",
+    "slug": "mandyspizzapittsburgh",
+    "category": "pizza",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/mandys-pizza-pittsburgh"
+  },
+  {
+    "name": "Lotsa Stone Fired Pizza Pittsburgh",
+    "slug": "lotsastonefiredpizzapittsburgh",
+    "category": "pizza",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lotsa-stone-fired-pizza-pittsburgh"
+  },
+  {
+    "name": "Florence pizza and pasta PA",
+    "slug": "florencepizzaandpastapa",
+    "category": "pizza",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/florence-pizza-and-pasta-pa"
+  },
+  {
+    "name": "Gusto's Pizza and Salad Gusto's Pizza and Salad",
+    "slug": "gustospizzaandsaladgustospizzaandsalad",
+    "category": "pizza",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gustossalad"
+  },
+  {
+    "name": "Gran Canal Caffé 1021 North Canal Street Pittsburgh, PA ...",
+    "slug": "grancanalcaff1021northcanalstreetpittsbu",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gran-canal-caff-1344-n-sheridan-ave"
+  },
+  {
+    "name": "Milky Way Pittsburgh",
+    "slug": "milkywaypittsburgh",
+    "category": "restaurant",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/milky-way-pittsburgh"
+  },
+  {
+    "name": "AJ's Pizza & Hoagies 3565 Harts Run Rd",
+    "slug": "ajspizzahoagies3565hartsrunrd",
+    "category": "pizza",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ajspizzafoxchapel"
+  },
+  {
+    "name": "Tavern Pizza - 600 Lincoln Avenue, Bellevue, PA",
+    "slug": "tavernpizza-600lincolnavenuebellevuepa",
+    "category": "pizza",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/tavern-pizza-600-lincoln-avenue"
+  },
+  {
+    "name": "The Oven Pizza Co. - Wexford",
+    "slug": "theovenpizzaco-wexford",
+    "category": "pizza",
+    "metros": [
+      "pittsburgh"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-oven-pizza-co-2000-village-run-dr"
+  }
+]

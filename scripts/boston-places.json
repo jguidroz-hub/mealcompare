@@ -1052,5 +1052,635 @@
       "boston"
     ],
     "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
+  },
+  {
+    "name": "Popmenu: Case Study - The Hampton Social",
+    "slug": "popmenucasestudy-thehamptonsocial",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/improving-margins/the-hampton-social"
+  },
+  {
+    "name": "The Boston Restaurant 100 NE Central Ave",
+    "slug": "thebostonrestaurant100necentralave",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thebostonrestaurant"
+  },
+  {
+    "name": "Lord Hobo Boston",
+    "slug": "lordhoboboston",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lord-hobo-boston"
+  },
+  {
+    "name": "Halftime Pizza - Boston 115 Causeway Street",
+    "slug": "halftimepizza-boston115causewaystreet",
+    "category": "pizza",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/halftimepizzaboston"
+  },
+  {
+    "name": "Craft Food Halls 135 William T Morrissey Blvd",
+    "slug": "craftfoodhalls135williamtmorrisseyblvd",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cfh-southline"
+  },
+  {
+    "name": "Boston Commons East Nashville",
+    "slug": "bostoncommonseastnashville",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/boston-common-seafood-house-1008-a-woodland-st-nashville-tn-37206"
+  },
+  {
+    "name": "Servia Financial District, Boston",
+    "slug": "serviafinancialdistrictboston",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/servia"
+  },
+  {
+    "name": "Dragon Bowl Chinese Cuisine Boston",
+    "slug": "dragonbowlchinesecuisineboston",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dragon-bowl-chinese-cuisine-longwood-galleria"
+  },
+  {
+    "name": "Yoma Burmese Food Allston, MA",
+    "slug": "yomaburmesefoodallstonma",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/yoma-boston-5-north-beacon-st"
+  },
+  {
+    "name": "224 Boston Street",
+    "slug": "224bostonstreet",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/224-boston-street"
+  },
+  {
+    "name": "Oliveira's East Boston",
+    "slug": "oliveiraseastboston",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/oliveiras-east-boston-297-chelsea-st"
+  },
+  {
+    "name": "Logan Food Market Logan Food Market",
+    "slug": "loganfoodmarketloganfoodmarket",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/meridian-at-logan-new-45-transporation-way-logan-airport"
+  },
+  {
+    "name": "Rootastes - Boston Public Market 100 Hanover st",
+    "slug": "rootastes-bostonpublicmarket100hanoverst",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/rootastesbpm"
+  },
+  {
+    "name": "Santarpio's Pizza 111 Chelsea Street, East Boston",
+    "slug": "santarpiospizza111chelseastreeteastbosto",
+    "category": "pizza",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/santarpiospizza"
+  },
+  {
+    "name": "Dirty Water Dough - East Boston",
+    "slug": "dirtywaterdough-eastboston",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/dirty-water-dough-east-boston"
+  },
+  {
+    "name": "Crush Pizza East Boston",
+    "slug": "crushpizzaeastboston",
+    "category": "pizza",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/crush-pizza-state-street"
+  },
+  {
+    "name": "Pizza Gourmet 599 East Boston Post Road",
+    "slug": "pizzagourmet599eastbostonpostroad",
+    "category": "pizza",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizza-gourmet-599-east-boston-post-road"
+  },
+  {
+    "name": "Pizza Project",
+    "slug": "pizzaproject",
+    "category": "pizza",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/pizzaprojectboston"
+  },
+  {
+    "name": "PICCO (Boston) Boston",
+    "slug": "piccobostonboston",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/picco"
+  },
+  {
+    "name": "Stoked Wood Fired Pizza Co. Washington Square, Brookline",
+    "slug": "stokedwoodfiredpizzacowashingtonsquarebr",
+    "category": "pizza",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/stoked-pizza"
+  },
+  {
+    "name": "Little Steve's Pizzeria Boston",
+    "slug": "littlestevespizzeriaboston",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/little-steves-pizzeria-boston"
+  },
+  {
+    "name": "Gary's Pizza 1744 Washington Street #A",
+    "slug": "garyspizza1744washingtonstreeta",
+    "category": "pizza",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/garyspizzaboston"
+  },
+  {
+    "name": "Lily's Bar - Pizza - Patio",
+    "slug": "lilysbar-pizza-patio",
+    "category": "pizza",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/lily's"
+  },
+  {
+    "name": "Penguin Pizza",
+    "slug": "penguinpizza",
+    "category": "pizza",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/penguin-pizza"
+  },
+  {
+    "name": "The Salty Pig 130 Dartmouth St, Boston, MA 02116",
+    "slug": "thesaltypig130dartmouthstbostonma02116",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/salty-pig-130-dartmouth-st-boston-ma-02116"
+  },
+  {
+    "name": "Union Park Pizza",
+    "slug": "unionparkpizza",
+    "category": "pizza",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/union-park-pizza"
+  },
+  {
+    "name": "Online Ordering for No Name Restaurant - Boston",
+    "slug": "onlineorderingfornonamerestaurant-boston",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/5369/locations/7031"
+  },
+  {
+    "name": "Cambridge Common 1667 Massachusetts Avenue",
+    "slug": "cambridgecommon1667massachusettsavenue",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/common-cambridge-1667-massachusetts-avenue"
+  },
+  {
+    "name": "Chilacates Mass Ave Cambridge",
+    "slug": "chilacatesmassavecambridge",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/chilacates-mass-ave-cambridge-em-704-mass-ave"
+  },
+  {
+    "name": "Craft Food Halls 35 Cambridgepark Drive - Cambridge",
+    "slug": "craftfoodhalls35cambridgeparkdrive-cambr",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/craft-food-hall-cambridge-35-cambridgepark-drive"
+  },
+  {
+    "name": "Oak Bistro 1287 Cambridge Street",
+    "slug": "oakbistro1287cambridgestreet",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/oak-bistro-1287-cambridge-street"
+  },
+  {
+    "name": "Shojo Cambridge",
+    "slug": "shojocambridge",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/shojocambridge"
+  },
+  {
+    "name": "Gustazo Cuban Kitchen & Bar - Cambridge",
+    "slug": "gustazocubankitchenbar-cambridge",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gustazocambridge"
+  },
+  {
+    "name": "Row 34 Cambridge",
+    "slug": "row34cambridge",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/row-34-cambridge-314-main-street"
+  },
+  {
+    "name": "Gran Gusto- Cambridge 90 SHERMAN ST",
+    "slug": "grangusto-cambridge90shermanst",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gran-gusto-cambridge-90-sherman-st"
+  },
+  {
+    "name": "Gufo 660 Cambridge Street",
+    "slug": "gufo660cambridgestreet",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/gufo-cambridge-660-cambridge-street"
+  },
+  {
+    "name": "Bred - Cambridge 730 Main Street",
+    "slug": "bred-cambridge730mainstreet",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/bred-cambridge-730-main-street"
+  },
+  {
+    "name": "Fresh - Cambridge",
+    "slug": "fresh-cambridge",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/freshcambridge"
+  },
+  {
+    "name": "Stoked Pizza Co. Cambridge 1611 Massachusetts Ave.",
+    "slug": "stokedpizzacocambridge1611massachusettsa",
+    "category": "pizza",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/stoked-pizza-cambridge-llc-1611-massachusetts-ave"
+  },
+  {
+    "name": "Forage - Cambridge",
+    "slug": "forage-cambridge",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/forage-cambridge-5-craigie-circle"
+  },
+  {
+    "name": "Sofra Bakery & Cafe - Cambridge",
+    "slug": "sofrabakerycafe-cambridge",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/sofra-cambridge"
+  },
+  {
+    "name": "Cafe Mami",
+    "slug": "cafemami",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-mami"
+  },
+  {
+    "name": "CSCA Cafe 1995 Massachusetts Avenue, Cambridge, MA ...",
+    "slug": "cscacafe1995massachusettsavenuecambridge",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/csca-cafe-2020-massachusetts-ave"
+  },
+  {
+    "name": "The Lexington + Cafe Beatrice + Geppetto",
+    "slug": "thelexingtoncafebeatricegeppetto",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/thelexingtoncx"
+  },
+  {
+    "name": "Ripple Cafe - Cambridge 314 Main Street",
+    "slug": "ripplecafe-cambridge314mainstreet",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/ripple-cafe-cambridge-314-main-street"
+  },
+  {
+    "name": "The Coast Cafe",
+    "slug": "thecoastcafe",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-coast-cafe"
+  },
+  {
+    "name": "Area Four and Area Four Cafe Technology Square ...",
+    "slug": "areafourandareafourcafetechnologysquare",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/areafour"
+  },
+  {
+    "name": "Discovery Cafe - Cambridge 157 6th Street",
+    "slug": "discoverycafe-cambridge1576thstreet",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/discovery-cafe-cambridge-157-6th-street"
+  },
+  {
+    "name": "Page & Leaf Cafe 1815 Massachusetts Avenue",
+    "slug": "pageleafcafe1815massachusettsavenue",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/page-leaf-cafe-1815-massachusetts-avenue"
+  },
+  {
+    "name": "Cafe Luna - Main Street",
+    "slug": "cafeluna-mainstreet",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cafe-luna-main-street"
+  },
+  {
+    "name": "Crema Cafe Harvard Square",
+    "slug": "cremacafeharvardsquare",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/cremacafe"
+  },
+  {
+    "name": "Circus Cooperative Cafe 31 Putnam Ave",
+    "slug": "circuscooperativecafe31putnamave",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/circus-cooperative-cafe"
+  },
+  {
+    "name": "Discovery Cafe - Boston 3 Blackfan Street",
+    "slug": "discoverycafe-boston3blackfanstreet",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/discovery-cafe-boston-3-blackfan-street"
+  },
+  {
+    "name": "VESTER Cambridge: Kendall Square",
+    "slug": "vestercambridgekendallsquare",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/vester"
+  },
+  {
+    "name": "2nd Street Cafe",
+    "slug": "2ndstreetcafe",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/2nd-street-cafe-89-2nd-street"
+  },
+  {
+    "name": "Online Ordering for Restaurants with No Commissions",
+    "slug": "onlineorderingforrestaurantswithnocommis",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/2595/locations"
+  },
+  {
+    "name": "Online Ordering for Rolling Harvest Food Truck",
+    "slug": "onlineorderingforrollingharvestfoodtruck",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/4462/locations/5795"
+  },
+  {
+    "name": "Online Ordering",
+    "slug": "onlineordering",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/9796/locations"
+  },
+  {
+    "name": "Online Ordering for Little Fatty",
+    "slug": "onlineorderingforlittlefatty",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/1963/locations"
+  },
+  {
+    "name": "Online Ordering for Polpettina",
+    "slug": "onlineorderingforpolpettina",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/778/locations"
+  },
+  {
+    "name": "The Pub 682 Broadway.Somerville,Ma.02144",
+    "slug": "thepub682broadwaysomervillema02144",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/the-pub"
+  },
+  {
+    "name": "Avenue kitchen + bar Somerville",
+    "slug": "avenuekitchenbarsomerville",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/avenue-kitchen"
+  },
+  {
+    "name": "American Flatbread Somerville",
+    "slug": "americanflatbreadsomerville",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/american-flatbread-somerville"
+  },
+  {
+    "name": "Five Horses Tavern Somerville",
+    "slug": "fivehorsestavernsomerville",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/fivehorsessomerville"
+  },
+  {
+    "name": "Grainmaker Somerville",
+    "slug": "grainmakersomerville",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/grainmaker-somerville"
+  },
+  {
+    "name": "Checkout",
+    "slug": "checkout",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/boston-burger-company-somerville-37-davis-square/checkout"
+  },
+  {
+    "name": "diesel cafe",
+    "slug": "dieselcafe",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/diesel-cafe"
+  },
+  {
+    "name": "Revival Cafe",
+    "slug": "revivalcafe",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/revival-cafe-alewife"
+  },
+  {
+    "name": "Revival Cafe Davis",
+    "slug": "revivalcafedavis",
+    "category": "cafe",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/revivalcafeandkitchendavis"
+  },
+  {
+    "name": "Picante Taqueria Somerville (Union Square) 253 ...",
+    "slug": "picantetaqueriasomervilleunionsquare253",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "toastUrl": "https://order.toasttab.com/online/picante-taqueria-somerville-union-square-253-washington-street"
   }
 ]
