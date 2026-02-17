@@ -1615,5 +1615,455 @@
       "sandiego"
     ],
     "toastUrl": "https://order.toasttab.com/online/chang-thai-1232-emmet-st-n"
+  },
+  {
+    "name": "Order Gyu-kaku Japanese BBQ - San Diego, CA Online",
+    "slug": "ordergyu-kakujapanesebbq-sandiegocaonlin",
+    "category": "bbq",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/23642/locations/35936"
+  },
+  {
+    "name": "Alforon 5965 El Cajon Boulevard",
+    "slug": "alforon5965elcajonboulevard",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://order.online/store/alforon-san-diego-83531/"
+  },
+  {
+    "name": "Trending Salads near San Diego, CA",
+    "slug": "trendingsaladsnearsandiegoca",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://eat.popmenu.com/places/san-diego-ca/categories/salads"
+  },
+  {
+    "name": "Trending Fried Chicken near San Diego, CA",
+    "slug": "trendingfriedchickennearsandiegoca",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://eat.popmenu.com/places/san-diego-ca/categories/fried-chicken"
+  },
+  {
+    "name": "Trending Dishes in San Diego, CA",
+    "slug": "trendingdishesinsandiegoca",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://eat.popmenu.com/places/san-diego-ca"
+  },
+  {
+    "name": "Trending Tacos near San Diego, CA",
+    "slug": "trendingtacosnearsandiegoca",
+    "category": "mexican",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://eat.popmenu.com/places/san-diego-ca/categories/tacos"
+  },
+  {
+    "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
+    "slug": "restaurantmenuideas9ofthebestmenustoinsp",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
+  },
+  {
+    "name": "Popmenu: About Us",
+    "slug": "popmenuaboutus",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/about-us"
+  },
+  {
+    "name": "Popmenu: Case Study - The Deck",
+    "slug": "popmenucasestudy-thedeck",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/the-deck"
+  },
+  {
+    "name": "11 of the best restaurant menu designs to inspire you",
+    "slug": "11ofthebestrestaurantmenudesignstoinspir",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-menu-designs"
+  },
+  {
+    "name": "ACS",
+    "slug": "acs",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://affordable-catering.popmenu.com/"
+  },
+  {
+    "name": "Popmenu - New",
+    "slug": "popmenu-new",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-websites"
+  },
+  {
+    "name": "Top Trending Dishes - eat.popmenu.com",
+    "slug": "toptrendingdishes-eatpopmenucom",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://eat.popmenu.com/places/global/dishes/3177684-the-original"
+  },
+  {
+    "name": "Popmenu: Pricing",
+    "slug": "popmenupricing",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/pricing"
+  },
+  {
+    "name": "Popmenu: Case Study - Dos Salsas",
+    "slug": "popmenucasestudy-dossalsas",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
+  },
+  {
+    "name": "Popmenu: Case Study - B&B Butchers Restaurant",
+    "slug": "popmenucasestudy-bbbutchersrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/b-b-butchers-restaurant"
+  },
+  {
+    "name": "5 menu design Ideas for digital-first restaurants",
+    "slug": "5menudesignideasfordigital-firstrestaura",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
+  },
+  {
+    "name": "Popmenu: Restaurant online ordering",
+    "slug": "popmenurestaurantonlineordering",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
+  },
+  {
+    "name": "Popmenu: Case Study - Alfred's Restaurant",
+    "slug": "popmenucasestudy-alfredsrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/alfreds-restaurant"
+  },
+  {
+    "name": "Popmenu: Photography",
+    "slug": "popmenuphotography",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/photography"
+  },
+  {
+    "name": "Popmenu: We do more than grow your restaurant.",
+    "slug": "popmenuwedomorethangrowyourrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/"
+  },
+  {
+    "name": "Vegan Street Food",
+    "slug": "veganstreetfood",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "squareUrl": "https://underdog-sd.square.site/"
+  },
+  {
+    "name": "San Diego Coffee & Food",
+    "slug": "sandiegocoffeefood",
+    "category": "cafe",
+    "metros": [
+      "sandiego"
+    ],
+    "squareUrl": "https://achillescoffeeroasters.square.site/"
+  },
+  {
+    "name": "Home",
+    "slug": "home",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "squareUrl": "https://viva-foods-delivery.square.site/"
+  },
+  {
+    "name": "SWAGYU, a Wagyu-focused butcher shop",
+    "slug": "swagyuawagyu-focusedbutchershop",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "squareUrl": "https://swagyu.square.site/"
+  },
+  {
+    "name": "Square",
+    "slug": "square",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "squareUrl": "https://flavorsofeastafricaorder.square.site/"
+  },
+  {
+    "name": "Bowls",
+    "slug": "bowls",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "squareUrl": "https://san-diego-house-rabbit-society.square.site/shop/crocks/15"
+  },
+  {
+    "name": "San Diego Samba",
+    "slug": "sandiegosamba",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "squareUrl": "https://candysjewels.square.site/product/san-diego-samba/246"
+  },
+  {
+    "name": "SDHRS",
+    "slug": "sdhrs",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "squareUrl": "https://san-diego-house-rabbit-society.square.site/shop/supplemental-nutrition/8"
+  },
+  {
+    "name": "Treats",
+    "slug": "treats",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "squareUrl": "https://san-diego-house-rabbit-society.square.site/shop/treats/4"
+  },
+  {
+    "name": "San Diego's Finest Lemonade: Home",
+    "slug": "sandiegosfinestlemonadehome",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "squareUrl": "https://sdfinestlemonade.square.site/"
+  },
+  {
+    "name": "San Diego Decals: Home",
+    "slug": "sandiegodecalshome",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "squareUrl": "https://san-diego-decals-co.square.site/"
+  },
+  {
+    "name": "San Diego, CA - Delivery & Takeout",
+    "slug": "sandiegoca-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Diego"
+  },
+  {
+    "name": "Deep Dish in San Diego, CA - Delivery & Takeout",
+    "slug": "deepdishinsandiegoca-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Diego/Deep%20Dish"
+  },
+  {
+    "name": "Indian in San Diego, CA - Delivery & Takeout",
+    "slug": "indianinsandiegoca-deliverytakeout",
+    "category": "indian",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Diego/Indian"
+  },
+  {
+    "name": "Vietnamese in San Diego, CA - Delivery & Takeout",
+    "slug": "vietnameseinsandiegoca-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Diego/Vietnamese"
+  },
+  {
+    "name": "Mexican in San Diego, CA - Delivery & Takeout",
+    "slug": "mexicaninsandiegoca-deliverytakeout",
+    "category": "mexican",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Diego/Mexican"
+  },
+  {
+    "name": "Japanese in San Diego, CA - Delivery & Takeout",
+    "slug": "japaneseinsandiegoca-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Diego/Japanese"
+  },
+  {
+    "name": "Indo-Chinese in San Diego, CA - Delivery & Takeout",
+    "slug": "indo-chineseinsandiegoca-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Diego/Indo-Chinese"
+  },
+  {
+    "name": "Soul Food in San Diego, CA - Delivery & Takeout",
+    "slug": "soulfoodinsandiegoca-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Diego/Soul%20Food"
+  },
+  {
+    "name": "Asian in San Diego, CA - Delivery & Takeout",
+    "slug": "asianinsandiegoca-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Diego/Asian"
+  },
+  {
+    "name": "Dessert in San Diego, CA - Delivery & Takeout",
+    "slug": "dessertinsandiegoca-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/San Diego/Dessert"
+  },
+  {
+    "name": "San Ysidro, CA - Delivery & Takeout",
+    "slug": "sanysidroca-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Ysidro"
+  },
+  {
+    "name": "Restaurants - Delivery & Takeout",
+    "slug": "restaurants-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://urbanindia.menufy.com/"
+  },
+  {
+    "name": "Energy Drinks in SAN DIEGO, CA - Delivery & Takeout",
+    "slug": "energydrinksinsandiegoca-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/SAN%20DIEGO/Energy%20Drinks"
+  },
+  {
+    "name": "SAN CLEMENTE, CA - Delivery & Takeout",
+    "slug": "sanclementeca-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/SAN%20CLEMENTE"
+  },
+  {
+    "name": "SAN BERNARDINO, CA - Delivery & Takeout",
+    "slug": "sanbernardinoca-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/SAN%20BERNARDINO"
+  },
+  {
+    "name": "Mexican in SAN DIMAS, CA - Delivery & Takeout",
+    "slug": "mexicaninsandimasca-deliverytakeout",
+    "category": "mexican",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/SAN%20DIMAS/Mexican"
+  },
+  {
+    "name": "SAN DIMAS, CA - Delivery & Takeout",
+    "slug": "sandimasca-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/SAN%20DIMAS"
+  },
+  {
+    "name": "San Rafael, CA - Delivery & Takeout",
+    "slug": "sanrafaelca-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "sandiego"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Rafael"
   }
 ]

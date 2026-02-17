@@ -1615,5 +1615,455 @@
       "philly"
     ],
     "toastUrl": "https://order.toasttab.com/online/south-philadelphia-taproom"
+  },
+  {
+    "name": "Philly Salads & Smoothies 116 South 11th Street",
+    "slug": "phillysaladssmoothies116south11thstreet",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://order.online/store/philly-salads-&-smoothies-philadelphia-914689/"
+  },
+  {
+    "name": "How technology can help boost restaurant profit margins",
+    "slug": "howtechnologycanhelpboostrestaurantprofi",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-profit-margins"
+  },
+  {
+    "name": "J-N-G Grill - Restaurant in New Philadelphia, OH",
+    "slug": "j-n-ggrill-restaurantinnewphiladelphiaoh",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://j-n-g-grill.popmenu.com/items/reuben-sandwich"
+  },
+  {
+    "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
+    "slug": "restaurantmenuideas9ofthebestmenustoinsp",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
+  },
+  {
+    "name": "Restaurant analytics: How to collect (and use) guest data",
+    "slug": "restaurantanalyticshowtocollectandusegue",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-analytics-data-guide"
+  },
+  {
+    "name": "How technology can help with the restaurant labor shortage",
+    "slug": "howtechnologycanhelpwiththerestaurantlab",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-labor-shortage"
+  },
+  {
+    "name": "Best restaurant websites: 4 examples to steal from",
+    "slug": "bestrestaurantwebsites4examplestostealfr",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-websites"
+  },
+  {
+    "name": "Popmenu: Case Study - Cliff View",
+    "slug": "popmenucasestudy-cliffview",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/cliff-view"
+  },
+  {
+    "name": "The ultimate guide to restaurant branding",
+    "slug": "theultimateguidetorestaurantbranding",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-branding-guide"
+  },
+  {
+    "name": "5 menu design Ideas for digital-first restaurants",
+    "slug": "5menudesignideasfordigital-firstrestaura",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
+  },
+  {
+    "name": "Popmenu: Manage your restaurant's online reputation",
+    "slug": "popmenumanageyourrestaurantsonlinereputa",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/reputation-management"
+  },
+  {
+    "name": "Popmenu: Photography",
+    "slug": "popmenuphotography",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/photography"
+  },
+  {
+    "name": "Home",
+    "slug": "home",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "squareUrl": "https://philliessf.square.site/"
+  },
+  {
+    "name": "Square",
+    "slug": "square",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "squareUrl": "https://southphillyfoodcoop.square.site/"
+  },
+  {
+    "name": "Philly's Finest Cheesesteaks and Hoagies",
+    "slug": "phillysfinestcheesesteaksandhoagies",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "squareUrl": "https://phillysfinestbeachside.square.site/"
+  },
+  {
+    "name": "Philly Hots Home Meal Delivery",
+    "slug": "phillyhotshomemealdelivery",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "squareUrl": "https://phillyhots.square.site/"
+  },
+  {
+    "name": "PHIL'S Main Street Grille & Pizza Parlor",
+    "slug": "philsmainstreetgrillepizzaparlor",
+    "category": "pizza",
+    "metros": [
+      "philly"
+    ],
+    "squareUrl": "https://philsgrille.square.site/"
+  },
+  {
+    "name": "Forîn Café",
+    "slug": "forncaf",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "squareUrl": "https://forin-cafe.square.site/product/philly-forin-tote/783"
+  },
+  {
+    "name": "Menu View - Filane's Restaurant",
+    "slug": "menuview-filanesrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "squareUrl": "https://filanes-restaurant.square.site/menu-view"
+  },
+  {
+    "name": "Filane's Restaurant: Home",
+    "slug": "filanesrestauranthome",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "squareUrl": "https://filanes-restaurant.square.site/"
+  },
+  {
+    "name": "About",
+    "slug": "about",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "squareUrl": "https://uma-cafe-peruvian-restaurant.square.site/about"
+  },
+  {
+    "name": "TACODELPHIA - Philadelphia, PA 19147 (Menu & Order Online)",
+    "slug": "tacodelphia-philadelphiapa19147menuorder",
+    "category": "mexican",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://tacodelphia.menufy.com/"
+  },
+  {
+    "name": "VEGANISH - WEST PHILADELPHIA, PA 19131 (Menu ...",
+    "slug": "veganish-westphiladelphiapa19131menu",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://veganish.menufy.com/"
+  },
+  {
+    "name": "Cray Taste - Philadelphia, PA 19106 (Menu & Order Online)",
+    "slug": "craytaste-philadelphiapa19106menuorderon",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://oldcitycraytaste.menufy.com/"
+  },
+  {
+    "name": "Home - Tandoori of India",
+    "slug": "home-tandooriofindia",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://tandooriofindia.menufy.com/"
+  },
+  {
+    "name": "APG, MD - Delivery & Takeout",
+    "slug": "apgmd-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MD/APG"
+  },
+  {
+    "name": "Restaurants - Delivery & Takeout",
+    "slug": "restaurants-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://philadelphiasubspa.menufy.com/"
+  },
+  {
+    "name": "Home - Fresh Pizza",
+    "slug": "home-freshpizza",
+    "category": "pizza",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://freshpizza.menufy.com/"
+  },
+  {
+    "name": "Philadelphia, PA - Delivery & Takeout",
+    "slug": "philadelphiapa-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/PA/Philadelphia"
+  },
+  {
+    "name": "Hibachi in Philadelphia, PA - Delivery & Takeout",
+    "slug": "hibachiinphiladelphiapa-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/PA/Philadelphia/Hibachi"
+  },
+  {
+    "name": "PA - Delivery & Takeout",
+    "slug": "pa-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/PA"
+  },
+  {
+    "name": "MEDIA, PA - Delivery & Takeout",
+    "slug": "mediapa-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/PA/MEDIA"
+  },
+  {
+    "name": "Pizza in Philadelphia, PA - Delivery & Takeout",
+    "slug": "pizzainphiladelphiapa-deliverytakeout",
+    "category": "pizza",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/PA/Philadelphia/Pizza"
+  },
+  {
+    "name": "Pakistani in Philadelphia, PA - Delivery & Takeout",
+    "slug": "pakistaniinphiladelphiapa-deliverytakeou",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/PA/Philadelphia/Pakistani"
+  },
+  {
+    "name": "Wings in Media, PA - Delivery & Takeout",
+    "slug": "wingsinmediapa-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/PA/Media/Wings"
+  },
+  {
+    "name": "Online Ordering and Restaurant Marketing System",
+    "slug": "onlineorderingandrestaurantmarketingsyst",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/"
+  },
+  {
+    "name": "The Owner.com Story",
+    "slug": "theownercomstory",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/our-story"
+  },
+  {
+    "name": "Online Catering System",
+    "slug": "onlinecateringsystem",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/catering"
+  },
+  {
+    "name": "Owner.com Series B Memo",
+    "slug": "ownercomseriesbmemo",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/b"
+  },
+  {
+    "name": "Scale Your Restaurant",
+    "slug": "scaleyourrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/scale-your-restaurant"
+  },
+  {
+    "name": "Owner.com Leadership Team",
+    "slug": "ownercomleadershipteam",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/leadership"
+  },
+  {
+    "name": "No Commission Delivery for Restaurants",
+    "slug": "nocommissiondeliveryforrestaurants",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/delivery"
+  },
+  {
+    "name": "Owner.com Reviews",
+    "slug": "ownercomreviews",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/reviews"
+  },
+  {
+    "name": "How Owner.com Works",
+    "slug": "howownercomworks",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/how-owner-works"
+  },
+  {
+    "name": "Pricing",
+    "slug": "pricing",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/pricing"
+  },
+  {
+    "name": "Restaurant Manager Hiring Guide",
+    "slug": "restaurantmanagerhiringguide",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/resources/hiring-guide"
+  },
+  {
+    "name": "Owner.com & California Restaurant Association",
+    "slug": "ownercomcaliforniarestaurantassociation",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/california-ra"
+  },
+  {
+    "name": "RestaurantGPT",
+    "slug": "restaurantgpt",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://grader.owner.com/tra"
+  },
+  {
+    "name": "Owner.com Series C Memo",
+    "slug": "ownercomseriescmemo",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/c"
+  },
+  {
+    "name": "Owner Product Updates and Releases",
+    "slug": "ownerproductupdatesandreleases",
+    "category": "restaurant",
+    "metros": [
+      "philly"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/releases"
   }
 ]

@@ -1060,5 +1060,356 @@
       "austin"
     ],
     "toastUrl": "https://order.toasttab.com/online/oz-korean-bbq-sacramento"
+  },
+  {
+    "name": "Popmenu: Client Testimonials & Reviews",
+    "slug": "popmenuclienttestimonialsreviews",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-testimonials-reviews"
+  },
+  {
+    "name": "Popmenu: Case Study - Dos Salsas",
+    "slug": "popmenucasestudy-dossalsas",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
+  },
+  {
+    "name": "Popmenu: Case Study - Teppan Steakhouse",
+    "slug": "popmenucasestudy-teppansteakhouse",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/teppan-steakhouse"
+  },
+  {
+    "name": "Popmenu: Who We Help - Quick Service Restaurants",
+    "slug": "popmenuwhowehelp-quickservicerestaurants",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/who-we-help/quick-service-restaurants"
+  },
+  {
+    "name": "5 menu design Ideas for digital-first restaurants",
+    "slug": "5menudesignideasfordigital-firstrestaura",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
+  },
+  {
+    "name": "Popmenu - New",
+    "slug": "popmenu-new",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/automation-in-restaurants"
+  },
+  {
+    "name": "Popmenu: AI answering",
+    "slug": "popmenuaianswering",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/ai-answering"
+  },
+  {
+    "name": "Popmenu: Pricing",
+    "slug": "popmenupricing",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/pricing"
+  },
+  {
+    "name": "Best practices for food menu design",
+    "slug": "bestpracticesforfoodmenudesign",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/food-menu-design"
+  },
+  {
+    "name": "Popmenu: Press Releases",
+    "slug": "popmenupressreleases",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/press-releases"
+  },
+  {
+    "name": "Popmenu: Developer API Connections",
+    "slug": "popmenudeveloperapiconnections",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/developer-api"
+  },
+  {
+    "name": "Popmenu: Leadership",
+    "slug": "popmenuleadership",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/leadership"
+  },
+  {
+    "name": "Popmenu: About Us",
+    "slug": "popmenuaboutus",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/about-us"
+  },
+  {
+    "name": "Popmenu: Manage your restaurant's online reputation",
+    "slug": "popmenumanageyourrestaurantsonlinereputa",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/reputation-management"
+  },
+  {
+    "name": "Popmenu + Toast",
+    "slug": "popmenutoast",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/partner/toast"
+  },
+  {
+    "name": "Home",
+    "slug": "home",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "squareUrl": "https://the-pho.square.site/"
+  },
+  {
+    "name": "Kumars Indian Resturant",
+    "slug": "kumarsindianresturant",
+    "category": "indian",
+    "metros": [
+      "austin"
+    ],
+    "squareUrl": "https://kumars-austin.square.site/"
+  },
+  {
+    "name": "Order Online From The Bougie Foodie",
+    "slug": "orderonlinefromthebougiefoodie",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "squareUrl": "https://the-bougie-foodie.square.site/"
+  },
+  {
+    "name": "Austin's Coffee Cafe: Home",
+    "slug": "austinscoffeecafehome",
+    "category": "cafe",
+    "metros": [
+      "austin"
+    ],
+    "squareUrl": "https://austins-coffee-cafe.square.site/"
+  },
+  {
+    "name": "Square",
+    "slug": "square",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "squareUrl": "https://tavernaustin.square.site/"
+  },
+  {
+    "name": "Austin Cordial Company",
+    "slug": "austincordialcompany",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "squareUrl": "https://austincordials.square.site/"
+  },
+  {
+    "name": "SDTA Austin: Home",
+    "slug": "sdtaaustinhome",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "squareUrl": "https://sdtaaustin.square.site/"
+  },
+  {
+    "name": "Austin's Farm Market",
+    "slug": "austinsfarmmarket",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "squareUrl": "https://austins-farm-market.square.site/"
+  },
+  {
+    "name": "Athenian Grill",
+    "slug": "atheniangrill",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "squareUrl": "https://athenian-grill.square.site/"
+  },
+  {
+    "name": "Bamboo Bistro - Austin, TX 78745 (Menu & Order Online)",
+    "slug": "bamboobistro-austintx78745menuorderonlin",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://southbamboobistro.menufy.com/"
+  },
+  {
+    "name": "Austin, TX - Delivery & Takeout",
+    "slug": "austintx-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/TX/Austin"
+  },
+  {
+    "name": "Home - C Spot",
+    "slug": "home-cspot",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://cspot.menufy.com/"
+  },
+  {
+    "name": "Asian in Austin, TX - Delivery & Takeout",
+    "slug": "asianinaustintx-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/TX/Austin/Asian"
+  },
+  {
+    "name": "Chinese in Austin, TX - Delivery & Takeout",
+    "slug": "chineseinaustintx-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/TX/Austin/Chinese"
+  },
+  {
+    "name": "Nagoya Steak & Sushi - Austin, TX 78750 (Menu & Order ...",
+    "slug": "nagoyasteaksushi-austintx78750menuorder",
+    "category": "japanese",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://eatnagoya.menufy.com/"
+  },
+  {
+    "name": "Thai in Austin, TX - Delivery & Takeout",
+    "slug": "thaiinaustintx-deliverytakeout",
+    "category": "thai",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/TX/Austin/Thai"
+  },
+  {
+    "name": "Cantonese in Austin, TX - Delivery & Takeout",
+    "slug": "cantoneseinaustintx-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/TX/Austin/Cantonese"
+  },
+  {
+    "name": "Austin, Tx 78751, TX - Delivery & Takeout",
+    "slug": "austintx78751tx-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/TX/Austin,%20Tx%2078751"
+  },
+  {
+    "name": "Vietnamese in Austin, TX - Delivery & Takeout",
+    "slug": "vietnameseinaustintx-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/TX/Austin/Vietnamese"
+  },
+  {
+    "name": "C Spot - Austin, TX 78702 (Menu & Order Online)",
+    "slug": "cspot-austintx78702menuorderonline",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://cspot.menufy.com/order"
+  },
+  {
+    "name": "American in Austin, TX - Delivery & Takeout",
+    "slug": "americaninaustintx-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/TX/Austin/American"
+  },
+  {
+    "name": "Chicken in Austin, TX - Delivery & Takeout",
+    "slug": "chickeninaustintx-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/TX/Austin/Chicken"
+  },
+  {
+    "name": "Breakfast in Austin, Tx 78751, TX - Delivery & Takeout",
+    "slug": "breakfastinaustintx78751tx-deliverytakeo",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/TX/Austin,%20Tx%2078751/Breakfast"
+  },
+  {
+    "name": "Seafood in Austin, TX - Delivery & Takeout",
+    "slug": "seafoodinaustintx-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "austin"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/TX/Austin/Seafood"
   }
 ]

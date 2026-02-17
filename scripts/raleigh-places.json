@@ -1380,5 +1380,410 @@
       "raleigh"
     ],
     "toastUrl": "https://order.toasttab.com/online/dope-vegan-sw"
+  },
+  {
+    "name": "San Jose Mexican Restaurant 5811 Poyner Village Parkway",
+    "slug": "sanjosemexicanrestaurant5811poynervillag",
+    "category": "mexican",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://order.online/store/san-jose-mexican-restaurant-raleigh-421868/"
+  },
+  {
+    "name": "Hayashi Japanese Restaurant 13200 Falls of Neuse Road",
+    "slug": "hayashijapaneserestaurant13200fallsofneu",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://order.online/store/hayashi-japanese-restaurant-raleigh-421931"
+  },
+  {
+    "name": "Home - Taverna Agora - Greek Restaurant in Raleigh, NC",
+    "slug": "home-tavernaagora-greekrestaurantinralei",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://taverna-agora.popmenu.com/"
+  },
+  {
+    "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
+    "slug": "restaurantmenuideas9ofthebestmenustoinsp",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
+  },
+  {
+    "name": "Popmenu: Pricing",
+    "slug": "popmenupricing",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/pricing"
+  },
+  {
+    "name": "Restaurant analytics: How to collect (and use) guest data",
+    "slug": "restaurantanalyticshowtocollectandusegue",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-analytics-data-guide"
+  },
+  {
+    "name": "Popmenu: Case Study - Cliff View",
+    "slug": "popmenucasestudy-cliffview",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/cliff-view"
+  },
+  {
+    "name": "Popmenu: Case Study - The Deck",
+    "slug": "popmenucasestudy-thedeck",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/the-deck"
+  },
+  {
+    "name": "5 menu design Ideas for digital-first restaurants",
+    "slug": "5menudesignideasfordigital-firstrestaura",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
+  },
+  {
+    "name": "Popmenu: Case Study - Dos Salsas",
+    "slug": "popmenucasestudy-dossalsas",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
+  },
+  {
+    "name": "Popmenu: Manage your restaurant's online reputation",
+    "slug": "popmenumanageyourrestaurantsonlinereputa",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/reputation-management"
+  },
+  {
+    "name": "Popmenu: About Us",
+    "slug": "popmenuaboutus",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/about-us"
+  },
+  {
+    "name": "Popmenu: Client Stories - Better Customer Service",
+    "slug": "popmenuclientstories-bettercustomerservi",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service"
+  },
+  {
+    "name": "Popmenu: OrderNerd powered by Popmenu",
+    "slug": "popmenuordernerdpoweredbypopmenu",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/ordernerd"
+  },
+  {
+    "name": "Popmenu: Restaurant online ordering",
+    "slug": "popmenurestaurantonlineordering",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
+  },
+  {
+    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
+    "slug": "popmenutoolkittherestaurantgrowthplayboo",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+  },
+  {
+    "name": "Square",
+    "slug": "square",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "squareUrl": "https://relishcatering.square.site/"
+  },
+  {
+    "name": "Winter Menu - Raleigh Raw",
+    "slug": "wintermenu-raleighraw",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "squareUrl": "https://raleighraw.square.site/s/order"
+  },
+  {
+    "name": "Heirloom Raleigh - Coffee Tea Sake Kitchen",
+    "slug": "heirloomraleigh-coffeeteasakekitchen",
+    "category": "cafe",
+    "metros": [
+      "raleigh"
+    ],
+    "squareUrl": "https://heirloombrewshop.square.site/"
+  },
+  {
+    "name": "Order Night Kitchen Online",
+    "slug": "ordernightkitchenonline",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "squareUrl": "https://my-site-ralnightkitchen.square.site/"
+  },
+  {
+    "name": "Raleigh Raw: Home",
+    "slug": "raleighrawhome",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "squareUrl": "https://raleighraw.square.site/"
+  },
+  {
+    "name": "Skye Tower Restaurant & Lounge: Home",
+    "slug": "skyetowerrestaurantloungehome",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "squareUrl": "https://skye-tower-restaurant-and-lounge.square.site/"
+  },
+  {
+    "name": "Bittersweet Raleigh",
+    "slug": "bittersweetraleigh",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "squareUrl": "https://bittersweetraleigh.square.site/"
+  },
+  {
+    "name": "Raleigh Drag Dinners",
+    "slug": "raleighdragdinners",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "squareUrl": "https://raleighdragdinner.square.site/"
+  },
+  {
+    "name": "Raleigh Cheesy",
+    "slug": "raleighcheesy",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "squareUrl": "https://raleigh-cheesy.square.site/"
+  },
+  {
+    "name": "Home",
+    "slug": "home",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "squareUrl": "https://the-raleigh-ringers.square.site/"
+  },
+  {
+    "name": "Raleigh, NC - Delivery & Takeout",
+    "slug": "raleighnc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh"
+  },
+  {
+    "name": "Jamaican in Raleigh, NC - Delivery & Takeout",
+    "slug": "jamaicaninraleighnc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Jamaican"
+  },
+  {
+    "name": "Chinese in Raleigh, NC - Delivery & Takeout",
+    "slug": "chineseinraleighnc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Chinese"
+  },
+  {
+    "name": "Hibachi & Company - Raleigh, NC 27607 (Menu & Order Online)",
+    "slug": "hibachicompany-raleighnc27607menuorderon",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://hibachicompany.menufy.com/order"
+  },
+  {
+    "name": "Soul Food in Raleigh, NC - Delivery & Takeout",
+    "slug": "soulfoodinraleighnc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Soul%20Food"
+  },
+  {
+    "name": "Colombian in Raleigh, NC - Delivery & Takeout",
+    "slug": "colombianinraleighnc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Colombian"
+  },
+  {
+    "name": "Soup in Raleigh, NC - Delivery & Takeout",
+    "slug": "soupinraleighnc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Soup"
+  },
+  {
+    "name": "Chicken in Raleigh, NC - Delivery & Takeout",
+    "slug": "chickeninraleighnc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Chicken"
+  },
+  {
+    "name": "Nepalese in Raleigh, NC - Delivery & Takeout",
+    "slug": "nepaleseinraleighnc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Nepalese"
+  },
+  {
+    "name": "Sushi in Raleigh, NC - Delivery & Takeout",
+    "slug": "sushiinraleighnc-deliverytakeout",
+    "category": "japanese",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Sushi"
+  },
+  {
+    "name": "Breakfast in Raleigh, NC - Delivery & Takeout",
+    "slug": "breakfastinraleighnc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Breakfast"
+  },
+  {
+    "name": "Salads in Raleigh, NC - Delivery & Takeout",
+    "slug": "saladsinraleighnc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Salads"
+  },
+  {
+    "name": "Szechuan in Raleigh, NC - Delivery & Takeout",
+    "slug": "szechuaninraleighnc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Szechuan"
+  },
+  {
+    "name": "Mexican in Raleigh, NC - Delivery & Takeout",
+    "slug": "mexicaninraleighnc-deliverytakeout",
+    "category": "mexican",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Mexican"
+  },
+  {
+    "name": "Gyro in Raleigh, NC - Delivery & Takeout",
+    "slug": "gyroinraleighnc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Gyro"
+  },
+  {
+    "name": "Dominican in Raleigh, NC - Delivery & Takeout",
+    "slug": "dominicaninraleighnc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Dominican"
+  },
+  {
+    "name": "Lunch in Raleigh, NC - Delivery & Takeout",
+    "slug": "lunchinraleighnc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Lunch"
+  },
+  {
+    "name": "Indian in Raleigh, NC - Delivery & Takeout",
+    "slug": "indianinraleighnc-deliverytakeout",
+    "category": "indian",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Indian"
+  },
+  {
+    "name": "Taiwanese in Raleigh, NC - Delivery & Takeout",
+    "slug": "taiwaneseinraleighnc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "raleigh"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Raleigh/Taiwanese"
   }
 ]

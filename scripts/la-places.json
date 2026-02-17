@@ -2533,5 +2533,572 @@
       "la"
     ],
     "toastUrl": "https://order.toasttab.com/online/hailmary-la"
+  },
+  {
+    "name": "Amalia's Restaurant 4210 Beverly Boulevard",
+    "slug": "amaliasrestaurant4210beverlyboulevard",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://order.online/store/amalia's-restaurant-los-angeles-6065"
+  },
+  {
+    "name": "Stamp Proper Foods 4500 Los Feliz Boulevard",
+    "slug": "stampproperfoods4500losfelizboulevard",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://order.online/store/stamp-proper-foods-los-angeles-212471"
+  },
+  {
+    "name": "Lala's Grill 7229 Melrose Ave – Order pickup and delivery",
+    "slug": "lalasgrill7229melroseaveorderpickupandde",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://order.online/store/LalasGrill7229MelroseAve-32213249"
+  },
+  {
+    "name": "Cado - Kitchen 1437- A Virtual Food Court",
+    "slug": "cado-kitchen1437-avirtualfoodcourt",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://kitchen-1437-llc.popmenu.com/cado"
+  },
+  {
+    "name": "Which delivery service is best for restaurants?",
+    "slug": "whichdeliveryserviceisbestforrestaurants",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/which-delivery-service-is-best-for-restaurants"
+  },
+  {
+    "name": "Ivory on Sunset",
+    "slug": "ivoryonsunset",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://ivory.popmenu.com/menus/dinner-menu"
+  },
+  {
+    "name": "Popmenu: Case Study - Emporium Thai",
+    "slug": "popmenucasestudy-emporiumthai",
+    "category": "thai",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/emporium-thai"
+  },
+  {
+    "name": "Popmenu: About Us",
+    "slug": "popmenuaboutus",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/about-us"
+  },
+  {
+    "name": "Popmenu: Case Study - Taqueria Picoso",
+    "slug": "popmenucasestudy-taqueriapicoso",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/more-guests-larger-orders/taqueria-picoso"
+  },
+  {
+    "name": "Popmenu - New",
+    "slug": "popmenu-new",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-websites"
+  },
+  {
+    "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
+    "slug": "restaurantmenuideas9ofthebestmenustoinsp",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
+  },
+  {
+    "name": "Popmenu: Dynamic, interactive restaurant menus",
+    "slug": "popmenudynamicinteractiverestaurantmenus",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/dynamic-menu-tech"
+  },
+  {
+    "name": "11 of the best restaurant menu designs to inspire you",
+    "slug": "11ofthebestrestaurantmenudesignstoinspir",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-menu-designs"
+  },
+  {
+    "name": "Popmenu: We do more than grow your restaurant.",
+    "slug": "popmenuwedomorethangrowyourrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/"
+  },
+  {
+    "name": "Restaurant analytics: How to collect (and use) guest data",
+    "slug": "restaurantanalyticshowtocollectandusegue",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-analytics-data-guide"
+  },
+  {
+    "name": "Popmenu: Restaurant online ordering",
+    "slug": "popmenurestaurantonlineordering",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
+  },
+  {
+    "name": "Popmenu: Photography",
+    "slug": "popmenuphotography",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/photography"
+  },
+  {
+    "name": "Popmenu: Case Study - Libby's Neighborhood Brasserie",
+    "slug": "popmenucasestudy-libbysneighborhoodbrass",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/more-guests-larger-orders/libbys-neighborhood-brasserie"
+  },
+  {
+    "name": "Popmenu: Case Study - The Deck",
+    "slug": "popmenucasestudy-thedeck",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/the-deck"
+  },
+  {
+    "name": "Top Trending Dishes - eat.popmenu.com",
+    "slug": "toptrendingdishes-eatpopmenucom",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://eat.popmenu.com/places/global/dishes/3177684-the-original"
+  },
+  {
+    "name": "Ranked #1 Italian food truck in Los Angeles",
+    "slug": "ranked1italianfoodtruckinlosangeles",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "squareUrl": "https://lalalasagna.square.site/"
+  },
+  {
+    "name": "Needle's Online Ordering Page",
+    "slug": "needlesonlineorderingpage",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "squareUrl": "https://needlela.square.site/"
+  },
+  {
+    "name": "Appetizers",
+    "slug": "appetizers",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "squareUrl": "https://aladin-sweets-market-inc.square.site/"
+  },
+  {
+    "name": "Home",
+    "slug": "home",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "squareUrl": "https://nomiis.square.site/"
+  },
+  {
+    "name": "Square",
+    "slug": "square",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "squareUrl": "https://cuevashealthfood.square.site/"
+  },
+  {
+    "name": "Menu.",
+    "slug": "menu",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "squareUrl": "https://thebreadloungebakery.square.site/menu-1"
+  },
+  {
+    "name": "Slow Stir Foods",
+    "slug": "slowstirfoods",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "squareUrl": "https://slowstirfoods.square.site/product/blackberry-mint-preserve/141"
+  },
+  {
+    "name": "CALIPEACHES CUISINE LLC",
+    "slug": "calipeachescuisinellc",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "squareUrl": "https://calipeaches-cuisine-llc.square.site/"
+  },
+  {
+    "name": "LOS ANGELES, CA - Delivery & Takeout",
+    "slug": "losangelesca-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/LOS%20ANGELES"
+  },
+  {
+    "name": "WEST LOS ANGELES, CA - Delivery & Takeout",
+    "slug": "westlosangelesca-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/WEST%20LOS%20ANGELES"
+  },
+  {
+    "name": "Home - TasteBuds",
+    "slug": "home-tastebuds",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://tastebuds.menufy.com/"
+  },
+  {
+    "name": "METAIRIE, LA - Delivery & Takeout",
+    "slug": "metairiela-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/LA/METAIRIE"
+  },
+  {
+    "name": "Lafayette, LA - Delivery & Takeout",
+    "slug": "lafayettela-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/LA/Lafayette"
+  },
+  {
+    "name": "New Orleans, LA - Delivery & Takeout",
+    "slug": "neworleansla-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/LA/New%20Orleans"
+  },
+  {
+    "name": "Shreveport, LA - Delivery & Takeout",
+    "slug": "shreveportla-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/LA/Shreveport"
+  },
+  {
+    "name": "Alexandria, LA - Delivery & Takeout",
+    "slug": "alexandriala-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/LA/Alexandria"
+  },
+  {
+    "name": "Seafood in Las-Vegas, NV - Delivery & Takeout",
+    "slug": "seafoodinlas-vegasnv-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NV/Las-Vegas/Seafood"
+  },
+  {
+    "name": "Pineville, LA - Delivery & Takeout",
+    "slug": "pinevillela-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/LA/Pineville"
+  },
+  {
+    "name": "Washington, Order Food Online!",
+    "slug": "washingtonorderfoodonline",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/WA"
+  },
+  {
+    "name": "BOUTTE, LA - Delivery & Takeout",
+    "slug": "bouttela-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/LA/BOUTTE"
+  },
+  {
+    "name": "Baton Rouge, LA - Delivery & Takeout",
+    "slug": "batonrougela-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/LA/Baton%20Rouge"
+  },
+  {
+    "name": "Baton, LA - Delivery & Takeout",
+    "slug": "batonla-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/LA/Baton"
+  },
+  {
+    "name": "Restaurants - Delivery & Takeout",
+    "slug": "restaurants-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/"
+  },
+  {
+    "name": "Leeds, AL - Delivery & Takeout",
+    "slug": "leedsal-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/AL/Leeds"
+  },
+  {
+    "name": "Santa Monica, CA - Delivery & Takeout",
+    "slug": "santamonicaca-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/Santa%20Monica"
+  },
+  {
+    "name": "Jamaican in LOS ANGELES, CA - Delivery & Takeout",
+    "slug": "jamaicaninlosangelesca-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/LOS%20ANGELES/Jamaican"
+  },
+  {
+    "name": "Owner.com Reviews",
+    "slug": "ownercomreviews",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/reviews"
+  },
+  {
+    "name": "Owner.com App",
+    "slug": "ownercomapp",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/mobile"
+  },
+  {
+    "name": "No Commission Delivery for Restaurants",
+    "slug": "nocommissiondeliveryforrestaurants",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/delivery"
+  },
+  {
+    "name": "Owner.com & California Restaurant Association",
+    "slug": "ownercomcaliforniarestaurantassociation",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/california-ra"
+  },
+  {
+    "name": "Website Terms",
+    "slug": "websiteterms",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/website-terms"
+  },
+  {
+    "name": "Restaurant Online Ordering System",
+    "slug": "restaurantonlineorderingsystem",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/online-ordering"
+  },
+  {
+    "name": "Pricing",
+    "slug": "pricing",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/pricing"
+  },
+  {
+    "name": "Platform Terms",
+    "slug": "platformterms",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/platform-terms"
+  },
+  {
+    "name": "Restaurant Participation Agreement",
+    "slug": "restaurantparticipationagreement",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/restaurant-participation-agreement"
+  },
+  {
+    "name": "Online Ordering and Restaurant Marketing System",
+    "slug": "onlineorderingandrestaurantmarketingsyst",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/"
+  },
+  {
+    "name": "Owner Product Updates and Releases",
+    "slug": "ownerproductupdatesandreleases",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/releases"
+  },
+  {
+    "name": "Owner.com Competitors",
+    "slug": "ownercomcompetitors",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/comparison"
+  },
+  {
+    "name": "Scale Your Restaurant",
+    "slug": "scaleyourrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/scale-your-restaurant"
+  },
+  {
+    "name": "RestaurantGPT",
+    "slug": "restaurantgpt",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://compare.owner.com/"
+  },
+  {
+    "name": "Owner.com Series C Memo",
+    "slug": "ownercomseriescmemo",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/c"
+  },
+  {
+    "name": "The Owner.com Story",
+    "slug": "theownercomstory",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/our-story"
+  },
+  {
+    "name": "Online Catering System",
+    "slug": "onlinecateringsystem",
+    "category": "restaurant",
+    "metros": [
+      "la"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/catering"
   }
 ]

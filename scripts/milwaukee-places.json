@@ -1292,5 +1292,509 @@
       "milwaukee"
     ],
     "toastUrl": "https://order.toasttab.com/online/the-parched-pug-1590-s-milwaukee-ave-suite-100"
+  },
+  {
+    "name": "Frankies Restaurant and Catering 1815 East Kenilworth Place",
+    "slug": "frankiesrestaurantandcatering1815eastken",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://order.online/store/frankies-restaurant-and-catering-milwaukee-226349/"
+  },
+  {
+    "name": "Popmenu: Who We Help - Quick Service Restaurants",
+    "slug": "popmenuwhowehelp-quickservicerestaurants",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/who-we-help/quick-service-restaurants"
+  },
+  {
+    "name": "Popmenu: Case Study - Dos Salsas",
+    "slug": "popmenucasestudy-dossalsas",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
+  },
+  {
+    "name": "Popmenu: About Us",
+    "slug": "popmenuaboutus",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/about-us"
+  },
+  {
+    "name": "Popmenu: Client Stories - Simplified Technology",
+    "slug": "popmenuclientstories-simplifiedtechnolog",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/simplified-technology"
+  },
+  {
+    "name": "Popmenu: Popmenu for Owners App",
+    "slug": "popmenupopmenuforownersapp",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/popmenu-for-owners-app"
+  },
+  {
+    "name": "Popmenu: Case Study - Teppan Steakhouse",
+    "slug": "popmenucasestudy-teppansteakhouse",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/teppan-steakhouse"
+  },
+  {
+    "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
+    "slug": "restaurantmenuideas9ofthebestmenustoinsp",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
+  },
+  {
+    "name": "Popmenu: Client Testimonials & Reviews",
+    "slug": "popmenuclienttestimonialsreviews",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-testimonials-reviews"
+  },
+  {
+    "name": "Restaurant analytics: How to collect (and use) guest data",
+    "slug": "restaurantanalyticshowtocollectandusegue",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-analytics-data-guide"
+  },
+  {
+    "name": "Which delivery service is best for restaurants?",
+    "slug": "whichdeliveryserviceisbestforrestaurants",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/which-delivery-service-is-best-for-restaurants"
+  },
+  {
+    "name": "Popmenu: AI answering",
+    "slug": "popmenuaianswering",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/ai-answering"
+  },
+  {
+    "name": "Popmenu toolkit: 2025 Trends Report",
+    "slug": "popmenutoolkit2025trendsreport",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/2025-trends-report"
+  },
+  {
+    "name": "Popmenu: We do more than grow your restaurant.",
+    "slug": "popmenuwedomorethangrowyourrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/"
+  },
+  {
+    "name": "Join the group text: Text message marketing for restaurants",
+    "slug": "jointhegrouptexttextmessagemarketingforr",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/text-message-marketing-for-restaurants"
+  },
+  {
+    "name": "11 of the best restaurant menu designs to inspire you",
+    "slug": "11ofthebestrestaurantmenudesignstoinspir",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-menu-designs"
+  },
+  {
+    "name": "Popmenu: Careers",
+    "slug": "popmenucareers",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/careers"
+  },
+  {
+    "name": "Popmenu: Case Study - Taqueria Picoso",
+    "slug": "popmenucasestudy-taqueriapicoso",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/taqueria-picoso"
+  },
+  {
+    "name": "Popmenu: OrderNerd powered by Popmenu",
+    "slug": "popmenuordernerdpoweredbypopmenu",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/ordernerd"
+  },
+  {
+    "name": "Popmenu: Photography",
+    "slug": "popmenuphotography",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/photography"
+  },
+  {
+    "name": "Popmenu - New",
+    "slug": "popmenu-new",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-websites"
+  },
+  {
+    "name": "Popmenu: Restaurant online ordering",
+    "slug": "popmenurestaurantonlineordering",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
+  },
+  {
+    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
+    "slug": "popmenutoolkittherestaurantgrowthplayboo",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+  },
+  {
+    "name": "Popmenu: Developer API Connections",
+    "slug": "popmenudeveloperapiconnections",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/developer-api"
+  },
+  {
+    "name": "Popmenu: Case Study - Locals Pub & Pizzeria",
+    "slug": "popmenucasestudy-localspubpizzeria",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/improving-margins/locals-pub-pizzeria"
+  },
+  {
+    "name": "Popmenu: Press Releases",
+    "slug": "popmenupressreleases",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/press-releases"
+  },
+  {
+    "name": "Artisan crackers & snacks from Milwaukee, WI",
+    "slug": "artisancrackerssnacksfrommilwaukeewi",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "squareUrl": "https://empress-baking-co.square.site/"
+  },
+  {
+    "name": "Food Palace Food For The Soul",
+    "slug": "foodpalacefoodforthesoul",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "squareUrl": "https://food-palace-food-for-the-soul.square.site/"
+  },
+  {
+    "name": "Square",
+    "slug": "square",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "squareUrl": "https://munchmobilemke.square.site/"
+  },
+  {
+    "name": "About",
+    "slug": "about",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "squareUrl": "https://karmacafemke.square.site/about"
+  },
+  {
+    "name": "Home",
+    "slug": "home",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "squareUrl": "https://dulcemke.square.site/"
+  },
+  {
+    "name": "Shop Now - Milwaukee Alt.",
+    "slug": "shopnow-milwaukeealt",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "squareUrl": "https://milwaukee-alt.square.site/s/shop"
+  },
+  {
+    "name": "Order Milwaukee's Best Burgers Online",
+    "slug": "ordermilwaukeesbestburgersonline",
+    "category": "burgers",
+    "metros": [
+      "milwaukee"
+    ],
+    "squareUrl": "https://dairylandcw.square.site/"
+  },
+  {
+    "name": "Smash and dash",
+    "slug": "smashanddash",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "squareUrl": "https://munchmobilemke.square.site/product/smash-and-dash/7"
+  },
+  {
+    "name": "Vegan & Gluten Free bakery and Juice Bar",
+    "slug": "veganglutenfreebakeryandjuicebar",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "squareUrl": "https://1146-vegan-llc.square.site/"
+  },
+  {
+    "name": "411 Classic Breakfast",
+    "slug": "411classicbreakfast",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "squareUrl": "https://davians-at-411-cafe.square.site/product/411-classic-breakfast/1"
+  },
+  {
+    "name": "MILWAUKEE, WI - Delivery & Takeout",
+    "slug": "milwaukeewi-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/WI/MILWAUKEE"
+  },
+  {
+    "name": "Wisconsin, Order Food Online!",
+    "slug": "wisconsinorderfoodonline",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/WI"
+  },
+  {
+    "name": "Soul Food in MILWAUKEE, WI - Delivery & Takeout",
+    "slug": "soulfoodinmilwaukeewi-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/WI/MILWAUKEE/Soul%20Food"
+  },
+  {
+    "name": "Breakfast in MILWAUKEE, WI - Delivery & Takeout",
+    "slug": "breakfastinmilwaukeewi-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/WI/MILWAUKEE/Breakfast"
+  },
+  {
+    "name": "MOMO MEE - Milwaukee, WI 53204 (Menu & Order Online)",
+    "slug": "momomee-milwaukeewi53204menuorderonline",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://momomee.menufy.com/"
+  },
+  {
+    "name": "Lunch in MILWAUKEE, WI - Delivery & Takeout",
+    "slug": "lunchinmilwaukeewi-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/WI/MILWAUKEE/Lunch"
+  },
+  {
+    "name": "Vegetarian in MILWAUKEE, WI - Delivery & Takeout",
+    "slug": "vegetarianinmilwaukeewi-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/WI/MILWAUKEE/Vegetarian"
+  },
+  {
+    "name": "Home - Lebnani House Inc",
+    "slug": "home-lebnanihouseinc",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://lebnanihouseinc.menufy.com/"
+  },
+  {
+    "name": "SOUTH MILWAUKEE, WI - Delivery & Takeout",
+    "slug": "southmilwaukeewi-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/WI/SOUTH%20MILWAUKEE"
+  },
+  {
+    "name": "Soup in South Milwaukee, WI - Delivery & Takeout",
+    "slug": "soupinsouthmilwaukeewi-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/WI/South Milwaukee/Soup"
+  },
+  {
+    "name": "Seafood in Milwaukee, WI - Delivery & Takeout",
+    "slug": "seafoodinmilwaukeewi-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/WI/Milwaukee/Seafood"
+  },
+  {
+    "name": "Pasta in MILWAUKEE, WI - Delivery & Takeout",
+    "slug": "pastainmilwaukeewi-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/WI/MILWAUKEE/Pasta"
+  },
+  {
+    "name": "Dessert in Milwaukee, WI - Delivery & Takeout",
+    "slug": "dessertinmilwaukeewi-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/WI/Milwaukee/Dessert/"
+  },
+  {
+    "name": "Mexican in MILWAUKEE, WI - Delivery & Takeout",
+    "slug": "mexicaninmilwaukeewi-deliverytakeout",
+    "category": "mexican",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/WI/MILWAUKEE/Mexican"
+  },
+  {
+    "name": "Chinese in SOUTH MILWAUKEE, WI - Delivery & Takeout",
+    "slug": "chineseinsouthmilwaukeewi-deliverytakeou",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/WI/SOUTH%20MILWAUKEE/Chinese"
+  },
+  {
+    "name": "Mediterranean in SOUTH MILWAUKEE, WI - Delivery & Takeout",
+    "slug": "mediterraneaninsouthmilwaukeewi-delivery",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/WI/SOUTH%20MILWAUKEE/Mediterranean"
+  },
+  {
+    "name": "Mediterranean in MILWAUKEE, WI - Delivery & Takeout",
+    "slug": "mediterraneaninmilwaukeewi-deliverytakeo",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/WI/MILWAUKEE/Mediterranean"
+  },
+  {
+    "name": "Breakfast in SOUTH MILWAUKEE, WI - Delivery & Takeout",
+    "slug": "breakfastinsouthmilwaukeewi-deliverytake",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/WI/SOUTH%20MILWAUKEE/Breakfast"
+  },
+  {
+    "name": "Chicken in Milwaukee, WI - Delivery & Takeout",
+    "slug": "chickeninmilwaukeewi-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/WI/Milwaukee/Chicken"
+  },
+  {
+    "name": "Brunch in South Milwaukee, WI - Delivery & Takeout",
+    "slug": "brunchinsouthmilwaukeewi-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "milwaukee"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/WI/South%20Milwaukee/Brunch"
   }
 ]

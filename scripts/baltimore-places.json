@@ -1366,5 +1366,284 @@
       "baltimore"
     ],
     "toastUrl": "https://order.toasttab.com/online/vegan-snack-attack-4210-lasalle-ave"
+  },
+  {
+    "name": "Home",
+    "slug": "home",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "squareUrl": "https://teriyakigrill.square.site/"
+  },
+  {
+    "name": "Square",
+    "slug": "square",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "squareUrl": "https://lote787.square.site/"
+  },
+  {
+    "name": "Farm Alliance of Baltimore: Home",
+    "slug": "farmallianceofbaltimorehome",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "squareUrl": "https://farm-alliance-of-baltimore.square.site/"
+  },
+  {
+    "name": "Made By Nacho Cat Food Topper Pouches 1.4oz",
+    "slug": "madebynachocatfoodtopperpouches14oz",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "squareUrl": "https://bfpetshoppe.square.site/product/made-by-nacho-cat-food-topper-pouches-1-4oz/8192"
+  },
+  {
+    "name": "Shop All",
+    "slug": "shopall",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "squareUrl": "https://larderbaltimore.square.site/"
+  },
+  {
+    "name": "Shop the Made In Baltimore Store: Home",
+    "slug": "shopthemadeinbaltimorestorehome",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "squareUrl": "https://made-in-baltimore.square.site/"
+  },
+  {
+    "name": "Dog Food & Treats",
+    "slug": "dogfoodtreats",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "squareUrl": "https://bfpetshoppe.square.site/shop/dog-food-treats/16"
+  },
+  {
+    "name": "Food-Distribution",
+    "slug": "food-distribution",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "squareUrl": "https://cityseeds.square.site/"
+  },
+  {
+    "name": "Taste Of Baltimore LLC",
+    "slug": "tasteofbaltimorellc",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "squareUrl": "https://taste-of-baltimore-llc.square.site/"
+  },
+  {
+    "name": "Farm Alliance of Baltimore",
+    "slug": "farmallianceofbaltimore",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "squareUrl": "https://farm-alliance-of-baltimore.square.site/s/shop"
+  },
+  {
+    "name": "Live Baltimore: Home",
+    "slug": "livebaltimorehome",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "squareUrl": "https://live-baltimore.square.site/"
+  },
+  {
+    "name": "Baltimore, MD - Delivery & Takeout",
+    "slug": "baltimoremd-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MD/Baltimore"
+  },
+  {
+    "name": "Delivery & Takeout - Maryland, Order Food Online!",
+    "slug": "deliverytakeout-marylandorderfoodonline",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MD"
+  },
+  {
+    "name": "NEW BALTIMORE, MI - Delivery & Takeout",
+    "slug": "newbaltimoremi-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MI/NEW%20BALTIMORE"
+  },
+  {
+    "name": "Hot Pot in Baltimore, MD - Delivery & Takeout",
+    "slug": "hotpotinbaltimoremd-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MD/Baltimore/Hot%20Pot"
+  },
+  {
+    "name": "The Spot - Baltimore, MD 21202 (Menu & Order Online)",
+    "slug": "thespot-baltimoremd21202menuorderonline",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "websiteOrderUrl": "https://thespotpizzeria.menufy.com/order"
+  },
+  {
+    "name": "Curtis Bay, MD - Delivery & Takeout",
+    "slug": "curtisbaymd-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MD/Curtis%20Bay"
+  },
+  {
+    "name": "Jasa Kabob - Baltimore, MD 21224 (Menu & Order Online)",
+    "slug": "jasakabob-baltimoremd21224menuorderonlin",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "websiteOrderUrl": "https://jasakaboborder.menufy.com/"
+  },
+  {
+    "name": "Balitimore, MD - Delivery & Takeout",
+    "slug": "balitimoremd-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MD/Balitimore"
+  },
+  {
+    "name": "Hot Pot in Owings Mills, MD - Delivery & Takeout",
+    "slug": "hotpotinowingsmillsmd-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MD/Owings%20Mills/Hot%20Pot"
+  },
+  {
+    "name": "RANDALLSTOWN, MD - Delivery & Takeout",
+    "slug": "randallstownmd-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MD/RANDALLSTOWN"
+  },
+  {
+    "name": "Baltimore, OH - Delivery & Takeout",
+    "slug": "baltimoreoh-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/OH/Baltimore"
+  },
+  {
+    "name": "Seafood in Baltimore, OH - Delivery & Takeout",
+    "slug": "seafoodinbaltimoreoh-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/OH/Baltimore/Seafood"
+  },
+  {
+    "name": "Taco in Baltimore, MD - Delivery & Takeout",
+    "slug": "tacoinbaltimoremd-deliverytakeout",
+    "category": "mexican",
+    "metros": [
+      "baltimore"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MD/Baltimore/Taco"
+  },
+  {
+    "name": "Soul Food in Baltimore, MD - Delivery & Takeout",
+    "slug": "soulfoodinbaltimoremd-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MD/Baltimore/Soul%20Food"
+  },
+  {
+    "name": "Columbia, MD - Delivery & Takeout",
+    "slug": "columbiamd-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MD/Columbia"
+  },
+  {
+    "name": "Breakfast in Baltimore, MD - Delivery & Takeout",
+    "slug": "breakfastinbaltimoremd-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MD/Baltimore/Breakfast"
+  },
+  {
+    "name": "HALETHORPE, MD - Delivery & Takeout",
+    "slug": "halethorpemd-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MD/HALETHORPE"
+  },
+  {
+    "name": "Pizza in Baltimore, MD - Delivery & Takeout",
+    "slug": "pizzainbaltimoremd-deliverytakeout",
+    "category": "pizza",
+    "metros": [
+      "baltimore"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MD/Baltimore/Pizza"
+  },
+  {
+    "name": "Seafood in Baltimore, MD - Delivery & Takeout",
+    "slug": "seafoodinbaltimoremd-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MD/Baltimore/Seafood"
+  },
+  {
+    "name": "Filipino in Baltimore, MD - Delivery & Takeout",
+    "slug": "filipinoinbaltimoremd-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "baltimore"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MD/Baltimore/Filipino"
   }
 ]

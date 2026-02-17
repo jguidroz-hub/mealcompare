@@ -1651,5 +1651,392 @@
       "atlanta"
     ],
     "toastUrl": "https://order.toasttab.com/online/eat-lebanese"
+  },
+  {
+    "name": "Sweenz Kitchen - Restaurant in GA",
+    "slug": "sweenzkitchen-restaurantinga",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://sweenz.popmenu.com/"
+  },
+  {
+    "name": "Home - Cafe in the City",
+    "slug": "home-cafeinthecity",
+    "category": "cafe",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://cafe-in-the-city.popmenu.com/"
+  },
+  {
+    "name": "Accessibility Review - Restaurant in Atlanta, GA",
+    "slug": "accessibilityreview-restaurantinatlantag",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://accessibility-review.popmenu.com/"
+  },
+  {
+    "name": "Petite Violette - French Restaurant in Atlanta, GA",
+    "slug": "petiteviolette-frenchrestaurantinatlanta",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://petite-violette2.popmenu.com/"
+  },
+  {
+    "name": "Popmenu: Press Releases",
+    "slug": "popmenupressreleases",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/press-releases"
+  },
+  {
+    "name": "Popmenu: Case Study - Henri's Bakery Deli",
+    "slug": "popmenucasestudy-henrisbakerydeli",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/more-guests-larger-orders/henris-bakery-deli"
+  },
+  {
+    "name": "Popmenu: Case Study - Alfred's Restaurant",
+    "slug": "popmenucasestudy-alfredsrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/alfreds-restaurant"
+  },
+  {
+    "name": "Popmenu: Who We Help - Quick Service Restaurants",
+    "slug": "popmenuwhowehelp-quickservicerestaurants",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/who-we-help/quick-service-restaurants"
+  },
+  {
+    "name": "Popmenu: Restaurant online ordering",
+    "slug": "popmenurestaurantonlineordering",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
+  },
+  {
+    "name": "Popmenu: Client Stories - Simplified Technology",
+    "slug": "popmenuclientstories-simplifiedtechnolog",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/simplified-technology"
+  },
+  {
+    "name": "Clover Production Test Company - Restaurant in Atlanta, GA",
+    "slug": "cloverproductiontestcompany-restaurantin",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://clover-production-test-company.popmenu.com/"
+  },
+  {
+    "name": "Popmenu: Press",
+    "slug": "popmenupress",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/press"
+  },
+  {
+    "name": "Popmenu: Restaurant technology solutions",
+    "slug": "popmenurestauranttechnologysolutions",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/solutions"
+  },
+  {
+    "name": "Trending Dishes in Atlanta, GA - eat.popmenu.com",
+    "slug": "trendingdishesinatlantaga-eatpopmenucom",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://eat.popmenu.com/places/atlanta-ga/dishes/15684315-parmesan-truffle-fries-2"
+  },
+  {
+    "name": "Popmenu: Partnerships",
+    "slug": "popmenupartnerships",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/partnerships"
+  },
+  {
+    "name": "Georgian Cuisine",
+    "slug": "georgiancuisine",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "squareUrl": "https://little-georgia.square.site/"
+  },
+  {
+    "name": "Home",
+    "slug": "home",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "squareUrl": "https://brickstone-cafe.square.site/"
+  },
+  {
+    "name": "GRA Golf Tournament",
+    "slug": "gragolftournament",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "squareUrl": "https://georgia-restaurant-association.square.site/"
+  },
+  {
+    "name": "East Atlanta Treehouse",
+    "slug": "eastatlantatreehouse",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "squareUrl": "https://eatattreehouse.square.site/"
+  },
+  {
+    "name": "Unique Eats and Eateries of Atlanta",
+    "slug": "uniqueeatsandeateriesofatlanta",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "squareUrl": "https://checkout.square.site/buy/CZFAUSLBKZZP3QH6QRPUYC5O"
+  },
+  {
+    "name": "Store locator",
+    "slug": "storelocator",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "squareUrl": "https://lemonadeguru.square.site/"
+  },
+  {
+    "name": "Atlanta Snack Club",
+    "slug": "atlantasnackclub",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "squareUrl": "https://atlantasnackclub.square.site/"
+  },
+  {
+    "name": "Main Meals",
+    "slug": "mainmeals",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "squareUrl": "https://little-georgia.square.site/shop/main-meals/5"
+  },
+  {
+    "name": "Square",
+    "slug": "square",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "squareUrl": "https://atlantastreetfood.square.site/"
+  },
+  {
+    "name": "On My Soul Bistro",
+    "slug": "onmysoulbistro",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "squareUrl": "https://onmysoulbistro.square.site/"
+  },
+  {
+    "name": "Atlanta as Folk: Home",
+    "slug": "atlantaasfolkhome",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "squareUrl": "https://atlantaasfolk.square.site/"
+  },
+  {
+    "name": "Tse High Life Community Food Co-Op",
+    "slug": "tsehighlifecommunityfoodco-op",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "squareUrl": "https://tsehighlife.square.site/product/tse-high-life-community-food-co-op/4"
+  },
+  {
+    "name": "Events",
+    "slug": "events",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "squareUrl": "https://atlantasnackclub.square.site/shop/events/7"
+  },
+  {
+    "name": "OU Club of Atlanta",
+    "slug": "ouclubofatlanta",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "squareUrl": "https://ou-club-of-atlanta.square.site/s/shop"
+  },
+  {
+    "name": "Atlanta, GA - Delivery & Takeout",
+    "slug": "atlantaga-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/GA/Atlanta"
+  },
+  {
+    "name": "Mr. Everything - Atlanta, GA 30314 (Menu & Order Online)",
+    "slug": "mreverything-atlantaga30314menuorderonli",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://mreverythingmlk.menufy.com/"
+  },
+  {
+    "name": "Pub Food in Atlanta, GA - Delivery & Takeout",
+    "slug": "pubfoodinatlantaga-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/GA/Atlanta/Pub%20Food"
+  },
+  {
+    "name": "Atlanta, TX - Delivery & Takeout",
+    "slug": "atlantatx-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/TX/Atlanta"
+  },
+  {
+    "name": "Deli in Atlanta, GA - Delivery & Takeout",
+    "slug": "deliinatlantaga-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/GA/Atlanta/Deli"
+  },
+  {
+    "name": "Seafood in Atlanta, GA - Delivery & Takeout",
+    "slug": "seafoodinatlantaga-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/GA/Atlanta/Seafood"
+  },
+  {
+    "name": "Middle Eastern in Atlanta, GA - Delivery & Takeout",
+    "slug": "middleeasterninatlantaga-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/GA/Atlanta/Middle%20Eastern"
+  },
+  {
+    "name": "Venezuelan in Atlanta, GA - Delivery & Takeout",
+    "slug": "venezuelaninatlantaga-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/GA/Atlanta/Venezuelan"
+  },
+  {
+    "name": "Loganville, GA - Delivery & Takeout",
+    "slug": "loganvillega-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/GA/Loganville"
+  },
+  {
+    "name": "Afghan in Atlanta, GA - Delivery & Takeout",
+    "slug": "afghaninatlantaga-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/GA/Atlanta/Afghan"
+  },
+  {
+    "name": "Pakistani in Atlanta, GA - Delivery & Takeout",
+    "slug": "pakistaniinatlantaga-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/GA/Atlanta/Pakistani"
+  },
+  {
+    "name": "Halal in Atlanta, GA - Delivery & Takeout",
+    "slug": "halalinatlantaga-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/GA/Atlanta/Halal"
+  },
+  {
+    "name": "Dessert in Atlanta, GA - Delivery & Takeout",
+    "slug": "dessertinatlantaga-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/GA/Atlanta/Dessert"
+  },
+  {
+    "name": "GA - Delivery & Takeout",
+    "slug": "ga-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/GA"
   }
 ]

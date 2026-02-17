@@ -1813,5 +1813,527 @@
       "sf"
     ],
     "toastUrl": "https://order.toasttab.com/online/therusticsf"
+  },
+  {
+    "name": "Home - The Brixton San Francisco",
+    "slug": "home-thebrixtonsanfrancisco",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://brixtonsf.popmenu.com/"
+  },
+  {
+    "name": "Popmenu: AI answering",
+    "slug": "popmenuaianswering",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/ai-answering"
+  },
+  {
+    "name": "Popmenu: Case Study - Dos Salsas",
+    "slug": "popmenucasestudy-dossalsas",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
+  },
+  {
+    "name": "5 menu design Ideas for digital-first restaurants",
+    "slug": "5menudesignideasfordigital-firstrestaura",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
+  },
+  {
+    "name": "Popmenu: Case Study - The Deck",
+    "slug": "popmenucasestudy-thedeck",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/the-deck"
+  },
+  {
+    "name": "Popmenu: Manage your restaurant's online reputation",
+    "slug": "popmenumanageyourrestaurantsonlinereputa",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/reputation-management"
+  },
+  {
+    "name": "Which delivery service is best for restaurants?",
+    "slug": "whichdeliveryserviceisbestforrestaurants",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/which-delivery-service-is-best-for-restaurants"
+  },
+  {
+    "name": "Popmenu toolkit: 2025 Trends Report",
+    "slug": "popmenutoolkit2025trendsreport",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/2025-trends-report"
+  },
+  {
+    "name": "Popmenu: Client Testimonials & Reviews",
+    "slug": "popmenuclienttestimonialsreviews",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-testimonials-reviews"
+  },
+  {
+    "name": "Popmenu + OpenTable",
+    "slug": "popmenuopentable",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/partner/opentable"
+  },
+  {
+    "name": "Top Trending Dishes - eat.popmenu.com",
+    "slug": "toptrendingdishes-eatpopmenucom",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://eat.popmenu.com/places/global/dishes/3177684-the-original"
+  },
+  {
+    "name": "Popmenu: Photography",
+    "slug": "popmenuphotography",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/photography"
+  },
+  {
+    "name": "Popmenu: Case Study - Poppy's Pizza & Grill",
+    "slug": "popmenucasestudy-poppyspizzagrill",
+    "category": "pizza",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/simplified-technology/poppys-pizza-grill"
+  },
+  {
+    "name": "Popmenu: Case Study - Cliff View",
+    "slug": "popmenucasestudy-cliffview",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/cliff-view"
+  },
+  {
+    "name": "Home",
+    "slug": "home",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "squareUrl": "https://bodega-sf.square.site/"
+  },
+  {
+    "name": "Kantine",
+    "slug": "kantine",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "squareUrl": "https://kantinesf.square.site/"
+  },
+  {
+    "name": "Taco Tuesday (Tues)",
+    "slug": "tacotuesdaytues",
+    "category": "mexican",
+    "metros": [
+      "sf"
+    ],
+    "squareUrl": "https://taquerialosmayas.square.site/product/taco-trio-3-/4"
+  },
+  {
+    "name": "CHURROS",
+    "slug": "churros",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "squareUrl": "https://taquerialosmayas.square.site/product/churros/56"
+  },
+  {
+    "name": "Square",
+    "slug": "square",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "squareUrl": "https://sf2bay-bodegasf.square.site/"
+  },
+  {
+    "name": "Salsa Side",
+    "slug": "salsaside",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "squareUrl": "https://taquerialosmayas.square.site/product/salsa-side/72"
+  },
+  {
+    "name": "Order now - La Boulangerie San Francisco",
+    "slug": "ordernow-laboulangeriesanfrancisco",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "squareUrl": "https://la-boulangerie-san-francisco.square.site/s/order"
+  },
+  {
+    "name": "Sameem Afghan Restaurant & Catering",
+    "slug": "sameemafghanrestaurantcatering",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "squareUrl": "https://digitalcashmere.square.site/"
+  },
+  {
+    "name": "Personalized order screen",
+    "slug": "personalizedorderscreen",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "squareUrl": "https://boochmaniasf.square.site/"
+  },
+  {
+    "name": "Home - Los Yaquis",
+    "slug": "home-losyaquis",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://losyaquis.menufy.com/"
+  },
+  {
+    "name": "Los Yaquis - San Francisco, CA 94110 (Menu & Order Online)",
+    "slug": "losyaquis-sanfranciscoca94110menuorderon",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://losyaquis.menufy.com/order"
+  },
+  {
+    "name": "San Francisco, CA - Delivery & Takeout",
+    "slug": "sanfranciscoca-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Francisco"
+  },
+  {
+    "name": "COCO RAMEN - SAN FRANCISCO, CA 94110 (Menu & Order Online)",
+    "slug": "cocoramen-sanfranciscoca94110menuorderon",
+    "category": "japanese",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://cocoramen.menufy.com/"
+  },
+  {
+    "name": "Home - SAMMY'S On 2nd",
+    "slug": "home-sammyson2nd",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://sammyson2nd.menufy.com/"
+  },
+  {
+    "name": "Asian Fusion in San Francisco, CA - Delivery & Takeout",
+    "slug": "asianfusioninsanfranciscoca-deliverytake",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Francisco/Asian%20Fusion"
+  },
+  {
+    "name": "Home - Mar y Mar",
+    "slug": "home-marymar",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://marymar.menufy.com/"
+  },
+  {
+    "name": "Chicken in South San Francisco, CA - Delivery & Takeout",
+    "slug": "chickeninsouthsanfranciscoca-deliverytak",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/South%20San%20Francisco/Chicken"
+  },
+  {
+    "name": "Indian in San-Francisco, CA - Delivery & Takeout",
+    "slug": "indianinsan-franciscoca-deliverytakeout",
+    "category": "indian",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/San-Francisco/Indian"
+  },
+  {
+    "name": "Restaurants - Delivery & Takeout",
+    "slug": "restaurants-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://cafestjorge.menufy.com/"
+  },
+  {
+    "name": "Home - Suthathip Thai Restaurant",
+    "slug": "home-suthathipthairestaurant",
+    "category": "thai",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://suthathip.menufy.com/"
+  },
+  {
+    "name": "El Dorado Hills, CA - Delivery & Takeout",
+    "slug": "eldoradohillsca-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/El%20Dorado%20Hills"
+  },
+  {
+    "name": "Mexican in SAN FERNANDO, CA - Delivery & Takeout",
+    "slug": "mexicaninsanfernandoca-deliverytakeout",
+    "category": "mexican",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/SAN%20FERNANDO/Mexican"
+  },
+  {
+    "name": "CA - Delivery & Takeout",
+    "slug": "ca-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA"
+  },
+  {
+    "name": "San Jacinto, CA - Delivery & Takeout",
+    "slug": "sanjacintoca-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CA/San%20Jacinto"
+  },
+  {
+    "name": "Owner.com Reviews",
+    "slug": "ownercomreviews",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/reviews"
+  },
+  {
+    "name": "Owner.com App",
+    "slug": "ownercomapp",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/mobile"
+  },
+  {
+    "name": "The Owner.com Story",
+    "slug": "theownercomstory",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/our-story"
+  },
+  {
+    "name": "Pricing",
+    "slug": "pricing",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/pricing"
+  },
+  {
+    "name": "Owner.com Support - 24/7 Support, Rated 5 Stars",
+    "slug": "ownercomsupport-247supportrated5stars",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/support"
+  },
+  {
+    "name": "Restaurant Online Ordering System",
+    "slug": "restaurantonlineorderingsystem",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/online-ordering"
+  },
+  {
+    "name": "Owner.com & California Restaurant Association",
+    "slug": "ownercomcaliforniarestaurantassociation",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/california-ra"
+  },
+  {
+    "name": "Automatic Marketing for Restaurants",
+    "slug": "automaticmarketingforrestaurants",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/automatic-marketing"
+  },
+  {
+    "name": "No Commission Delivery for Restaurants",
+    "slug": "nocommissiondeliveryforrestaurants",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/delivery"
+  },
+  {
+    "name": "Careers",
+    "slug": "careers",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/careers"
+  },
+  {
+    "name": "Online Ordering and Restaurant Marketing System",
+    "slug": "onlineorderingandrestaurantmarketingsyst",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/"
+  },
+  {
+    "name": "How Owner.com Works",
+    "slug": "howownercomworks",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/how-owner-works"
+  },
+  {
+    "name": "Scale Your Restaurant",
+    "slug": "scaleyourrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/scale-your-restaurant"
+  },
+  {
+    "name": "Online Catering System",
+    "slug": "onlinecateringsystem",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/catering"
+  },
+  {
+    "name": "Owner.com Competitors",
+    "slug": "ownercomcompetitors",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/comparison"
+  },
+  {
+    "name": "Platform Terms",
+    "slug": "platformterms",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/platform-terms"
+  },
+  {
+    "name": "RestaurantGPT",
+    "slug": "restaurantgpt",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://compare.owner.com/"
+  },
+  {
+    "name": "Restaurant Marketing Blog",
+    "slug": "restaurantmarketingblog",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/blog"
+  },
+  {
+    "name": "Owner.com Leadership Team",
+    "slug": "ownercomleadershipteam",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/leadership"
+  },
+  {
+    "name": "Online Ordering System Checklist Download",
+    "slug": "onlineorderingsystemchecklistdownload",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/downloads/online-ordering-system-checklist"
   }
 ]

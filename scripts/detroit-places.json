@@ -1511,5 +1511,572 @@
       "detroit"
     ],
     "toastUrl": "https://order.toasttab.com/online/uptown-sushi"
+  },
+  {
+    "name": "Detroit Eatery 200 5th Avenue – Order pickup and delivery",
+    "slug": "detroiteatery2005thavenueorderpickupandd",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://order.online/store/detroit-eatery-royal-oak-428356"
+  },
+  {
+    "name": "Our Menu - Hub 41 - Restaurant in Detroit Lakes, MN",
+    "slug": "ourmenu-hub41-restaurantindetroitlakesmn",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://hub-41.popmenu.com/menus/our-menu"
+  },
+  {
+    "name": "Order Online - Hub 41 - Restaurant in Detroit Lakes, MN",
+    "slug": "orderonline-hub41-restaurantindetroitlak",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://hub-41.popmenu.com/"
+  },
+  {
+    "name": "Home - Social Brews",
+    "slug": "home-socialbrews",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://social-brews-detroit.popmenu.com/"
+  },
+  {
+    "name": "Popmenu: Restaurant online ordering",
+    "slug": "popmenurestaurantonlineordering",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
+  },
+  {
+    "name": "Popmenu: About Us",
+    "slug": "popmenuaboutus",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/about-us"
+  },
+  {
+    "name": "Restaurant analytics: How to collect (and use) guest data",
+    "slug": "restaurantanalyticshowtocollectandusegue",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-analytics-data-guide"
+  },
+  {
+    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
+    "slug": "popmenutoolkittherestaurantgrowthplayboo",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+  },
+  {
+    "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
+    "slug": "restaurantmenuideas9ofthebestmenustoinsp",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
+  },
+  {
+    "name": "Popmenu: Pricing",
+    "slug": "popmenupricing",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/pricing"
+  },
+  {
+    "name": "Popmenu: Manage your restaurant's online reputation",
+    "slug": "popmenumanageyourrestaurantsonlinereputa",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/reputation-management"
+  },
+  {
+    "name": "Popmenu: Modern restaurant website builder with SEO built in",
+    "slug": "popmenumodernrestaurantwebsitebuilderwit",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/restaurant-website-design"
+  },
+  {
+    "name": "Popmenu: Case Study - B&B Butchers Restaurant",
+    "slug": "popmenucasestudy-bbbutchersrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/b-b-butchers-restaurant"
+  },
+  {
+    "name": "Popmenu toolkit: 2025 Trends Report",
+    "slug": "popmenutoolkit2025trendsreport",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/2025-trends-report"
+  },
+  {
+    "name": "Detroit Deli",
+    "slug": "detroitdeli",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "squareUrl": "https://detroitdeli.square.site/"
+  },
+  {
+    "name": "Square",
+    "slug": "square",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "squareUrl": "https://thelunchroom.square.site/"
+  },
+  {
+    "name": "Sandos Eatory and Catering",
+    "slug": "sandoseatoryandcatering",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "squareUrl": "https://sandosdetroit.square.site/"
+  },
+  {
+    "name": "PSU Detroit lunch",
+    "slug": "psudetroitlunch",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "squareUrl": "https://my-site-100017-109267.square.site/product/psu-detroit-lunch/502"
+  },
+  {
+    "name": "Spicy Grilled Fish Bowls",
+    "slug": "spicygrilledfishbowls",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "squareUrl": "https://la-fonda-st-detroit.square.site/product/spicy-grilled-fish-bowls/167"
+  },
+  {
+    "name": "Home",
+    "slug": "home",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "squareUrl": "https://cheersdetroit.square.site/"
+  },
+  {
+    "name": "Spice Food Detroit: Home",
+    "slug": "spicefooddetroithome",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "squareUrl": "https://spice-food-detroit.square.site/"
+  },
+  {
+    "name": "Pizz 'A Detroit Co",
+    "slug": "pizzadetroitco",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "squareUrl": "https://pizz-a-detroit-co.square.site/"
+  },
+  {
+    "name": "Detroit City Clubhouse",
+    "slug": "detroitcityclubhouse",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "squareUrl": "https://detroit-city-clubhouse.square.site/"
+  },
+  {
+    "name": "Shop Downtown Detroit",
+    "slug": "shopdowntowndetroit",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "squareUrl": "https://shop-downtown-detroit.square.site/"
+  },
+  {
+    "name": "The Lunch Room A2/Detroit Street Filling Station",
+    "slug": "thelunchrooma2detroitstreetfillingstatio",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "squareUrl": "https://thelunchroom.square.site/"
+  },
+  {
+    "name": "Shop Now - FoodLab Detroit",
+    "slug": "shopnow-foodlabdetroit",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "squareUrl": "https://foodlab-detroit.square.site/s/shop"
+  },
+  {
+    "name": "About Detroit Sandwich Party",
+    "slug": "aboutdetroitsandwichparty",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "squareUrl": "https://detroitsandwichparty.square.site/about"
+  },
+  {
+    "name": "Home - Fire Pizza Detroit",
+    "slug": "home-firepizzadetroit",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://firepizza.menufy.com/"
+  },
+  {
+    "name": "Fire Pizza Detroit - Detroit, MI 48228 (Menu & Order Online)",
+    "slug": "firepizzadetroit-detroitmi48228menuorder",
+    "category": "pizza",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://firepizza.menufy.com/order"
+  },
+  {
+    "name": "CLEVELAND, OH - Delivery & Takeout",
+    "slug": "clevelandoh-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/OH/CLEVELAND"
+  },
+  {
+    "name": "Restaurants - Delivery & Takeout",
+    "slug": "restaurants-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://orderladolcevita.menufy.com/"
+  },
+  {
+    "name": "Midwest City, OK - Delivery & Takeout",
+    "slug": "midwestcityok-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/OK/Midwest%20City"
+  },
+  {
+    "name": "Kansas City, MO - Delivery & Takeout",
+    "slug": "kansascitymo-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MO/Kansas%20City"
+  },
+  {
+    "name": "Baltimore, MD - Delivery & Takeout",
+    "slug": "baltimoremd-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MD/Baltimore"
+  },
+  {
+    "name": "DELAWARE, OH - Delivery & Takeout",
+    "slug": "delawareoh-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/OH/DELAWARE"
+  },
+  {
+    "name": "NY - Delivery & Takeout",
+    "slug": "ny-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NY"
+  },
+  {
+    "name": "Cleveland Heights, OH - Delivery & Takeout",
+    "slug": "clevelandheightsoh-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/OH/Cleveland%20Heights"
+  },
+  {
+    "name": "WALL TOWNSHIP, NJ - Delivery & Takeout",
+    "slug": "walltownshipnj-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NJ/WALL%20TOWNSHIP"
+  },
+  {
+    "name": "San Antonio, TX - Delivery & Takeout",
+    "slug": "sanantoniotx-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/TX/San%20Antonio"
+  },
+  {
+    "name": "Kearney, MO - Delivery & Takeout",
+    "slug": "kearneymo-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MO/Kearney"
+  },
+  {
+    "name": "DC - Delivery & Takeout",
+    "slug": "dc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/DC"
+  },
+  {
+    "name": "Carrollton, TX - Delivery & Takeout",
+    "slug": "carrolltontx-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/TX/Carrollton"
+  },
+  {
+    "name": "Sayreville, NJ - Delivery & Takeout",
+    "slug": "sayrevillenj-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NJ/Sayreville"
+  },
+  {
+    "name": "The Colony, TX - Delivery & Takeout",
+    "slug": "thecolonytx-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/TX/The%20Colony"
+  },
+  {
+    "name": "Neptune City, NJ - Delivery & Takeout",
+    "slug": "neptunecitynj-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NJ/Neptune%20City"
+  },
+  {
+    "name": "Online Ordering and Restaurant Marketing System",
+    "slug": "onlineorderingandrestaurantmarketingsyst",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/"
+  },
+  {
+    "name": "RestaurantGPT",
+    "slug": "restaurantgpt",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://grader.owner.com/tra"
+  },
+  {
+    "name": "Owner.com Reviews",
+    "slug": "ownercomreviews",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/reviews"
+  },
+  {
+    "name": "Pricing",
+    "slug": "pricing",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/pricing"
+  },
+  {
+    "name": "How Owner.com Works",
+    "slug": "howownercomworks",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/how-owner-works"
+  },
+  {
+    "name": "No Commission Delivery for Restaurants",
+    "slug": "nocommissiondeliveryforrestaurants",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/delivery"
+  },
+  {
+    "name": "Owner.com Competitors",
+    "slug": "ownercomcompetitors",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/comparison"
+  },
+  {
+    "name": "Restaurant Marketing Blog",
+    "slug": "restaurantmarketingblog",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/blog"
+  },
+  {
+    "name": "Owner.com App",
+    "slug": "ownercomapp",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/mobile"
+  },
+  {
+    "name": "Owner.com Support - 24/7 Support, Rated 5 Stars",
+    "slug": "ownercomsupport-247supportrated5stars",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/support"
+  },
+  {
+    "name": "Restaurant Online Ordering System",
+    "slug": "restaurantonlineorderingsystem",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/online-ordering"
+  },
+  {
+    "name": "Careers",
+    "slug": "careers",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/careers"
+  },
+  {
+    "name": "Owner.com Series C Memo",
+    "slug": "ownercomseriescmemo",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/c"
+  },
+  {
+    "name": "The Owner.com Story",
+    "slug": "theownercomstory",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/our-story"
+  },
+  {
+    "name": "Scale Your Restaurant",
+    "slug": "scaleyourrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/scale-your-restaurant"
+  },
+  {
+    "name": "Automatic Marketing for Restaurants",
+    "slug": "automaticmarketingforrestaurants",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/automatic-marketing"
+  },
+  {
+    "name": "Online Ordering System Checklist Download",
+    "slug": "onlineorderingsystemchecklistdownload",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/downloads/online-ordering-system-checklist"
+  },
+  {
+    "name": "Owner Product Updates and Releases",
+    "slug": "ownerproductupdatesandreleases",
+    "category": "restaurant",
+    "metros": [
+      "detroit"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/releases"
   }
 ]

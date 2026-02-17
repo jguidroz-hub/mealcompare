@@ -1719,5 +1719,437 @@
       "nola"
     ],
     "toastUrl": "https://order.toasttab.com/online/hands"
+  },
+  {
+    "name": "Blue Bayou – New Orleans–inspired sports bar in Chicago",
+    "slug": "bluebayouneworleansinspiredsportsbarinch",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://blue-bayou.popmenu.com/"
+  },
+  {
+    "name": "Popmenu: Case Study - Locals Pub & Pizzeria",
+    "slug": "popmenucasestudy-localspubpizzeria",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/improving-margins/locals-pub-pizzeria"
+  },
+  {
+    "name": "Popmenu: Case Study - Dos Salsas",
+    "slug": "popmenucasestudy-dossalsas",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
+  },
+  {
+    "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
+    "slug": "restaurantmenuideas9ofthebestmenustoinsp",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
+  },
+  {
+    "name": "Popmenu: Pricing",
+    "slug": "popmenupricing",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/pricing"
+  },
+  {
+    "name": "5 menu design Ideas for digital-first restaurants",
+    "slug": "5menudesignideasfordigital-firstrestaura",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
+  },
+  {
+    "name": "Popmenu: Case Study - Taqueria Picoso",
+    "slug": "popmenucasestudy-taqueriapicoso",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/more-guests-larger-orders/taqueria-picoso"
+  },
+  {
+    "name": "Popmenu: Case Study - The Deck",
+    "slug": "popmenucasestudy-thedeck",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/the-deck"
+  },
+  {
+    "name": "Popmenu: Case Study - Phat Eatery",
+    "slug": "popmenucasestudy-phateatery",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/phat-eatery"
+  },
+  {
+    "name": "New Orleans Style Seafood Restaurant & Market",
+    "slug": "neworleansstyleseafoodrestaurantmarket",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "squareUrl": "https://neworleansstyleseafood.square.site/"
+  },
+  {
+    "name": "Order Online for A Taste of New Orleans",
+    "slug": "orderonlineforatasteofneworleans",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "squareUrl": "https://a-taste-of-new-orleans.square.site/"
+  },
+  {
+    "name": "Way Down Yonder New Orleans Finest Restaurant LLC",
+    "slug": "waydownyonderneworleansfinestrestaurantl",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "squareUrl": "https://way-down-yonder-new-orleans-finest-restaurant-llc.square.site/"
+  },
+  {
+    "name": "Home",
+    "slug": "home",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "squareUrl": "https://the-big-easy-new-orleans-cafe.square.site/"
+  },
+  {
+    "name": "Nola's Restaurant",
+    "slug": "nolasrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "squareUrl": "https://nolas-restaurant-clinton-ny.square.site/s/shop"
+  },
+  {
+    "name": "Cajun, Creole, and New Orleans, Louisiana Food",
+    "slug": "cajuncreoleandneworleanslouisianafood",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "squareUrl": "https://louzianafood.square.site/"
+  },
+  {
+    "name": "Square",
+    "slug": "square",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "squareUrl": "https://atasteofnola.square.site/"
+  },
+  {
+    "name": "City Eats New Orleans: Home",
+    "slug": "cityeatsneworleanshome",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "squareUrl": "https://100thingsnola.square.site/"
+  },
+  {
+    "name": "Greater New Orleans, Inc.: Home",
+    "slug": "greaterneworleansinchome",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "squareUrl": "https://greater-new-orleans-inc.square.site/"
+  },
+  {
+    "name": "Nayo's Restaurant: Home",
+    "slug": "nayosrestauranthome",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "squareUrl": "https://nayosrestaurant.square.site/"
+  },
+  {
+    "name": "New Orleans, LA - Delivery & Takeout",
+    "slug": "neworleansla-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/LA/New%20Orleans"
+  },
+  {
+    "name": "New Orleans Trap Kitchen: Home",
+    "slug": "neworleanstrapkitchenhome",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://neworleanstrapkitchen.menufy.com/"
+  },
+  {
+    "name": "Mexican in New Orleans, LA - Delivery & Takeout",
+    "slug": "mexicaninneworleansla-deliverytakeout",
+    "category": "mexican",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/LA/New%20Orleans/Mexican"
+  },
+  {
+    "name": "Restaurants - Delivery & Takeout",
+    "slug": "restaurants-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://cafedauphine.menufy.com/"
+  },
+  {
+    "name": "Tulsa, OK - Delivery & Takeout",
+    "slug": "tulsaok-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/OK/Tulsa"
+  },
+  {
+    "name": "Baton Rouge, LA - Delivery & Takeout",
+    "slug": "batonrougela-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/LA/Baton%20Rouge"
+  },
+  {
+    "name": "Shreveport, LA - Delivery & Takeout",
+    "slug": "shreveportla-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/LA/Shreveport"
+  },
+  {
+    "name": "METAIRIE, LA - Delivery & Takeout",
+    "slug": "metairiela-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/LA/METAIRIE"
+  },
+  {
+    "name": "Mediterranean in Towson, MD - Delivery & Takeout",
+    "slug": "mediterraneanintowsonmd-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MD/Towson/Mediterranean"
+  },
+  {
+    "name": "Destrehan, LA - Delivery & Takeout",
+    "slug": "destrehanla-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/LA/Destrehan"
+  },
+  {
+    "name": "Oklahoma City, OK - Delivery & Takeout",
+    "slug": "oklahomacityok-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/OK/Oklahoma%20City"
+  },
+  {
+    "name": "TALLAHASSEE, FL - Delivery & Takeout",
+    "slug": "tallahasseefl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/TALLAHASSEE"
+  },
+  {
+    "name": "New Restaurant Bank Deposits Schedule",
+    "slug": "newrestaurantbankdepositsschedule",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://restaurant.menufy.com/article/2013/new-deposits-schedule"
+  },
+  {
+    "name": "ANGOLA, NY - Delivery & Takeout",
+    "slug": "angolany-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NY/ANGOLA"
+  },
+  {
+    "name": "MESQUITE, TX - Delivery & Takeout",
+    "slug": "mesquitetx-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/TX/MESQUITE"
+  },
+  {
+    "name": "Online Ordering and Restaurant Marketing System",
+    "slug": "onlineorderingandrestaurantmarketingsyst",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/"
+  },
+  {
+    "name": "The State Of The Restaurant Industry In 2023 (Free Report)",
+    "slug": "thestateoftherestaurantindustryin2023fre",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/blog/restaurant-industry"
+  },
+  {
+    "name": "Pricing",
+    "slug": "pricing",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/pricing"
+  },
+  {
+    "name": "Restaurant Website Builder with AI",
+    "slug": "restaurantwebsitebuilderwithai",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/restaurant-website-ai"
+  },
+  {
+    "name": "The Owner.com Story",
+    "slug": "theownercomstory",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/our-story"
+  },
+  {
+    "name": "Owner.com App",
+    "slug": "ownercomapp",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/mobile"
+  },
+  {
+    "name": "How Owner.com Works",
+    "slug": "howownercomworks",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/how-owner-works"
+  },
+  {
+    "name": "No Commission Delivery for Restaurants",
+    "slug": "nocommissiondeliveryforrestaurants",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/delivery"
+  },
+  {
+    "name": "Restaurant Online Ordering System",
+    "slug": "restaurantonlineorderingsystem",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/online-ordering"
+  },
+  {
+    "name": "Owner.com Reviews",
+    "slug": "ownercomreviews",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/reviews"
+  },
+  {
+    "name": "Restaurant Marketing Blog",
+    "slug": "restaurantmarketingblog",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/blog"
+  },
+  {
+    "name": "RestaurantGPT",
+    "slug": "restaurantgpt",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://grader.owner.com/tra"
+  },
+  {
+    "name": "Online Catering System",
+    "slug": "onlinecateringsystem",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/catering"
+  },
+  {
+    "name": "Online Ordering System Checklist Download",
+    "slug": "onlineorderingsystemchecklistdownload",
+    "category": "restaurant",
+    "metros": [
+      "nola"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/downloads/online-ordering-system-checklist"
   }
 ]

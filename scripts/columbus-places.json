@@ -1020,5 +1020,536 @@
       "columbus"
     ],
     "toastUrl": "https://order.toasttab.com/online/vegan-treats"
+  },
+  {
+    "name": "5 menu design Ideas for digital-first restaurants",
+    "slug": "5menudesignideasfordigital-firstrestaura",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
+  },
+  {
+    "name": "Popmenu: Case Study - Cliff View",
+    "slug": "popmenucasestudy-cliffview",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/cliff-view"
+  },
+  {
+    "name": "Virtual restaurants need these 6 digital tools",
+    "slug": "virtualrestaurantsneedthese6digitaltools",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/virtual-restaurants-need-these-6-digital-tools"
+  },
+  {
+    "name": "Popmenu",
+    "slug": "popmenu",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://colombos-cafe-and-pastries.popmenu.com/popmenu-order"
+  },
+  {
+    "name": "Popmenu: About Us",
+    "slug": "popmenuaboutus",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/about-us"
+  },
+  {
+    "name": "How to set up online food ordering in an afternoon",
+    "slug": "howtosetuponlinefoodorderinginanafternoo",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
+  },
+  {
+    "name": "Popmenu - New",
+    "slug": "popmenu-new",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/what-is-seo-for-restaurants"
+  },
+  {
+    "name": "How to build emails for restaurants",
+    "slug": "howtobuildemailsforrestaurants",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-build-emails-for-restaurants"
+  },
+  {
+    "name": "Popmenu: Client Testimonials & Reviews",
+    "slug": "popmenuclienttestimonialsreviews",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-testimonials-reviews"
+  },
+  {
+    "name": "Popmenu: Who We Help - Quick Service Restaurants",
+    "slug": "popmenuwhowehelp-quickservicerestaurants",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/who-we-help/quick-service-restaurants"
+  },
+  {
+    "name": "Popmenu: Careers",
+    "slug": "popmenucareers",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/careers"
+  },
+  {
+    "name": "Popmenu: How We Help",
+    "slug": "popmenuhowwehelp",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/how-we-help"
+  },
+  {
+    "name": "Popmenu: Search Results",
+    "slug": "popmenusearchresults",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/search"
+  },
+  {
+    "name": "Popmenu + OpenTable",
+    "slug": "popmenuopentable",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/partner/opentable"
+  },
+  {
+    "name": "Restaurant analytics: How to collect (and use) guest data",
+    "slug": "restaurantanalyticshowtocollectandusegue",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-analytics-data-guide"
+  },
+  {
+    "name": "Home",
+    "slug": "home",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "squareUrl": "https://colombianstreetfood.square.site/"
+  },
+  {
+    "name": "Black Radish Creamery Specialty Cheese Shop Columbus Ohio",
+    "slug": "blackradishcreameryspecialtycheeseshopco",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "squareUrl": "https://brc-at-nm.square.site/"
+  },
+  {
+    "name": "Welcome",
+    "slug": "welcome",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "squareUrl": "https://salonlocal.square.site/"
+  },
+  {
+    "name": "Square",
+    "slug": "square",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "squareUrl": "https://foodateriakitchen.square.site/"
+  },
+  {
+    "name": "Columbus Brewing Company",
+    "slug": "columbusbrewingcompany",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "squareUrl": "https://columbus-brewing-company.square.site/"
+  },
+  {
+    "name": "Knights of Columbus Council 11044, Carmel Indiana",
+    "slug": "knightsofcolumbuscouncil11044carmelindia",
+    "category": "indian",
+    "metros": [
+      "columbus"
+    ],
+    "squareUrl": "https://kofc11044.square.site/"
+  },
+  {
+    "name": "Local Food",
+    "slug": "localfood",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "squareUrl": "https://eatsonthestreet.square.site/"
+  },
+  {
+    "name": "Meet the Owners",
+    "slug": "meettheowners",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "squareUrl": "https://columbusnaturals.square.site/ourstory"
+  },
+  {
+    "name": "Columbus, NJ - Delivery & Takeout",
+    "slug": "columbusnj-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NJ/Columbus"
+  },
+  {
+    "name": "COLUMBUS, OH - Delivery & Takeout",
+    "slug": "columbusoh-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/OH/COLUMBUS"
+  },
+  {
+    "name": "Healthy in Columbus, OH - Delivery & Takeout",
+    "slug": "healthyincolumbusoh-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/OH/Columbus/Healthy"
+  },
+  {
+    "name": "Home - Cinnamon Indian Grill",
+    "slug": "home-cinnamonindiangrill",
+    "category": "indian",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://cinnamonindiangrill.menufy.com/"
+  },
+  {
+    "name": "Columbus, IN - Delivery & Takeout",
+    "slug": "columbusin-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/IN/Columbus"
+  },
+  {
+    "name": "Indian in Columbus, OH - Delivery & Takeout",
+    "slug": "indianincolumbusoh-deliverytakeout",
+    "category": "indian",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/OH/Columbus/Indian"
+  },
+  {
+    "name": "Cliffside, NJ - Delivery & Takeout",
+    "slug": "cliffsidenj-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NJ/Cliffside"
+  },
+  {
+    "name": "North Tampa, FL - Delivery & Takeout",
+    "slug": "northtampafl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/North%20Tampa"
+  },
+  {
+    "name": "Cincinnati, OH - Delivery & Takeout",
+    "slug": "cincinnatioh-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/OH/Cincinnati"
+  },
+  {
+    "name": "West Chester, OH - Delivery & Takeout",
+    "slug": "westchesteroh-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/OH/West%20Chester"
+  },
+  {
+    "name": "Lumberton, NJ - Delivery & Takeout",
+    "slug": "lumbertonnj-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NJ/Lumberton"
+  },
+  {
+    "name": "Marysville, OH - Delivery & Takeout",
+    "slug": "marysvilleoh-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/OH/Marysville"
+  },
+  {
+    "name": "CARROLLWOOD, FL - Delivery & Takeout",
+    "slug": "carrollwoodfl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/CARROLLWOOD"
+  },
+  {
+    "name": "BOULDER, CO - Delivery & Takeout",
+    "slug": "boulderco-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CO/BOULDER"
+  },
+  {
+    "name": "Menufy Restaurant Portal",
+    "slug": "menufyrestaurantportal",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://restaurant.menufy.com/article/2014/menufy-restaurant-portal"
+  },
+  {
+    "name": "Columbia, MO - Delivery & Takeout",
+    "slug": "columbiamo-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MO/Columbia"
+  },
+  {
+    "name": "Columbia, SC - Delivery & Takeout",
+    "slug": "columbiasc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/SC/Columbia"
+  },
+  {
+    "name": "Online Ordering and Restaurant Marketing System",
+    "slug": "onlineorderingandrestaurantmarketingsyst",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/"
+  },
+  {
+    "name": "Owner Product Updates and Releases",
+    "slug": "ownerproductupdatesandreleases",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/releases"
+  },
+  {
+    "name": "Online Ordering System Checklist Download",
+    "slug": "onlineorderingsystemchecklistdownload",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/downloads/online-ordering-system-checklist"
+  },
+  {
+    "name": "Owner.com Leadership Team",
+    "slug": "ownercomleadershipteam",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/leadership"
+  },
+  {
+    "name": "Automatic Marketing for Restaurants",
+    "slug": "automaticmarketingforrestaurants",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/automatic-marketing"
+  },
+  {
+    "name": "Scale Your Restaurant",
+    "slug": "scaleyourrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/scale-your-restaurant"
+  },
+  {
+    "name": "Owner.com Reviews",
+    "slug": "ownercomreviews",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/reviews"
+  },
+  {
+    "name": "Pricing",
+    "slug": "pricing",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/pricing"
+  },
+  {
+    "name": "RestaurantGPT",
+    "slug": "restaurantgpt",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://grader.owner.com/book"
+  },
+  {
+    "name": "Restaurant Participation Agreement",
+    "slug": "restaurantparticipationagreement",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/restaurant-participation-agreement"
+  },
+  {
+    "name": "Owner.com Support - 24/7 Support, Rated 5 Stars",
+    "slug": "ownercomsupport-247supportrated5stars",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/support"
+  },
+  {
+    "name": "Owner.com: Get a Demo",
+    "slug": "ownercomgetademo",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/demo-start"
+  },
+  {
+    "name": "Privacy Policy",
+    "slug": "privacypolicy",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/privacy-policy"
+  },
+  {
+    "name": "Partner with Owner.com",
+    "slug": "partnerwithownercom",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/partner-request"
+  },
+  {
+    "name": "Partner With Owner",
+    "slug": "partnerwithowner",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/partner-with-owner"
+  },
+  {
+    "name": "How Owner.com Works",
+    "slug": "howownercomworks",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/how-owner-works"
+  },
+  {
+    "name": "Owner.com App",
+    "slug": "ownercomapp",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/mobile"
+  },
+  {
+    "name": "Online Reorder System",
+    "slug": "onlinereordersystem",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/reorders"
+  },
+  {
+    "name": "The Owner.com Story",
+    "slug": "theownercomstory",
+    "category": "restaurant",
+    "metros": [
+      "columbus"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/our-story"
   }
 ]

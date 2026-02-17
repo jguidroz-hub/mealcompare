@@ -1174,5 +1174,464 @@
       "charlotte"
     ],
     "toastUrl": "https://order.toasttab.com/online/mkitchen"
+  },
+  {
+    "name": "Home - Joa Korean Food - Korean Restaurant in NC",
+    "slug": "home-joakoreanfood-koreanrestaurantinnc",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://joa-korean-food.popmenu.com/"
+  },
+  {
+    "name": "The Corner Pub – Uptown Charlotte Bar & Restaurant",
+    "slug": "thecornerpubuptowncharlottebarrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://corner-pub.popmenu.com/"
+  },
+  {
+    "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
+    "slug": "restaurantmenuideas9ofthebestmenustoinsp",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
+  },
+  {
+    "name": "Is restaurant membership just a fad or here to stay?",
+    "slug": "isrestaurantmembershipjustafadorheretost",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-memberships-trend-or-fad"
+  },
+  {
+    "name": "Restaurant analytics: How to collect (and use) guest data",
+    "slug": "restaurantanalyticshowtocollectandusegue",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-analytics-data-guide"
+  },
+  {
+    "name": "Popmenu: Case Study - Alfred's Restaurant",
+    "slug": "popmenucasestudy-alfredsrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/alfreds-restaurant"
+  },
+  {
+    "name": "Popmenu: Modern restaurant website builder with SEO built in",
+    "slug": "popmenumodernrestaurantwebsitebuilderwit",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/restaurant-website-design"
+  },
+  {
+    "name": "How to create (and use) a restaurant email list",
+    "slug": "howtocreateandusearestaurantemaillist",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-email-list-guide"
+  },
+  {
+    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
+    "slug": "popmenutoolkittherestaurantgrowthplayboo",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+  },
+  {
+    "name": "Best restaurant websites: 4 examples to steal from",
+    "slug": "bestrestaurantwebsites4examplestostealfr",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-websites"
+  },
+  {
+    "name": "Popmenu: Pricing",
+    "slug": "popmenupricing",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/pricing"
+  },
+  {
+    "name": "Why every restaurant needs an interactive menu",
+    "slug": "whyeveryrestaurantneedsaninteractivemenu",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/every-restaurant-needs-interactive-menu"
+  },
+  {
+    "name": "The ultimate guide to restaurant branding",
+    "slug": "theultimateguidetorestaurantbranding",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-branding-guide"
+  },
+  {
+    "name": "Popmenu: Manage your restaurant's online reputation",
+    "slug": "popmenumanageyourrestaurantsonlinereputa",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/reputation-management"
+  },
+  {
+    "name": "Charlotte's Kitchenette",
+    "slug": "charlotteskitchenette",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "squareUrl": "https://charlotteskitchenette.square.site/"
+  },
+  {
+    "name": "Cafe Charlotte",
+    "slug": "cafecharlotte",
+    "category": "cafe",
+    "metros": [
+      "charlotte"
+    ],
+    "squareUrl": "https://cafe-charlotte.square.site/"
+  },
+  {
+    "name": "Charlotte's Coffee House",
+    "slug": "charlottescoffeehouse",
+    "category": "cafe",
+    "metros": [
+      "charlotte"
+    ],
+    "squareUrl": "https://charlottes-coffee-house.square.site/"
+  },
+  {
+    "name": "Charlotte Street Coffee Roasters: Home",
+    "slug": "charlottestreetcoffeeroastershome",
+    "category": "cafe",
+    "metros": [
+      "charlotte"
+    ],
+    "squareUrl": "https://charlottestreetcoffeeco.square.site/"
+  },
+  {
+    "name": "The Q Shack Charlotte Holiday Orders: Home",
+    "slug": "theqshackcharlotteholidayordershome",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "squareUrl": "https://qshackholiday.square.site/"
+  },
+  {
+    "name": "Home",
+    "slug": "home",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "squareUrl": "https://glad-mouf.square.site/"
+  },
+  {
+    "name": "Square",
+    "slug": "square",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "squareUrl": "https://big-view-diner-catering.square.site/"
+  },
+  {
+    "name": "Our Store - Charlotte Street Coffee Roasters",
+    "slug": "ourstore-charlottestreetcoffeeroasters",
+    "category": "cafe",
+    "metros": [
+      "charlotte"
+    ],
+    "squareUrl": "https://charlottestreetcoffeeco.square.site/s/order"
+  },
+  {
+    "name": "Home - BINKI CAFE CHARLOTTE",
+    "slug": "home-binkicafecharlotte",
+    "category": "cafe",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://binkicafe.menufy.com/"
+  },
+  {
+    "name": "Charlotte, NC - Delivery & Takeout",
+    "slug": "charlottenc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Charlotte"
+  },
+  {
+    "name": "The Crab Cracker - Charlotte, NC 28213 (Menu & Order Online)",
+    "slug": "thecrabcracker-charlottenc28213menuorder",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://thecrabcracker.menufy.com/"
+  },
+  {
+    "name": "Soul Food in Charlotte, NC - Delivery & Takeout",
+    "slug": "soulfoodincharlottenc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Charlotte/Soul%20Food"
+  },
+  {
+    "name": "Asian Fusion in Charlotte, NC - Delivery & Takeout",
+    "slug": "asianfusionincharlottenc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Charlotte/Asian%20Fusion"
+  },
+  {
+    "name": "Filipino in Charlotte, NC - Delivery & Takeout",
+    "slug": "filipinoincharlottenc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Charlotte/Filipino"
+  },
+  {
+    "name": "Wraps in Charlotte, NC - Delivery & Takeout",
+    "slug": "wrapsincharlottenc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Charlotte/Wraps"
+  },
+  {
+    "name": "Pho in Charlotte, NC - Delivery & Takeout",
+    "slug": "phoincharlottenc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Charlotte/Pho"
+  },
+  {
+    "name": "Szechuan in CHARLOTTE, NC - Delivery & Takeout",
+    "slug": "szechuanincharlottenc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/CHARLOTTE/Szechuan"
+  },
+  {
+    "name": "Charlotte, TN - Delivery & Takeout",
+    "slug": "charlottetn-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/TN/Charlotte"
+  },
+  {
+    "name": "MATTHEWS, NC - Delivery & Takeout",
+    "slug": "matthewsnc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/MATTHEWS"
+  },
+  {
+    "name": "Breakfast in Charlotte, NC - Delivery & Takeout",
+    "slug": "breakfastincharlottenc-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Charlotte/Breakfast"
+  },
+  {
+    "name": "Mediterranean in Charlotte, NC - Delivery & Takeout",
+    "slug": "mediterraneanincharlottenc-deliverytakeo",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Charlotte/Mediterranean"
+  },
+  {
+    "name": "Sushi in Charlotte, NC - Delivery & Takeout",
+    "slug": "sushiincharlottenc-deliverytakeout",
+    "category": "japanese",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NC/Charlotte/Sushi"
+  },
+  {
+    "name": "Online Ordering and Restaurant Marketing System",
+    "slug": "onlineorderingandrestaurantmarketingsyst",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/"
+  },
+  {
+    "name": "RestaurantGPT",
+    "slug": "restaurantgpt",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://grader.owner.com/tra"
+  },
+  {
+    "name": "Owner.com Competitors",
+    "slug": "ownercomcompetitors",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/comparison"
+  },
+  {
+    "name": "Scale Your Restaurant",
+    "slug": "scaleyourrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/scale-your-restaurant"
+  },
+  {
+    "name": "Owner.com & California Restaurant Association",
+    "slug": "ownercomcaliforniarestaurantassociation",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/california-ra"
+  },
+  {
+    "name": "Pricing",
+    "slug": "pricing",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/pricing"
+  },
+  {
+    "name": "How Owner.com Works",
+    "slug": "howownercomworks",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/how-owner-works"
+  },
+  {
+    "name": "Owner.com Reviews",
+    "slug": "ownercomreviews",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/reviews"
+  },
+  {
+    "name": "Owner.com App",
+    "slug": "ownercomapp",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/mobile"
+  },
+  {
+    "name": "Owner Product Updates and Releases",
+    "slug": "ownerproductupdatesandreleases",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/releases"
+  },
+  {
+    "name": "No Commission Delivery for Restaurants",
+    "slug": "nocommissiondeliveryforrestaurants",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/delivery"
+  },
+  {
+    "name": "Restaurant Participation Agreement",
+    "slug": "restaurantparticipationagreement",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/restaurant-participation-agreement"
+  },
+  {
+    "name": "Restaurant Marketing Blog",
+    "slug": "restaurantmarketingblog",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/blog"
+  },
+  {
+    "name": "Online Ordering System Checklist Download",
+    "slug": "onlineorderingsystemchecklistdownload",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/downloads/online-ordering-system-checklist"
+  },
+  {
+    "name": "The Owner.com Story",
+    "slug": "theownercomstory",
+    "category": "restaurant",
+    "metros": [
+      "charlotte"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/our-story"
   }
 ]

@@ -1759,5 +1759,428 @@
       "stlouis"
     ],
     "toastUrl": "https://order.toasttab.com/online/jingo-cajun-eatery-lumberton-133-a-north-lhs-dr"
+  },
+  {
+    "name": "Johnny's food mart 4300 Chippewa Street",
+    "slug": "johnnysfoodmart4300chippewastreet",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://order.online/store/johnny's-food-mart-st.-louis-1349753"
+  },
+  {
+    "name": "Brasserie St-Louis 2925 Québec 132",
+    "slug": "brasseriest-louis2925qubec132",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://order.online/store/brasserie-st-louis-sorel-tracy-2503966/"
+  },
+  {
+    "name": "Popmenu: Case Study - Dos Salsas",
+    "slug": "popmenucasestudy-dossalsas",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
+  },
+  {
+    "name": "Popmenu: Client Testimonials & Reviews",
+    "slug": "popmenuclienttestimonialsreviews",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-testimonials-reviews"
+  },
+  {
+    "name": "Popmenu: Case Study - Alfred's Restaurant",
+    "slug": "popmenucasestudy-alfredsrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/alfreds-restaurant"
+  },
+  {
+    "name": "Popmenu + OpenTable",
+    "slug": "popmenuopentable",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/partner/opentable"
+  },
+  {
+    "name": "Popmenu: Case Study - The Deck",
+    "slug": "popmenucasestudy-thedeck",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/the-deck"
+  },
+  {
+    "name": "Popmenu: Case Study - B&B Butchers Restaurant",
+    "slug": "popmenucasestudy-bbbutchersrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/b-b-butchers-restaurant"
+  },
+  {
+    "name": "Join the group text: Text message marketing for restaurants",
+    "slug": "jointhegrouptexttextmessagemarketingforr",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/text-message-marketing-for-restaurants"
+  },
+  {
+    "name": "Popmenu: Case Study - Taqueria Picoso",
+    "slug": "popmenucasestudy-taqueriapicoso",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/more-guests-larger-orders/taqueria-picoso"
+  },
+  {
+    "name": "Popmenu: Case Study - The Hampton Social",
+    "slug": "popmenucasestudy-thehamptonsocial",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/the-hampton-social"
+  },
+  {
+    "name": "Best restaurant websites: 4 examples to steal from",
+    "slug": "bestrestaurantwebsites4examplestostealfr",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-websites"
+  },
+  {
+    "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
+    "slug": "restaurantmenuideas9ofthebestmenustoinsp",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-menu-ideas"
+  },
+  {
+    "name": "Popmenu: Popmenu Pro",
+    "slug": "popmenupopmenupro",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/popmenu-pro"
+  },
+  {
+    "name": "How to set up online food ordering in an afternoon",
+    "slug": "howtosetuponlinefoodorderinginanafternoo",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
+  },
+  {
+    "name": "Popmenu: Search Results",
+    "slug": "popmenusearchresults",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/search"
+  },
+  {
+    "name": "How to create (and use) a restaurant email list",
+    "slug": "howtocreateandusearestaurantemaillist",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-email-list-guide"
+  },
+  {
+    "name": "Popmenu: Pricing",
+    "slug": "popmenupricing",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/pricing"
+  },
+  {
+    "name": "Popmenu: AI answering",
+    "slug": "popmenuaianswering",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/ai-answering"
+  },
+  {
+    "name": "St Louis Bistro: Home",
+    "slug": "stlouisbistrohome",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "squareUrl": "https://stlouisbistro.square.site/"
+  },
+  {
+    "name": "Home",
+    "slug": "home",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "squareUrl": "https://san-cafe-market.square.site/"
+  },
+  {
+    "name": "So St.Louis Eatery: Home",
+    "slug": "sostlouiseateryhome",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "squareUrl": "https://sosaintlouiseatery.square.site/"
+  },
+  {
+    "name": "Online Ordering Menu",
+    "slug": "onlineorderingmenu",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "squareUrl": "https://flavor360.square.site/"
+  },
+  {
+    "name": "About Us",
+    "slug": "aboutus",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "squareUrl": "https://stlouisbistro.square.site/about-us"
+  },
+  {
+    "name": "St Louis Bistro Menu",
+    "slug": "stlouisbistromenu",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "squareUrl": "https://stlouisbistro.square.site/menu"
+  },
+  {
+    "name": "Avenue Restaurant",
+    "slug": "avenuerestaurant",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "squareUrl": "https://avestl.square.site/"
+  },
+  {
+    "name": "Square",
+    "slug": "square",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "squareUrl": "https://southwestdinerstl.square.site/"
+  },
+  {
+    "name": "Bistro Louis",
+    "slug": "bistrolouis",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "squareUrl": "https://bistro-louis.square.site/"
+  },
+  {
+    "name": "Local Food",
+    "slug": "localfood",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "squareUrl": "https://eatsonthestreet.square.site/"
+  },
+  {
+    "name": "St Louis, MO - Delivery & Takeout",
+    "slug": "stlouismo-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MO/St%20Louis"
+  },
+  {
+    "name": "Saint Louis, MO - Delivery & Takeout",
+    "slug": "saintlouismo-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MO/Saint%20Louis"
+  },
+  {
+    "name": "Soul Food in St Louis, MO - Delivery & Takeout",
+    "slug": "soulfoodinstlouismo-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MO/St%20Louis/Soul%20Food"
+  },
+  {
+    "name": "El Indio Hampton - St. Louis, MO 63139 (Menu & Order Online)",
+    "slug": "elindiohampton-stlouismo63139menuorderon",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://eltapatiostltogo.menufy.com/"
+  },
+  {
+    "name": "Home - Majeed Mediterranean Restaurant",
+    "slug": "home-majeedmediterraneanrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://majeedmediterraneanrestaurant.menufy.com/"
+  },
+  {
+    "name": "Chinese in St Louis, MO - Delivery & Takeout",
+    "slug": "chineseinstlouismo-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MO/St%20Louis/Chinese"
+  },
+  {
+    "name": "Soup in St Louis, MO - Delivery & Takeout",
+    "slug": "soupinstlouismo-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MO/St%20Louis/Soup"
+  },
+  {
+    "name": "Pizza in St Louis, MO - Delivery & Takeout",
+    "slug": "pizzainstlouismo-deliverytakeout",
+    "category": "pizza",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MO/St%20Louis/Pizza"
+  },
+  {
+    "name": "Thai in ST LOUIS, MO - Delivery & Takeout",
+    "slug": "thaiinstlouismo-deliverytakeout",
+    "category": "thai",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MO/ST%20LOUIS/Thai"
+  },
+  {
+    "name": "Affton, MO - Delivery & Takeout",
+    "slug": "afftonmo-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MO/Affton"
+  },
+  {
+    "name": "Hibachi in St Louis, MO - Delivery & Takeout",
+    "slug": "hibachiinstlouismo-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MO/St%20Louis/Hibachi"
+  },
+  {
+    "name": "Wings in St Louis, MO - Delivery & Takeout",
+    "slug": "wingsinstlouismo-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MO/St%20Louis/Wings"
+  },
+  {
+    "name": "MO - Delivery & Takeout",
+    "slug": "mo-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MO"
+  },
+  {
+    "name": "Las Vegas, NV - Delivery & Takeout",
+    "slug": "lasvegasnv-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NV/Las%20Vegas"
+  },
+  {
+    "name": "Dessert in St Louis,, MO - Delivery & Takeout",
+    "slug": "dessertinstlouismo-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MO/St%20Louis,/Dessert"
+  },
+  {
+    "name": "Webster Groves, MO - Delivery & Takeout",
+    "slug": "webstergrovesmo-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MO/Webster%20Groves"
+  },
+  {
+    "name": "Breakfast in St Louis, MO - Delivery & Takeout",
+    "slug": "breakfastinstlouismo-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MO/St%20Louis/Breakfast"
+  },
+  {
+    "name": "Saint Charles, MO - Delivery & Takeout",
+    "slug": "saintcharlesmo-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "stlouis"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MO/Saint%20Charles"
   }
 ]

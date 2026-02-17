@@ -2120,5 +2120,491 @@
       "miami"
     ],
     "toastUrl": "https://order.toasttab.com/online/soko-bag"
+  },
+  {
+    "name": "ChowNow",
+    "slug": "chownow",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://ordering.chownow.com/order/2880/locations"
+  },
+  {
+    "name": "Popmenu: About Us",
+    "slug": "popmenuaboutus",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/about-us"
+  },
+  {
+    "name": "11 of the best restaurant menu designs to inspire you",
+    "slug": "11ofthebestrestaurantmenudesignstoinspir",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-menu-designs"
+  },
+  {
+    "name": "Popmenu - New",
+    "slug": "popmenu-new",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/best-restaurant-websites"
+  },
+  {
+    "name": "Popmenu: Case Study - Taqueria Picoso",
+    "slug": "popmenucasestudy-taqueriapicoso",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/more-guests-larger-orders/taqueria-picoso"
+  },
+  {
+    "name": "Popmenu: Photography",
+    "slug": "popmenuphotography",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/photography"
+  },
+  {
+    "name": "Popmenu: Case Study - The Deck",
+    "slug": "popmenucasestudy-thedeck",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/the-deck"
+  },
+  {
+    "name": "Popmenu: Restaurant online ordering",
+    "slug": "popmenurestaurantonlineordering",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
+  },
+  {
+    "name": "The ultimate guide to restaurant branding",
+    "slug": "theultimateguidetorestaurantbranding",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/restaurant-branding-guide"
+  },
+  {
+    "name": "5 menu design Ideas for digital-first restaurants",
+    "slug": "5menudesignideasfordigital-firstrestaura",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/menu-design-ideas"
+  },
+  {
+    "name": "Popmenu: Case Study - B&B Butchers Restaurant",
+    "slug": "popmenucasestudy-bbbutchersrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/b-b-butchers-restaurant"
+  },
+  {
+    "name": "Virtual restaurants need these 6 digital tools",
+    "slug": "virtualrestaurantsneedthese6digitaltools",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/virtual-restaurants-need-these-6-digital-tools"
+  },
+  {
+    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
+    "slug": "popmenutoolkittherestaurantgrowthplayboo",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+  },
+  {
+    "name": "Popmenu: Dynamic, interactive restaurant menus",
+    "slug": "popmenudynamicinteractiverestaurantmenus",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/dynamic-menu-tech"
+  },
+  {
+    "name": "Popmenu: Popmenu Pro",
+    "slug": "popmenupopmenupro",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/popmenu-pro"
+  },
+  {
+    "name": "Do you need a restaurant waitlist app?",
+    "slug": "doyouneedarestaurantwaitlistapp",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/do-you-need-a-restaurant-waitlist-app"
+  },
+  {
+    "name": "Best Venezuelan Food Truck",
+    "slug": "bestvenezuelanfoodtruck",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "squareUrl": "https://mrpepito.square.site/"
+  },
+  {
+    "name": "Home",
+    "slug": "home",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "squareUrl": "https://ittlelitalymiami.square.site/"
+  },
+  {
+    "name": "Taste of Miami Mobile Kitchen",
+    "slug": "tasteofmiamimobilekitchen",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "squareUrl": "https://tasteofmiamimobilekitchen.square.site/"
+  },
+  {
+    "name": "miicioni (Food)",
+    "slug": "miicionifood",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "squareUrl": "https://myaamiagifts.square.site/shop/miicioni-food/154"
+  },
+  {
+    "name": "Exclusive 900 Building Sagrado delivery",
+    "slug": "exclusive900buildingsagradodelivery",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "squareUrl": "https://sagrado-exclusive.square.site/"
+  },
+  {
+    "name": "Order Catering Online",
+    "slug": "ordercateringonline",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "squareUrl": "https://pummarola-midtown-catering.square.site/"
+  },
+  {
+    "name": "Burger Beast Shoppe",
+    "slug": "burgerbeastshoppe",
+    "category": "burgers",
+    "metros": [
+      "miami"
+    ],
+    "squareUrl": "https://burger-beast.square.site/"
+  },
+  {
+    "name": "Potato Corner at Food Truck: Home",
+    "slug": "potatocorneratfoodtruckhome",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "squareUrl": "https://potatocornerflorida.square.site/"
+  },
+  {
+    "name": "Miami Food Photographer",
+    "slug": "miamifoodphotographer",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "squareUrl": "https://gonzca.square.site/miami-food-photographer"
+  },
+  {
+    "name": "Miami Fusion: Home",
+    "slug": "miamifusionhome",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "squareUrl": "https://miami-fusion.square.site/"
+  },
+  {
+    "name": "Miami Slice Pop-Up",
+    "slug": "miamislicepop-up",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "squareUrl": "https://miamislice.square.site/"
+  },
+  {
+    "name": "Little Miami Farms: Home",
+    "slug": "littlemiamifarmshome",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "squareUrl": "https://little-miami-farms.square.site/"
+  },
+  {
+    "name": "Relish Miami, LLC: Home",
+    "slug": "relishmiamillchome",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "squareUrl": "https://relish-miami.square.site/"
+  },
+  {
+    "name": "Myamee",
+    "slug": "myamee",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "squareUrl": "https://myamee.square.site/"
+  },
+  {
+    "name": "Flora of Miami",
+    "slug": "floraofmiami",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "squareUrl": "https://floraofmiamistore.square.site/"
+  },
+  {
+    "name": "Thursday 8:20PM Miami Slice* (Full Pie)",
+    "slug": "thursday820pmmiamislicefullpie",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "squareUrl": "https://miamislice.square.site/product/thursday-8-20pm-miami-slice-full-pie-/194"
+  },
+  {
+    "name": "sobremesa miami wineshop",
+    "slug": "sobremesamiamiwineshop",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "squareUrl": "https://sobremesamiami.square.site/"
+  },
+  {
+    "name": "Miami Vice 32oz",
+    "slug": "miamivice32oz",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "squareUrl": "https://unleashednutrition.square.site/product/miami-vice-32oz/327"
+  },
+  {
+    "name": "Miami, FL - Delivery & Takeout",
+    "slug": "miamifl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/Miami"
+  },
+  {
+    "name": "Miami Beach, FL - Delivery & Takeout",
+    "slug": "miamibeachfl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/Miami%20Beach"
+  },
+  {
+    "name": "Major Food Catering - Miami, FL 33131 (Menu & Order Online)",
+    "slug": "majorfoodcatering-miamifl33131menuordero",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://majorfoodcatering.menufy.com/"
+  },
+  {
+    "name": "Miami Gardens, FL - Delivery & Takeout",
+    "slug": "miamigardensfl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/Miami%20Gardens"
+  },
+  {
+    "name": "North Miami, FL - Delivery & Takeout",
+    "slug": "northmiamifl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/North%20Miami"
+  },
+  {
+    "name": "Hialeah, FL - Delivery & Takeout",
+    "slug": "hialeahfl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/Hialeah"
+  },
+  {
+    "name": "Venezuelan in North Miami Beach, FL - Delivery & Takeout",
+    "slug": "venezuelaninnorthmiamibeachfl-deliveryta",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/North%20Miami%20Beach/Venezuelan"
+  },
+  {
+    "name": "Miami Lakes, FL - Delivery & Takeout",
+    "slug": "miamilakesfl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/Miami%20Lakes"
+  },
+  {
+    "name": "Sandwiches in Miami, FL - Delivery & Takeout",
+    "slug": "sandwichesinmiamifl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/Miami/Sandwiches"
+  },
+  {
+    "name": "Haitian in Miami, FL - Delivery & Takeout",
+    "slug": "haitianinmiamifl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/Miami/Haitian"
+  },
+  {
+    "name": "Asian in Miami Gardens, FL - Delivery & Takeout",
+    "slug": "asianinmiamigardensfl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/Miami%20Gardens/Asian"
+  },
+  {
+    "name": "North Miami Beach, FL - Delivery & Takeout",
+    "slug": "northmiamibeachfl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/North%20Miami%20Beach"
+  },
+  {
+    "name": "Caribbean in South Miami, FL - Delivery & Takeout",
+    "slug": "caribbeaninsouthmiamifl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/South%20Miami/Caribbean"
+  },
+  {
+    "name": "Chicken in Miami, FL - Delivery & Takeout",
+    "slug": "chickeninmiamifl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/Miami/Chicken"
+  },
+  {
+    "name": "Caribbean in Miami Beach, FL - Delivery & Takeout",
+    "slug": "caribbeaninmiamibeachfl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/Miami%20Beach/Caribbean"
+  },
+  {
+    "name": "Cuban Food in North Miami, FL - Delivery & Takeout",
+    "slug": "cubanfoodinnorthmiamifl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/North%20Miami/Cuban%20Food"
+  },
+  {
+    "name": "American in North Miami, FL - Delivery & Takeout",
+    "slug": "americaninnorthmiamifl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/North%20Miami/American"
+  },
+  {
+    "name": "Mediterranean in Miami Gardens, FL - Delivery & Takeout",
+    "slug": "mediterraneaninmiamigardensfl-deliveryta",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/Miami%20Gardens/Mediterranean"
+  },
+  {
+    "name": "Chinese in Miami Gardens, FL - Delivery & Takeout",
+    "slug": "chineseinmiamigardensfl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/Miami%20Gardens/Chinese"
+  },
+  {
+    "name": "Hawaiian in MIAMI, FL - Delivery & Takeout",
+    "slug": "hawaiianinmiamifl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/MIAMI/Hawaiian"
   }
 ]

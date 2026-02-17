@@ -1482,5 +1482,518 @@
       "tampa"
     ],
     "toastUrl": "https://order.toasttab.com/online/phattrathai"
+  },
+  {
+    "name": "Are Pitas 1727 W Fletcher Ave – Order pickup and delivery",
+    "slug": "arepitas1727wfletcheraveorderpickupandde",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://order.online/store/are-pitas-tampa-138978"
+  },
+  {
+    "name": "U-NITID 1905 E Fletcher Ave – Order pickup and delivery",
+    "slug": "u-nitid1905efletcheraveorderpickupanddel",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://order.online/store/u-nitid-tampa-29920096/"
+  },
+  {
+    "name": "Poke Island Plus 4058 Tampa Road – Order pickup and delivery",
+    "slug": "pokeislandplus4058tamparoadorderpickupan",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://order.online/store/poke-island-plus-oldsmar-23267897"
+  },
+  {
+    "name": "Poke Paradise 4644 West Gandy Boulevard",
+    "slug": "pokeparadise4644westgandyboulevard",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://order.online/store/poke-paradise-tampa-2865926"
+  },
+  {
+    "name": "El Shaddai Latin Restaurant 7315 East Broadway Avenue",
+    "slug": "elshaddailatinrestaurant7315eastbroadway",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://wayback.order.online/store/el-shaddai-latin-restaurant-tampa-611816"
+  },
+  {
+    "name": "Popmenu: We do more than grow your restaurant.",
+    "slug": "popmenuwedomorethangrowyourrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/"
+  },
+  {
+    "name": "Popmenu: Pricing",
+    "slug": "popmenupricing",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/pricing"
+  },
+  {
+    "name": "Popmenu: Client Testimonials & Reviews",
+    "slug": "popmenuclienttestimonialsreviews",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-testimonials-reviews"
+  },
+  {
+    "name": "Popmenu: Photography",
+    "slug": "popmenuphotography",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/photography"
+  },
+  {
+    "name": "Popmenu: Case Study - Phat Eatery",
+    "slug": "popmenucasestudy-phateatery",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/phat-eatery"
+  },
+  {
+    "name": "Popmenu: Restaurant online ordering",
+    "slug": "popmenurestaurantonlineordering",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
+  },
+  {
+    "name": "Popmenu: About Us",
+    "slug": "popmenuaboutus",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/about-us"
+  },
+  {
+    "name": "Popmenu: Case Study - Alfred's Restaurant",
+    "slug": "popmenucasestudy-alfredsrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/alfreds-restaurant"
+  },
+  {
+    "name": "Popmenu: Case Study - B&B Butchers Restaurant",
+    "slug": "popmenucasestudy-bbbutchersrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/b-b-butchers-restaurant"
+  },
+  {
+    "name": "Popmenu: Dynamic, interactive restaurant menus",
+    "slug": "popmenudynamicinteractiverestaurantmenus",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/dynamic-menu-tech"
+  },
+  {
+    "name": "Popmenu: OrderNerd powered by Popmenu",
+    "slug": "popmenuordernerdpoweredbypopmenu",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/ordernerd"
+  },
+  {
+    "name": "Popmenu: Popmenu Pro",
+    "slug": "popmenupopmenupro",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/popmenu-pro"
+  },
+  {
+    "name": "Popmenu: Case Study - The Freakin Incan",
+    "slug": "popmenucasestudy-thefreakinincan",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/simplified-technology/the-freakin-incan"
+  },
+  {
+    "name": "Popmenu + Toast",
+    "slug": "popmenutoast",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/partner/toast"
+  },
+  {
+    "name": "Popmenu: Case Study - Dos Salsas",
+    "slug": "popmenucasestudy-dossalsas",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
+  },
+  {
+    "name": "How to set up online food ordering in an afternoon",
+    "slug": "howtosetuponlinefoodorderinginanafternoo",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/how-to-set-up-online-food-ordering-in-an-afternoon"
+  },
+  {
+    "name": "Popmenu toolkit: The Restaurant Growth Playbook",
+    "slug": "popmenutoolkittherestaurantgrowthplayboo",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/the-restaurant-growth-playbook"
+  },
+  {
+    "name": "Popmenu: Case Study - Locals Pub & Pizzeria",
+    "slug": "popmenucasestudy-localspubpizzeria",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/improving-margins/locals-pub-pizzeria"
+  },
+  {
+    "name": "Popmenu: Who We Help - Quick Service Restaurants",
+    "slug": "popmenuwhowehelp-quickservicerestaurants",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/who-we-help/quick-service-restaurants"
+  },
+  {
+    "name": "Uptown, Tampa Diner: Home",
+    "slug": "uptowntampadinerhome",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://uptowntampadiner.menufy.com/"
+  },
+  {
+    "name": "Blue Flame - TAMPA, FL 33612 (Menu & Order Online)",
+    "slug": "blueflame-tampafl33612menuorderonline",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://blueflame.menufy.com/"
+  },
+  {
+    "name": "Pho in Tampa, FL - Delivery & Takeout",
+    "slug": "phointampafl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/Tampa/Pho"
+  },
+  {
+    "name": "Home - Ginza",
+    "slug": "home-ginza",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://ginza.menufy.com/"
+  },
+  {
+    "name": "Tampa, FL - Delivery & Takeout",
+    "slug": "tampafl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/Tampa"
+  },
+  {
+    "name": "Dominican in North Tampa, FL - Delivery & Takeout",
+    "slug": "dominicaninnorthtampafl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/North%20Tampa/Dominican"
+  },
+  {
+    "name": "Vietnamese in Tampa, FL - Delivery & Takeout",
+    "slug": "vietnameseintampafl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/Tampa/Vietnamese"
+  },
+  {
+    "name": "Thonotosassa, FL - Delivery & Takeout",
+    "slug": "thonotosassafl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/Thonotosassa"
+  },
+  {
+    "name": "North Tampa, FL - Delivery & Takeout",
+    "slug": "northtampafl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/North%20Tampa"
+  },
+  {
+    "name": "Noodles in Tampa, FL - Delivery & Takeout",
+    "slug": "noodlesintampafl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/Tampa/Noodles"
+  },
+  {
+    "name": "Sandwiches in Tampa, FL - Delivery & Takeout",
+    "slug": "sandwichesintampafl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/Tampa/Sandwiches"
+  },
+  {
+    "name": "Pakistani in Tampa, FL - Delivery & Takeout",
+    "slug": "pakistaniintampafl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/Tampa/Pakistani"
+  },
+  {
+    "name": "Pho in North Tampa, FL - Delivery & Takeout",
+    "slug": "phoinnorthtampafl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/North%20Tampa/Pho"
+  },
+  {
+    "name": "Latin American in Tampa, FL - Delivery & Takeout",
+    "slug": "latinamericanintampafl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/Tampa/Latin%20American"
+  },
+  {
+    "name": "FL - Delivery & Takeout",
+    "slug": "fl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL"
+  },
+  {
+    "name": "CARROLLWOOD, FL - Delivery & Takeout",
+    "slug": "carrollwoodfl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/CARROLLWOOD"
+  },
+  {
+    "name": "Palm Harbor, FL - Delivery & Takeout",
+    "slug": "palmharborfl-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/FL/Palm%20Harbor"
+  },
+  {
+    "name": "Online Ordering and Restaurant Marketing System",
+    "slug": "onlineorderingandrestaurantmarketingsyst",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/"
+  },
+  {
+    "name": "RestaurantGPT",
+    "slug": "restaurantgpt",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://grader.owner.com/tra"
+  },
+  {
+    "name": "Pricing",
+    "slug": "pricing",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/pricing"
+  },
+  {
+    "name": "Owner.com & Texas Restaurant Association",
+    "slug": "ownercomtexasrestaurantassociation",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/texas-ra"
+  },
+  {
+    "name": "No Commission Delivery for Restaurants",
+    "slug": "nocommissiondeliveryforrestaurants",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/delivery"
+  },
+  {
+    "name": "Owner Product Updates and Releases",
+    "slug": "ownerproductupdatesandreleases",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/releases"
+  },
+  {
+    "name": "Owner.com Competitors",
+    "slug": "ownercomcompetitors",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/comparison"
+  },
+  {
+    "name": "Owner.com Reviews",
+    "slug": "ownercomreviews",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/reviews"
+  },
+  {
+    "name": "The Owner.com Story",
+    "slug": "theownercomstory",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/our-story"
+  },
+  {
+    "name": "Owner.com App",
+    "slug": "ownercomapp",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/mobile"
+  },
+  {
+    "name": "Scale Your Restaurant",
+    "slug": "scaleyourrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/scale-your-restaurant"
+  },
+  {
+    "name": "How Owner.com Works",
+    "slug": "howownercomworks",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/how-owner-works"
+  },
+  {
+    "name": "Owner.com: Get a Demo",
+    "slug": "ownercomgetademo",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/demo"
+  },
+  {
+    "name": "Restaurant Marketing Blog",
+    "slug": "restaurantmarketingblog",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/blog"
+  },
+  {
+    "name": "Restaurant Online Ordering System",
+    "slug": "restaurantonlineorderingsystem",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/online-ordering"
+  },
+  {
+    "name": "Online Ordering System Checklist Download",
+    "slug": "onlineorderingsystemchecklistdownload",
+    "category": "restaurant",
+    "metros": [
+      "tampa"
+    ],
+    "websiteOrderUrl": "https://www.owner.com/downloads/online-ordering-system-checklist"
   }
 ]

@@ -2501,5 +2501,293 @@
       "boston"
     ],
     "toastUrl": "https://order.toasttab.com/online/wings-and-burgers-1733-west-mississippi-avenue"
+  },
+  {
+    "name": "Row 34 383 Congress Street – Order pickup and delivery",
+    "slug": "row34383congressstreetorderpickupanddeli",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://order.online/store/row-34-boston-24576651"
+  },
+  {
+    "name": "bos' sichuan taste 204 Harvard Avenue",
+    "slug": "bossichuantaste204harvardavenue",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://order.online/store/bos'-sichuan-taste-boston-2471759"
+  },
+  {
+    "name": "Boston Fish Supreme",
+    "slug": "bostonfishsupreme",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://boston-fish-supreme.popmenu.com/"
+  },
+  {
+    "name": "Popmenu: Case Study - B&B Butchers Restaurant",
+    "slug": "popmenucasestudy-bbbutchersrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-story/b-b-butchers-restaurant"
+  },
+  {
+    "name": "Popmenu: We do more than grow your restaurant.",
+    "slug": "popmenuwedomorethangrowyourrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/"
+  },
+  {
+    "name": "Popmenu: Restaurant online ordering",
+    "slug": "popmenurestaurantonlineordering",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/restaurant-online-ordering"
+  },
+  {
+    "name": "Popmenu - Turn More First Time Guests Into Regulars",
+    "slug": "popmenu-turnmorefirsttimeguestsintoregul",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/lp1/restaurant-strategy"
+  },
+  {
+    "name": "Popmenu: OrderNerd powered by Popmenu",
+    "slug": "popmenuordernerdpoweredbypopmenu",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/ordernerd"
+  },
+  {
+    "name": "Popmenu toolkit: 2025 Trends Report",
+    "slug": "popmenutoolkit2025trendsreport",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/toolkit/2025-trends-report"
+  },
+  {
+    "name": "Popmenu: About Us",
+    "slug": "popmenuaboutus",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/about-us"
+  },
+  {
+    "name": "Popmenu: Popmenu Pro",
+    "slug": "popmenupopmenupro",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/popmenu-pro"
+  },
+  {
+    "name": "Popmenu: Case Study - Dos Salsas",
+    "slug": "popmenucasestudy-dossalsas",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/client-stories/better-customer-service/dos-salsas"
+  },
+  {
+    "name": "Popmenu - New",
+    "slug": "popmenu-new",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://get.popmenu.com/post/beverage-strategies-for-restaurants"
+  },
+  {
+    "name": "WELLESLEY, MA - Delivery & Takeout",
+    "slug": "wellesleyma-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MA/WELLESLEY"
+  },
+  {
+    "name": "Boston, MA - Delivery & Takeout",
+    "slug": "bostonma-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MA/Boston"
+  },
+  {
+    "name": "ACTON, MA - Delivery & Takeout",
+    "slug": "actonma-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MA/ACTON"
+  },
+  {
+    "name": "WORCESTER, MA - Delivery & Takeout",
+    "slug": "worcesterma-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MA/WORCESTER"
+  },
+  {
+    "name": "DRACUT, MA - Delivery & Takeout",
+    "slug": "dracutma-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MA/DRACUT"
+  },
+  {
+    "name": "Chelmsford, MA - Delivery & Takeout",
+    "slug": "chelmsfordma-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MA/Chelmsford"
+  },
+  {
+    "name": "CHICOPEE, MA - Delivery & Takeout",
+    "slug": "chicopeema-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MA/CHICOPEE"
+  },
+  {
+    "name": "Nepalese in Boston, MA - Delivery & Takeout",
+    "slug": "nepaleseinbostonma-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MA/Boston/Nepalese"
+  },
+  {
+    "name": "Bridgeport, CT - Delivery & Takeout",
+    "slug": "bridgeportct-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CT/Bridgeport"
+  },
+  {
+    "name": "Brazilian in Boston, MA - Delivery & Takeout",
+    "slug": "brazilianinbostonma-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MA/Boston/Brazilian"
+  },
+  {
+    "name": "Orange, CT - Delivery & Takeout",
+    "slug": "orangect-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CT/Orange"
+  },
+  {
+    "name": "Watertown, MA - Delivery & Takeout",
+    "slug": "watertownma-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MA/Watertown"
+  },
+  {
+    "name": "MA - Delivery & Takeout",
+    "slug": "ma-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MA"
+  },
+  {
+    "name": "Mai Thai restaurant - Orange, CT 06477 (Menu & Order Online)",
+    "slug": "maithairestaurant-orangect06477menuorder",
+    "category": "thai",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://maithairestaurant.menufy.com/"
+  },
+  {
+    "name": "Salads in Waterford, CT - Delivery & Takeout",
+    "slug": "saladsinwaterfordct-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/CT/Waterford/Salads"
+  },
+  {
+    "name": "SOUTH BOSTON, VA - Delivery & Takeout",
+    "slug": "southbostonva-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/VA/SOUTH%20BOSTON"
+  },
+  {
+    "name": "Persian in BOSTON, MA - Delivery & Takeout",
+    "slug": "persianinbostonma-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MA/BOSTON/Persian"
+  },
+  {
+    "name": "Breakfast in WILBRAHAM, MA - Delivery & Takeout",
+    "slug": "breakfastinwilbrahamma-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/MA/WILBRAHAM/Breakfast"
+  },
+  {
+    "name": "Bronx, NY - Delivery & Takeout",
+    "slug": "bronxny-deliverytakeout",
+    "category": "restaurant",
+    "metros": [
+      "boston"
+    ],
+    "websiteOrderUrl": "https://www.menufy.com/NY/Bronx"
   }
 ]
