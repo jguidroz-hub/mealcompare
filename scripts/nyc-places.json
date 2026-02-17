@@ -178,7 +178,7 @@
     ],
     "address": "107-02 70th Rd",
     "placeId": "ChIJobxb2iZewokREMCvwQz97UE",
-    "website": "https://agednyc.com/?utm_source=google"
+    "website": "https://agednyc.com/"
   },
   {
     "name": "London Lennie's",
@@ -731,7 +731,9 @@
     "metros": [
       "nyc"
     ],
-    "address": "1439 2nd Ave"
+    "address": "1439 2nd Ave",
+    "placeId": "ChIJz6VeesBYwokRNBYu4Sar8lw",
+    "website": "http://www.thepnewyork.com/"
   },
   {
     "name": "LumLum",
@@ -740,7 +742,9 @@
     "metros": [
       "nyc"
     ],
-    "address": "404 W 49th St"
+    "address": "404 W 49th St",
+    "placeId": "ChIJeQxW7xZZwokRh32rrkOgatw",
+    "website": "http://www.lumlumnyc.com/"
   },
   {
     "name": "Pranakhon",
@@ -749,7 +753,10 @@
     "metros": [
       "nyc"
     ],
-    "address": "88 University Pl"
+    "address": "88 University Pl",
+    "placeId": "ChIJeWk_ncJZwokR1QHfApa0dQo",
+    "website": "https://pranakhonnyc.com/",
+    "websiteOrderUrl": "https://order.online/store/pranakhon-thai-new-york-24067699"
   },
   {
     "name": "Osteria Nonnino",
@@ -758,7 +765,9 @@
     "metros": [
       "nyc"
     ],
-    "address": "637 Hudson St"
+    "address": "637 Hudson St",
+    "placeId": "ChIJu3WF-z9ZwokRSIlFddmXX1k",
+    "website": "http://www.osterianonnino.com/"
   },
   {
     "name": "La Pecora Bianca SoHo",
@@ -767,7 +776,10 @@
     "metros": [
       "nyc"
     ],
-    "address": "54 Prince St"
+    "address": "54 Prince St",
+    "placeId": "ChIJfe6ZYKFZwokR_mHm7GNoAxc",
+    "website": "https://www.lapecorabianca.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Carmine's - Time Square",
@@ -776,7 +788,10 @@
     "metros": [
       "nyc"
     ],
-    "address": "200 W 44th St"
+    "address": "200 W 44th St",
+    "placeId": "ChIJR9So-lRYwokRX1xEjA0rChA",
+    "website": "https://carminesnyc.com/locations/times-square",
+    "websiteOrderUrl": "https://carminesnyc.olo.com/menu/little-fish-corp"
   },
   {
     "name": "Osteria La Baia",
@@ -785,7 +800,9 @@
     "metros": [
       "nyc"
     ],
-    "address": "129 W 52nd St"
+    "address": "129 W 52nd St",
+    "placeId": "ChIJo9FTvDBZwokRFAZ0i4jbLuk",
+    "website": "https://www.labaianyc.com/?y_source=1_MTAwNTA2Mjg0My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
   },
   {
     "name": "Tony's Di Napoli",
