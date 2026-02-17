@@ -60,7 +60,7 @@ export default function Home() {
           </div>
 
           <p style={{ fontSize: 13, color: '#334155', marginTop: 20, fontWeight: 500 }}>
-            30 cities · 5,600+ restaurants · 4,000+ direct ordering links
+            30 cities · 8,700+ restaurants · 7,100+ direct ordering links
           </p>
         </div>
       </section>
