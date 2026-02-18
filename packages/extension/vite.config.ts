@@ -15,6 +15,7 @@ export default defineConfig({
         'content/ubereats': resolve(__dirname, 'src/content/ubereats.ts'),
         'content/grubhub': resolve(__dirname, 'src/content/grubhub.ts'),
         'content/toast-scraper': resolve(__dirname, 'src/content/toast-scraper.ts'),
+        'content/overlay': resolve(__dirname, 'src/content/overlay.ts'),
         'popup/popup': resolve(__dirname, 'src/popup/popup.ts'),
       },
       output: {

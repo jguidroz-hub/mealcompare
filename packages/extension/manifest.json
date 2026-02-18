@@ -10,13 +10,22 @@
     "https://www.grubhub.com/*",
     "https://*.toast.site/*",
     "https://order.toasttab.com/*",
-    "https://skipthefee.vercel.app/*"
+    "https://skipthefee.app/*"
   ],
   "background": {
     "service_worker": "background.js",
     "type": "module"
   },
   "content_scripts": [
+    {
+      "matches": [
+        "https://www.doordash.com/*",
+        "https://www.ubereats.com/*",
+        "https://www.grubhub.com/*"
+      ],
+      "js": ["content/overlay.js"],
+      "run_at": "document_idle"
+    },
     {
       "matches": ["https://www.doordash.com/*"],
       "js": ["content/doordash.js"],
