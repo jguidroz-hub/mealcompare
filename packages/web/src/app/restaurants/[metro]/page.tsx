@@ -80,16 +80,7 @@ function getPlatformLabel(r: Restaurant): string {
   return 'Direct';
 }
 
-function getSavingsEstimate(name: string): string {
-  // Deterministic hash based on restaurant name — same restaurant always shows same savings
-  let hash = 0;
-  for (let i = 0; i < name.length; i++) hash = ((hash << 5) - hash + name.charCodeAt(i)) | 0;
-  // Range: $3.50 - $11.50 (realistic delivery app markup on $25-40 orders)
-  const base = 350; // $3.50 min
-  const range = 800; // $8.00 range
-  const cents = base + (Math.abs(hash) % range);
-  return '$' + (cents / 100).toFixed(2);
-}
+// Removed fake per-restaurant savings — we don't have actual price data
 
 function addUtm(url: string): string {
   try {
@@ -326,7 +317,7 @@ export default function MetroPage() {
 function RestaurantRow({ restaurant: r, metro }: { restaurant: Restaurant; metro: string }) {
   const hasDirect = !!r.directUrl;
   const catInfo = CATEGORY_MAP[r.category.toLowerCase()] || { emoji: '🍽️', label: r.category };
-  const savings = useMemo(() => getSavingsEstimate(r.name), [r.name]);
+  // No fake savings — we show honest messaging instead
   const slug = r.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+$/, '');
   const [faved, setFaved] = useState(false);
 
@@ -396,7 +387,7 @@ function RestaurantRow({ restaurant: r, metro }: { restaurant: Restaurant; metro
             }}
           >
             <span>Order Direct</span>
-            <span style={{ fontSize: 10, opacity: 0.8 }}>Save ~{savings}</span>
+            <span style={{ fontSize: 10, opacity: 0.8 }}>Skip the fees</span>
           </a>
         ) : (
           <div style={{ fontSize: 11, color: '#334155', textAlign: 'right', flexShrink: 0 }}>

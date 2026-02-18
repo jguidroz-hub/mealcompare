@@ -62,11 +62,7 @@ interface AIResult {
   score: number;
 }
 
-function getSavings(name: string): string {
-  let hash = 0;
-  for (let i = 0; i < name.length; i++) hash = ((hash << 5) - hash + name.charCodeAt(i)) | 0;
-  return '$' + ((350 + (Math.abs(hash) % 800)) / 100).toFixed(2);
-}
+// No fake per-restaurant savings
 
 export default function HeroSearch() {
   const router = useRouter();
@@ -219,7 +215,7 @@ export default function HeroSearch() {
                 <div>
                   <div style={{ fontWeight: 700, fontSize: 14 }}>{r.name}</div>
                   <div style={{ fontSize: 11, color: '#475569', marginTop: 2 }}>
-                    {r.category} · Save ~{getSavings(r.name)}
+                    {r.category} · {r.directUrl ? 'Skip the fees' : ''}
                   </div>
                 </div>
                 {r.directUrl ? (

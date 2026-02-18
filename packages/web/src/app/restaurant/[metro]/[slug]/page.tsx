@@ -43,11 +43,7 @@ const METRO_NAMES: Record<string, string> = {
   milwaukee: 'Milwaukee', raleigh: 'Raleigh', baltimore: 'Baltimore',
 };
 
-function getSavings(name: string): number {
-  let hash = 0;
-  for (let i = 0; i < name.length; i++) hash = ((hash << 5) - hash + name.charCodeAt(i)) | 0;
-  return (350 + (Math.abs(hash) % 800)) / 100;
-}
+// Removed fake per-restaurant savings function
 
 function addUtm(url: string): string {
   try {
@@ -86,9 +82,7 @@ export default function RestaurantDetailPage() {
       .catch(() => setLoading(false));
   }, [metro, slug]);
 
-  const savings = useMemo(() => restaurant ? getSavings(restaurant.name) : 7, [restaurant]);
-  const monthlySavings = (savings * 8).toFixed(0); // ~2 orders/week
-  const yearlySavings = (savings * 8 * 12).toFixed(0);
+  // No fake per-restaurant savings — we don't have actual price data
 
   const platform = restaurant?.hasToast ? 'Toast' : restaurant?.hasSquare ? 'Square' : 'Direct';
   const catInfo = CATEGORY_MAP[(restaurant?.category || 'restaurant').toLowerCase()] || { emoji: '🍽️', label: 'Restaurant' };
@@ -166,30 +160,17 @@ export default function RestaurantDetailPage() {
           </div>
         </div>
 
-        {/* Savings card */}
+        {/* Why order direct — honest, no fake numbers */}
         {restaurant.directUrl && (
-          <div className="glass-card" style={{ padding: 0, overflow: 'hidden', marginBottom: 20 }}>
-            <div style={{ padding: '20px 24px', borderBottom: '1px solid rgba(255,255,255,0.05)' }}>
-              <div style={{ fontSize: 12, color: '#475569', textTransform: 'uppercase', letterSpacing: '0.05em', fontWeight: 600 }}>
-                Estimated savings vs delivery apps
-              </div>
+          <div className="glass-card" style={{ padding: 20, marginBottom: 20 }}>
+            <div style={{ fontSize: 12, color: '#10b981', textTransform: 'uppercase', letterSpacing: '0.05em', fontWeight: 700, marginBottom: 12 }}>
+              Why order direct?
             </div>
-            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr' }}>
-              <div style={{ padding: '20px 16px', textAlign: 'center', borderRight: '1px solid rgba(255,255,255,0.05)' }}>
-                <div style={{ fontSize: 11, color: '#475569', marginBottom: 4 }}>Per Order</div>
-                <div style={{ fontSize: 24, fontWeight: 900, color: '#10b981' }}>${savings.toFixed(2)}</div>
-              </div>
-              <div style={{ padding: '20px 16px', textAlign: 'center', borderRight: '1px solid rgba(255,255,255,0.05)' }}>
-                <div style={{ fontSize: 11, color: '#475569', marginBottom: 4 }}>Monthly</div>
-                <div style={{ fontSize: 24, fontWeight: 900, color: '#3b82f6' }}>${monthlySavings}</div>
-              </div>
-              <div style={{ padding: '20px 16px', textAlign: 'center' }}>
-                <div style={{ fontSize: 11, color: '#475569', marginBottom: 4 }}>Yearly</div>
-                <div style={{ fontSize: 24, fontWeight: 900, color: '#f59e0b' }}>${yearlySavings}</div>
-              </div>
+            <div style={{ fontSize: 14, color: '#94a3b8', lineHeight: 1.7 }}>
+              Delivery apps typically charge restaurants 28-33%, which often gets passed to you as higher menu prices. They also add service fees ($2-10) and delivery fees ($2-8).
             </div>
-            <div style={{ padding: '4px 24px 16px', fontSize: 11, color: '#334155', textAlign: 'center' }}>
-              Based on ~2 orders/week. Delivery apps add 15-30% in fees + markup.
+            <div style={{ fontSize: 14, color: '#94a3b8', lineHeight: 1.7, marginTop: 8 }}>
+              Ordering direct through <strong style={{ color: '#10b981' }}>{platform}</strong> means you pay the restaurant&apos;s actual prices — no middleman markup. Not every restaurant marks up on apps, but the platform fees alone can add $5-15 to your order.
             </div>
           </div>
         )}
@@ -217,26 +198,27 @@ export default function RestaurantDetailPage() {
           </div>
         )}
 
-        {/* How fees work */}
+        {/* How fees work — industry averages, not per-restaurant claims */}
         <div className="glass-card" style={{ padding: 20, marginBottom: 20 }}>
-          <h3 style={{ fontSize: 15, fontWeight: 700, marginBottom: 12 }}>Why order direct?</h3>
+          <h3 style={{ fontSize: 15, fontWeight: 700, marginBottom: 4 }}>How delivery app fees typically work</h3>
+          <p style={{ fontSize: 11, color: '#475569', marginBottom: 12 }}>Industry averages — actual fees vary by restaurant and platform</p>
           <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 12, fontSize: 13 }}>
             <div>
-              <div style={{ color: '#ef4444', fontWeight: 700, marginBottom: 4 }}>🔴 Via DoorDash/Uber Eats</div>
+              <div style={{ color: '#ef4444', fontWeight: 700, marginBottom: 4 }}>🔴 Via delivery apps</div>
               <ul style={{ paddingLeft: 16, color: '#64748b', lineHeight: 1.7 }}>
-                <li>15-20% menu markup</li>
+                <li>Some restaurants mark up menus</li>
                 <li>$2-10 service fee</li>
                 <li>$2-8 delivery fee</li>
-                <li>Restaurant loses 28-33%</li>
+                <li>Possible small order fee</li>
               </ul>
             </div>
             <div>
               <div style={{ color: '#10b981', fontWeight: 700, marginBottom: 4 }}>🟢 Direct via {platform}</div>
               <ul style={{ paddingLeft: 16, color: '#64748b', lineHeight: 1.7 }}>
-                <li>Menu prices = real prices</li>
+                <li>Restaurant&apos;s own prices</li>
                 <li>No service fee</li>
-                <li>Lower delivery fee</li>
-                <li>Restaurant keeps 95%+</li>
+                <li>Usually lower delivery fee</li>
+                <li>Restaurant keeps more</li>
               </ul>
             </div>
           </div>
@@ -259,7 +241,7 @@ export default function RestaurantDetailPage() {
                 >
                   <div>
                     <div style={{ fontWeight: 700, fontSize: 14 }}>{r.name}</div>
-                    <div style={{ fontSize: 11, color: '#10b981' }}>Save ~${getSavings(r.name).toFixed(2)}</div>
+                    <div style={{ fontSize: 11, color: '#10b981' }}>Order direct</div>
                   </div>
                   <span style={{ fontSize: 12, color: '#10b981', fontWeight: 600 }}>Order Direct →</span>
                 </Link>
