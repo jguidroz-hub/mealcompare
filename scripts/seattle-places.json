@@ -161,7 +161,8 @@
       "seattle"
     ],
     "placeId": "ChIJS6quTsYVkFQRCqzcs081o0M",
-    "website": "http://www.asaderoprime.com/"
+    "website": "http://www.asaderoprime.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Ray's Boathouse",
@@ -174,7 +175,7 @@
     "website": "http://www.rays.com/"
   },
   {
-    "name": "Sabine Caf\u00e9 & Bar",
+    "name": "Sabine Café & Bar",
     "slug": "sabinecafbar",
     "category": "cafe",
     "metros": [
@@ -246,7 +247,7 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/13410/locations"
   },
   {
-    "name": "Din Tai Fung \u9f0e\u6cf0\u8c50",
+    "name": "Din Tai Fung 鼎泰豐",
     "slug": "dintaifung",
     "category": "restaurant",
     "metros": [
@@ -506,7 +507,9 @@
     "category": "restaurant",
     "metros": [
       "seattle"
-    ]
+    ],
+    "placeId": "ChIJYSjPILJqkFQRE-m7s1g6K0Y",
+    "website": "https://www.vons1000spirits.com/?utm_source=gmb&utm_medium=organic&utm_campaign=gmbpost"
   },
   {
     "name": "5 ways to ramp up your restaurant online ordering system",
@@ -514,7 +517,9 @@
     "category": "restaurant",
     "metros": [
       "seattle"
-    ]
+    ],
+    "placeId": "ChIJhdZMaVIVkFQRi8VtUoNN7Qo",
+    "website": "http://www.edgewaterhotel.com/seattle-six-seven-restaurant/?utm_source=gmb-restaurant&utm_medium=organic&utm_campaign=gmb"
   },
   {
     "name": "Why every restaurant needs an interactive menu",
@@ -522,7 +527,9 @@
     "category": "restaurant",
     "metros": [
       "seattle"
-    ]
+    ],
+    "placeId": "ChIJ91YOzrJqkFQRKmSW0B1qrbo",
+    "website": "https://www.thepinkdoor.net/"
   },
   {
     "name": "4 tech-focused tips to fight rising restaurant costs",
@@ -530,7 +537,9 @@
     "category": "restaurant",
     "metros": [
       "seattle"
-    ]
+    ],
+    "placeId": "ChIJ91YOzrJqkFQRKmSW0B1qrbo",
+    "website": "https://www.thepinkdoor.net/"
   },
   {
     "name": "Food Junction",
@@ -632,7 +641,7 @@
     "toastUrl": "https://order.toasttab.com/online/elliottbaybrewing-westseattle"
   },
   {
-    "name": "Caf\u00e9 Hitchcock Seattle Cafe Hitchcock (SEA)",
+    "name": "Café Hitchcock Seattle Cafe Hitchcock (SEA)",
     "slug": "cafhitchcockseattlecafehitchcocksea",
     "category": "cafe",
     "metros": [
@@ -1231,7 +1240,10 @@
     "category": "tea",
     "metros": [
       "seattle"
-    ]
+    ],
+    "placeId": "ChIJYQLqo4bHj4ARwDoIv_PVRHk",
+    "website": "http://rosetealounge.com/",
+    "toastUrl": "https://order.toasttab.com/online/locations"
   },
   {
     "name": "Pizza Hub",
@@ -1594,7 +1606,7 @@
     "toastUrl": "https://order.toasttab.com/online/leyu-ethiopian-restaurant"
   },
   {
-    "name": "Bol\u00e9 Ethiopian Cuisine Como",
+    "name": "Bolé Ethiopian Cuisine Como",
     "slug": "bolethiopiancuisinecomo",
     "category": "african",
     "metros": [
@@ -1779,7 +1791,9 @@
     "category": "restaurant",
     "metros": [
       "seattle"
-    ]
+    ],
+    "placeId": "ChIJ91YOzrJqkFQRKmSW0B1qrbo",
+    "website": "https://www.thepinkdoor.net/"
   },
   {
     "name": "The ultimate guide to restaurant branding",
@@ -1787,7 +1801,10 @@
     "category": "restaurant",
     "metros": [
       "seattle"
-    ]
+    ],
+    "placeId": "ChIJk56DkvYVkFQRSUYWuOae1As",
+    "website": "https://myfrienddereks.com/",
+    "squareUrl": "https://dereks-pizza.square.site/"
   },
   {
     "name": "Do you need a restaurant waitlist app?",
@@ -1795,7 +1812,9 @@
     "category": "restaurant",
     "metros": [
       "seattle"
-    ]
+    ],
+    "placeId": "ChIJ91YOzrJqkFQRKmSW0B1qrbo",
+    "website": "https://www.thepinkdoor.net/"
   },
   {
     "name": "Daimonji Sushi Bar & Grill Japanese Restaurant Seattle",
@@ -1902,7 +1921,10 @@
     "category": "deli",
     "metros": [
       "seattle"
-    ]
+    ],
+    "placeId": "ChIJCxAG4Z9XrlQR1G2mEf-0BYQ",
+    "website": "https://mbsandwichhouse.us/",
+    "websiteOrderUrl": "https://mbsandwichhouse.menufy.com/order"
   },
   {
     "name": "The Owner.com Story",
@@ -1919,7 +1941,8 @@
     "category": "restaurant",
     "metros": [
       "seattle"
-    ]
+    ],
+    "placeId": "ChIJZ1sAW14VkFQRnzKfTVl7NIE"
   },
   {
     "name": "Owner Product Updates and Releases",
@@ -2044,7 +2067,8 @@
     "category": "restaurant",
     "metros": [
       "seattle"
-    ]
+    ],
+    "placeId": "ChIJZ1sAW14VkFQRnzKfTVl7NIE"
   },
   {
     "name": "Partner With Owner",
@@ -2101,7 +2125,7 @@
     "websiteOrderUrl": "https://tuttabella.olo.com/menu/tutta-bella-columbia-city/"
   },
   {
-    "name": "Seattle, WA\u2014Wallingford",
+    "name": "Seattle, WA—Wallingford",
     "slug": "seattlewawallingford",
     "category": "restaurant",
     "metros": [
@@ -2110,7 +2134,7 @@
     "websiteOrderUrl": "https://ezellschicken.olo.com/menu/wallingford"
   },
   {
-    "name": "Seattle, WA\u2014Rainier Valley",
+    "name": "Seattle, WA—Rainier Valley",
     "slug": "seattlewarainiervalley",
     "category": "restaurant",
     "metros": [
@@ -2119,7 +2143,7 @@
     "websiteOrderUrl": "https://ezellschicken.olo.com/menu/genesse"
   },
   {
-    "name": "Seattle, WA\u2014Garfield High",
+    "name": "Seattle, WA—Garfield High",
     "slug": "seattlewagarfieldhigh",
     "category": "restaurant",
     "metros": [
@@ -2236,7 +2260,7 @@
     "websiteOrderUrl": "https://ezellschicken.olo.com/menu/federal-way"
   },
   {
-    "name": "\u1405 Seattle Pizza Delivery - Best Pizza Places in Seattle 2026",
+    "name": "ᐅ Seattle Pizza Delivery - Best Pizza Places in Seattle 2026",
     "slug": "seattlepizzadelivery-bestpizzaplacesinse",
     "category": "pizza",
     "metros": [
@@ -2268,7 +2292,9 @@
     "category": "caribbean",
     "metros": [
       "seattle"
-    ]
+    ],
+    "placeId": "ChIJ7XcjZVYVkFQRpFvmY5S1frU",
+    "website": "https://easycaribbeanfoods.com/?utm_source=google"
   },
   {
     "name": "Restaurant Online Ordering",
@@ -2293,7 +2319,10 @@
     "category": "mediterranean",
     "metros": [
       "seattle"
-    ]
+    ],
+    "placeId": "ChIJF1wFnkwVkFQRTgUNrzxCBtQ",
+    "website": "https://www.lolaseattle.com/?utm_source=gbp&utm_medium=organic&utm_campaign=fm",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Fully at Your Service",
@@ -2310,7 +2339,9 @@
     "category": "restaurant",
     "metros": [
       "seattle"
-    ]
+    ],
+    "placeId": "ChIJRXCfNwUVkFQRxraD8U-dANE",
+    "website": "https://canlis.com/"
   },
   {
     "name": "A Letter from the CEO",
@@ -2318,7 +2349,10 @@
     "category": "restaurant",
     "metros": [
       "seattle"
-    ]
+    ],
+    "placeId": "ChIJYxV19B8VkFQRMXyusd6oFPk",
+    "website": "http://serafinaseattle.com/",
+    "toastUrl": "https://order.toasttab.com/online/serafina-cicchetti"
   },
   {
     "name": "BentoBox",

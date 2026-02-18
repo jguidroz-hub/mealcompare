@@ -5,7 +5,9 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJSZyElmqPOIgRJo0D-FWVDu4",
+    "website": "https://butcherandrose.com/"
   },
   {
     "name": "The Guild House",
@@ -13,7 +15,10 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJDdUNHSiPOIgRsyv2nwaJ4fw",
+    "website": "https://theguildhousecolumbus.com/",
+    "websiteOrderUrl": "https://order.online/store/-1549808"
   },
   {
     "name": "Forno Kitchen + Bar",
@@ -21,7 +26,9 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJbS7jiNeOOIgR3FFM_ntMDGQ",
+    "website": "https://fornoshortnorth.com/"
   },
   {
     "name": "The Pearl",
@@ -29,7 +36,10 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJRa4b_deOOIgRJ7KonAxliHg",
+    "website": "https://thepearlrestaurant.com/",
+    "websiteOrderUrl": "https://order.online/store/-1344509"
   },
   {
     "name": "Agni",
@@ -37,15 +47,20 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJDxvdWJaPOIgRCyH3oF9ivPE",
+    "website": "http://www.dineatagni.com/"
   },
   {
-    "name": "Schmidt\u2019s Sausage Haus Restaurant",
+    "name": "Schmidt’s Sausage Haus Restaurant",
     "slug": "schmidtssausagehausrestaurant",
     "category": "restaurant",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJSxrD_LKIOIgRMWthB-FQlm4",
+    "website": "https://www.schmidthaus.com/",
+    "toastUrl": "https://order.toasttab.com/online/schmidts-restaurant-und-sausage-haus"
   },
   {
     "name": "Lindey's",
@@ -53,7 +68,9 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJG7DjFjKPOIgRm73LFxK9vto",
+    "website": "https://www.lindeys.com/"
   },
   {
     "name": "Kitchen Social",
@@ -61,7 +78,10 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJ5cj1WOb1OIgRMA9GnI0fREg",
+    "website": "http://ourkitchensocial.com/",
+    "toastUrl": "https://order.toasttab.com/online/kitchen-social"
   },
   {
     "name": "The Refectory Restaurant",
@@ -69,7 +89,9 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJW58HwQiNOIgRB6M4X1IXJi4",
+    "website": "http://www.refectory.com/"
   },
   {
     "name": "The Walrus",
@@ -77,7 +99,10 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJHXE3BDWPOIgR4iK8Z54zB3g",
+    "website": "http://www.thewalruscolumbus.com/",
+    "toastUrl": "https://order.toasttab.com/online/the-walrus-143-e-main-st"
   },
   {
     "name": "Metsi's",
@@ -85,7 +110,9 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJ52YjBACPOIgRIl6Zq0DGhik",
+    "website": "https://www.metsisitalian.com/"
   },
   {
     "name": "Elevator Brewery & Draught Haus",
@@ -93,7 +120,9 @@
     "category": "cafe",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJTSbjzC-POIgRQ_9coaCvBvI",
+    "website": "http://www.elevatorbrewing.com/"
   },
   {
     "name": "Valters at the Maennerchor",
@@ -101,7 +130,9 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJBZAWUFKPOIgR7ZQo-jxgTiI",
+    "website": "http://www.valtersatthemaennerchor.com/"
   },
   {
     "name": "The Old Mohawk",
@@ -109,7 +140,10 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJ0VfGMk2POIgRR6lbIJsP-3A",
+    "website": "https://oldmohawktavern.com/",
+    "websiteOrderUrl": "https://order.chownow.com/order/24030/locations/35278"
   },
   {
     "name": "South Village Grille",
@@ -117,7 +151,9 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJ_0fOiKyIOIgR7oOGLu4iLzE",
+    "website": "https://www.southvillagegrille.com/"
   },
   {
     "name": "Cento",
@@ -125,7 +161,9 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJLxmHY3OPOIgRytHuyXYo1Ys",
+    "website": "https://centogermanvillage.com/"
   },
   {
     "name": "Sycamore",
@@ -133,7 +171,10 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJ_Rv0g7SIOIgRTMMmmRQWZfI",
+    "website": "http://www.sycamoregv.com/",
+    "websiteOrderUrl": "https://sycamore.olo.com/menu/sycamore/"
   },
   {
     "name": "The Thurman Cafe",
@@ -141,15 +182,19 @@
     "category": "cafe",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJs9zlkayIOIgR-vFEVL1QM6s",
+    "website": "https://thethurmancafe.com/"
   },
   {
-    "name": "Hofbr\u00e4uhaus Columbus",
+    "name": "Hofbräuhaus Columbus",
     "slug": "hofbruhauscolumbus",
     "category": "restaurant",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJb5ERHB2POIgRORfFzwzCwGo",
+    "website": "http://hofbrauhauscolumbus.com/"
   },
   {
     "name": "Another Broken Egg Cafe",
@@ -157,7 +202,10 @@
     "category": "cafe",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJxVx3CQiLOIgRvgZaPNFjnY8",
+    "website": "https://www.anotherbrokenegg.com/locations/columbus-oh/",
+    "websiteOrderUrl": "https://anotherbrokeneggcafe.olo.com/?_gl=1*vp9rcc*_ga*ODE1ODg5MTE0LjE2NzU2OTc1OTk.*_ga_923ZLNPZ38*MTY3NjA3MjY1MS41LjEuMTY3NjA3MzcwNC41OS4wLjA."
   },
   {
     "name": "HangOverEasy",
@@ -165,7 +213,9 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJ_yxvRaCJOIgRyyx0dHiqe-w",
+    "website": "https://www.hangovereasy.com/"
   },
   {
     "name": "Joya's",
@@ -173,7 +223,9 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJqf_LdZSNOIgR9LJYRECzHd4",
+    "website": "http://www.eatatjoyas.com/"
   },
   {
     "name": "Cilantro Latin - Grandview Food Truck",
@@ -905,7 +957,7 @@
     "toastUrl": "https://order.toasttab.com/online/leyu-ethiopian-restaurant"
   },
   {
-    "name": "Bol\u00e9 Ethiopian Cuisine Como",
+    "name": "Bolé Ethiopian Cuisine Como",
     "slug": "bolethiopiancuisinecomo",
     "category": "african",
     "metros": [
@@ -1018,7 +1070,9 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJ07MkUKqNOIgRj_-LmEFe3LE",
+    "website": "https://linktr.ee/Highstreetkitchens"
   },
   {
     "name": "How to set up online food ordering in an afternoon",
@@ -1026,7 +1080,9 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJTRzivt2POIgRmX_ul8ydDuc",
+    "website": "https://www.astracolumbus.com/"
   },
   {
     "name": "How to build emails for restaurants",
@@ -1122,7 +1178,9 @@
     "category": "indian",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJEU0Kj6COOIgRYUpK7xsp6iM",
+    "website": "https://cinnamonindiangrill.com/?utm_source=google"
   },
   {
     "name": "Menufy Restaurant Portal",
@@ -1139,7 +1197,8 @@
     "category": "restaurant",
     "metros": [
       "columbus"
-    ]
+    ],
+    "placeId": "ChIJ_-LvDYOPOIgRI-rBB2k3OLw"
   },
   {
     "name": "Owner Product Updates and Releases",
@@ -1439,7 +1498,7 @@
     "websiteOrderUrl": "https://www.olo.com/host"
   },
   {
-    "name": "\u1405 Best Local Italian Sub in Columbus, Ohio",
+    "name": "ᐅ Best Local Italian Sub in Columbus, Ohio",
     "slug": "bestlocalitaliansubincolumbusohio",
     "category": "deli",
     "metros": [
@@ -1610,7 +1669,7 @@
     "toastUrl": "https://order.toasttab.com/online/bakery-x"
   },
   {
-    "name": "The Cottage Bakery & Caf\u00e9 LLC",
+    "name": "The Cottage Bakery & Café LLC",
     "slug": "thecottagebakerycafllc",
     "category": "cafe",
     "metros": [

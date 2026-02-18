@@ -14,7 +14,9 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJk58zcbq3t4kR9VDFZdcB5uE",
+    "website": "https://www.wearefoundingfarmers.com/location/dc/"
   },
   {
     "name": "Scarlet Oak/Side Door Pizza",
@@ -287,7 +289,7 @@
     "toastUrl": "https://order.toasttab.com/online/lost-dog-cafe-south-arlington"
   },
   {
-    "name": "R\u0100KO - Arlington Cafe",
+    "name": "RĀKO - Arlington Cafe",
     "slug": "rko-arlingtoncafe",
     "category": "cafe",
     "metros": [
@@ -629,7 +631,7 @@
     "toastUrl": "https://order.toasttab.com/online/812-pizza-company"
   },
   {
-    "name": "ch\u012bko dupont - dc",
+    "name": "chīko dupont - dc",
     "slug": "chkodupont-dc",
     "category": "restaurant",
     "metros": [
@@ -791,7 +793,7 @@
     "toastUrl": "https://order.toasttab.com/online/kensington-cafe-4141-adams-ave"
   },
   {
-    "name": "ch\u012bko capitol hill - dc",
+    "name": "chīko capitol hill - dc",
     "slug": "chkocapitolhill-dc",
     "category": "restaurant",
     "metros": [
@@ -1214,7 +1216,7 @@
     "websiteOrderUrl": "https://order.online/store/muzette-karaoke-&-restaurant-washington-666053/"
   },
   {
-    "name": "Etto 1541 14th Street Northwest \u2013 Order pickup and delivery",
+    "name": "Etto 1541 14th Street Northwest – Order pickup and delivery",
     "slug": "etto154114thstreetnorthwestorderpickupan",
     "category": "deli",
     "metros": [
@@ -1223,7 +1225,7 @@
     "websiteOrderUrl": "https://order.online/store/etto-washington-96290"
   },
   {
-    "name": "Wasai 716 7th Street Northwest \u2013 Order pickup and delivery",
+    "name": "Wasai 716 7th Street Northwest – Order pickup and delivery",
     "slug": "wasai7167thstreetnorthwestorderpickupand",
     "category": "deli",
     "metros": [
@@ -1237,7 +1239,9 @@
     "category": "chinese",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJXyx03o23t4kR4yjB3SO7mC8",
+    "website": "https://www.wokandrolldc.com/"
   },
   {
     "name": "Our Menu - Mangialardo's - Restaurant in Washington, DC",
@@ -1254,7 +1258,10 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJTzlOd6C3t4kR5pkF4ORwiyY",
+    "website": "https://www.boucherieus.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Home - El Gitano Bellingham - Restaurant in WA",
@@ -1262,7 +1269,9 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJtUxK04GkhVQRqoTHdTUHvt0",
+    "website": "http://www.elgitano.net/"
   },
   {
     "name": "Accessibility Review - Restaurant in Atlanta, GA",
@@ -1363,7 +1372,7 @@
     "squareUrl": "https://washington-whirlyball.square.site/"
   },
   {
-    "name": "Savor\u00e9",
+    "name": "Savoré",
     "slug": "savor",
     "category": "restaurant",
     "metros": [
@@ -1395,7 +1404,9 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJX5BrOTK4t4kRl5FB7VNJR3Y",
+    "website": "http://caprr.com/"
   },
   {
     "name": "Owner.com Reviews",
@@ -1421,7 +1432,9 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJtzxgmCa3t4kRosPkvNfA0XE",
+    "website": "https://www.chefgeoff.com/"
   },
   {
     "name": "The Owner.com Story",
@@ -1474,7 +1487,9 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJI4FJDBm4t4kRpyh9YSXkWxg",
+    "website": "https://marcusdc.com/marcus-dc"
   },
   {
     "name": "Online Ordering System Checklist Download",
@@ -1549,7 +1564,7 @@
     "websiteOrderUrl": "https://pinstripesbistro.olo.com/menu/pinstripes-georgetown"
   },
   {
-    "name": "Washington DC - Fogo de Ch\u00e3o",
+    "name": "Washington DC - Fogo de Chão",
     "slug": "washingtondc-fogodecho",
     "category": "restaurant",
     "metros": [
@@ -2079,7 +2094,7 @@
     "toastUrl": "https://order.toasttab.com/online/just-greek-142-south-livingston-avenue"
   },
   {
-    "name": "Mer\u00e1ki Greek Grill",
+    "name": "Meráki Greek Grill",
     "slug": "merkigreekgrill",
     "category": "mediterranean",
     "metros": [
@@ -2304,7 +2319,7 @@
     "toastUrl": "https://grillmarxsteakhouserawbar.toast.site/"
   },
   {
-    "name": "Social Eats Caf\u00e9",
+    "name": "Social Eats Café",
     "slug": "socialeats",
     "category": "cafe",
     "metros": [
@@ -2511,7 +2526,7 @@
     "toastUrl": "https://notacosamigo.toast.site/"
   },
   {
-    "name": "Ladur\u00e9e Bethesda",
+    "name": "Ladurée Bethesda",
     "slug": "laduree",
     "category": "restaurant",
     "metros": [
@@ -2606,7 +2621,9 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJ-8G13MG3t4kRSubiJXosIJ4",
+    "website": "https://www.sweetgreen.com/locations/logan-circle"
   },
   {
     "name": "Halal Guys",
@@ -2622,7 +2639,9 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJk58zcbq3t4kR9VDFZdcB5uE",
+    "website": "https://www.wearefoundingfarmers.com/location/dc/"
   },
   {
     "name": "Nandos Peri-Peri",
@@ -2639,7 +2658,9 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJ9QBVvOe3t4kRk9O6xcjy8i0",
+    "website": "http://www.busboysandpoets.com/"
   },
   {
     "name": "Bens Chili Bowl",
@@ -2647,7 +2668,10 @@
     "category": "healthy",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJM_l-a-a3t4kRQa_lW1A7W8k",
+    "website": "https://benschilibowl.com/",
+    "toastUrl": "https://order.toasttab.com/online/locations"
   },
   {
     "name": "Clyde\\",
@@ -2655,7 +2679,11 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJX2DN_423t4kRXPqouiDTazQ",
+    "website": "https://www.clydes.com/location/gallery-place/",
+    "toastUrl": "https://order.toasttab.com/online/clydes-willow-creek-farm-broadlands",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Rasika",
@@ -2663,7 +2691,10 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJJbjP-o-3t4kRpnr_gpNc4pE",
+    "website": "http://www.rasikarestaurant.com/pennquarter/",
+    "toastUrl": "https://order.toasttab.com/online/rasika-penn-quarter-633-d-street-northwest"
   },
   {
     "name": "Maketto",
@@ -2671,7 +2702,10 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJOfHnD0C4t4kRfls6DT1lHZg",
+    "website": "http://maketto1351.com/",
+    "toastUrl": "https://order.toasttab.com/online/maketto-1351-h-street-n-e"
   },
   {
     "name": "Daikaya",
@@ -2679,7 +2713,10 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJF2yEqzq3t4kRbnlXNGcKUmQ",
+    "website": "https://www.daikaya.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Bantam King",
@@ -2687,7 +2724,10 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJFcDpYo63t4kRC8H3XfLixYM",
+    "website": "http://www.bantamking.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/fuji/73f2977.fuji/assets/js/head.min.js"
   },
   {
     "name": "Doi Moi",
@@ -2695,7 +2735,10 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJJ0ZTR-i3t4kRLDrhQrCNIdQ",
+    "website": "http://www.doimoidc.com/",
+    "toastUrl": "https://order.toasttab.com/online/doi-moi"
   },
   {
     "name": "Pho 75",
@@ -2703,7 +2746,9 @@
     "category": "vietnamese",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJUwkAEKPIxokRFRGECz73Z14",
+    "website": "http://www.pho75arlington.com/"
   },
   {
     "name": "District Taco",
@@ -2711,7 +2756,9 @@
     "category": "mexican",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJbzUhBJe3t4kRSonHJnzbmzk",
+    "website": "https://www.districttaco.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ"
   },
   {
     "name": "Amsterdam Falafelshop",
@@ -2719,7 +2766,9 @@
     "category": "mediterranean",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJlXGu3T23t4kRc2zK6K2hPI8",
+    "website": "https://www.falafelsamdc.com/"
   },
   {
     "name": "Bonchon",
@@ -2727,7 +2776,9 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJicGH09W5t4kRA4peOlJ63R0",
+    "website": "https://restaurants.bonchon.com/locations/dc/washington-dc/1015-half-st-se"
   },
   {
     "name": "Good Stuff Eatery",
@@ -2735,7 +2786,9 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJjx_bKSy4t4kRWbmUfuB6Oko",
+    "website": "http://www.goodstuffeatery.com/"
   },
   {
     "name": "Le Diplomate",
@@ -2743,7 +2796,9 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJgYIki-m3t4kRZImvuN_pp9Q",
+    "website": "http://lediplomatedc.com/?utm_source=GoogleBusinessProfile&utm_medium=Website&utm_campaign=MapLabs"
   },
   {
     "name": "Compass Rose",
@@ -2751,7 +2806,8 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJI3EDcui3t4kRPIuF_GEGF7U"
   },
   {
     "name": "Old Ebbitt Grill",
@@ -2759,7 +2815,10 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJgRwXf723t4kRdfqt36VafUU",
+    "website": "https://www.ebbitt.com/",
+    "websiteOrderUrl": "https://media-cdn.getbento.com/jmY1DnrjTGGISzggxRFK_favicon.png"
   },
   {
     "name": "Duke\\",
@@ -2767,7 +2826,9 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJWQ9csCrIt4kRvkSCOyluCrs",
+    "website": "http://www.dukescounter.com/"
   },
   {
     "name": "Baked & Wired",
@@ -2775,7 +2836,10 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJh1gSd0y2t4kRVFtw1KAS1-E",
+    "website": "https://bakedandwired.com/",
+    "toastUrl": "https://order.toasttab.com/online/baked-wired-1052-thomas-jefferson-street-nw"
   },
   {
     "name": "Call Your Mother",
@@ -2783,7 +2847,10 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJN-6srunJt4kRglEULv_Q3y0",
+    "website": "https://www.callyourmotherdeli.com/park-view-dc-call-your-mother-deli",
+    "websiteOrderUrl": "https://callyourmother.olo.com/menu/park-view"
   },
   {
     "name": "Taqueria Habanero",
@@ -2791,7 +2858,9 @@
     "category": "mexican",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJgbx54xfIt4kR-Ic0a2lGYkQ",
+    "website": "https://www.taqueriahabanero.com/"
   },
   {
     "name": "Rose\\",
@@ -2799,7 +2868,10 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJUZM20My5t4kRnhgopk_e4YA",
+    "website": "https://www.rosesluxury.com/",
+    "websiteOrderUrl": "https://media-cdn.getbento.com/CZZmhkfISzKK1NBpAi7n_MJxwCAidQkmdWdOXo7FA_favicon.071f1e1a997c.png"
   },
   {
     "name": "Immigrant Food",
@@ -2807,7 +2879,10 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJUaha5aq3t4kRnVg5KTIAGp0",
+    "website": "https://immigrantfood.com/",
+    "toastUrl": "https://order.toasttab.com/online/immigrant-food-plus"
   },
   {
     "name": "Federalist Pig",
@@ -2815,7 +2890,10 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJaYyYL9-3t4kRtvTd-PMXV2Y",
+    "website": "https://www.federalistpig.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Bub and Pop\\",
@@ -2823,7 +2901,10 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJaUpOZ7i3t4kRND5yQ4NC4Mw",
+    "website": "https://bubandpops.com/",
+    "toastUrl": "https://order.toasttab.com/online/bub-and-pops-second-location-100-florida-avenue-northeast"
   },
   {
     "name": "DGS Delicatessen",
@@ -2831,7 +2912,9 @@
     "category": "deli",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJk8mance3t4kRROzprL4hnhA",
+    "website": "http://www.dgsdelicatessen.com/"
   },
   {
     "name": "Wiseguy Pizza",
@@ -2839,7 +2922,9 @@
     "category": "pizza",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJB1Eq7Iu3t4kRqBZLkgjNeic",
+    "website": "https://www.wiseguypizza.com/"
   },
   {
     "name": "&pizza",
@@ -2905,7 +2990,7 @@
     "toastUrl": "https://winnerbakery.toast.site/"
   },
   {
-    "name": "Ladur\u00e9e DC",
+    "name": "Ladurée DC",
     "slug": "ladurreedc",
     "category": "restaurant",
     "metros": [
@@ -2919,7 +3004,10 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJ-RCVBO23t4kRZy_eTbCJFC0",
+    "website": "https://allpurposedc.com/locations/shaw/",
+    "toastUrl": "https://order.toasttab.com/online/all-purpose-shaw"
   },
   {
     "name": "Henry\\",
@@ -2927,7 +3015,9 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJiVaAt2m3t4kRVGH_Ts89tNg",
+    "website": "http://thehenridc.com/"
   },
   {
     "name": "The Prime Rib",
@@ -2935,7 +3025,9 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJBycxtbC3t4kRu1zlN5MYum8",
+    "website": "https://theprimeribs.com/"
   },
   {
     "name": "Bar Chinois",
@@ -2943,7 +3035,9 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJ__8jWYy3t4kRapAJ24HEfDE",
+    "website": "https://www.barchinoisdc.com/"
   },
   {
     "name": "Cru Lounge",
@@ -2951,7 +3045,9 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJ1drXnRm5t4kR8_2UEVPyzWM",
+    "website": "https://crulounge.com/"
   },
   {
     "name": "Catalogue",
@@ -2959,7 +3055,10 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJL1qOdHXJt4kROH6KksL5cMs",
+    "website": "https://www.honeymoonchicken.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "The Diner",
@@ -2967,7 +3066,9 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJc7pMLdq3t4kReli_EYrgEkQ",
+    "website": "https://www.dinerdc.com/"
   },
   {
     "name": "Prime Pizza",
@@ -2984,7 +3085,10 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJLQH_IJC3t4kRZLetUEiw_Lw",
+    "website": "https://www.jaleo.com/location/washington-dc/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Zaytinya",
@@ -2992,7 +3096,10 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJ3_mSkpG3t4kRDEWpol01OrI",
+    "website": "https://www.zaytinya.com/location/washington-dc/",
+    "websiteOrderUrl": "https://media-cdn.getbento.com/pJosUcT2TzereK05u5qw_zfav.png"
   },
   {
     "name": "Medium Rare",
@@ -3000,7 +3107,9 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJRaurc9PJt4kRlpbYJq7AWFs",
+    "website": "http://www.mediumrarerestaurant.com/"
   },
   {
     "name": "Chaia Tacos",
@@ -3008,7 +3117,11 @@
     "category": "mexican",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJMVpds062t4kREUW5XGvLLp0",
+    "website": "http://www.chaiatacos.com/",
+    "toastUrl": "https://order.toasttab.com/online/locations",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Centrolina",
@@ -3016,6 +3129,8 @@
     "category": "restaurant",
     "metros": [
       "dc"
-    ]
+    ],
+    "placeId": "ChIJma782pO3t4kR-hKXI7SAq3U",
+    "website": "http://www.centrolinadc.com/"
   }
 ]
