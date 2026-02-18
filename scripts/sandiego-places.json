@@ -5,7 +5,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJ4yuqF7JU2YARcQmeuzO8iAE",
+    "website": "http://bornandraisedsteak.com/"
   },
   {
     "name": "Juniper and Ivy",
@@ -13,15 +15,19 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJU0G2erNU2YAR9XScAoqtvgU",
+    "website": "https://www.juniperandivy.com/"
   },
   {
-    "name": "Freddy\u2019s Chophouse",
+    "name": "Freddy’s Chophouse",
     "slug": "freddyschophouse",
     "category": "steakhouse",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJf8wtGUKt3oARACAdVZZSliw",
+    "website": "http://freddyschophouse.com/"
   },
   {
     "name": "Wolf In The Woods",
@@ -29,7 +35,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJq6rmudeq3oARyQfZSR7FKao",
+    "website": "http://www.thewolfinthewoods.com/"
   },
   {
     "name": "insideOUT",
@@ -37,7 +45,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJK8AHDOhU2YARXNfoeK2mhac",
+    "website": "http://insideoutsd.com/"
   },
   {
     "name": "Buon Appetito Restaurant",
@@ -45,7 +55,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJ58u4561U2YARFE2flhkfhWU",
+    "website": "https://www.buonappetitosandiego.com/"
   },
   {
     "name": "Herb & Wood",
@@ -53,7 +65,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJ2_K2drNU2YAR-y2McDRLW_4",
+    "website": "https://www.herbandwood.com/"
   },
   {
     "name": "C Level Lounge",
@@ -61,7 +75,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJ6VN5EEGr3oARraHXh1nFwkc",
+    "website": "https://www.clevelsd.com/"
   },
   {
     "name": "The Fish Market",
@@ -69,7 +85,9 @@
     "category": "seafood",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJ3cmLblWr3oARJFTFAlrab8w",
+    "website": "http://www.thefishmarket.com/"
   },
   {
     "name": "The Lion's Share",
@@ -77,7 +95,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJe45_61VT2YARVbhwTKoZU7w",
+    "website": "http://www.lionssharesd.com/"
   },
   {
     "name": "Rustic Root",
@@ -85,7 +105,10 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJXzRXlllT2YARXnn6T9KCaDI",
+    "website": "https://rusticrootsd.com/",
+    "toastUrl": "https://order.toasttab.com/online/rustic-root-solana-beach"
   },
   {
     "name": "La Puerta",
@@ -93,7 +116,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJS4xl21lT2YARGYzu2eh80zo",
+    "website": "https://lapuertasd.com/?utm_source=Business-Listings"
   },
   {
     "name": "Cafe Sevilla of San Diego",
@@ -101,7 +126,10 @@
     "category": "cafe",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJoURyw1lT2YARQo2InaztxQ8",
+    "website": "https://www.cafesevilla.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Werewolf",
@@ -109,7 +137,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJN9NqzFlT2YARNbO8FwgBcB0",
+    "website": "http://www.thewerewolf.net/"
   },
   {
     "name": "Osteria Panevino",
@@ -117,7 +147,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJXaIcSFhT2YARgEhK5SK3vfw",
+    "website": "https://www.osteriapanevino.com/"
   },
   {
     "name": "Union Kitchen and Tap Gaslamp",
@@ -125,7 +157,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJPVO7PlpT2YARnbjgT3GH-OQ",
+    "website": "https://gaslampunion.com/"
   },
   {
     "name": "Zama San Diego",
@@ -133,7 +167,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJDXRDaKNT2YARdPL4ryDWDn8",
+    "website": "https://www.zamasandiego.com/"
   },
   {
     "name": "Lou & Mickey's",
@@ -141,7 +177,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJTYZOXVpT2YARr-LvDpGXTbo",
+    "website": "https://www.louandmickeys.com/"
   },
   {
     "name": "The Melt",
@@ -149,7 +187,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJYU69NPJT2YARit6HjcmqiYM",
+    "website": "https://www.themelt.com/"
   },
   {
     "name": "The Smoking Goat",
@@ -157,7 +197,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJVYD8GYtU2YARHDBsVcxSpJs",
+    "website": "http://www.thesmokinggoatrestaurant.com/"
   },
   {
     "name": "One Door North",
@@ -165,7 +207,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJNdOaPYtU2YAR0jOK-CT-3Gk",
+    "website": "http://www.onedoornorthsd.com/"
   },
   {
     "name": "Cocina de Barrio North Park",
@@ -173,7 +217,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJzUi2tvZU2YARxQfyzT8mFf8",
+    "website": "https://www.eatcocinadebarrio.com/"
   },
   {
     "name": "RustiCucina",
@@ -181,7 +227,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJ__9L5OhU2YARdghSeG0jiTU",
+    "website": "http://www.rusticucina.com/"
   },
   {
     "name": "Dunedin New Zealand Eats",
@@ -189,15 +237,20 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJ87hDL4tU2YAR48AcFXInFsE",
+    "website": "https://dnp-sd.com/",
+    "toastUrl": "https://order.toasttab.com/online/dunedin-new-zealand-eats"
   },
   {
-    "name": "Carbon Angela\u2019s Kitchen",
+    "name": "Carbon Angela’s Kitchen",
     "slug": "carbonangelaskitchen",
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJDZ0aEmhV2YAR4RDoG1YgqP0",
+    "website": "https://angelas.kitchen/"
   },
   {
     "name": "Bacari North Park",
@@ -205,7 +258,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJjSzu1RxV2YARuhphWUdUNYg",
+    "website": "https://www.eatwithbacari.com/"
   },
   {
     "name": "Black Radish",
@@ -213,7 +268,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJudGj5_BV2YARpfwUa5Z1tV0",
+    "website": "https://www.blckrdsh.com/"
   },
   {
     "name": "Flora North Park",
@@ -221,7 +278,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJb3-ofpJV2YARRvzX_E3_Jqo",
+    "website": "https://www.floranorthpark.com/"
   },
   {
     "name": "Casa Guadalajara Mexican Restaurant",
@@ -229,7 +288,9 @@
     "category": "mexican",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJj0287Oeq3oARJZ5U4gyVuz4",
+    "website": "https://www.casaguadalajara.com/"
   },
   {
     "name": "Ed Fernandez Restaurant Birrieria",
@@ -237,7 +298,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJL_vwrBxM2YARPgkVrSsWjnw",
+    "website": "https://edfernandezbirrieria.com/"
   },
   {
     "name": "Tacos El Prieto",
@@ -245,7 +308,10 @@
     "category": "mexican",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJAemJW8BT2YARQSE2MrDIY_U",
+    "website": "https://elprietotacos.com/",
+    "toastUrl": "https://order.toasttab.com/online/el-prieto-downtown-317-10th-ave"
   },
   {
     "name": "Old Town Mexican Cafe",
@@ -253,7 +319,9 @@
     "category": "mexican",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJGSwKXd6q3oARghMke8gtv0o",
+    "website": "https://oldtownmexcafe.com/"
   },
   {
     "name": "Casa de Reyes",
@@ -261,7 +329,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJD1lzid2q3oARpX8yCaF7AZo",
+    "website": "http://casadereyesrestaurant.com/"
   },
   {
     "name": "El Agave Restaurant & Tequileria",
@@ -269,7 +339,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJ-02uXt-q3oARsmeTXs7qOMU",
+    "website": "http://www.elagave.com/"
   },
   {
     "name": "La Casa Verde",
@@ -277,7 +349,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJhaCAKwBV2YAR1oExLq4orHo",
+    "website": "https://www.lacasaverdesd.com/"
   },
   {
     "name": "Tacos El Gordo",
@@ -285,7 +359,9 @@
     "category": "mexican",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJRy7n2KZT2YARtURvo0fW-y4",
+    "website": "https://tacoselgordobc.com/"
   },
   {
     "name": "Mike's Red Tacos - Point Loma",
@@ -293,7 +369,10 @@
     "category": "mexican",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJv4Pg-pir3oAR4vhmV3Ba8Bs",
+    "website": "https://mikesredtacos.com/?utm_source=local-listings&utm_medium=directories&utm_campaign=click-track-marketing",
+    "toastUrl": "https://order.toasttab.com/online/locations"
   },
   {
     "name": "Louisiana Purchase",
@@ -301,7 +380,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJlSyxhVlV2YARu0db_R-gqJE",
+    "website": "https://www.louisianapurchasesd.com/"
   },
   {
     "name": "Mitch's Seafood",
@@ -309,7 +390,10 @@
     "category": "seafood",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJ3cvS6aOr3oAR0AQgiCvuPmU",
+    "website": "http://mitchsseafood.com/",
+    "toastUrl": "https://order.toasttab.com/online/mitchs-seafood-1403-scott-st"
   },
   {
     "name": "Blue Water Seafood Market & Grill",
@@ -317,7 +401,9 @@
     "category": "seafood",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJJ3KbAy6r3oARj7XH9DBho4k",
+    "website": "http://bluewaterseafoodsandiego.com/"
   },
   {
     "name": "Portside Pier",
@@ -325,7 +411,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJqcs4o-Or3oARNdBSVkaWIFw",
+    "website": "http://www.portsidepier.com/"
   },
   {
     "name": "Ironside Fish & Oyster",
@@ -333,7 +421,9 @@
     "category": "seafood",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJPS6B761U2YARa3DpXVLayRk",
+    "website": "https://ironsidefishandoyster.com/"
   },
   {
     "name": "Water Grill San Diego",
@@ -341,7 +431,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJkVj4MlpT2YARmp5fGnP5h84",
+    "website": "https://www.watergrill.com/sandiego"
   },
   {
     "name": "The Fishery",
@@ -349,7 +441,9 @@
     "category": "seafood",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJywiPFpAB3IAR4-XyJbOV72E",
+    "website": "http://www.thefishery.com/"
   },
   {
     "name": "Point Loma Seafoods",
@@ -357,7 +451,9 @@
     "category": "seafood",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJv-fMyaOr3oAR1mofM9q16T4",
+    "website": "http://www.pointlomaseafoods.com/"
   },
   {
     "name": "Eddie V's Prime Seafood",
@@ -365,7 +461,9 @@
     "category": "seafood",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJTRihlVVT2YARkKwrwHtzpEY",
+    "website": "https://www.eddiev.com/locations/ca/san-diego/san-diego/8514?cmpid=br:ev_ag:ie_ch:loc_ca:EVGMB_sn:gmb_gt:san-diego-ca-8514_pl:locurl_rd:1013"
   },
   {
     "name": "Brigantine Seafood & Oyster Bar",
@@ -373,7 +471,10 @@
     "category": "seafood",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJdXDdQ1ur3oAR04Nx-kyf2Qo",
+    "website": "http://www.brigantine.com/",
+    "websiteOrderUrl": "https://direct.chownow.com/order/22331/locations"
   },
   {
     "name": "Duke's La Jolla",
@@ -381,7 +482,10 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJYURVavwD3IARIKGSrA7FhoU",
+    "website": "http://www.dukeslajolla.com/",
+    "toastUrl": "https://order.toasttab.com/online/dukes-la-jolla"
   },
   {
     "name": "Cove House",
@@ -389,7 +493,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJRSGAkyoD3IARLmfa0mQnJqc",
+    "website": "https://www.covehouselajolla.com/"
   },
   {
     "name": "Georges at the Cove",
@@ -397,7 +503,9 @@
     "category": "restaurant",
     "metros": [
       "sandiego"
-    ]
+    ],
+    "placeId": "ChIJEeW1QPwD3IARvMEBeQ8Obvw",
+    "website": "https://www.georgesatthecove.com/"
   },
   {
     "name": "The Cottage La Jolla",
@@ -1877,7 +1985,7 @@
     "websiteOrderUrl": "https://saltandstraw.olo.com/menu/salt-straw-one-paseo"
   },
   {
-    "name": "Randy\u2019s Donuts Aero Drive",
+    "name": "Randy’s Donuts Aero Drive",
     "slug": "randysdonutsaerodrive",
     "category": "bakery",
     "metros": [
@@ -1973,7 +2081,7 @@
     "websiteOrderUrl": "https://istanbul-doner-kebab.getbento.com/online-ordering/"
   },
   {
-    "name": "B\u00e1nh M\u00ec H\u1ed9i An - Vietnamese restaurant in San Diego, CA",
+    "name": "Bánh Mì Hội An - Vietnamese restaurant in San Diego, CA",
     "slug": "bnhmhian-vietnameserestaurantinsandiegoc",
     "category": "vietnamese",
     "metros": [
@@ -2516,7 +2624,7 @@
     "toastUrl": "https://order.toasttab.com/online/grab-go-one-american-plaza-downtown-san-diego-600-w-broadway-st"
   },
   {
-    "name": "Zinqu\u00e9 (zin-kae) San Diego",
+    "name": "Zinqué (zin-kae) San Diego",
     "slug": "zinquzin-kaesandiego",
     "category": "restaurant",
     "metros": [

@@ -74,7 +74,8 @@
     ],
     "address": "240 Peachtree St",
     "placeId": "ChIJww40UHgE9YgR66AJn9YJKuE",
-    "website": "https://raysrestaurants.com/"
+    "website": "https://raysrestaurants.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Ladybird Grove & Mess Hall",
@@ -121,7 +122,7 @@
     "website": "https://www.southcitykitchen.com/"
   },
   {
-    "name": "El Vi\u00f1edo Local",
+    "name": "El Viñedo Local",
     "slug": "elviedolocal",
     "category": "restaurant",
     "metros": [
@@ -612,7 +613,9 @@
     "category": "restaurant",
     "metros": [
       "atlanta"
-    ]
+    ],
+    "placeId": "ChIJ0eQfrtYD9YgRBf_21hqdv9M",
+    "website": "https://thehungryaf.com/"
   },
   {
     "name": "4 tech-focused tips to fight rising restaurant costs",
@@ -1351,7 +1354,7 @@
     "toastUrl": "https://order.toasttab.com/online/bench-warmers-sports-grill-atlanta"
   },
   {
-    "name": "Sunnin Lebanese Caf\u00e9",
+    "name": "Sunnin Lebanese Café",
     "slug": "sunnin-lebanese-caf",
     "category": "cafe",
     "metros": [
@@ -1660,7 +1663,7 @@
     "websiteOrderUrl": "https://twinpeaksrestaurant.olo.com/menu/twin-peaks-buckhead"
   },
   {
-    "name": "Atlanta - Fogo de Ch\u00e3o",
+    "name": "Atlanta - Fogo de Chão",
     "slug": "atlanta-fogodecho",
     "category": "restaurant",
     "metros": [
@@ -1785,7 +1788,7 @@
     "websiteOrderUrl": "https://marlowstavern.olo.com/menu/marlows-tavern-midtown/products/44783652"
   },
   {
-    "name": "\u1405 Atlanta Pizza Delivery - Best Pizza Places in Atlanta 2025",
+    "name": "ᐅ Atlanta Pizza Delivery - Best Pizza Places in Atlanta 2025",
     "slug": "atlantapizzadelivery-bestpizzaplacesinat",
     "category": "pizza",
     "metros": [
@@ -1830,7 +1833,7 @@
     "websiteOrderUrl": "https://eatwhiskeybird.getbento.com/little-bird-atlanta-takeout/"
   },
   {
-    "name": "Private Dining Accolades Atlanta Magazine\u200b: Best of Atlanta",
+    "name": "Private Dining Accolades Atlanta Magazine​: Best of Atlanta",
     "slug": "privatediningaccoladesatlantamagazinebes",
     "category": "restaurant",
     "metros": [

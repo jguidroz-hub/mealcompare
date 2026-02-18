@@ -65,7 +65,8 @@
     ],
     "address": "1 Birdsall St",
     "placeId": "ChIJG3farMjAQIYRebM366xkNhs",
-    "website": "https://www.brennerssteakhouse.com/location/brenners-on-the-bayou/"
+    "website": "https://www.brennerssteakhouse.com/location/brenners-on-the-bayou/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Hull & Oak",
@@ -87,7 +88,8 @@
     ],
     "address": "520 Westheimer Rd",
     "placeId": "ChIJScX7w-W_QIYRnJUZzJInHrg",
-    "website": "http://www.travelerstable.com/"
+    "website": "http://www.travelerstable.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Taste of Texas",
@@ -158,7 +160,7 @@
     "website": "http://www.iloveroost.com/"
   },
   {
-    "name": "Little\u2019s Oyster Bar",
+    "name": "Little’s Oyster Bar",
     "slug": "littlesoysterbar",
     "category": "seafood",
     "metros": [
@@ -199,7 +201,8 @@
     ],
     "address": "1600 Westheimer Rd",
     "placeId": "ChIJWZy-UJnAQIYRJwZNRAGa6JI",
-    "website": "http://www.hugosrestaurant.net/?y_source=1_MTAzMTYxNjcyOC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+    "website": "http://www.hugosrestaurant.net/?y_source=1_MTAzMTYxNjcyOC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "La Lucha",
@@ -264,7 +267,7 @@
     "website": "http://moonrabbithtx.com/"
   },
   {
-    "name": "J\u016bn",
+    "name": "Jūn",
     "slug": "jn",
     "category": "restaurant",
     "metros": [
@@ -341,7 +344,8 @@
       "houston"
     ],
     "placeId": "ChIJQYwrJSK_QIYRxg9V72ZshzE",
-    "website": "https://www.grottorestaurants.com/location/grotto-downtown-houston-tx/"
+    "website": "https://www.grottorestaurants.com/location/grotto-downtown-houston-tx/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Tiny Champions",
@@ -405,7 +409,7 @@
     "squareUrl": "https://lesbaget.square.site"
   },
   {
-    "name": "L\u00faa Viet Kitchen",
+    "name": "Lúa Viet Kitchen",
     "slug": "lavietkitchen",
     "category": "restaurant",
     "metros": [
@@ -492,7 +496,8 @@
       "houston"
     ],
     "placeId": "ChIJwbxsuD8kQYYRmGueq2_YeLM",
-    "website": "https://blackbeardiner.com/location/katy/"
+    "website": "https://blackbeardiner.com/location/katy/",
+    "websiteOrderUrl": "https://blackbeardinercatering.olo.com/"
   },
   {
     "name": "Little Italy Restaurant",
@@ -502,7 +507,8 @@
       "houston"
     ],
     "placeId": "ChIJ6wdXeYknQYYRUWK1uKk3OKU",
-    "website": "https://www.littleitalyktx.com/"
+    "website": "https://www.littleitalyktx.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Postino Cinco Ranch",
@@ -1160,7 +1166,7 @@
     "toastUrl": "https://order.toasttab.com/online/dripped-birria-midtown"
   },
   {
-    "name": "Z\u00f3calo Midtown Restaurant",
+    "name": "Zócalo Midtown Restaurant",
     "slug": "zcalomidtownrestaurant",
     "category": "restaurant",
     "metros": [
@@ -1651,7 +1657,7 @@
     ]
   },
   {
-    "name": "Latitude 26\u00b0",
+    "name": "Latitude 26°",
     "slug": "latitude26",
     "category": "restaurant",
     "metros": [
@@ -1938,7 +1944,7 @@
     "websiteOrderUrl": "https://parlordoughnuts.olo.com/menu/parlor-doughnuts-houston-nasa"
   },
   {
-    "name": "J. Alexander\u2019s Houston, TX",
+    "name": "J. Alexander’s Houston, TX",
     "slug": "jalexandershoustontx",
     "category": "restaurant",
     "metros": [
@@ -2064,7 +2070,7 @@
     "websiteOrderUrl": "https://goldenchick.olo.com/menu/golden-chick-houston-spears-rd"
   },
   {
-    "name": "\u1405 Houston Pizza Delivery - Best Pizza Places in Houston 2026",
+    "name": "ᐅ Houston Pizza Delivery - Best Pizza Places in Houston 2026",
     "slug": "houstonpizzadelivery-bestpizzaplacesinho",
     "category": "pizza",
     "metros": [
@@ -2152,7 +2158,7 @@
     ]
   },
   {
-    "name": "Se\u00f1or Burrito Drives 150% More Orders With BentoBox & Clover",
+    "name": "Señor Burrito Drives 150% More Orders With BentoBox & Clover",
     "slug": "seorburritodrives150moreorderswithbentob",
     "category": "mexican",
     "metros": [
