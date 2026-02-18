@@ -153,7 +153,8 @@
     ],
     "address": "1051 Collins Ave",
     "placeId": "ChIJB91mn3Wy2YgRNWDBhM0NGjE",
-    "website": "http://www.littlehavanarestaurant.com/"
+    "website": "http://www.littlehavanarestaurant.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Mayami Wynwood",
@@ -198,7 +199,8 @@
     ],
     "address": "2801 NW 2nd Ave",
     "placeId": "ChIJlyPZ16q32YgR2cpjqI36uDQ",
-    "website": "https://www.bakanwynwood.com/"
+    "website": "https://www.bakanwynwood.com/",
+    "websiteOrderUrl": "https://media-cdn.getbento.com/lkc8y0TQIiBrjVMq5Y3i_favicon.png"
   },
   {
     "name": "Astra Miami Rooftop",
@@ -209,7 +211,8 @@
     ],
     "address": "2121 NW 2nd Ave",
     "placeId": "ChIJyxSDUge32YgRHfTLkzof5k8",
-    "website": "https://www.astramiami.com/"
+    "website": "https://www.astramiami.com/",
+    "websiteOrderUrl": "https://astramiami.getbento.com/"
   },
   {
     "name": "Le Chick Miami",
@@ -242,7 +245,8 @@
     ],
     "address": "251 NW 25th St",
     "placeId": "ChIJ1RIPXbK22YgRWFRMDfJuic8",
-    "website": "https://www.kyurestaurants.com/location/kyu-miami-1/?utm_source=gmb"
+    "website": "https://www.kyurestaurants.com/location/kyu-miami-1/?utm_source=gmb",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Manta Wynwood",
@@ -285,19 +289,19 @@
     "metros": [
       "miami"
     ],
-    "address": "412 Espa\u00f1ola Wy",
+    "address": "412 Española Wy",
     "placeId": "ChIJldtW5o-02YgRkREE3zXRlVY",
     "website": "https://www.mercatodellapescheria.com/miami-locations/",
     "websiteOrderUrl": "https://order.online/store/74275"
   },
   {
-    "name": "Espa\u00f1olita Miami Beach \ud83c\udf39\ud83d\udc83SEAFOOD&STEAKHOUSE",
+    "name": "Españolita Miami Beach 🌹💃SEAFOOD&STEAKHOUSE",
     "slug": "espaolitamiamibeachseafoodsteakhouse",
     "category": "seafood",
     "metros": [
       "miami"
     ],
-    "address": "441 Espa\u00f1ola Wy",
+    "address": "441 Española Wy",
     "placeId": "ChIJ2alqjJq12YgRo3YBkP_xEoA",
     "website": "https://espanolitamiami.com/"
   },
@@ -321,10 +325,11 @@
     ],
     "address": "700 Ocean Dr",
     "placeId": "ChIJbQDyqJK02YgR6kKjr7ipYiA",
-    "website": "http://afishcalledavalon.com/"
+    "website": "http://afishcalledavalon.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
-    "name": "CORALLO \ud83c\uddee\ud83c\uddf9 Amalfi coast",
+    "name": "CORALLO 🇮🇹 Amalfi coast",
     "slug": "coralloamalficoast",
     "category": "restaurant",
     "metros": [
@@ -438,7 +443,8 @@
       "miami"
     ],
     "placeId": "ChIJZzgtHTW32YgR-k9p8IqD5m0",
-    "website": "https://www.cafelatrova.com/"
+    "website": "https://www.cafelatrova.com/",
+    "websiteOrderUrl": "https://media-cdn.getbento.com/hnKkBt0RFiJdeHYqik3w_LaTrova-favicon.png"
   },
   {
     "name": "BALL & CHAIN",
@@ -553,7 +559,7 @@
     "website": "https://solamiami.com/"
   },
   {
-    "name": "El Patio Restaurant \u2013 Bar Habana \u2013 La Terraza Rooftop",
+    "name": "El Patio Restaurant – Bar Habana – La Terraza Rooftop",
     "slug": "elpatiorestaurantbarhabanalaterrazarooft",
     "category": "restaurant",
     "metros": [
@@ -606,7 +612,7 @@
     "website": "https://meetdaliamiami.com/"
   },
   {
-    "name": "Caf\u00e9 Bastille Miami Beach",
+    "name": "Café Bastille Miami Beach",
     "slug": "cafbastillemiamibeach",
     "category": "cafe",
     "metros": [
@@ -1619,7 +1625,7 @@
     "toastUrl": "https://order.toasttab.com/online/japan-inn-boynton-beach-545-n-congress-ave"
   },
   {
-    "name": "Longboards beach fired pizza\u2122 South Reno",
+    "name": "Longboards beach fired pizza™ South Reno",
     "slug": "longboardsbeachfiredpizzasouthreno",
     "category": "pizza",
     "metros": [
@@ -2379,7 +2385,7 @@
     "websiteOrderUrl": "https://puravidacatering.olo.com/menu/pura-vida-catering-south-miami"
   },
   {
-    "name": "\u1405 Miami Pizza Delivery - Best Pizza Places in Miami 2026",
+    "name": "ᐅ Miami Pizza Delivery - Best Pizza Places in Miami 2026",
     "slug": "miamipizzadelivery-bestpizzaplacesinmiam",
     "category": "pizza",
     "metros": [
@@ -2889,7 +2895,7 @@
     "toastUrl": "https://order.toasttab.com/online/flakowitz-bagel-inn"
   },
   {
-    "name": "Casa do P\u00e3o (Online ordering Boca Location only)",
+    "name": "Casa do Pão (Online ordering Boca Location only)",
     "slug": "casadopoonlineorderingbocalocationonly",
     "category": "restaurant",
     "metros": [
@@ -3312,7 +3318,7 @@
     "toastUrl": "https://order.toasttab.com/online/tropical-cafe-and-juice-bar"
   },
   {
-    "name": "Dreamer Paraiso A\u00e7ai Juice Matcha Sandwiches Edgewater",
+    "name": "Dreamer Paraiso Açai Juice Matcha Sandwiches Edgewater",
     "slug": "dreamerparaisoaaijuicematchasandwichesed",
     "category": "deli",
     "metros": [

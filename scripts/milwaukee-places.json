@@ -5,7 +5,9 @@
     "category": "wings",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJCd8LJacZBYgR27UOG--1MTc",
+    "website": "http://www.swingindoorexchange.com/"
   },
   {
     "name": "Odd Duck",
@@ -13,7 +15,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJRYNSkNcZBYgRbD7bU9gn8dM",
+    "website": "http://www.oddduckrestaurant.com/"
   },
   {
     "name": "Stella Van Buren",
@@ -21,7 +25,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJ_c0_Q6gZBYgR9i57Wcvfs6A",
+    "website": "https://www.stellavanburen.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing"
   },
   {
     "name": "Sanford",
@@ -29,7 +35,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJx0skbBAZBYgRS_ZKhUBViNM",
+    "website": "http://www.sanfordrestaurant.com/"
   },
   {
     "name": "Birch",
@@ -37,15 +45,19 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJrWZArBEZBYgROAVpuvTlpyQ",
+    "website": "https://birchonpleasant.com/"
   },
   {
-    "name": "Carnevor | Milwaukee\u2019s Premier Steakhouse",
+    "name": "Carnevor | Milwaukee’s Premier Steakhouse",
     "slug": "carnevormilwaukeespremiersteakhouse",
     "category": "steakhouse",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJdanEKwgZBYgRBb5WrgONLuU",
+    "website": "https://www.carnevor.com/"
   },
   {
     "name": "The Bridgewater Modern Grill",
@@ -53,7 +65,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJYfWhT4MZBYgRVO5SGjZGuGI",
+    "website": "https://bridgewatermke.com/"
   },
   {
     "name": "Harbor House",
@@ -61,7 +75,10 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJN2H196oZBYgRJtWxglmEk4A",
+    "website": "https://www.bartolottas.com/harbor-house?utm_campaign=Google-My-Business",
+    "toastUrl": "https://order.toasttab.com/online/bartolotta-harbor-house"
   },
   {
     "name": "Morel",
@@ -69,7 +86,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJnbSzpL0ZBYgRuCPtNNox88o",
+    "website": "http://morelmke.com/"
   },
   {
     "name": "Lupi & Iris",
@@ -77,7 +96,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJOS6aDEUZBYgRRci2AWi-Ym8",
+    "website": "http://www.lupiandiris.com/"
   },
   {
     "name": "SafeHouse",
@@ -85,7 +106,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJizcMFQoZBYgRkj4kpvkhYGc",
+    "website": "http://www.safe-house.com/"
   },
   {
     "name": "Goodkind",
@@ -93,15 +116,19 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJb92kh4AXBYgR3flqRcBZF1g",
+    "website": "http://goodkindbayview.com/"
   },
   {
-    "name": "Axolotl Caf\u00e9",
+    "name": "Axolotl Café",
     "slug": "axolotlcaf",
     "category": "cafe",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJzRrz4IgXBYgRIdBkRTpwFlg",
+    "website": "https://www.instagram.com/axolotl_cafemke?igsh=YzM3ZXllcGtmYW96"
   },
   {
     "name": "Sorella",
@@ -109,7 +136,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJTalfLdAXBYgRxZWJjGYm_AE",
+    "website": "https://www.sorellamke.com/"
   },
   {
     "name": "Room Service Bayview",
@@ -117,7 +146,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJo2cBKAAZBYgRhJLPigzu6F4",
+    "website": "https://www.roomservicebayview.com/"
   },
   {
     "name": "Santino's Little Italy",
@@ -125,7 +156,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJd6Ql9toZBYgRZ4YMs7JC4Ys",
+    "website": "https://santinoslittleitaly.com/"
   },
   {
     "name": "The Vanguard",
@@ -133,7 +166,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJQ4Tpvn4XBYgRFSbs3P7c9Rk",
+    "website": "http://vanguardbar.com/"
   },
   {
     "name": "Tenuta's Italian Restaurant",
@@ -141,7 +176,9 @@
     "category": "italian",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJ2cHE5HcXBYgRLngCjjMum58",
+    "website": "https://tenutasitalian.com/"
   },
   {
     "name": "Heirloom MKE",
@@ -149,15 +186,20 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJxU-6q-UZBYgRHZWeLU-VYyc",
+    "website": "http://www.heirloommke.com/"
   },
   {
-    "name": "Centraal Grand Caf\u00e9 & Tappery",
+    "name": "Centraal Grand Café & Tappery",
     "slug": "centraalgrandcaftappery",
     "category": "cafe",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJ_ZKMgdcZBYgRlJNkj5hFQA8",
+    "website": "http://www.cafecentraal.com/",
+    "toastUrl": "https://order.toasttab.com/online/cafe-centraal-2306-s-kinnickinnic-ave"
   },
   {
     "name": "Uncle Wolfie's Breakfast Tavern",
@@ -165,7 +207,9 @@
     "category": "breakfast",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJ02ZhrBYZBYgRPMDoA1S-TpM",
+    "website": "http://unclewolfies.com/"
   },
   {
     "name": "Honey Butter Cafe",
@@ -173,7 +217,9 @@
     "category": "cafe",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJ8ertHggSBYgR9_Yb_C7Klns",
+    "website": "https://honeybuttercafe.com/"
   },
   {
     "name": "Brunch Berry",
@@ -181,7 +227,10 @@
     "category": "breakfast",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJTyfdVwAJBYgR7SBI6suTsGQ",
+    "website": "https://brunchberry.us/",
+    "toastUrl": "https://order.toasttab.com/online/friendship-house-family-restaurant-4900-s-moorland-rd"
   },
   {
     "name": "Toast Milwaukee",
@@ -189,7 +238,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJ2SjPQ70ZBYgRayF-6hN3hD0",
+    "website": "https://www.toastmilwaukee.com/"
   },
   {
     "name": "Brunch.",
@@ -197,7 +248,9 @@
     "category": "breakfast",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJnQWKlAoZBYgR6-xNv24CllI",
+    "website": "https://brunchitup.com/brunch-milwaukee?utm_source=google"
   },
   {
     "name": "Story Hill BKC",
@@ -205,7 +258,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJ_fmiIfwaBYgRuDAyVepm8cs",
+    "website": "https://www.storyhillbkc.com/"
   },
   {
     "name": "Blue's Egg + Bakery",
@@ -213,7 +268,9 @@
     "category": "breakfast",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJ6cMCGdIaBYgRGziAOvIh-lI",
+    "website": "https://www.bluesegg.com/"
   },
   {
     "name": "Sweet Diner",
@@ -221,7 +278,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJXyhKYaQZBYgRcle6VcNrb0o",
+    "website": "https://www.sweetdiner.com/"
   },
   {
     "name": "The Wicked Hop",
@@ -229,7 +288,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJ71JuoqYZBYgRRStD3vllXKo",
+    "website": "http://www.thewickedhop.com/"
   },
   {
     "name": "Milwaukee Street Pizza Janesville",
@@ -1315,7 +1376,10 @@
     "category": "deli",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJGf8AA8MZBYgRuGmRxwTotr0",
+    "website": "http://transfermke.com/",
+    "toastUrl": "https://order.toasttab.com/online/transfer-pizzeria-cafe"
   },
   {
     "name": "Join the group text: Text message marketing for restaurants",
@@ -1323,7 +1387,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJYfWhT4MZBYgRVO5SGjZGuGI",
+    "website": "https://bridgewatermke.com/"
   },
   {
     "name": "Artisan crackers & snacks from Milwaukee, WI",
@@ -1430,7 +1496,10 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJ3Xmb7YEZBYgRXB0IyuGGzjs",
+    "website": "https://momomeerestaurant.com/",
+    "websiteOrderUrl": "https://momomee.menufy.com/"
   },
   {
     "name": "Home - Lebnani House Inc",
@@ -1438,7 +1507,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJnRBX86URBYgRMJaoRVTXFk4",
+    "website": "https://www.lebnanihouseinc.com/"
   },
   {
     "name": "Milwaukee Burger Company",
@@ -1446,7 +1517,10 @@
     "category": "burgers",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJid5PiF4RBYgRLediHdyqVxQ",
+    "website": "http://milwaukeeburgercompany.com/",
+    "toastUrl": "https://order.toasttab.com/online/milwaukee-burger-company-appleton"
   },
   {
     "name": "Restaurant Consulting Group",
@@ -1454,7 +1528,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJlYH71JYxWIgRxjsHRWg6Kbk",
+    "website": "http://www.cornbreadconsults.com/"
   },
   {
     "name": "Olo",
@@ -1498,7 +1574,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJK6v9mZEZBYgRiufdh37KM4A",
+    "website": "https://papertablefoodco.com/"
   },
   {
     "name": "Restaurant Payment Processing Platform",
@@ -1600,12 +1678,14 @@
     "websiteOrderUrl": "https://vientianenoodleshop.getbento.com/online-ordering/"
   },
   {
-    "name": "BLACK SHOE HOSPITALITY \u2013 APPLICATION JOB APPLICATION",
+    "name": "BLACK SHOE HOSPITALITY – APPLICATION JOB APPLICATION",
     "slug": "blackshoehospitalityapplicationjobapplic",
     "category": "mediterranean",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJGVXSsNMaBYgRb6-1QWRd50c",
+    "website": "https://blackshoehospitality.com/"
   },
   {
     "name": "The Best Online Ordering System for Restaurants in 2024",
@@ -1630,7 +1710,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJ11qQ0BwbBYgRb5T--nvWpQ0",
+    "website": "https://sazs.com/?y_source=1_MTAyNzc4NjY4Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
   },
   {
     "name": "Take Online Orders Through Facebook & Instagram",
@@ -1638,7 +1720,8 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJ2Y5Zck0dBYgRjsw0Ngazsbs"
   },
   {
     "name": "Looking For Delivery Fulfillment For Your Restaurant?",
@@ -1646,7 +1729,9 @@
     "category": "deli",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJJRcscq4bBYgR_5atL18_LFk",
+    "website": "https://usmaperx.org/details/order-up-ChIJJRc"
   },
   {
     "name": "Direct Online Ordering System Advantages for Restaurants",
@@ -1654,7 +1739,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJDWIbQnYZBYgRx2QHXivdLCI",
+    "website": "https://rymap.org/business/delectable-food-hospitality-group-of-wisconsin-llc-co83if"
   },
   {
     "name": "Which Restaurant Reservation System Should You Use?",
@@ -1662,7 +1749,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJx0skbBAZBYgRS_ZKhUBViNM",
+    "website": "http://www.sanfordrestaurant.com/"
   },
   {
     "name": "Restaurant Catering Software",
@@ -1679,7 +1768,9 @@
     "category": "restaurant",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJrWZArBEZBYgROAVpuvTlpyQ",
+    "website": "https://birchonpleasant.com/"
   },
   {
     "name": "Dine-in ordering",
@@ -1885,7 +1976,10 @@
     "category": "pizza",
     "metros": [
       "milwaukee"
-    ]
+    ],
+    "placeId": "ChIJMfDjmH4XBYgRNT8RVZvjKG4",
+    "website": "http://www.honeypiecafe.com/",
+    "websiteOrderUrl": "https://honeypiecafe.menufy.com/&quot;,"
   },
   {
     "name": "Miyako Poke 867 S. Broadway Ste. 110",
@@ -2113,7 +2207,7 @@
     "toastUrl": "https://order.toasttab.com/online/merakibistrogrove"
   },
   {
-    "name": "Mer\u00e1ki Greek Grill",
+    "name": "Meráki Greek Grill",
     "slug": "merkigreekgrill",
     "category": "mediterranean",
     "metros": [

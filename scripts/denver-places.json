@@ -164,7 +164,8 @@
       "denver"
     ],
     "placeId": "ChIJccWEGAZ5bIcRocT3qmn25y0",
-    "website": "https://www.foxandthehen.com/"
+    "website": "https://www.foxandthehen.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Postino LoHi",
@@ -289,7 +290,8 @@
       "denver"
     ],
     "placeId": "ChIJxz3k85Z-bIcRQcAPJ0SZzO4",
-    "website": "https://www.truefoodkitchen.com/locations/denver/"
+    "website": "https://www.truefoodkitchen.com/locations/denver/",
+    "websiteOrderUrl": "https://truefoodkitchen.olo.com"
   },
   {
     "name": "Culinary Dropout",
@@ -350,7 +352,8 @@
       "denver"
     ],
     "placeId": "ChIJM7onVpd-bIcRBvE0lfrRRLA",
-    "website": "https://www.delfriscosgrille.com/location/del-friscos-grille-cherry-creek-co/"
+    "website": "https://www.delfriscosgrille.com/location/del-friscos-grille-cherry-creek-co/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Postino Boulder",
@@ -411,8 +414,9 @@
     "metros": [
       "denver"
     ],
-    "placeId": "ChIJgy5EThZkbIcRfEn5lwkucwA",
-    "website": "http://www.gvrbeergarden.com/"
+    "placeId": "ChIJs0n-pcV4bIcRYhdFCBm7Qfs",
+    "website": "https://www.rheinhausdenver.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "toastUrl": "https://order.toasttab.com/online/rhein-haus-denver"
   },
   {
     "name": "Rincon Argentino",
@@ -469,7 +473,9 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJ31UE2n1_bIcR1VeAa08lGkI",
+    "website": "https://www.culinarydropout.com/locations/denver-co/?utm_source=Google&utm_medium=Organic&utm_campaign=Maps"
   },
   {
     "name": "Why every restaurant needs an interactive menu",
@@ -477,7 +483,9 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJ31UE2n1_bIcR1VeAa08lGkI",
+    "website": "https://www.culinarydropout.com/locations/denver-co/?utm_source=Google&utm_medium=Organic&utm_campaign=Maps"
   },
   {
     "name": "4 tech-focused tips to fight rising restaurant costs",
@@ -485,7 +493,9 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJ31UE2n1_bIcR1VeAa08lGkI",
+    "website": "https://www.culinarydropout.com/locations/denver-co/?utm_source=Google&utm_medium=Organic&utm_campaign=Maps"
   },
   {
     "name": "Oblio's Pizza & Italian",
@@ -1258,7 +1268,10 @@
     "category": "indian",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJ2eAULaV_bIcR0qs0g6fIayA",
+    "website": "https://www.denvercurryhouse.com/",
+    "toastUrl": "https://order.toasttab.com/online/denvercurryhouse"
   },
   {
     "name": "Knox Pizza And Taps",
@@ -1504,7 +1517,7 @@
     "websiteOrderUrl": "https://order.online/store/FatShack-54601"
   },
   {
-    "name": "Pho & Bar 1600 East 17th Avenue \u2013 Order pickup and delivery",
+    "name": "Pho & Bar 1600 East 17th Avenue – Order pickup and delivery",
     "slug": "phobar1600east17thavenueorderpickupandde",
     "category": "deli",
     "metros": [
@@ -1513,7 +1526,7 @@
     "websiteOrderUrl": "https://order.online/store/pho-&-bar-denver-28094045/"
   },
   {
-    "name": "Pho 15 665 East 70th Avenue \u2013 Order pickup and delivery",
+    "name": "Pho 15 665 East 70th Avenue – Order pickup and delivery",
     "slug": "pho15665east70thavenueorderpickupanddeli",
     "category": "deli",
     "metros": [
@@ -1551,7 +1564,10 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJw9FqUex4bIcRpV-3fHDv2TQ",
+    "website": "https://www.ashkaradenver.com/",
+    "websiteOrderUrl": "https://order.online/store/533988"
   },
   {
     "name": "Slow Food Denver",
@@ -1667,7 +1683,9 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJf2SF256Aa4cR-keWVRKXdDg",
+    "website": "https://kahlosrestaurant.com/"
   },
   {
     "name": "Kahlo's Restaurant - Denver, CO 80219 (Menu & Order Online)",
@@ -1738,7 +1756,10 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJeaf9H7yFbIcRSFgfVGE-90w",
+    "website": "https://jalexanders.com/",
+    "websiteOrderUrl": "https://jalexanders.olo.com/"
   },
   {
     "name": "Denver, CO",
@@ -1755,7 +1776,9 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJrSv4lDp_bIcR9rM2Ju04VyU",
+    "website": "http://www.eatatsantiagos.com/"
   },
   {
     "name": "Rock Bottom South Denver",
@@ -1785,7 +1808,7 @@
     "websiteOrderUrl": "https://twinpeaksrestaurant.olo.com/menu/twin-peaks-altamonte-springs"
   },
   {
-    "name": "Denver - Fogo de Ch\u00e3o",
+    "name": "Denver - Fogo de Chão",
     "slug": "denver-fogodecho",
     "category": "restaurant",
     "metros": [
@@ -1799,7 +1822,10 @@
     "category": "mexican",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJrWob1JV-bIcRLAV46kghw8U",
+    "website": "https://solcocina.com/",
+    "websiteOrderUrl": "https://solcocina.olo.com/"
   },
   {
     "name": "Postino Broadway",
@@ -1856,7 +1882,7 @@
     "websiteOrderUrl": "https://fuzzystacoshop.olo.com/menu/denver-co-central-park/products/12176491"
   },
   {
-    "name": "\u1405 Denver Pizza Delivery - Best Pizza Places in Denver 2025",
+    "name": "ᐅ Denver Pizza Delivery - Best Pizza Places in Denver 2025",
     "slug": "denverpizzadelivery-bestpizzaplacesinden",
     "category": "pizza",
     "metros": [
@@ -1897,7 +1923,10 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJ65l3M0-xVogRhfa7rel_dFU",
+    "website": "https://citrusthediner.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Cimera",
@@ -1905,7 +1934,10 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJHWw9sBx5bIcR3Sz07J5vI5c",
+    "website": "https://www.cimeradenver.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Playground Asian Food Hall",
@@ -1913,7 +1945,9 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJ92Jb2tt_bIcRu90pRMENWmw",
+    "website": "https://www.eatplayground.com/"
   },
   {
     "name": "16 Prime",
@@ -1921,7 +1955,10 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJVVWlCPuxVogRETMTDTaTdyk",
+    "website": "http://www.16prime.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Barbed Wire Reef",
@@ -1929,7 +1966,10 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJ3_1784x4bIcRDoY0ctUkQ9Y",
+    "website": "https://www.barbedwirereef.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Bar Amorina",
@@ -1937,7 +1977,10 @@
     "category": "restaurant",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJAQBwd5Z-bIcR-J_RfXyqxcE",
+    "website": "http://www.baramorina.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/splash-page/40db0cf.splash-page/assets/bower_components/modernizr/modernizr.js"
   },
   {
     "name": "Denver Steakhouse",
@@ -1945,7 +1988,9 @@
     "category": "steakhouse",
     "metros": [
       "denver"
-    ]
+    ],
+    "placeId": "ChIJiZdhRjR_bIcRcPMnysmKymQ",
+    "website": "http://buckhornexchange.com/"
   },
   {
     "name": "Restaurant Online Ordering",
@@ -2161,7 +2206,7 @@
     "toastUrl": "https://order.toasttab.com/online/call-your-mother-denver-hilltop"
   },
   {
-    "name": "Lindsay's Boulder Deli @ H\u00e4agen-Dazs",
+    "name": "Lindsay's Boulder Deli @ Häagen-Dazs",
     "slug": "lindsaysboulderdelihagen-dazs",
     "category": "deli",
     "metros": [

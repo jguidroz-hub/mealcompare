@@ -5,7 +5,9 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJnQ8MS9z3rIkRDfAzZgFzZ4s",
+    "website": "http://themillraleigh.com/"
   },
   {
     "name": "Flour and Barrel",
@@ -13,7 +15,10 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJfxxtPvJfrIkRdD_vQD9aabE",
+    "website": "http://flourandbarrel.com/",
+    "toastUrl": "https://order.toasttab.com/online/flourandbarrel"
   },
   {
     "name": "Flavor Hills",
@@ -21,7 +26,9 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJg6TvgLpfrIkRQph7o73IRCg",
+    "website": "https://www.theflavorhills.com/"
   },
   {
     "name": "RH Rooftop Restaurant at RH Raleigh",
@@ -29,7 +36,9 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJ1SBPUklZrIkRG-RTcGfcFcc",
+    "website": "https://rh.com/us/en/raleigh/restaurant"
   },
   {
     "name": "Vidrio",
@@ -37,7 +46,9 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJHdSPSmZfrIkRc05LD3hb_2E",
+    "website": "https://www.vidrioraleigh.com/"
   },
   {
     "name": "Madre",
@@ -45,7 +56,9 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJtwaibLBfrIkRWbY8veT0L4k",
+    "website": "https://www.madreraleigh.com/"
   },
   {
     "name": "Stanbury",
@@ -53,7 +66,9 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJ87AbtUBfrIkR-i9mC2vw2ro",
+    "website": "http://www.stanburyraleigh.com/"
   },
   {
     "name": "Second Empire Restaurant and Tavern",
@@ -61,7 +76,9 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJI5JTm29frIkRPpzgRTTHd0A",
+    "website": "http://www.second-empire.com/"
   },
   {
     "name": "Angus Barn",
@@ -69,7 +86,9 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJi3GT76TwrIkRy5mbzxyd-UE",
+    "website": "https://www.angusbarn.com/"
   },
   {
     "name": "Guglhupf Restaurant",
@@ -77,7 +96,9 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJuQldsIPmrIkRuXxvJfn1bKM",
+    "website": "http://www.guglhupf.com/"
   },
   {
     "name": "Little Bull",
@@ -85,7 +106,9 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJt1-VgdLlrIkRTwobcHHBJNQ",
+    "website": "http://littlebullnc.com/"
   },
   {
     "name": "It's a Southern thing - Downtown Durham",
@@ -93,7 +116,9 @@
     "category": "southern",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJC198Nw3krIkRpfoVemO8mKA",
+    "website": "https://www.getsouthernfood.com/"
   },
   {
     "name": "Glasshouse Kitchen",
@@ -101,7 +126,10 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJc_DJxnfvrIkRrurfEo0lnls",
+    "website": "http://www.glasshousekitchennc.com/",
+    "toastUrl": "https://order.toasttab.com/online/glasshousekitchen"
   },
   {
     "name": "GRUB Durham",
@@ -109,7 +137,10 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJtQrhphrkrIkRwN9ZgZlJdKU",
+    "website": "http://grubdurham.com/",
+    "websiteOrderUrl": "https://ordering.chownow.com/order/12282/locations"
   },
   {
     "name": "Local 22 Kitchen & Bar",
@@ -117,7 +148,11 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJmW2yRQDkrIkRy1S2SxWPwHI",
+    "website": "https://www.local22durham.com/",
+    "toastUrl": "https://order.toasttab.com/online/local-22-kitchen-bar-2200-w-main-st",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Farmside Kitchen - Durham RTP",
@@ -125,15 +160,22 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJy6EY5_LvrIkRuoVMpZ3JIi4",
+    "website": "https://www.farmsidekitchen.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/fuji/73f2977.fuji/assets/js/head.min.js"
   },
   {
-    "name": "PRESS Coffee Cr\u00eapes Cocktails",
+    "name": "PRESS Coffee Crêpes Cocktails",
     "slug": "presscoffeecrpescocktails",
     "category": "cafe",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJL0kGGkhfrIkRr9hbTWtRZe8",
+    "website": "https://pressccc.com/",
+    "toastUrl": "https://order.toasttab.com/online/press-coffee-crepes-raleigh-400-hillsborough-street-suite-108",
+    "squareUrl": "https://presscc.square.site/"
   },
   {
     "name": "Mothers & Sons Trattoria",
@@ -141,7 +183,10 @@
     "category": "italian",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJwW6kn3LkrIkRemHrEJP9xSA",
+    "website": "http://www.mothersandsonsnc.com/",
+    "toastUrl": "https://order.toasttab.com/online/mothersandsons"
   },
   {
     "name": "Geer Street Garden",
@@ -149,7 +194,10 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJIYQYJXTkrIkRIwyVh3i22TY",
+    "website": "http://geerstreetgarden.com/",
+    "toastUrl": "https://order.toasttab.com/online/geerstgarden"
   },
   {
     "name": "HAWTHORNE & WOOD",
@@ -157,7 +205,9 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJZWbgxE_DrIkRmcfATyzExTY",
+    "website": "http://hawthorneandwood.com/"
   },
   {
     "name": "Bluebird",
@@ -165,7 +215,9 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJXY3kWULprIkRQpUjmXJaVus",
+    "website": "https://www.bluebirdnc.com/"
   },
   {
     "name": "Osteria Georgi",
@@ -173,7 +225,10 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJB6MB78PdrIkRDISaXHa5Lio",
+    "website": "https://www.osteriageorgi.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "One40 Social",
@@ -181,7 +236,9 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJa09hBuDDrIkRSedkcKc4f5c",
+    "website": "https://one40social.com/"
   },
   {
     "name": "Proximo",
@@ -189,7 +246,9 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJJ207GgDDrIkRZkWBDgWPFAY",
+    "website": "https://www.proximonc.com/"
   },
   {
     "name": "Top of the Hill Restaurant & Brewery",
@@ -197,7 +256,9 @@
     "category": "cafe",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJ1SBPUklZrIkRG-RTcGfcFcc",
+    "website": "https://rh.com/us/en/raleigh/restaurant"
   },
   {
     "name": "Stoney River Steakhouse and Grill",
@@ -205,7 +266,10 @@
     "category": "steakhouse",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJwSzNPmZfrIkRhcJcQTFnyYg",
+    "website": "https://sullivanssteakhouse.com/raleigh/",
+    "websiteOrderUrl": "https://sullivanssteakhouse.olo.com/"
   },
   {
     "name": "Oakleaf",
@@ -213,7 +277,9 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJw1D7s7W5rIkRSRAEJLoiWrU",
+    "website": "https://oakleafnc.com/"
   },
   {
     "name": "Bombolo",
@@ -221,7 +287,9 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJGaTwKubDrIkRwUMUcptrGGE",
+    "website": "https://bombolochapelhill.com/"
   },
   {
     "name": "Glasshalfull",
@@ -229,7 +297,9 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJ-axtfRnDrIkRqT8L6B9bNQk",
+    "website": "https://www.glasshalfull.net/"
   },
   {
     "name": "The Pit Authentic Barbecue",
@@ -237,7 +307,10 @@
     "category": "bbq",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJndbEYnBfrIkRfYFK6qIyHZo",
+    "website": "https://www.thepit-raleigh.com/",
+    "toastUrl": "https://order.toasttab.com/online/thepitbbq"
   },
   {
     "name": "Midwood Smokehouse",
@@ -245,7 +318,11 @@
     "category": "bbq",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJ_13Nl19frIkRZUiDKOKTpjQ",
+    "website": "https://midwoodsmokehouse.com/",
+    "toastUrl": "https://order.toasttab.com/online/locations",
+    "websiteOrderUrl": "https://direct.chownow.com/order/1482/locations"
   },
   {
     "name": "Ole Time Barbecue",
@@ -253,7 +330,9 @@
     "category": "bbq",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJpwSkfHD0rIkRntj7W4HRKTk",
+    "website": "https://oletimebarbecue.com/"
   },
   {
     "name": "Sam Jones BBQ",
@@ -261,7 +340,10 @@
     "category": "bbq",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJgfy6JZJfrIkRk3a_wZIfMxQ",
+    "website": "https://www.samjonesbbq.com/raleigh",
+    "toastUrl": "https://order.toasttab.com/online/samjonesbbq-raleigh"
   },
   {
     "name": "The Redneck BBQ Lab",
@@ -269,7 +351,9 @@
     "category": "bbq",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJjcrE-2V7rIkRg1Z4jvyy2kI",
+    "website": "http://www.theredneckbbqlab.com/"
   },
   {
     "name": "Prime Barbecue",
@@ -277,7 +361,9 @@
     "category": "bbq",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJsUudAqtErIkRaa_i_6kN0mU",
+    "website": "https://prime-bbq.com/"
   },
   {
     "name": "Dampf Good BBQ",
@@ -285,7 +371,9 @@
     "category": "bbq",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJF-jspfJfrIkRdGlrGWMu2MM",
+    "website": "http://www.dampfgoodbbq.com/"
   },
   {
     "name": "Oink N Moo",
@@ -293,7 +381,9 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJA2GtXXBfrIkRTkfJJcL7U9s",
+    "website": "https://oinknmoo.biz/"
   },
   {
     "name": "Lechon Latin BBQ & Bar",
@@ -301,7 +391,9 @@
     "category": "bbq",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJZfXFexRZrIkR2-F6r6xIl7s",
+    "website": "http://www.lechonlatinbbq.com/"
   },
   {
     "name": "Chop Shop BBQ & Grill",
@@ -309,10 +401,12 @@
     "category": "bbq",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJWe-cdVRZrIkRcRVmIMuhQj4",
+    "website": "https://chopshopbbq.com/"
   },
   {
-    "name": "Lilly's Pizza \u2022 Five Points",
+    "name": "Lilly's Pizza • Five Points",
     "slug": "lillyspizzafivepoints",
     "category": "pizza",
     "metros": [
@@ -681,7 +775,7 @@
     "toastUrl": "https://order.toasttab.com/online/neochina"
   },
   {
-    "name": "kok\u00ed - Durham",
+    "name": "kokí - Durham",
     "slug": "kok-durham",
     "category": "restaurant",
     "metros": [
@@ -1266,7 +1360,7 @@
     "toastUrl": "https://order.toasttab.com/online/taco-bamba-raleigh"
   },
   {
-    "name": "Pure Vegan Caf\u00e9",
+    "name": "Pure Vegan Café",
     "slug": "pure-vegan-caf",
     "category": "cafe",
     "metros": [
@@ -1370,7 +1464,9 @@
     "category": "mediterranean",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJjWQQnm9frIkRc-p5X0HfAyQ",
+    "website": "https://www.tavernaagora.com/"
   },
   {
     "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
@@ -1650,7 +1746,7 @@
     "websiteOrderUrl": "https://www.olo.com/ordering"
   },
   {
-    "name": "\u1405 Raleigh Pizza Delivery - Best Pizza Places in Raleigh 2025",
+    "name": "ᐅ Raleigh Pizza Delivery - Best Pizza Places in Raleigh 2025",
     "slug": "raleighpizzadelivery-bestpizzaplacesinra",
     "category": "pizza",
     "metros": [
@@ -1673,7 +1769,10 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJgbGQBy1ZrIkRLWRn_4LCq0U",
+    "website": "https://www.eastendbistrotraleigh.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/osaka/76c49d2.osaka/assets/js/head.min.js"
   },
   {
     "name": "Side Street Restaurant 225 North Bloodworth Street Raleigh",
@@ -1681,7 +1780,10 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJX9HJvBRfrIkRlauligI2q6U",
+    "website": "http://www.sidestreetrestaurantraleigh.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/fuji/73f2977.fuji/assets/js/head.min.js"
   },
   {
     "name": "Menus",
@@ -1698,7 +1800,9 @@
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJi3GT76TwrIkRy5mbzxyd-UE",
+    "website": "https://www.angusbarn.com/"
   },
   {
     "name": "BentoBox",
@@ -1715,7 +1819,11 @@
     "category": "healthy",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJNapQ7L_1rIkRJomElSv-u0o",
+    "website": "https://www.thelocalraleighnc.com/",
+    "toastUrl": "https://order.toasttab.com/online/thelocalraleigh",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Restaurant Online Ordering",
@@ -1741,15 +1849,20 @@
     "category": "breakfast",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJ6X1qG-Vj1YcRiE2wehqP9HY",
+    "website": "https://www.eggxactlymemphis.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
-    "name": "12 Valentine\u2019s Day Restaurant Ideas for 2024",
+    "name": "12 Valentine’s Day Restaurant Ideas for 2024",
     "slug": "12valentinesdayrestaurantideasfor2024",
     "category": "restaurant",
     "metros": [
       "raleigh"
-    ]
+    ],
+    "placeId": "ChIJ1SBPUklZrIkRG-RTcGfcFcc",
+    "website": "https://rh.com/us/en/raleigh/restaurant"
   },
   {
     "name": "Restaurant Catering Software",
