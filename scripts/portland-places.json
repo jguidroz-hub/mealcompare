@@ -5,7 +5,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJC3pkrwcKlVQRKmGrD6FKRYw",
+    "website": "http://lechonpdx.com/"
   },
   {
     "name": "Portland City Grill",
@@ -13,7 +15,10 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJIdb6sAYKlVQRzG3Bedsy6mA",
+    "website": "https://www.portlandcitygrill.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "The Observatory",
@@ -21,7 +26,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJu9pp4gahlVQRK2-syvMVfQ4",
+    "website": "http://www.theobservatorypdx.com/"
   },
   {
     "name": "Andina",
@@ -29,7 +36,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJ1bXhuPgJlVQRD9JEUHsIBis",
+    "website": "https://www.andinarestaurant.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
   },
   {
     "name": "kann",
@@ -37,7 +46,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJIUdfuzChlVQRepfM4S5jGUQ",
+    "website": "https://kannrestaurant.com/"
   },
   {
     "name": "Screen Door Eastside",
@@ -45,7 +56,10 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJu1MQrL6glVQRNuGYoTmvBoY",
+    "website": "https://screendoorrestaurant.com/east-side/",
+    "toastUrl": "https://order.toasttab.com/online/locations"
   },
   {
     "name": "Le Pigeon",
@@ -53,7 +67,10 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJn_5mjKWglVQR94bKSpAYe4s",
+    "website": "https://www.lepigeon.com/",
+    "squareUrl": "https://le-pigeon.square.site/shop/gift-certificates/4"
   },
   {
     "name": "Departure Restaurant + Lounge",
@@ -61,7 +78,10 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJleNCqAUKlVQRJewBNCXtRRU",
+    "website": "https://www.departureportland.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Farmhouse Kitchen Thai Cuisine | Pearl District",
@@ -69,7 +89,9 @@
     "category": "thai",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJxxKF1NsLlVQRy0jvwuKrs6c",
+    "website": "https://farmhousethai.com/pearl-district?utm_source=google"
   },
   {
     "name": "OX Restaurant",
@@ -77,7 +99,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJe3PKSEmnlVQRYAblCH7fjpA",
+    "website": "https://oxpdx.com/"
   },
   {
     "name": "Screen Door Pearl District",
@@ -85,7 +109,10 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJLU7eCV0LlVQRFraHfst6uiM",
+    "website": "https://screendoorrestaurant.com/",
+    "toastUrl": "https://order.toasttab.com/online/locations"
   },
   {
     "name": "Piattino",
@@ -93,7 +120,11 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJcTT4EQIKlVQReQd6fWE7hfQ",
+    "website": "https://piattinopdx.com/",
+    "squareUrl": "https://piattino.square.site/s/order",
+    "websiteOrderUrl": "https://piattinopdx.getbento.com/catering-store-v2/"
   },
   {
     "name": "Arden Restaurant Portland",
@@ -101,7 +132,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJiR7c4gEKlVQR6sk4VSxK2QU",
+    "website": "https://www.ardenpdx.com/"
   },
   {
     "name": "Brix Tavern - Pearl",
@@ -109,7 +142,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJYXNYxfgJlVQRVtbMaPyTNME",
+    "website": "http://brixtavern.com/"
   },
   {
     "name": "Deschutes Brewery Portland Public House",
@@ -117,7 +152,10 @@
     "category": "cafe",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJo7T7PAIKlVQRzFN3YCTy1jE",
+    "website": "https://www.deschutesbrewery.com/visit-us/portland-public-house/?y_source=1_MzI3NTk4OTQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "toastUrl": "https://order.toasttab.com/online/deschutes-brewery-portland-public-house-210-nw-11th-ave"
   },
   {
     "name": "Via Delizia",
@@ -125,7 +163,9 @@
     "category": "deli",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJdfSpdf4JlVQRdRnLV5y5Has",
+    "website": "http://viadelizia.com/"
   },
   {
     "name": "Janken",
@@ -133,7 +173,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJbXdpPPgLlVQRv2mZs1NygTA",
+    "website": "http://jankenrestaurant.com/"
   },
   {
     "name": "Urdaneta",
@@ -141,7 +183,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJ8YuIKNymlVQRVlJCozZU1Kc",
+    "website": "http://urdanetapdx.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=c7f735f4-6328-4caf-9665-b2fdfaf42804"
   },
   {
     "name": "Gumba",
@@ -149,7 +193,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJ7RcAGB-nlVQRA33viwN8qmM",
+    "website": "http://gumba-pdx.com/"
   },
   {
     "name": "Tin Shed Garden Cafe",
@@ -157,7 +203,10 @@
     "category": "cafe",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJm3XIOh-nlVQRS_D47L1wsB4",
+    "website": "http://www.tinshedgardencafe.com/",
+    "toastUrl": "https://order.toasttab.com/online/tin-shed"
   },
   {
     "name": "Pasture PDX",
@@ -165,7 +214,10 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJ9a-sYaOnlVQRs7uCCnS0fx4",
+    "website": "http://www.pasturepdx.com/",
+    "toastUrl": "https://order.toasttab.com/online/pasture-pdx"
   },
   {
     "name": "Bye and Bye",
@@ -173,7 +225,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJMz74ExmnlVQRTrtu61B8QFk",
+    "website": "http://www.thebyeandbye.com/"
   },
   {
     "name": "Terra Mae",
@@ -181,7 +235,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJI31R97mnlVQRpBpdsYM4P8U",
+    "website": "http://terramaepdx.com/"
   },
   {
     "name": "Petite Provence Boulangerie & Patisserie",
@@ -189,15 +245,18 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJnx54jh-nlVQRYoxJgM-MwbY",
+    "website": "https://www.provencepdx.com/"
   },
   {
-    "name": "th\u01a1m\u00ae Portland",
+    "name": "thơm® Portland",
     "slug": "thmportland",
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJ23kUFEKnlVQRrALXGSMRYFI"
   },
   {
     "name": "The Knock Back",
@@ -205,7 +264,10 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJaZf66N-mlVQR_5QI4A4e5Os",
+    "website": "http://www.theknockback.com/",
+    "toastUrl": "https://order.toasttab.com/online/the-knock-back-2315-ne-alberta-st"
   },
   {
     "name": "DarSalam Restaurant & Catering (Alberta)",
@@ -213,7 +275,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJJQ07ht6mlVQRQyYmi3G7xvw",
+    "website": "https://darsalamrestaurant.com/"
   },
   {
     "name": "Kinboshi Ramen",
@@ -221,7 +285,9 @@
     "category": "japanese",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJhzUi_KWglVQR4oRBP0w0hf4",
+    "website": "https://www.kinboshiramen.com/se-ankeny-menu"
   },
   {
     "name": "Kizuki Ramen & Izakaya (Uptown)",
@@ -229,7 +295,9 @@
     "category": "japanese",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJi-MkXEEJlVQRg1GlIpHiNpI",
+    "website": "https://www.kizuki.com/"
   },
   {
     "name": "Wu-Rons",
@@ -237,7 +305,8 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJk33yjgMLlVQRGb51r-JBn_4"
   },
   {
     "name": "Toya Ramen & Bar",
@@ -245,7 +314,9 @@
     "category": "japanese",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJ5-rYmdmhlVQR_k4QFYc9TN8",
+    "website": "https://www.toyaramen.com/"
   },
   {
     "name": "Kayo's Ramen Bar",
@@ -253,7 +324,9 @@
     "category": "japanese",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJX9VXlj-nlVQRnJy2Up4d58Q",
+    "website": "https://www.kayosramen.com/"
   },
   {
     "name": "Ramen Ryoma",
@@ -261,7 +334,9 @@
     "category": "japanese",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJVd5rnv4LlVQR9qlFdgsSEPE",
+    "website": "https://www.ramenryoma.net/"
   },
   {
     "name": "AFURI IZAKAYA SE PORTLAND",
@@ -269,7 +344,9 @@
     "category": "japanese",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJM5e4lKCglVQR9WLGkwc1bF8",
+    "website": "https://afuri.us/"
   },
   {
     "name": "Baka Umai",
@@ -277,7 +354,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJP_qaAGuhlVQRa_zkyluP0r8",
+    "website": "http://www.bakaumai.com/"
   },
   {
     "name": "Ramen Ryoma Beaverton",
@@ -285,7 +364,9 @@
     "category": "japanese",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJbVDY0QQMlVQRHDu9AN8vhcE",
+    "website": "http://www.ramenryoma.net/"
   },
   {
     "name": "Kizuki Ramen & Izakaya (Beaverton)",
@@ -293,7 +374,9 @@
     "category": "japanese",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJmzKvii4JlVQRT3-hSSj7pLI",
+    "website": "https://www.kizuki.com/"
   },
   {
     "name": "Tabor Tavern",
@@ -301,7 +384,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJO89iH-SglVQRCOJ6kjzWnFc",
+    "website": "http://www.tabortavern.com/"
   },
   {
     "name": "Mother's Bistro & Bar",
@@ -309,7 +394,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJ5V0qcAYKlVQRcYiPk80LC4g",
+    "website": "http://www.mothersbistro.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=fa4c848e-bbb0-45b3-a639-e4ac5a93d41f"
   },
   {
     "name": "The Eastburn",
@@ -317,7 +404,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJ4fAWDLuglVQRZWSJdYBYIjs",
+    "website": "http://theeastburn.com/"
   },
   {
     "name": "Flattop & Salamander",
@@ -325,7 +414,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJSbZHmHOhlVQRwAIGI5C5Ik8",
+    "website": "http://flattopsalamander.com/"
   },
   {
     "name": "HunnyMilk",
@@ -333,7 +424,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJY2asPb-glVQR6Acys6f-060",
+    "website": "http://www.hunnymilk.com/"
   },
   {
     "name": "The Mont",
@@ -341,7 +434,10 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJN1K_WtKhlVQRwyUP_LapxSM",
+    "website": "http://themontpdx.com/",
+    "toastUrl": "https://order.toasttab.com/online/the-mont-2411-se-belmont-st"
   },
   {
     "name": "Eggs & Co.",
@@ -349,7 +445,8 @@
     "category": "breakfast",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJudxxQgALlVQRCwEwxS4MLCM"
   },
   {
     "name": "Gravy",
@@ -357,7 +454,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJr8AyrWunlVQR_w411-qtqkw",
+    "website": "https://gravyrestaurant.com/"
   },
   {
     "name": "Cheryl's on 12th",
@@ -365,7 +464,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJb2s7EgMKlVQRwGOchKwvZPA",
+    "website": "http://cherylson12th.com/"
   },
   {
     "name": "Stepping Stone Cafe",
@@ -373,7 +474,9 @@
     "category": "cafe",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJPcHCgeUJlVQRda_zTqGXuOU",
+    "website": "http://www.steppingstonecafe.com/"
   },
   {
     "name": "CARTOPIA FOOD CARTS",
@@ -381,7 +484,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJ9V3zu5-glVQRnSSqFIztMdA",
+    "website": "http://www.cartopiafoodcarts.com/"
   },
   {
     "name": "Hawthorne Asylum Food Cart Pod",
@@ -389,7 +494,8 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJv3-MJZehlVQRJxYQXaCU3wU"
   },
   {
     "name": "Hinterland Bar & Food Carts",
@@ -397,7 +503,9 @@
     "category": "restaurant",
     "metros": [
       "portland"
-    ]
+    ],
+    "placeId": "ChIJA8nfHtuhlVQRObrjLkMeCEo",
+    "website": "http://www.hinterlandpdx.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=ca350456-360d-4bd3-b804-3334b1b81293"
   },
   {
     "name": "Park the Carts",
@@ -528,7 +636,7 @@
     ]
   },
   {
-    "name": "Gracie\u2019s Apizza",
+    "name": "Gracie’s Apizza",
     "slug": "graciesapizza",
     "category": "pizza",
     "metros": [
@@ -707,7 +815,7 @@
     "toastUrl": "https://order.toasttab.com/online/nohos.portland"
   },
   {
-    "name": "Churn Cafe and Cr\u00eaperie",
+    "name": "Churn Cafe and Crêperie",
     "slug": "churncafeandcrperie",
     "category": "cafe",
     "metros": [
@@ -1507,7 +1615,7 @@
     ]
   },
   {
-    "name": "Mama Rosa \u2013 Mexican Food in Olive Branch",
+    "name": "Mama Rosa – Mexican Food in Olive Branch",
     "slug": "mamarosamexicanfoodinolivebranch",
     "category": "mexican",
     "metros": [
@@ -1639,7 +1747,7 @@
     "squareUrl": "https://ourspotpdx.square.site/"
   },
   {
-    "name": "Select location - Portland C\u00e0 Ph\u00ea",
+    "name": "Select location - Portland Cà Phê",
     "slug": "selectlocation-portlandcph",
     "category": "restaurant",
     "metros": [
@@ -1656,7 +1764,7 @@
     ]
   },
   {
-    "name": "Portland - Fogo de Ch\u00e3o",
+    "name": "Portland - Fogo de Chão",
     "slug": "portland-fogodecho",
     "category": "restaurant",
     "metros": [
@@ -1981,7 +2089,7 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/nicholas-restaurant-portland"
   },
   {
-    "name": "SHAMI CAF\u00c9 - Portland, Oregon",
+    "name": "SHAMI CAFÉ - Portland, Oregon",
     "slug": "shamicaf-portlandoregon",
     "category": "cafe",
     "metros": [
@@ -2107,7 +2215,7 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/fantastea-psu"
   },
   {
-    "name": "Big Fin Pok\u00e9 South Portland",
+    "name": "Big Fin Poké South Portland",
     "slug": "bigfinpoksouthportland",
     "category": "poke",
     "metros": [

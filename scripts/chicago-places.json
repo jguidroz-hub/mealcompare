@@ -30,7 +30,8 @@
     ],
     "address": "145 N Dearborn St",
     "placeId": "ChIJ-XdXNKUsDogRW-m5g5Siao8",
-    "website": "http://www.thedearborntavern.com/"
+    "website": "http://www.thedearborntavern.com/",
+    "websiteOrderUrl": "https://media-cdn.getbento.com/QQnNRFX9QXiQtqmAyr4n_TheDearborn_FavIcon.png"
   },
   {
     "name": "The Purple Pig Restaurant",
@@ -108,7 +109,8 @@
     ],
     "address": "43 E Ohio St",
     "placeId": "ChIJe_Fq2lctDogRTpK221p4Fmg",
-    "website": "https://www.eataly.com/us_en/stores/chicago"
+    "website": "https://www.eataly.com/us_en/stores/chicago",
+    "websiteOrderUrl": "https://eataly.olo.com/"
   },
   {
     "name": "Pizzeria Portofino",
@@ -236,7 +238,8 @@
     ],
     "address": "1531 N Damen Ave",
     "placeId": "ChIJwwvDb8fSD4gRb54qO3OOpVA",
-    "website": "http://www.bigstarchicago.com/"
+    "website": "http://www.bigstarchicago.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Paradise Park | Pizza & Patio",
@@ -522,7 +525,7 @@
     "website": "https://daymakeratx.com/"
   },
   {
-    "name": "Caf\u00e9 No S\u00e9",
+    "name": "Café No Sé",
     "slug": "cafnos",
     "category": "cafe",
     "metros": [
@@ -586,7 +589,8 @@
     ],
     "address": "720 N State St",
     "placeId": "ChIJ6WN3LkvTD4gRTXjLu5f5udU",
-    "website": "http://www.tzuco.com/"
+    "website": "http://www.tzuco.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Momento Cantina",
@@ -839,7 +843,7 @@
     ]
   },
   {
-    "name": "Ob\u00e9lix",
+    "name": "Obélix",
     "slug": "oblix",
     "category": "restaurant",
     "metros": [
@@ -903,7 +907,7 @@
     ]
   },
   {
-    "name": "Rubi\u2019s Tacos",
+    "name": "Rubi’s Tacos",
     "slug": "rubistacos",
     "category": "mexican",
     "metros": [
@@ -1039,7 +1043,7 @@
     ]
   },
   {
-    "name": "Mild 2 Spicy \u2013 Modern Indian Restaurant",
+    "name": "Mild 2 Spicy – Modern Indian Restaurant",
     "slug": "mild2spicymodernindianrestaurant",
     "category": "indian",
     "metros": [
@@ -1335,7 +1339,7 @@
     ]
   },
   {
-    "name": "Cant\u00f3n Regio",
+    "name": "Cantón Regio",
     "slug": "cantnregio",
     "category": "restaurant",
     "metros": [
@@ -1859,7 +1863,7 @@
     "toastUrl": "https://order.toasttab.com/online/lula-cafe-2537-n-kedzie-blvd"
   },
   {
-    "name": "Zocalo - Z\u00d3CALO",
+    "name": "Zocalo - ZÓCALO",
     "slug": "zocalo-z-calo",
     "category": "restaurant",
     "metros": [
@@ -2534,7 +2538,7 @@
     "toastUrl": "https://order.toasttab.com/online/irie-jamaican-lakewood"
   },
   {
-    "name": "Sunnin Lebanese Caf\u00e9",
+    "name": "Sunnin Lebanese Café",
     "slug": "sunnin-lebanese-caf",
     "category": "cafe",
     "metros": [
@@ -2741,7 +2745,7 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/40577/locations/61600"
   },
   {
-    "name": "Blue Bayou \u2013 New Orleans\u2013inspired sports bar in Chicago",
+    "name": "Blue Bayou – New Orleans–inspired sports bar in Chicago",
     "slug": "bluebayouneworleansinspiredsportsbarinch",
     "category": "restaurant",
     "metros": [
@@ -2826,7 +2830,7 @@
     "squareUrl": "https://thebakehousechicagoroscoe.square.site/"
   },
   {
-    "name": "El Se\u00f1or De Los Tacos",
+    "name": "El Señor De Los Tacos",
     "slug": "elseordelostacos",
     "category": "mexican",
     "metros": [
@@ -3206,7 +3210,7 @@
     "websiteOrderUrl": "https://stansdonuts.olo.com/menu/stans-lake"
   },
   {
-    "name": "Chicago - Fogo de Ch\u00e3o",
+    "name": "Chicago - Fogo de Chão",
     "slug": "chicago-fogodecho",
     "category": "restaurant",
     "metros": [
@@ -3287,7 +3291,7 @@
     "websiteOrderUrl": "https://jenis.olo.com/menu/armitage/categories/53820_85829"
   },
   {
-    "name": "\u1405 Chicago Pizza Delivery - Best Pizza Places in Chicago 2025",
+    "name": "ᐅ Chicago Pizza Delivery - Best Pizza Places in Chicago 2025",
     "slug": "chicagopizzadelivery-bestpizzaplacesinch",
     "category": "pizza",
     "metros": [

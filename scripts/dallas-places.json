@@ -5,7 +5,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJnepQlC-ZToYRtS6XR_tcEk4",
+    "website": "https://www.hotelzaza.com/dallas/dining/dragonfly?utm_source=google&utm_medium=Local+Search&utm_campaign=Google+My+Business"
   },
   {
     "name": "The Woolworth",
@@ -13,7 +15,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJbU01oxiZToYR7SbEzKcmmrw",
+    "website": "https://www.thewoolworthdallas.com/"
   },
   {
     "name": "The Hampton Social",
@@ -21,7 +25,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJW4OxHwCZToYRlEQxoOQwBIM",
+    "website": "https://www.thehamptonsocial.com/"
   },
   {
     "name": "The Henry",
@@ -29,7 +35,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJd0GlbLqZToYR5pmP1Wlo39U",
+    "website": "https://www.thehenryrestaurant.com/locations/the-henry-dallas/?utm_source=Google&utm_medium=Organic&utm_campaign=Maps"
   },
   {
     "name": "Monarch Restaurant",
@@ -37,7 +45,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJsaYpjliZToYRD_HttJNU2m4",
+    "website": "http://www.monarchrestaurants.com/"
   },
   {
     "name": "Written by the Seasons",
@@ -45,7 +55,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJI1AZdsKZToYRN8OAdRDllk8",
+    "website": "http://www.writtenbytheseasons.com/"
   },
   {
     "name": "3Eleven Kitchen and Cocktails",
@@ -53,7 +65,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJPVNJIhaZToYR8jBVOOqU9tA",
+    "website": "https://3elevendallas.com/"
   },
   {
     "name": "La Stella Cucina Verace",
@@ -61,7 +75,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJUZEW2V-ZToYRUPceX82HbOg",
+    "website": "https://www.lastellatx.com/"
   },
   {
     "name": "Al Biernat's Oak Lawn",
@@ -69,7 +85,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJTdYTTtueToYR1n1KpfzBLVo",
+    "website": "https://www.albiernats.com/locations/oak-lawn/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
   },
   {
     "name": "MIRADOR",
@@ -77,7 +95,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJrQt0uBiZToYRzXeKHL3AecU",
+    "website": "https://www.mirador-dallas.com/"
   },
   {
     "name": "Terry Black's Barbecue",
@@ -85,7 +105,9 @@
     "category": "bbq",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJuQDvm1CZToYRi-7kkz-6I8U",
+    "website": "https://terryblacksbbq.com/dallas"
   },
   {
     "name": "Hawkers Asian Street Food",
@@ -93,7 +115,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJZyDW1_OZToYRFNAib7RDwzs",
+    "website": "https://eathawkers.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ"
   },
   {
     "name": "Brick & Bones",
@@ -101,7 +125,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJJ3zyp92YToYRW3gorI9q_4c",
+    "website": "https://bricknbones.com/"
   },
   {
     "name": "Angry Dog",
@@ -109,7 +135,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJP9rrfN2YToYRM-YLi3Ov7T4",
+    "website": "https://www.angrydog.com/"
   },
   {
     "name": "Vidorra",
@@ -117,7 +145,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJKSE5u42ZToYRWxFYRL3T78E",
+    "website": "https://www.vidorracocina.com/"
   },
   {
     "name": "Nowhere Deep Ellum",
@@ -125,7 +155,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJK29LjRWZToYRuXCC5xAombo",
+    "website": "http://nowheredtx.com/"
   },
   {
     "name": "Pecan Lodge",
@@ -133,7 +165,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJGXYxd92YToYR7yV_BSMQ2Xk",
+    "website": "http://www.pecanlodge.com/"
   },
   {
     "name": "Cane Rosso",
@@ -141,7 +175,10 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJJbq93SURTIYRDWBNzh6sWpQ",
+    "website": "http://www.canerosso.com/",
+    "websiteOrderUrl": "https://order.online/store/2554158"
   },
   {
     "name": "Ruins",
@@ -149,7 +186,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJtZC8_0OZToYRQr_bitBI9KM",
+    "website": "https://www.ruinsdeepellum.com/"
   },
   {
     "name": "Dot's Hop House & Cocktail Courtyard",
@@ -157,7 +196,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJyS6-g92YToYRqsIXgysq-hQ",
+    "website": "http://dotshophouse.com/"
   },
   {
     "name": "Sixty Vines",
@@ -165,7 +206,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJBy2oQzCZToYRnp4wUtbWw3I",
+    "website": "https://sixtyvines.com/"
   },
   {
     "name": "Haywire",
@@ -173,7 +216,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJs_xpraSZToYR53zDDkGvNs8",
+    "website": "http://haywirerestaurant.com/"
   },
   {
     "name": "The Rustic",
@@ -181,7 +226,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJhcQOLdWeToYRURVCqH8zfys",
+    "website": "https://therustic.com/"
   },
   {
     "name": "Kitchen + Kocktails by Kevin Kelley",
@@ -189,7 +236,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJE-rQvPWZToYRe0HhJuoEHNo",
+    "website": "https://kitchenkocktailsusa.com/"
   },
   {
     "name": "Moxies Dallas Uptown Restaurant",
@@ -197,7 +246,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJ5Yd2GzCZToYRAt_qy6MmQzk",
+    "website": "https://moxies.com/restaurants/dallas-crescent-court?utm_source=GMB&utm_medium=google-location-listing&utm_campaign=organic"
   },
   {
     "name": "Lyla",
@@ -205,7 +256,10 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJr03ukmOfToYRqKp6t_00aw8",
+    "website": "http://lylarestaurant.com/",
+    "toastUrl": "https://order.toasttab.com/online/lyladallas"
   },
   {
     "name": "Paradiso",
@@ -213,7 +267,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJ90HUk4WZToYR6YzrAo6CJq4",
+    "website": "https://paradisodallas.com/"
   },
   {
     "name": "Oddfellows",
@@ -221,7 +277,10 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJFTvzB4WZToYRR1Ho1uG4XJU",
+    "website": "http://oddfellowsdallas.com/",
+    "toastUrl": "https://order.toasttab.com/online/oddfellows2-316-w-7th-st"
   },
   {
     "name": "Stock & Barrel",
@@ -229,7 +288,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJe151rIWZToYRkioMqZCCwGI",
+    "website": "http://stockandbarreldallas.com/"
   },
   {
     "name": "Lucia",
@@ -237,7 +298,10 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJMbpz6YWZToYR8soLyYxMtF4",
+    "website": "https://www.luciadallas.com/",
+    "squareUrl": "https://lucia-106392.square.site"
   },
   {
     "name": "Encina",
@@ -245,7 +309,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJ9yCM-IaZToYR-awoqOZL_7U",
+    "website": "http://encinadallas.com/"
   },
   {
     "name": "La Reunion",
@@ -253,15 +319,20 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJc-3kskKZToYR-HQN_3Vve6o",
+    "website": "http://lareunioncoffee.com/",
+    "toastUrl": "https://order.toasttab.com/online/la-reunion-229-n-bishop-ave"
   },
   {
-    "name": "Coco\u2019s",
+    "name": "Coco’s",
     "slug": "cocos",
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJOXTqy-2ZToYRRWeDMchwd70",
+    "website": "http://www.cocos.restaurant/"
   },
   {
     "name": "Sketches of Spain",
@@ -269,7 +340,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJi5tYveiZToYReLeYTZGGa6E",
+    "website": "http://www.sketchesofspain.com/"
   },
   {
     "name": "Little Blue Bistro",
@@ -277,7 +350,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJq5bWIfaZToYR3aiE275D-uM",
+    "website": "https://www.littlebluebistro.com/"
   },
   {
     "name": "Hurtado Barbecue Dallas",
@@ -285,7 +360,9 @@
     "category": "bbq",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJMU3xrrmZToYRxWdob9uBtfk",
+    "website": "https://hurtadobbq.com/"
   },
   {
     "name": "Goldee's Barbecue",
@@ -293,7 +370,9 @@
     "category": "bbq",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJ24EDAYllToYR34yWOv_et-A",
+    "website": "http://goldeesbbq.com/"
   },
   {
     "name": "The Original Roy Hutchins Barbeque",
@@ -301,7 +380,10 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJ1bBV6tfTTYYRmalW1cS_Gng",
+    "website": "http://royhutchinsbbq.com/",
+    "toastUrl": "https://theoriginalroyhutchinsbbq.toast.site/order"
   },
   {
     "name": "Lane's OAK'D BBQ",
@@ -309,7 +391,9 @@
     "category": "bbq",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJfaVcFVshTIYRdu8yZXyvfW4",
+    "website": "https://oakdbbq.com/"
   },
   {
     "name": "Earnest B's BBQ",
@@ -317,7 +401,9 @@
     "category": "bbq",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJJawj_dA9TIYRCGoPOW_5RfM",
+    "website": "https://www.earnestbbqcatering.com/"
   },
   {
     "name": "Cattleack Barbeque",
@@ -325,7 +411,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJLYVJGSsnTIYRCJ-WzhhIbfg",
+    "website": "http://cattleackbbq.com/"
   },
   {
     "name": "Slow Bone BBQ",
@@ -333,7 +421,10 @@
     "category": "bbq",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJZypGDlaZToYRUjxJgKE1AFk",
+    "website": "http://slowbone.com/",
+    "toastUrl": "https://order.toasttab.com/online/slow-bone-2234-irving-blvd"
   },
   {
     "name": "Oak'd BBQ",
@@ -341,7 +432,9 @@
     "category": "bbq",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJKSAivwufToYRqt7RRahGA98",
+    "website": "https://oakdbbq.com/"
   },
   {
     "name": "Las Palmas Tex-Mex",
@@ -349,7 +442,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJpVXGN7GZToYRK2EFeo9Ts88",
+    "website": "https://laspalmasdallas.com/"
   },
   {
     "name": "Rj Mexican Cuisine",
@@ -357,7 +452,9 @@
     "category": "mexican",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJLdzo9T2ZToYRt2Nnta1x7fM",
+    "website": "https://www.rjmexicancuisine.com/"
   },
   {
     "name": "Uno Mas Tex Mex",
@@ -365,7 +462,10 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJp5BvicmZToYR38gqQeVLe1U",
+    "website": "http://unomastexmex.com/",
+    "toastUrl": "https://order.toasttab.com/online/uno-mas-1525-main-st"
   },
   {
     "name": "Mia's Tex-Mex Restaurant",
@@ -373,7 +473,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJ7-PopseeToYRHO8FFQ-4k1E",
+    "website": "http://www.miastexmex.com/"
   },
   {
     "name": "Mexican Sugar",
@@ -381,7 +483,10 @@
     "category": "mexican",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJDVkCWriZToYRq5qxgjDnvgc",
+    "website": "https://www.mexicansugarcocina.com/",
+    "toastUrl": "https://order.toasttab.com/online/mexican-sugar-plano"
   },
   {
     "name": "E Bar Tex-Mex",
@@ -389,7 +494,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJ0T32ltOYToYR-z2YWh5p18w",
+    "website": "https://www.ebartexmex.com/"
   },
   {
     "name": "Meso Maya Comida y Copas",
@@ -397,7 +504,9 @@
     "category": "restaurant",
     "metros": [
       "dallas"
-    ]
+    ],
+    "placeId": "ChIJMzOiejuZToYRWmNcwhwM1Dc",
+    "website": "https://www.mesomaya.com/"
   },
   {
     "name": "Pepe's & Mito's",
@@ -672,7 +781,7 @@
     "toastUrl": "https://order.toasttab.com/online/yb-dallas"
   },
   {
-    "name": "On\u0113san Dim Sum & Sushi 12300 Inwood Rd #180, Dallas, ...",
+    "name": "Onēsan Dim Sum & Sushi 12300 Inwood Rd #180, Dallas, ...",
     "slug": "onsandimsumsushi12300inwoodrd180dallas",
     "category": "japanese",
     "metros": [
@@ -1689,7 +1798,7 @@
     "toastUrl": "https://order.toasttab.com/online/mister-o1-extraordinary-pizza-dallas-7th"
   },
   {
-    "name": "Birria Hands 921 W Commerce St \u2013 Order pickup and delivery",
+    "name": "Birria Hands 921 W Commerce St – Order pickup and delivery",
     "slug": "birriahands921wcommercestorderpickupandd",
     "category": "deli",
     "metros": [
@@ -2204,7 +2313,7 @@
     "websiteOrderUrl": "https://goldenchick.olo.com/menu/golden-chick-dallas-hillcrest"
   },
   {
-    "name": "\u1405 Dallas Pizza Delivery - Best Pizza Places in Dallas 2025",
+    "name": "ᐅ Dallas Pizza Delivery - Best Pizza Places in Dallas 2025",
     "slug": "dallaspizzadelivery-bestpizzaplacesindal",
     "category": "pizza",
     "metros": [
@@ -2404,7 +2513,7 @@
     "websiteOrderUrl": "https://www.clover.com/pos-systems/online-ordering"
   },
   {
-    "name": "Clover\u2019s got restaurant delivery covered: 4 services to try",
+    "name": "Clover’s got restaurant delivery covered: 4 services to try",
     "slug": "cloversgotrestaurantdeliverycovered4serv",
     "category": "deli",
     "metros": [
@@ -2674,7 +2783,7 @@
     "toastUrl": "https://order.toasttab.com/online/360-brunch-house-dallas"
   },
   {
-    "name": "High Tower Caf\u00e9 HT-Millennium Dallas Pkwy",
+    "name": "High Tower Café HT-Millennium Dallas Pkwy",
     "slug": "hightowercafht-millenniumdallaspkwy",
     "category": "cafe",
     "metros": [
@@ -2692,7 +2801,7 @@
     "toastUrl": "https://order.toasttab.com/online/tacoscantu-1-2507-s-lancaster-rd"
   },
   {
-    "name": "Gather Caf\u00e9 Dallas",
+    "name": "Gather Café Dallas",
     "slug": "gathercafdallas",
     "category": "cafe",
     "metros": [
