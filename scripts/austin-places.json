@@ -14,7 +14,9 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJ6fZwBru1RIYRfFRi0BiSYp8",
+    "website": "https://www.sitiatx.com/"
   },
   {
     "name": "Why every restaurant needs an interactive menu",
@@ -22,7 +24,9 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJ0ZHePHK1RIYR2vIKkhQevxQ",
+    "website": "https://www.emberatx.com/"
   },
   {
     "name": "4 tech-focused tips to fight rising restaurant costs",
@@ -30,10 +34,12 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJo3YMTu3LRIYRy4Vp7D4MCiM",
+    "website": "https://rosegose.us/"
   },
   {
-    "name": "Austin\u2019s Pizza",
+    "name": "Austin’s Pizza",
     "slug": "austinspizza",
     "category": "pizza",
     "metros": [
@@ -47,7 +53,10 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJ14ud0cO1RIYRY88BIQ_C-OY",
+    "website": "https://www.eatwellatx.com/",
+    "toastUrl": "https://order.toasttab.com/online/the-well-westlake-1234-tbd-hfbro"
   },
   {
     "name": "Sankalp - The Taste of India Austin",
@@ -374,7 +383,7 @@
     "toastUrl": "https://order.toasttab.com/online/cafe-crepe-of-austin-200-san-jacinto-blvd-suite-a"
   },
   {
-    "name": "Ski Shores Caf\u00e9",
+    "name": "Ski Shores Café",
     "slug": "ski-shores-caf",
     "category": "cafe",
     "metros": [
@@ -1045,7 +1054,9 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJmfH1cGNLW4YRe3vDIPnXfXE",
+    "website": "http://www.bamboobistroonline.com/"
   },
   {
     "name": "Home - C Spot",
@@ -1053,7 +1064,9 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJm3RkX2m1RIYRa7ofUVcc4zQ",
+    "website": "http://josephineofaustin.com/"
   },
   {
     "name": "Nagoya Steak & Sushi - Austin, TX 78750 (Menu & Order ...",
@@ -1061,7 +1074,9 @@
     "category": "japanese",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJGVx5DYsyW4YRSXO2kUawF38",
+    "website": "https://www.spicyhouseaustin.com/"
   },
   {
     "name": "C Spot - Austin, TX 78702 (Menu & Order Online)",
@@ -1105,7 +1120,10 @@
     "category": "steakhouse",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJz7o2jgm1RIYRi_5Y7JfjH0A",
+    "website": "http://www.perryssteakhouse.com/menu-locations/austin/downtown/",
+    "websiteOrderUrl": "https://order.online/store/PerrysSteakhouseGrille-1194540"
   },
   {
     "name": "Austin Catering",
@@ -1117,7 +1135,7 @@
     "websiteOrderUrl": "https://truefoodkitchencatering.olo.com/menu/austin-catering"
   },
   {
-    "name": "Austin - Congress Fogo de Ch\u00e3o",
+    "name": "Austin - Congress Fogo de Chão",
     "slug": "austin-congressfogodecho",
     "category": "restaurant",
     "metros": [
@@ -1252,7 +1270,7 @@
     "websiteOrderUrl": "https://postino.olo.com/menu/postino-south-lamar"
   },
   {
-    "name": "\u1405 Austin Pizza Delivery - Best Pizza Places in Austin 2026",
+    "name": "ᐅ Austin Pizza Delivery - Best Pizza Places in Austin 2026",
     "slug": "austinpizzadelivery-bestpizzaplacesinaus",
     "category": "pizza",
     "metros": [
@@ -1261,12 +1279,15 @@
     "websiteOrderUrl": "https://slicelife.com/pizza-delivery/tx-austin"
   },
   {
-    "name": "Kom\u00e9",
+    "name": "Komé",
     "slug": "kom",
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJDfgc5g3KRIYRSxRCBb-Zez8",
+    "website": "http://www.kome-austin.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Texas Honey Ham Company - Restaurant in Austin, TX",
@@ -1336,7 +1357,9 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJp4iNMCbKRIYR1-jMw2_M-Do",
+    "website": "https://www.restaurantdepot.com/?utm_source=listings&utm_medium=search&utm_campaign=traffic-tracking&utm_content=West-Coast&utm_term=701-TEXAS/OKC"
   },
   {
     "name": "Take Online Orders Through Facebook & Instagram",
@@ -1344,7 +1367,10 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJ14ud0cO1RIYRY88BIQ_C-OY",
+    "website": "https://www.eatwellatx.com/",
+    "toastUrl": "https://order.toasttab.com/online/the-well-westlake-1234-tbd-hfbro"
   },
   {
     "name": "Dine-in ordering",
@@ -1361,7 +1387,9 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJDfhk1ja1RIYR3NIISvjn88k",
+    "website": "https://www.abarestaurants.com/austin/"
   },
   {
     "name": "Assistance and Resource Guide for Restaurants",
@@ -1369,7 +1397,9 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJAcNjQXW1RIYR3x_PPgLkBUU",
+    "website": "https://www.txrestaurant.org/"
   },
   {
     "name": "Looking For Delivery Fulfillment For Your Restaurant?",
@@ -1377,7 +1407,9 @@
     "category": "deli",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJa5N_SR-zRIYRUhtSUmumgXg",
+    "website": "https://www.restaurantdepot.com/?utm_source=listings&utm_medium=search&utm_campaign=traffic-tracking&utm_content=west-coast&utm_term=716-texas/okc"
   },
   {
     "name": "Takeout & Delivery",
@@ -1938,7 +1970,7 @@
     "toastUrl": "https://foreigndomestic.toast.site/"
   },
   {
-    "name": "Taco n Ma\u00edz",
+    "name": "Taco n Maíz",
     "slug": "taconmaiz",
     "category": "mexican",
     "metros": [
@@ -2087,7 +2119,9 @@
     "category": "burgers",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJX3T6djJLW4YRNcq1nEyoaWE",
+    "website": "https://locations.in-n-out.com/306"
   },
   {
     "name": "HEB Curbside",
@@ -2122,7 +2156,10 @@
     "category": "cafe",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJuzq2ZpdLW4YRBNqhQpkeeBQ",
+    "website": "http://kerbeylanecafe.com/",
+    "websiteOrderUrl": "https://kerbeylanecafe.olo.com/"
   },
   {
     "name": "Via 313 Pizza",
@@ -2148,7 +2185,9 @@
     "category": "burgers",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJncjNDT42W4YR0PYludSM9DQ",
+    "website": "https://hatcreekburgers.com/"
   },
   {
     "name": "Cabo Bobs",
@@ -2156,7 +2195,11 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJDeNfAgBLW4YRGZRZGwm6ZoQ",
+    "website": "http://www.cabobobs.com/",
+    "toastUrl": "https://order.toasttab.com/online/cabo-bobs-burritos-new-location-2-11215-s-ih-35-svrd-nb",
+    "websiteOrderUrl": "https://order.online/store/cabo-bob"
   },
   {
     "name": "Thai Kitchen",
@@ -2164,7 +2207,9 @@
     "category": "thai",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJh6MtiH-1RIYRN9mM1-O9dEU",
+    "website": "https://order.toasttab.com/online/thai-kitchen-3009-guadalupe-street"
   },
   {
     "name": "Chuy\\",
@@ -2190,7 +2235,9 @@
     "category": "japanese",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJgeN2qvezRIYRvxgcBWAkM4I",
+    "website": "https://ramen-tatsuya.com/"
   },
   {
     "name": "Uchi",
@@ -2198,7 +2245,10 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJz2Whyx61RIYR7mCeZje-QWw",
+    "website": "https://uchi.uchirestaurants.com/location/austin/",
+    "websiteOrderUrl": "https://order.online/store/uchi-austin-30327360"
   },
   {
     "name": "Suerte",
@@ -2206,7 +2256,10 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJAQBE-7a1RIYRcZNYsxWYIUg",
+    "website": "https://www.suerteatx.com/",
+    "websiteOrderUrl": "https://media-cdn.getbento.com/48xZNpyURKKcLo3WChr0_favi.png"
   },
   {
     "name": "Veracruz All Natural",
@@ -2214,7 +2267,9 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJ5ST765DLRIYRastGozc0GnY",
+    "website": "http://veracruzallnatural.com/"
   },
   {
     "name": "Flyrite Chicken",
@@ -2222,7 +2277,9 @@
     "category": "chicken",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJebF4Nf-xRIYRTlRNVqGIsUc",
+    "website": "http://www.flyritechicken.com/"
   },
   {
     "name": "Loro",
@@ -2230,7 +2287,10 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJH3w8zB61RIYRhKc2dFxr5bs",
+    "website": "https://www.loroeats.com/locations/austin/south-lamar/",
+    "websiteOrderUrl": "https://order.online/store/loro-asian-smokehouse-houston-31236955"
   },
   {
     "name": "Franklin Barbecue",
@@ -2238,7 +2298,9 @@
     "category": "bbq",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJM8w7rqS1RIYRhEz2-KuoqzE",
+    "website": "https://franklinbarbecue.com/"
   },
   {
     "name": "Terry Blacks BBQ",
@@ -2246,7 +2308,9 @@
     "category": "bbq",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJZSqCDhu1RIYRx1iRoCvCOsA",
+    "website": "https://terryblacksbbq.com/austin"
   },
   {
     "name": "La Barbecue",
@@ -2254,7 +2318,10 @@
     "category": "bbq",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJIR1tw661RIYRUgfHust5Vv0",
+    "website": "http://www.labarbecue.com/",
+    "toastUrl": "https://order.toasttab.com/online/la-barbecue"
   },
   {
     "name": "Salvation Pizza",
@@ -2262,7 +2329,10 @@
     "category": "pizza",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJ12tGSqq1RIYRFKpemsm7H5M",
+    "website": "https://www.salvationpizzakitchen.com/",
+    "toastUrl": "https://order.toasttab.com/online/salvation-pizza"
   },
   {
     "name": "Home Slice Pizza",
@@ -2270,7 +2340,10 @@
     "category": "pizza",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJu96UVvy0RIYRCPxWa4TSr6o",
+    "website": "https://homeslicepizza.com/location/south-congress/",
+    "websiteOrderUrl": "https://ordering.chownow.com/order/9351/locations"
   },
   {
     "name": "Pinthouse Pizza",
@@ -2278,7 +2351,9 @@
     "category": "pizza",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJRdNEeDBLW4YR9P1mzVWCyOw",
+    "website": "https://pinthouse.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ"
   },
   {
     "name": "The Picnic",
@@ -2286,7 +2361,10 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJX4DnAGHKRIYRnYQ9UhSgnRw",
+    "website": "https://www.picnikrestaurants.com/visit?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing",
+    "toastUrl": "https://order.toasttab.com/online/picnik-burnet-road"
   },
   {
     "name": "Favor",
@@ -2294,7 +2372,9 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJ_TqfxG5FQogRmgq7iGNXpz4",
+    "website": "http://eatfavor.com/"
   },
   {
     "name": "Halal Bros",
@@ -2302,7 +2382,9 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJS9VeZgBLW4YR4A9yoC4d1t4",
+    "website": "https://thehalalbros.com/halalbros-g0tajg?utm_source=google"
   },
   {
     "name": "Tso Chinese Delivery",
@@ -2310,7 +2392,9 @@
     "category": "chinese",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJ-VA2VIm1RIYRqp1ih9eBc0w",
+    "website": "https://tsochinese.com/"
   },
   {
     "name": "Wasota African Cuisine",
@@ -2318,7 +2402,9 @@
     "category": "african",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJibdbOaHLRIYRK93zuU9XUJA",
+    "website": "https://www.tailatkitchen.com/"
   },
   {
     "name": "DeSano Pizza",
@@ -2326,7 +2412,10 @@
     "category": "pizza",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJaTqSPABLW4YRVUjUOV5SWnE",
+    "website": "http://www.desanopizza.com/",
+    "websiteOrderUrl": "https://order.chownow.com/order/2999/locations"
   },
   {
     "name": "El Pollo Regio",
@@ -2334,7 +2423,9 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJAQtMIvLJRIYRno4kIGcmYFY",
+    "website": "https://www.polloregio.com/"
   },
   {
     "name": "Tyson\\",
@@ -2342,7 +2433,10 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJj9DEzw3KRIYRZHwTEZL58eg",
+    "website": "http://tysonstacos.com/",
+    "toastUrl": "https://order.toasttab.com/online/tysonstacos"
   },
   {
     "name": "Chi\\",
@@ -2359,7 +2453,9 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJAXKi97S1RIYRDv6TyxGvAFg",
+    "website": "https://www.puebloviejoaustin.com/"
   },
   {
     "name": "Paperboy",
@@ -2367,7 +2463,10 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJ4Y1SrLu1RIYRDZHWbSNOvIk",
+    "website": "https://www.paperboyaustin.com/east-11th",
+    "toastUrl": "https://paperboy-f3dwpue6.toast.site/order"
   },
   {
     "name": "Pho Saigon",
@@ -2375,7 +2474,8 @@
     "category": "vietnamese",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJjSQBv0TJRIYRICweuQPkApQ"
   },
   {
     "name": "Sap\\",
@@ -2383,7 +2483,9 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJYfSJTzlLW4YRzCELs2lIi28",
+    "website": "https://www.sapsver.com/"
   },
   {
     "name": "Din Ho Chinese BBQ",
@@ -2391,7 +2493,10 @@
     "category": "bbq",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJSYFzksbLRIYRL-OWKwrqh_Q",
+    "website": "http://www.dinhochinesebbq.com/",
+    "toastUrl": "https://order.toasttab.com/online/din-ho-chinese-bbq-8557-research-boulevard-116"
   },
   {
     "name": "Bouldin Creek Cafe",
@@ -2399,7 +2504,9 @@
     "category": "cafe",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJH-Sj5OK0RIYRjC-_RrNEotk",
+    "website": "http://bouldincreekcafe.com/"
   },
   {
     "name": "Counter Cafe",
@@ -2407,7 +2514,9 @@
     "category": "cafe",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJl70jQba1RIYRjm_dGe6uuCQ",
+    "website": "http://www.countercafe.com/"
   },
   {
     "name": "Grizzeldas",
@@ -2415,7 +2524,9 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJZZTSdy20RIYRLD4e_xca3aU",
+    "website": "http://grizzeldas.com/"
   },
   {
     "name": "Mandola\\",
@@ -2423,7 +2534,10 @@
     "category": "restaurant",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJJx8ztplLW4YRFdtROjCGly4",
+    "website": "https://mandolas.com/",
+    "websiteOrderUrl": "https://mandolas.olo.com/"
   },
   {
     "name": "Arpeggio Grill",
@@ -2431,7 +2545,10 @@
     "category": "breakfast",
     "metros": [
       "austin"
-    ]
+    ],
+    "placeId": "ChIJX66_aznKRIYREleZGBWRhqM",
+    "website": "http://www.arpeggiogrill.com/",
+    "toastUrl": "https://order.toasttab.com/online/arpeggio-grill"
   },
   {
     "name": "Kerlin BBQ",

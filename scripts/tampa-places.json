@@ -5,7 +5,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJkTDP2OLFwogR9W0EjRYIL-0",
+    "website": "https://www.eatnakedfarmer.com/"
   },
   {
     "name": "Ulele",
@@ -13,7 +15,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJ3Vyq7WTEwogRA-WDC7Mze2E",
+    "website": "https://ulele.com/"
   },
   {
     "name": "OLIVIA",
@@ -21,7 +25,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJh4m6DH7DwogRcwo9evYZIhg",
+    "website": "https://www.oliviafl.com/"
   },
   {
     "name": "Ocean Prime",
@@ -29,7 +35,10 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJIUpfJ1TCwogRDsxgDUkhIJg",
+    "website": "https://www.ocean-prime.com/locations-menus/tampa",
+    "websiteOrderUrl": "https://oceanprime.olo.com/"
   },
   {
     "name": "Rocca",
@@ -37,7 +46,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJ1WZIXhjFwogR1M-_3DXnG6Y",
+    "website": "https://roccatampa.com/"
   },
   {
     "name": "The Pearl Tampa",
@@ -45,7 +56,10 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJS4AtxNfFwogReG60gXMaVEo",
+    "website": "https://thepearlrestaurant.com/locations-menus/tampa/",
+    "websiteOrderUrl": "https://order.online/store/-1344509"
   },
   {
     "name": "Oxford Exchange",
@@ -53,7 +67,10 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJ11hsiYXEwogRjDBv39F04J8",
+    "website": "http://oxfordexchange.com/",
+    "toastUrl": "https://order.toasttab.com/online/oxford-exchange"
   },
   {
     "name": "Rusty Pelican Tampa",
@@ -61,7 +78,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJLR0ZStLpwogRN1yup67MZhU",
+    "website": "https://www.therustypelicantampa.com/"
   },
   {
     "name": "Seasons 52",
@@ -69,7 +88,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJPbdEbvvCwogROTCC-gto3b0",
+    "website": "https://www.seasons52.com/locations/fl/tampa/tampa/4511?cmpid=br:s52_ag:ie_ch:loc_ca:S52GMB_sn:gmb_gt:tampa-fl-4511_pl:locurl_rd:1010"
   },
   {
     "name": "Madame Fortune Dessert + HiFi Parlour",
@@ -77,7 +98,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJVbiFLlLEwogROaV2EPidQvI",
+    "website": "http://madamefortunetpa.com/"
   },
   {
     "name": "Teak",
@@ -85,7 +108,9 @@
     "category": "tea",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJJWHcmWHhwogRqjA_mzD9DJI",
+    "website": "https://teakstpete.com/"
   },
   {
     "name": "Fresco's Waterfront Bistro",
@@ -93,7 +118,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJnwcbbJ7hwogRTamEBLW60o8",
+    "website": "https://www.frescoswaterfront.com/"
   },
   {
     "name": "Parkshore Grill",
@@ -101,7 +128,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJU3g_9p3hwogRX2Cb15oVchI",
+    "website": "http://www.parkshoregrill.com/"
   },
   {
     "name": "Social Roost",
@@ -109,7 +138,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJ4U9eu0DhwogRkG40DUqx0OQ",
+    "website": "https://www.eatatsocialroost.com/"
   },
   {
     "name": "Brick & Mortar",
@@ -117,7 +148,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJm6YHl4PhwogRHXgaRna2Ndc",
+    "website": "http://brickandmortarstpete.com/"
   },
   {
     "name": "Perry's Porch",
@@ -125,7 +158,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJif4tkzvhwogRl9KrJHOaKi4",
+    "website": "https://www.perrysporch.com/"
   },
   {
     "name": "Elliott Aster",
@@ -133,7 +168,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJnZwugRXhwogRpN-HY445tJM",
+    "website": "https://www.elliottaster.com/"
   },
   {
     "name": "The Library - inspired by the George Peabody Library",
@@ -141,7 +178,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJN7YsfoXhwogR0FoYZxboZ0U",
+    "website": "https://thelibrarystpete.com/"
   },
   {
     "name": "Pepe's Cantina St. Petersburg",
@@ -149,7 +188,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJg5mjBX7jwogR2g7AYVTA6ws",
+    "website": "https://www.pepescantina.com/"
   },
   {
     "name": "Doc Ford's Rum Bar and Grille St Pete Pier",
@@ -157,7 +198,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJIyCdCXfhwogRH8MxhxaUGgs",
+    "website": "https://www.docfords.com/st-pete-pier/"
   },
   {
     "name": "Flan Factory - Ybor",
@@ -165,7 +208,10 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJtyjCT8zFwogRDeMzOrl5Rn4",
+    "website": "http://flanfactory.com/",
+    "squareUrl": "https://flanfactory.square.site/"
   },
   {
     "name": "La Teresita Restaurant",
@@ -173,7 +219,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJ0W7CipfDwogRv8PUu_Wwvo0",
+    "website": "http://www.lateresitarestaurant.com/"
   },
   {
     "name": "Soul de Cuba Cafe",
@@ -181,7 +229,9 @@
     "category": "cafe",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJsbjVgTHHwogRBo0HoMUENT8",
+    "website": "https://souldecuba.com/"
   },
   {
     "name": "Columbia Restaurant",
@@ -189,7 +239,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJz8e7TVLEwogRBeybvscHnD4",
+    "website": "http://www.columbiarestaurant.com/"
   },
   {
     "name": "Box of Cubans",
@@ -197,7 +249,10 @@
     "category": "latin",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJoxlSDxm3wogRkJ5jB2ROTAs",
+    "website": "https://www.boxofcubans.com/",
+    "toastUrl": "https://order.toasttab.com/online/box-of-cubans"
   },
   {
     "name": "A lo cubanisimo",
@@ -205,7 +260,8 @@
     "category": "latin",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJU8B5e0TDwogRC4alvG_kSK0"
   },
   {
     "name": "Pipo's Restaurant",
@@ -213,7 +269,10 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJ98g4bwfCwogRoiP1Zu5ThAA",
+    "website": "http://www.piposhillsborough.com/",
+    "websiteOrderUrl": "https://media-cdn.getbento.com/ut2m9exbQr2K2aDRJ0R3_Pipos-fav.png"
   },
   {
     "name": "El Cubano",
@@ -221,7 +280,9 @@
     "category": "latin",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJh4a3carBwogRWnt0YSBlg9k",
+    "website": "https://www.facebook.com/profile.php?id=100084404086626&mibextid=LQQJ4d"
   },
   {
     "name": "Columbia Restaurant Sand Key",
@@ -229,7 +290,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJ8S96CDf3wogR1TcfKRyBkgY",
+    "website": "http://www.columbiarestaurant.com/"
   },
   {
     "name": "West Tampa Sandwich Shop",
@@ -237,7 +300,9 @@
     "category": "deli",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJPbUnl43DwogRz7WNKvF2Avw",
+    "website": "http://www.westtampasandwichshoprestaurant.com/"
   },
   {
     "name": "Bulla Gastrobar Tampa",
@@ -245,7 +310,10 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJzXMD72bDwogRUmY0GaY63xI",
+    "website": "https://bullagastrobar.com/locations/tampa",
+    "websiteOrderUrl": "https://order.online/store/bulla-gastrobar-tampa-208080"
   },
   {
     "name": "Babushka's - Hyde Park",
@@ -253,7 +321,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJf7PUWy7FwogRU7CrN8rdncg",
+    "website": "http://babushkas.us/"
   },
   {
     "name": "Armature Works",
@@ -261,7 +331,11 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJYWj9iZ_PwogRQebjN7pJ_Nw",
+    "website": "https://armatureworks.com/",
+    "squareUrl": "https://armatureworksllc.square.site/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/osaka/76c49d2.osaka/assets/js/head.min.js"
   },
   {
     "name": "On Swann",
@@ -269,7 +343,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJ5crCip3EwogRQnhkbw_Ir6U",
+    "website": "http://onswann.com/"
   },
   {
     "name": "Timpano Hyde Park",
@@ -277,7 +353,10 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJBcNdEmLDwogRKDWYDW3lUAI",
+    "website": "http://timpanohydepark.com/",
+    "websiteOrderUrl": "https://order.online/store/timpano-tampa-139570"
   },
   {
     "name": "Ro Hyde Park",
@@ -285,7 +364,10 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJe_sgCQTFwogRzB1ctERShiI",
+    "website": "https://www.rohydepark.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Bern's Steak House",
@@ -293,7 +375,9 @@
     "category": "steakhouse",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJKQXHdmfDwogRJFCLuT7eJ6I",
+    "website": "http://www.bernssteakhouse.com/"
   },
   {
     "name": "Green Lemon",
@@ -301,7 +385,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJ9RjM9WbDwogROYi4rArfa5M",
+    "website": "http://www.eatgreenlemon.com/"
   },
   {
     "name": "Salt Shack On The Bay",
@@ -309,7 +395,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJWSwkNNXdwogRCJUtqnx7je0",
+    "website": "http://salt-shack.com/"
   },
   {
     "name": "Oystercatchers",
@@ -317,7 +405,10 @@
     "category": "seafood",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJTwpX22TCwogRaTUt4Qe9TJU",
+    "website": "https://www.oystercatchersrestaurant.com/?utm_source=google&utm_medium=lastmile&utm_campaign=tparw-r-oyst",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Eddie V's Prime Seafood",
@@ -325,7 +416,9 @@
     "category": "seafood",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJo-LUT6vDwogRUFEzrVQ_Ce8",
+    "website": "https://www.eddiev.com/locations/fl/tampa/tampa/8512?cmpid=br:ev_ag:ie_ch:loc_ca:EVGMB_sn:gmb_gt:tampa-fl-8512_pl:locurl_rd:1011"
   },
   {
     "name": "Hula Bay Club",
@@ -333,7 +426,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJz67_9RXdwogRdi8N166RLWE",
+    "website": "http://hulabayclub.com/"
   },
   {
     "name": "Harpoon Harry's Crab House",
@@ -341,7 +436,9 @@
     "category": "seafood",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJJ13SCI3EwogRcX2q5Fs_HkU",
+    "website": "https://www.harpoonharryscrabhousetampa.com/"
   },
   {
     "name": "Bahama Breeze",
@@ -349,7 +446,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJP9I8xtDpwogRCgan4OapFus",
+    "website": "https://www.bahamabreeze.com/locations/fl/tampa/tampa/3004?cmpid=br:bb_ag:ie_ch:loc_ca:BBGMB_sn:gmb_gt:tampa-fl-3004_pl:locurl_rd:1004"
   },
   {
     "name": "DUMMY CRABBY",
@@ -357,7 +456,9 @@
     "category": "seafood",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJyX7Fg7PDwogRlvzFh8WtCJM",
+    "website": "https://www.dummycrabby.com/"
   },
   {
     "name": "Big Ray's Fish Camp",
@@ -365,7 +466,10 @@
     "category": "seafood",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJ-cwtmpTcwogRatWIXJHgFSs",
+    "website": "http://www.bigraysfishcamp.com/",
+    "websiteOrderUrl": "https://ordering.chownow.com/order/38466/locations"
   },
   {
     "name": "Bavaro's Pizza Napoletana & Pastaria Tampa",
@@ -1466,7 +1570,7 @@
     "toastUrl": "https://order.toasttab.com/online/phattrathai"
   },
   {
-    "name": "Are Pitas 1727 W Fletcher Ave \u2013 Order pickup and delivery",
+    "name": "Are Pitas 1727 W Fletcher Ave – Order pickup and delivery",
     "slug": "arepitas1727wfletcheraveorderpickupandde",
     "category": "mediterranean",
     "metros": [
@@ -1475,7 +1579,7 @@
     "websiteOrderUrl": "https://order.online/store/are-pitas-tampa-138978"
   },
   {
-    "name": "U-NITID 1905 E Fletcher Ave \u2013 Order pickup and delivery",
+    "name": "U-NITID 1905 E Fletcher Ave – Order pickup and delivery",
     "slug": "u-nitid1905efletcheraveorderpickupanddel",
     "category": "deli",
     "metros": [
@@ -1484,7 +1588,7 @@
     "websiteOrderUrl": "https://order.online/store/u-nitid-tampa-29920096/"
   },
   {
-    "name": "Poke Island Plus 4058 Tampa Road \u2013 Order pickup and delivery",
+    "name": "Poke Island Plus 4058 Tampa Road – Order pickup and delivery",
     "slug": "pokeislandplus4058tamparoadorderpickupan",
     "category": "japanese",
     "metros": [
@@ -1516,7 +1620,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJkTDP2OLFwogR9W0EjRYIL-0",
+    "website": "https://www.eatnakedfarmer.com/"
   },
   {
     "name": "Uptown, Tampa Diner: Home",
@@ -1524,7 +1630,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJx4D3WHvFwogRitjq57vLCXE",
+    "website": "https://uptownjoesnewyorkdiner.com/"
   },
   {
     "name": "Blue Flame - TAMPA, FL 33612 (Menu & Order Online)",
@@ -1532,7 +1640,10 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJqzV2AdHHwogR47mSv99O9X8",
+    "website": "http://www.blueflametampa.com/",
+    "websiteOrderUrl": "https://blueflame.menufy.com/order"
   },
   {
     "name": "Home - Ginza",
@@ -1540,7 +1651,9 @@
     "category": "restaurant",
     "metros": [
       "tampa"
-    ]
+    ],
+    "placeId": "ChIJB4q5-dO7wogRA4T2RVyjkLo",
+    "website": "https://www.clover.com/online-ordering/ginza-at-collier-parkway-land-o-lakes"
   },
   {
     "name": "Online Ordering and Restaurant Marketing System",
@@ -1838,7 +1951,7 @@
     "websiteOrderUrl": "https://jeremiahsice.olo.com/menu/jeremiahs-italian-ice-westchase"
   },
   {
-    "name": "\u1405 Tampa Pizza Delivery - Best Pizza Places in Tampa 2025",
+    "name": "ᐅ Tampa Pizza Delivery - Best Pizza Places in Tampa 2025",
     "slug": "tampapizzadelivery-bestpizzaplacesintamp",
     "category": "pizza",
     "metros": [

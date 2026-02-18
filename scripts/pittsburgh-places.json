@@ -5,7 +5,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJU-E_KhvzNIgRfi53Eoj79i8",
+    "website": "http://www.figandashpgh.com/"
   },
   {
     "name": "Altius",
@@ -13,7 +15,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJWdAveK_2NIgRLTc86K9aJpk",
+    "website": "http://altiuspgh.com/"
   },
   {
     "name": "Ritual House",
@@ -21,7 +25,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJuanz3VnxNIgRevJ0mtJ3D9c",
+    "website": "https://www.ritualhousepgh.com/"
   },
   {
     "name": "Scratch & Co.",
@@ -29,7 +35,10 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJ3ejbFb_zNIgRbaGSDkFD6Jw",
+    "website": "http://www.scratchandcopgh.com/",
+    "toastUrl": "https://order.toasttab.com/online/scratch-and-co"
   },
   {
     "name": "Eleven",
@@ -37,7 +46,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJWc78NOLzNIgRcQKCaa4pSCU",
+    "website": "http://www.elevenck.com/"
   },
   {
     "name": "The Capital Grille",
@@ -45,7 +56,9 @@
     "category": "mediterranean",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJGfCWEFfxNIgRKdud4avVJZk",
+    "website": "https://www.thecapitalgrille.com/locations/pa/pittsburgh/pittsburgh/8031?cmpid=br:tcg_ag:ie_ch:loc_ca:TCGGMB_sn:gmb_gt:pittsburgh-pa-8031_pl:locurl_rd:1027"
   },
   {
     "name": "Morcilla",
@@ -53,7 +66,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJ4SrQ-rTzNIgRBCWal8EzERk",
+    "website": "http://morcillapittsburgh.com/"
   },
   {
     "name": "Alla Famiglia",
@@ -61,7 +76,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJY4oV6DjxNIgRmaNZyV7lqY8",
+    "website": "http://www.allafamiglia.com/"
   },
   {
     "name": "Monterey Bay Fish Grotto",
@@ -69,7 +86,9 @@
     "category": "seafood",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJPz5dmKX2NIgRgcESndEXxLQ",
+    "website": "http://www.montereybayfishgrotto.com/"
   },
   {
     "name": "The Forge",
@@ -77,7 +96,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJp_wPvlXzNIgR1ua9flvQiQ8",
+    "website": "http://www.theforgepgh.com/"
   },
   {
     "name": "The Abbey on Butler Street",
@@ -85,7 +106,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJb026fVHyNIgRp717s78G9n0",
+    "website": "http://theabbeyonbutlerstreet.com/"
   },
   {
     "name": "The Nook",
@@ -93,7 +116,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJm-4CqZzzNIgR7EX7MH7PMTg",
+    "website": "http://nookpgh.com/"
   },
   {
     "name": "Piccolo Forno",
@@ -101,7 +126,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJ5UoaTrPzNIgR67C6D3W0d-M",
+    "website": "http://www.piccolo-forno.com/"
   },
   {
     "name": "The Church Brew Works",
@@ -109,7 +136,9 @@
     "category": "cafe",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJKT2mUrXzNIgRP_zITVG6-1s",
+    "website": "http://www.churchbrew.com/"
   },
   {
     "name": "The Vandal",
@@ -117,7 +146,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJdfRhi03yNIgRi_2aR5XCEWU",
+    "website": "http://www.thevandalpgh.com/"
   },
   {
     "name": "Industry Public House",
@@ -125,7 +156,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJv6siiU3yNIgRY1K4PUwSTvY",
+    "website": "http://industrypgh.com/"
   },
   {
     "name": "The Porch",
@@ -133,7 +166,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJB8suhyjyNIgROsd4vPcFiDU",
+    "website": "https://www.dineattheporch.com/"
   },
   {
     "name": "Pusadee's Garden",
@@ -141,7 +176,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJ2yPqm_fyNIgRrX4_XAqLAjw",
+    "website": "http://www.pusadeesgarden.com/"
   },
   {
     "name": "DiAnoia's Eatery",
@@ -149,7 +186,10 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJR-ud98TzNIgREwnaG2ksz6k",
+    "website": "https://www.dianoiaseatery.com/",
+    "toastUrl": "https://order.toasttab.com/online/dianoias-eatery-2549-penn-ave"
   },
   {
     "name": "The PA Market",
@@ -157,7 +197,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJ05Zle6vzNIgR5d6-XIDBWbE",
+    "website": "https://www.thepamarket.com/"
   },
   {
     "name": "Coop De Ville",
@@ -165,7 +207,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJR8TLzHzzNIgReN19aeZvS6k",
+    "website": "https://www.coopdevillepgh.com/"
   },
   {
     "name": "Roland's Seafood Grill",
@@ -173,7 +217,9 @@
     "category": "seafood",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJ41z6CN3zNIgR_ECPHXVS9Nc",
+    "website": "http://www.rolandspittsburgh.com/"
   },
   {
     "name": "Kaya",
@@ -181,7 +227,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJUWs5GN3zNIgRPZqcckSz0q4",
+    "website": "https://kaya.menu/"
   },
   {
     "name": "Pamela's Diner",
@@ -189,7 +237,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJE4Rn39zzNIgReCoU59ojZys",
+    "website": "http://www.pamelasdiner.com/"
   },
   {
     "name": "Cellars Speakeasy",
@@ -197,7 +247,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJDX1xhyjzNIgRCKQBpBVyWfg",
+    "website": "https://www.cellarsspeakeasy.com/"
   },
   {
     "name": "Little Bangkok in the Strip",
@@ -205,7 +257,10 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJ_VG7C93zNIgR7MsvZAToDto",
+    "website": "https://www.littlebangkokpittsburgh.com/",
+    "websiteOrderUrl": "https://littlebangkok.menufy.com/"
   },
   {
     "name": "Fiori's Pizzaria",
@@ -213,7 +268,9 @@
     "category": "pizza",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJ4122GCj3NIgR4EygOp9VQyw",
+    "website": "https://www.fiorispizzaria.com/"
   },
   {
     "name": "Pizza Lupo",
@@ -221,7 +278,9 @@
     "category": "pizza",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJByWbqoDzNIgRIYQGeZ3DGHU",
+    "website": "http://www.pizza-lupo.com/"
   },
   {
     "name": "Driftwood Oven",
@@ -229,7 +288,10 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJv3LUorTzNIgRvwY5DAgTA1s",
+    "website": "https://www.driftwoodoven.com/",
+    "toastUrl": "https://order.toasttab.com/online/driftwood-oven-3615-butler-st"
   },
   {
     "name": "Pizza Parma",
@@ -237,7 +299,9 @@
     "category": "pizza",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJVe5o5FfxNIgRYgvZBVTkiQM",
+    "website": "http://downtown.pizzaparma.us/"
   },
   {
     "name": "Proper Brick Oven & Tap Room",
@@ -245,7 +309,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJvwEwzVfxNIgROGhy_5YvzPQ",
+    "website": "https://properpgh.com/"
   },
   {
     "name": "Iron Born Pizza & Pasta | Strip District",
@@ -253,7 +319,10 @@
     "category": "pizza",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJMUZha1nzNIgRuii2YvwHVEE",
+    "website": "http://ironbornpizza.com/",
+    "toastUrl": "https://order.toasttab.com/online/iron-born-pizza-millvale-413-grant-ave"
   },
   {
     "name": "Spak Brothers",
@@ -261,7 +330,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJ17qAEELyNIgRuOAM6Sm8NMs",
+    "website": "http://www.spakbrothers.com/"
   },
   {
     "name": "Mercurio's Shadyside",
@@ -269,7 +340,10 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJn4O9qBHyNIgRc9dX4Aodfz8",
+    "website": "http://mercuriosgelatopizza.com/",
+    "websiteOrderUrl": "https://mercurios.menufy.com/#"
   },
   {
     "name": "Benny Fierro's",
@@ -277,15 +351,19 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJz1REkm7xNIgRaCxSYHQ0JeQ",
+    "website": "https://www.bennysva.com/locations/benny-fierros/"
   },
   {
-    "name": "Hofbr\u00e4uhaus Pittsburgh",
+    "name": "Hofbräuhaus Pittsburgh",
     "slug": "hofbruhauspittsburgh",
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJEfe6zHfxNIgRGR0MD0pIGHU",
+    "website": "http://www.hofbrauhauspittsburgh.com/"
   },
   {
     "name": "Grand Concourse",
@@ -293,7 +371,10 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJK0Gg3U3xNIgR91MmvokkqIE",
+    "website": "https://www.grandconcourserestaurant.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "The Urban Tap",
@@ -301,7 +382,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJf8-9UXPyNIgR0MoGEhLB1VY",
+    "website": "http://www.theurbantap.com/"
   },
   {
     "name": "Streets",
@@ -309,7 +392,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJjxOdCELxNIgREF2hytDWW6w",
+    "website": "http://www.streetsoncarson.com/"
   },
   {
     "name": "Dish Osteria Bar",
@@ -317,7 +402,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJA8Cr32vxNIgRTtKdJVxfpH8",
+    "website": "http://www.dishosteria.com/"
   },
   {
     "name": "Carmella's Plates & Pints",
@@ -325,7 +412,10 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJ0fRwkm7xNIgR4aK-gr_V2RY",
+    "website": "https://carmellasplatesandpints.com/",
+    "websiteOrderUrl": "https://order.online/store/carmella"
   },
   {
     "name": "Fat Head's Saloon",
@@ -333,7 +423,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJdZjQx27xNIgROx5Oy5ORrK0",
+    "website": "https://fatheads.com/pittsburgh.html"
   },
   {
     "name": "Steel Mill Saloon",
@@ -341,7 +433,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJC2lwoS73NIgRD03ZeaPgShI",
+    "website": "http://www.steelmillsaloon.com/"
   },
   {
     "name": "The Yard",
@@ -349,7 +443,10 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJXXutnFbxNIgR7UUU81s_VKg",
+    "website": "http://www.theyardpgh.com/",
+    "websiteOrderUrl": "https://media-cdn.getbento.com/JOvbLMXQTki2CwdoRIkd_the-yard-fav.png"
   },
   {
     "name": "The Commoner",
@@ -357,23 +454,30 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJLe2gNljxNIgRyIt5PgU3xtk",
+    "website": "https://www.thecommonerpgh.com/"
   },
   {
-    "name": "Caff\u00e9 Mona Strip District",
+    "name": "Caffé Mona Strip District",
     "slug": "caffmonastripdistrict",
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJK5FS3QnzNIgRTM2lvVKzHrA",
+    "website": "http://www.caffemona.com/",
+    "websiteOrderUrl": "https://checkout.menufy.com"
   },
   {
-    "name": "Caf\u00e9 Momentum Pittsburgh",
+    "name": "Café Momentum Pittsburgh",
     "slug": "cafmomentumpittsburgh",
     "category": "cafe",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJCzqyxVbxNIgRkt_SjUXDTyM",
+    "website": "http://www.cafemomentum.org/pittsburgh"
   },
   {
     "name": "Food For Thought",
@@ -646,7 +750,7 @@
     "toastUrl": "https://order.toasttab.com/online/gustossalad"
   },
   {
-    "name": "Gran Canal Caff\u00e9 1021 North Canal Street Pittsburgh, PA ...",
+    "name": "Gran Canal Caffé 1021 North Canal Street Pittsburgh, PA ...",
     "slug": "grancanalcaff1021northcanalstreetpittsbu",
     "category": "restaurant",
     "metros": [
@@ -1042,7 +1146,7 @@
     "toastUrl": "https://order.toasttab.com/online/santiagos-2023-3-main-street"
   },
   {
-    "name": "Cuban Paradise Cigar & Caf\u00e9",
+    "name": "Cuban Paradise Cigar & Café",
     "slug": "cubanparadisecigarcaf",
     "category": "cafe",
     "metros": [
@@ -1515,7 +1619,9 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJWdAveK_2NIgRLTc86K9aJpk",
+    "website": "http://altiuspgh.com/"
   },
   {
     "name": "Join the group text: Text message marketing for restaurants",
@@ -1523,7 +1629,10 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJK0Gg3U3xNIgR91MmvokkqIE",
+    "website": "https://www.grandconcourserestaurant.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Why every restaurant needs an interactive menu",
@@ -1531,7 +1640,10 @@
     "category": "restaurant",
     "metros": [
       "pittsburgh"
-    ]
+    ],
+    "placeId": "ChIJ3ejbFb_zNIgRbaGSDkFD6Jw",
+    "website": "http://www.scratchandcopgh.com/",
+    "toastUrl": "https://order.toasttab.com/online/scratch-and-co"
   },
   {
     "name": "Nurture Pittsburgh, A Food Delivery Service",
@@ -1994,7 +2106,7 @@
     "websiteOrderUrl": "https://familyexpress.olo.com/menu/hebron"
   },
   {
-    "name": "\u1405 Best Local Sandwiches in Pittsburgh, Pennsylvania",
+    "name": "ᐅ Best Local Sandwiches in Pittsburgh, Pennsylvania",
     "slug": "bestlocalsandwichesinpittsburghpennsylva",
     "category": "deli",
     "metros": [

@@ -5,7 +5,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJBe3AvXgDyIkRyWDeiBX0ocg",
+    "website": "http://www.ampersea.com/"
   },
   {
     "name": "Charleston",
@@ -13,7 +15,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJm9IPln4DyIkRUVRpxN04pic",
+    "website": "https://charlestonrestaurant.com/"
   },
   {
     "name": "Nick's Fish House",
@@ -21,7 +25,9 @@
     "category": "seafood",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJ78C_wxYDyIkR9C2_N9WP1Z4",
+    "website": "http://nicksfishhouse.com/"
   },
   {
     "name": "Mera Kitchen Collective",
@@ -29,7 +35,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJMx1KXPkFyIkRmOJT58CJKhI",
+    "website": "http://www.mera.kitchen/"
   },
   {
     "name": "Tavern at Woodberry Kitchen",
@@ -37,7 +45,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJPaRjcSobyIkRA-2FCs13fBo",
+    "website": "http://www.woodberrykitchen.com/"
   },
   {
     "name": "Wicked Sisters",
@@ -45,7 +55,10 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJr0GE3SsFyIkRpqlpJ4C0PWI",
+    "website": "https://www.wickedsistershampden.com/",
+    "websiteOrderUrl": "https://order.online/store/wicked-sisters-baltimore-24186702"
   },
   {
     "name": "Copper Shark",
@@ -53,7 +66,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJm-TP7XgDyIkRihTUteUEO08",
+    "website": "http://thecoppershark.com/"
   },
   {
     "name": "Ammoora",
@@ -61,7 +76,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJf5xHAwcDyIkRpjw6W4WL29A",
+    "website": "https://ammoora.com/"
   },
   {
     "name": "Rusty Scupper Restaurant & Bar",
@@ -69,7 +86,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJ9-70uWQDyIkRURmNrp-2GFc",
+    "website": "http://www.rusty-scupper.com/"
   },
   {
     "name": "The Duchess",
@@ -77,7 +96,10 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJsxQ1RwwFyIkRJlDnSYjvo7Y",
+    "website": "https://theduchessbaltimore.com/",
+    "toastUrl": "https://order.toasttab.com/online/the-duchess-baltimore"
   },
   {
     "name": "The Point In Fells",
@@ -85,7 +107,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJdTW8GoEDyIkRZE4uAxQXwVw",
+    "website": "http://www.thepointinfells.com/"
   },
   {
     "name": "Blue Moon Cafe",
@@ -93,7 +117,9 @@
     "category": "cafe",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJJey3AGYDyIkRveJQEvp4es8",
+    "website": "http://bluemoonbaltimore.square.site/"
   },
   {
     "name": "Thames Street Oyster House",
@@ -101,7 +127,9 @@
     "category": "seafood",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJFVF1BYEDyIkRh7SlLX8fLhs",
+    "website": "http://www.thamesstreetoysterhouse.com/"
   },
   {
     "name": "One-Eyed Mike's",
@@ -109,7 +137,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJAf-eeH8DyIkRipq4-TnuSs0",
+    "website": "https://www.oneeyedmikes.com/"
   },
   {
     "name": "Barcocina",
@@ -117,7 +147,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJ8z1N6oEDyIkRlnWrOGutZhk",
+    "website": "http://www.barcocina.com/"
   },
   {
     "name": "Twist fells point",
@@ -125,7 +157,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJi0rDUoADyIkRYw30M3k_LNQ",
+    "website": "https://www.twistfellspoint.com/"
   },
   {
     "name": "Kooper's Tavern",
@@ -133,7 +167,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJj9cPpoEDyIkRMXPTk3lx6Ws",
+    "website": "http://www.kooperstavern.com/"
   },
   {
     "name": "Rec Pier Chop House",
@@ -141,7 +177,10 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJT48GC4EDyIkRcjTHo2pLlI8",
+    "website": "http://www.recpierchophouse.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Max's Taphouse",
@@ -149,7 +188,9 @@
     "category": "vietnamese",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJ93PnsoEDyIkRtnZr4kihKzY",
+    "website": "https://maxs.com/"
   },
   {
     "name": "Tre Fratelli Italian Ristorante",
@@ -157,7 +198,9 @@
     "category": "italian",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJQ7TlUYsDyIkRzGCu1xN0kbU",
+    "website": "https://www.trefratelli-ristorante.com/"
   },
   {
     "name": "Sobo Kitchen & Bar",
@@ -165,7 +208,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJ3xqmjmgDyIkRGa7LkQMG2Oo",
+    "website": "http://www.sobokitchen.com/"
   },
   {
     "name": "Union Hill Kitchen & Craft Bar",
@@ -173,7 +218,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJZxV2AlcDyIkRd6FAlfFh8GA",
+    "website": "https://www.unionhillbal.com/"
   },
   {
     "name": "Little Donna's",
@@ -181,7 +228,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJsTVe25oFyIkRYF1P2imr-6E",
+    "website": "http://littledonnas.com/"
   },
   {
     "name": "The Outpost American Tavern",
@@ -189,7 +238,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJf3M2eWUDyIkR1p0csPWc0mo",
+    "website": "http://theoutpostbaltimore.com/"
   },
   {
     "name": "Blue Moon Too",
@@ -197,7 +248,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJ24_TAWYDyIkRG8cax-BR6iU",
+    "website": "http://bluemoonbaltimore.com/"
   },
   {
     "name": "Riverside Taphouse",
@@ -205,7 +258,9 @@
     "category": "vietnamese",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJL2tbEHYDyIkRuf8xCkZY4Ro",
+    "website": "http://riversidetaphouse.com/"
   },
   {
     "name": "Baltimore Seafood",
@@ -213,7 +268,9 @@
     "category": "seafood",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJR6fBPeEDyIkRRLAD5-Ny8AQ",
+    "website": "http://bmoreseafood.com/"
   },
   {
     "name": "Mama's on the Half Shell",
@@ -221,7 +278,10 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJbR1LpIsDyIkRcqIO8X5sPoQ",
+    "website": "https://www.mamasonthehalfshell.com/",
+    "toastUrl": "https://order.toasttab.com/online/mamas-on-the-half-shell"
   },
   {
     "name": "Angie's Seafood",
@@ -229,7 +289,9 @@
     "category": "seafood",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJPZAiXX4EyIkRMRtAvzu8mFo",
+    "website": "http://angiesseafood.com/"
   },
   {
     "name": "L.P. Steamers",
@@ -237,7 +299,9 @@
     "category": "tea",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJsZXoh2wDyIkRtV-3Zpqaz3E",
+    "website": "http://www.locustpointsteamers.com/"
   },
   {
     "name": "Jimmy's Famous Seafood",
@@ -245,7 +309,10 @@
     "category": "seafood",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJ4UvjY04ByIkRig6BiDer5Ns",
+    "website": "http://www.jimmysfamousseafood.com/",
+    "toastUrl": "https://order.toasttab.com/online/jimmys-famous-seafood-6526-holabird-ave"
   },
   {
     "name": "Phillips Seafood",
@@ -253,7 +320,9 @@
     "category": "seafood",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJrdyKf2EDyIkRDMA3l4gxtEc",
+    "website": "http://www.phillipsseafood.com/"
   },
   {
     "name": "Easy Like Sunday",
@@ -261,7 +330,10 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJjZoR2Z4byIkRFp6hzRPDgwA",
+    "website": "http://easylikesundaybrunch.com/",
+    "toastUrl": "https://order.toasttab.com/online/easy-like-sunday-66-village-square"
   },
   {
     "name": "Miss Shirley's Cafe, Inner Harbor",
@@ -269,7 +341,9 @@
     "category": "cafe",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJ3UdzoYIEyIkRcHIoPoU8BUQ",
+    "website": "https://www.missshirleys.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
   },
   {
     "name": "Everybody Loves Brunch",
@@ -277,7 +351,9 @@
     "category": "breakfast",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJn1-s6dgFyIkRuYyOsPiHw7Y",
+    "website": "http://everybodylovesbrunchexpress.com/"
   },
   {
     "name": "Water for Chocolate Catering LLC",
@@ -285,7 +361,10 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJZ2rkHnwEyIkRCbeiCboH2vs",
+    "website": "http://waterforchocolate.com/",
+    "websiteOrderUrl": "https://waterforchocolate.getbento.com/"
   },
   {
     "name": "of Love & Regret",
@@ -293,7 +372,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJG-kHovcDyIkRqChJwwFmUoo",
+    "website": "http://www.olarbmore.com/"
   },
   {
     "name": "Gunther & Co.",
@@ -301,7 +382,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJ8TRrlPYDyIkRsmnwGwWfJE4",
+    "website": "http://eatatgunther.com/"
   },
   {
     "name": "The Chasseur",
@@ -309,7 +392,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJ_eYBWAoEyIkRC5MqRhIGYec",
+    "website": "https://chasseurbaltimore.com/"
   },
   {
     "name": "Love Pomelo",
@@ -317,7 +402,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJH-5e5rsDyIkR_5qCnrAzvYk",
+    "website": "http://lovepomelorestaurant.com/"
   },
   {
     "name": "Ellie's Tavern",
@@ -325,7 +412,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJVWyE58wDyIkRl9U9vOlyPc8",
+    "website": "http://elliestavernbmore.com/"
   },
   {
     "name": "Annabel Lee Tavern",
@@ -333,15 +422,20 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJCanTAgsEyIkR00tUfglEAPE",
+    "website": "https://www.theannabelleetavern.com/"
   },
   {
-    "name": "Caf\u00e9 Dear Leon",
+    "name": "Café Dear Leon",
     "slug": "cafdearleon",
     "category": "cafe",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJ0biUE8cDyIkRzEPgI_0uZXQ",
+    "website": "http://cafedearleon.com/",
+    "squareUrl": "https://cafe-dear-leon.square.site/"
   },
   {
     "name": "The Dive",
@@ -349,7 +443,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJRdfvtXUDyIkRw_OWYBYwqvs",
+    "website": "https://www.thedivebaltimore.com/"
   },
   {
     "name": "The Food Market",
@@ -694,7 +790,7 @@
     "toastUrl": "https://order.toasttab.com/online/papis-tacos-fells-point-1703-aliceanna-st"
   },
   {
-    "name": "Riptide \u00b7 Fells Point",
+    "name": "Riptide · Fells Point",
     "slug": "riptidefellspoint",
     "category": "restaurant",
     "metros": [
@@ -1203,7 +1299,10 @@
     "category": "indian",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJOQnnXQDHt4kRZcoYHTmrb04",
+    "website": "https://marylandtandoor.com/",
+    "toastUrl": "https://order.toasttab.com/online/marylandtandoor"
   },
   {
     "name": "Basmati Indian Restaurant",
@@ -1472,7 +1571,10 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJN-mLp4sDyIkR_xHFA7x-Fdo",
+    "website": "https://www.jasakabobmd.com/",
+    "websiteOrderUrl": "https://checkout.menufy.com"
   },
   {
     "name": "Kona Grill Baltimore",
@@ -1484,7 +1586,7 @@
     "websiteOrderUrl": "https://konagrill.olo.com/menu/kona-grill-baltimore"
   },
   {
-    "name": "Baltimore - Fogo de Ch\u00e3o",
+    "name": "Baltimore - Fogo de Chão",
     "slug": "baltimore-fogodecho",
     "category": "restaurant",
     "metros": [
@@ -1552,7 +1654,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJZ9mi1ykFyIkRuQq4uteZJzM",
+    "website": "https://www.the-food-market.com/"
   },
   {
     "name": "Gaithersburg Catering",
@@ -1686,7 +1790,10 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJa4Jg9NwEyIkR30vcjuVJBww",
+    "website": "https://r.housebaltimore.com/",
+    "toastUrl": "https://order.toasttab.com/online/kitsch-301-w-29th-st"
   },
   {
     "name": "Looking For Delivery Fulfillment For Your Restaurant?",
@@ -1694,7 +1801,10 @@
     "category": "deli",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJa4Jg9NwEyIkR30vcjuVJBww",
+    "website": "https://r.housebaltimore.com/",
+    "toastUrl": "https://order.toasttab.com/online/kitsch-301-w-29th-st"
   },
   {
     "name": "Diner Database",
@@ -1720,7 +1830,9 @@
     "category": "restaurant",
     "metros": [
       "baltimore"
-    ]
+    ],
+    "placeId": "ChIJNWukDmYFyIkRuPGQlsMzDtA",
+    "website": "http://www.bmoreequipment.com/"
   },
   {
     "name": "How Restaurants Can Start In-House Delivery",
