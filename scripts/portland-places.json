@@ -192,7 +192,7 @@
     ]
   },
   {
-    "name": "thơm® Portland",
+    "name": "th\u01a1m\u00ae Portland",
     "slug": "thmportland",
     "category": "restaurant",
     "metros": [
@@ -528,7 +528,7 @@
     ]
   },
   {
-    "name": "Gracie’s Apizza",
+    "name": "Gracie\u2019s Apizza",
     "slug": "graciesapizza",
     "category": "pizza",
     "metros": [
@@ -707,7 +707,7 @@
     "toastUrl": "https://order.toasttab.com/online/nohos.portland"
   },
   {
-    "name": "Churn Cafe and Crêperie",
+    "name": "Churn Cafe and Cr\u00eaperie",
     "slug": "churncafeandcrperie",
     "category": "cafe",
     "metros": [
@@ -1507,7 +1507,7 @@
     ]
   },
   {
-    "name": "Mama Rosa – Mexican Food in Olive Branch",
+    "name": "Mama Rosa \u2013 Mexican Food in Olive Branch",
     "slug": "mamarosamexicanfoodinolivebranch",
     "category": "mexican",
     "metros": [
@@ -1567,7 +1567,7 @@
     "squareUrl": "https://world-foods-catering.square.site/"
   },
   {
-    "name": "Order CHAMORRO FOOD Online",
+    "name": "CHAMORRO FOOD",
     "slug": "orderchamorrofoodonline",
     "category": "restaurant",
     "metros": [
@@ -1639,7 +1639,7 @@
     "squareUrl": "https://ourspotpdx.square.site/"
   },
   {
-    "name": "Select location - Portland Cà Phê",
+    "name": "Select location - Portland C\u00e0 Ph\u00ea",
     "slug": "selectlocation-portlandcph",
     "category": "restaurant",
     "metros": [
@@ -1656,7 +1656,7 @@
     ]
   },
   {
-    "name": "Portland - Fogo de Chão",
+    "name": "Portland - Fogo de Ch\u00e3o",
     "slug": "portland-fogodecho",
     "category": "restaurant",
     "metros": [
@@ -1981,7 +1981,7 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/nicholas-restaurant-portland"
   },
   {
-    "name": "SHAMI CAFÉ - Portland, Oregon",
+    "name": "SHAMI CAF\u00c9 - Portland, Oregon",
     "slug": "shamicaf-portlandoregon",
     "category": "cafe",
     "metros": [
@@ -2107,7 +2107,7 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/fantastea-psu"
   },
   {
-    "name": "Big Fin Poké South Portland",
+    "name": "Big Fin Pok\u00e9 South Portland",
     "slug": "bigfinpoksouthportland",
     "category": "poke",
     "metros": [

@@ -174,7 +174,7 @@
     "website": "http://www.rays.com/"
   },
   {
-    "name": "Sabine Café & Bar",
+    "name": "Sabine Caf\u00e9 & Bar",
     "slug": "sabinecafbar",
     "category": "cafe",
     "metros": [
@@ -246,7 +246,7 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/13410/locations"
   },
   {
-    "name": "Din Tai Fung 鼎泰豐",
+    "name": "Din Tai Fung \u9f0e\u6cf0\u8c50",
     "slug": "dintaifung",
     "category": "restaurant",
     "metros": [
@@ -632,7 +632,7 @@
     "toastUrl": "https://order.toasttab.com/online/elliottbaybrewing-westseattle"
   },
   {
-    "name": "Café Hitchcock Seattle Cafe Hitchcock (SEA)",
+    "name": "Caf\u00e9 Hitchcock Seattle Cafe Hitchcock (SEA)",
     "slug": "cafhitchcockseattlecafehitchcocksea",
     "category": "cafe",
     "metros": [
@@ -911,7 +911,7 @@
     "toastUrl": "https://order.toasttab.com/online/the-bellevue-chicago"
   },
   {
-    "name": "Order Virundhu Bawarchi - Bellevue Online",
+    "name": "Virundhu Bawarchi - Bellevue",
     "slug": "ordervirundhubawarchi-bellevueonline",
     "category": "restaurant",
     "metros": [
@@ -1594,7 +1594,7 @@
     "toastUrl": "https://order.toasttab.com/online/leyu-ethiopian-restaurant"
   },
   {
-    "name": "Bolé Ethiopian Cuisine Como",
+    "name": "Bol\u00e9 Ethiopian Cuisine Como",
     "slug": "bolethiopiancuisinecomo",
     "category": "african",
     "metros": [
@@ -2101,7 +2101,7 @@
     "websiteOrderUrl": "https://tuttabella.olo.com/menu/tutta-bella-columbia-city/"
   },
   {
-    "name": "Seattle, WA—Wallingford",
+    "name": "Seattle, WA\u2014Wallingford",
     "slug": "seattlewawallingford",
     "category": "restaurant",
     "metros": [
@@ -2110,7 +2110,7 @@
     "websiteOrderUrl": "https://ezellschicken.olo.com/menu/wallingford"
   },
   {
-    "name": "Seattle, WA—Rainier Valley",
+    "name": "Seattle, WA\u2014Rainier Valley",
     "slug": "seattlewarainiervalley",
     "category": "restaurant",
     "metros": [
@@ -2119,7 +2119,7 @@
     "websiteOrderUrl": "https://ezellschicken.olo.com/menu/genesse"
   },
   {
-    "name": "Seattle, WA—Garfield High",
+    "name": "Seattle, WA\u2014Garfield High",
     "slug": "seattlewagarfieldhigh",
     "category": "restaurant",
     "metros": [
@@ -2236,7 +2236,7 @@
     "websiteOrderUrl": "https://ezellschicken.olo.com/menu/federal-way"
   },
   {
-    "name": "ᐅ Seattle Pizza Delivery - Best Pizza Places in Seattle 2026",
+    "name": "\u1405 Seattle Pizza Delivery - Best Pizza Places in Seattle 2026",
     "slug": "seattlepizzadelivery-bestpizzaplacesinse",
     "category": "pizza",
     "metros": [
@@ -2905,7 +2905,7 @@
     "toastUrl": "https://order.toasttab.com/online/juice-bar-norton-commons-10512-meeting-street"
   },
   {
-    "name": "Order Pitfire Pizza Online",
+    "name": "Pitfire Pizza",
     "slug": "orderpitfirepizzaonline",
     "category": "pizza",
     "metros": [

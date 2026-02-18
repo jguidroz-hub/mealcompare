@@ -48,7 +48,7 @@
     ]
   },
   {
-    "name": "Bûcheron",
+    "name": "B\u00fbcheron",
     "slug": "bcheron",
     "category": "restaurant",
     "metros": [
@@ -176,7 +176,7 @@
     ]
   },
   {
-    "name": "Khâluna",
+    "name": "Kh\u00e2luna",
     "slug": "khluna",
     "category": "restaurant",
     "metros": [
@@ -344,7 +344,7 @@
     ]
   },
   {
-    "name": "Savouré Vietnamese Eatery",
+    "name": "Savour\u00e9 Vietnamese Eatery",
     "slug": "savourvietnameseeatery",
     "category": "vietnamese",
     "metros": [
@@ -724,15 +724,6 @@
     "toastUrl": "https://order.toasttab.com/online/nwauptown"
   },
   {
-    "name": "Order Confirmation",
-    "slug": "orderconfirmation",
-    "category": "pizza",
-    "metros": [
-      "minneapolis"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/uptown-pizza-323-west-lake-street/confirm"
-  },
-  {
     "name": "Angie's Soul Cafe Uptown",
     "slug": "angiessoulcafeuptown",
     "category": "cafe",
@@ -1020,7 +1011,7 @@
     "toastUrl": "https://order.toasttab.com/online/tana-ethiopian-cuisine-5929-baum-blvd"
   },
   {
-    "name": "Bolé Ethiopian Cuisine Como",
+    "name": "Bol\u00e9 Ethiopian Cuisine Como",
     "slug": "bolethiopiancuisinecomo",
     "category": "african",
     "metros": [
@@ -1407,7 +1398,7 @@
     "websiteOrderUrl": "https://order.online/store/mezcal-restaurante-and-taqueria-minneapolis-23831024/"
   },
   {
-    "name": "McDonald's 4435 Lyndale Ave N – Order pickup and delivery",
+    "name": "McDonald's 4435 Lyndale Ave N \u2013 Order pickup and delivery",
     "slug": "mcdonalds4435lyndaleavenorderpickupandde",
     "category": "deli",
     "metros": [
@@ -1416,7 +1407,7 @@
     "websiteOrderUrl": "https://order.online/store/mcdonalds-684268/"
   },
   {
-    "name": "McDonald's 916 W Broadway Ave – Order pickup and delivery",
+    "name": "McDonald's 916 W Broadway Ave \u2013 Order pickup and delivery",
     "slug": "mcdonalds916wbroadwayaveorderpickupandde",
     "category": "deli",
     "metros": [
@@ -1553,7 +1544,7 @@
     ]
   },
   {
-    "name": "Minneapolis - Fogo de Chão",
+    "name": "Minneapolis - Fogo de Ch\u00e3o",
     "slug": "minneapolis-fogodecho",
     "category": "restaurant",
     "metros": [

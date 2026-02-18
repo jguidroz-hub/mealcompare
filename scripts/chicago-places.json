@@ -522,7 +522,7 @@
     "website": "https://daymakeratx.com/"
   },
   {
-    "name": "Café No Sé",
+    "name": "Caf\u00e9 No S\u00e9",
     "slug": "cafnos",
     "category": "cafe",
     "metros": [
@@ -839,7 +839,7 @@
     ]
   },
   {
-    "name": "Obélix",
+    "name": "Ob\u00e9lix",
     "slug": "oblix",
     "category": "restaurant",
     "metros": [
@@ -903,7 +903,7 @@
     ]
   },
   {
-    "name": "Rubi’s Tacos",
+    "name": "Rubi\u2019s Tacos",
     "slug": "rubistacos",
     "category": "mexican",
     "metros": [
@@ -1039,7 +1039,7 @@
     ]
   },
   {
-    "name": "Mild 2 Spicy – Modern Indian Restaurant",
+    "name": "Mild 2 Spicy \u2013 Modern Indian Restaurant",
     "slug": "mild2spicymodernindianrestaurant",
     "category": "indian",
     "metros": [
@@ -1335,7 +1335,7 @@
     ]
   },
   {
-    "name": "Cantón Regio",
+    "name": "Cant\u00f3n Regio",
     "slug": "cantnregio",
     "category": "restaurant",
     "metros": [
@@ -1479,15 +1479,6 @@
     "metros": [
       "chicago"
     ]
-  },
-  {
-    "name": "Order Food Online - American (New) Restaurant in Los ...",
-    "slug": "orderfoodonline-americannewrestaurantinl",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/28003/locations"
   },
   {
     "name": "West of Chicago Pizza Company",
@@ -1868,7 +1859,7 @@
     "toastUrl": "https://order.toasttab.com/online/lula-cafe-2537-n-kedzie-blvd"
   },
   {
-    "name": "Zocalo - ZÓCALO",
+    "name": "Zocalo - Z\u00d3CALO",
     "slug": "zocalo-z-calo",
     "category": "restaurant",
     "metros": [
@@ -2210,15 +2201,6 @@
     "toastUrl": "https://order.toasttab.com/online/wasabi-ramen-llc"
   },
   {
-    "name": "Order Online | La Boulangerie & Co – Logan Square",
-    "slug": "order-online-la-boulangerie-co-logan-square",
-    "category": "restaurant",
-    "metros": [
-      "chicago"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/la-boulangerieandco-logan"
-  },
-  {
     "name": "Pizza Lobo Logan Square",
     "slug": "pizzalobologansquare",
     "category": "pizza",
@@ -2552,7 +2534,7 @@
     "toastUrl": "https://order.toasttab.com/online/irie-jamaican-lakewood"
   },
   {
-    "name": "Sunnin Lebanese Café",
+    "name": "Sunnin Lebanese Caf\u00e9",
     "slug": "sunnin-lebanese-caf",
     "category": "cafe",
     "metros": [
@@ -2633,7 +2615,7 @@
     "toastUrl": "https://order.toasttab.com/online/taza-woodmere"
   },
   {
-    "name": "Order Lebanese Food Online",
+    "name": "Lebanese Food",
     "slug": "orderlebanesefoodonline",
     "category": "restaurant",
     "metros": [
@@ -2750,7 +2732,7 @@
     "toastUrl": "https://order.toasttab.com/online/mediterranean-sandwich-co-downtown"
   },
   {
-    "name": "Order Fatty Philly's N Fries at Lucky's Food Group Online",
+    "name": "Fatty Philly's N Fries at Lucky's Food Group",
     "slug": "orderfattyphillysnfriesatluckysfoodgroup",
     "category": "restaurant",
     "metros": [
@@ -2759,7 +2741,7 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/40577/locations/61600"
   },
   {
-    "name": "Blue Bayou – New Orleans–inspired sports bar in Chicago",
+    "name": "Blue Bayou \u2013 New Orleans\u2013inspired sports bar in Chicago",
     "slug": "bluebayouneworleansinspiredsportsbarinch",
     "category": "restaurant",
     "metros": [
@@ -2844,7 +2826,7 @@
     "squareUrl": "https://thebakehousechicagoroscoe.square.site/"
   },
   {
-    "name": "El Señor De Los Tacos",
+    "name": "El Se\u00f1or De Los Tacos",
     "slug": "elseordelostacos",
     "category": "mexican",
     "metros": [
@@ -3224,7 +3206,7 @@
     "websiteOrderUrl": "https://stansdonuts.olo.com/menu/stans-lake"
   },
   {
-    "name": "Chicago - Fogo de Chão",
+    "name": "Chicago - Fogo de Ch\u00e3o",
     "slug": "chicago-fogodecho",
     "category": "restaurant",
     "metros": [
@@ -3305,7 +3287,7 @@
     "websiteOrderUrl": "https://jenis.olo.com/menu/armitage/categories/53820_85829"
   },
   {
-    "name": "ᐅ Chicago Pizza Delivery - Best Pizza Places in Chicago 2025",
+    "name": "\u1405 Chicago Pizza Delivery - Best Pizza Places in Chicago 2025",
     "slug": "chicagopizzadelivery-bestpizzaplacesinch",
     "category": "pizza",
     "metros": [
@@ -3960,7 +3942,7 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/1329/locations/"
   },
   {
-    "name": "Order Enthaice Thai Kitchen Online",
+    "name": "Enthaice Thai Kitchen",
     "slug": "orderenthaicethaikitchenonline",
     "category": "thai",
     "metros": [

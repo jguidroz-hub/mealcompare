@@ -40,7 +40,7 @@
     ]
   },
   {
-    "name": "Carnevor | Milwaukee’s Premier Steakhouse",
+    "name": "Carnevor | Milwaukee\u2019s Premier Steakhouse",
     "slug": "carnevormilwaukeespremiersteakhouse",
     "category": "steakhouse",
     "metros": [
@@ -96,7 +96,7 @@
     ]
   },
   {
-    "name": "Axolotl Café",
+    "name": "Axolotl Caf\u00e9",
     "slug": "axolotlcaf",
     "category": "cafe",
     "metros": [
@@ -152,7 +152,7 @@
     ]
   },
   {
-    "name": "Centraal Grand Café & Tappery",
+    "name": "Centraal Grand Caf\u00e9 & Tappery",
     "slug": "centraalgrandcaftappery",
     "category": "cafe",
     "metros": [
@@ -1380,7 +1380,7 @@
     "squareUrl": "https://milwaukee-alt.square.site/s/shop"
   },
   {
-    "name": "Order Milwaukee's Best Burgers Online",
+    "name": "Milwaukee's Best Burgers",
     "slug": "ordermilwaukeesbestburgersonline",
     "category": "burgers",
     "metros": [
@@ -1582,15 +1582,6 @@
     "websiteOrderUrl": "https://norms.olo.com/privacy-policy"
   },
   {
-    "name": "Order Solution Suite",
-    "slug": "ordersolutionsuite",
-    "category": "restaurant",
-    "metros": [
-      "milwaukee"
-    ],
-    "websiteOrderUrl": "https://www.olo.com/solutions/order"
-  },
-  {
     "name": "Nomad",
     "slug": "nomad",
     "category": "restaurant",
@@ -1609,7 +1600,7 @@
     "websiteOrderUrl": "https://vientianenoodleshop.getbento.com/online-ordering/"
   },
   {
-    "name": "BLACK SHOE HOSPITALITY – APPLICATION JOB APPLICATION",
+    "name": "BLACK SHOE HOSPITALITY \u2013 APPLICATION JOB APPLICATION",
     "slug": "blackshoehospitalityapplicationjobapplic",
     "category": "mediterranean",
     "metros": [
@@ -2122,7 +2113,7 @@
     "toastUrl": "https://order.toasttab.com/online/merakibistrogrove"
   },
   {
-    "name": "Meráki Greek Grill",
+    "name": "Mer\u00e1ki Greek Grill",
     "slug": "merkigreekgrill",
     "category": "mediterranean",
     "metros": [

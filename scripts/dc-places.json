@@ -287,7 +287,7 @@
     "toastUrl": "https://order.toasttab.com/online/lost-dog-cafe-south-arlington"
   },
   {
-    "name": "RĀKO - Arlington Cafe",
+    "name": "R\u0100KO - Arlington Cafe",
     "slug": "rko-arlingtoncafe",
     "category": "cafe",
     "metros": [
@@ -456,15 +456,6 @@
       "dc"
     ],
     "toastUrl": "https://order.toasttab.com/online/gringos-and-mariachis-bethesda"
-  },
-  {
-    "name": "Order Confirmation",
-    "slug": "orderconfirmation",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/bethesdabagelsfallsgrove/confirm"
   },
   {
     "name": "Bethesda Bagels Locations and Ordering Hours",
@@ -638,7 +629,7 @@
     "toastUrl": "https://order.toasttab.com/online/812-pizza-company"
   },
   {
-    "name": "chīko dupont - dc",
+    "name": "ch\u012bko dupont - dc",
     "slug": "chkodupont-dc",
     "category": "restaurant",
     "metros": [
@@ -800,7 +791,7 @@
     "toastUrl": "https://order.toasttab.com/online/kensington-cafe-4141-adams-ave"
   },
   {
-    "name": "chīko capitol hill - dc",
+    "name": "ch\u012bko capitol hill - dc",
     "slug": "chkocapitolhill-dc",
     "category": "restaurant",
     "metros": [
@@ -1223,7 +1214,7 @@
     "websiteOrderUrl": "https://order.online/store/muzette-karaoke-&-restaurant-washington-666053/"
   },
   {
-    "name": "Etto 1541 14th Street Northwest – Order pickup and delivery",
+    "name": "Etto 1541 14th Street Northwest \u2013 Order pickup and delivery",
     "slug": "etto154114thstreetnorthwestorderpickupan",
     "category": "deli",
     "metros": [
@@ -1232,21 +1223,13 @@
     "websiteOrderUrl": "https://order.online/store/etto-washington-96290"
   },
   {
-    "name": "Wasai 716 7th Street Northwest – Order pickup and delivery",
+    "name": "Wasai 716 7th Street Northwest \u2013 Order pickup and delivery",
     "slug": "wasai7167thstreetnorthwestorderpickupand",
     "category": "deli",
     "metros": [
       "dc"
     ],
     "websiteOrderUrl": "https://order.online/store/wasai-23657497"
-  },
-  {
-    "name": "Order Online - Mangialardo's - Restaurant in Washington, DC",
-    "slug": "orderonline-mangialardos-restaurantinwas",
-    "category": "restaurant",
-    "metros": [
-      "dc"
-    ]
   },
   {
     "name": "Wok and Roll Karaoke - Washington, DC",
@@ -1380,7 +1363,7 @@
     "squareUrl": "https://washington-whirlyball.square.site/"
   },
   {
-    "name": "Savoré",
+    "name": "Savor\u00e9",
     "slug": "savor",
     "category": "restaurant",
     "metros": [
@@ -1566,7 +1549,7 @@
     "websiteOrderUrl": "https://pinstripesbistro.olo.com/menu/pinstripes-georgetown"
   },
   {
-    "name": "Washington DC - Fogo de Chão",
+    "name": "Washington DC - Fogo de Ch\u00e3o",
     "slug": "washingtondc-fogodecho",
     "category": "restaurant",
     "metros": [
@@ -2096,7 +2079,7 @@
     "toastUrl": "https://order.toasttab.com/online/just-greek-142-south-livingston-avenue"
   },
   {
-    "name": "Meráki Greek Grill",
+    "name": "Mer\u00e1ki Greek Grill",
     "slug": "merkigreekgrill",
     "category": "mediterranean",
     "metros": [
@@ -2321,7 +2304,7 @@
     "toastUrl": "https://grillmarxsteakhouserawbar.toast.site/"
   },
   {
-    "name": "Social Eats Café",
+    "name": "Social Eats Caf\u00e9",
     "slug": "socialeats",
     "category": "cafe",
     "metros": [
@@ -2528,7 +2511,7 @@
     "toastUrl": "https://notacosamigo.toast.site/"
   },
   {
-    "name": "Ladurée Bethesda",
+    "name": "Ladur\u00e9e Bethesda",
     "slug": "laduree",
     "category": "restaurant",
     "metros": [
@@ -2922,7 +2905,7 @@
     "toastUrl": "https://winnerbakery.toast.site/"
   },
   {
-    "name": "Ladurée DC",
+    "name": "Ladur\u00e9e DC",
     "slug": "ladurreedc",
     "category": "restaurant",
     "metros": [

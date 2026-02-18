@@ -176,7 +176,7 @@
     ]
   },
   {
-    "name": "Noodle Story小面故事",
+    "name": "Noodle Story\u5c0f\u9762\u6545\u4e8b",
     "slug": "noodlestory",
     "category": "chinese",
     "metros": [
@@ -320,7 +320,7 @@
     ]
   },
   {
-    "name": "1860 Saloon, Game Room, & Hardshell Café",
+    "name": "1860 Saloon, Game Room, & Hardshell Caf\u00e9",
     "slug": "1860saloongameroomhardshellcaf",
     "category": "cafe",
     "metros": [
@@ -627,7 +627,7 @@
     "toastUrl": "https://order.toasttab.com/online/margaux-s-pizza-and-wine-316-main-street"
   },
   {
-    "name": "Mo's Pizza 1112 Ave H",
+    "name": "Mo's Pizza",
     "slug": "mospizza1112aveh",
     "category": "pizza",
     "metros": [
@@ -1760,7 +1760,7 @@
     "websiteOrderUrl": "https://order.online/store/johnny's-food-mart-st.-louis-1349753"
   },
   {
-    "name": "Brasserie St-Louis 2925 Québec 132",
+    "name": "Brasserie St-Louis 2925 Qu\u00e9bec 132",
     "slug": "brasseriest-louis2925qubec132",
     "category": "restaurant",
     "metros": [
@@ -2167,7 +2167,7 @@
     "websiteOrderUrl": "https://www.ezcater.com/brand/exquisite-catering-st-louis"
   },
   {
-    "name": "ezCater’s top picks: Best catering in St. Louis",
+    "name": "ezCater\u2019s top picks: Best catering in St. Louis",
     "slug": "ezcaterstoppicksbestcateringinstlouis",
     "category": "restaurant",
     "metros": [

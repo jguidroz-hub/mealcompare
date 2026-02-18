@@ -40,7 +40,7 @@
     ]
   },
   {
-    "name": "Schmidt’s Sausage Haus Restaurant",
+    "name": "Schmidt\u2019s Sausage Haus Restaurant",
     "slug": "schmidtssausagehausrestaurant",
     "category": "restaurant",
     "metros": [
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "name": "Hofbräuhaus Columbus",
+    "name": "Hofbr\u00e4uhaus Columbus",
     "slug": "hofbruhauscolumbus",
     "category": "restaurant",
     "metros": [
@@ -905,7 +905,7 @@
     "toastUrl": "https://order.toasttab.com/online/leyu-ethiopian-restaurant"
   },
   {
-    "name": "Bolé Ethiopian Cuisine Como",
+    "name": "Bol\u00e9 Ethiopian Cuisine Como",
     "slug": "bolethiopiancuisinecomo",
     "category": "african",
     "metros": [
@@ -1376,15 +1376,6 @@
     "websiteOrderUrl": "https://www.olo.com/switchboard"
   },
   {
-    "name": "Order Solution Suite",
-    "slug": "ordersolutionsuite",
-    "category": "restaurant",
-    "metros": [
-      "columbus"
-    ],
-    "websiteOrderUrl": "https://www.olo.com/solutions/order"
-  },
-  {
     "name": "Olo Sync",
     "slug": "olosync",
     "category": "restaurant",
@@ -1448,7 +1439,7 @@
     "websiteOrderUrl": "https://www.olo.com/host"
   },
   {
-    "name": "ᐅ Best Local Italian Sub in Columbus, Ohio",
+    "name": "\u1405 Best Local Italian Sub in Columbus, Ohio",
     "slug": "bestlocalitaliansubincolumbusohio",
     "category": "deli",
     "metros": [
@@ -1619,7 +1610,7 @@
     "toastUrl": "https://order.toasttab.com/online/bakery-x"
   },
   {
-    "name": "The Cottage Bakery & Café LLC",
+    "name": "The Cottage Bakery & Caf\u00e9 LLC",
     "slug": "thecottagebakerycafllc",
     "category": "cafe",
     "metros": [

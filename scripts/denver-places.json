@@ -1181,15 +1181,6 @@
     "toastUrl": "https://order.toasttab.com/online/poke-house-denver"
   },
   {
-    "name": "Order Confirmation",
-    "slug": "orderconfirmation",
-    "category": "restaurant",
-    "metros": [
-      "denver"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/poke-house-denver/confirm"
-  },
-  {
     "name": "Poke Me",
     "slug": "poke-me",
     "category": "japanese",
@@ -1513,7 +1504,7 @@
     "websiteOrderUrl": "https://order.online/store/FatShack-54601"
   },
   {
-    "name": "Pho & Bar 1600 East 17th Avenue – Order pickup and delivery",
+    "name": "Pho & Bar 1600 East 17th Avenue \u2013 Order pickup and delivery",
     "slug": "phobar1600east17thavenueorderpickupandde",
     "category": "deli",
     "metros": [
@@ -1522,7 +1513,7 @@
     "websiteOrderUrl": "https://order.online/store/pho-&-bar-denver-28094045/"
   },
   {
-    "name": "Pho 15 665 East 70th Avenue – Order pickup and delivery",
+    "name": "Pho 15 665 East 70th Avenue \u2013 Order pickup and delivery",
     "slug": "pho15665east70thavenueorderpickupanddeli",
     "category": "deli",
     "metros": [
@@ -1599,7 +1590,7 @@
     "squareUrl": "https://cookingwithacrown.square.site/"
   },
   {
-    "name": "Order Italian Food in Denver Online",
+    "name": "Italian Food in Denver",
     "slug": "orderitalianfoodindenveronline",
     "category": "italian",
     "metros": [
@@ -1794,7 +1785,7 @@
     "websiteOrderUrl": "https://twinpeaksrestaurant.olo.com/menu/twin-peaks-altamonte-springs"
   },
   {
-    "name": "Denver - Fogo de Chão",
+    "name": "Denver - Fogo de Ch\u00e3o",
     "slug": "denver-fogodecho",
     "category": "restaurant",
     "metros": [
@@ -1865,7 +1856,7 @@
     "websiteOrderUrl": "https://fuzzystacoshop.olo.com/menu/denver-co-central-park/products/12176491"
   },
   {
-    "name": "ᐅ Denver Pizza Delivery - Best Pizza Places in Denver 2025",
+    "name": "\u1405 Denver Pizza Delivery - Best Pizza Places in Denver 2025",
     "slug": "denverpizzadelivery-bestpizzaplacesinden",
     "category": "pizza",
     "metros": [
@@ -2170,7 +2161,7 @@
     "toastUrl": "https://order.toasttab.com/online/call-your-mother-denver-hilltop"
   },
   {
-    "name": "Lindsay's Boulder Deli @ Häagen-Dazs",
+    "name": "Lindsay's Boulder Deli @ H\u00e4agen-Dazs",
     "slug": "lindsaysboulderdelihagen-dazs",
     "category": "deli",
     "metros": [
@@ -2503,7 +2494,7 @@
     "toastUrl": "https://order.toasttab.com/online/famous-toastery-denver"
   },
   {
-    "name": "Order Fresh Gluten-Free Pastries & Sandwiches Online",
+    "name": "Fresh Gluten-Free Pastries & Sandwiches",
     "slug": "orderfreshgluten-freepastriessandwicheso",
     "category": "deli",
     "metros": [
@@ -2620,7 +2611,7 @@
     "toastUrl": "https://order.toasttab.com/online/juice-bar-norton-commons-10512-meeting-street"
   },
   {
-    "name": "Order DiFrancos Restaurant Online - Pizza ...",
+    "name": "DiFrancos Restaurant",
     "slug": "orderdifrancosrestaurantonline-pizza",
     "category": "pizza",
     "metros": [

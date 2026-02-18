@@ -104,7 +104,7 @@
     ]
   },
   {
-    "name": "Amélie's French Bakery & Café",
+    "name": "Am\u00e9lie's French Bakery & Caf\u00e9",
     "slug": "amliesfrenchbakerycaf",
     "category": "cafe",
     "metros": [
@@ -120,7 +120,7 @@
     ]
   },
   {
-    "name": "Artisan’s Palate",
+    "name": "Artisan\u2019s Palate",
     "slug": "artisanspalate",
     "category": "restaurant",
     "metros": [
@@ -288,7 +288,7 @@
     ]
   },
   {
-    "name": "The Workman’s Friend",
+    "name": "The Workman\u2019s Friend",
     "slug": "theworkmansfriend",
     "category": "restaurant",
     "metros": [
@@ -1060,7 +1060,7 @@
     "toastUrl": "https://order.toasttab.com/online/burgercity"
   },
   {
-    "name": "Sunnin Lebanese Café",
+    "name": "Sunnin Lebanese Caf\u00e9",
     "slug": "sunnin-lebanese-caf",
     "category": "cafe",
     "metros": [
@@ -1096,7 +1096,7 @@
     "toastUrl": "https://order.toasttab.com/online/taza-downtown"
   },
   {
-    "name": "Order Lebanese Food Online",
+    "name": "Lebanese Food",
     "slug": "orderlebanesefoodonline",
     "category": "restaurant",
     "metros": [
@@ -1158,7 +1158,7 @@
     ]
   },
   {
-    "name": "The Corner Pub – Uptown Charlotte Bar & Restaurant",
+    "name": "The Corner Pub \u2013 Uptown Charlotte Bar & Restaurant",
     "slug": "thecornerpubuptowncharlottebarrestaurant",
     "category": "restaurant",
     "metros": [
@@ -1676,7 +1676,7 @@
     "websiteOrderUrl": "https://www.getbento.com/products/online-ordering/"
   },
   {
-    "name": "LUMIÈRE",
+    "name": "LUMI\u00c8RE",
     "slug": "lumire",
     "category": "restaurant",
     "metros": [
@@ -2178,7 +2178,7 @@
     "toastUrl": "https://order.toasttab.com/online/greko-greek-street-food"
   },
   {
-    "name": "Meráki Greek Grill",
+    "name": "Mer\u00e1ki Greek Grill",
     "slug": "merkigreekgrill",
     "category": "mediterranean",
     "metros": [

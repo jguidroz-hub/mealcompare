@@ -16,7 +16,7 @@
     ]
   },
   {
-    "name": "Freddy’s Chophouse",
+    "name": "Freddy\u2019s Chophouse",
     "slug": "freddyschophouse",
     "category": "steakhouse",
     "metros": [
@@ -192,7 +192,7 @@
     ]
   },
   {
-    "name": "Carbon Angela’s Kitchen",
+    "name": "Carbon Angela\u2019s Kitchen",
     "slug": "carbonangelaskitchen",
     "category": "restaurant",
     "metros": [
@@ -1608,7 +1608,7 @@
     "toastUrl": "https://order.toasttab.com/online/chang-thai-1232-emmet-st-n"
   },
   {
-    "name": "Order Gyu-kaku Japanese BBQ - San Diego, CA Online",
+    "name": "Gyu-kaku Japanese BBQ - San Diego, CA",
     "slug": "ordergyu-kakujapanesebbq-sandiegocaonlin",
     "category": "japanese",
     "metros": [
@@ -1877,7 +1877,7 @@
     "websiteOrderUrl": "https://saltandstraw.olo.com/menu/salt-straw-one-paseo"
   },
   {
-    "name": "Randy’s Donuts Aero Drive",
+    "name": "Randy\u2019s Donuts Aero Drive",
     "slug": "randysdonutsaerodrive",
     "category": "bakery",
     "metros": [
@@ -1973,7 +1973,7 @@
     "websiteOrderUrl": "https://istanbul-doner-kebab.getbento.com/online-ordering/"
   },
   {
-    "name": "Bánh Mì Hội An - Vietnamese restaurant in San Diego, CA",
+    "name": "B\u00e1nh M\u00ec H\u1ed9i An - Vietnamese restaurant in San Diego, CA",
     "slug": "bnhmhian-vietnameserestaurantinsandiegoc",
     "category": "vietnamese",
     "metros": [
@@ -2516,7 +2516,7 @@
     "toastUrl": "https://order.toasttab.com/online/grab-go-one-american-plaza-downtown-san-diego-600-w-broadway-st"
   },
   {
-    "name": "Zinqué (zin-kae) San Diego",
+    "name": "Zinqu\u00e9 (zin-kae) San Diego",
     "slug": "zinquzin-kaesandiego",
     "category": "restaurant",
     "metros": [

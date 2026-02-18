@@ -158,7 +158,7 @@
     "website": "http://www.iloveroost.com/"
   },
   {
-    "name": "Little’s Oyster Bar",
+    "name": "Little\u2019s Oyster Bar",
     "slug": "littlesoysterbar",
     "category": "seafood",
     "metros": [
@@ -264,7 +264,7 @@
     "website": "http://moonrabbithtx.com/"
   },
   {
-    "name": "Jūn",
+    "name": "J\u016bn",
     "slug": "jn",
     "category": "restaurant",
     "metros": [
@@ -405,7 +405,7 @@
     "squareUrl": "https://lesbaget.square.site"
   },
   {
-    "name": "Lúa Viet Kitchen",
+    "name": "L\u00faa Viet Kitchen",
     "slug": "lavietkitchen",
     "category": "restaurant",
     "metros": [
@@ -654,15 +654,6 @@
     "metros": [
       "houston"
     ]
-  },
-  {
-    "name": "Order Food Online - American (New) Restaurant in Los ...",
-    "slug": "orderfoodonline-americannewrestaurantinl",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/28003/locations"
   },
   {
     "name": "Pastel Pizza - Houston Houston",
@@ -1169,7 +1160,7 @@
     "toastUrl": "https://order.toasttab.com/online/dripped-birria-midtown"
   },
   {
-    "name": "Zócalo Midtown Restaurant",
+    "name": "Z\u00f3calo Midtown Restaurant",
     "slug": "zcalomidtownrestaurant",
     "category": "restaurant",
     "metros": [
@@ -1652,14 +1643,6 @@
     ]
   },
   {
-    "name": "Order Online - The Back Porch - Restaurant in Kilgore, TX",
-    "slug": "orderonline-thebackporch-restaurantinkil",
-    "category": "restaurant",
-    "metros": [
-      "houston"
-    ]
-  },
-  {
     "name": "Reducing food waste: 11 strategies any restaurant can use",
     "slug": "reducingfoodwaste11strategiesanyrestaura",
     "category": "restaurant",
@@ -1668,7 +1651,7 @@
     ]
   },
   {
-    "name": "Latitude 26°",
+    "name": "Latitude 26\u00b0",
     "slug": "latitude26",
     "category": "restaurant",
     "metros": [
@@ -1955,7 +1938,7 @@
     "websiteOrderUrl": "https://parlordoughnuts.olo.com/menu/parlor-doughnuts-houston-nasa"
   },
   {
-    "name": "J. Alexander’s Houston, TX",
+    "name": "J. Alexander\u2019s Houston, TX",
     "slug": "jalexandershoustontx",
     "category": "restaurant",
     "metros": [
@@ -2081,7 +2064,7 @@
     "websiteOrderUrl": "https://goldenchick.olo.com/menu/golden-chick-houston-spears-rd"
   },
   {
-    "name": "ᐅ Houston Pizza Delivery - Best Pizza Places in Houston 2026",
+    "name": "\u1405 Houston Pizza Delivery - Best Pizza Places in Houston 2026",
     "slug": "houstonpizzadelivery-bestpizzaplacesinho",
     "category": "pizza",
     "metros": [
@@ -2169,7 +2152,7 @@
     ]
   },
   {
-    "name": "Señor Burrito Drives 150% More Orders With BentoBox & Clover",
+    "name": "Se\u00f1or Burrito Drives 150% More Orders With BentoBox & Clover",
     "slug": "seorburritodrives150moreorderswithbentob",
     "category": "mexican",
     "metros": [

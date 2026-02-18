@@ -200,7 +200,7 @@
     ]
   },
   {
-    "name": "beppé",
+    "name": "bepp\u00e9",
     "slug": "bepp",
     "category": "restaurant",
     "metros": [
@@ -1504,7 +1504,7 @@
     "toastUrl": "https://order.toasttab.com/online/uptown-sushi"
   },
   {
-    "name": "Detroit Eatery 200 5th Avenue – Order pickup and delivery",
+    "name": "Detroit Eatery 200 5th Avenue \u2013 Order pickup and delivery",
     "slug": "detroiteatery2005thavenueorderpickupandd",
     "category": "deli",
     "metros": [
@@ -1520,14 +1520,6 @@
       "detroit"
     ],
     "websiteOrderUrl": "https://hub-41.popmenu.com/menus/our-menu"
-  },
-  {
-    "name": "Order Online - Hub 41 - Restaurant in Detroit Lakes, MN",
-    "slug": "orderonline-hub41-restaurantindetroitlak",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ]
   },
   {
     "name": "Home - Social Brews",
@@ -1910,15 +1902,6 @@
     "websiteOrderUrl": "https://www.olo.com/host"
   },
   {
-    "name": "Order Solution Suite",
-    "slug": "ordersolutionsuite",
-    "category": "restaurant",
-    "metros": [
-      "detroit"
-    ],
-    "websiteOrderUrl": "https://www.olo.com/solutions/order"
-  },
-  {
     "name": "Norms Claremont",
     "slug": "normsclaremont",
     "category": "restaurant",
@@ -1990,7 +1973,7 @@
     "websiteOrderUrl": "https://norms.olo.com/menu/norms-riverside"
   },
   {
-    "name": "ᐅ Detroit Pizza Delivery - Best Pizza Places in Detroit 2025",
+    "name": "\u1405 Detroit Pizza Delivery - Best Pizza Places in Detroit 2025",
     "slug": "detroitpizzadelivery-bestpizzaplacesinde",
     "category": "pizza",
     "metros": [
@@ -2098,7 +2081,7 @@
     "websiteOrderUrl": "https://www.ezcater.com/brand/detroit-eatery"
   },
   {
-    "name": "ezCater’s top picks: Best catering in Detroit",
+    "name": "ezCater\u2019s top picks: Best catering in Detroit",
     "slug": "ezcaterstoppicksbestcateringindetroit",
     "category": "restaurant",
     "metros": [

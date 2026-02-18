@@ -121,7 +121,7 @@
     "website": "https://www.southcitykitchen.com/"
   },
   {
-    "name": "El Viñedo Local",
+    "name": "El Vi\u00f1edo Local",
     "slug": "elviedolocal",
     "category": "restaurant",
     "metros": [
@@ -1351,7 +1351,7 @@
     "toastUrl": "https://order.toasttab.com/online/bench-warmers-sports-grill-atlanta"
   },
   {
-    "name": "Sunnin Lebanese Café",
+    "name": "Sunnin Lebanese Caf\u00e9",
     "slug": "sunnin-lebanese-caf",
     "category": "cafe",
     "metros": [
@@ -1423,7 +1423,7 @@
     "toastUrl": "https://order.toasttab.com/online/sittoos-north-olmsted"
   },
   {
-    "name": "Order Lebanese Food Online",
+    "name": "Lebanese Food",
     "slug": "orderlebanesefoodonline",
     "category": "restaurant",
     "metros": [
@@ -1660,7 +1660,7 @@
     "websiteOrderUrl": "https://twinpeaksrestaurant.olo.com/menu/twin-peaks-buckhead"
   },
   {
-    "name": "Atlanta - Fogo de Chão",
+    "name": "Atlanta - Fogo de Ch\u00e3o",
     "slug": "atlanta-fogodecho",
     "category": "restaurant",
     "metros": [
@@ -1785,7 +1785,7 @@
     "websiteOrderUrl": "https://marlowstavern.olo.com/menu/marlows-tavern-midtown/products/44783652"
   },
   {
-    "name": "ᐅ Atlanta Pizza Delivery - Best Pizza Places in Atlanta 2025",
+    "name": "\u1405 Atlanta Pizza Delivery - Best Pizza Places in Atlanta 2025",
     "slug": "atlantapizzadelivery-bestpizzaplacesinat",
     "category": "pizza",
     "metros": [
@@ -1830,7 +1830,7 @@
     "websiteOrderUrl": "https://eatwhiskeybird.getbento.com/little-bird-atlanta-takeout/"
   },
   {
-    "name": "Private Dining Accolades Atlanta Magazine​: Best of Atlanta",
+    "name": "Private Dining Accolades Atlanta Magazine\u200b: Best of Atlanta",
     "slug": "privatediningaccoladesatlantamagazinebes",
     "category": "restaurant",
     "metros": [
@@ -2060,7 +2060,7 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/gyro-bros-atlanta/D2KNS1ZRHGCQ2"
   },
   {
-    "name": "Order Mi Barrio Online - Mexican Restaurant in Atlanta, GA",
+    "name": "Mi Barrio",
     "slug": "ordermibarrioonline-mexicanrestaurantina",
     "category": "mexican",
     "metros": [

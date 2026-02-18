@@ -30,6 +30,7 @@ export default function Home() {
             <Link href="/restaurants" style={{ color: '#10b981', textDecoration: 'none', fontSize: 14, fontWeight: 600 }}>Restaurants</Link>
             <Link href="/favorites" style={{ color: '#64748b', textDecoration: 'none', fontSize: 14, fontWeight: 500 }}>❤️</Link>
             <Link href="/for-restaurants" style={{ color: '#3b82f6', textDecoration: 'none', fontSize: 14, fontWeight: 600 }}>For Restaurants</Link>
+            <Link href="/get-direct-ordering" className="desktop-only" style={{ color: '#f59e0b', textDecoration: 'none', fontSize: 14, fontWeight: 600 }}>Get Direct Ordering</Link>
             <Link href="/install" className="btn-glow" style={{ padding: '8px 20px', fontSize: 13, borderRadius: 10 }}>
               Install Free
             </Link>

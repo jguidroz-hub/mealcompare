@@ -498,7 +498,7 @@
     "website": "http://www.tascatapas.com/"
   },
   {
-    "name": "Kaju Korean Cuisine — Allston",
+    "name": "Kaju Korean Cuisine \u2014 Allston",
     "slug": "kajukoreancuisineallston",
     "category": "korean",
     "metros": [
@@ -558,7 +558,7 @@
     "website": "http://www.myersandchang.com/"
   },
   {
-    "name": "Shōjō Boston",
+    "name": "Sh\u014dj\u014d Boston",
     "slug": "shjboston",
     "category": "restaurant",
     "metros": [
@@ -1648,15 +1648,6 @@
     "toastUrl": "https://order.toasttab.com/online/the-village-kitchen-359-huron-ave"
   },
   {
-    "name": "order online - inman square",
-    "slug": "orderonline-inmansquare",
-    "category": "restaurant",
-    "metros": [
-      "boston"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/bomdough"
-  },
-  {
     "name": "catalyst restaurant",
     "slug": "catalystrestaurant",
     "category": "restaurant",
@@ -2188,15 +2179,6 @@
     "toastUrl": "https://order.toasttab.com/online/cabovegan"
   },
   {
-    "name": "Order Online – Delivery & Pick-Up",
-    "slug": "orderonlinedeliverypick-up",
-    "category": "deli",
-    "metros": [
-      "boston"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/esquinacubana"
-  },
-  {
     "name": "Cachita Cuban Cuisine",
     "slug": "cachita-cuban-cuisine",
     "category": "latin",
@@ -2251,7 +2233,7 @@
     "toastUrl": "https://order.toasttab.com/online/paladar-cuban-eatery"
   },
   {
-    "name": "Cuban Paradise Cigar & Café",
+    "name": "Cuban Paradise Cigar & Caf\u00e9",
     "slug": "cubanparadisecigarcaf",
     "category": "cafe",
     "metros": [
@@ -2332,7 +2314,7 @@
     "toastUrl": "https://order.toasttab.com/online/wings-and-burgers-1733-west-mississippi-avenue"
   },
   {
-    "name": "Row 34 383 Congress Street – Order pickup and delivery",
+    "name": "Row 34 383 Congress Street \u2013 Order pickup and delivery",
     "slug": "row34383congressstreetorderpickupanddeli",
     "category": "deli",
     "metros": [
@@ -2428,7 +2410,7 @@
     "websiteOrderUrl": "https://pressedcafecatering.olo.com/menu/pressed-caf-catering-newton"
   },
   {
-    "name": "Boston - Fogo de Chão",
+    "name": "Boston - Fogo de Ch\u00e3o",
     "slug": "boston-fogodecho",
     "category": "restaurant",
     "metros": [
@@ -2454,7 +2436,7 @@
     ]
   },
   {
-    "name": "Lee’s Sandwiches Worcester",
+    "name": "Lee\u2019s Sandwiches Worcester",
     "slug": "lee-s-sandwiches-worcester",
     "category": "deli",
     "metros": [
@@ -2490,7 +2472,7 @@
     "websiteOrderUrl": "https://eataly.olo.com/menu/eataly-boston-2/products/64108296"
   },
   {
-    "name": "ᐅ Boston Pizza Delivery - Best Pizza Places in Boston 2025",
+    "name": "\u1405 Boston Pizza Delivery - Best Pizza Places in Boston 2025",
     "slug": "bostonpizzadelivery-bestpizzaplacesinbos",
     "category": "pizza",
     "metros": [
@@ -2862,7 +2844,7 @@
     "toastUrl": "https://order.toasttab.com/online/harbour-restaurant"
   },
   {
-    "name": "ᐅ Newton Pizza Delivery - Best Pizza Places in Newton 2026",
+    "name": "\u1405 Newton Pizza Delivery - Best Pizza Places in Newton 2026",
     "slug": "newtonpizzadelivery-bestpizzaplacesinnew",
     "category": "pizza",
     "metros": [
@@ -2961,7 +2943,7 @@
     "toastUrl": "https://order.toasttab.com/online/d-b-deli-the-mill-2636-w-north-avenue"
   },
   {
-    "name": "Atlantic Poké Marlborough 237 Boston Post Road West",
+    "name": "Atlantic Pok\u00e9 Marlborough 237 Boston Post Road West",
     "slug": "atlanticpokmarlborough237bostonpostroadw",
     "category": "poke",
     "metros": [

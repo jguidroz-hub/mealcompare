@@ -121,7 +121,7 @@
     "website": "http://osteriaama-philly.com/"
   },
   {
-    "name": "Wm. Mulherin’s Sons",
+    "name": "Wm. Mulherin\u2019s Sons",
     "slug": "wmmulherinssons",
     "category": "restaurant",
     "metros": [
@@ -232,7 +232,7 @@
     "websiteOrderUrl": "https://order.online/store/ember--ash-1441998"
   },
   {
-    "name": "Le Virtù",
+    "name": "Le Virt\u00f9",
     "slug": "levirt",
     "category": "restaurant",
     "metros": [
@@ -292,7 +292,7 @@
     "website": "http://rexphl.com/"
   },
   {
-    "name": "Bucatini Caffè",
+    "name": "Bucatini Caff\u00e8",
     "slug": "bucatinicaff",
     "category": "restaurant",
     "metros": [
@@ -486,7 +486,7 @@
     "website": "https://mawnphilly.com/"
   },
   {
-    "name": "EMei 峨嵋",
+    "name": "EMei \u5ce8\u5d4b",
     "slug": "emei",
     "category": "restaurant",
     "metros": [
@@ -1368,7 +1368,7 @@
     "toastUrl": "https://order.toasttab.com/online/das-ethiopian-cuisine"
   },
   {
-    "name": "Bolé Ethiopian Cuisine Como",
+    "name": "Bol\u00e9 Ethiopian Cuisine Como",
     "slug": "bolethiopiancuisinecomo",
     "category": "african",
     "metros": [
@@ -1606,7 +1606,7 @@
     "squareUrl": "https://philsgrille.square.site/"
   },
   {
-    "name": "Forîn Café",
+    "name": "For\u00een Caf\u00e9",
     "slug": "forncaf",
     "category": "cafe",
     "metros": [
@@ -1807,7 +1807,7 @@
     "websiteOrderUrl": "https://oceanprime.olo.com/menu/ocean-prime-philadelphia"
   },
   {
-    "name": "Philadelphia - Fogo de Chão",
+    "name": "Philadelphia - Fogo de Ch\u00e3o",
     "slug": "philadelphia-fogodecho",
     "category": "restaurant",
     "metros": [
@@ -2139,7 +2139,7 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/imperialseafoodpa"
   },
   {
-    "name": "Avenues Café",
+    "name": "Avenues Caf\u00e9",
     "slug": "avenues-caf",
     "category": "cafe",
     "metros": [
@@ -2850,7 +2850,7 @@
     "toastUrl": "https://order.toasttab.com/online/juiceportal"
   },
   {
-    "name": "Order Perry's Pizza Online",
+    "name": "Perry's Pizza",
     "slug": "orderperryspizzaonline",
     "category": "pizza",
     "metros": [

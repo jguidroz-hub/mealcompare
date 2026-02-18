@@ -280,7 +280,7 @@
     ]
   },
   {
-    "name": "Hofbräuhaus Pittsburgh",
+    "name": "Hofbr\u00e4uhaus Pittsburgh",
     "slug": "hofbruhauspittsburgh",
     "category": "restaurant",
     "metros": [
@@ -360,7 +360,7 @@
     ]
   },
   {
-    "name": "Caffé Mona Strip District",
+    "name": "Caff\u00e9 Mona Strip District",
     "slug": "caffmonastripdistrict",
     "category": "restaurant",
     "metros": [
@@ -368,7 +368,7 @@
     ]
   },
   {
-    "name": "Café Momentum Pittsburgh",
+    "name": "Caf\u00e9 Momentum Pittsburgh",
     "slug": "cafmomentumpittsburgh",
     "category": "cafe",
     "metros": [
@@ -646,7 +646,7 @@
     "toastUrl": "https://order.toasttab.com/online/gustossalad"
   },
   {
-    "name": "Gran Canal Caffé 1021 North Canal Street Pittsburgh, PA ...",
+    "name": "Gran Canal Caff\u00e9 1021 North Canal Street Pittsburgh, PA ...",
     "slug": "grancanalcaff1021northcanalstreetpittsbu",
     "category": "restaurant",
     "metros": [
@@ -1006,15 +1006,6 @@
     "toastUrl": "https://order.toasttab.com/online/qbacubankitchen"
   },
   {
-    "name": "Order Online – Delivery & Pick-Up",
-    "slug": "orderonlinedeliverypick-up",
-    "category": "deli",
-    "metros": [
-      "pittsburgh"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/esquinacubana"
-  },
-  {
     "name": "Candela Cuban Cafe",
     "slug": "candelacubancafe",
     "category": "cafe",
@@ -1051,7 +1042,7 @@
     "toastUrl": "https://order.toasttab.com/online/santiagos-2023-3-main-street"
   },
   {
-    "name": "Cuban Paradise Cigar & Café",
+    "name": "Cuban Paradise Cigar & Caf\u00e9",
     "slug": "cubanparadisecigarcaf",
     "category": "cafe",
     "metros": [
@@ -2003,7 +1994,7 @@
     "websiteOrderUrl": "https://familyexpress.olo.com/menu/hebron"
   },
   {
-    "name": "ᐅ Best Local Sandwiches in Pittsburgh, Pennsylvania",
+    "name": "\u1405 Best Local Sandwiches in Pittsburgh, Pennsylvania",
     "slug": "bestlocalsandwichesinpittsburghpennsylva",
     "category": "deli",
     "metros": [
@@ -2678,7 +2669,7 @@
     "toastUrl": "https://order.toasttab.com/online/fresco-juice-co"
   },
   {
-    "name": "Order Pitfire Pizza Online",
+    "name": "Pitfire Pizza",
     "slug": "orderpitfirepizzaonline",
     "category": "pizza",
     "metros": [

@@ -189,12 +189,20 @@ export default function RestaurantDetailPage() {
           </a>
         ) : (
           <div className="glass-card" style={{ padding: 20, textAlign: 'center', marginBottom: 20 }}>
-            <p style={{ color: '#64748b', fontSize: 14 }}>
-              We don&apos;t have a direct ordering link for this restaurant yet.
+            <p style={{ color: '#94a3b8', fontSize: 15, fontWeight: 600, marginBottom: 8 }}>
+              This restaurant doesn&apos;t have direct ordering yet
             </p>
-            <p style={{ color: '#475569', fontSize: 12, marginTop: 8 }}>
-              Know their ordering URL? <Link href="/for-restaurants" style={{ color: '#10b981' }}>Submit it here</Link>
+            <p style={{ color: '#64748b', fontSize: 13, lineHeight: 1.6, marginBottom: 16 }}>
+              They could save their customers money and keep more of every order by setting up direct ordering.
             </p>
+            <div style={{ display: 'flex', gap: 12, justifyContent: 'center', flexWrap: 'wrap' }}>
+              <Link href="/get-direct-ordering" style={{ padding: '10px 20px', background: 'rgba(16,185,129,0.1)', border: '1px solid rgba(16,185,129,0.3)', borderRadius: 10, color: '#10b981', fontWeight: 700, fontSize: 13, textDecoration: 'none' }}>
+                🏪 Are you the owner? Get direct ordering
+              </Link>
+              <Link href="/for-restaurants" style={{ padding: '10px 20px', background: 'rgba(255,255,255,0.03)', border: '1px solid rgba(255,255,255,0.1)', borderRadius: 10, color: '#64748b', fontWeight: 600, fontSize: 13, textDecoration: 'none' }}>
+                Know their ordering URL? Submit it
+              </Link>
+            </div>
           </div>
         )}
 

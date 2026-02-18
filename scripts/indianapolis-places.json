@@ -136,7 +136,7 @@
     ]
   },
   {
-    "name": "Luciana’s - Broad Ripple",
+    "name": "Luciana\u2019s - Broad Ripple",
     "slug": "lucianas-broadripple",
     "category": "restaurant",
     "metros": [
@@ -208,7 +208,7 @@
     ]
   },
   {
-    "name": "Café Patachou",
+    "name": "Caf\u00e9 Patachou",
     "slug": "cafpatachou",
     "category": "cafe",
     "metros": [
@@ -914,15 +914,6 @@
       "indianapolis"
     ],
     "toastUrl": "https://order.toasttab.com/online/qbacubankitchen"
-  },
-  {
-    "name": "Order Online – Delivery & Pick-Up",
-    "slug": "orderonlinedeliverypick-up",
-    "category": "deli",
-    "metros": [
-      "indianapolis"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/esquinacubana"
   },
   {
     "name": "Baracoa Cuban Restaurant",

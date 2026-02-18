@@ -213,7 +213,7 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/22926/locations/33434"
   },
   {
-    "name": "Suppenküche",
+    "name": "Suppenk\u00fcche",
     "slug": "suppenkche",
     "category": "restaurant",
     "metros": [
@@ -921,7 +921,7 @@
     "toastUrl": "https://order.toasttab.com/online/cafe-venue-montgomery-218-montgomery-st"
   },
   {
-    "name": "Balompié Cafe #1",
+    "name": "Balompi\u00e9 Cafe #1",
     "slug": "balompicafe1",
     "category": "cafe",
     "metros": [
@@ -2054,7 +2054,7 @@
     "websiteOrderUrl": "https://hillstone.olo.com/menu/hillstone-san-francisco"
   },
   {
-    "name": "San Francisco - Fogo de Chão",
+    "name": "San Francisco - Fogo de Ch\u00e3o",
     "slug": "sanfrancisco-fogodecho",
     "category": "restaurant",
     "metros": [
@@ -2178,7 +2178,7 @@
     "websiteOrderUrl": "https://zandyrestaurant.getbento.com/store/cart/"
   },
   {
-    "name": "‭380 Golden Gate Ave, San Francisco 94102‬ ‭(415) 723-1955‬",
+    "name": "\u202d380 Golden Gate Ave, San Francisco 94102\u202c \u202d(415) 723-1955\u202c",
     "slug": "380goldengateavesanfrancisco94102415723-",
     "category": "restaurant",
     "metros": [
@@ -2254,7 +2254,7 @@
     ]
   },
   {
-    "name": "La Société Bar & Café",
+    "name": "La Soci\u00e9t\u00e9 Bar & Caf\u00e9",
     "slug": "lasocitbarcaf",
     "category": "cafe",
     "metros": [
@@ -2450,7 +2450,7 @@
     "websiteOrderUrl": "https://www.clover.com/online-ordering/fire-and-brew-new-san-francisco"
   },
   {
-    "name": "Order Gyu-kaku Japanese BBQ - San Diego, CA Online",
+    "name": "Gyu-kaku Japanese BBQ - San Diego, CA",
     "slug": "ordergyu-kakujapanesebbq-sandiegocaonlin",
     "category": "japanese",
     "metros": [
@@ -2477,7 +2477,7 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/43186/locations/65088"
   },
   {
-    "name": "Order Naan N Curry Online - Halal Restaurant in San ...",
+    "name": "Naan N Curry",
     "slug": "ordernaanncurryonline-halalrestaurantins",
     "category": "indian",
     "metros": [
@@ -2486,7 +2486,7 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/40491/locations/62438"
   },
   {
-    "name": "Order Truya Sushi Online - Sushi Restaurant in San Jose, CA",
+    "name": "Truya Sushi",
     "slug": "ordertruyasushionline-sushirestaurantins",
     "category": "japanese",
     "metros": [
@@ -2495,7 +2495,7 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/42549/locations/64246"
   },
   {
-    "name": "Order The Marketplace Online - Deli Restaurant in San ...",
+    "name": "The Marketplace",
     "slug": "orderthemarketplaceonline-delirestaurant",
     "category": "deli",
     "metros": [
@@ -2504,7 +2504,7 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/20720/locations"
   },
   {
-    "name": "Order Doppio Zero - San Francisco Online",
+    "name": "Doppio Zero - San Francisco",
     "slug": "orderdoppiozero-sanfranciscoonline",
     "category": "restaurant",
     "metros": [
@@ -2513,7 +2513,7 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/21157/locations/30629"
   },
   {
-    "name": "Order San Luis Obispo Location - Splash Cafe Online",
+    "name": "San Luis Obispo Location - Splash Cafe",
     "slug": "ordersanluisobispolocation-splashcafeonl",
     "category": "cafe",
     "metros": [
@@ -2522,7 +2522,7 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/10379/locations/14222"
   },
   {
-    "name": "Order San Antonio Burger Online",
+    "name": "San Antonio Burger",
     "slug": "ordersanantonioburgeronline",
     "category": "burgers",
     "metros": [
@@ -2612,7 +2612,7 @@
     "toastUrl": "https://order.toasttab.com/online/main-street-deli-513-south-main-st"
   },
   {
-    "name": "TOKYROLL Sushi & Poké San Francisco - SoMa",
+    "name": "TOKYROLL Sushi & Pok\u00e9 San Francisco - SoMa",
     "slug": "tokyrollsushipoksanfrancisco-soma",
     "category": "japanese",
     "metros": [

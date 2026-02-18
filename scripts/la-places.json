@@ -358,7 +358,7 @@
     "websiteOrderUrl": "https://order.online/store/28072525"
   },
   {
-    "name": "여기요 YeoGiYo 한식전문 | Premium Korean Restaurant",
+    "name": "\uc5ec\uae30\uc694 YeoGiYo \ud55c\uc2dd\uc804\ubb38 | Premium Korean Restaurant",
     "slug": "yeogiyopremiumkoreanrestaurant",
     "category": "korean",
     "metros": [
@@ -632,7 +632,7 @@
     "website": "https://manuela-la.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
   },
   {
-    "name": "Fleming’s Prime Steakhouse & Wine Bar",
+    "name": "Fleming\u2019s Prime Steakhouse & Wine Bar",
     "slug": "flemingsprimesteakhousewinebar",
     "category": "steakhouse",
     "metros": [
@@ -1068,7 +1068,7 @@
     ]
   },
   {
-    "name": "Fogo de Chão Brazilian Steakhouse",
+    "name": "Fogo de Ch\u00e3o Brazilian Steakhouse",
     "slug": "fogodechobraziliansteakhouse",
     "category": "steakhouse",
     "metros": [
@@ -1108,7 +1108,7 @@
     ]
   },
   {
-    "name": "Phở 87",
+    "name": "Ph\u1edf 87",
     "slug": "ph87",
     "category": "restaurant",
     "metros": [
@@ -1132,7 +1132,7 @@
     ]
   },
   {
-    "name": "Bé Ù - Vietnamese Street Food & Comfort Food",
+    "name": "B\u00e9 \u00d9 - Vietnamese Street Food & Comfort Food",
     "slug": "b-vietnamesestreetfoodcomfortfood",
     "category": "vietnamese",
     "metros": [
@@ -1261,15 +1261,6 @@
     "toastUrl": "https://order.toasttab.com/online/marie-callender-s-17-west-los-angeles"
   },
   {
-    "name": "Order Online | Find a location",
-    "slug": "orderonlinefindalocation",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "toastUrl": "https://order.toasttab.com/online/locations/97166afa-118f-48f5-8a19-0852e2ee3949/default"
-  },
-  {
     "name": "5 ways to ramp up your restaurant online ordering system",
     "slug": "5waystorampupyourrestaurantonlineorderin",
     "category": "restaurant",
@@ -1289,14 +1280,6 @@
     "name": "4 tech-focused tips to fight rising restaurant costs",
     "slug": "4tech-focusedtipstofightrisingrestaurant",
     "category": "restaurant",
-    "metros": [
-      "la"
-    ]
-  },
-  {
-    "name": "Order Online - TAKENAKA - Japanese Food Truck & Co",
-    "slug": "orderonline-takenaka-japanesefoodtruckco",
-    "category": "japanese",
     "metros": [
       "la"
     ]
@@ -1526,15 +1509,6 @@
     "toastUrl": "https://order.toasttab.com/online/good-day-thai-kitchen-and-cafe"
   },
   {
-    "name": "Order Food Online - American (New) Restaurant in Los ...",
-    "slug": "orderfoodonline-americannewrestaurantinl",
-    "category": "restaurant",
-    "metros": [
-      "la"
-    ],
-    "websiteOrderUrl": "https://ordering.chownow.com/order/28003/locations"
-  },
-  {
     "name": "Terun Pizza - Palo Alto",
     "slug": "terun-pizza-palo-alto",
     "category": "pizza",
@@ -1688,7 +1662,7 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/43186/locations/65088"
   },
   {
-    "name": "Order The Knolls Online - American (New) Restaurant in ...",
+    "name": "The Knolls",
     "slug": "ordertheknollsonline-americannewrestaura",
     "category": "restaurant",
     "metros": [
@@ -1958,7 +1932,7 @@
     "toastUrl": "https://order.toasttab.com/online/bludsos-bbq-santamonica"
   },
   {
-    "name": "MONICA CAFÉ",
+    "name": "MONICA CAF\u00c9",
     "slug": "monica-caf",
     "category": "cafe",
     "metros": [
@@ -2084,7 +2058,7 @@
     "toastUrl": "https://order.toasttab.com/online/princestreetvenice"
   },
   {
-    "name": "Wurstküche Venice",
+    "name": "Wurstk\u00fcche Venice",
     "slug": "wurstkchevenice",
     "category": "restaurant",
     "metros": [
@@ -2444,7 +2418,7 @@
     "websiteOrderUrl": "https://order.online/store/stamp-proper-foods-los-angeles-212471"
   },
   {
-    "name": "Lala's Grill 7229 Melrose Ave – Order pickup and delivery",
+    "name": "Lala's Grill 7229 Melrose Ave \u2013 Order pickup and delivery",
     "slug": "lalasgrill7229melroseaveorderpickupandde",
     "category": "deli",
     "metros": [
@@ -2753,7 +2727,7 @@
     "websiteOrderUrl": "https://wahlburgersrestaurant.olo.com/menu/wahlburgers-hollywood-blvd"
   },
   {
-    "name": "Los Angeles - Fogo de Chão",
+    "name": "Los Angeles - Fogo de Ch\u00e3o",
     "slug": "losangeles-fogodecho",
     "category": "restaurant",
     "metros": [
@@ -2896,7 +2870,7 @@
     ]
   },
   {
-    "name": "LUMIÈRE",
+    "name": "LUMI\u00c8RE",
     "slug": "lumire",
     "category": "restaurant",
     "metros": [
@@ -3151,7 +3125,7 @@
     "websiteOrderUrl": "https://partners.clover.com/restaurant-depot/home/"
   },
   {
-    "name": "Order KazuNori Online - Sushi Restaurant in Pasadena, CA",
+    "name": "KazuNori",
     "slug": "orderkazunorionline-sushirestaurantinpas",
     "category": "japanese",
     "metros": [
@@ -3160,7 +3134,7 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/6340/locations/64606"
   },
   {
-    "name": "Order Salad Farm Pasadena Online",
+    "name": "Salad Farm Pasadena",
     "slug": "ordersaladfarmpasadenaonline",
     "category": "healthy",
     "metros": [
@@ -3295,7 +3269,7 @@
     "websiteOrderUrl": "https://slicelife.com/restaurants/ca/torrance/90503/georgio-s-pizza-torrance/menu"
   },
   {
-    "name": "ᐅ Best Wings in Torrance - Find Wings Places in Torrance",
+    "name": "\u1405 Best Wings in Torrance - Find Wings Places in Torrance",
     "slug": "bestwingsintorrance-findwingsplacesintor",
     "category": "wings",
     "metros": [
@@ -3313,7 +3287,7 @@
     "websiteOrderUrl": "https://slicelife.com/pizza-delivery/ca-imperial"
   },
   {
-    "name": "ᐅ Lomita Pizza Delivery - Best Pizza Places in Lomita 2025",
+    "name": "\u1405 Lomita Pizza Delivery - Best Pizza Places in Lomita 2025",
     "slug": "lomitapizzadelivery-bestpizzaplacesinlom",
     "category": "pizza",
     "metros": [
@@ -3322,7 +3296,7 @@
     "websiteOrderUrl": "https://slicelife.com/pizza-delivery/ca-lomita"
   },
   {
-    "name": "ᐅ Best Local Appetizers in Torrance, California",
+    "name": "\u1405 Best Local Appetizers in Torrance, California",
     "slug": "bestlocalappetizersintorrancecalifornia",
     "category": "pizza",
     "metros": [
@@ -3331,7 +3305,7 @@
     "websiteOrderUrl": "https://slicelife.com/pizza-delivery/ca-torrance/appetizers"
   },
   {
-    "name": "ᐅ Best Local Salads in Torrance, California",
+    "name": "\u1405 Best Local Salads in Torrance, California",
     "slug": "bestlocalsaladsintorrancecalifornia",
     "category": "healthy",
     "metros": [
@@ -3340,7 +3314,7 @@
     "websiteOrderUrl": "https://slicelife.com/pizza-delivery/ca-torrance/salads"
   },
   {
-    "name": "ᐅ Lynwood Pizza Delivery - Best Pizza Places in Lynwood 2025",
+    "name": "\u1405 Lynwood Pizza Delivery - Best Pizza Places in Lynwood 2025",
     "slug": "lynwoodpizzadelivery-bestpizzaplacesinly",
     "category": "pizza",
     "metros": [
@@ -3952,7 +3926,7 @@
     "toastUrl": "https://order.toasttab.com/online/greko-greek-street-food"
   },
   {
-    "name": "Order Lebanese Food Online",
+    "name": "Lebanese Food",
     "slug": "orderlebanesefoodonline",
     "category": "restaurant",
     "metros": [
@@ -4114,7 +4088,7 @@
     "toastUrl": "https://order.toasttab.com/online/method-juice-cafe-downtown-718-w-riverside"
   },
   {
-    "name": "Order Pimai Online - Thai Restaurant in Los Angeles, CA",
+    "name": "Pimai",
     "slug": "orderpimaionline-thairestaurantinlosange",
     "category": "thai",
     "metros": [
