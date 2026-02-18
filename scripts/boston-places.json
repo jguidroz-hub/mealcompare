@@ -19,7 +19,8 @@
     ],
     "address": "279 Dartmouth St",
     "placeId": "ChIJX531iwt644kRaJ9LqHM3rRk",
-    "website": "http://www.saltiegirl.com/"
+    "website": "http://www.saltiegirl.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Beehive Restaurant",
@@ -41,7 +42,8 @@
     ],
     "address": "3 N Square #1",
     "placeId": "ChIJVbrdD4lw44kRdZLKJo0e02o",
-    "website": "http://www.mammamaria.com/"
+    "website": "http://www.mammamaria.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Grill 23 & Bar",
@@ -64,7 +66,8 @@
     ],
     "address": "450 Summer St",
     "placeId": "ChIJ3Qi-6hJ744kRWJDoZFSms6U",
-    "website": "https://www.coquetteboston.com/"
+    "website": "https://www.coquetteboston.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Atlantic Fish Company",
@@ -87,7 +90,8 @@
     ],
     "address": "80 Atlantic Ave",
     "placeId": "ChIJKz7ENohw44kR-Aq6LJoK9Sg",
-    "website": "https://www.thebostonsailloft.com/"
+    "website": "https://www.thebostonsailloft.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Legal Sea Foods - Harborside",
@@ -132,7 +136,8 @@
     ],
     "address": "40 Court St",
     "placeId": "ChIJUxHf-oRw44kRbwK0pAYkV94",
-    "website": "https://www.theoceanaire.com/location/boston-ma/"
+    "website": "https://www.theoceanaire.com/location/boston-ma/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Chart House",
@@ -143,7 +148,8 @@
     ],
     "address": "60 Long Wharf",
     "placeId": "ChIJ6QwfVH1w44kRKLxCXvk2XsY",
-    "website": "https://www.chart-house.com/location/chart-house-boston-ma/"
+    "website": "https://www.chart-house.com/location/chart-house-boston-ma/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Union Oyster House",
@@ -165,7 +171,8 @@
     ],
     "address": "222 Berkeley St",
     "placeId": "ChIJaeUD4cd744kRazL4bmbMAgk",
-    "website": "https://stksteakhouse.com/venues/boston/"
+    "website": "https://stksteakhouse.com/venues/boston/",
+    "websiteOrderUrl": "https://stksteakhouse.olo.com/"
   },
   {
     "name": "Wusong Tiki Bar",
@@ -291,7 +298,8 @@
     ],
     "address": "346 Hanover St",
     "placeId": "ChIJMx_bcYlw44kRpCQWPuurowA",
-    "website": "http://www.cantinaitaliana.com/"
+    "website": "http://www.cantinaitaliana.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Caroline",
@@ -313,7 +321,8 @@
     ],
     "address": "1011 S Congress Ave Suite 170",
     "placeId": "ChIJrWlIEea1RIYRdLjavaYqIdM",
-    "website": "https://www.twohandshospitality.com/location/austin/"
+    "website": "https://www.twohandshospitality.com/location/austin/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Corinne Austin",
@@ -465,7 +474,8 @@
       "boston"
     ],
     "placeId": "ChIJ7YVnn8h544kRfiv1BvK0xAA",
-    "website": "https://www.hopewellboston.com/"
+    "website": "https://www.hopewellboston.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/osaka/76c49d2.osaka/assets/js/head.min.js"
   },
   {
     "name": "The Stockyard Restaurant",
@@ -498,7 +508,7 @@
     "website": "http://www.tascatapas.com/"
   },
   {
-    "name": "Kaju Korean Cuisine \u2014 Allston",
+    "name": "Kaju Korean Cuisine — Allston",
     "slug": "kajukoreancuisineallston",
     "category": "korean",
     "metros": [
@@ -558,7 +568,7 @@
     "website": "http://www.myersandchang.com/"
   },
   {
-    "name": "Sh\u014dj\u014d Boston",
+    "name": "Shōjō Boston",
     "slug": "shjboston",
     "category": "restaurant",
     "metros": [
@@ -2233,7 +2243,7 @@
     "toastUrl": "https://order.toasttab.com/online/paladar-cuban-eatery"
   },
   {
-    "name": "Cuban Paradise Cigar & Caf\u00e9",
+    "name": "Cuban Paradise Cigar & Café",
     "slug": "cubanparadisecigarcaf",
     "category": "cafe",
     "metros": [
@@ -2314,7 +2324,7 @@
     "toastUrl": "https://order.toasttab.com/online/wings-and-burgers-1733-west-mississippi-avenue"
   },
   {
-    "name": "Row 34 383 Congress Street \u2013 Order pickup and delivery",
+    "name": "Row 34 383 Congress Street – Order pickup and delivery",
     "slug": "row34383congressstreetorderpickupanddeli",
     "category": "deli",
     "metros": [
@@ -2410,7 +2420,7 @@
     "websiteOrderUrl": "https://pressedcafecatering.olo.com/menu/pressed-caf-catering-newton"
   },
   {
-    "name": "Boston - Fogo de Ch\u00e3o",
+    "name": "Boston - Fogo de Chão",
     "slug": "boston-fogodecho",
     "category": "restaurant",
     "metros": [
@@ -2436,7 +2446,7 @@
     ]
   },
   {
-    "name": "Lee\u2019s Sandwiches Worcester",
+    "name": "Lee’s Sandwiches Worcester",
     "slug": "lee-s-sandwiches-worcester",
     "category": "deli",
     "metros": [
@@ -2472,7 +2482,7 @@
     "websiteOrderUrl": "https://eataly.olo.com/menu/eataly-boston-2/products/64108296"
   },
   {
-    "name": "\u1405 Boston Pizza Delivery - Best Pizza Places in Boston 2025",
+    "name": "ᐅ Boston Pizza Delivery - Best Pizza Places in Boston 2025",
     "slug": "bostonpizzadelivery-bestpizzaplacesinbos",
     "category": "pizza",
     "metros": [
@@ -2844,7 +2854,7 @@
     "toastUrl": "https://order.toasttab.com/online/harbour-restaurant"
   },
   {
-    "name": "\u1405 Newton Pizza Delivery - Best Pizza Places in Newton 2026",
+    "name": "ᐅ Newton Pizza Delivery - Best Pizza Places in Newton 2026",
     "slug": "newtonpizzadelivery-bestpizzaplacesinnew",
     "category": "pizza",
     "metros": [
@@ -2943,7 +2953,7 @@
     "toastUrl": "https://order.toasttab.com/online/d-b-deli-the-mill-2636-w-north-avenue"
   },
   {
-    "name": "Atlantic Pok\u00e9 Marlborough 237 Boston Post Road West",
+    "name": "Atlantic Poké Marlborough 237 Boston Post Road West",
     "slug": "atlanticpokmarlborough237bostonpostroadw",
     "category": "poke",
     "metros": [

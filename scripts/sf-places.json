@@ -54,7 +54,8 @@
     ],
     "address": "3416 19th St",
     "placeId": "ChIJk35bizx-j4AREil6UPp7Jn4",
-    "website": "http://www.lazybearsf.com/"
+    "website": "http://www.lazybearsf.com/",
+    "websiteOrderUrl": "https://media-cdn.getbento.com/IwOz1hC9SqCnqagXEm0D_favi.png"
   },
   {
     "name": "Bottega",
@@ -111,7 +112,8 @@
     ],
     "address": "1199 Valencia St",
     "placeId": "ChIJHeoUcz9-j4AR9BGHeYE4w3o",
-    "website": "http://berettasf.com/?utm_source=yext&utm_medium=gmb"
+    "website": "http://berettasf.com/?utm_source=yext&utm_medium=gmb",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Rintaro",
@@ -179,7 +181,8 @@
       "sf"
     ],
     "placeId": "ChIJjfhunpiAhYARL76pNCCCFvg",
-    "website": "https://amanosf.com/"
+    "website": "https://amanosf.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Rich Table",
@@ -189,7 +192,8 @@
       "sf"
     ],
     "placeId": "ChIJh_24QJ-AhYAR_xbUNVN2Xns",
-    "website": "http://richtablesf.com/"
+    "website": "http://richtablesf.com/",
+    "websiteOrderUrl": "https://media-cdn.getbento.com/0X3yuaZOTNCGGLBU8gaz_favi.png"
   },
   {
     "name": "Hazie's",
@@ -199,7 +203,8 @@
       "sf"
     ],
     "placeId": "ChIJn-6m802BhYARruM4u0h9-Bc",
-    "website": "https://www.haziessf.com/"
+    "website": "https://www.haziessf.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/fuji/73f2977.fuji/assets/js/head.min.js"
   },
   {
     "name": "Chez Maman West",
@@ -213,7 +218,7 @@
     "websiteOrderUrl": "https://ordering.chownow.com/order/22926/locations/33434"
   },
   {
-    "name": "Suppenk\u00fcche",
+    "name": "Suppenküche",
     "slug": "suppenkche",
     "category": "restaurant",
     "metros": [
@@ -621,7 +626,8 @@
       "sf"
     ],
     "placeId": "ChIJs6YBYhx-j4AR4LUJq9SFQt0",
-    "website": "https://starbellysf.com/"
+    "website": "https://starbellysf.com/",
+    "websiteOrderUrl": "https://starbellysf.getbento.com/"
   },
   {
     "name": "Frances",
@@ -671,7 +677,8 @@
       "sf"
     ],
     "placeId": "ChIJbTB3bKKAhYAR8Yqc6dEIMbQ",
-    "website": "https://www.souvla.com/location/hayes-valley/"
+    "website": "https://www.souvla.com/location/hayes-valley/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Dumpling Home",
@@ -921,7 +928,7 @@
     "toastUrl": "https://order.toasttab.com/online/cafe-venue-montgomery-218-montgomery-st"
   },
   {
-    "name": "Balompi\u00e9 Cafe #1",
+    "name": "Balompié Cafe #1",
     "slug": "balompicafe1",
     "category": "cafe",
     "metros": [
@@ -2054,7 +2061,7 @@
     "websiteOrderUrl": "https://hillstone.olo.com/menu/hillstone-san-francisco"
   },
   {
-    "name": "San Francisco - Fogo de Ch\u00e3o",
+    "name": "San Francisco - Fogo de Chão",
     "slug": "sanfrancisco-fogodecho",
     "category": "restaurant",
     "metros": [
@@ -2178,7 +2185,7 @@
     "websiteOrderUrl": "https://zandyrestaurant.getbento.com/store/cart/"
   },
   {
-    "name": "\u202d380 Golden Gate Ave, San Francisco 94102\u202c \u202d(415) 723-1955\u202c",
+    "name": "‭380 Golden Gate Ave, San Francisco 94102‬ ‭(415) 723-1955‬",
     "slug": "380goldengateavesanfrancisco94102415723-",
     "category": "restaurant",
     "metros": [
@@ -2254,7 +2261,7 @@
     ]
   },
   {
-    "name": "La Soci\u00e9t\u00e9 Bar & Caf\u00e9",
+    "name": "La Société Bar & Café",
     "slug": "lasocitbarcaf",
     "category": "cafe",
     "metros": [
@@ -2612,7 +2619,7 @@
     "toastUrl": "https://order.toasttab.com/online/main-street-deli-513-south-main-st"
   },
   {
-    "name": "TOKYROLL Sushi & Pok\u00e9 San Francisco - SoMa",
+    "name": "TOKYROLL Sushi & Poké San Francisco - SoMa",
     "slug": "tokyrollsushipoksanfrancisco-soma",
     "category": "japanese",
     "metros": [
