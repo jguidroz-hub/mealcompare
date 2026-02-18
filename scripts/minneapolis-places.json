@@ -5,7 +5,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJpQmgMoQys1IRID1e5YB8eMo",
+    "website": "http://www.spoonandstable.com/"
   },
   {
     "name": "Martina",
@@ -13,7 +15,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJlzITYRcn9ocRcMEfy0kSJWo",
+    "website": "http://www.martinarestaurant.com/"
   },
   {
     "name": "Maison Margaux",
@@ -21,7 +25,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJyzpfRMozs1IR6bEGG8EMWPc",
+    "website": "http://www.maisonmargauxmpls.com/"
   },
   {
     "name": "Butcher & The Boar",
@@ -29,7 +35,10 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJe_YyOiUzs1IR0qgYBD0rkUM",
+    "website": "https://www.butcherandtheboarmpls.com/",
+    "toastUrl": "https://order.toasttab.com/online/butcher-the-boar-901-n-3rd-st"
   },
   {
     "name": "Bar La Grassa",
@@ -37,7 +46,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJBcDbP4oys1IRg97QGrkjtH8",
+    "website": "https://www.barlagrassa.com/"
   },
   {
     "name": "Alma",
@@ -45,15 +56,20 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJM75Ao3Ets1IRftCVbIP51eY",
+    "website": "https://www.almampls.com/",
+    "toastUrl": "https://order.toasttab.com/online/alma"
   },
   {
-    "name": "B\u00fbcheron",
+    "name": "Bûcheron",
     "slug": "bcheron",
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJKUStfyEn9ocRSvEKf8e3aGk",
+    "website": "https://www.bucheronrestaurant.com/"
   },
   {
     "name": "The Butcher's Tale",
@@ -61,7 +77,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJweDHAY0zs1IRUMtMvFN9GFE",
+    "website": "https://butcherstale.com/"
   },
   {
     "name": "Demi",
@@ -69,7 +87,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJIRuC3GEzs1IR95ImVc1yzlE",
+    "website": "https://demimpls.com/"
   },
   {
     "name": "Lumi Restaurant",
@@ -77,7 +97,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJtY3uKc0zs1IRQo14tsoB7NA",
+    "website": "https://www.lumimn.com/"
   },
   {
     "name": "Black Duck Spirits & Hearth",
@@ -85,7 +107,10 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJT-YEB90ts1IRY3_Av0nuA2I",
+    "website": "https://www.blackduckmpls.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_website",
+    "toastUrl": "https://order.toasttab.com/online/black-duck-2900-johnson-street-n-e"
   },
   {
     "name": "Diane's Place",
@@ -93,7 +118,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJ-QOCaQAzs1IRuQH66gGRBEw",
+    "website": "https://dianesplacemn.com/"
   },
   {
     "name": "Stanley's Northeast Bar Room",
@@ -101,7 +128,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJdUFpxPUts1IR516taNFpA7A",
+    "website": "https://www.stanleysbarroom.com/"
   },
   {
     "name": "Aster Cafe",
@@ -109,7 +138,9 @@
     "category": "cafe",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJO0vUunsts1IRl9Dz-4LhB_k",
+    "website": "http://astercafe.com/?y_source=1_NjE4OTYwOC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
   },
   {
     "name": "Hai Hai",
@@ -117,7 +148,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJLxPhMfUts1IRSGFlQ7usiVI",
+    "website": "http://haihaimpls.com/"
   },
   {
     "name": "Hazel's Northeast",
@@ -125,7 +158,10 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJt344xtots1IRPkSdD9JJ0WA",
+    "website": "http://www.hazelsnortheast.com/",
+    "toastUrl": "https://order.toasttab.com/online/hazels-northeast"
   },
   {
     "name": "Steele & Hops",
@@ -133,7 +169,10 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJ0bW8m60vs1IROXMLOjcRhFg",
+    "website": "http://steeleandhopsmn.com/",
+    "toastUrl": "https://order.toasttab.com/online/steele-and-hops"
   },
   {
     "name": "Twin Cities 400 Tavern",
@@ -141,7 +180,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJKYKtXkUss1IRCVE74CtAsfo",
+    "website": "https://www.tc400tavern.com/"
   },
   {
     "name": "Smack Shack",
@@ -149,7 +190,10 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJj2Sea4kys1IR8FbtTsPKoug",
+    "website": "http://www.smack-shack.com/",
+    "toastUrl": "https://order.toasttab.com/online/smack-shack-603-n-washington-ave"
   },
   {
     "name": "The Breakfast Club MPLS",
@@ -157,7 +201,9 @@
     "category": "breakfast",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJm1Uwqx4n9ocRpzUNiKAAHTY",
+    "website": "https://www.thebreakfastclubmpls.com/"
   },
   {
     "name": "Lake & Irving Restaurant & Bar",
@@ -165,7 +211,10 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJvdIP0X4n9ocR0M9tMj3o2TU",
+    "website": "http://www.lakeandirving.com/",
+    "websiteOrderUrl": "https://lakeandirving.getbento.com/"
   },
   {
     "name": "Barbette",
@@ -173,15 +222,19 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJ7SRKvfUn9ocRkgMSqji_Hic",
+    "website": "https://www.barbette.com/menu"
   },
   {
-    "name": "Kh\u00e2luna",
+    "name": "Khâluna",
     "slug": "khluna",
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJL35qKIQn9ocRN82BSnqaw5Q",
+    "website": "http://khaluna.com/"
   },
   {
     "name": "Nightingale",
@@ -189,7 +242,10 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJY9rrl80ys1IRbpNVBmdTr5g",
+    "website": "https://nightingalempls.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Waterbury Restaurant",
@@ -197,7 +253,10 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJxWjXIQAn9ocRu2mIKh0Tfv0",
+    "website": "https://www.waterburympls.com/",
+    "websiteOrderUrl": "https://direct.chownow.com/order/38335/locations/58379"
   },
   {
     "name": "World Street Kitchen",
@@ -205,7 +264,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJEa33Aogn9ocRa86tLqTjRv0",
+    "website": "https://order.eatwsk.com/"
   },
   {
     "name": "Estelle",
@@ -213,7 +274,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJkfRJs5or9ocRFltEqw6LTs4",
+    "website": "http://www.estellestp.com/"
   },
   {
     "name": "The High Hat",
@@ -221,7 +284,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJddFLm6Yr9ocRRqgYj3jU4DE",
+    "website": "https://www.thehighhatmn.com/live-music"
   },
   {
     "name": "Red Rabbit St. Paul",
@@ -229,7 +294,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJbw0Hb4Ar9ocRyGlvsxjxkdk",
+    "website": "https://redrabbitmn.com/st-paul/"
   },
   {
     "name": "Moscow on the Hill",
@@ -237,7 +304,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJ_cr5G70q9ocRjzD-eldgDoE",
+    "website": "http://www.moscowonthehill.com/"
   },
   {
     "name": "Gus Gus",
@@ -245,7 +314,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJQ3omGLQp9ocR2P4G8F9gP0Y",
+    "website": "https://www.gusgusmn.com/"
   },
   {
     "name": "Red Cow St. Paul",
@@ -253,7 +324,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJ3d04br0q9ocRM25vg-FiQ_w",
+    "website": "https://redcowmn.com/st-paul-selby-avenue/"
   },
   {
     "name": "Tongue in Cheek",
@@ -261,7 +334,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJ15g52DvVslIR-WJQdzPk3Ss",
+    "website": "http://tongueincheek.biz/"
   },
   {
     "name": "Holman's Table",
@@ -269,7 +344,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJiTbOggvV94cRiXskpB7hJ9w",
+    "website": "https://www.holmanstable.com/"
   },
   {
     "name": "DeGidio's Restaurant & Bar, St. Paul",
@@ -277,7 +354,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJH6_lf8cq9ocRaWTHWbaOpdw",
+    "website": "https://www.degidios.com/"
   },
   {
     "name": "Hen House Eatery",
@@ -285,7 +364,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJr03h2Jkys1IREtlw7i5kytw",
+    "website": "http://henhouseeatery.com/"
   },
   {
     "name": "Wise Acre Eatery",
@@ -293,7 +374,10 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJTUSoczgm9ocRyyY0mR533Lk",
+    "website": "http://www.wiseacreeatery.com/",
+    "squareUrl": "https://wise-acre-store.square.site/s/order"
   },
   {
     "name": "Heather's",
@@ -301,7 +385,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJuaXiInon9ocRYSftN4vWzXc",
+    "website": "https://heathersmpls.com/?utm_source=google"
   },
   {
     "name": "NOLO's Kitchen & Bar",
@@ -309,7 +395,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJX3kmMYkys1IRH2Jyz0NryHY",
+    "website": "http://noloskitchen.com/"
   },
   {
     "name": "Lake and Bryant Cafe",
@@ -317,7 +405,9 @@
     "category": "cafe",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJTbqiRSon9ocRdmmSVXnf2AU",
+    "website": "http://lakeandbryantcafe.com/"
   },
   {
     "name": "French Meadow Cafe & Bluestem Bar",
@@ -325,7 +415,10 @@
     "category": "cafe",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJwQzEd80ys1IRMqr4uqdRbUM",
+    "website": "http://www.frenchmeadowcafe.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "My Huong Kitchen",
@@ -333,7 +426,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJ7dLdhvUn9ocRPXMER9aINWM",
+    "website": "https://myhuongkitchen.com/"
   },
   {
     "name": "Quang Restaurant",
@@ -341,15 +436,20 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJLcnbWPUn9ocRVs-QNcHcrzQ",
+    "website": "http://www.quang-restaurant.com/"
   },
   {
-    "name": "Savour\u00e9 Vietnamese Eatery",
+    "name": "Savouré Vietnamese Eatery",
     "slug": "savourvietnameseeatery",
     "category": "vietnamese",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJ80jVEW8zs1IRJvlJdKoHHgE",
+    "website": "https://www.savourecafe.com/",
+    "toastUrl": "https://order.toasttab.com/online/savoure"
   },
   {
     "name": "Khue's Kitchen",
@@ -357,7 +457,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJt0PbAjcts1IR8kVkM_E8iyg",
+    "website": "https://www.khueskitchen.com/"
   },
   {
     "name": "Que Viet Village House",
@@ -365,7 +467,10 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJr7S9gLgts1IRY2UdlbWf9uw",
+    "website": "http://www.quevietmn.com/",
+    "toastUrl": "https://order.toasttab.com/online/que-viet-northeast-2211-johnson-st-ne"
   },
   {
     "name": "Mi-Sant Kitchen & Bakery",
@@ -373,7 +478,9 @@
     "category": "bakery",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJTYt039crs1IRbTvx4cufQ7s",
+    "website": "http://misantr.square.site/"
   },
   {
     "name": "Thanh Luong Vegetarian",
@@ -381,7 +488,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJB8ZywFg1s1IRIj4eXy1I5n8",
+    "website": "https://thanhluongchay.com/"
   },
   {
     "name": "eM Que Viet Restaurant and Bar",
@@ -389,7 +498,11 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJ6Ra3JC4r9ocRsrhxvcCsfT0",
+    "website": "http://emqueviet.com/",
+    "toastUrl": "https://order.toasttab.com/online/em-que-viet-1332-grand-ave",
+    "websiteOrderUrl": "https://order.online/store/em-que-viet-saint-paul-22932838"
   },
   {
     "name": "Lotus Restaurant",
@@ -397,7 +510,9 @@
     "category": "restaurant",
     "metros": [
       "minneapolis"
-    ]
+    ],
+    "placeId": "ChIJWUEQhb8ys1IRjCHmPOynASE",
+    "website": "http://lotusdtmsp.com/"
   },
   {
     "name": "Franklin Pizza Minneapolis",
@@ -1011,7 +1126,7 @@
     "toastUrl": "https://order.toasttab.com/online/tana-ethiopian-cuisine-5929-baum-blvd"
   },
   {
-    "name": "Bol\u00e9 Ethiopian Cuisine Como",
+    "name": "Bolé Ethiopian Cuisine Como",
     "slug": "bolethiopiancuisinecomo",
     "category": "african",
     "metros": [
@@ -1398,7 +1513,7 @@
     "websiteOrderUrl": "https://order.online/store/mezcal-restaurante-and-taqueria-minneapolis-23831024/"
   },
   {
-    "name": "McDonald's 4435 Lyndale Ave N \u2013 Order pickup and delivery",
+    "name": "McDonald's 4435 Lyndale Ave N – Order pickup and delivery",
     "slug": "mcdonalds4435lyndaleavenorderpickupandde",
     "category": "deli",
     "metros": [
@@ -1407,7 +1522,7 @@
     "websiteOrderUrl": "https://order.online/store/mcdonalds-684268/"
   },
   {
-    "name": "McDonald's 916 W Broadway Ave \u2013 Order pickup and delivery",
+    "name": "McDonald's 916 W Broadway Ave – Order pickup and delivery",
     "slug": "mcdonalds916wbroadwayaveorderpickupandde",
     "category": "deli",
     "metros": [
@@ -1544,7 +1659,7 @@
     ]
   },
   {
-    "name": "Minneapolis - Fogo de Ch\u00e3o",
+    "name": "Minneapolis - Fogo de Chão",
     "slug": "minneapolis-fogodecho",
     "category": "restaurant",
     "metros": [

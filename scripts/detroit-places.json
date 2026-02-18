@@ -5,7 +5,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJ5UotDJ3SJIgRb6dr_ZGN4Dc",
+    "website": "http://www.greyghostdetroit.com/"
   },
   {
     "name": "Experience Zuzu",
@@ -13,7 +15,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJt2HWQyUtO4gR191OXx9F3jw",
+    "website": "https://www.experiencezuzu.com/"
   },
   {
     "name": "Selden Standard",
@@ -21,7 +25,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJmbwKErHSJIgRdFpKuhy3rE8",
+    "website": "http://www.seldenstandard.com/"
   },
   {
     "name": "Sexy Steak",
@@ -29,7 +35,9 @@
     "category": "steakhouse",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJ82dvZ8stO4gRuoJJyJWeWEM",
+    "website": "https://www.sexysteakdetroit.com/"
   },
   {
     "name": "ADELINA",
@@ -37,7 +45,9 @@
     "category": "deli",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJbxyFHXEtO4gRX2mGb1ujvZs",
+    "website": "https://www.adelinadetroit.com/"
   },
   {
     "name": "Mad Nice",
@@ -45,7 +55,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJ_xO-slDTJIgRT9_VAWCEkwQ",
+    "website": "https://www.madnicedetroit.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ"
   },
   {
     "name": "The Whitney",
@@ -53,7 +65,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJ3Q5Al7nSJIgRQtzJ32hAwX4",
+    "website": "http://www.thewhitney.com/"
   },
   {
     "name": "Parc",
@@ -61,7 +75,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJ14Db4S8tO4gRhNP1-W1y4xs",
+    "website": "http://parcdetroit.com/"
   },
   {
     "name": "Mabel Gray",
@@ -69,7 +85,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJD5JI6rbPJIgR5H2UrNdZZkY",
+    "website": "http://mabelgraykitchen.com/"
   },
   {
     "name": "Fixins Soul Kitchen",
@@ -77,7 +95,10 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJmQSgHW0tO4gRnFaWWnChWHY",
+    "website": "https://fixinssoulkitchen.com/",
+    "toastUrl": "https://order.toasttab.com/online/fixinssoulkitchenla"
   },
   {
     "name": "Cork & Gabel",
@@ -85,7 +106,10 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJNyWBi6cyO4gR0-etu3xHiWw",
+    "website": "http://www.corkandgabel.com/",
+    "websiteOrderUrl": "https://ordering.chownow.com/order/6552/locations?add_cn_ordering_class=true"
   },
   {
     "name": "Ottava Via",
@@ -93,7 +117,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJlz0bgE8tO4gRxtTRYHmb7S8",
+    "website": "http://www.ottavaviadetroit.com/"
   },
   {
     "name": "Supergeil",
@@ -101,7 +127,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJAdIIj0AzO4gRu9Rj25yCpiM",
+    "website": "http://www.supergeildetroit.com/"
   },
   {
     "name": "Ima Izakaya",
@@ -109,7 +137,10 @@
     "category": "japanese",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJ8fJkoSctO4gRAndy93M6SVQ",
+    "website": "https://imanoodles.com/",
+    "toastUrl": "https://order.toasttab.com/online/ima-izakaya"
   },
   {
     "name": "Mudgie's Deli and Wine Shop",
@@ -117,7 +148,9 @@
     "category": "deli",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJ0csHikYtO4gRS8Akw-piaR4",
+    "website": "http://mudgiesdeli.com/"
   },
   {
     "name": "Alpino Detroit",
@@ -125,7 +158,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJLxcR0HYtO4gRuTj99WrpJBk",
+    "website": "http://alpinodetroit.com/"
   },
   {
     "name": "Takoi",
@@ -133,7 +168,10 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJ2QeajacyO4gRR3XtR0mA8rg",
+    "website": "http://takoidetroit.com/",
+    "toastUrl": "https://order.toasttab.com/online/takoi"
   },
   {
     "name": "Batch Brewing Company",
@@ -141,7 +179,9 @@
     "category": "cafe",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJpdYNJjItO4gR6hdO4tnn79c",
+    "website": "https://www.detroitbeerco.com/"
   },
   {
     "name": "Hamilton's Restaurant",
@@ -149,7 +189,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJB6O_EwktO4gR7wGpUKMcnOc",
+    "website": "https://hamiltonscorktown.com/"
   },
   {
     "name": "Midtown Social Kitchen and Bar",
@@ -157,7 +199,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJmeseuBTTJIgR_Y4Ew3PkNZs",
+    "website": "http://midtownsocial.com/"
   },
   {
     "name": "Vecino",
@@ -165,7 +209,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJE5LFyL3TJIgRUjnxlbsVoY0",
+    "website": "https://www.vecinodetroit.com/"
   },
   {
     "name": "Chartreuse Kitchen & Cocktails",
@@ -173,7 +219,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJ69ONcL3SJIgRMxmNlatQMjQ",
+    "website": "http://www.chartreusekc.com/"
   },
   {
     "name": "Freya",
@@ -181,7 +229,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJ-5usHT_TJIgR14tNrIKhz7o",
+    "website": "https://www.freyadetroit.com/"
   },
   {
     "name": "Baobab Fare",
@@ -189,7 +239,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJGylPe3nTJIgRkpVk2bxRz0A",
+    "website": "http://www.baobabfare.com/"
   },
   {
     "name": "Blind Owl Royal Oak",
@@ -197,15 +249,21 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJ-zQ82ibPJIgRuGHTaKcWcp8",
+    "website": "https://www.blindowlrestaurant.com/",
+    "toastUrl": "https://order.toasttab.com/online/blindowlrestaurant"
   },
   {
-    "name": "bepp\u00e9",
+    "name": "beppé",
     "slug": "bepp",
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJPcoDlYPPJIgRlTzVNHlkcBw",
+    "website": "http://eatbeppe.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Blue Goat",
@@ -213,7 +271,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJk9gK1gvPJIgRzkiFVkhpmWE",
+    "website": "https://bluegoatroyaloak.com/"
   },
   {
     "name": "Royal Eats Brunch & Dinner",
@@ -221,7 +281,9 @@
     "category": "breakfast",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJEzAvgUrPJIgRYQ3EJ6whDB4",
+    "website": "https://royaleatsro.com/"
   },
   {
     "name": "Tom's Oyster Bar",
@@ -229,7 +291,9 @@
     "category": "seafood",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJrRGR8UHPJIgRiy8rfog26-Q",
+    "website": "http://www.tomsoysterbar.com/"
   },
   {
     "name": "Vinsetta Garage",
@@ -237,7 +301,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJkTogslLPJIgRFS-w4t261JE",
+    "website": "https://www.vinsettagarage.com/"
   },
   {
     "name": "Lily's Seafood Grill & Brewery",
@@ -245,7 +311,9 @@
     "category": "cafe",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJ15VxDUHPJIgROjPz5_uUOAU",
+    "website": "http://www.lilysseafood.com/"
   },
   {
     "name": "Jim Brady's Royal Oak",
@@ -253,7 +321,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJ_xxKFz7PJIgR2layJFHMtZ0",
+    "website": "http://www.jimbradysroyaloak.com/"
   },
   {
     "name": "Alchemi",
@@ -261,7 +331,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJiaGtazrPJIgRd8kfFS3vxxY",
+    "website": "https://alchemiroyaloak.com/"
   },
   {
     "name": "D'Amato's Restaurant",
@@ -269,7 +341,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJ-ckbZkHPJIgR_pBQotcfuQA",
+    "website": "http://www.damatos.com/"
   },
   {
     "name": "One-Eyed Betty's",
@@ -277,7 +351,10 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJdSM1pOPOJIgRfeJDAuvbWHU",
+    "website": "https://www.oneeyedbettys.com/",
+    "websiteOrderUrl": "https://media-cdn.getbento.com/eGKvfUKaQwCKoRdc7QrX_OEBEyeBall-fav.png"
   },
   {
     "name": "BARREL HOUSE",
@@ -285,7 +362,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJry7PuIHPJIgRCQgkKXSHfTs",
+    "website": "http://www.barrelhouseferndale.com/"
   },
   {
     "name": "Imperial",
@@ -293,7 +372,10 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJydYL5OLOJIgR_nfx4R2cZME",
+    "website": "https://www.imperialferndale.com/",
+    "squareUrl": "http://my-site-102110-108121online.square.site/"
   },
   {
     "name": "Syndicate Ferndale",
@@ -301,7 +383,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJCXAw7RfPJIgR8j5vOTmhWIQ",
+    "website": "http://www.syndicateferndale.com/"
   },
   {
     "name": "Pop's For Italian",
@@ -309,7 +393,11 @@
     "category": "italian",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJv74xK-LOJIgRJA-yppUAcwU",
+    "website": "https://www.popsforitalian.com/",
+    "toastUrl": "https://order.toasttab.com/online/popsforitalian",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Nine Kitchen + Bar",
@@ -317,7 +405,10 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJaVhPbOjPJIgRs0oxBSdyD3E",
+    "website": "https://ninekitchenbar.com/",
+    "toastUrl": "https://order.toasttab.com/online/nine-kitchen-bar-22925-woodward-ave"
   },
   {
     "name": "Howe's Bayou",
@@ -325,7 +416,10 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJEfCM6OLOJIgRyqgEv_-7H28",
+    "website": "http://howesbayouferndale.com/",
+    "toastUrl": "https://order.toasttab.com/online/howes-bayou-22848-woodward-ave"
   },
   {
     "name": "The Corner Grill, Bar + Game Room",
@@ -333,7 +427,10 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJLXhQduHOJIgRiWvNxIN_eE8",
+    "website": "http://thecornerferndale.com/?utm_source=GMBlisting&utm_medium=organic",
+    "toastUrl": "https://order.toasttab.com/online/corner-grill-bar-"
   },
   {
     "name": "Ferndale Project",
@@ -341,7 +438,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJcU7QSo7PJIgRxcHsxEQZUF4",
+    "website": "https://www.ferndaleproject.com/"
   },
   {
     "name": "Anita's Kitchen - Ferndale",
@@ -349,7 +448,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJpeeaFuPOJIgRhbURLpd7x3s",
+    "website": "https://anitaskitchen.com/"
   },
   {
     "name": "Mootz Pizzeria + Bar",
@@ -357,7 +458,10 @@
     "category": "pizza",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJp8vmAi4tO4gReE1hK1DxrRE",
+    "website": "http://www.mootzpizzeria.com/",
+    "toastUrl": "https://order.toasttab.com/online/mootz-pizzeria-bar-1230-library-street"
   },
   {
     "name": "Michigan & Trumbull",
@@ -365,7 +469,9 @@
     "category": "restaurant",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJ0csHikYtO4gRS8Akw-piaR4",
+    "website": "http://mudgiesdeli.com/"
   },
   {
     "name": "Grandma Bob's Pizza",
@@ -373,7 +479,9 @@
     "category": "pizza",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJEThfbe0tO4gRjUp4nDIFf9I",
+    "website": "http://grandmabobs.com/"
   },
   {
     "name": "Loui's Pizza",
@@ -381,7 +489,9 @@
     "category": "pizza",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJD2j1CtTPJIgR9VZdmg2f980",
+    "website": "http://facebook.com/louispizza"
   },
   {
     "name": "Pie Sci Pizza | Detroit",
@@ -389,7 +499,11 @@
     "category": "pizza",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJzbhfb1jNJIgRL1O8rfrLjUY",
+    "website": "https://piescipizza.com/",
+    "toastUrl": "https://order.toasttab.com/online/pie-sci-pizza-5163-trumbull",
+    "websiteOrderUrl": "https://order.online/store/pie-sci-pizza-oak-park-29331169"
   },
   {
     "name": "Buddy's Pizza",
@@ -397,7 +511,9 @@
     "category": "pizza",
     "metros": [
       "detroit"
-    ]
+    ],
+    "placeId": "ChIJ8yMSr-AtO4gRQBcpgW7XVP8",
+    "website": "https://www.buddyspizza.com/downtown-detroit"
   },
   {
     "name": "Sicily's pizzeria and subs",
@@ -1504,7 +1620,7 @@
     "toastUrl": "https://order.toasttab.com/online/uptown-sushi"
   },
   {
-    "name": "Detroit Eatery 200 5th Avenue \u2013 Order pickup and delivery",
+    "name": "Detroit Eatery 200 5th Avenue – Order pickup and delivery",
     "slug": "detroiteatery2005thavenueorderpickupandd",
     "category": "deli",
     "metros": [
@@ -1973,7 +2089,7 @@
     "websiteOrderUrl": "https://norms.olo.com/menu/norms-riverside"
   },
   {
-    "name": "\u1405 Detroit Pizza Delivery - Best Pizza Places in Detroit 2025",
+    "name": "ᐅ Detroit Pizza Delivery - Best Pizza Places in Detroit 2025",
     "slug": "detroitpizzadelivery-bestpizzaplacesinde",
     "category": "pizza",
     "metros": [
@@ -2081,7 +2197,7 @@
     "websiteOrderUrl": "https://www.ezcater.com/brand/detroit-eatery"
   },
   {
-    "name": "ezCater\u2019s top picks: Best catering in Detroit",
+    "name": "ezCater’s top picks: Best catering in Detroit",
     "slug": "ezcaterstoppicksbestcateringindetroit",
     "category": "restaurant",
     "metros": [

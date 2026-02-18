@@ -176,7 +176,7 @@
       "nashville"
     ],
     "address": "5209 Charlotte Ave",
-    "placeId": "ChIJc7oT3m1hZIgRlOyTmAo0vvE",
+    "placeId": "ChIJSbQCipNmZIgRm4c6Nz9sGaE",
     "website": "http://hattieb.com/"
   },
   {
@@ -267,7 +267,7 @@
     "website": "https://eathawkers.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ"
   },
   {
-    "name": "Kor\u00e9",
+    "name": "Koré",
     "slug": "kor",
     "category": "restaurant",
     "metros": [
@@ -345,10 +345,11 @@
       "nashville"
     ],
     "placeId": "ChIJA52LgFdnZIgRwjYY8HbAFYE",
-    "website": "http://pelatorestaurant.com/"
+    "website": "http://pelatorestaurant.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/osaka/76c49d2.osaka/assets/js/head.min.js"
   },
   {
-    "name": "Germantown Caf\u00e9",
+    "name": "Germantown Café",
     "slug": "germantowncaf",
     "category": "cafe",
     "metros": [
@@ -426,7 +427,8 @@
       "nashville"
     ],
     "placeId": "ChIJ71PMT_NmZIgRPuePSAZHIh0",
-    "website": "https://adelesrestaurant.getbento.com/"
+    "website": "https://adelesrestaurant.getbento.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Luogo",
@@ -436,7 +438,8 @@
       "nashville"
     ],
     "placeId": "ChIJH9nNuORnZIgRz4ZY2Va8u9g",
-    "website": "http://www.luogorestaurant.com/"
+    "website": "http://www.luogorestaurant.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/osaka/76c49d2.osaka/assets/js/head.min.js"
   },
   {
     "name": "Harper's",
@@ -446,7 +449,8 @@
       "nashville"
     ],
     "placeId": "ChIJkTimkhVnZIgR1L49miz0jVM",
-    "website": "https://www.harpersnashville.com/"
+    "website": "https://www.harpersnashville.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Two Hands",
@@ -456,7 +460,8 @@
       "nashville"
     ],
     "placeId": "ChIJO71UejhnZIgRiJMuLJSuVtw",
-    "website": "https://www.twohandshospitality.com/location/Nashville/"
+    "website": "https://www.twohandshospitality.com/location/Nashville/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Kayne Prime",
@@ -484,7 +489,9 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJryDB4Q1nZIgR7ToLmwlalqY",
+    "website": "https://www.assemblyfoodhall.com/"
   },
   {
     "name": "Why every restaurant needs an interactive menu",
@@ -492,7 +499,10 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJD71cuSRnZIgRcwLkirc7vXg",
+    "website": "https://www.thefinchnashville.com/",
+    "websiteOrderUrl": "https://order.online/store/the-finch-nashville-28830643"
   },
   {
     "name": "4 tech-focused tips to fight rising restaurant costs",
@@ -500,7 +510,10 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJD71cuSRnZIgRcwLkirc7vXg",
+    "website": "https://www.thefinchnashville.com/",
+    "websiteOrderUrl": "https://order.online/store/the-finch-nashville-28830643"
   },
   {
     "name": "Online Food Ordering System & App",
@@ -517,7 +530,9 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJMQjgCv1mZIgRNRrINpRe1VA",
+    "website": "https://monellstn.com/"
   },
   {
     "name": "J.Darwings Food Truck",
@@ -1281,7 +1296,10 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJJyLffhhnZIgRUTGFTmwJ1m4",
+    "website": "https://www.firedup615.com/",
+    "websiteOrderUrl": "https://order.online/store/34026643"
   },
   {
     "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
@@ -1297,7 +1315,9 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJVVVVVYxmZIgRFzM3V_aE9CQ",
+    "website": "http://www.strategichospitalityonline.com/"
   },
   {
     "name": "Home",
@@ -1422,7 +1442,10 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJN81XNMPMw4kR0tcRqYtAlP4",
+    "website": "https://stewartsonmain.menufy.com/",
+    "websiteOrderUrl": "https://checkout.menufy.com"
   },
   {
     "name": "Home - 404 Bar & Grill",
@@ -1430,7 +1453,9 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJoQAr_opmZIgRgrF8sonAfIc",
+    "website": "https://www.the404nashville.com/"
   },
   {
     "name": "Home - The Local Eatery & Craft Beer",
@@ -1438,7 +1463,9 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJicAHErBmZIgRuVvdONKjiWQ",
+    "website": "https://www.localnash.com/"
   },
   {
     "name": "Velvet Taco Nashville Midtown- 29",
@@ -1468,7 +1495,7 @@
     "websiteOrderUrl": "https://anotherbrokeneggcafe.olo.com/menu/nashville-charlotte-ave"
   },
   {
-    "name": "J. Alexander\u2019s Nashville West End, TN",
+    "name": "J. Alexander’s Nashville West End, TN",
     "slug": "jalexandersnashvillewestendtn",
     "category": "restaurant",
     "metros": [
@@ -1518,7 +1545,9 @@
     "category": "cafe",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJPbmurDRmZIgR-s7WNo11Jwo",
+    "website": "https://www.fatbottombrewing.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb"
   },
   {
     "name": "12 South",
@@ -1634,7 +1663,10 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJkTimkhVnZIgR1L49miz0jVM",
+    "website": "https://www.harpersnashville.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Supper Club - SCOB in Nashville TN, and Memphis, TN",
@@ -1642,7 +1674,9 @@
     "category": "restaurant",
     "metros": [
       "nashville"
-    ]
+    ],
+    "placeId": "ChIJmefx5j1nZIgR5RzqV-zqqEA",
+    "website": "https://thetwelvethirtyclub.com/#section-four?utm_source=google&utm_medium=organic&utm_campaign=maps"
   },
   {
     "name": "East Village: New York, NY",

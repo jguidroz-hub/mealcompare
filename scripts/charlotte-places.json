@@ -5,7 +5,9 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJabCqwvefVogRTqJTb7jCUG8",
+    "website": "http://www.charlottefigtree.com/"
   },
   {
     "name": "STK Steakhouse",
@@ -13,7 +15,10 @@
     "category": "steakhouse",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJyUjTwZKhVogR6marUBDuBV0",
+    "website": "https://stksteakhouse.com/en-us/location/charlotte/",
+    "websiteOrderUrl": "https://stksteakhouse.olo.com/"
   },
   {
     "name": "Angeline's",
@@ -21,7 +26,9 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJD-Um4jqhVogRg_iTz8PG1mw",
+    "website": "https://www.angelinescharlotte.com/"
   },
   {
     "name": "Coquette",
@@ -29,7 +36,9 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJQ8cSyC6gVogRPV9iezHW4vU",
+    "website": "http://www.coquetteclt.com/"
   },
   {
     "name": "Fahrenheit Charlotte",
@@ -37,7 +46,9 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJh7T9XCagVogROCnt4PNJ-p4",
+    "website": "https://fahrenheitrestaurants.com/"
   },
   {
     "name": "RH Rooftop Restaurant at RH Charlotte",
@@ -45,7 +56,9 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJUcjnNxGeVogRAuOQ7QkPOF4",
+    "website": "http://www.rh.com/charlotte/restaurant"
   },
   {
     "name": "Church and Union Charlotte",
@@ -53,7 +66,10 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJaU3FayWgVogRSbDBMGyJSPo",
+    "website": "http://www.churchandunioncharlotte.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Dean's Italian Steakhouse",
@@ -61,7 +77,9 @@
     "category": "italian",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJw9KocSmgVogRa_j2UYnvjaM",
+    "website": "https://www.deanssteakhousecharlotte.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing"
   },
   {
     "name": "Supperland",
@@ -69,7 +87,9 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJFfCtuoShVogRnCN2FADlWCM",
+    "website": "http://supper.land/"
   },
   {
     "name": "State of Confusion",
@@ -77,7 +97,10 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJb5uT7hWfVogRiB7OuU0ZjCI",
+    "website": "http://www.confusionloso.com/",
+    "websiteOrderUrl": "https://order.online/store/StateofConfusion-35386849"
   },
   {
     "name": "Haberdish",
@@ -85,7 +108,9 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJrRwBo9kfVIgRckYYIHnFwMY",
+    "website": "http://haberdish.com/"
   },
   {
     "name": "The Goodyear House",
@@ -93,7 +118,10 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJKYCNXs4fVIgR9uco_0Nz71E",
+    "website": "https://thegoodyearhouse.com/",
+    "toastUrl": "https://order.toasttab.com/online/the-goodyear-house"
   },
   {
     "name": "Oh My Soul",
@@ -101,15 +129,20 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJRee62MShVogRFCB7iTzsbrM",
+    "website": "https://www.ohmysoulusa.com/"
   },
   {
-    "name": "Am\u00e9lie's French Bakery & Caf\u00e9",
+    "name": "Amélie's French Bakery & Café",
     "slug": "amliesfrenchbakerycaf",
     "category": "cafe",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJY_5TrnWgVogRHbnVtqGvxm8",
+    "website": "http://www.ameliesfrenchbakery.com/?utm_source=local&utm_medium=organic",
+    "toastUrl": "https://order.toasttab.com/online/amelies-french-bakery-noda-136-e-36th-street"
   },
   {
     "name": "The Ugly",
@@ -117,15 +150,18 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJAw2n6FEfVIgR9WHDyTF2BiQ"
   },
   {
-    "name": "Artisan\u2019s Palate",
+    "name": "Artisan’s Palate",
     "slug": "artisanspalate",
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJddWGJUcfVIgRYzJNPBTOTvA",
+    "website": "https://www.theartisanpalate.com/"
   },
   {
     "name": "Jack Brown's",
@@ -133,7 +169,10 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJISYZujMfVIgRL7-ProY2Zek",
+    "website": "https://www.jackbrownsjoint.com/locations/charlotte-nc/",
+    "toastUrl": "https://order.toasttab.com/online/jack-browns-joint-charlotte-nc"
   },
   {
     "name": "Soul Gastrolounge",
@@ -141,7 +180,10 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJ40utHgGgVogRefdRyNApUDk",
+    "website": "http://soulgastrolounge.com/",
+    "toastUrl": "https://order.toasttab.com/online/soul-gatrolounge-2025-4110-raleigh-street-ste-120"
   },
   {
     "name": "JackBeagle's Noda",
@@ -149,7 +191,10 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJw47d7NkfVIgR9XVlaX9sxaw",
+    "website": "https://www.jackbeagles.com/",
+    "websiteOrderUrl": "https://direct.chownow.com/order/15936/locations"
   },
   {
     "name": "Ever Andalo",
@@ -157,7 +202,9 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJg2T1KOgfVIgR7q87XNSrLco",
+    "website": "http://everandalo.com/"
   },
   {
     "name": "Culinary Dropout",
@@ -165,7 +212,9 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJy0JlKvufVogREqNq-8c3HXQ",
+    "website": "https://www.culinarydropout.com/locations/charlotte-nc/?utm_source=Google&utm_medium=Organic&utm_campaign=Maps"
   },
   {
     "name": "La Capital MX",
@@ -173,7 +222,10 @@
     "category": "mediterranean",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJBYwU83mfVogRaphpq1L1Wc0",
+    "website": "https://www.lacapitalmxclt.com/",
+    "websiteOrderUrl": "https://theme-assets.getbento.com/sensei/71bd0c7.sensei/assets/js/head.min.js"
   },
   {
     "name": "Sixty Vines",
@@ -181,7 +233,9 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJ_Zz6qCqgVogRzIzG88m_AaM",
+    "website": "http://www.sixtyvines.com/"
   },
   {
     "name": "Chapter 6",
@@ -189,7 +243,9 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJbRmqknifVogRtyBDcVfVMag",
+    "website": "https://www.chaptersixclt.com/"
   },
   {
     "name": "North Italia",
@@ -197,7 +253,9 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJi8-gn3-fVogR5iPxG3TIT-c",
+    "website": "https://www.northitalia.com/locations/charlotte-nc/"
   },
   {
     "name": "PARA Charlotte",
@@ -205,7 +263,9 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJf-Y5wVifVogR4fe-QyaJXLc",
+    "website": "http://www.paraclt.com/"
   },
   {
     "name": "Yunta",
@@ -213,7 +273,10 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJjZjGUS2fVogRfrLkkjJ-3as",
+    "website": "http://yuntanikkei.com/",
+    "toastUrl": "https://order.toasttab.com/online/yunta"
   },
   {
     "name": "South End Eats",
@@ -221,7 +284,9 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJYyJ-viGfVogRlQbL3rZJHJg",
+    "website": "https://southendeatsnc.com/"
   },
   {
     "name": "Midwood Smokehouse",
@@ -229,7 +294,11 @@
     "category": "bbq",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJa9SgXQGgVogRj0yK5cneGGs",
+    "website": "https://midwoodsmokehouse.com/",
+    "toastUrl": "https://order.toasttab.com/online/locations",
+    "websiteOrderUrl": "https://direct.chownow.com/order/1482/locations"
   },
   {
     "name": "Noble Smoke",
@@ -237,7 +306,10 @@
     "category": "bbq",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJbUJgxxKhVogRN-Y8AFH-YhY",
+    "website": "http://noblesmokebarbecue.com/",
+    "toastUrl": "https://order.toasttab.com/online/noble-smoke-bbq"
   },
   {
     "name": "Jon G's Barbecue",
@@ -245,7 +317,10 @@
     "category": "bbq",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJqQ05vdFIVIgRNNgGZVEP7Sk",
+    "website": "http://www.jongsbarbecue.com/",
+    "squareUrl": "https://jongsmenu.square.site"
   },
   {
     "name": "Sweet Lew's BBQ",
@@ -253,7 +328,9 @@
     "category": "bbq",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJvdaRXBChVogRLYI-J1DKA1Y",
+    "website": "https://www.sweetlewsbbq.com/"
   },
   {
     "name": "McKoy's Smokehouse and Saloon",
@@ -261,7 +338,9 @@
     "category": "bbq",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJuxIakCCfVogRLzmOprQpNjk",
+    "website": "http://mckoys.net/"
   },
   {
     "name": "THE SMOKE PIT",
@@ -269,7 +348,10 @@
     "category": "bbq",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJJ7SavlUnVIgRi5kXbj_BhF4",
+    "website": "https://www.thesmokepitonline.com/",
+    "toastUrl": "https://order.toasttab.com/online/locations"
   },
   {
     "name": "Mac's Speed Shop",
@@ -277,7 +359,9 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJ8aiXDzUZU4gRDe4PxUMrtQU",
+    "website": "http://www.macspeedshop.com/"
   },
   {
     "name": "Lexington Barbecue",
@@ -285,15 +369,19 @@
     "category": "bbq",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJOTZYHl6XU4gRHDJh188ie1w",
+    "website": "http://www.lexbbq.com/"
   },
   {
-    "name": "The Workman\u2019s Friend",
+    "name": "The Workman’s Friend",
     "slug": "theworkmansfriend",
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJ1Uli3QCgVogRr8438Cl1K34",
+    "website": "https://theworkmansfriend.com/"
   },
   {
     "name": "DTR Plaza Midwood",
@@ -301,7 +389,9 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJX-jLBgChVogRJeRMYGRymzU",
+    "website": "http://www.dilworthtr.com/"
   },
   {
     "name": "Painted Rooster",
@@ -309,7 +399,9 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJ8wh4NAChVogRU11E7jHW6yY",
+    "website": "http://www.bigpaintedrooster.com/"
   },
   {
     "name": "Mezzo Market",
@@ -317,7 +409,9 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJqRwm2L4fVIgRyQRYL0ptjdg",
+    "website": "https://mezzomarketclt.com/"
   },
   {
     "name": "Moo & Brew",
@@ -325,7 +419,10 @@
     "category": "cafe",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJPUaOwAOgVogRin4_thvBvlI",
+    "website": "https://mooandbrew.com/",
+    "toastUrl": "https://order.toasttab.com/online/moo-brew-beer-and-burger-joint"
   },
   {
     "name": "Que Onda - Plaza Midwood",
@@ -333,7 +430,9 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJk9nOvN2hVogRCFpRUBS6YF4",
+    "website": "http://queondatacos.com/"
   },
   {
     "name": "Whiskey Warehouse",
@@ -341,7 +440,10 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJtxY4iACgVogRcynvqRlDq9U",
+    "website": "https://www.whiskeywarehouse.com/",
+    "toastUrl": "https://order.toasttab.com/online/whiskey-warehouse-1221-the-plz"
   },
   {
     "name": "Ruby Sunshine",
@@ -349,7 +451,9 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJd-4Mo1mhVogRfr9SBiy_HVY",
+    "website": "https://www.rubybrunch.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ"
   },
   {
     "name": "Cafe Monte French Bakery and Bistro",
@@ -357,7 +461,9 @@
     "category": "cafe",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJ40xEJnOfVogR33OEt6ijYtE",
+    "website": "https://cafemonte.net/"
   },
   {
     "name": "Easy Like Sunday",
@@ -365,7 +471,10 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJjUHI2vKfVogRbN8joYIxAHY",
+    "website": "http://www.easylikesundayclt.com/",
+    "toastUrl": "https://order.toasttab.com/online/easy-like-sunday-1600-e-woodlawn-rd-suite-100-charlotte-nc-28209"
   },
   {
     "name": "Sweet Crunch",
@@ -373,7 +482,10 @@
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJv45TFPihVogRN8dD_oNuhww",
+    "website": "https://sweetcrunch-waffles.square.site/",
+    "squareUrl": "https://sweetcrunch-waffles.square.site"
   },
   {
     "name": "Singas Famous Pizza Charlotte, NC",
@@ -1060,7 +1172,7 @@
     "toastUrl": "https://order.toasttab.com/online/burgercity"
   },
   {
-    "name": "Sunnin Lebanese Caf\u00e9",
+    "name": "Sunnin Lebanese Café",
     "slug": "sunnin-lebanese-caf",
     "category": "cafe",
     "metros": [
@@ -1155,15 +1267,19 @@
     "category": "korean",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJL6KXFzYnVIgREZUlQKp-e7I",
+    "website": "http://joakoreanfood.com/"
   },
   {
-    "name": "The Corner Pub \u2013 Uptown Charlotte Bar & Restaurant",
+    "name": "The Corner Pub – Uptown Charlotte Bar & Restaurant",
     "slug": "thecornerpubuptowncharlottebarrestaurant",
     "category": "restaurant",
     "metros": [
       "charlotte"
-    ]
+    ],
+    "placeId": "ChIJ4wuOhTCgVogRnk9JtEVXQtE",
+    "website": "http://cornerpubcharlotte.com/"
   },
   {
     "name": "Restaurant menu ideas: 9 of the best menus to inspire you",
@@ -1676,7 +1792,7 @@
     "websiteOrderUrl": "https://www.getbento.com/products/online-ordering/"
   },
   {
-    "name": "LUMI\u00c8RE",
+    "name": "LUMIÈRE",
     "slug": "lumire",
     "category": "restaurant",
     "metros": [
@@ -2178,7 +2294,7 @@
     "toastUrl": "https://order.toasttab.com/online/greko-greek-street-food"
   },
   {
-    "name": "Mer\u00e1ki Greek Grill",
+    "name": "Meráki Greek Grill",
     "slug": "merkigreekgrill",
     "category": "mediterranean",
     "metros": [
