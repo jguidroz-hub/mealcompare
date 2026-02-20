@@ -16,8 +16,10 @@ COPY packages/shared ./packages/shared/
 COPY packages/engine ./packages/engine/
 COPY packages/web ./packages/web/
 
-# Build Next.js
-RUN npm run build:web
+# Build: shared → engine → web (in dependency order)
+RUN npm -w packages/shared run build && \
+    npm -w packages/engine run build && \
+    npm run build:web
 
 EXPOSE 3000
 ENV NODE_ENV=production
