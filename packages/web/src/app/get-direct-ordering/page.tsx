@@ -1,14 +1,15 @@
-import type { Metadata } from 'next';
+'use client';
 import Link from 'next/link';
 
-export const metadata: Metadata = {
-  title: 'Get Direct Ordering for Your Restaurant | SkipTheFee',
-  description: 'Stop paying 28-33% commissions to DoorDash and Uber Eats. Set up your own direct ordering system and keep more of every sale.',
-  openGraph: {
-    title: 'Get Direct Ordering for Your Restaurant | SkipTheFee',
-    description: 'Stop paying 28-33% commissions to DoorDash and Uber Eats.',
-  },
-};
+async function trackPlatformClick(platform: string) {
+  try {
+    await fetch('/api/track-platform', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ platform }),
+    });
+  } catch { /* never block UX for tracking */ }
+}
 
 const platforms = [
   {
@@ -169,6 +170,7 @@ export default function GetDirectOrderingPage() {
                 href={p.cta}
                 target="_blank"
                 rel="noopener noreferrer"
+                onClick={() => trackPlatformClick(p.name)}
                 style={{
                   display: 'inline-block', marginTop: 16, padding: '10px 24px',
                   border: '1px solid rgba(16,185,129,0.4)', borderRadius: 10,

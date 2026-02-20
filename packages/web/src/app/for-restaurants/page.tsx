@@ -133,6 +133,60 @@ export default function ForRestaurants() {
         </div>
       </section>
 
+      {/* Featured Listing Pricing */}
+      <section id="featured" style={{ padding: '80px 24px', maxWidth: 800, margin: '0 auto' }}>
+        <div style={{ textAlign: 'center', marginBottom: 48 }}>
+          <div style={{ display: 'inline-flex', alignItems: 'center', gap: 8, background: 'rgba(245,158,11,0.08)', border: '1px solid rgba(245,158,11,0.2)', borderRadius: 100, padding: '6px 18px', fontSize: 13, color: '#f59e0b', fontWeight: 600, marginBottom: 20 }}>
+            ⭐ Featured Listing
+          </div>
+          <h2 style={{ fontSize: 36, fontWeight: 800, letterSpacing: '-0.02em', marginBottom: 12 }}>
+            Stand out in your metro
+          </h2>
+          <p style={{ fontSize: 15, color: '#64748b', maxWidth: 520, margin: '0 auto' }}>
+            Restaurants that pay 28% to DoorDash every order won&apos;t blink at $29/month to be at the top.
+          </p>
+        </div>
+
+        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 20 }}>
+          {/* Standard */}
+          <div className="glass-card" style={{ padding: 28, border: '1px solid rgba(255,255,255,0.08)' }}>
+            <div style={{ fontSize: 13, color: '#94a3b8', fontWeight: 600, marginBottom: 8 }}>STANDARD</div>
+            <div style={{ fontSize: 36, fontWeight: 900, marginBottom: 4 }}>$29<span style={{ fontSize: 16, fontWeight: 400, color: '#64748b' }}>/mo</span></div>
+            <div style={{ fontSize: 12, color: '#475569', marginBottom: 20 }}>Cancel anytime</div>
+            <ul style={{ listStyle: 'none', padding: 0, fontSize: 13, color: '#94a3b8', lineHeight: 2.2 }}>
+              <li>✅ Featured badge on all search results</li>
+              <li>✅ Priority placement in your metro</li>
+              <li>✅ "Direct Ordering" highlight label</li>
+              <li>✅ Referral click analytics</li>
+              <li>✅ Listed in 30 cities</li>
+            </ul>
+            <FeaturedCheckoutButton tier="standard" label="Get Standard — $29/mo" />
+          </div>
+
+          {/* Premium */}
+          <div className="glass-card" style={{ padding: 28, border: '1px solid rgba(245,158,11,0.25)', position: 'relative', overflow: 'hidden' }}>
+            <div style={{ position: 'absolute', top: 0, right: 0, background: 'linear-gradient(135deg, #f59e0b, #d97706)', color: 'white', fontSize: 11, fontWeight: 800, padding: '4px 14px', borderBottomLeftRadius: 10 }}>
+              BEST VALUE
+            </div>
+            <div style={{ fontSize: 13, color: '#f59e0b', fontWeight: 600, marginBottom: 8 }}>PREMIUM</div>
+            <div style={{ fontSize: 36, fontWeight: 900, marginBottom: 4 }}>$99<span style={{ fontSize: 16, fontWeight: 400, color: '#64748b' }}>/mo</span></div>
+            <div style={{ fontSize: 12, color: '#475569', marginBottom: 20 }}>Cancel anytime</div>
+            <ul style={{ listStyle: 'none', padding: 0, fontSize: 13, color: '#94a3b8', lineHeight: 2.2 }}>
+              <li>✅ Everything in Standard</li>
+              <li>✅ #1 placement in Chrome extension overlay</li>
+              <li>✅ Featured on metro homepage</li>
+              <li>✅ Social proof badge (&ldquo;Top Rated Direct&rdquo;)</li>
+              <li>✅ Monthly traffic report via email</li>
+              <li>✅ Priority support</li>
+            </ul>
+            <FeaturedCheckoutButton tier="premium" label="Get Premium — $99/mo" highlight />
+          </div>
+        </div>
+        <p style={{ textAlign: 'center', fontSize: 13, color: '#334155', marginTop: 20 }}>
+          Just want to get listed? Scroll down — the basic listing is free forever.
+        </p>
+      </section>
+
       {/* Claim form */}
       <section id="claim" style={{ padding: '80px 24px', maxWidth: 560, margin: '0 auto', textAlign: 'center' }}>
         <h2 style={{ fontSize: 36, fontWeight: 800, letterSpacing: '-0.02em', marginBottom: 12 }}>
@@ -231,5 +285,65 @@ function ClaimFormComponent() {
         {status === 'error' && <p style={{ color: '#ef4444', fontSize: 13, marginTop: 8, textAlign: 'center' }}>Something went wrong. Please try again.</p>}
       </form>
     </div>
+  );
+}
+
+function FeaturedCheckoutButton({ tier, label, highlight }: { tier: 'standard' | 'premium'; label: string; highlight?: boolean }) {
+  const [status, setStatus] = useState<'idle' | 'loading' | 'error'>('idle');
+  const [email, setEmail] = useState('');
+  const [restaurant, setRestaurant] = useState('');
+  const [showForm, setShowForm] = useState(false);
+
+  const handleCheckout = async (e: React.FormEvent) => {
+    e.preventDefault();
+    setStatus('loading');
+    try {
+      const res = await fetch('/api/checkout', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ restaurantName: restaurant, email, tier }),
+      });
+      const data = await res.json();
+      if (data.url) {
+        window.location.href = data.url;
+      } else {
+        setStatus('error');
+      }
+    } catch {
+      setStatus('error');
+    }
+  };
+
+  const btnStyle = {
+    width: '100%', marginTop: 20, padding: '12px 20px', borderRadius: 10,
+    fontWeight: 700, fontSize: 14, cursor: 'pointer', border: 'none',
+    background: highlight ? 'linear-gradient(135deg, #d97706, #f59e0b)' : 'linear-gradient(135deg, #059669, #10b981)',
+    color: 'white',
+  } as const;
+
+  if (!showForm) {
+    return (
+      <button style={btnStyle} onClick={() => setShowForm(true)}>
+        {label}
+      </button>
+    );
+  }
+
+  const inputStyle = {
+    width: '100%', padding: '10px 12px', background: 'rgba(255,255,255,0.04)',
+    border: '1px solid rgba(255,255,255,0.08)', borderRadius: 8, color: '#e2e8f0',
+    fontSize: 14, outline: 'none', boxSizing: 'border-box',
+    marginBottom: 10,
+  } as const;
+
+  return (
+    <form onSubmit={handleCheckout} style={{ marginTop: 16 }}>
+      <input value={restaurant} onChange={e => setRestaurant(e.target.value)} required placeholder="Restaurant name" style={inputStyle} />
+      <input value={email} onChange={e => setEmail(e.target.value)} type="email" required placeholder="owner@restaurant.com" style={inputStyle} />
+      <button type="submit" style={btnStyle} disabled={status === 'loading'}>
+        {status === 'loading' ? '⏳ Redirecting to Stripe...' : `Continue to Payment →`}
+      </button>
+      {status === 'error' && <p style={{ color: '#ef4444', fontSize: 12, marginTop: 6, textAlign: 'center' }}>Something went wrong. Try again.</p>}
+    </form>
   );
 }

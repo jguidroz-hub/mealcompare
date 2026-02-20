@@ -11,7 +11,7 @@ export async function POST(req: NextRequest) {
   });
 
   try {
-    const { restaurantName, email, claimId } = await req.json();
+    const { restaurantName, email, claimId, tier } = await req.json();
 
     if (!restaurantName || !email) {
       return NextResponse.json({ error: 'Restaurant name and email required' }, { status: 400 });
@@ -19,13 +19,18 @@ export async function POST(req: NextRequest) {
 
     const baseUrl = process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3001';
 
+    // Tier routing: standard ($29/mo) or premium ($99/mo)
+    const priceId = tier === 'premium'
+      ? (process.env.STRIPE_PREMIUM_PRICE_ID || 'price_1T2uywHS7pkl2UJIPZN2Aiuu')
+      : (process.env.STRIPE_STANDARD_PRICE_ID || 'price_1T2uyvHS7pkl2UJI8P3vPk7p');
+
     const session = await stripe.checkout.sessions.create({
       mode: 'subscription',
       payment_method_types: ['card'],
       customer_email: email,
       line_items: [
         {
-          price: process.env.STRIPE_VERIFIED_LISTING_PRICE_ID || 'price_1T2tQCHS7pkl2UJIs6V2ia7x',
+          price: priceId,
           quantity: 1,
         },
       ],
@@ -33,9 +38,10 @@ export async function POST(req: NextRequest) {
         restaurantName,
         email,
         claimId: claimId || '',
+        tier: tier || 'standard',
       },
       subscription_data: {
-        metadata: { restaurantName, email },
+        metadata: { restaurantName, email, tier: tier || 'standard' },
       },
       success_url: `${baseUrl}/for-restaurants?success=true&session_id={CHECKOUT_SESSION_ID}`,
       cancel_url: `${baseUrl}/for-restaurants?canceled=true`,
