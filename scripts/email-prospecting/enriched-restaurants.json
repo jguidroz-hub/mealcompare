@@ -1,0 +1,692 @@
+[
+  {
+    "name": "Monkey Bar",
+    "metro": "nyc",
+    "emails": [
+      "contact@nycmonkeybar.com"
+    ],
+    "website": "https://www.nycmonkeybar.com/about",
+    "enrichedAt": "2026-02-20T17:59:41.846Z"
+  },
+  {
+    "name": "Girl & The Goat",
+    "metro": "chicago",
+    "emails": [
+      "info@girlandthegoat.com"
+    ],
+    "website": "https://www.opentable.com/r/girl-and-the-goat-chicago",
+    "enrichedAt": "2026-02-20T17:59:43.188Z"
+  },
+  {
+    "name": "Perch",
+    "metro": "la",
+    "emails": [
+      "info@perchla.com"
+    ],
+    "website": "https://www.perchla.com/perch-contact",
+    "enrichedAt": "2026-02-20T17:59:44.961Z"
+  },
+  {
+    "name": "The View Lounge",
+    "metro": "sf",
+    "emails": [],
+    "website": "https://www.theviewlounge-sf.com/our-menus",
+    "enrichedAt": "2026-02-20T17:59:46.682Z"
+  },
+  {
+    "name": "The Dandelion",
+    "metro": "philly",
+    "emails": [
+      "Adam.Flocke@starr-restaurant.com"
+    ],
+    "website": "https://thedandelionpub.com/",
+    "enrichedAt": "2026-02-20T17:59:48.371Z"
+  },
+  {
+    "name": "The Salty Pig",
+    "metro": "boston",
+    "emails": [],
+    "website": "https://www.thesaltypig.com/",
+    "enrichedAt": "2026-02-20T17:59:49.732Z"
+  },
+  {
+    "name": "Komodo Miami",
+    "metro": "miami",
+    "emails": [
+      "info@komodomiami.com",
+      "INFO@GROOTHQ.COM"
+    ],
+    "website": "https://komodomiami.com/",
+    "enrichedAt": "2026-02-20T17:59:51.417Z"
+  },
+  {
+    "name": "Dragonfly",
+    "metro": "dallas",
+    "emails": [],
+    "website": "https://www.hotelzaza.com/dallas/dining/dragonfly",
+    "enrichedAt": "2026-02-20T17:59:52.763Z"
+  },
+  {
+    "name": "Aquarium Restaurant",
+    "metro": "houston",
+    "emails": [],
+    "website": "https://www.downtownaquariumhouston.com/aquarium-restaurant",
+    "enrichedAt": "2026-02-20T17:59:54.452Z"
+  },
+  {
+    "name": "Miel De Agave Phoenix",
+    "metro": "phoenix",
+    "emails": [],
+    "website": "https://taste-az.com/miel-de-agave-phoenix/",
+    "enrichedAt": "2026-02-20T17:59:56.098Z"
+  },
+  {
+    "name": "Recette",
+    "metro": "nyc",
+    "emails": [],
+    "website": "https://recettenyc.com/",
+    "enrichedAt": "2026-02-20T17:59:57.911Z"
+  },
+  {
+    "name": "River Roast",
+    "metro": "chicago",
+    "emails": [],
+    "website": "https://www.riverroastchicago.com/contact/",
+    "enrichedAt": "2026-02-20T17:59:59.626Z"
+  },
+  {
+    "name": "Little Beast Restaurant",
+    "metro": "la",
+    "emails": [],
+    "website": "https://little-beast-restaurant.wheree.com/",
+    "enrichedAt": "2026-02-20T18:00:01.345Z"
+  },
+  {
+    "name": "Absinthe Brasserie & Bar",
+    "metro": "sf",
+    "emails": [],
+    "website": "https://www.absinthe.com",
+    "enrichedAt": "2026-02-20T18:00:03.086Z"
+  },
+  {
+    "name": "Talula\\",
+    "metro": "philly",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:00:04.721Z"
+  },
+  {
+    "name": "Beehive Restaurant",
+    "metro": "boston",
+    "emails": [],
+    "website": "https://www.opentable.com/r/beehive-boston",
+    "enrichedAt": "2026-02-20T18:00:06.489Z"
+  },
+  {
+    "name": "Moxies Miami Restaurant",
+    "metro": "miami",
+    "emails": [],
+    "website": "https://www.restaurant.com/locations/moxies-miami-restaurant-miami-900-s-miami-ave-ste-161",
+    "enrichedAt": "2026-02-20T18:00:08.203Z"
+  },
+  {
+    "name": "The Woolworth",
+    "metro": "dallas",
+    "emails": [],
+    "website": "https://www.visitdallas.com/directory/the-woolworth/",
+    "enrichedAt": "2026-02-20T18:00:09.943Z"
+  },
+  {
+    "name": "State of Grace",
+    "metro": "houston",
+    "emails": [
+      "EventsStateofGrace@rocketfarmrestaurants.com",
+      "stateofgracetx@rocketfarmrestaurants.com",
+      "PR@rocketfarmrestaurants.com"
+    ],
+    "website": "https://stateofgracetx.com/",
+    "enrichedAt": "2026-02-20T18:00:11.688Z"
+  },
+  {
+    "name": "Different Pointe of View",
+    "metro": "phoenix",
+    "emails": [],
+    "website": "https://tapatiocliffshilton.com/dining/different-pointe-of-view/",
+    "enrichedAt": "2026-02-20T18:00:13.384Z"
+  },
+  {
+    "name": "Hole In The Wall",
+    "metro": "nyc",
+    "emails": [],
+    "website": "https://holeinthewallnyc.com/flatiron",
+    "enrichedAt": "2026-02-20T18:00:15.168Z"
+  },
+  {
+    "name": "The Dearborn",
+    "metro": "chicago",
+    "emails": [
+      "gsamuels@thedearborntavern.com",
+      "general@thedearborntavern.com"
+    ],
+    "website": "https://www.thedearborntavern.com/",
+    "enrichedAt": "2026-02-20T18:00:16.907Z"
+  },
+  {
+    "name": "Yamashiro Hollywood",
+    "metro": "la",
+    "emails": [],
+    "website": "https://www.facebook.com/YamashiroLA/",
+    "enrichedAt": "2026-02-20T18:00:18.698Z"
+  },
+  {
+    "name": "Lazy Bear",
+    "metro": "sf",
+    "emails": [
+      "contact@lazybearsf.com",
+      "tickets@lazybearsf.com",
+      "events@lazybearsf.com",
+      "press@lazybearsf.com"
+    ],
+    "website": "https://www.lazybearsf.com/",
+    "enrichedAt": "2026-02-20T18:00:20.492Z"
+  },
+  {
+    "name": "The Love.",
+    "metro": "philly",
+    "emails": [],
+    "website": "https://theloverestaurant.com/",
+    "enrichedAt": "2026-02-20T18:00:22.541Z"
+  },
+  {
+    "name": "Legal Sea Foods - Harborside",
+    "metro": "boston",
+    "emails": [],
+    "website": "https://www.opentable.com/r/legal-sea-foods-harborside-boston",
+    "enrichedAt": "2026-02-20T18:00:24.283Z"
+  },
+  {
+    "name": "Casa Tua Cucina Brickell",
+    "metro": "miami",
+    "emails": [],
+    "website": "https://www.facebook.com/547226878986553",
+    "enrichedAt": "2026-02-20T18:00:26.019Z"
+  },
+  {
+    "name": "The Hampton Social",
+    "metro": "dallas",
+    "emails": [],
+    "website": "https://www.thehamptonsocial.com/dallas",
+    "enrichedAt": "2026-02-20T18:00:27.833Z"
+  },
+  {
+    "name": "Lucille\\",
+    "metro": "houston",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:00:29.501Z"
+  },
+  {
+    "name": "The Arrogant Butcher",
+    "metro": "phoenix",
+    "emails": [],
+    "website": "https://www.thearrogantbutcher.com/locations/phoenix-az/",
+    "enrichedAt": "2026-02-20T18:00:31.344Z"
+  },
+  {
+    "name": "The River Café",
+    "metro": "nyc",
+    "emails": [
+      "privateevents@rivercafe.com"
+    ],
+    "website": "https://rivercafe.com/contact/",
+    "enrichedAt": "2026-02-20T18:00:33.190Z"
+  },
+  {
+    "name": "The Purple Pig Restaurant",
+    "metro": "chicago",
+    "emails": [
+      "info@thepurplepigchicago.com"
+    ],
+    "website": "https://bloomfloralshop.com/blogs/news/dine-with-the-purple-pig-restaurant-send-love-their-way-same-day-flower-delivery-chicago-il-bloom-floral-shop",
+    "enrichedAt": "2026-02-20T18:00:34.893Z"
+  },
+  {
+    "name": "Musso & Frank Grill",
+    "metro": "la",
+    "emails": [],
+    "website": "https://www.foodnetwork.com/restaurants/ca/los-angeles/musso-frank-grill-restaurant",
+    "enrichedAt": "2026-02-20T18:00:36.670Z"
+  },
+  {
+    "name": "The Morris",
+    "metro": "sf",
+    "emails": [
+      "events@themorris-sf.com"
+    ],
+    "website": "https://themorris-sf.com/",
+    "enrichedAt": "2026-02-20T18:00:38.513Z"
+  },
+  {
+    "name": "Harper\\",
+    "metro": "philly",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:00:40.149Z"
+  },
+  {
+    "name": "Ostra",
+    "metro": "boston",
+    "emails": [],
+    "website": "https://ostraboston.com/",
+    "enrichedAt": "2026-02-20T18:00:41.914Z"
+  },
+  {
+    "name": "Nikki Beach Miami Beach",
+    "metro": "miami",
+    "emails": [],
+    "website": "https://nikkibeach.com/miami-beach/",
+    "enrichedAt": "2026-02-20T18:00:43.633Z"
+  },
+  {
+    "name": "The Henry",
+    "metro": "dallas",
+    "emails": [],
+    "website": "https://www.thehenryrestaurant.com/locations/the-henry-dallas/",
+    "enrichedAt": "2026-02-20T18:00:45.374Z"
+  },
+  {
+    "name": "Hull & Oak",
+    "metro": "houston",
+    "emails": [],
+    "website": "https://www.opentable.com/r/hull-and-oak-southern-kitchen-houston",
+    "enrichedAt": "2026-02-20T18:00:47.113Z"
+  },
+  {
+    "name": "The Farish House",
+    "metro": "phoenix",
+    "emails": [
+      "eric@farishhouse.com"
+    ],
+    "website": "https://farishhouse.com/",
+    "enrichedAt": "2026-02-20T18:00:48.855Z"
+  },
+  {
+    "name": "Cornbread Brooklyn",
+    "metro": "nyc",
+    "emails": [],
+    "website": "https://whereyoueat.com/Cornbread-Brooklyn-30068.html",
+    "enrichedAt": "2026-02-20T18:00:50.594Z"
+  },
+  {
+    "name": "Elephant & Castle",
+    "metro": "chicago",
+    "emails": [],
+    "website": "https://www.elephantcastle.com/en/locations/il/chicago/111-west-adams-street",
+    "enrichedAt": "2026-02-20T18:00:52.328Z"
+  },
+  {
+    "name": "Providence",
+    "metro": "la",
+    "emails": [
+      "info@providencela.com"
+    ],
+    "website": "https://www.facebook.com/providencela/",
+    "enrichedAt": "2026-02-20T18:00:54.182Z"
+  },
+  {
+    "name": "La Taqueria",
+    "metro": "sf",
+    "emails": [],
+    "website": "https://lataqueriasf.net/",
+    "enrichedAt": "2026-02-20T18:00:55.922Z"
+  },
+  {
+    "name": "Wilder",
+    "metro": "philly",
+    "emails": [
+      "events@wilderphilly.com",
+      "info@wilderphilly.com"
+    ],
+    "website": "https://www.wilderphilly.com/",
+    "enrichedAt": "2026-02-20T18:00:57.835Z"
+  },
+  {
+    "name": "Union Oyster House",
+    "metro": "boston",
+    "emails": [],
+    "website": "http://unionoysterhouse.com/",
+    "enrichedAt": "2026-02-20T18:00:59.608Z"
+  },
+  {
+    "name": "Old\\",
+    "metro": "miami",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:01.347Z"
+  },
+  {
+    "name": "Monarch Restaurant",
+    "metro": "dallas",
+    "emails": [
+      "info@monarchrestaurants.com"
+    ],
+    "website": "https://www.monarchrestaurants.com/",
+    "enrichedAt": "2026-02-20T18:01:03.292Z"
+  },
+  {
+    "name": "Taste of Texas",
+    "metro": "houston",
+    "emails": [
+      "Support@tasteoftexas.com"
+    ],
+    "website": "https://www.facebook.com/TheTasteofTexas/",
+    "enrichedAt": "2026-02-20T18:01:05.034Z"
+  },
+  {
+    "name": "Palma",
+    "metro": "phoenix",
+    "emails": [],
+    "website": "https://www.opentable.com/r/palma-phoenix",
+    "enrichedAt": "2026-02-20T18:01:06.776Z"
+  },
+  {
+    "name": "Fandi Mata",
+    "metro": "nyc",
+    "emails": [
+      "info@fandimata.com"
+    ],
+    "website": "https://www.facebook.com/fandimatabklyn/",
+    "enrichedAt": "2026-02-20T18:01:08.518Z"
+  },
+  {
+    "name": "Carnivale Chicago",
+    "metro": "chicago",
+    "emails": [],
+    "website": "https://www.carnivalechicago.com/",
+    "enrichedAt": "2026-02-20T18:01:10.257Z"
+  },
+  {
+    "name": "The Little Door",
+    "metro": "la",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:11.521Z"
+  },
+  {
+    "name": "Rintaro",
+    "metro": "sf",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:12.782Z"
+  },
+  {
+    "name": "Butcher and Singer",
+    "metro": "philly",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:14.048Z"
+  },
+  {
+    "name": "Wusong Tiki Bar",
+    "metro": "boston",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:15.312Z"
+  },
+  {
+    "name": "La Mulata | Cuban Restaurant Miami Beach",
+    "metro": "miami",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:16.576Z"
+  },
+  {
+    "name": "Written by the Seasons",
+    "metro": "dallas",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:17.847Z"
+  },
+  {
+    "name": "The Pit Room",
+    "metro": "houston",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:19.112Z"
+  },
+  {
+    "name": "Chelsea’s Kitchen",
+    "metro": "phoenix",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:20.370Z"
+  },
+  {
+    "name": "LILLI RESTAURANT",
+    "metro": "nyc",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:21.631Z"
+  },
+  {
+    "name": "Beatnik On The River",
+    "metro": "chicago",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:22.891Z"
+  },
+  {
+    "name": "Girl & the Goat Los Angeles",
+    "metro": "la",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:24.155Z"
+  },
+  {
+    "name": "Sangria & Salt",
+    "metro": "sf",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:25.422Z"
+  },
+  {
+    "name": "Harp & Crown",
+    "metro": "philly",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:26.704Z"
+  },
+  {
+    "name": "Carmelina\\",
+    "metro": "boston",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:27.962Z"
+  },
+  {
+    "name": "Esquina Cubana | Cuban Restaurant Miami Beach",
+    "metro": "miami",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:29.223Z"
+  },
+  {
+    "name": "3Eleven Kitchen and Cocktails",
+    "metro": "dallas",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:30.483Z"
+  },
+  {
+    "name": "Fielding\\",
+    "metro": "houston",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:31.741Z"
+  },
+  {
+    "name": "Seasons 52",
+    "metro": "phoenix",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:33.000Z"
+  },
+  {
+    "name": "Sunday In Brooklyn",
+    "metro": "nyc",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:34.262Z"
+  },
+  {
+    "name": "Quartino Ristorante",
+    "metro": "chicago",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:35.521Z"
+  },
+  {
+    "name": "Running Goose",
+    "metro": "la",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:36.785Z"
+  },
+  {
+    "name": "Rich Table",
+    "metro": "sf",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:38.052Z"
+  },
+  {
+    "name": "Little Nonna\\",
+    "metro": "philly",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:39.316Z"
+  },
+  {
+    "name": "La Famiglia Giorgio\\",
+    "metro": "boston",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:40.573Z"
+  },
+  {
+    "name": "Havana Vieja | Latin Restaurant Miami Beach",
+    "metro": "miami",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:41.830Z"
+  },
+  {
+    "name": "La Stella Cucina Verace",
+    "metro": "dallas",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:43.089Z"
+  },
+  {
+    "name": "Roost",
+    "metro": "houston",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:44.352Z"
+  },
+  {
+    "name": "Olive & Ivy",
+    "metro": "phoenix",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:45.614Z"
+  },
+  {
+    "name": "Evelina",
+    "metro": "nyc",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:46.871Z"
+  },
+  {
+    "name": "Pizzeria Portofino",
+    "metro": "chicago",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:48.132Z"
+  },
+  {
+    "name": "Mother Wolf",
+    "metro": "la",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:49.393Z"
+  },
+  {
+    "name": "Suppenküche",
+    "metro": "sf",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:50.652Z"
+  },
+  {
+    "name": "Osteria Ama Philly",
+    "metro": "philly",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:51.909Z"
+  },
+  {
+    "name": "Prezza",
+    "metro": "boston",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:53.173Z"
+  },
+  {
+    "name": "Sala\\",
+    "metro": "miami",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:54.436Z"
+  },
+  {
+    "name": "Al Biernat\\",
+    "metro": "dallas",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:55.699Z"
+  },
+  {
+    "name": "Little’s Oyster Bar",
+    "metro": "houston",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:56.965Z"
+  },
+  {
+    "name": "ZuZu",
+    "metro": "phoenix",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:58.228Z"
+  },
+  {
+    "name": "The Alcove",
+    "metro": "nyc",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:01:59.491Z"
+  },
+  {
+    "name": "Giordano\\",
+    "metro": "chicago",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:02:00.755Z"
+  },
+  {
+    "name": "UOVO Santa Monica",
+    "metro": "la",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:02:02.019Z"
+  },
+  {
+    "name": "Doppio Zero San Francisco",
+    "metro": "sf",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:02:03.282Z"
+  },
+  {
+    "name": "Wm. Mulherin’s Sons",
+    "metro": "philly",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:02:04.545Z"
+  },
+  {
+    "name": "Limoncello",
+    "metro": "boston",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:02:05.806Z"
+  },
+  {
+    "name": "Alma Cubana | Cuban Restaurant Miami Beach",
+    "metro": "miami",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:02:07.067Z"
+  },
+  {
+    "name": "MIRADOR",
+    "metro": "dallas",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:02:08.331Z"
+  },
+  {
+    "name": "Nobie\\",
+    "metro": "houston",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:02:09.591Z"
+  },
+  {
+    "name": "Culinary Dropout",
+    "metro": "phoenix",
+    "emails": [],
+    "enrichedAt": "2026-02-20T18:02:10.855Z"
+  }
+]

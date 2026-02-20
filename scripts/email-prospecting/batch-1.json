@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Monkey Bar",
+    "metro": "nyc"
+  },
+  {
+    "name": "Girl & The Goat",
+    "metro": "chicago"
+  },
+  {
+    "name": "Perch",
+    "metro": "la"
+  },
+  {
+    "name": "The View Lounge",
+    "metro": "sf"
+  },
+  {
+    "name": "The Dandelion",
+    "metro": "philly"
+  },
+  {
+    "name": "The Salty Pig",
+    "metro": "boston"
+  },
+  {
+    "name": "Komodo Miami",
+    "metro": "miami"
+  },
+  {
+    "name": "Dragonfly",
+    "metro": "dallas"
+  },
+  {
+    "name": "Aquarium Restaurant",
+    "metro": "houston"
+  },
+  {
+    "name": "Miel De Agave Phoenix",
+    "metro": "phoenix"
+  },
+  {
+    "name": "Recette",
+    "metro": "nyc"
+  },
+  {
+    "name": "River Roast",
+    "metro": "chicago"
+  },
+  {
+    "name": "Little Beast Restaurant",
+    "metro": "la"
+  },
+  {
+    "name": "Absinthe Brasserie & Bar",
+    "metro": "sf"
+  },
+  {
+    "name": "Talula\\",
+    "metro": "philly"
+  },
+  {
+    "name": "Beehive Restaurant",
+    "metro": "boston"
+  },
+  {
+    "name": "Moxies Miami Restaurant",
+    "metro": "miami"
+  },
+  {
+    "name": "The Woolworth",
+    "metro": "dallas"
+  },
+  {
+    "name": "State of Grace",
+    "metro": "houston"
+  },
+  {
+    "name": "Different Pointe of View",
+    "metro": "phoenix"
+  },
+  {
+    "name": "Hole In The Wall",
+    "metro": "nyc"
+  },
+  {
+    "name": "The Dearborn",
+    "metro": "chicago"
+  },
+  {
+    "name": "Yamashiro Hollywood",
+    "metro": "la"
+  },
+  {
+    "name": "Lazy Bear",
+    "metro": "sf"
+  },
+  {
+    "name": "The Love.",
+    "metro": "philly"
+  },
+  {
+    "name": "Legal Sea Foods - Harborside",
+    "metro": "boston"
+  },
+  {
+    "name": "Casa Tua Cucina Brickell",
+    "metro": "miami"
+  },
+  {
+    "name": "The Hampton Social",
+    "metro": "dallas"
+  },
+  {
+    "name": "Lucille\\",
+    "metro": "houston"
+  },
+  {
+    "name": "The Arrogant Butcher",
+    "metro": "phoenix"
+  },
+  {
+    "name": "The River Café",
+    "metro": "nyc"
+  },
+  {
+    "name": "The Purple Pig Restaurant",
+    "metro": "chicago"
+  },
+  {
+    "name": "Musso & Frank Grill",
+    "metro": "la"
+  },
+  {
+    "name": "The Morris",
+    "metro": "sf"
+  },
+  {
+    "name": "Harper\\",
+    "metro": "philly"
+  },
+  {
+    "name": "Ostra",
+    "metro": "boston"
+  },
+  {
+    "name": "Nikki Beach Miami Beach",
+    "metro": "miami"
+  },
+  {
+    "name": "The Henry",
+    "metro": "dallas"
+  },
+  {
+    "name": "Hull & Oak",
+    "metro": "houston"
+  },
+  {
+    "name": "The Farish House",
+    "metro": "phoenix"
+  },
+  {
+    "name": "Cornbread Brooklyn",
+    "metro": "nyc"
+  },
+  {
+    "name": "Elephant & Castle",
+    "metro": "chicago"
+  },
+  {
+    "name": "Providence",
+    "metro": "la"
+  },
+  {
+    "name": "La Taqueria",
+    "metro": "sf"
+  },
+  {
+    "name": "Wilder",
+    "metro": "philly"
+  },
+  {
+    "name": "Union Oyster House",
+    "metro": "boston"
+  },
+  {
+    "name": "Old\\",
+    "metro": "miami"
+  },
+  {
+    "name": "Monarch Restaurant",
+    "metro": "dallas"
+  },
+  {
+    "name": "Taste of Texas",
+    "metro": "houston"
+  },
+  {
+    "name": "Palma",
+    "metro": "phoenix"
+  },
+  {
+    "name": "Fandi Mata",
+    "metro": "nyc"
+  },
+  {
+    "name": "Carnivale Chicago",
+    "metro": "chicago"
+  },
+  {
+    "name": "The Little Door",
+    "metro": "la"
+  },
+  {
+    "name": "Rintaro",
+    "metro": "sf"
+  },
+  {
+    "name": "Butcher and Singer",
+    "metro": "philly"
+  },
+  {
+    "name": "Wusong Tiki Bar",
+    "metro": "boston"
+  },
+  {
+    "name": "La Mulata | Cuban Restaurant Miami Beach",
+    "metro": "miami"
+  },
+  {
+    "name": "Written by the Seasons",
+    "metro": "dallas"
+  },
+  {
+    "name": "The Pit Room",
+    "metro": "houston"
+  },
+  {
+    "name": "Chelsea’s Kitchen",
+    "metro": "phoenix"
+  },
+  {
+    "name": "LILLI RESTAURANT",
+    "metro": "nyc"
+  },
+  {
+    "name": "Beatnik On The River",
+    "metro": "chicago"
+  },
+  {
+    "name": "Girl & the Goat Los Angeles",
+    "metro": "la"
+  },
+  {
+    "name": "Sangria & Salt",
+    "metro": "sf"
+  },
+  {
+    "name": "Harp & Crown",
+    "metro": "philly"
+  },
+  {
+    "name": "Carmelina\\",
+    "metro": "boston"
+  },
+  {
+    "name": "Esquina Cubana | Cuban Restaurant Miami Beach",
+    "metro": "miami"
+  },
+  {
+    "name": "3Eleven Kitchen and Cocktails",
+    "metro": "dallas"
+  },
+  {
+    "name": "Fielding\\",
+    "metro": "houston"
+  },
+  {
+    "name": "Seasons 52",
+    "metro": "phoenix"
+  },
+  {
+    "name": "Sunday In Brooklyn",
+    "metro": "nyc"
+  },
+  {
+    "name": "Quartino Ristorante",
+    "metro": "chicago"
+  },
+  {
+    "name": "Running Goose",
+    "metro": "la"
+  },
+  {
+    "name": "Rich Table",
+    "metro": "sf"
+  },
+  {
+    "name": "Little Nonna\\",
+    "metro": "philly"
+  },
+  {
+    "name": "La Famiglia Giorgio\\",
+    "metro": "boston"
+  },
+  {
+    "name": "Havana Vieja | Latin Restaurant Miami Beach",
+    "metro": "miami"
+  },
+  {
+    "name": "La Stella Cucina Verace",
+    "metro": "dallas"
+  },
+  {
+    "name": "Roost",
+    "metro": "houston"
+  },
+  {
+    "name": "Olive & Ivy",
+    "metro": "phoenix"
+  },
+  {
+    "name": "Evelina",
+    "metro": "nyc"
+  },
+  {
+    "name": "Pizzeria Portofino",
+    "metro": "chicago"
+  },
+  {
+    "name": "Mother Wolf",
+    "metro": "la"
+  },
+  {
+    "name": "Suppenküche",
+    "metro": "sf"
+  },
+  {
+    "name": "Osteria Ama Philly",
+    "metro": "philly"
+  },
+  {
+    "name": "Prezza",
+    "metro": "boston"
+  },
+  {
+    "name": "Sala\\",
+    "metro": "miami"
+  },
+  {
+    "name": "Al Biernat\\",
+    "metro": "dallas"
+  },
+  {
+    "name": "Little’s Oyster Bar",
+    "metro": "houston"
+  },
+  {
+    "name": "ZuZu",
+    "metro": "phoenix"
+  },
+  {
+    "name": "The Alcove",
+    "metro": "nyc"
+  },
+  {
+    "name": "Giordano\\",
+    "metro": "chicago"
+  },
+  {
+    "name": "UOVO Santa Monica",
+    "metro": "la"
+  },
+  {
+    "name": "Doppio Zero San Francisco",
+    "metro": "sf"
+  },
+  {
+    "name": "Wm. Mulherin’s Sons",
+    "metro": "philly"
+  },
+  {
+    "name": "Limoncello",
+    "metro": "boston"
+  },
+  {
+    "name": "Alma Cubana | Cuban Restaurant Miami Beach",
+    "metro": "miami"
+  },
+  {
+    "name": "MIRADOR",
+    "metro": "dallas"
+  },
+  {
+    "name": "Nobie\\",
+    "metro": "houston"
+  },
+  {
+    "name": "Culinary Dropout",
+    "metro": "phoenix"
+  }
+]
