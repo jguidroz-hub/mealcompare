@@ -366,6 +366,8 @@ body {
 }
 
 /* ---- RESPONSIVE ---- */
+
+/* Tablet */
 @media (max-width: 900px) {
   .hero-grid {
     grid-template-columns: 1fr !important;
@@ -373,32 +375,70 @@ body {
   }
   .hero-mockup-wrap { display: none !important; }
   .hero-grid h1 { font-size: 42px !important; }
+  /* Kayak section: stack columns */
+  .kayak-section-grid { grid-template-columns: 1fr !important; gap: 40px !important; }
 }
 
+/* Mobile */
 @media (max-width: 640px) {
   .desktop-only { display: none !important; }
-  .hero-title { font-size: 38px !important; letter-spacing: -0.02em !important; }
-  .hero-subtitle { font-size: 15px !important; }
-  .hero-section { padding: 64px 20px 48px !important; }
-  .hero-buttons { flex-direction: column !important; align-items: stretch !important; }
-  .hero-buttons a { justify-content: center !important; }
+
+  /* Hero */
+  .hero-grid h1 { font-size: 32px !important; line-height: 1.1 !important; }
+  .hero-grid p  { font-size: 15px !important; }
+
+  /* Full-width buttons on mobile */
+  .hero-cta-row {
+    flex-direction: column !important;
+    align-items: stretch !important;
+  }
+  .hero-cta-row a,
+  .hero-cta-row button {
+    justify-content: center !important;
+    width: 100% !important;
+    text-align: center !important;
+  }
+
+  /* Grids → single column */
   .steps-grid { grid-template-columns: 1fr !important; gap: 12px !important; }
   .fee-grid { grid-template-columns: 1fr !important; gap: 12px !important; }
-  .section-title { font-size: 28px !important; }
-  .comparison-card { margin-left: 8px !important; margin-right: 8px !important; }
-  .quote-row { padding: 10px 12px !important; }
-  .quote-name { font-size: 13px !important; }
-  .quote-fees { font-size: 10px !important; }
-  .quote-total { font-size: 14px !important; }
-  .savings-card { flex-direction: column !important; align-items: flex-start !important; gap: 8px !important; }
-  .savings-badge { align-self: flex-end !important; }
-  .bottom-cta-title { font-size: 32px !important; }
-  .stat-grid { grid-template-columns: 1fr 1fr !important; }
-  .hero-grid h1 { font-size: 36px !important; }
-  .hero-grid p  { font-size: 16px !important; }
+  .kayak-section-grid { grid-template-columns: 1fr !important; gap: 32px !important; }
+
+  /* Section headings — scale down */
+  .section-heading { font-size: 28px !important; }
+
+  /* Kayak table overflow fix */
   .kayak-table-fees { display: none !important; }
+
+  /* Savings card stack */
+  .savings-card {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 10px !important;
+  }
+
+  /* Bottom CTA — smaller logo */
+  .cta-logo { font-size: 56px !important; }
+
+  /* Platforms strip — wrap */
+  .platform-strip {
+    gap: 12px !important;
+    justify-content: flex-start !important;
+  }
+
+  /* Testimonial grid */
+  .testimonial-grid { grid-template-columns: 1fr !important; }
 }
 
 @media (min-width: 641px) {
   .mobile-only { display: none !important; }
+}
+
+/* ---- GLOBAL OVERFLOW PREVENTION ---- */
+html, body { overflow-x: hidden; }
+
+/* ---- SECTION PADDING MOBILE ---- */
+@media (max-width: 640px) {
+  section { padding-left: 16px !important; padding-right: 16px !important; }
+  section > div { max-width: 100% !important; overflow: hidden; }
 }

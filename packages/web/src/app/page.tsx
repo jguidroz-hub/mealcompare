@@ -94,7 +94,7 @@ export default function Home() {
             <p style={{ fontSize: 15, color: C.stone400, lineHeight: 1.65, marginBottom: 38, maxWidth: 440 }}>
               Free forever. Works on any restaurant. No account required.
             </p>
-            <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap', marginBottom: 36 }}>
+            <div className="hero-cta-row" style={{ display: 'flex', gap: 12, flexWrap: 'wrap', marginBottom: 36 }}>
               <Link href="/install" className="btn-primary" style={{ fontSize: 16 }}>🧩 Add to Chrome — Free</Link>
               <Link href="/restaurants" className="btn-outline" style={{ fontSize: 16 }}>Browse Restaurants</Link>
             </div>
@@ -119,7 +119,7 @@ export default function Home() {
 
       {/* ═══ PLATFORM STRIP ═══ */}
       <div style={{ borderTop: `1px solid ${C.stone200}`, borderBottom: `1px solid ${C.stone200}`, background: C.stone50, padding: '18px 24px' }}>
-        <div style={{ maxWidth: 960, margin: '0 auto', display: 'flex', alignItems: 'center', gap: 24, flexWrap: 'wrap', justifyContent: 'center' }}>
+        <div className="platform-strip" style={{ maxWidth: 960, margin: '0 auto', display: 'flex', alignItems: 'center', gap: 24, flexWrap: 'wrap', justifyContent: 'center' }}>
           <span style={{ fontSize: 11, fontWeight: 600, color: C.stone400, letterSpacing: '0.08em', textTransform: 'uppercase', marginRight: 4 }}>We compare</span>
           {['🔴 DoorDash','🟢 Uber Eats','🟠 Grubhub','🏪 Toast Direct','⬛ Square Direct','🟡 ChowNow'].map(p => (
             <span key={p} style={{ fontSize: 14, color: C.stone600, fontWeight: 600 }}>{p}</span>
@@ -130,10 +130,10 @@ export default function Home() {
 
       {/* ═══ KAYAK SECTION ═══ */}
       <section style={{ padding: '108px 24px', maxWidth: 1040, margin: '0 auto' }}>
-        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 72, alignItems: 'center' }}>
+        <div className="kayak-section-grid" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 72, alignItems: 'center' }}>
           <div>
             <div className="badge-blue" style={{ display: 'inline-flex', marginBottom: 24 }}>The price comparison engine for food delivery</div>
-            <h2 style={{ fontSize: 40, fontWeight: 900, letterSpacing: '-0.03em', lineHeight: 1.15, marginBottom: 22 }}>
+            <h2 className="section-heading" style={{ fontSize: 40, fontWeight: 900, letterSpacing: '-0.03em', lineHeight: 1.15, marginBottom: 22 }}>
               You wouldn&apos;t book a flight without{' '}
               <span style={{ color: C.blue }}>checking every airline.</span>
             </h2>
@@ -166,7 +166,7 @@ export default function Home() {
       <section style={{ padding: '88px 24px', background: C.stone50, borderTop: `1px solid ${C.stone200}`, borderBottom: `1px solid ${C.stone200}` }}>
         <div style={{ maxWidth: 1040, margin: '0 auto' }}>
           <div style={{ textAlign: 'center', marginBottom: 56 }}>
-            <h2 style={{ fontSize: 42, fontWeight: 900, letterSpacing: '-0.03em', marginBottom: 16 }}>
+            <h2 className="section-heading" style={{ fontSize: 42, fontWeight: 900, letterSpacing: '-0.03em', marginBottom: 16 }}>
               How <span style={{ color: C.blue }}>Eddy</span> works
             </h2>
             <p style={{ fontSize: 15, color: C.stone500, maxWidth: 480, margin: '0 auto', lineHeight: 1.7 }}>
@@ -197,7 +197,7 @@ export default function Home() {
       <section style={{ padding: '100px 24px', maxWidth: 880, margin: '0 auto' }}>
         <div style={{ textAlign: 'center', marginBottom: 52 }}>
           <div className="badge-red" style={{ display: 'inline-flex', marginBottom: 20 }}>The real cost</div>
-          <h2 style={{ fontSize: 42, fontWeight: 900, letterSpacing: '-0.03em', marginBottom: 16 }}>
+          <h2 className="section-heading" style={{ fontSize: 42, fontWeight: 900, letterSpacing: '-0.03em', marginBottom: 16 }}>
             What they charge.<br />
             <span style={{ color: C.blue }}>What you could keep.</span>
           </h2>
@@ -230,7 +230,7 @@ export default function Home() {
       <section style={{ padding: '80px 24px', background: C.stone50, borderTop: `1px solid ${C.stone200}`, borderBottom: `1px solid ${C.stone200}` }}>
         <div style={{ maxWidth: 720, margin: '0 auto' }}>
           <div style={{ textAlign: 'center', marginBottom: 40 }}>
-            <h2 style={{ fontSize: 38, fontWeight: 900, letterSpacing: '-0.03em', marginBottom: 10 }}>
+            <h2 className="section-heading" style={{ fontSize: 38, fontWeight: 900, letterSpacing: '-0.03em', marginBottom: 10 }}>
               Real orders. <span style={{ color: C.blue }}>Real savings.</span>
             </h2>
             <p style={{ fontSize: 14, color: C.stone500 }}>Verified comparisons from supported cities.</p>
@@ -259,10 +259,10 @@ export default function Home() {
       {/* ═══ SOCIAL PROOF ═══ */}
       <section style={{ padding: '100px 24px', maxWidth: 960, margin: '0 auto' }}>
         <div style={{ textAlign: 'center', marginBottom: 48 }}>
-          <h2 style={{ fontSize: 38, fontWeight: 900, letterSpacing: '-0.03em', marginBottom: 10 }}>People found the current.</h2>
+          <h2 className="section-heading" style={{ fontSize: 38, fontWeight: 900, letterSpacing: '-0.03em', marginBottom: 10 }}>People found the current.</h2>
           <p style={{ fontSize: 15, color: C.stone500 }}>You don&apos;t need a subscription. You just need Eddy.</p>
         </div>
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))', gap: 14 }}>
+        <div className="testimonial-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))', gap: 14 }}>
           {[
             { text: 'Saved $8 on my very first order. I felt dumb for using DoorDash for two years.', author: 'Marcus T.', city: 'Chicago', saved: '$8.00' },
             { text: 'I order Thai 3x a week. Eddy found the direct link every single time. That\'s $60/month back in my pocket.', author: 'Sarah K.', city: 'NYC', saved: '$60/mo' },
@@ -283,7 +283,7 @@ export default function Home() {
       {/* ═══ FAQ ═══ */}
       <section style={{ padding: '88px 24px', background: C.stone50, borderTop: `1px solid ${C.stone200}`, borderBottom: `1px solid ${C.stone200}` }}>
         <div style={{ maxWidth: 660, margin: '0 auto' }}>
-          <h2 style={{ fontSize: 38, fontWeight: 900, letterSpacing: '-0.03em', textAlign: 'center', marginBottom: 52 }}>FAQ</h2>
+          <h2 className="section-heading" style={{ fontSize: 38, fontWeight: 900, letterSpacing: '-0.03em', textAlign: 'center', marginBottom: 52 }}>FAQ</h2>
           {([
             { q: 'Is Eddy really free?', a: 'Yes — the extension, restaurant listings, and price comparisons are completely free forever. We offer optional featured placement for restaurant owners ($29/mo). That\'s our business model. Not your data.' },
             { q: 'How do you get the prices?', a: 'Public APIs, live menu data, and known fee models — verified with real orders. Prices are updated regularly and flagged when estimates are used vs. live pulls.' },
@@ -303,13 +303,13 @@ export default function Home() {
       <section className="bg-glow" style={{ padding: '108px 24px', textAlign: 'center', position: 'relative', overflow: 'hidden' }}>
         <div style={{ position: 'relative', zIndex: 1 }}>
           <div style={{ fontSize: 11, fontWeight: 800, color: C.blue, letterSpacing: '0.14em', textTransform: 'uppercase', marginBottom: 22 }}>~ Find the current</div>
-          <div style={{ fontSize: 84, fontWeight: 900, letterSpacing: '-0.05em', lineHeight: 1, marginBottom: 20 }}>
+          <div className="cta-logo" style={{ fontSize: 84, fontWeight: 900, letterSpacing: '-0.05em', lineHeight: 1, marginBottom: 20 }}>
             eddy<span style={{ color: C.blue }}>.</span>
           </div>
           <p style={{ fontSize: 20, color: C.stone500, fontWeight: 400, lineHeight: 1.55, maxWidth: 380, margin: '0 auto 44px' }}>
             Add to Chrome in 2 seconds.<br />Save on your next order.
           </p>
-          <div style={{ display: 'flex', gap: 12, justifyContent: 'center', flexWrap: 'wrap' }}>
+          <div className="hero-cta-row" style={{ display: 'flex', gap: 12, justifyContent: 'center', flexWrap: 'wrap' }}>
             <Link href="/install" className="btn-primary" style={{ fontSize: 17, padding: '16px 44px' }}>🧩 Add to Chrome — Free</Link>
             <Link href="/restaurants" className="btn-outline" style={{ fontSize: 17, padding: '16px 34px' }}>Browse Restaurants</Link>
           </div>
