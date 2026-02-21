@@ -124,4 +124,26 @@ export async function ensureSchema() {
       UNIQUE(session_id, restaurant_slug, metro)
     )
   `);
+
+  // Restaurants (live database — replaces compiled top-restaurants.ts)
+  await pool.query(`
+    CREATE TABLE IF NOT EXISTS restaurants (
+      id SERIAL PRIMARY KEY,
+      name TEXT NOT NULL,
+      slug TEXT NOT NULL,
+      category TEXT NOT NULL DEFAULT 'restaurant',
+      metros TEXT[] NOT NULL DEFAULT '{}',
+      toast_url TEXT,
+      square_url TEXT,
+      website_order_url TEXT,
+      ubereats_slug TEXT,
+      doordash_slug TEXT,
+      is_chain BOOLEAN NOT NULL DEFAULT false,
+      created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
+      updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+    )
+  `);
+  await pool.query(`CREATE INDEX IF NOT EXISTS idx_restaurants_slug ON restaurants(slug)`);
+  await pool.query(`CREATE INDEX IF NOT EXISTS idx_restaurants_metros ON restaurants USING GIN(metros)`);
+  await pool.query(`CREATE INDEX IF NOT EXISTS idx_restaurants_name_lower ON restaurants(lower(name))`);
 }

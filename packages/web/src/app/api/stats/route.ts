@@ -1,33 +1,20 @@
 import { NextResponse } from 'next/server';
-import { getRestaurantsForMetro } from '@mealcompare/engine';
-
-const METROS = [
-  'nyc','chicago','la','sf','boston','miami','dc','austin','houston','atlanta',
-  'seattle','denver','philly','nashville','nola','dallas','phoenix','portland',
-  'detroit','minneapolis','charlotte','tampa','sandiego','stlouis','pittsburgh',
-  'columbus','indianapolis','milwaukee','raleigh','baltimore',
-];
+import { countRestaurants, getAllMetros } from '@/lib/restaurants';
 
 /**
- * GET /api/stats — Landing page stats
+ * GET /api/stats — Landing page stats (now from Postgres)
  */
 export async function GET() {
-  let total = 0;
-  let directOrder = 0;
-
-  for (const metro of METROS) {
-    const restaurants = getRestaurantsForMetro(metro);
-    total += restaurants.length;
-    directOrder += restaurants.filter(
-      r => r.toastUrl || r.squareUrl || r.websiteOrderUrl
-    ).length;
-  }
+  const { total, withDirect } = await countRestaurants();
+  const metros = await getAllMetros();
 
   return NextResponse.json({
     totalRestaurants: total,
-    directOrderRestaurants: directOrder,
-    metros: METROS,
-    metroCount: METROS.length,
+    directOrderRestaurants: withDirect,
+    metros,
+    metroCount: metros.length,
     avgSavingsPercent: 18,
+  }, {
+    headers: { 'Cache-Control': 'public, s-maxage=300, stale-while-revalidate=600' },
   });
 }

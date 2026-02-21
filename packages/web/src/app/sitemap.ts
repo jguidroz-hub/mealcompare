@@ -1,14 +1,7 @@
 import { MetadataRoute } from 'next';
-import { getRestaurantsForMetro, getDirectOrderUrl } from '@mealcompare/engine';
+import { getRestaurantsForMetro, getDirectOrderUrl, getAllMetros } from '@/lib/restaurants';
 
-const METROS = [
-  'nyc','chicago','la','sf','boston','miami','dc','austin','houston','atlanta',
-  'seattle','denver','philly','nashville','nola','dallas','phoenix','portland',
-  'detroit','minneapolis','charlotte','tampa','sandiego','stlouis','pittsburgh',
-  'columbus','indianapolis','milwaukee','raleigh','baltimore',
-];
-
-export default function sitemap(): MetadataRoute.Sitemap {
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const base = 'https://eddy.delivery';
   const now = new Date();
 
@@ -22,7 +15,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/privacy`, lastModified: now, changeFrequency: 'monthly', priority: 0.3 },
   ];
 
-  const metroPages: MetadataRoute.Sitemap = METROS.map(metro => ({
+  const metros = await getAllMetros();
+
+  const metroPages: MetadataRoute.Sitemap = metros.map(metro => ({
     url: `${base}/restaurants/${metro}`,
     lastModified: now,
     changeFrequency: 'weekly' as const,
@@ -31,8 +26,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Restaurant detail pages — only those with direct ordering URLs (high value)
   const restaurantPages: MetadataRoute.Sitemap = [];
-  for (const metro of METROS) {
-    const restaurants = getRestaurantsForMetro(metro);
+  for (const metro of metros) {
+    const restaurants = await getRestaurantsForMetro(metro);
     for (const r of restaurants) {
       if (getDirectOrderUrl(r)) {
         const slug = r.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+$/, '');

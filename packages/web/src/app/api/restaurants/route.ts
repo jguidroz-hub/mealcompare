@@ -1,11 +1,11 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { getRestaurantsForMetro, getDirectOrderUrl } from '@mealcompare/engine';
+import { getRestaurantsForMetro, getDirectOrderUrl } from '@/lib/restaurants';
 
 /**
  * GET /api/restaurants?metro=austin
  * 
  * Returns top restaurants for a metro with their direct ordering URLs.
- * Used by the extension to show "order direct" suggestions.
+ * Now backed by Postgres — adding restaurants is just an INSERT.
  */
 export async function GET(req: NextRequest) {
   const metro = req.nextUrl.searchParams.get('metro') ?? 'austin';
@@ -15,7 +15,7 @@ export async function GET(req: NextRequest) {
   const cat = req.nextUrl.searchParams.get('category');
   const directOnly = req.nextUrl.searchParams.get('direct') === '1';
 
-  let restaurants = getRestaurantsForMetro(metro);
+  let restaurants = await getRestaurantsForMetro(metro);
   const total = restaurants.length;
 
   // Filter

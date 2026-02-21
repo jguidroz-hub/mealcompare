@@ -8,7 +8,7 @@ import {
   normalizeMenuItemName,
   calculateSavings,
 } from '@mealcompare/shared';
-import { findRestaurantData, getDirectOrderUrl } from '@mealcompare/engine';
+import { findRestaurantData, getDirectOrderUrl } from '@/lib/restaurants';
 
 /**
  * POST /api/compare
@@ -297,7 +297,7 @@ function estimateDirectQuote(
   const deliveryFee = 499;
 
   // Look up known direct ordering URL from restaurant database
-  const knownRestaurant = findRestaurantData(restaurantName, metro);
+  const knownRestaurant = await findRestaurantData(restaurantName, metro);
   const directUrl = knownRestaurant ? getDirectOrderUrl(knownRestaurant) : null;
   const deepLink = directUrl ?? `https://www.google.com/search?q=${encodeURIComponent(restaurantName + ' order online direct')}`;
   const confidence = directUrl ? 0.8 : 0.5; // Higher confidence if we have a known URL
