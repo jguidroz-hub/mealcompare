@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'Privacy Policy — SkipTheFee',
-  description: 'SkipTheFee privacy policy. We don\'t sell your data.',
+  description: 'SkipTheFee privacy policy. We collect minimal data and never sell it.',
 };
 
 export default function PrivacyPage() {
@@ -15,52 +15,52 @@ export default function PrivacyPage() {
         </Link>
 
         <h1 style={{ fontSize: 32, fontWeight: 800, marginBottom: 8 }}>Privacy Policy</h1>
-        <p style={{ fontSize: 13, color: '#64748b', marginBottom: 32 }}>Last updated: February 12, 2026</p>
+        <p style={{ fontSize: 13, color: '#64748b', marginBottom: 32 }}>Last updated: February 21, 2026</p>
 
         {[
           {
             title: 'What We Collect',
-            text: `SkipTheFee collects minimal data to provide price comparisons:
+            text: `When you visit a restaurant page on DoorDash, Uber Eats, or Grubhub, the SkipTheFee extension sends the restaurant name and your approximate metro area to our servers (skipthefee.app) to check whether that restaurant has a direct ordering option.
 
-• **Cart data** — When you add items to your cart on DoorDash, Uber Eats, or Grubhub, the extension reads your cart contents (restaurant name, item names, quantities, prices) to compare prices across platforms. This data is sent to our server for comparison and is not stored after the comparison is complete.
-
-• **Metro preference** — Your selected metro area is stored locally in your browser using Chrome's storage API.
-
-• **Usage stats** — Number of comparisons made and total savings found, stored locally in your browser. Never sent to our servers.`
+We do not collect your name, email address, IP address, browsing history, purchase history, or any personally identifiable information.`
           },
           {
             title: 'What We Don\'t Collect',
-            text: `• No personal information (no name, email, address, payment info)
-• No browsing history beyond the delivery app pages
+            text: `• No personal information
+• No browsing history
+• No cart contents or order data
+• No payment information
+• No location beyond metro-level (e.g. "nyc"), stored locally in your browser
 • No cookies or tracking pixels
-• No account creation required
-• No data sold to third parties — ever`
+• No account required`
+          },
+          {
+            title: 'Local Storage',
+            text: `The extension stores a list of recently-shown restaurant names in your browser's local storage to avoid showing repeat notifications. This data never leaves your device and is cleared when you remove the extension.`
           },
           {
             title: 'Chrome Extension Permissions',
-            text: `• **storage** — Save your metro preference and usage stats locally
-• **host_permissions** — Access DoorDash, Uber Eats, Grubhub, and Toast pages to detect your cart and compare prices
+            text: `• storage — Saves which restaurants you've already been shown, locally in your browser
+• host_permissions (doordash.com, ubereats.com, grubhub.com) — Reads the restaurant name from the page to check our database
+• host_permissions (skipthefee.app) — Calls our API to look up direct ordering options
 
-We request only the minimum permissions needed. We do NOT request access to all websites or your browsing activity.`
+We request only the minimum permissions required. We do not access your full browsing history or any pages outside of delivery app restaurant pages.`
           },
           {
             title: 'Data Sharing',
-            text: `We do not sell, rent, or share your data with anyone. Cart data is sent to our comparison API (hosted on Vercel) only to perform the price comparison and is immediately discarded after the response is sent.`
+            text: `We do not sell, rent, or share your data with any third parties. Restaurant name lookups are used only to serve you the direct ordering result and are not retained in association with any user identity.`
           },
           {
             title: 'Third-Party Services',
-            text: `• **Vercel** — Hosts our web application and API
-• **Chrome Web Store** — Distributes the extension
-
-No analytics, advertising, or tracking services are used.`
+            text: `SkipTheFee is hosted on our own infrastructure. We do not use Google Analytics, Facebook Pixel, or any advertising or tracking services.`
           },
           {
             title: 'Your Rights',
-            text: `Since we don't store personal data, there's nothing to delete. Your local preferences can be cleared by removing the extension. If you have questions, contact us at hello@skipthefee.app.`
+            text: `Since we do not store personal data, there is nothing to delete. Your local preferences and notification history can be cleared by removing the extension from Chrome. For any questions, contact us at jon@skipthefee.app.`
           },
           {
-            title: 'Changes',
-            text: `We may update this policy. Changes will be posted here with an updated date. Continued use of SkipTheFee after changes constitutes acceptance.`
+            title: 'Changes to This Policy',
+            text: `We may update this policy from time to time. Changes will be posted here with an updated date. Continued use of SkipTheFee after changes constitutes acceptance of the updated policy.`
           },
         ].map((section, i) => (
           <div key={i} style={{ marginBottom: 32 }}>
@@ -72,7 +72,7 @@ No analytics, advertising, or tracking services are used.`
         ))}
 
         <div style={{ borderTop: '1px solid #1e293b', paddingTop: 24, marginTop: 40, fontSize: 13, color: '#475569' }}>
-          Contact: hello@skipthefee.app · SkipTheFee is a product of Greenbelt Ventures
+          Contact: jon@skipthefee.app · SkipTheFee is a product of Greenbelt Ventures
         </div>
       </div>
     </main>
