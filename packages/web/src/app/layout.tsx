@@ -3,29 +3,29 @@ import './globals.css';
 import FeedbackWidget from './components/FeedbackWidget';
 
 export const metadata: Metadata = {
-  title: 'SkipTheFee — Find the Cheapest Food Delivery',
-  description: 'Compare prices across DoorDash, Uber Eats, Grubhub, and direct ordering. Save $5-15 on every order.',
+  title: 'Eddy — Find the cheapest way to order food',
+  description: 'Eddy compares DoorDash, Uber Eats, Grubhub, and direct restaurant ordering. Find the cheapest option every time. Free forever.',
   manifest: '/manifest.json',
   appleWebApp: {
     capable: true,
     statusBarStyle: 'black-translucent',
-    title: 'SkipTheFee',
+    title: 'Eddy',
   },
   icons: {
     icon: '/icons/icon-192.png',
     apple: '/icons/apple-touch-icon.png',
   },
   openGraph: {
-    title: 'SkipTheFee — Stop Overpaying for Food Delivery',
-    description: 'Compare total costs across DoorDash, Uber Eats, Grubhub & direct ordering.',
+    title: 'Eddy — Stop paying delivery app fees',
+    description: 'Every order has a cheaper path. Eddy finds it.',
     type: 'website',
-    url: 'https://skipthefee.app',
-    siteName: 'SkipTheFee',
+    url: 'https://eddy.delivery',
+    siteName: 'Eddy',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'SkipTheFee — Stop Overpaying for Food Delivery',
-    description: 'Compare total costs across DoorDash, Uber Eats, Grubhub & direct ordering.',
+    title: 'Eddy — Stop paying delivery app fees',
+    description: 'Every order has a cheaper path. Eddy finds it.',
   },
 };
 
@@ -34,7 +34,7 @@ export const viewport: Viewport = {
   initialScale: 1,
   maximumScale: 1,
   userScalable: false,
-  themeColor: '#0a0f1a',
+  themeColor: '#0B0B0B',
 };
 
 function ServiceWorkerRegistration() {
@@ -68,9 +68,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             __html: JSON.stringify({
               '@context': 'https://schema.org',
               '@type': 'WebApplication',
-              name: 'SkipTheFee',
-              url: 'https://skipthefee.app',
-              description: 'Find direct ordering links for restaurants and skip delivery app fees. Save $5-15 per order.',
+              name: 'Eddy',
+              url: 'https://eddy.delivery',
+              description: 'Eddy compares DoorDash, Uber Eats, Grubhub, and direct ordering to find the cheapest option every time. Free forever.',
               applicationCategory: 'FoodAndDrink',
               operatingSystem: 'Web',
               offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
