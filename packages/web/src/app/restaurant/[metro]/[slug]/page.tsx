@@ -185,7 +185,7 @@ export default function RestaurantDetailPage() {
             className="btn-glow"
             style={{ display: 'flex', justifyContent: 'center', width: '100%', padding: '16px 24px', fontSize: 16, marginBottom: 20 }}
           >
-            🏪 Order Direct — Skip the Fees
+            🏪 Order Direct — No app markup
           </a>
         ) : (
           <div className="glass-card" style={{ padding: 20, textAlign: 'center', marginBottom: 20 }}>

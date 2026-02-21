@@ -17,15 +17,15 @@ interface Restaurant {
 const METROS: Record<string, { label: string; full: string; tagline: string }> = {
   nyc: { label: 'NYC', full: 'New York', tagline: 'The city that never stops ordering' },
   chicago: { label: 'Chicago', full: 'Chicago', tagline: 'Deep dish, direct deals' },
-  la: { label: 'LA', full: 'Los Angeles', tagline: 'Skip the LA markup' },
+  la: { label: 'LA', full: 'Los Angeles', tagline: 'Find cheaper LA eats' },
   sf: { label: 'SF', full: 'San Francisco', tagline: 'Bay Area bites, no fees' },
   boston: { label: 'Boston', full: 'Boston', tagline: 'Wicked good savings' },
   miami: { label: 'Miami', full: 'Miami', tagline: 'Caliente deals, zero fees' },
-  dc: { label: 'DC', full: 'Washington DC', tagline: 'Power lunch, skip the fee' },
+  dc: { label: 'DC', full: 'Washington DC', tagline: 'Power lunch, no delivery app markup' },
   austin: { label: 'Austin', full: 'Austin', tagline: 'Keep Austin ordering direct' },
   houston: { label: 'Houston', full: 'Houston', tagline: 'Space City savings' },
   atlanta: { label: 'Atlanta', full: 'Atlanta', tagline: 'ATL direct ordering' },
-  seattle: { label: 'Seattle', full: 'Seattle', tagline: 'Skip the drizzle of fees' },
+  seattle: { label: 'Seattle', full: 'Seattle', tagline: 'Find the current in Seattle' },
   denver: { label: 'Denver', full: 'Denver', tagline: 'Mile-high savings' },
   philly: { label: 'Philly', full: 'Philadelphia', tagline: 'No fee on your cheesesteak' },
   nashville: { label: 'Nashville', full: 'Nashville', tagline: 'Hot chicken, cool savings' },
@@ -387,7 +387,7 @@ function RestaurantRow({ restaurant: r, metro }: { restaurant: Restaurant; metro
             }}
           >
             <span>Order Direct</span>
-            <span style={{ fontSize: 10, opacity: 0.8 }}>Skip the fees</span>
+            <span style={{ fontSize: 10, opacity: 0.8 }}>No app markup</span>
           </a>
         ) : (
           <div style={{ fontSize: 11, color: '#334155', textAlign: 'right', flexShrink: 0 }}>

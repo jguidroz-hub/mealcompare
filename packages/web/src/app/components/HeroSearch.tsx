@@ -215,7 +215,7 @@ export default function HeroSearch() {
                 <div>
                   <div style={{ fontWeight: 700, fontSize: 14 }}>{r.name}</div>
                   <div style={{ fontSize: 11, color: '#475569', marginTop: 2 }}>
-                    {r.category} · {r.directUrl ? 'Skip the fees' : ''}
+                    {r.category} · {r.directUrl ? 'No app markup' : ''}
                   </div>
                 </div>
                 {r.directUrl ? (
