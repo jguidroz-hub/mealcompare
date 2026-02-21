@@ -94,7 +94,7 @@ export async function POST(req: NextRequest) {
     }
 
     // Direct ordering (always include)
-    quotes.push(estimateDirectQuote(restaurantName, items, coords, metro));
+    quotes.push(await estimateDirectQuote(restaurantName, items, coords, metro));
 
     // Pickup option (always cheapest if available)
     quotes.push(estimatePickupQuote(restaurantName, items, coords));
@@ -331,12 +331,12 @@ function buildQuoteFromClientData(
 
 // ─── Direct Ordering ───────────────────────────────────────────
 
-function estimateDirectQuote(
+async function estimateDirectQuote(
   restaurantName: string,
   items: CartItem[],
   coords: { lat: number; lng: number; taxRate: number },
   metro?: string
-): PlatformQuote {
+): Promise<PlatformQuote> {
   const platformSubtotal = items.reduce((s, i) => s + i.price * i.quantity, 0);
   const directSubtotal = Math.round(platformSubtotal * 0.88); // ~12% lower (no commission markup)
   const tax = Math.round(directSubtotal * coords.taxRate);
