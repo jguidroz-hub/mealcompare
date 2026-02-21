@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
 
 /* ============================================
-   SKIPTHEFEE — Design System
-   Action Red #C62828 | Jet Black #0B0B0B
-   Marigold #F4A300 | Pale Yellow #FFF4B5
-   Pure White #FFFFFF
+   EDDY — Design System
+   Action Red  #C62828 | Jet Black  #0B0B0B
+   Marigold    #F4A300 | Current    #22D3EE
+   Pure White  #FFFFFF
    ============================================ */
 
 :root {
@@ -17,6 +17,9 @@
   --marigold: #F4A300;
   --marigold-glow: rgba(244, 163, 0, 0.2);
   --pale-yellow: #FFF4B5;
+  --water: #22D3EE;
+  --water-dark: #06B6D4;
+  --water-glow: rgba(34, 211, 238, 0.1);
   --white: #FFFFFF;
   --muted: #6B6B6B;
   --muted-light: #9B9B9B;
@@ -282,4 +285,150 @@ body {
 }
 @media (min-width: 641px) {
   .mobile-only { display: none !important; }
+}
+
+/* ============================================
+   EDDY — Water Theme Additions
+   ============================================ */
+
+/* ---- WATER BADGE ---- */
+.badge-water {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(34, 211, 238, 0.08);
+  border: 1px solid rgba(34, 211, 238, 0.2);
+  border-radius: 100px;
+  padding: 6px 16px;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--water);
+  letter-spacing: 0.01em;
+}
+
+/* ---- HERO 2-COLUMN GRID ---- */
+.hero-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.15fr;
+  gap: 64px;
+  align-items: center;
+}
+
+/* ---- BROWSER MOCKUP ---- */
+.browser-mockup {
+  background: #1C1C1C;
+  border-radius: 14px;
+  border: 1px solid #2E2E2E;
+  overflow: hidden;
+  box-shadow:
+    0 40px 80px rgba(0,0,0,0.65),
+    0 0 0 1px rgba(255,255,255,0.03),
+    0 0 60px rgba(34,211,238,0.04);
+}
+
+.browser-chrome {
+  background: #252525;
+  padding: 10px 14px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border-bottom: 1px solid #333;
+}
+
+.browser-dots {
+  display: flex;
+  gap: 6px;
+}
+
+.browser-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: block;
+}
+
+.browser-url {
+  flex: 1;
+  background: #1C1C1C;
+  border-radius: 6px;
+  padding: 5px 12px;
+  font-size: 11px;
+  color: #666;
+  font-family: ui-monospace, 'SF Mono', monospace;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.browser-page {
+  background: #F4F4F4;
+  position: relative;
+  padding: 16px;
+  min-height: 316px;
+}
+
+/* ---- EDDY OVERLAY ANIMATION ---- */
+@keyframes slideInOverlay {
+  from { opacity: 0; transform: translateY(14px) scale(0.96); }
+  to   { opacity: 1; transform: translateY(0)   scale(1);    }
+}
+
+@keyframes borderPulse {
+  0%, 100% { box-shadow: 0 20px 56px rgba(0,0,0,0.6), 0 0 0 1px rgba(34,211,238,0.15); }
+  50%       { box-shadow: 0 20px 56px rgba(0,0,0,0.6), 0 0 0 1px rgba(34,211,238,0.4);  }
+}
+
+.eddy-overlay-card {
+  position: absolute;
+  bottom: 12px;
+  right: 12px;
+  background: #0B0B0B;
+  border: 1px solid #252525;
+  border-radius: 14px;
+  padding: 12px 14px;
+  width: 232px;
+  animation:
+    slideInOverlay 0.5s cubic-bezier(0.22, 1, 0.36, 1) 0.7s both,
+    borderPulse     3s ease                              1.2s infinite;
+}
+
+/* ---- WAVE DIVIDER ---- */
+.wave-eyebrow {
+  font-size: 11px;
+  font-weight: 800;
+  color: var(--water);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+/* ---- KAYAK TABLE (comparison demo) ---- */
+.kayak-table-row-best {
+  background: rgba(244, 163, 0, 0.06);
+  border-bottom: 1px solid #1A1A1A;
+  border-left: 3px solid var(--marigold);
+}
+.kayak-table-row {
+  background: transparent;
+  border-bottom: 1px solid #1A1A1A;
+  border-left: 3px solid transparent;
+}
+
+/* ---- RESPONSIVE ---- */
+@media (max-width: 900px) {
+  .hero-grid {
+    grid-template-columns: 1fr !important;
+    gap: 48px !important;
+  }
+  .hero-mockup-wrap {
+    display: none !important;
+  }
+  .hero-grid h1 {
+    font-size: 42px !important;
+  }
+}
+
+@media (max-width: 640px) {
+  .hero-grid h1 { font-size: 36px !important; }
+  .hero-grid p  { font-size: 16px !important; }
+  .kayak-table-fees { display: none !important; }
 }
