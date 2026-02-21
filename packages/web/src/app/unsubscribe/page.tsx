@@ -1,30 +1,37 @@
-'use client';
+import { Pool } from 'pg';
+import Link from 'next/link';
+import type { Metadata } from 'next';
 
+export const metadata: Metadata = { title: 'Unsubscribe — SkipTheFee' };
 export const dynamic = 'force-dynamic';
 
-import { useEffect, useState } from 'react';
-import { useSearchParams } from 'next/navigation';
-import Link from 'next/link';
+const pool = new Pool({ connectionString: process.env.DATABASE_URL });
 
-export default function UnsubscribePage() {
-  const searchParams = useSearchParams();
-  const email = searchParams.get('email') || '';
-  const [status, setStatus] = useState<'pending' | 'done' | 'error'>('pending');
+interface Props {
+  searchParams: Promise<{ email?: string }>;
+}
 
-  useEffect(() => {
-    if (!email) {
-      setStatus('done');
-      return;
+export default async function UnsubscribePage({ searchParams }: Props) {
+  const { email } = await searchParams;
+  let success = false;
+  let error = false;
+
+  if (email) {
+    try {
+      await pool.query(
+        `INSERT INTO email_unsubscribes (email, source)
+         VALUES ($1, 'email_campaign')
+         ON CONFLICT (email) DO NOTHING`,
+        [email.toLowerCase().trim()]
+      );
+      success = true;
+    } catch (err) {
+      console.error('Unsubscribe error:', err);
+      error = true;
     }
-    // Auto-submit on page load — one-click unsubscribe (CAN-SPAM compliant)
-    fetch('/api/unsubscribe', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ email }),
-    })
-      .then(r => r.ok ? setStatus('done') : setStatus('error'))
-      .catch(() => setStatus('error'));
-  }, [email]);
+  } else {
+    success = true; // No email = nothing to do, just show confirmation
+  }
 
   return (
     <main style={{
@@ -33,25 +40,15 @@ export default function UnsubscribePage() {
       display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '24px',
     }}>
       <div style={{ maxWidth: 480, textAlign: 'center' }}>
-        {status === 'pending' && (
-          <>
-            <div style={{ fontSize: 48, marginBottom: 16 }}>⏳</div>
-            <h1 style={{ fontSize: 24, fontWeight: 700, marginBottom: 8 }}>Unsubscribing...</h1>
-            <p style={{ color: '#94a3b8' }}>Just a moment.</p>
-          </>
-        )}
-
-        {status === 'done' && (
+        {success && (
           <>
             <div style={{ fontSize: 48, marginBottom: 16 }}>✅</div>
-            <h1 style={{ fontSize: 24, fontWeight: 700, marginBottom: 8 }}>You&apos;re unsubscribed</h1>
+            <h1 style={{ fontSize: 24, fontWeight: 700, marginBottom: 12 }}>You&apos;re unsubscribed</h1>
             <p style={{ color: '#94a3b8', marginBottom: 24, lineHeight: 1.6 }}>
-              {email ? (
-                <><strong style={{ color: '#e2e8f0' }}>{email}</strong> has been removed from our list.</>
-              ) : (
-                <>You&apos;ve been removed from our list.</>
-              )}
-              {' '}You won&apos;t hear from us again.
+              {email
+                ? <><strong style={{ color: '#e2e8f0' }}>{email}</strong> has been removed from our list. You won&apos;t hear from us again.</>
+                : <>You&apos;ve been removed from our list. You won&apos;t hear from us again.</>
+              }
             </p>
             <Link href="/" style={{
               display: 'inline-block', padding: '10px 24px',
@@ -62,13 +59,12 @@ export default function UnsubscribePage() {
             </Link>
           </>
         )}
-
-        {status === 'error' && (
+        {error && (
           <>
             <div style={{ fontSize: 48, marginBottom: 16 }}>⚠️</div>
-            <h1 style={{ fontSize: 24, fontWeight: 700, marginBottom: 8 }}>Something went wrong</h1>
-            <p style={{ color: '#94a3b8', marginBottom: 24 }}>
-              Please email <a href="mailto:jon@skipthefee.app" style={{ color: '#10b981' }}>jon@skipthefee.app</a> and we&apos;ll remove you manually within 24 hours.
+            <h1 style={{ fontSize: 24, fontWeight: 700, marginBottom: 12 }}>Something went wrong</h1>
+            <p style={{ color: '#94a3b8' }}>
+              Email <a href="mailto:jon@skipthefee.app" style={{ color: '#10b981' }}>jon@skipthefee.app</a> and we&apos;ll remove you within 24 hours.
             </p>
           </>
         )}
