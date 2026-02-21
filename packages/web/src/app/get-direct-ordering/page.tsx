@@ -69,7 +69,7 @@ export default function GetDirectOrderingPage() {
         {/* Stats */}
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 16, maxWidth: 500, margin: '0 auto 48px' }}>
           <div style={{ background: 'rgba(255,255,255,0.03)', borderRadius: 12, padding: '20px 12px' }}>
-            <div style={{ fontSize: 28, fontWeight: 900, color: '#10b981' }}>9,300+</div>
+            <div style={{ fontSize: 28, fontWeight: 900, color: '#10b981' }}>19,000+</div>
             <div style={{ fontSize: 12, color: '#475569', marginTop: 4 }}>Restaurants in our database</div>
           </div>
           <div style={{ background: 'rgba(255,255,255,0.03)', borderRadius: 12, padding: '20px 12px' }}>

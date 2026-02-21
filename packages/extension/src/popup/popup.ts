@@ -96,7 +96,7 @@ function renderEmpty(): void {
         <h2>💰 Save $5–15 on every order</h2>
         <p>Browse any delivery app and add items to your cart. Eddy will find the cheapest way to order — including direct from the restaurant.</p>
         <div style="margin-top: 16px;">
-          <a href="https://eddy.delivery/restaurants" target="_blank" style="color: #3b82f6; text-decoration: none; font-size: 12px;">Browse 9,300+ restaurants →</a>
+          <a href="https://eddy.delivery/restaurants" target="_blank" style="color: #3b82f6; text-decoration: none; font-size: 12px;">Browse 19,000+ restaurants →</a>
         </div>
       </div>
     `;

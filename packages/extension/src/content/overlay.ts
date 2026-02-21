@@ -333,7 +333,7 @@ function showNoMatchOverlay(restaurantName: string, deliveryPlatform: string) {
       <div class="msg">
         Checked <strong>${escHtml(restaurantName)}</strong> — no direct ordering link found yet.
         <br/><br/>
-        <a class="link" href="https://eddy.delivery/restaurants" target="_blank">Browse 9,300+ restaurants with savings →</a>
+        <a class="link" href="https://eddy.delivery/restaurants" target="_blank">Browse 19,000+ restaurants with savings →</a>
       </div>
     </div>
   `;

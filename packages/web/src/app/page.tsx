@@ -4,7 +4,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: 'Eddy — Compare every delivery app. Order the cheapest.',
   description:
-    'Eddy automatically compares DoorDash, Uber Eats, Grubhub, and direct restaurant ordering for 9,300+ restaurants. Find the cheapest option every time — free forever.',
+    'Eddy automatically compares DoorDash, Uber Eats, Grubhub, and direct restaurant ordering for 19,000+ restaurants. Find the cheapest option every time — free forever.',
   openGraph: {
     title: 'Eddy — The price comparison engine for food delivery',
     description: 'Why check one delivery app when Eddy checks all of them?',
@@ -101,7 +101,7 @@ export default function Home() {
             <div style={{ display: 'flex', gap: 28, flexWrap: 'wrap' }}>
               {[
                 { v: '$11.40', l: 'avg saved / order' },
-                { v: '9,300+', l: 'restaurants' },
+                { v: '19,000+', l: 'restaurants' },
                 { v: '30', l: 'US cities' },
               ].map(s => (
                 <div key={s.v} style={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
@@ -313,7 +313,7 @@ export default function Home() {
             <Link href="/install" className="btn-primary" style={{ fontSize: 17, padding: '16px 44px' }}>🧩 Add to Chrome — Free</Link>
             <Link href="/restaurants" className="btn-outline" style={{ fontSize: 17, padding: '16px 34px' }}>Browse Restaurants</Link>
           </div>
-          <p style={{ marginTop: 24, fontSize: 13, color: C.stone400 }}>No account · No signup · Works instantly · 9,300+ restaurants</p>
+          <p style={{ marginTop: 24, fontSize: 13, color: C.stone400 }}>No account · No signup · Works instantly · 19,000+ restaurants</p>
         </div>
       </section>
 
