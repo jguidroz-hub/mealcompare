@@ -1,32 +1,32 @@
 {
   "expo": {
-    "name": "Eddy",
+    "name": "Eddy — Save on Food Delivery",
     "slug": "eddy",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "dark",
+    "userInterfaceStyle": "light",
     "scheme": "eddy",
-    "backgroundColor": "#0a0f1a",
+    "backgroundColor": "#FFFFFF",
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#0a0f1a"
+      "backgroundColor": "#FFFFFF"
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "app.eddy.mobile",
+      "bundleIdentifier": "delivery.eddy.app",
       "infoPlist": {
         "NSUserActivityTypes": ["INSendMessageIntent"],
-        "NSLocationWhenInUseUsageDescription": "Eddy uses your location to show restaurants near you."
+        "NSLocationWhenInUseUsageDescription": "Eddy uses your location to find restaurants near you and show the cheapest delivery options."
       }
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#0a0f1a"
+        "backgroundColor": "#2563EB"
       },
-      "package": "app.eddy.mobile",
+      "package": "delivery.eddy.app",
       "intentFilters": [
         {
           "action": "SEND",
