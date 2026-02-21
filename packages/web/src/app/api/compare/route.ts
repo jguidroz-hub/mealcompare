@@ -37,11 +37,22 @@ interface CompareBody {
   items: CartItem[];
   deliveryAddress?: string;
   metro?: string;
+  sessionId?: string;
   // Extension can provide pre-scraped data from other platforms
   clientData?: {
     platform: Platform;
     menuItems: Array<{ name: string; price: number }>;
   }[];
+  // #1: Real fees scraped from the page by the extension
+  realFees?: {
+    subtotal: number;      // cents
+    serviceFee: number;
+    deliveryFee: number;
+    tax: number;
+    total: number;
+    smallOrderFee?: number;
+    promoDiscount?: number;
+  };
 }
 
 export async function POST(req: NextRequest) {
@@ -88,8 +99,36 @@ export async function POST(req: NextRequest) {
     // Pickup option (always cheapest if available)
     quotes.push(estimatePickupQuote(restaurantName, items, coords));
 
+    // #1: If extension sent real fees, add the source platform with ACTUAL prices
+    if (body.realFees) {
+      const rf = body.realFees;
+      quotes.push({
+        platform: sourcePlatform,
+        restaurant: { name: restaurantName },
+        fees: {
+          subtotal: rf.subtotal,
+          platformMarkup: 0,
+          serviceFee: rf.serviceFee,
+          deliveryFee: rf.deliveryFee,
+          smallOrderFee: rf.smallOrderFee ?? 0,
+          tax: rf.tax,
+          tip: 0,
+          discount: rf.promoDiscount ?? 0,
+          total: rf.total,
+        },
+        estimatedMinutes: null,
+        available: true,
+        deepLink: '',
+        confidence: 1.0, // Real price = 100% confidence
+        capturedAt: new Date().toISOString(),
+      });
+    }
+
     // Sort by total ascending
     quotes.sort((a, b) => a.fees.total - b.fees.total);
+
+    // #4: Apply any known promo codes
+    const promosApplied = await applyPromoCodes(quotes, metro);
 
     const result: ComparisonResult = {
       restaurantName,
@@ -99,7 +138,14 @@ export async function POST(req: NextRequest) {
       bestDeal: quotes.find(q => q.available) ?? null,
       savings: calculateSavings(quotes),
       comparedAt: new Date().toISOString(),
+      ...(promosApplied.length > 0 ? { promoCodes: promosApplied } : {}),
     };
+
+    // #7: Log comparison to price_comparisons table (non-blocking)
+    logComparison(result, metro, sourcePlatform, body.sessionId, !!body.realFees).catch(() => {});
+
+    // #3: Wrap deep links with affiliate parameters where available
+    wrapAffiliateLinks(result.quotes);
 
     return NextResponse.json(result);
   } catch (err) {
@@ -375,4 +421,109 @@ function similarity(a: string, b: string): number {
   if (numA && numB && numA[1] === numB[1]) return Math.max(jaccard, 0.75);
 
   return jaccard;
+}
+
+// ─── #7: Price Comparison Logging ──────────────────────────────
+
+import { getPool } from '@/lib/db';
+
+async function logComparison(
+  result: ComparisonResult,
+  metro: string,
+  sourcePlatform: string,
+  sessionId?: string,
+  isRealPrice?: boolean
+): Promise<void> {
+  const pool = getPool();
+  const slug = result.restaurantName.toLowerCase().replace(/[^a-z0-9]/g, '');
+  await pool.query(
+    `INSERT INTO price_comparisons 
+     (restaurant_name, restaurant_slug, metro, source_platform, quotes, best_platform, savings_cents, item_count, subtotal_cents, is_real_price, session_id)
+     VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11)`,
+    [
+      result.restaurantName,
+      slug,
+      metro,
+      sourcePlatform,
+      JSON.stringify(result.quotes.map(q => ({ platform: q.platform, total: q.fees.total, confidence: q.confidence }))),
+      result.bestDeal?.platform ?? null,
+      result.savings,
+      result.items.length,
+      result.items.reduce((s, i) => s + i.price * i.quantity, 0),
+      isRealPrice ?? false,
+      sessionId ?? null,
+    ]
+  );
+}
+
+// ─── #3: Affiliate Link Wrapping ──────────────────────────────
+
+const AFFILIATE_PARAMS: Record<string, string> = {
+  // These get populated when Jon signs up for affiliate programs
+  // doordash: 'ref=eddy&utm_source=eddy&utm_medium=extension',
+  // ubereats: 'utm_source=eddy&utm_medium=extension',
+  // grubhub: 'utm_source=eddy&utm_medium=extension',
+};
+
+function wrapAffiliateLinks(quotes: PlatformQuote[]): void {
+  for (const quote of quotes) {
+    const params = AFFILIATE_PARAMS[quote.platform];
+    if (params && quote.deepLink) {
+      const sep = quote.deepLink.includes('?') ? '&' : '?';
+      quote.deepLink = `${quote.deepLink}${sep}${params}`;
+    }
+    // Always add UTM tracking
+    if (quote.deepLink && !quote.deepLink.includes('utm_source')) {
+      const sep = quote.deepLink.includes('?') ? '&' : '?';
+      quote.deepLink = `${quote.deepLink}${sep}utm_source=eddy&utm_medium=extension`;
+    }
+  }
+}
+
+// ─── #4: Promo Code Application ───────────────────────────────
+
+async function applyPromoCodes(
+  quotes: PlatformQuote[],
+  metro: string
+): Promise<Array<{ platform: string; code: string; description: string; savingsCents: number }>> {
+  const applied: Array<{ platform: string; code: string; description: string; savingsCents: number }> = [];
+  try {
+    const pool = getPool();
+    const { rows } = await pool.query(
+      `SELECT * FROM promo_codes 
+       WHERE is_active = true AND (expires_at IS NULL OR expires_at > NOW())
+       ORDER BY discount_cents DESC NULLS LAST, discount_percent DESC NULLS LAST`
+    );
+
+    for (const promo of rows) {
+      const quote = quotes.find(q => q.platform === promo.platform && q.available);
+      if (!quote) continue;
+      if (promo.min_order_cents && quote.fees.subtotal < promo.min_order_cents) continue;
+
+      let discount = 0;
+      if (promo.discount_type === 'fixed' && promo.discount_cents) {
+        discount = promo.discount_cents;
+      } else if (promo.discount_type === 'percent' && promo.discount_percent) {
+        discount = Math.round(quote.fees.subtotal * (promo.discount_percent / 100));
+      }
+      if (promo.max_discount_cents) discount = Math.min(discount, promo.max_discount_cents);
+
+      if (discount > 0) {
+        quote.fees.discount = (quote.fees.discount || 0) + discount;
+        quote.fees.total -= discount;
+        applied.push({
+          platform: promo.platform,
+          code: promo.code,
+          description: promo.description ?? `Save ${promo.discount_type === 'percent' ? promo.discount_percent + '%' : '$' + (promo.discount_cents / 100).toFixed(2)}`,
+          savingsCents: discount,
+        });
+      }
+    }
+
+    // Re-sort after applying promos
+    quotes.sort((a, b) => a.fees.total - b.fees.total);
+  } catch {
+    // Non-critical — don't break comparisons if promo lookup fails
+  }
+  return applied;
 }

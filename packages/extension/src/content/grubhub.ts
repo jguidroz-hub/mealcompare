@@ -11,7 +11,8 @@ function normalizeMenuItemName(name: string): string {
     .replace(/[^a-z0-9#\s]/g, '').replace(/\s+/g, ' ').trim();
 }
 
-type CartDetection = { platform: string; restaurantName: string; items: CartItem[]; pageUrl: string };
+type RealFees = { subtotal: number; serviceFee: number; deliveryFee: number; tax: number; total: number; smallOrderFee?: number; promoDiscount?: number };
+type CartDetection = { platform: string; restaurantName: string; items: CartItem[]; pageUrl: string; realFees?: RealFees };
 type CartItem = { name: string; normalizedName: string; price: number; quantity: number };
 
 let lastCartHash = '';
@@ -59,7 +60,46 @@ function extractCart(): CartDetection | null {
   }
 
   if (items.length === 0) return null;
-  return { platform: 'grubhub', restaurantName, items, pageUrl: location.href };
+
+  const realFees = extractRealFees();
+  return { platform: 'grubhub', restaurantName, items, pageUrl: location.href, ...(realFees ? { realFees } : {}) };
+}
+
+function parseCents(text: string): number {
+  const m = text.match(/\$?([\d,]+\.?\d*)/);
+  return m ? Math.round(parseFloat(m[1].replace(',', '')) * 100) : 0;
+}
+
+function extractRealFees(): RealFees | null {
+  const fees: Partial<RealFees> = {};
+  const feeMap: Record<string, keyof RealFees> = {
+    'subtotal': 'subtotal', 'service fee': 'serviceFee', 'delivery fee': 'deliveryFee',
+    'tax': 'tax', 'taxes and fees': 'tax', 'estimated tax': 'tax',
+    'total': 'total', 'order total': 'total', 'small order fee': 'smallOrderFee',
+  };
+
+  const containers = document.querySelectorAll('[class*="cart"], [class*="bag"], [class*="Cart"], [class*="Bag"], [class*="checkout"], [class*="Checkout"]');
+  for (const container of containers) {
+    const els = container.querySelectorAll('span, div, li, p');
+    for (let i = 0; i < els.length; i++) {
+      const text = (els[i].textContent ?? '').trim().toLowerCase();
+      for (const [label, key] of Object.entries(feeMap)) {
+        if (text.includes(label) && !text.includes('$')) {
+          for (let j = i + 1; j < Math.min(i + 4, els.length); j++) {
+            const pt = (els[j].textContent ?? '').trim();
+            if (pt.toLowerCase() === 'free') { (fees as any)[key] = 0; break; }
+            const price = parseCents(pt);
+            if (price > 0) { (fees as any)[key] = price; break; }
+          }
+        }
+      }
+    }
+  }
+
+  if (fees.subtotal && fees.total) {
+    return { subtotal: fees.subtotal, serviceFee: fees.serviceFee ?? 0, deliveryFee: fees.deliveryFee ?? 0, tax: fees.tax ?? 0, total: fees.total, smallOrderFee: fees.smallOrderFee, promoDiscount: fees.promoDiscount };
+  }
+  return null;
 }
 
 function checkCart(): void {

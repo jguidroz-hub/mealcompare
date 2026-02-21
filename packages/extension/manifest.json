@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Eddy — Save on Food Delivery",
-  "description": "Automatically compares prices across delivery apps and direct restaurant ordering. Find the cheapest option for 9,300+ restaurants in 30 cities. Free forever.",
-  "version": "0.3.0",
+  "description": "Automatically compares prices across delivery apps and finds cheaper direct ordering options. Real price detection, 19,000+ restaurants, 30 cities. Free forever.",
+  "version": "0.4.0",
   "permissions": ["storage"],
   "host_permissions": [
     "https://www.doordash.com/*",

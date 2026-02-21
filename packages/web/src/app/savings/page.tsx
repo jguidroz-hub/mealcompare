@@ -1,151 +1,166 @@
 'use client';
-import { useState, useMemo } from 'react';
+
+import { useState, useEffect } from 'react';
 import Link from 'next/link';
 
-export default function SavingsCalculator() {
-  const [ordersPerWeek, setOrdersPerWeek] = useState(3);
-  const [avgOrder, setAvgOrder] = useState(35);
+interface SavingsData {
+  totalComparisons: number;
+  totalSavingsCents: number;
+  avgSavingsCents: number;
+  bestSavingsCents: number;
+  recentSavings: Array<{
+    restaurantName: string;
+    savingsCents: number;
+    chosenPlatform: string;
+    metro: string;
+    date: string;
+  }>;
+}
 
-  const savings = useMemo(() => {
-    const avgFeeRate = 0.22; // avg 22% extra on delivery apps (markup + service + delivery)
-    const perOrder = avgOrder * avgFeeRate;
-    const weekly = perOrder * ordersPerWeek;
-    const monthly = weekly * 4.33;
-    const yearly = monthly * 12;
-    return { perOrder: perOrder.toFixed(2), weekly: weekly.toFixed(0), monthly: monthly.toFixed(0), yearly: yearly.toFixed(0) };
-  }, [ordersPerWeek, avgOrder]);
+export default function SavingsPage() {
+  const [data, setData] = useState<SavingsData | null>(null);
+  const [sessionId, setSessionId] = useState('');
+  const [loading, setLoading] = useState(true);
+  const [shareText, setShareText] = useState('');
+
+  useEffect(() => {
+    // Try to get session ID from URL or generate one
+    const params = new URLSearchParams(window.location.search);
+    const sid = params.get('session') || localStorage.getItem('eddy_session') || '';
+    setSessionId(sid);
+
+    if (sid) {
+      fetch(`/api/savings?session=${sid}`)
+        .then(r => r.json())
+        .then(d => {
+          setData(d);
+          setLoading(false);
+        })
+        .catch(() => setLoading(false));
+    } else {
+      setLoading(false);
+    }
+  }, []);
+
+  const totalDollars = data ? (data.totalSavingsCents / 100).toFixed(2) : '0.00';
+  const avgDollars = data ? (data.avgSavingsCents / 100).toFixed(2) : '0.00';
+  const bestDollars = data ? (data.bestSavingsCents / 100).toFixed(2) : '0.00';
+
+  const handleShare = () => {
+    const text = `I've saved $${totalDollars} on food delivery with Eddy 🌊\n\nEddy compares prices across every delivery app and finds direct ordering to save you 15-25%.\n\nhttps://eddy.delivery`;
+    setShareText(text);
+    if (navigator.share) {
+      navigator.share({ title: 'My Eddy Savings', text }).catch(() => {});
+    } else {
+      navigator.clipboard.writeText(text).then(() => {
+        setShareText('Copied to clipboard!');
+        setTimeout(() => setShareText(''), 2000);
+      });
+    }
+  };
 
   return (
-    <main style={{ minHeight: '100vh', paddingBottom: 80 }}>
-      {/* Header */}
-      <header style={{ position: 'sticky', top: 0, zIndex: 50, background: 'rgba(10,15,26,0.92)', backdropFilter: 'blur(20px)', borderBottom: '1px solid rgba(255,255,255,0.05)' }}>
-        <div style={{ maxWidth: 640, margin: '0 auto', padding: '12px 16px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-          <Link href="/" style={{ display: 'flex', alignItems: 'center', gap: 8, color: '#e2e8f0', textDecoration: 'none' }}>
-            <span style={{ fontSize: 22 }}>💰</span>
-            <span style={{ fontSize: 17, fontWeight: 800 }}>Eddy</span>
+    <div className="min-h-screen bg-white">
+      <header className="border-b border-gray-100 px-6 py-4">
+        <div className="max-w-3xl mx-auto flex items-center justify-between">
+          <Link href="/" className="flex items-center gap-2">
+            <span className="text-2xl">🌊</span>
+            <span className="text-xl font-black text-black">Eddy</span>
           </Link>
-          <Link href="/restaurants" style={{ fontSize: 13, color: '#64748b', textDecoration: 'none' }}>Browse Restaurants</Link>
+          <nav className="flex items-center gap-6 text-sm text-gray-500">
+            <Link href="/search" className="hover:text-black">Search</Link>
+            <Link href="/restaurants" className="hover:text-black">Restaurants</Link>
+          </nav>
         </div>
       </header>
 
-      {/* Hero */}
-      <div className="bg-glow" style={{ position: 'relative', textAlign: 'center', padding: '48px 16px 32px' }}>
-        <div style={{ position: 'relative', zIndex: 1 }}>
-          <h1 style={{ fontSize: 32, fontWeight: 900, letterSpacing: '-0.02em', marginBottom: 8 }}>
-            How much are you <span className="gradient-text-warm">overpaying?</span>
-          </h1>
-          <p style={{ fontSize: 15, color: '#64748b', maxWidth: 420, margin: '0 auto' }}>
-            Delivery apps charge 15–35% more than ordering direct. See what that costs you.
-          </p>
+      <section className="px-6 pt-16 pb-8">
+        <div className="max-w-xl mx-auto text-center">
+          <h1 className="text-3xl font-black text-black mb-2">Your Savings</h1>
+          <p className="text-gray-500">Track how much Eddy has saved you on food delivery</p>
         </div>
-      </div>
+      </section>
 
-      {/* Calculator */}
-      <div style={{ maxWidth: 480, margin: '0 auto', padding: '24px 16px' }}>
-        <div className="glass-card" style={{ padding: 28, marginBottom: 20 }}>
-          {/* Orders per week */}
-          <div style={{ marginBottom: 28 }}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 12 }}>
-              <label style={{ fontSize: 14, fontWeight: 600 }}>Orders per week</label>
-              <span style={{ fontSize: 24, fontWeight: 900, color: '#10b981' }}>{ordersPerWeek}</span>
-            </div>
-            <input
-              type="range" min={1} max={10} step={1}
-              value={ordersPerWeek}
-              onChange={(e) => setOrdersPerWeek(Number(e.target.value))}
-              style={{ width: '100%', accentColor: '#10b981' }}
-            />
-            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: 11, color: '#475569', marginTop: 4 }}>
-              <span>1</span><span>5</span><span>10</span>
-            </div>
+      {/* Stats cards */}
+      <section className="px-6 pb-12">
+        <div className="max-w-xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="bg-yellow-50 rounded-2xl p-6 text-center">
+            <p className="text-3xl font-black text-black">${totalDollars}</p>
+            <p className="text-xs text-gray-500 mt-1 font-medium">Total Saved</p>
           </div>
-
-          {/* Average order */}
-          <div>
-            <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 12 }}>
-              <label style={{ fontSize: 14, fontWeight: 600 }}>Average order total</label>
-              <span style={{ fontSize: 24, fontWeight: 900, color: '#3b82f6' }}>${avgOrder}</span>
-            </div>
-            <input
-              type="range" min={15} max={80} step={5}
-              value={avgOrder}
-              onChange={(e) => setAvgOrder(Number(e.target.value))}
-              style={{ width: '100%', accentColor: '#3b82f6' }}
-            />
-            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: 11, color: '#475569', marginTop: 4 }}>
-              <span>$15</span><span>$45</span><span>$80</span>
-            </div>
+          <div className="bg-blue-50 rounded-2xl p-6 text-center">
+            <p className="text-3xl font-black text-black">{data?.totalComparisons ?? 0}</p>
+            <p className="text-xs text-gray-500 mt-1 font-medium">Comparisons</p>
+          </div>
+          <div className="bg-gray-50 rounded-2xl p-6 text-center">
+            <p className="text-3xl font-black text-black">${avgDollars}</p>
+            <p className="text-xs text-gray-500 mt-1 font-medium">Avg per Order</p>
+          </div>
+          <div className="bg-green-50 rounded-2xl p-6 text-center">
+            <p className="text-3xl font-black text-black">${bestDollars}</p>
+            <p className="text-xs text-gray-500 mt-1 font-medium">Best Save</p>
           </div>
         </div>
+      </section>
 
-        {/* Results */}
-        <div className="glass-card" style={{ padding: 0, overflow: 'hidden' }}>
-          <div style={{ padding: '20px 24px', borderBottom: '1px solid rgba(255,255,255,0.05)' }}>
-            <div style={{ fontSize: 12, color: '#475569', textTransform: 'uppercase', letterSpacing: '0.05em', fontWeight: 600, marginBottom: 4 }}>
-              You&apos;re overpaying by
-            </div>
-          </div>
-
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', borderBottom: '1px solid rgba(255,255,255,0.05)' }}>
-            <div style={{ padding: '20px 16px', textAlign: 'center', borderRight: '1px solid rgba(255,255,255,0.05)' }}>
-              <div style={{ fontSize: 11, color: '#475569', marginBottom: 4 }}>Per Order</div>
-              <div style={{ fontSize: 22, fontWeight: 900, color: '#ef4444' }}>${savings.perOrder}</div>
-            </div>
-            <div style={{ padding: '20px 16px', textAlign: 'center', borderRight: '1px solid rgba(255,255,255,0.05)' }}>
-              <div style={{ fontSize: 11, color: '#475569', marginBottom: 4 }}>Monthly</div>
-              <div style={{ fontSize: 22, fontWeight: 900, color: '#f59e0b' }}>${savings.monthly}</div>
-            </div>
-            <div style={{ padding: '20px 16px', textAlign: 'center' }}>
-              <div style={{ fontSize: 11, color: '#475569', marginBottom: 4 }}>Yearly</div>
-              <div style={{ fontSize: 22, fontWeight: 900, color: '#10b981' }}>${savings.yearly}</div>
-            </div>
-          </div>
-
-          {/* Big yearly number */}
-          <div style={{ padding: '28px 24px', textAlign: 'center', background: 'rgba(16,185,129,0.04)' }}>
-            <div style={{ fontSize: 48, fontWeight: 900, color: '#10b981', letterSpacing: '-0.03em', marginBottom: 4 }}>
-              ${savings.yearly}
-            </div>
-            <div style={{ fontSize: 14, color: '#64748b' }}>
-              saved per year by ordering direct
-            </div>
-            <div style={{ fontSize: 12, color: '#334155', marginTop: 8 }}>
-              That&apos;s {Math.round(Number(savings.yearly) / avgOrder)} free meals! 🎉
-            </div>
+      {/* Share card */}
+      <section className="px-6 pb-8">
+        <div className="max-w-xl mx-auto">
+          <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-2xl p-6 text-center text-white">
+            <p className="text-lg font-bold mb-1">🌊 Share your savings</p>
+            <p className="text-blue-200 text-sm mb-4">Let friends know how much you&apos;re saving</p>
+            <button
+              onClick={handleShare}
+              className="bg-white text-blue-600 font-bold px-6 py-3 rounded-xl hover:bg-blue-50 transition-colors"
+            >
+              {shareText || 'Share My Savings 📤'}
+            </button>
           </div>
         </div>
+      </section>
 
-        {/* Breakdown */}
-        <div className="glass-card" style={{ padding: 24, marginTop: 20 }}>
-          <h3 style={{ fontSize: 15, fontWeight: 700, marginBottom: 16 }}>Where the fees hide</h3>
-          {[
-            { label: 'Menu markup', pct: '15–20%', desc: 'Apps charge restaurants 28–33%. They raise prices to cover it.', color: '#ef4444' },
-            { label: 'Service fee', pct: '5–15%', desc: 'Goes to the platform. Not your driver. Not the restaurant.', color: '#f59e0b' },
-            { label: 'Delivery fee', pct: '$2–8', desc: 'Varies by distance and surge pricing.', color: '#8b5cf6' },
-            { label: 'Small order fee', pct: '$2–3', desc: 'Order under $12? Extra surcharge.', color: '#ec4899' },
-          ].map(f => (
-            <div key={f.label} style={{ display: 'flex', alignItems: 'flex-start', gap: 12, marginBottom: 14 }}>
-              <div style={{ width: 36, height: 36, borderRadius: 8, background: `${f.color}15`, display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
-                <span style={{ fontSize: 13, fontWeight: 800, color: f.color }}>{f.pct}</span>
-              </div>
-              <div>
-                <div style={{ fontSize: 13, fontWeight: 700 }}>{f.label}</div>
-                <div style={{ fontSize: 12, color: '#475569' }}>{f.desc}</div>
-              </div>
+      {/* Recent savings */}
+      {data && data.recentSavings.length > 0 && (
+        <section className="px-6 pb-16">
+          <div className="max-w-xl mx-auto">
+            <h2 className="text-xl font-black text-black mb-4">Recent Savings</h2>
+            <div className="space-y-3">
+              {data.recentSavings.map((s, i) => (
+                <div key={i} className="flex items-center justify-between p-4 rounded-xl border border-gray-100">
+                  <div>
+                    <p className="font-bold text-black">{s.restaurantName}</p>
+                    <p className="text-xs text-gray-400 mt-0.5">
+                      via {s.chosenPlatform} · {new Date(s.date).toLocaleDateString()}
+                    </p>
+                  </div>
+                  <span className="text-lg font-black text-yellow-600">
+                    -${(s.savingsCents / 100).toFixed(2)}
+                  </span>
+                </div>
+              ))}
             </div>
-          ))}
-        </div>
+          </div>
+        </section>
+      )}
 
-        {/* CTA */}
-        <div style={{ textAlign: 'center', marginTop: 28 }}>
-          <Link href="/restaurants" className="btn-glow" style={{ marginBottom: 12 }}>
-            🍽️ Find Direct Ordering Near You
-          </Link>
-          <p style={{ fontSize: 12, color: '#334155', marginTop: 12 }}>
-            Or <Link href="/install" style={{ color: '#10b981' }}>install the extension</Link> for auto-compare on every order
-          </p>
-        </div>
-      </div>
-    </main>
+      {/* Empty state */}
+      {(!data || data.totalComparisons === 0) && !loading && (
+        <section className="px-6 pb-16">
+          <div className="max-w-xl mx-auto text-center py-8">
+            <p className="text-5xl mb-4">🌊</p>
+            <h2 className="text-xl font-black text-black mb-2">No savings yet</h2>
+            <p className="text-gray-500 mb-6">
+              Install the Eddy extension and start comparing prices on your next delivery order.
+            </p>
+            <Link
+              href="/install"
+              className="inline-block bg-blue-600 text-white font-bold px-8 py-3 rounded-xl hover:bg-blue-700 transition-colors"
+            >
+              Get Eddy Extension →
+            </Link>
+          </div>
+        </section>
+      )}
+    </div>
   );
 }
