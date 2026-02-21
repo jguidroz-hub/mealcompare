@@ -286,6 +286,74 @@ function showOverlay(match: DirectMatch, deliveryPlatform: string) {
   }, 15000);
 }
 
+// ─── No-match overlay (subtle, dismisses quickly) ────────────────
+
+function showNoMatchOverlay(restaurantName: string, deliveryPlatform: string) {
+  const existing = document.querySelector('.' + HOST_CLASS);
+  if (existing) return;
+
+  const host = document.createElement('div');
+  host.className = HOST_CLASS;
+  host.style.cssText = 'all:initial;position:fixed;bottom:24px;right:24px;z-index:2147483647;';
+  document.documentElement.appendChild(host);
+
+  const shadow = host.attachShadow({ mode: 'closed' });
+
+  shadow.innerHTML = `
+    <style>
+      :host { all: initial; }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      @keyframes _eSlide {
+        from { opacity: 0; transform: translateY(12px); }
+        to   { opacity: 1; transform: translateY(0);    }
+      }
+      .panel {
+        width: 280px;
+        background: #FFFFFF;
+        border: 1px solid #E5E7EB;
+        border-radius: 12px;
+        box-shadow: 0 12px 32px rgba(0,0,0,0.08);
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        color: #111;
+        padding: 14px 16px;
+        animation: _eSlide 0.3s ease;
+      }
+      .hdr { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }
+      .close { background: none; border: none; color: #9CA3AF; cursor: pointer; font-size: 14px; margin-left: auto; padding: 2px; }
+      .msg { font-size: 13px; color: #6B7280; line-height: 1.5; }
+      .msg strong { color: #111; }
+      .link { color: #2563EB; text-decoration: none; font-weight: 600; font-size: 12px; }
+    </style>
+    <div class="panel">
+      <div class="hdr">
+        <span style="font-size:14px;">🌊</span>
+        <span style="font-size:10px;font-weight:800;color:#2563EB;letter-spacing:0.1em;">EDDY</span>
+        <button class="close" id="c">✕</button>
+      </div>
+      <div class="msg">
+        Checked <strong>${escHtml(restaurantName)}</strong> — no direct ordering link found yet.
+        <br/><br/>
+        <a class="link" href="https://eddy.delivery/restaurants" target="_blank">Browse 9,300+ restaurants with savings →</a>
+      </div>
+    </div>
+  `;
+
+  shadow.getElementById('c')?.addEventListener('click', () => {
+    host.style.transition = 'opacity 0.2s';
+    host.style.opacity = '0';
+    setTimeout(() => host.remove(), 200);
+  });
+
+  // Auto-dismiss after 6s (shorter than match overlay)
+  setTimeout(() => {
+    if (host.isConnected) {
+      host.style.transition = 'opacity 0.4s';
+      host.style.opacity = '0';
+      setTimeout(() => host.remove(), 400);
+    }
+  }, 6000);
+}
+
 function escHtml(s: string): string {
   return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
@@ -305,10 +373,14 @@ async function detectAndShow() {
   if (wasRecentlyShown(name)) return;
 
   const match = await findDirectOrdering(name);
-  if (!match) return;
 
   markShown(name);
-  showOverlay(match, platform);
+
+  if (match) {
+    showOverlay(match, platform);
+  } else {
+    showNoMatchOverlay(name, platform);
+  }
 }
 
 // SPA navigation watcher
