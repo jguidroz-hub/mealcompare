@@ -1,7 +1,7 @@
 import { NextRequest } from 'next/server';
 import { SignJWT, jwtVerify } from 'jose';
 
-const JWT_SECRET = new TextEncoder().encode(process.env.NEXTAUTH_SECRET || 'skipthefee-secret-2026');
+const JWT_SECRET = new TextEncoder().encode(process.env.NEXTAUTH_SECRET || 'eddy-secret-2026');
 
 async function hashPw(pw: string): Promise<string> {
   const data = new TextEncoder().encode(pw + 'ski-salt');

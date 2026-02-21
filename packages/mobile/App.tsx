@@ -16,7 +16,7 @@ import { useShareIntent, ShareIntent } from 'expo-share-intent';
 import * as Location from 'expo-location';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
-const API_BASE = 'https://skipthefee.app';
+const API_BASE = 'https://eddy.app';
 
 // ─── Types ─────────────────────────────────────────────────────
 interface Restaurant {
@@ -95,9 +95,9 @@ function extractRestaurantFromUrl(url: string): string | null {
 function addUtm(url: string): string {
   try {
     const u = new URL(url);
-    u.searchParams.set('utm_source', 'skipthefee');
+    u.searchParams.set('utm_source', 'eddy');
     u.searchParams.set('utm_medium', 'app');
-    u.searchParams.set('ref', 'skipthefee');
+    u.searchParams.set('ref', 'eddy');
     return u.toString();
   } catch { return url; }
 }
@@ -225,7 +225,7 @@ export default function App() {
       {/* Header */}
       <View style={S.header}>
         <TouchableOpacity onPress={() => { setScreen('home'); setQuery(''); setRestaurants([]); }}>
-          <Text style={S.logo}>💰 <Text style={S.logoText}>SkipTheFee</Text></Text>
+          <Text style={S.logo}>💰 <Text style={S.logoText}>Eddy</Text></Text>
         </TouchableOpacity>
         <View style={S.headerRight}>
           <TouchableOpacity onPress={() => setScreen('favorites')} style={S.headerBtn}>
@@ -358,7 +358,7 @@ function HomeScreen({ onSearch, allRestaurants, selectedMetro, onTrack, favorite
       <View style={S.section}>
         <Text style={S.sectionTitle}>How it works</Text>
         {[
-          { icon: '📱', title: 'Share from any app', desc: 'Share a restaurant link from DoorDash/UberEats/Grubhub and select SkipTheFee' },
+          { icon: '📱', title: 'Share from any app', desc: 'Share a restaurant link from DoorDash/UberEats/Grubhub and select Eddy' },
           { icon: '⚡', title: 'Find direct ordering', desc: 'We check if the restaurant has their own ordering (Toast, Square, website)' },
           { icon: '💰', title: 'Save 15-30%', desc: 'Order direct — no platform markups, lower delivery fees, more money for you' },
         ].map((step, i) => (

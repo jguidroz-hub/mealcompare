@@ -4,7 +4,7 @@
  * Shows the real savings MealCompare provides.
  */
 
-const API = process.argv[2] || 'https://mealcompare.vercel.app';
+const API = process.argv[2] || 'https://eddy.delivery';
 
 interface Order {
   restaurant: string;

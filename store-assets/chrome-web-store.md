@@ -1,21 +1,21 @@
-# Chrome Web Store Listing — SkipTheFee
+# Chrome Web Store Listing — Eddy
 
 ## Name
-SkipTheFee — Save on Food Delivery
+Eddy — Save on Food Delivery
 
 ## Short Description (132 chars max)
 Compare food delivery prices across DoorDash, Uber Eats, Grubhub & direct ordering. See the cheapest option instantly. Save $5-15/order.
 
 ## Detailed Description
-Stop overpaying for food delivery! SkipTheFee automatically detects your cart on DoorDash, Uber Eats, and Grubhub, then shows you the cheapest way to get that exact order — including direct ordering from the restaurant.
+Stop overpaying for food delivery! Eddy automatically detects your cart on DoorDash, Uber Eats, and Grubhub, then shows you the cheapest way to get that exact order — including direct ordering from the restaurant.
 
 **How it works:**
 1. Browse any food delivery app as usual
 2. Add items to your cart
-3. Click the SkipTheFee icon to see price comparisons
+3. Click the Eddy icon to see price comparisons
 4. Switch to the cheapest option with one click
 
-**What SkipTheFee shows you:**
+**What Eddy shows you:**
 • Real prices from Uber Eats (verified via API)
 • Estimated prices from DoorDash & Grubhub
 • Direct ordering links (Toast, Square, restaurant websites) — often 15-30% cheaper

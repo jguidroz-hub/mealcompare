@@ -1,5 +1,5 @@
 /**
- * Email Templates for SkipTheFee Restaurant Prospecting
+ * Email Templates for Eddy Restaurant Prospecting
  * 
  * 3-email sequence:
  * 1. Cold outreach (Day 0)
@@ -26,13 +26,13 @@ export function getColdOutreach(restaurantName: string, city: string): EmailTemp
   
   <p><strong>The fix takes about a week:</strong> Platforms like <a href="https://chownow.partnerlinks.io/wd7qfk394fwq" style="color: #2563eb;">ChowNow</a> and Toast let you accept orders directly from your own website or app — same convenience for customers, but you keep the margin.</p>
   
-  <p>We run <a href="https://skipthefee.app" style="color: #2563eb;">SkipTheFee</a>, a directory that helps diners find restaurants with direct ordering. We'd love to list ${restaurantName} — but first you need a direct ordering link.</p>
+  <p>We run <a href="https://eddy.delivery" style="color: #2563eb;">Eddy</a>, a directory that helps diners find restaurants with direct ordering. We'd love to list ${restaurantName} — but first you need a direct ordering link.</p>
   
   <p><strong>Want a free consultation on getting set up?</strong> Just reply to this email and I'll connect you with the right platform for your needs. No cost, no obligation.</p>
   
   <p>Best,<br>
   Jon Guidroz<br>
-  <a href="https://skipthefee.app" style="color: #2563eb;">SkipTheFee</a> — Helping restaurants keep more of every order</p>
+  <a href="https://eddy.delivery" style="color: #2563eb;">Eddy</a> — Helping restaurants keep more of every order</p>
   
   <p style="font-size: 12px; color: #999; margin-top: 30px; border-top: 1px solid #eee; padding-top: 10px;">
     You're receiving this because ${restaurantName} is listed in our restaurant database without a direct ordering URL. 
@@ -47,13 +47,13 @@ That means every order through DoorDash, Uber Eats, or Grubhub is costing you 15
 
 The fix takes about a week: Platforms like ChowNow and Toast let you accept orders directly from your own website or app — same convenience for customers, but you keep the margin.
 
-We run SkipTheFee (https://skipthefee.app), a directory that helps diners find restaurants with direct ordering. We'd love to list ${restaurantName} — but first you need a direct ordering link.
+We run Eddy (https://eddy.delivery), a directory that helps diners find restaurants with direct ordering. We'd love to list ${restaurantName} — but first you need a direct ordering link.
 
 Want a free consultation on getting set up? Just reply to this email and I'll connect you with the right platform for your needs. No cost, no obligation.
 
 Best,
 Jon Guidroz
-SkipTheFee — Helping restaurants keep more of every order
+Eddy — Helping restaurants keep more of every order
 
 ---
 You're receiving this because ${restaurantName} is listed in our restaurant database without a direct ordering URL. Reply STOP to unsubscribe.`,
@@ -84,7 +84,7 @@ export function getFollowUp1(restaurantName: string, city: string): EmailTemplat
   
   <p>Best,<br>
   Jon Guidroz<br>
-  <a href="https://skipthefee.app" style="color: #2563eb;">SkipTheFee</a></p>
+  <a href="https://eddy.delivery" style="color: #2563eb;">Eddy</a></p>
   
   <p style="font-size: 12px; color: #999; margin-top: 30px; border-top: 1px solid #eee; padding-top: 10px;">
     <a href="{{unsubscribe_url}}" style="color: #999;">Unsubscribe</a>
@@ -107,7 +107,7 @@ Want me to run the numbers for ${restaurantName} specifically? Just reply and I'
 
 Best,
 Jon Guidroz
-SkipTheFee (https://skipthefee.app)
+Eddy (https://eddy.delivery)
 
 ---
 Reply STOP to unsubscribe.`,
@@ -132,11 +132,11 @@ export function getFollowUp2(restaurantName: string, city: string): EmailTemplat
   
   <p>Both offer free demos and can have you up and running in a week.</p>
   
-  <p>If you set up direct ordering, let us know and we'll feature ${restaurantName} on <a href="https://skipthefee.app" style="color: #2563eb;">SkipTheFee</a> — free exposure to diners looking to order direct.</p>
+  <p>If you set up direct ordering, let us know and we'll feature ${restaurantName} on <a href="https://eddy.delivery" style="color: #2563eb;">Eddy</a> — free exposure to diners looking to order direct.</p>
   
   <p>Wishing you a great service,<br>
   Jon Guidroz<br>
-  <a href="https://skipthefee.app" style="color: #2563eb;">SkipTheFee</a></p>
+  <a href="https://eddy.delivery" style="color: #2563eb;">Eddy</a></p>
   
   <p style="font-size: 12px; color: #999; margin-top: 30px; border-top: 1px solid #eee; padding-top: 10px;">
     <a href="{{unsubscribe_url}}" style="color: #999;">Unsubscribe</a>
@@ -153,11 +153,11 @@ If you ever want to explore direct ordering for ${restaurantName}, here are two 
 
 Both offer free demos and can have you up and running in a week.
 
-If you set up direct ordering, let us know and we'll feature ${restaurantName} on SkipTheFee (https://skipthefee.app) — free exposure to diners looking to order direct.
+If you set up direct ordering, let us know and we'll feature ${restaurantName} on Eddy (https://eddy.delivery) — free exposure to diners looking to order direct.
 
 Wishing you a great service,
 Jon Guidroz
-SkipTheFee
+Eddy
 
 ---
 Reply STOP to unsubscribe.`,

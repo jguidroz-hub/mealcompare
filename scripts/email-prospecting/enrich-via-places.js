@@ -66,7 +66,7 @@ async function scrapeEmailsFromWebsite(websiteUrl) {
     const url = baseUrl + p;
     try {
       const resp = await fetch(url, {
-        headers: { 'User-Agent': 'Mozilla/5.0 (compatible; SkipTheFee/1.0)' },
+        headers: { 'User-Agent': 'Mozilla/5.0 (compatible; Eddy/1.0)' },
         signal: AbortSignal.timeout(8000),
         redirect: 'follow',
       });

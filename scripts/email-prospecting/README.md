@@ -1,4 +1,4 @@
-# SkipTheFee Email Prospecting Pipeline
+# Eddy Email Prospecting Pipeline
 
 ## Overview
 1,907 restaurants in our database have NO direct ordering URL.

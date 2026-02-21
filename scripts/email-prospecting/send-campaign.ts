@@ -1,5 +1,5 @@
 /**
- * SkipTheFee Email Campaign Sender
+ * Eddy Email Campaign Sender
  * 
  * Uses Resend API to send prospecting emails.
  * Domain: projectgreenbelt.com (verified on Resend)
@@ -67,12 +67,12 @@ async function sendEmail(to: string, template: ReturnType<typeof getColdOutreach
       'Content-Type': 'application/json',
     },
     body: JSON.stringify({
-      from: `Jon at SkipTheFee <${FROM_EMAIL}>`,
+      from: `Jon at Eddy <${FROM_EMAIL}>`,
       reply_to: REPLY_TO,
       to: [to],
       subject: template.subject,
       html: template.htmlBody.replace('{{unsubscribe_url}}', 
-        `https://skipthefee.app/unsubscribe?email=${encodeURIComponent(to)}`),
+        `https://eddy.delivery/unsubscribe?email=${encodeURIComponent(to)}`),
       text: template.textBody,
       tags: Object.entries(tags).map(([name, value]) => ({ name, value })),
     }),

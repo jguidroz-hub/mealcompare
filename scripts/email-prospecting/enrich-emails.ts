@@ -1,5 +1,5 @@
 /**
- * Email Enrichment Script for SkipTheFee Prospecting
+ * Email Enrichment Script for Eddy Prospecting
  * 
  * Uses Brave Search API to find restaurant contact emails.
  * Strategy: Search for "[restaurant name] [city] contact email" 

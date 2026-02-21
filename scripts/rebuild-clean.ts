@@ -20,7 +20,7 @@ let totalRestaurants = 0;
 
 const lines: string[] = [];
 lines.push('/**');
-lines.push(' * Auto-generated restaurant database for SkipTheFee');
+lines.push(' * Auto-generated restaurant database for Eddy');
 lines.push(' * Generated: ' + new Date().toISOString());
 lines.push(' * Source: Brave Search API harvesting across 12+ ordering platforms');
 lines.push(' */');

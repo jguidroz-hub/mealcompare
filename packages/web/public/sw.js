@@ -1,4 +1,4 @@
-const CACHE_NAME = 'skipthefee-v1';
+const CACHE_NAME = 'eddy-v1';
 const STATIC_ASSETS = ['/', '/restaurants', '/offline'];
 
 // Install — cache shell

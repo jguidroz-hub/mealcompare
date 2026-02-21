@@ -1,5 +1,5 @@
 /**
- * Auto-generated restaurant database for SkipTheFee
+ * Auto-generated restaurant database for Eddy
  * Generated: 2026-02-18T00:47:59.743Z
  * Source: Brave Search API harvesting across 12+ ordering platforms
  */

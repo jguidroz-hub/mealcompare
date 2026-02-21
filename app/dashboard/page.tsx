@@ -11,7 +11,7 @@ export default function Dashboard() {
       {/* Top bar */}
       <header className="bg-white border-b px-6 py-3 flex items-center justify-between">
         <div className="flex items-center gap-4">
-          <Link href="/" className="font-bold">Skipthefee</Link>
+          <Link href="/" className="font-bold">Eddy</Link>
           <span className="text-xs bg-green-100 text-green-700 px-2 py-0.5 rounded-full">Active</span>
         </div>
         <div className="flex items-center gap-3">

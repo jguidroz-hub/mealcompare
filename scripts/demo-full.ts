@@ -4,7 +4,7 @@
  * This is the pitch script — shows the core value prop with real data.
  */
 
-const API = 'https://mealcompare.vercel.app';
+const API = 'https://eddy.delivery';
 
 async function compare(restaurant: string, metro: string, items: any[]) {
   const res = await fetch(`${API}/api/compare`, {
@@ -81,7 +81,7 @@ async function main() {
 ║  At ${fmt(Math.round(totalSavings / 3))}/order savings, that's ${fmt(Math.round(totalSavings / 3 * 3 * 52))}/year.              ║
 ║                                                              ║
 ║  MealCompare: Free Chrome extension.                         ║
-║  Install: mealcompare.vercel.app                             ║
+║  Install: eddy.delivery                             ║
 ╚══════════════════════════════════════════════════════════════╝
 `);
 }

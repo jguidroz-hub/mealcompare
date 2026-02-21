@@ -7,7 +7,7 @@ const startTime = Date.now();
 export async function GET() {
   return NextResponse.json({
     status: 'healthy',
-    version: process.env.VERCEL_GIT_COMMIT_SHA?.slice(0, 7) || '0.0.0',
+    version: process.env.APP_VERSION || '0.3.0',
     timestamp: new Date().toISOString(),
     uptime: Math.floor((Date.now() - startTime) / 1000),
   });
