@@ -19,9 +19,24 @@ export default function InstallPage() {
         <h1 style={{ fontSize: '36px', fontWeight: 800, marginBottom: '16px' }}>
           Install Eddy
         </h1>
+        {/* Chrome Web Store link (primary) */}
+        <div style={{
+          background: 'linear-gradient(135deg, #1e40af, #3b82f6)',
+          borderRadius: '12px', padding: '20px 24px', marginBottom: '32px',
+          display: 'flex', alignItems: 'center', gap: '16px',
+        }}>
+          <span style={{ fontSize: '32px' }}>🧩</span>
+          <div>
+            <div style={{ fontWeight: 700, fontSize: '16px', marginBottom: '4px' }}>Chrome Web Store</div>
+            <div style={{ fontSize: '14px', color: 'rgba(255,255,255,0.75)' }}>
+              One-click install. Automatic updates. Coming soon.
+            </div>
+          </div>
+        </div>
+
         <p style={{ fontSize: '16px', color: '#94a3b8', marginBottom: '40px', lineHeight: 1.6 }}>
-          Eddy is in early access. Install it directly in Chrome in under 60 seconds.
-          We&apos;re submitting to the Chrome Web Store soon — for now, use Developer Mode.
+          While we finalize the Chrome Web Store listing, you can install Eddy directly
+          in under 60 seconds using Developer Mode.
         </p>
 
         {/* Steps */}
@@ -40,7 +55,7 @@ export default function InstallPage() {
                 fontSize: '15px', display: 'inline-flex', alignItems: 'center', gap: '8px',
               }}
             >
-              ⬇️ Download Eddy v0.1.0
+              ⬇️ Download Eddy v0.3.0
             </a>
           </Step>
 
@@ -76,7 +91,7 @@ export default function InstallPage() {
           <Step
             number={6}
             title="You're set! 🎉"
-            description="Browse DoorDash, Uber Eats, or Grubhub. Eddy will automatically detect your cart and show you cheaper options."
+            description="Browse any delivery app. Eddy will automatically detect your cart and show you cheaper options — including direct ordering from the restaurant."
           >
             <div style={{ background: '#1e293b', borderRadius: '12px', padding: '16px', marginTop: '12px', border: '1px solid #334155' }}>
               <div style={{ fontSize: '13px', color: '#94a3b8' }}>

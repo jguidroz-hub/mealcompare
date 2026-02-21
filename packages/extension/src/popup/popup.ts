@@ -94,11 +94,9 @@ function renderEmpty(): void {
       ${statsHtml}
       <div class="empty">
         <h2>💰 Save $5–15 on every order</h2>
-        <p>Browse DoorDash, Uber Eats, or Grubhub and add items to your cart. We'll find the cheapest way to order — including direct from the restaurant.</p>
+        <p>Browse any delivery app and add items to your cart. Eddy will find the cheapest way to order — including direct from the restaurant.</p>
         <div style="margin-top: 16px;">
-          <a href="https://www.doordash.com" target="_blank" style="color: #3b82f6; text-decoration: none; font-size: 12px; margin-right: 12px;">DoorDash →</a>
-          <a href="https://www.ubereats.com" target="_blank" style="color: #3b82f6; text-decoration: none; font-size: 12px; margin-right: 12px;">Uber Eats →</a>
-          <a href="https://www.grubhub.com" target="_blank" style="color: #3b82f6; text-decoration: none; font-size: 12px;">Grubhub →</a>
+          <a href="https://eddy.delivery/restaurants" target="_blank" style="color: #3b82f6; text-decoration: none; font-size: 12px;">Browse 9,300+ restaurants →</a>
         </div>
       </div>
     `;
@@ -219,7 +217,7 @@ function renderResult(result: ComparisonResult): void {
         } catch {}
 
         // Track the click
-        fetch('https://eddy.vercel.app/api/track', {
+        fetch('https://eddy.delivery/api/track', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({

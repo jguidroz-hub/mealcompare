@@ -133,53 +133,8 @@ export function scrapeMenuFromPage(): ScrapedMenuData | null {
       },
       items,
     };
-  } catch (err) {
-    console.error('[Eddy] DoorDash scraper error:', err);
+  } catch {
     return null;
-  }
-}
-
-/**
- * Search DoorDash for a restaurant by name.
- * Uses DoorDash's own GraphQL from within the browser context.
- */
-export async function searchDoorDash(query: string): Promise<Array<{ name: string; slug: string; storeId: string }>> {
-  try {
-    // From within the browser, we can call DoorDash GraphQL with the user's cookies
-    const res = await fetch('https://www.doordash.com/graphql/getSearchSuggestions?operation=getSearchSuggestions', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      credentials: 'include', // Include DoorDash cookies
-      body: JSON.stringify({
-        operationName: 'getSearchSuggestions',
-        query: `query getSearchSuggestions($query: String!) {
-          searchSuggestions(query: $query) {
-            suggestions {
-              text
-              type
-              store { id name slug __typename }
-              __typename
-            }
-            __typename
-          }
-        }`,
-        variables: { query },
-      }),
-    });
-
-    const data = await res.json();
-    const suggestions = data?.data?.searchSuggestions?.suggestions ?? [];
-
-    return suggestions
-      .filter((s: any) => s.store)
-      .map((s: any) => ({
-        name: s.store.name,
-        slug: s.store.slug,
-        storeId: s.store.id?.toString(),
-      }));
-  } catch (err) {
-    console.error('[Eddy] DoorDash search error:', err);
-    return [];
   }
 }
 

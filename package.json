@@ -13,11 +13,12 @@
     "build:ext": "npm -w packages/shared run build && npm -w packages/engine run build && npm -w packages/extension run build"
   },
   "dependencies": {
-    "stripe": "^17.0.0",
-    "drizzle-orm": "^0.38.0",
     "@neondatabase/serverless": "^0.10.0",
+    "@rollup/rollup-linux-x64-gnu": "^4.58.0",
+    "bcryptjs": "2.4.3",
+    "drizzle-orm": "^0.38.0",
     "jose": "^5.0.0",
-    "bcryptjs": "2.4.3"
+    "stripe": "^17.0.0"
   },
   "devDependencies": {
     "drizzle-kit": "^0.20.0"

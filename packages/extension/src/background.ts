@@ -7,7 +7,7 @@
 
 import { CartDetection, ComparisonResult } from '@mealcompare/shared';
 
-const API_BASE = 'https://eddy.vercel.app';
+const API_BASE = 'https://eddy.delivery';
 
 let latestCart: CartDetection | null = null;
 let latestResult: ComparisonResult | null = null;
@@ -106,7 +106,6 @@ async function runComparison(cart: CartDetection): Promise<void> {
 
   } catch (err) {
     const errorMsg = err instanceof Error ? err.message : 'Comparison failed';
-    console.error('[Eddy] Comparison failed:', errorMsg);
     latestError = errorMsg;
     chrome.action.setBadgeText({ text: '!' });
     chrome.action.setBadgeBackgroundColor({ color: '#ef4444' });
@@ -146,7 +145,5 @@ chrome.runtime.onInstalled.addListener((details) => {
     });
   }
 
-  console.log('[Eddy] Extension installed. Default metro: austin');
 });
 
-console.log('[Eddy] Background service worker loaded');

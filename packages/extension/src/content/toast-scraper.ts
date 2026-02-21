@@ -165,12 +165,10 @@ function deduplicateItems(items: ToastMenuItem[]): ToastMenuItem[] {
 // ─── Main: Extract + send to background ────────────────────────
 
 function init(): void {
-  console.log('[Eddy] Toast scraper loaded on', window.location.href);
 
   // Wait for page to hydrate
   setTimeout(() => {
     const items = extractMenuItems();
-    console.log(`[Eddy] Found ${items.length} menu items on Toast page`);
 
     if (items.length > 0) {
       // Send to background for storage + future comparison
