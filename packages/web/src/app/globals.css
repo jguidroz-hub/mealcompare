@@ -441,4 +441,13 @@ html, body { overflow-x: hidden; }
 @media (max-width: 640px) {
   section { padding-left: 16px !important; padding-right: 16px !important; }
   section > div { max-width: 100% !important; overflow: hidden; }
+  /* Kayak search bar: stack search + button */
+  .kayak-search-bar {
+    flex-direction: column !important;
+    gap: 8px !important;
+  }
+  .kayak-search-bar > div:last-child {
+    width: 100% !important;
+    text-align: center !important;
+  }
 }

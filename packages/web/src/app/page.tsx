@@ -418,12 +418,12 @@ function KayakTable() {
 
   return (
     <div className="card" style={{ overflow: 'hidden' }}>
-      <div style={{ padding: '14px 18px', borderBottom: `1px solid #E5E7EB`, display: 'flex', gap: 10, alignItems: 'center' }}>
-        <div style={{ flex: 1, background: '#F9FAFB', borderRadius: 8, padding: '10px 14px', fontSize: 13, color: '#9CA3AF', border: '1px solid #E5E7EB', display: 'flex', alignItems: 'center', gap: 8 }}>
-          <span style={{ fontSize: 13 }}>🔍</span>
-          <span>Chipotle · Washington, DC · 3 items</span>
+      <div className="kayak-search-bar" style={{ padding: '14px 18px', borderBottom: `1px solid #E5E7EB`, display: 'flex', gap: 10, alignItems: 'center' }}>
+        <div style={{ flex: 1, minWidth: 0, background: '#F9FAFB', borderRadius: 8, padding: '10px 14px', fontSize: 13, color: '#9CA3AF', border: '1px solid #E5E7EB', display: 'flex', alignItems: 'center', gap: 8, overflow: 'hidden' }}>
+          <span style={{ fontSize: 13, flexShrink: 0 }}>🔍</span>
+          <span style={{ overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>Chipotle · Washington, DC · 3 items</span>
         </div>
-        <div style={{ background: '#2563EB', borderRadius: 8, padding: '10px 16px', fontSize: 13, fontWeight: 700, color: '#FFF', cursor: 'pointer', whiteSpace: 'nowrap', boxShadow: '0 2px 10px rgba(37,99,235,0.2)' }}>Compare</div>
+        <div style={{ background: '#2563EB', borderRadius: 8, padding: '10px 16px', fontSize: 13, fontWeight: 700, color: '#FFF', cursor: 'pointer', whiteSpace: 'nowrap', boxShadow: '0 2px 10px rgba(37,99,235,0.2)', flexShrink: 0 }}>Compare</div>
       </div>
       <div style={{ padding: '9px 18px 7px', display: 'flex', justifyContent: 'space-between', borderBottom: '1px solid #F3F4F6' }}>
         <span style={{ fontSize: 10, color: '#9CA3AF', fontWeight: 600, letterSpacing: '0.07em', textTransform: 'uppercase' }}>Platform</span>
