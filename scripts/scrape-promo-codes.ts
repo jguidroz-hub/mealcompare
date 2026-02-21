@@ -65,19 +65,16 @@ const SEARCH_QUERIES: Record<string, string[]> = {
 // Known aggregator URLs to fetch directly
 const DIRECT_URLS: Record<string, string[]> = {
   doordash: [
-    'https://www.retailmenot.com/view/doordash.com',
-    'https://www.offers.com/doordash/',
-    'https://www.groupon.com/coupons/doordash',
+    'https://simplycodes.com/store/doordash.com',
+    'https://couponfollow.com/site/doordash.com',
   ],
   ubereats: [
-    'https://www.retailmenot.com/view/ubereats.com',
-    'https://www.offers.com/uber-eats/',
-    'https://www.groupon.com/coupons/ubereats',
+    'https://simplycodes.com/store/ubereats.com',
+    'https://couponfollow.com/site/ubereats.com',
   ],
   grubhub: [
-    'https://www.retailmenot.com/view/grubhub.com',
-    'https://www.offers.com/grubhub/',
-    'https://www.groupon.com/coupons/grubhub',
+    'https://simplycodes.com/store/grubhub.com',
+    'https://couponfollow.com/site/grubhub.com',
   ],
 };
 
@@ -91,6 +88,8 @@ const PROMO_CONTEXT_PATTERNS = [
   /(?:promo|coupon|discount|offer)\s*(?:code)?[:\s]+["']?([A-Z0-9]{4,20})["']?/gi,
   /(?:code|use|enter|apply)[:\s]+["']?([A-Z0-9]{4,20})["']?/gi,
   /["']([A-Z0-9]{4,20})["']\s*(?:for|to get|saves?)/gi,
+  /(?:promo\s*code|code)\s+([A-Z0-9]{4,20})\s+(?:as\s+working|for|at)/gi,
+  /added\s+(?:promo\s*)?code\s+([A-Z0-9]{4,20})/gi,
 ];
 
 // Value extraction patterns

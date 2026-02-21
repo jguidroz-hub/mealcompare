@@ -10,18 +10,14 @@ import { getPool } from '@/lib/db';
  */
 
 const SOURCES: Array<{ platform: string; url: string; name: string }> = [
-  // RetailMeNot
-  { platform: 'doordash', url: 'https://www.retailmenot.com/view/doordash.com', name: 'retailmenot' },
-  { platform: 'ubereats', url: 'https://www.retailmenot.com/view/ubereats.com', name: 'retailmenot' },
-  { platform: 'grubhub', url: 'https://www.retailmenot.com/view/grubhub.com', name: 'retailmenot' },
-  // Offers.com
-  { platform: 'doordash', url: 'https://www.offers.com/doordash/', name: 'offers.com' },
-  { platform: 'ubereats', url: 'https://www.offers.com/uber-eats/', name: 'offers.com' },
-  { platform: 'grubhub', url: 'https://www.offers.com/grubhub/', name: 'offers.com' },
-  // Groupon
-  { platform: 'doordash', url: 'https://www.groupon.com/coupons/doordash', name: 'groupon' },
-  { platform: 'ubereats', url: 'https://www.groupon.com/coupons/ubereats', name: 'groupon' },
-  { platform: 'grubhub', url: 'https://www.groupon.com/coupons/grubhub', name: 'groupon' },
+  // SimplyCodes (best — shows actual codes + verification data)
+  { platform: 'doordash', url: 'https://simplycodes.com/store/doordash.com', name: 'simplycodes' },
+  { platform: 'ubereats', url: 'https://simplycodes.com/store/ubereats.com', name: 'simplycodes' },
+  { platform: 'grubhub', url: 'https://simplycodes.com/store/grubhub.com', name: 'simplycodes' },
+  // CouponFollow (good descriptions, hides codes)
+  { platform: 'doordash', url: 'https://couponfollow.com/site/doordash.com', name: 'couponfollow' },
+  { platform: 'ubereats', url: 'https://couponfollow.com/site/ubereats.com', name: 'couponfollow' },
+  { platform: 'grubhub', url: 'https://couponfollow.com/site/grubhub.com', name: 'couponfollow' },
 ];
 
 // Common promo code context patterns
@@ -29,6 +25,10 @@ const PROMO_PATTERNS = [
   /(?:promo|coupon|discount|offer)\s*(?:code)?[:\s]+["']?([A-Z0-9]{4,20})["']?/gi,
   /(?:code|use|enter|apply)[:\s]+["']?([A-Z0-9]{4,20})["']?/gi,
   /["']([A-Z0-9]{4,20})["']\s*(?:for|to get|saves?)/gi,
+  // SimplyCodes format: "reported promo code PRICE40 as working"
+  /(?:promo\s*code|code)\s+([A-Z0-9]{4,20})\s+(?:as\s+working|for|at)/gi,
+  // SimplyCodes format: "added promo code XPDPFQ for DoorDash"
+  /added\s+(?:promo\s*)?code\s+([A-Z0-9]{4,20})/gi,
 ];
 
 const VALUE_PATTERNS = {
