@@ -10,7 +10,7 @@ export default function ForRestaurants() {
         <div style={{ maxWidth: 900, margin: '0 auto', padding: '14px 24px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
           <Link href="/" style={{ display: 'flex', alignItems: 'center', gap: 8, color: '#e2e8f0', textDecoration: 'none' }}>
             <span style={{ fontSize: 22 }}>💰</span>
-            <span style={{ fontSize: 17, fontWeight: 800 }}>SkipTheFee</span>
+            <span style={{ fontSize: 17, fontWeight: 800 }}>Eddy</span>
           </Link>
           <div style={{ display: 'flex', gap: 20, alignItems: 'center' }}>
             <Link href="/restaurants" style={{ fontSize: 13, color: '#64748b', textDecoration: 'none' }}>For Diners</Link>
@@ -33,7 +33,7 @@ export default function ForRestaurants() {
           </h1>
 
           <p style={{ fontSize: 18, color: '#64748b', lineHeight: 1.7, maxWidth: 560, margin: '0 auto 40px' }}>
-            SkipTheFee sends hungry customers <strong style={{ color: '#94a3b8' }}>directly to your website</strong>.
+            Eddy sends hungry customers <strong style={{ color: '#94a3b8' }}>directly to your website</strong>.
             No commissions. No middlemen. More profit on every order.
           </p>
 
@@ -93,7 +93,7 @@ export default function ForRestaurants() {
       <section id="how" style={{ padding: '80px 24px', maxWidth: 800, margin: '0 auto' }}>
         <div style={{ textAlign: 'center', marginBottom: 48 }}>
           <h2 style={{ fontSize: 36, fontWeight: 800, letterSpacing: '-0.02em', marginBottom: 12 }}>
-            How <span className="gradient-text">SkipTheFee</span> helps you
+            How <span className="gradient-text">Eddy</span> helps you
           </h2>
         </div>
 
@@ -210,7 +210,7 @@ export default function ForRestaurants() {
         <Link href="/">For Diners</Link>
         <Link href="/privacy">Privacy</Link>
         <Link href="/restaurants">Restaurants</Link>
-        <span>© 2026 SkipTheFee</span>
+        <span>© 2026 Eddy</span>
       </footer>
     </main>
   );

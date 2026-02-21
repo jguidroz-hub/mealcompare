@@ -93,4 +93,4 @@ const observer = new MutationObserver(() => {
 observer.observe(document.body, { childList: true, subtree: true, characterData: true });
 setTimeout(checkCart, 2000);
 
-console.log('[SkipTheFee] Grubhub content script loaded');
+console.log('[Eddy] Grubhub content script loaded');

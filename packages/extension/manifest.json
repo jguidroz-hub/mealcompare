@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "SkipTheFee — Save on Food Delivery",
+  "name": "Eddy — Save on Food Delivery",
   "description": "Compare prices across DoorDash, Uber Eats, Grubhub & direct ordering. Save $5-15 per order.",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "permissions": ["storage"],
   "host_permissions": [
     "https://www.doordash.com/*",
@@ -10,7 +10,7 @@
     "https://www.grubhub.com/*",
     "https://*.toast.site/*",
     "https://order.toasttab.com/*",
-    "https://skipthefee.app/*"
+    "https://eddy.delivery/*"
   ],
   "background": {
     "service_worker": "background.js",

@@ -9,7 +9,7 @@ const METROS = [
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const base = 'https://skipthefee.app';
+  const base = 'https://eddy.delivery';
   const now = new Date();
 
   const staticPages: MetadataRoute.Sitemap = [

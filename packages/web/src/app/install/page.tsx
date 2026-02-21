@@ -3,8 +3,8 @@ import Link from 'next/link';
 import WaitlistForm from './WaitlistForm';
 
 export const metadata: Metadata = {
-  title: 'Install SkipTheFee — Chrome Extension',
-  description: 'Install the SkipTheFee Chrome extension and start saving on food delivery.',
+  title: 'Install Eddy — Chrome Extension',
+  description: 'Install the Eddy Chrome extension and start saving on food delivery.',
 };
 
 export default function InstallPage() {
@@ -13,14 +13,14 @@ export default function InstallPage() {
       <div style={{ maxWidth: '700px', margin: '0 auto', padding: '40px 24px' }}>
         {/* Back link */}
         <Link href="/" style={{ color: '#94a3b8', textDecoration: 'none', fontSize: '14px', display: 'inline-flex', alignItems: 'center', gap: '4px', marginBottom: '40px' }}>
-          ← Back to SkipTheFee
+          ← Back to Eddy
         </Link>
 
         <h1 style={{ fontSize: '36px', fontWeight: 800, marginBottom: '16px' }}>
-          Install SkipTheFee
+          Install Eddy
         </h1>
         <p style={{ fontSize: '16px', color: '#94a3b8', marginBottom: '40px', lineHeight: 1.6 }}>
-          SkipTheFee is in early access. Install it directly in Chrome in under 60 seconds.
+          Eddy is in early access. Install it directly in Chrome in under 60 seconds.
           We&apos;re submitting to the Chrome Web Store soon — for now, use Developer Mode.
         </p>
 
@@ -29,10 +29,10 @@ export default function InstallPage() {
           <Step
             number={1}
             title="Download the extension"
-            description="Click below to download the SkipTheFee extension ZIP file."
+            description="Click below to download the Eddy extension ZIP file."
           >
             <a
-              href="/skipthefee-extension.zip"
+              href="/eddy-extension.zip"
               download
               style={{
                 background: '#10b981', color: 'white', padding: '12px 24px',
@@ -40,14 +40,14 @@ export default function InstallPage() {
                 fontSize: '15px', display: 'inline-flex', alignItems: 'center', gap: '8px',
               }}
             >
-              ⬇️ Download SkipTheFee v0.1.0
+              ⬇️ Download Eddy v0.1.0
             </a>
           </Step>
 
           <Step
             number={2}
             title="Unzip the file"
-            description="Extract the downloaded ZIP file. You'll get a folder called 'skipthefee-extension'."
+            description="Extract the downloaded ZIP file. You'll get a folder called 'eddy-extension'."
           />
 
           <Step
@@ -76,12 +76,12 @@ export default function InstallPage() {
           <Step
             number={6}
             title="You're set! 🎉"
-            description="Browse DoorDash, Uber Eats, or Grubhub. SkipTheFee will automatically detect your cart and show you cheaper options."
+            description="Browse DoorDash, Uber Eats, or Grubhub. Eddy will automatically detect your cart and show you cheaper options."
           >
             <div style={{ background: '#1e293b', borderRadius: '12px', padding: '16px', marginTop: '12px', border: '1px solid #334155' }}>
               <div style={{ fontSize: '13px', color: '#94a3b8' }}>
-                <strong style={{ color: '#e2e8f0' }}>Pro tip:</strong> Pin SkipTheFee to your toolbar for easy access.
-                Click the puzzle piece icon (🧩) in Chrome and pin SkipTheFee.
+                <strong style={{ color: '#e2e8f0' }}>Pro tip:</strong> Pin Eddy to your toolbar for easy access.
+                Click the puzzle piece icon (🧩) in Chrome and pin Eddy.
               </div>
             </div>
           </Step>
@@ -91,10 +91,10 @@ export default function InstallPage() {
         <div style={{ marginTop: '48px', padding: '24px', background: '#1e293b', borderRadius: '12px', border: '1px solid #334155' }}>
           <h2 style={{ fontSize: '18px', fontWeight: 700, marginBottom: '12px' }}>⚙️ Settings</h2>
           <p style={{ fontSize: '14px', color: '#94a3b8', lineHeight: 1.6 }}>
-            After installation, right-click the SkipTheFee icon and select &quot;Options&quot; to set your city:
+            After installation, right-click the Eddy icon and select &quot;Options&quot; to set your city:
           </p>
           <p style={{ fontSize: '14px', color: '#94a3b8', lineHeight: 1.8, marginTop: '8px' }}>
-            SkipTheFee works across <strong style={{ color: '#e2e8f0' }}>30 cities</strong> including NYC, Chicago, LA, SF, Boston, Miami, DC, Austin, Houston, Atlanta, Seattle, Denver, Dallas, Phoenix, Portland, Nashville, New Orleans, and more.
+            Eddy works across <strong style={{ color: '#e2e8f0' }}>30 cities</strong> including NYC, Chicago, LA, SF, Boston, Miami, DC, Austin, Houston, Atlanta, Seattle, Denver, Dallas, Phoenix, Portland, Nashville, New Orleans, and more.
           </p>
         </div>
 

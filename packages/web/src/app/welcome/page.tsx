@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'Welcome to SkipTheFee!',
-  description: 'You just installed SkipTheFee. Here\'s how to start saving.',
+  title: 'Welcome to Eddy!',
+  description: 'You just installed Eddy. Here\'s how to start saving.',
 };
 
 export default function WelcomePage() {
@@ -12,7 +12,7 @@ export default function WelcomePage() {
       <div style={{ maxWidth: 500, padding: '40px 24px', textAlign: 'center' }}>
         <div style={{ fontSize: 64, marginBottom: 16 }}>🎉</div>
         <h1 style={{ fontSize: 28, fontWeight: 800, marginBottom: 12 }}>
-          SkipTheFee is installed!
+          Eddy is installed!
         </h1>
         <p style={{ fontSize: 16, color: '#94a3b8', lineHeight: 1.6, marginBottom: 32 }}>
           You&apos;re ready to save $5–15 on every food delivery order.
@@ -22,7 +22,7 @@ export default function WelcomePage() {
           {[
             { icon: '🛒', title: 'Browse a delivery app', desc: 'Go to DoorDash, Uber Eats, or Grubhub' },
             { icon: '➕', title: 'Add items to your cart', desc: 'Shop like you normally would' },
-            { icon: '💰', title: 'See the savings', desc: 'SkipTheFee automatically compares prices across platforms + direct ordering' },
+            { icon: '💰', title: 'See the savings', desc: 'Eddy automatically compares prices across platforms + direct ordering' },
           ].map((step, i) => (
             <div key={i} style={{ display: 'flex', gap: 14, padding: '14px 0', borderBottom: i < 2 ? '1px solid #1e293b' : 'none' }}>
               <div style={{ fontSize: 28, flexShrink: 0 }}>{step.icon}</div>
@@ -44,7 +44,7 @@ export default function WelcomePage() {
         </div>
 
         <p style={{ fontSize: 12, color: '#475569', marginTop: 24 }}>
-          Tip: Click the SkipTheFee icon in your toolbar anytime to see comparisons
+          Tip: Click the Eddy icon in your toolbar anytime to see comparisons
         </p>
       </div>
     </main>

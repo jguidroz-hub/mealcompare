@@ -112,14 +112,14 @@ export default function GetDirectOrderingPage() {
         </div>
       </section>
 
-      {/* SkipTheFee pitch */}
+      {/* Eddy pitch */}
       <section style={{ padding: '48px 20px', maxWidth: 700, margin: '0 auto', textAlign: 'center' }}>
         <div style={{ background: 'rgba(16,185,129,0.05)', border: '1px solid rgba(16,185,129,0.15)', borderRadius: 20, padding: '32px 24px' }}>
           <h2 style={{ fontSize: 22, fontWeight: 800, marginBottom: 12 }}>
             We send customers directly to you
           </h2>
           <p style={{ fontSize: 15, color: '#94a3b8', lineHeight: 1.7, maxWidth: 540, margin: '0 auto 20px' }}>
-            SkipTheFee helps thousands of diners find restaurants with direct ordering — so they skip the delivery app fees and order from you instead. 
+            Eddy helps thousands of diners find restaurants with direct ordering — so they skip the delivery app fees and order from you instead. 
             Get listed and start receiving customers who <strong style={{ color: '#e2e8f0' }}>want</strong> to order direct.
           </p>
           <Link 
@@ -191,7 +191,7 @@ export default function GetDirectOrderingPage() {
         </h2>
         <p style={{ fontSize: 14, color: '#94a3b8', lineHeight: 1.7, marginBottom: 24 }}>
           We&apos;ve helped thousands of restaurants get discovered through direct ordering. 
-          Claim your restaurant on SkipTheFee and we&apos;ll help you pick the right platform.
+          Claim your restaurant on Eddy and we&apos;ll help you pick the right platform.
         </p>
         <Link
           href="/for-restaurants"

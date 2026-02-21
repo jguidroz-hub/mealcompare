@@ -119,4 +119,4 @@ observer.observe(document.body, {
 // Initial check
 setTimeout(checkCart, 2000);
 
-console.log('[SkipTheFee] DoorDash content script loaded');
+console.log('[Eddy] DoorDash content script loaded');

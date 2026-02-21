@@ -2,7 +2,7 @@ import { Pool } from 'pg';
 import Link from 'next/link';
 import type { Metadata } from 'next';
 
-export const metadata: Metadata = { title: 'Unsubscribe — SkipTheFee' };
+export const metadata: Metadata = { title: 'Unsubscribe — Eddy' };
 export const dynamic = 'force-dynamic';
 
 const pool = new Pool({ connectionString: process.env.DATABASE_URL });
@@ -55,7 +55,7 @@ export default async function UnsubscribePage({ searchParams }: Props) {
               background: '#1e293b', color: '#94a3b8',
               borderRadius: 8, textDecoration: 'none', fontSize: 14,
             }}>
-              ← Back to SkipTheFee
+              ← Back to Eddy
             </Link>
           </>
         )}
@@ -64,7 +64,7 @@ export default async function UnsubscribePage({ searchParams }: Props) {
             <div style={{ fontSize: 48, marginBottom: 16 }}>⚠️</div>
             <h1 style={{ fontSize: 24, fontWeight: 700, marginBottom: 12 }}>Something went wrong</h1>
             <p style={{ color: '#94a3b8' }}>
-              Email <a href="mailto:jon@skipthefee.app" style={{ color: '#10b981' }}>jon@skipthefee.app</a> and we&apos;ll remove you within 24 hours.
+              Email <a href="mailto:jon@eddy.delivery" style={{ color: '#10b981' }}>jon@eddy.delivery</a> and we&apos;ll remove you within 24 hours.
             </p>
           </>
         )}

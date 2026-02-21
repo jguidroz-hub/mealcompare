@@ -3,6 +3,6 @@ import { MetadataRoute } from 'next';
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: [{ userAgent: '*', allow: '/', disallow: ['/api/'] }],
-    sitemap: 'https://skipthefee.app/sitemap.xml',
+    sitemap: 'https://eddy.delivery/sitemap.xml',
   };
 }

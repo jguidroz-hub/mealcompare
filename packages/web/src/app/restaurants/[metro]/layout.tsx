@@ -16,13 +16,13 @@ export async function generateMetadata({ params }: { params: Promise<{ metro: st
   const city = METRO_NAMES[metro] || metro;
 
   return {
-    title: `Direct Ordering Restaurants in ${city} — SkipTheFee`,
+    title: `Direct Ordering Restaurants in ${city} — Eddy`,
     description: `Find restaurants in ${city} with direct ordering. Skip DoorDash and Uber Eats fees — save 15-30% on every order. Browse ${city} restaurants with direct ordering links.`,
     openGraph: {
       title: `Skip Delivery Fees in ${city} — Order Direct`,
       description: `${city} restaurants with direct ordering. Save $5-15 per order vs DoorDash/Uber Eats.`,
       type: 'website',
-      url: `https://skipthefee.app/restaurants/${metro}`,
+      url: `https://eddy.delivery/restaurants/${metro}`,
     },
   };
 }

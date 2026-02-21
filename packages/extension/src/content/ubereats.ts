@@ -97,4 +97,4 @@ const observer = new MutationObserver(() => {
 observer.observe(document.body, { childList: true, subtree: true, characterData: true });
 setTimeout(checkCart, 2000);
 
-console.log('[SkipTheFee] Uber Eats content script loaded');
+console.log('[Eddy] Uber Eats content script loaded');

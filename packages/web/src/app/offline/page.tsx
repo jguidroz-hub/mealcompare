@@ -5,7 +5,7 @@ export default function OfflinePage() {
         <div style={{ fontSize: 48, marginBottom: 16 }}>📡</div>
         <h1 style={{ fontSize: 22, fontWeight: 700, marginBottom: 8 }}>You&apos;re offline</h1>
         <p style={{ fontSize: 14, color: '#94a3b8' }}>
-          SkipTheFee needs an internet connection to compare prices. Check your connection and try again.
+          Eddy needs an internet connection to compare prices. Check your connection and try again.
         </p>
       </div>
     </main>

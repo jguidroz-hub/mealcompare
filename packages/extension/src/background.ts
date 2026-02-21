@@ -1,5 +1,5 @@
 /**
- * SkipTheFee background service worker.
+ * Eddy background service worker.
  * 
  * Detects carts on DoorDash, Uber Eats, Grubhub → compares prices
  * across platforms + direct ordering to find the cheapest option.
@@ -7,7 +7,7 @@
 
 import { CartDetection, ComparisonResult } from '@mealcompare/shared';
 
-const API_BASE = 'https://skipthefee.vercel.app';
+const API_BASE = 'https://eddy.vercel.app';
 
 let latestCart: CartDetection | null = null;
 let latestResult: ComparisonResult | null = null;
@@ -106,7 +106,7 @@ async function runComparison(cart: CartDetection): Promise<void> {
 
   } catch (err) {
     const errorMsg = err instanceof Error ? err.message : 'Comparison failed';
-    console.error('[SkipTheFee] Comparison failed:', errorMsg);
+    console.error('[Eddy] Comparison failed:', errorMsg);
     latestError = errorMsg;
     chrome.action.setBadgeText({ text: '!' });
     chrome.action.setBadgeBackgroundColor({ color: '#ef4444' });
@@ -142,11 +142,11 @@ chrome.runtime.onInstalled.addListener((details) => {
   if (details.reason === 'install') {
     // Open onboarding tab
     chrome.tabs.create({
-      url: 'https://skipthefee.app/welcome?source=extension',
+      url: 'https://eddy.delivery/welcome?source=extension',
     });
   }
 
-  console.log('[SkipTheFee] Extension installed. Default metro: austin');
+  console.log('[Eddy] Extension installed. Default metro: austin');
 });
 
-console.log('[SkipTheFee] Background service worker loaded');
+console.log('[Eddy] Background service worker loaded');

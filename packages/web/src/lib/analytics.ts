@@ -1,5 +1,5 @@
 /**
- * Client-side analytics for SkipTheFee
+ * Client-side analytics for Eddy
  * Lightweight, privacy-respecting, no cookies needed
  */
 

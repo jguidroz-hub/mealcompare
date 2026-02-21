@@ -6,7 +6,7 @@ type FeedbackType = 'bug' | 'feature' | 'missing' | 'general';
 
 const TYPES: { id: FeedbackType; label: string; emoji: string; desc: string; placeholder: string }[] = [
   { id: 'bug', label: 'Report a Bug', emoji: '🐛', desc: 'Something broken or not working as expected', placeholder: 'Describe what happened, what you expected, and any steps to reproduce...' },
-  { id: 'feature', label: 'Request a Feature', emoji: '💡', desc: 'Something you wish SkipTheFee could do', placeholder: 'What feature would help you? How would you use it?' },
+  { id: 'feature', label: 'Request a Feature', emoji: '💡', desc: 'Something you wish Eddy could do', placeholder: 'What feature would help you? How would you use it?' },
   { id: 'missing', label: 'Missing Restaurant', emoji: '🍽️', desc: 'A restaurant we should add or one with wrong info', placeholder: 'Restaurant name, city, and their direct ordering website if you know it...' },
   { id: 'general', label: 'General Feedback', emoji: '💬', desc: 'Anything else — compliments, suggestions, questions', placeholder: 'Tell us what you think...' },
 ];
@@ -56,7 +56,7 @@ export default function FeedbackPage() {
             <div style={{ fontSize: 56, marginBottom: 16 }}>🎉</div>
             <h1 style={{ fontSize: 28, fontWeight: 900, marginBottom: 8 }}>Thanks for your feedback!</h1>
             <p style={{ color: '#64748b', fontSize: 15, lineHeight: 1.6, marginBottom: 24 }}>
-              We read every single submission and use it to make SkipTheFee better.
+              We read every single submission and use it to make Eddy better.
               {email && ' We\'ll follow up at your email if needed.'}
             </p>
             <div style={{ display: 'flex', gap: 12, justifyContent: 'center' }}>
@@ -78,7 +78,7 @@ export default function FeedbackPage() {
               We&apos;d love your feedback
             </h1>
             <p style={{ fontSize: 15, color: '#64748b', marginBottom: 32, lineHeight: 1.6 }}>
-              SkipTheFee is built for you. Tell us what&apos;s working, what&apos;s not, and what you want next. Every submission is read by a real person.
+              Eddy is built for you. Tell us what&apos;s working, what&apos;s not, and what you want next. Every submission is read by a real person.
             </p>
 
             {/* Type cards */}

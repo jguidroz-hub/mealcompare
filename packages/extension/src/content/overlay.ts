@@ -1,13 +1,13 @@
 /**
- * SkipTheFee Overlay — Honey-style notification on delivery app pages
+ * Eddy Overlay — Honey-style notification on delivery app pages
  * 
  * Detects which restaurant the user is viewing on DoorDash/UberEats/Grubhub,
  * looks it up in our database, and shows a slide-in panel if direct ordering exists.
  */
 
-const STF_OVERLAY_ID = 'skipthefee-overlay';
+const STF_OVERLAY_ID = 'eddy-overlay';
 const STF_SHOWN_KEY = 'stf_shown_restaurants';
-const API_BASE = 'https://skipthefee.app';
+const API_BASE = 'https://eddy.delivery';
 
 interface DirectMatch {
   name: string;
@@ -175,7 +175,7 @@ function showOverlay(match: DirectMatch, deliveryPlatform: string) {
       <div style="padding: 16px 20px 12px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.05);">
         <div style="display: flex; align-items: center; gap: 8px;">
           <span style="font-size: 20px;">💰</span>
-          <span style="font-weight: 800; font-size: 14px; letter-spacing: -0.02em;">SkipTheFee</span>
+          <span style="font-weight: 800; font-size: 14px; letter-spacing: -0.02em;">Eddy</span>
         </div>
         <button id="stf-close" style="background: none; border: none; color: #475569; cursor: pointer; font-size: 18px; padding: 0; line-height: 1;">✕</button>
       </div>
@@ -201,7 +201,7 @@ function showOverlay(match: DirectMatch, deliveryPlatform: string) {
         </a>
 
         <div style="text-align: center; margin-top: 10px; font-size: 11px; color: #475569;">
-          Free & private · <a href="https://skipthefee.app" target="_blank" style="color: #10b981; text-decoration: none;">skipthefee.app</a>
+          Free & private · <a href="https://eddy.delivery" target="_blank" style="color: #10b981; text-decoration: none;">eddy.delivery</a>
         </div>
       </div>
     </div>
@@ -288,4 +288,4 @@ urlObserver.observe(document.body, { childList: true, subtree: true });
 // Initial detection
 setTimeout(detectAndShow, 2000);
 
-console.log('[SkipTheFee] Overlay content script loaded');
+console.log('[Eddy] Overlay content script loaded');

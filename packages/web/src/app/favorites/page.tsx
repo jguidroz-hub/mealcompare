@@ -17,8 +17,8 @@ const METRO_NAMES: Record<string, string> = {
 function addUtm(url: string): string {
   try {
     const u = new URL(url);
-    u.searchParams.set('utm_source', 'skipthefee');
-    u.searchParams.set('ref', 'skipthefee');
+    u.searchParams.set('utm_source', 'eddy');
+    u.searchParams.set('ref', 'eddy');
     return u.toString();
   } catch { return url; }
 }
@@ -42,7 +42,7 @@ export default function FavoritesPage() {
         <div style={{ maxWidth: 640, margin: '0 auto', padding: '12px 16px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
           <Link href="/" style={{ display: 'flex', alignItems: 'center', gap: 8, color: '#e2e8f0', textDecoration: 'none' }}>
             <span style={{ fontSize: 22 }}>💰</span>
-            <span style={{ fontSize: 17, fontWeight: 800 }}>SkipTheFee</span>
+            <span style={{ fontSize: 17, fontWeight: 800 }}>Eddy</span>
           </Link>
           <Link href="/restaurants" style={{ fontSize: 13, color: '#64748b', textDecoration: 'none' }}>Browse Restaurants</Link>
         </div>

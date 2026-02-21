@@ -48,8 +48,8 @@ const METRO_NAMES: Record<string, string> = {
 function addUtm(url: string): string {
   try {
     const u = new URL(url);
-    u.searchParams.set('utm_source', 'skipthefee');
-    u.searchParams.set('ref', 'skipthefee');
+    u.searchParams.set('utm_source', 'eddy');
+    u.searchParams.set('ref', 'eddy');
     return u.toString();
   } catch { return url; }
 }

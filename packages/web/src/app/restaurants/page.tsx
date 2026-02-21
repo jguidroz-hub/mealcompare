@@ -44,7 +44,7 @@ export default function RestaurantsCityPicker() {
         <div style={{ maxWidth: 700, margin: '0 auto', padding: '12px 16px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
           <Link href="/" style={{ display: 'flex', alignItems: 'center', gap: 8, color: '#e2e8f0', textDecoration: 'none' }}>
             <span style={{ fontSize: 22 }}>💰</span>
-            <span style={{ fontSize: 17, fontWeight: 800 }}>SkipTheFee</span>
+            <span style={{ fontSize: 17, fontWeight: 800 }}>Eddy</span>
           </Link>
           <div style={{ display: 'flex', gap: 14, alignItems: 'center' }}>
             <Link href="/how-it-works" style={{ fontSize: 13, color: '#64748b', textDecoration: 'none', fontWeight: 500 }}>How It Works</Link>

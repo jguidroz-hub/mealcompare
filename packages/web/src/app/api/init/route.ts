@@ -8,7 +8,7 @@ import { ensureSchema } from '@/lib/db';
 export async function POST(req: NextRequest) {
   try {
     const key = req.nextUrl.searchParams.get('key');
-    if (key !== process.env.ADMIN_KEY && key !== 'init-skipthefee-2026') {
+    if (key !== process.env.ADMIN_KEY && key !== 'init-eddy-2026') {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
     }
     await ensureSchema();

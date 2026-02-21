@@ -2,10 +2,10 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'How It Works — SkipTheFee',
-  description: 'Learn how SkipTheFee helps you save $5-15 per order by finding direct ordering links for restaurants in your city.',
+  title: 'How It Works — Eddy',
+  description: 'Learn how Eddy helps you save $5-15 per order by finding direct ordering links for restaurants in your city.',
   openGraph: {
-    title: 'How SkipTheFee Works',
+    title: 'How Eddy Works',
     description: 'Skip delivery app fees. Order directly from restaurants and save.',
   },
 };
@@ -24,7 +24,7 @@ export default function HowItWorksPage() {
       <div style={{ maxWidth: 640, margin: '0 auto', padding: '40px 16px' }}>
         <h1 style={{ fontSize: 36, fontWeight: 900, marginBottom: 8, letterSpacing: '-0.02em' }}>How It Works</h1>
         <p style={{ fontSize: 16, color: '#64748b', marginBottom: 40, lineHeight: 1.7 }}>
-          SkipTheFee finds direct ordering links for your favorite restaurants so you pay restaurant prices — not delivery app prices.
+          Eddy finds direct ordering links for your favorite restaurants so you pay restaurant prices — not delivery app prices.
         </p>
 
         {/* Steps */}

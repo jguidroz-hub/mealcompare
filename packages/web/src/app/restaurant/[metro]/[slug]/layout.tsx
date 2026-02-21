@@ -17,12 +17,12 @@ export async function generateMetadata({ params }: { params: Promise<{ metro: st
   const name = slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
 
   return {
-    title: `Order Direct from ${name} in ${city} — SkipTheFee`,
+    title: `Order Direct from ${name} in ${city} — Eddy`,
     description: `Skip delivery app fees and order directly from ${name} in ${city}. Save $5-15 per order vs DoorDash, Uber Eats, and Grubhub.`,
     openGraph: {
-      title: `${name} — Order Direct & Save | SkipTheFee`,
+      title: `${name} — Order Direct & Save | Eddy`,
       description: `Skip delivery fees at ${name}. Order direct and save $5-15 per order.`,
-      url: `https://skipthefee.app/restaurant/${metro}/${slug}`,
+      url: `https://eddy.delivery/restaurant/${metro}/${slug}`,
     },
   };
 }

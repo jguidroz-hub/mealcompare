@@ -109,7 +109,7 @@ function renderError(errorMsg: string): void {
   content.innerHTML = `
     <div class="error-state">
       <h2>⚠️ Comparison failed</h2>
-      <p>${errorMsg || 'Could not reach SkipTheFee servers. Check your connection and try again.'}</p>
+      <p>${errorMsg || 'Could not reach Eddy servers. Check your connection and try again.'}</p>
       <button class="retry-btn" id="retryBtn">Try Again</button>
     </div>
   `;
@@ -211,15 +211,15 @@ function renderResult(result: ComparisonResult): void {
       if (platform === 'direct') {
         try {
           const u = new URL(url);
-          u.searchParams.set('utm_source', 'skipthefee');
+          u.searchParams.set('utm_source', 'eddy');
           u.searchParams.set('utm_medium', 'extension');
           u.searchParams.set('utm_campaign', 'direct_order');
-          u.searchParams.set('ref', 'skipthefee');
+          u.searchParams.set('ref', 'eddy');
           url = u.toString();
         } catch {}
 
         // Track the click
-        fetch('https://skipthefee.vercel.app/api/track', {
+        fetch('https://eddy.vercel.app/api/track', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({

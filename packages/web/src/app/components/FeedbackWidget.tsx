@@ -5,7 +5,7 @@ type FeedbackType = 'bug' | 'feature' | 'missing' | 'general';
 
 const TYPES: { id: FeedbackType; label: string; emoji: string; placeholder: string }[] = [
   { id: 'bug', label: 'Something broken', emoji: '🐛', placeholder: 'What went wrong? What did you expect to happen?' },
-  { id: 'feature', label: 'Feature request', emoji: '💡', placeholder: 'What would make SkipTheFee better for you?' },
+  { id: 'feature', label: 'Feature request', emoji: '💡', placeholder: 'What would make Eddy better for you?' },
   { id: 'missing', label: 'Missing restaurant', emoji: '🍽️', placeholder: 'Which restaurant is missing? Include city if possible.' },
   { id: 'general', label: 'Other feedback', emoji: '💬', placeholder: 'Anything else you want to tell us...' },
 ];
@@ -123,7 +123,7 @@ export default function FeedbackWidget() {
               </div>
               {status !== 'done' && (
                 <p style={{ fontSize: 13, color: '#64748b', marginTop: 4, marginBottom: 0 }}>
-                  We read every submission. Help us make SkipTheFee better.
+                  We read every submission. Help us make Eddy better.
                 </p>
               )}
             </div>
@@ -134,7 +134,7 @@ export default function FeedbackWidget() {
                 <div style={{ textAlign: 'center', padding: '24px 0' }}>
                   <div style={{ fontSize: 48, marginBottom: 12 }}>✅</div>
                   <p style={{ fontSize: 15, color: '#94a3b8', lineHeight: 1.6 }}>
-                    Your feedback has been saved. We&apos;ll use it to make SkipTheFee better.
+                    Your feedback has been saved. We&apos;ll use it to make Eddy better.
                   </p>
                   {email && (
                     <p style={{ fontSize: 12, color: '#475569', marginTop: 8 }}>
