@@ -58,11 +58,20 @@ interface CompareBody {
 export async function POST(req: NextRequest) {
   try {
     const body: CompareBody = await req.json();
-    const { sourcePlatform, restaurantName, items, metro = 'austin' } = body;
+    const { sourcePlatform, restaurantName, metro = 'austin' } = body;
 
-    if (!restaurantName || !items?.length) {
+    if (!restaurantName || !body.items?.length) {
       return NextResponse.json({ error: 'Missing restaurantName or items' }, { status: 400 });
     }
+
+    // Normalize all item prices to cents (extension sends dollars, UE API sends cents)
+    // Heuristic: if max price < 100, it's dollars; otherwise already cents
+    const maxPrice = Math.max(...body.items.map(i => i.price));
+    const isCents = maxPrice >= 100;
+    const items = body.items.map(i => ({
+      ...i,
+      price: isCents ? i.price : Math.round(i.price * 100),
+    }));
 
     const coords = METRO_COORDS[metro] ?? METRO_COORDS.austin;
     const quotes: PlatformQuote[] = [];
@@ -495,6 +504,8 @@ async function applyPromoCodes(
        ORDER BY discount_cents DESC NULLS LAST, discount_percent DESC NULLS LAST`
     );
 
+    // Find the BEST single promo per platform (don't stack)
+    const bestPerPlatform = new Map<string, { promo: typeof rows[0]; discount: number }>();
     for (const promo of rows) {
       const quote = quotes.find(q => q.platform === promo.platform && q.available);
       if (!quote) continue;
@@ -507,17 +518,26 @@ async function applyPromoCodes(
         discount = Math.round(quote.fees.subtotal * (promo.discount_percent / 100));
       }
       if (promo.max_discount_cents) discount = Math.min(discount, promo.max_discount_cents);
+      // Cap discount at subtotal (can't go negative)
+      discount = Math.min(discount, quote.fees.subtotal);
 
-      if (discount > 0) {
-        quote.fees.discount = (quote.fees.discount || 0) + discount;
-        quote.fees.total -= discount;
-        applied.push({
-          platform: promo.platform,
-          code: promo.code,
-          description: promo.description ?? `Save ${promo.discount_type === 'percent' ? promo.discount_percent + '%' : '$' + (promo.discount_cents / 100).toFixed(2)}`,
-          savingsCents: discount,
-        });
+      const existing = bestPerPlatform.get(promo.platform);
+      if (discount > 0 && (!existing || discount > existing.discount)) {
+        bestPerPlatform.set(promo.platform, { promo, discount });
       }
+    }
+
+    // Apply best promo per platform
+    for (const [platform, { promo, discount }] of bestPerPlatform) {
+      const quote = quotes.find(q => q.platform === platform)!;
+      quote.fees.discount = discount;
+      quote.fees.total -= discount;
+      applied.push({
+        platform,
+        code: promo.code,
+        description: promo.description ?? `Save ${promo.discount_type === 'percent' ? promo.discount_percent + '%' : '$' + (promo.discount_cents / 100).toFixed(2)}`,
+        savingsCents: discount,
+      });
     }
 
     // Re-sort after applying promos
