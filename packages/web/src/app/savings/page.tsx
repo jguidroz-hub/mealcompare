@@ -109,12 +109,21 @@ export default function SavingsPage() {
           <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-2xl p-6 text-center text-white">
             <p className="text-lg font-bold mb-1">🌊 Share your savings</p>
             <p className="text-blue-200 text-sm mb-4">Let friends know how much you&apos;re saving</p>
-            <button
-              onClick={handleShare}
-              className="bg-white text-blue-600 font-bold px-6 py-3 rounded-xl hover:bg-blue-50 transition-colors"
-            >
-              {shareText || 'Share My Savings 📤'}
-            </button>
+            <div className="flex gap-2 justify-center">
+              <button
+                onClick={handleShare}
+                className="bg-white text-blue-600 font-bold px-6 py-3 rounded-xl hover:bg-blue-50 transition-colors"
+              >
+                {shareText || 'Share My Savings 📤'}
+              </button>
+              <Link
+                href={`/savings/report?session=${sessionId}`}
+                target="_blank"
+                className="bg-blue-800 text-white font-bold px-6 py-3 rounded-xl hover:bg-blue-900 transition-colors border border-blue-500"
+              >
+                Download Report 📄
+              </Link>
+            </div>
           </div>
         </div>
       </section>
