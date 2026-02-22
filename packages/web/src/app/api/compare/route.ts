@@ -500,7 +500,7 @@ async function applyPromoCodes(
     const pool = getPool();
     const { rows } = await pool.query(
       `SELECT * FROM promo_codes 
-       WHERE is_active = true AND (expires_at IS NULL OR expires_at > NOW())
+       WHERE is_active = true AND first_order_only = false AND (expires_at IS NULL OR expires_at > NOW())
        ORDER BY discount_cents DESC NULLS LAST, discount_percent DESC NULLS LAST`
     );
 
