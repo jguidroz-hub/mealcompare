@@ -48,8 +48,10 @@ export default function SearchPage() {
   const [results, setResults] = useState<Restaurant[]>([]);
   const [allData, setAllData] = useState<Record<string, Restaurant[]>>({});
   const [loading, setLoading] = useState(false);
+  const [category, setCategory] = useState('');
   const [detectingLocation, setDetectingLocation] = useState(false);
   const [showMetroPicker, setShowMetroPicker] = useState(false);
+  const [showInstallBanner, setShowInstallBanner] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
   const debounceRef = useRef<NodeJS.Timeout>(undefined);
 
@@ -102,16 +104,34 @@ export default function SearchPage() {
       .catch(() => setLoading(false));
   }, [metro, allData]);
 
+  // Show install banner on mobile after 3 seconds
+  useEffect(() => {
+    const isStandalone = window.matchMedia('(display-mode: standalone)').matches;
+    const dismissed = localStorage.getItem('eddy_install_dismissed');
+    if (!isStandalone && !dismissed && /iPhone|iPad|Android/i.test(navigator.userAgent)) {
+      const t = setTimeout(() => setShowInstallBanner(true), 3000);
+      return () => clearTimeout(t);
+    }
+  }, []);
+
   // Search with debounce
   const doSearch = useCallback((q: string) => {
     const data = allData[metro] || [];
+    let filtered = data;
+
+    // Category filter
+    if (category) {
+      filtered = filtered.filter(r => r.category === category);
+    }
+
     if (!q.trim()) {
       // Show popular (direct ordering available) when no query
-      setResults(data.filter(r => r.directUrl).slice(0, 20));
+      const directFirst = filtered.filter(r => r.directUrl).slice(0, 20);
+      setResults(directFirst.length > 0 ? directFirst : filtered.slice(0, 20));
       return;
     }
     const lower = q.toLowerCase();
-    const matches = data.filter(r =>
+    const matches = filtered.filter(r =>
       r.name.toLowerCase().includes(lower) ||
       r.category.toLowerCase().includes(lower)
     );
@@ -122,7 +142,7 @@ export default function SearchPage() {
       return a.name.localeCompare(b.name);
     });
     setResults(matches.slice(0, 50));
-  }, [metro, allData]);
+  }, [metro, allData, category]);
 
   useEffect(() => {
     if (debounceRef.current) clearTimeout(debounceRef.current);
@@ -130,12 +150,12 @@ export default function SearchPage() {
     return () => { if (debounceRef.current) clearTimeout(debounceRef.current); };
   }, [query, doSearch]);
 
-  // Show initial results when data loads
+  // Show initial results when data loads or category changes
   useEffect(() => {
-    if (allData[metro] && !query) {
-      doSearch('');
+    if (allData[metro]) {
+      doSearch(query);
     }
-  }, [allData, metro, query, doSearch]);
+  }, [allData, metro, query, doSearch, category]);
 
   const selectMetro = (id: string) => {
     setMetro(id);
@@ -257,15 +277,72 @@ export default function SearchPage() {
         </div>
       )}
 
+      {/* Add to Home Screen banner */}
+      {showInstallBanner && (
+        <div style={{
+          position: 'fixed', bottom: 0, left: 0, right: 0, zIndex: 90,
+          background: '#FFF', borderTop: '1px solid #E5E7EB',
+          padding: '16px 20px', boxShadow: '0 -4px 20px rgba(0,0,0,0.1)',
+        }}>
+          <div style={{ maxWidth: 600, margin: '0 auto', display: 'flex', alignItems: 'center', gap: 14 }}>
+            <div style={{
+              width: 44, height: 44, borderRadius: 10, flexShrink: 0,
+              background: '#2563EB', display: 'flex', alignItems: 'center', justifyContent: 'center',
+              fontSize: 22,
+            }}>🌊</div>
+            <div style={{ flex: 1 }}>
+              <div style={{ fontWeight: 700, fontSize: 14 }}>Add Eddy to Home Screen</div>
+              <div style={{ fontSize: 12, color: '#9CA3AF', marginTop: 2 }}>
+                {/iPhone|iPad/i.test(typeof navigator !== 'undefined' ? navigator.userAgent : '')
+                  ? 'Tap share \u2B06\uFE0F then "Add to Home Screen"'
+                  : 'Tap menu \u22EE then "Add to Home Screen"'}
+              </div>
+            </div>
+            <button
+              onClick={() => {
+                setShowInstallBanner(false);
+                localStorage.setItem('eddy_install_dismissed', '1');
+              }}
+              style={{
+                background: 'none', border: 'none', color: '#9CA3AF',
+                fontSize: 18, cursor: 'pointer', padding: 8,
+              }}
+            >\u2715</button>
+          </div>
+        </div>
+      )}
+
       {/* Content */}
       <div style={{ maxWidth: 600, margin: '0 auto', padding: '16px 16px 100px' }}>
+        {/* Category quick filters */}
+        {!loading && totalInCity > 0 && (
+          <div style={{
+            display: 'flex', gap: 6, overflowX: 'auto', paddingBottom: 12,
+            marginBottom: 4, WebkitOverflowScrolling: 'touch',
+            scrollbarWidth: 'none',
+          }}>
+            <CategoryChip emoji="🔥" label="All" active={!category} onClick={() => setCategory('')} />
+            <CategoryChip emoji="🍕" label="Pizza" active={category === 'pizza'} onClick={() => setCategory(category === 'pizza' ? '' : 'pizza')} />
+            <CategoryChip emoji="🌮" label="Mexican" active={category === 'mexican'} onClick={() => setCategory(category === 'mexican' ? '' : 'mexican')} />
+            <CategoryChip emoji="🍔" label="Burgers" active={category === 'burgers'} onClick={() => setCategory(category === 'burgers' ? '' : 'burgers')} />
+            <CategoryChip emoji="🥡" label="Chinese" active={category === 'chinese'} onClick={() => setCategory(category === 'chinese' ? '' : 'chinese')} />
+            <CategoryChip emoji="🍜" label="Thai" active={category === 'thai'} onClick={() => setCategory(category === 'thai' ? '' : 'thai')} />
+            <CategoryChip emoji="🍣" label="Japanese" active={category === 'japanese'} onClick={() => setCategory(category === 'japanese' ? '' : 'japanese')} />
+            <CategoryChip emoji="🍛" label="Indian" active={category === 'indian'} onClick={() => setCategory(category === 'indian' ? '' : 'indian')} />
+            <CategoryChip emoji="🍝" label="Italian" active={category === 'italian'} onClick={() => setCategory(category === 'italian' ? '' : 'italian')} />
+            <CategoryChip emoji="🥗" label="Healthy" active={category === 'healthy'} onClick={() => setCategory(category === 'healthy' ? '' : 'healthy')} />
+            <CategoryChip emoji="🍗" label="Wings" active={category === 'wings'} onClick={() => setCategory(category === 'wings' ? '' : 'wings')} />
+            <CategoryChip emoji="🔥" label="BBQ" active={category === 'bbq'} onClick={() => setCategory(category === 'bbq' ? '' : 'bbq')} />
+          </div>
+        )}
+
         {/* Stats bar */}
         {!loading && totalInCity > 0 && (
           <div style={{
             display: 'flex', gap: 16, marginBottom: 16, fontSize: 12, color: '#9CA3AF',
           }}>
             <span>{totalInCity.toLocaleString()} restaurants</span>
-            <span>•</span>
+            <span>{'\u2022'}</span>
             <span style={{ color: '#10b981', fontWeight: 600 }}>{directInCity.toLocaleString()} with direct ordering</span>
           </div>
         )}
@@ -344,70 +421,116 @@ function RestaurantCard({ restaurant: r, metro }: { restaurant: Restaurant; metr
   if (r.hasSquare) platforms.push('Square');
   if (r.hasWebsite) platforms.push('Website');
 
+  // Estimate savings range for direct ordering (based on typical $25-40 order)
+  // DoorDash: ~12% markup + 15% service fee + $3.99 delivery ≈ $7-14 extra
+  const savingsMin = r.directUrl ? 5 : 0;
+  const savingsMax = r.directUrl ? 12 : 0;
+
   return (
     <div style={{
-      background: '#FFF', borderRadius: 12, border: '1px solid #E5E7EB',
-      padding: '14px 16px', display: 'flex', alignItems: 'center', gap: 12,
-      transition: 'box-shadow 0.2s',
+      background: '#FFF', borderRadius: 14, border: '1px solid #E5E7EB',
+      padding: '16px', transition: 'box-shadow 0.2s',
+      boxShadow: '0 1px 3px rgba(0,0,0,0.04)',
     }}>
-      <div style={{
-        width: 44, height: 44, borderRadius: 10, flexShrink: 0,
-        background: r.directUrl ? '#F0FDF4' : '#F9FAFB',
-        display: 'flex', alignItems: 'center', justifyContent: 'center',
-        fontSize: 22, border: `1px solid ${r.directUrl ? '#BBF7D0' : '#E5E7EB'}`,
-      }}>
-        {emoji}
-      </div>
-      <div style={{ flex: 1, minWidth: 0 }}>
-        <Link
-          href={`/restaurant/${metro}/${slug}`}
-          style={{ textDecoration: 'none', color: '#111' }}
-        >
-          <div style={{
-            fontWeight: 700, fontSize: 15,
-            overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap',
-          }}>
-            {r.name}
-          </div>
-        </Link>
-        <div style={{ fontSize: 12, color: '#9CA3AF', marginTop: 2, display: 'flex', gap: 8, alignItems: 'center' }}>
-          <span style={{ textTransform: 'capitalize' }}>{r.category}</span>
-          {r.directUrl && (
-            <span style={{
-              background: '#ECFDF5', color: '#059669', fontSize: 10, fontWeight: 700,
-              padding: '1px 6px', borderRadius: 4,
+      <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+        <div style={{
+          width: 48, height: 48, borderRadius: 12, flexShrink: 0,
+          background: r.directUrl ? '#F0FDF4' : '#F9FAFB',
+          display: 'flex', alignItems: 'center', justifyContent: 'center',
+          fontSize: 24, border: `1px solid ${r.directUrl ? '#BBF7D0' : '#E5E7EB'}`,
+        }}>
+          {emoji}
+        </div>
+        <div style={{ flex: 1, minWidth: 0 }}>
+          <Link
+            href={`/restaurant/${metro}/${slug}`}
+            style={{ textDecoration: 'none', color: '#111' }}
+          >
+            <div style={{
+              fontWeight: 700, fontSize: 15,
+              overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap',
             }}>
-              DIRECT {platforms.length > 0 ? `· ${platforms[0]}` : ''}
-            </span>
-          )}
+              {r.name}
+            </div>
+          </Link>
+          <div style={{ fontSize: 12, color: '#9CA3AF', marginTop: 3, display: 'flex', gap: 6, alignItems: 'center', flexWrap: 'wrap' }}>
+            <span style={{ textTransform: 'capitalize' }}>{r.category}</span>
+            {r.directUrl && (
+              <span style={{
+                background: '#ECFDF5', color: '#059669', fontSize: 10, fontWeight: 700,
+                padding: '2px 6px', borderRadius: 4,
+              }}>
+                DIRECT{platforms.length > 0 ? ` \u00b7 ${platforms[0]}` : ''}
+              </span>
+            )}
+          </div>
         </div>
       </div>
+
+      {/* Savings estimate + CTA row */}
       {r.directUrl ? (
-        <a
-          href={addUtm(r.directUrl)}
-          target="_blank"
-          rel="noopener noreferrer"
-          style={{
-            background: '#10b981', color: '#FFF', padding: '8px 14px',
-            borderRadius: 8, textDecoration: 'none', fontWeight: 700,
-            fontSize: 13, flexShrink: 0, whiteSpace: 'nowrap',
-          }}
-        >
-          Order direct
-        </a>
+        <div style={{
+          marginTop: 12, display: 'flex', alignItems: 'center',
+          justifyContent: 'space-between', gap: 8,
+        }}>
+          <div style={{
+            background: '#FEFCE8', border: '1px solid rgba(250,204,21,0.3)',
+            borderRadius: 8, padding: '6px 10px', fontSize: 12,
+          }}>
+            <span style={{ fontWeight: 800, color: '#B45309' }}>
+              Save ${savingsMin}\u2013${savingsMax}
+            </span>
+            <span style={{ color: '#92400E' }}> vs delivery apps</span>
+          </div>
+          <a
+            href={addUtm(r.directUrl)}
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{
+              background: '#10b981', color: '#FFF', padding: '10px 18px',
+              borderRadius: 10, textDecoration: 'none', fontWeight: 700,
+              fontSize: 14, flexShrink: 0, whiteSpace: 'nowrap',
+            }}
+          >
+            Order direct \u2192
+          </a>
+        </div>
       ) : (
-        <Link
-          href={`/restaurant/${metro}/${slug}`}
-          style={{
-            background: '#F3F4F6', color: '#6B7280', padding: '8px 14px',
-            borderRadius: 8, textDecoration: 'none', fontWeight: 600,
-            fontSize: 13, flexShrink: 0,
-          }}
-        >
-          Compare
-        </Link>
+        <div style={{ marginTop: 12, display: 'flex', justifyContent: 'flex-end' }}>
+          <Link
+            href={`/restaurant/${metro}/${slug}`}
+            style={{
+              background: '#F3F4F6', color: '#6B7280', padding: '10px 18px',
+              borderRadius: 10, textDecoration: 'none', fontWeight: 600,
+              fontSize: 14, flexShrink: 0,
+            }}
+          >
+            Compare prices
+          </Link>
+        </div>
       )}
     </div>
+  );
+}
+
+function CategoryChip({ emoji, label, active, onClick }: {
+  emoji: string; label: string; active: boolean; onClick: () => void;
+}) {
+  return (
+    <button
+      onClick={onClick}
+      style={{
+        display: 'flex', alignItems: 'center', gap: 4,
+        padding: '8px 14px', borderRadius: 20, border: 'none',
+        background: active ? '#2563EB' : '#F3F4F6',
+        color: active ? '#FFF' : '#374151',
+        fontWeight: active ? 700 : 500,
+        fontSize: 13, cursor: 'pointer', whiteSpace: 'nowrap',
+        flexShrink: 0,
+      }}
+    >
+      <span>{emoji}</span> {label}
+    </button>
   );
 }
 
