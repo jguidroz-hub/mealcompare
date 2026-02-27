@@ -51,7 +51,7 @@ export default function SearchPage() {
   const [detectingLocation, setDetectingLocation] = useState(false);
   const [showMetroPicker, setShowMetroPicker] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
-  const debounceRef = useRef<NodeJS.Timeout>();
+  const debounceRef = useRef<NodeJS.Timeout>(undefined);
 
   // Auto-detect city on mount
   useEffect(() => {
