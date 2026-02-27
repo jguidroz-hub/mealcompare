@@ -1,10 +1,11 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import WaitlistForm from './WaitlistForm';
+
+const CWS_URL = 'https://chromewebstore.google.com/detail/eddy-%E2%80%94-save-on-food-deliv/nogipmchmfjhmnjcmeppmmngeokhaoob';
 
 export const metadata: Metadata = {
   title: 'Install Eddy — Chrome Extension',
-  description: 'Install the Eddy Chrome extension and start saving on food delivery.',
+  description: 'Install the Eddy Chrome extension and start saving on food delivery. Free forever.',
 };
 
 export default function InstallPage() {
@@ -19,102 +20,102 @@ export default function InstallPage() {
         <h1 style={{ fontSize: '36px', fontWeight: 800, marginBottom: '16px' }}>
           Install Eddy
         </h1>
+
+        <p style={{ fontSize: '18px', color: '#94a3b8', marginBottom: '32px', lineHeight: 1.6 }}>
+          Add Eddy to Chrome in one click. Free forever — no account required.
+        </p>
+
         {/* Chrome Web Store link (primary) */}
-        <div style={{
-          background: 'linear-gradient(135deg, #1e40af, #3b82f6)',
-          borderRadius: '12px', padding: '20px 24px', marginBottom: '32px',
-          display: 'flex', alignItems: 'center', gap: '16px',
-        }}>
-          <span style={{ fontSize: '32px' }}>🧩</span>
+        <a
+          href={CWS_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{
+            background: 'linear-gradient(135deg, #1e40af, #3b82f6)',
+            borderRadius: '12px', padding: '24px 28px', marginBottom: '40px',
+            display: 'flex', alignItems: 'center', gap: '16px',
+            textDecoration: 'none', color: 'white',
+            boxShadow: '0 4px 24px rgba(59,130,246,0.3)',
+            transition: 'transform 0.2s',
+          }}
+        >
+          <span style={{ fontSize: '40px' }}>🧩</span>
           <div>
-            <div style={{ fontWeight: 700, fontSize: '16px', marginBottom: '4px' }}>Chrome Web Store</div>
+            <div style={{ fontWeight: 800, fontSize: '18px', marginBottom: '4px' }}>Add to Chrome — Free</div>
             <div style={{ fontSize: '14px', color: 'rgba(255,255,255,0.75)' }}>
-              One-click install. Automatic updates. Coming soon.
+              Chrome Web Store · One-click install · Automatic updates
             </div>
+          </div>
+          <span style={{ marginLeft: 'auto', fontSize: '24px' }}>→</span>
+        </a>
+
+        {/* How it works */}
+        <div style={{ marginTop: '48px' }}>
+          <h2 style={{ fontSize: '22px', fontWeight: 800, marginBottom: '24px' }}>How it works</h2>
+
+          <div style={{ display: 'flex', flexDirection: 'column' as const, gap: '28px' }}>
+            <Step
+              number={1}
+              title="Install from Chrome Web Store"
+              description='Click the button above and hit "Add to Chrome". That\'s it — Eddy is ready.'
+            />
+
+            <Step
+              number={2}
+              title="Set your city"
+              description={undefined}
+            >
+              <div style={{ fontSize: '14px', color: '#94a3b8', lineHeight: 1.6 }}>
+                <p>Right-click the Eddy icon in your toolbar and select &quot;Options&quot; to choose your city.</p>
+                <p style={{ marginTop: '8px' }}>
+                  Available in <strong style={{ color: '#e2e8f0' }}>30 cities</strong> including NYC, Chicago, LA, SF, Boston, Miami, DC, Austin, Houston, Atlanta, Seattle, Denver, Dallas, Phoenix, Portland, Nashville, New Orleans, and more.
+                </p>
+              </div>
+            </Step>
+
+            <Step
+              number={3}
+              title="Browse any delivery app"
+              description="Open DoorDash, Uber Eats, or Grubhub like normal. Add items to your cart. Eddy automatically detects your order."
+            />
+
+            <Step
+              number={4}
+              title="See the cheapest option 💰"
+              description="Click the Eddy icon to see a full price comparison — including direct ordering from the restaurant at 10-20% less."
+            />
           </div>
         </div>
 
-        <p style={{ fontSize: '16px', color: '#94a3b8', marginBottom: '40px', lineHeight: 1.6 }}>
-          While we finalize the Chrome Web Store listing, you can install Eddy directly
-          in under 60 seconds using Developer Mode.
-        </p>
-
-        {/* Steps */}
-        <div style={{ display: 'flex', flexDirection: 'column' as const, gap: '32px' }}>
-          <Step
-            number={1}
-            title="Download the extension"
-            description="Click below to download the Eddy extension ZIP file."
-          >
-            <a
-              href="/eddy-extension.zip"
-              download
-              style={{
-                background: '#10b981', color: 'white', padding: '12px 24px',
-                borderRadius: '8px', textDecoration: 'none', fontWeight: 700,
-                fontSize: '15px', display: 'inline-flex', alignItems: 'center', gap: '8px',
-              }}
-            >
-              ⬇️ Download Eddy v0.3.0
-            </a>
-          </Step>
-
-          <Step
-            number={2}
-            title="Unzip the file"
-            description="Extract the downloaded ZIP file. You'll get a folder called 'eddy-extension'."
-          />
-
-          <Step
-            number={3}
-            title="Open Chrome Extensions"
-            description={undefined}
-          >
-            <div style={{ fontSize: '14px', color: '#94a3b8', lineHeight: 1.6 }}>
-              <p>In Chrome, go to <code style={{ background: '#334155', padding: '2px 6px', borderRadius: '4px', fontSize: '13px' }}>chrome://extensions</code></p>
-              <p style={{ marginTop: '8px' }}>Or: Chrome menu → Extensions → Manage Extensions</p>
-            </div>
-          </Step>
-
-          <Step
-            number={4}
-            title="Enable Developer Mode"
-            description="Toggle the 'Developer mode' switch in the top-right corner of the Extensions page."
-          />
-
-          <Step
-            number={5}
-            title='Click "Load unpacked"'
-            description="Click the 'Load unpacked' button that appears, then select the unzipped folder."
-          />
-
-          <Step
-            number={6}
-            title="You're set! 🎉"
-            description="Browse any delivery app. Eddy will automatically detect your cart and show you cheaper options — including direct ordering from the restaurant."
-          >
-            <div style={{ background: '#1e293b', borderRadius: '12px', padding: '16px', marginTop: '12px', border: '1px solid #334155' }}>
-              <div style={{ fontSize: '13px', color: '#94a3b8' }}>
-                <strong style={{ color: '#e2e8f0' }}>Pro tip:</strong> Pin Eddy to your toolbar for easy access.
-                Click the puzzle piece icon (🧩) in Chrome and pin Eddy.
-              </div>
-            </div>
-          </Step>
-        </div>
-
-        {/* Settings */}
+        {/* Pro tips */}
         <div style={{ marginTop: '48px', padding: '24px', background: '#1e293b', borderRadius: '12px', border: '1px solid #334155' }}>
-          <h2 style={{ fontSize: '18px', fontWeight: 700, marginBottom: '12px' }}>⚙️ Settings</h2>
-          <p style={{ fontSize: '14px', color: '#94a3b8', lineHeight: 1.6 }}>
-            After installation, right-click the Eddy icon and select &quot;Options&quot; to set your city:
-          </p>
-          <p style={{ fontSize: '14px', color: '#94a3b8', lineHeight: 1.8, marginTop: '8px' }}>
-            Eddy works across <strong style={{ color: '#e2e8f0' }}>30 cities</strong> including NYC, Chicago, LA, SF, Boston, Miami, DC, Austin, Houston, Atlanta, Seattle, Denver, Dallas, Phoenix, Portland, Nashville, New Orleans, and more.
-          </p>
+          <h2 style={{ fontSize: '18px', fontWeight: 700, marginBottom: '12px' }}>💡 Pro tips</h2>
+          <div style={{ fontSize: '14px', color: '#94a3b8', lineHeight: 1.8 }}>
+            <p><strong style={{ color: '#e2e8f0' }}>Pin to toolbar:</strong> Click the puzzle piece icon (🧩) in Chrome and pin Eddy for easy access.</p>
+            <p style={{ marginTop: '8px' }}><strong style={{ color: '#e2e8f0' }}>Direct ordering:</strong> Eddy finds restaurant websites (Toast, Square, ChowNow) where the same food is 10-20% cheaper with no service fee.</p>
+            <p style={{ marginTop: '8px' }}><strong style={{ color: '#e2e8f0' }}>Average savings:</strong> $5-15 per order. For a family ordering twice a week, that&apos;s $500-1,500/year.</p>
+          </div>
         </div>
 
-        {/* Waitlist for Chrome Web Store */}
-        <WaitlistForm />
+        {/* CTA */}
+        <div style={{ marginTop: '48px', textAlign: 'center' as const }}>
+          <a
+            href={CWS_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{
+              background: '#10b981', color: 'white', padding: '16px 40px',
+              borderRadius: '10px', textDecoration: 'none', fontWeight: 800,
+              fontSize: '17px', display: 'inline-flex', alignItems: 'center', gap: '8px',
+              boxShadow: '0 4px 20px rgba(16,185,129,0.3)',
+            }}
+          >
+            🧩 Add to Chrome — Free
+          </a>
+          <p style={{ marginTop: '16px', fontSize: '13px', color: '#64748b' }}>
+            No account · No data selling · Free forever
+          </p>
+        </div>
       </div>
     </main>
   );
