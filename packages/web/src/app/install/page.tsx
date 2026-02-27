@@ -57,7 +57,7 @@ export default function InstallPage() {
             <Step
               number={1}
               title="Install from Chrome Web Store"
-              description='Click the button above and hit "Add to Chrome". That\'s it — Eddy is ready.'
+              description={'Click the button above and hit "Add to Chrome". That\u0027s it \u2014 Eddy is ready.'}
             />
 
             <Step
