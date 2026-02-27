@@ -1,245 +1,436 @@
 'use client';
-
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useRef, useCallback } from 'react';
 import Link from 'next/link';
 
-interface SearchResult {
+interface Restaurant {
   name: string;
   category: string;
   directUrl: string | null;
   hasToast: boolean;
   hasSquare: boolean;
   hasWebsite: boolean;
-  score: number;
+  metro: string;
+  metroLabel: string;
 }
 
-const METROS = [
-  { id: 'nyc', label: 'New York' }, { id: 'chicago', label: 'Chicago' },
-  { id: 'la', label: 'Los Angeles' }, { id: 'sf', label: 'San Francisco' },
-  { id: 'austin', label: 'Austin' }, { id: 'houston', label: 'Houston' },
-  { id: 'dallas', label: 'Dallas' }, { id: 'miami', label: 'Miami' },
-  { id: 'dc', label: 'Washington DC' }, { id: 'boston', label: 'Boston' },
-  { id: 'seattle', label: 'Seattle' }, { id: 'denver', label: 'Denver' },
-  { id: 'atlanta', label: 'Atlanta' }, { id: 'philly', label: 'Philadelphia' },
-  { id: 'nashville', label: 'Nashville' }, { id: 'portland', label: 'Portland' },
-  { id: 'phoenix', label: 'Phoenix' }, { id: 'tampa', label: 'Tampa' },
-  { id: 'charlotte', label: 'Charlotte' }, { id: 'detroit', label: 'Detroit' },
-  { id: 'minneapolis', label: 'Minneapolis' }, { id: 'nola', label: 'New Orleans' },
-  { id: 'sandiego', label: 'San Diego' }, { id: 'stlouis', label: 'St. Louis' },
-  { id: 'pittsburgh', label: 'Pittsburgh' }, { id: 'columbus', label: 'Columbus' },
-  { id: 'indianapolis', label: 'Indianapolis' }, { id: 'milwaukee', label: 'Milwaukee' },
-  { id: 'raleigh', label: 'Raleigh' }, { id: 'baltimore', label: 'Baltimore' },
-];
+const METROS: Record<string, string> = {
+  nyc: 'New York', chicago: 'Chicago', la: 'Los Angeles', sf: 'San Francisco',
+  boston: 'Boston', miami: 'Miami', dc: 'Washington DC', austin: 'Austin',
+  houston: 'Houston', atlanta: 'Atlanta', seattle: 'Seattle', denver: 'Denver',
+  philly: 'Philadelphia', nashville: 'Nashville', nola: 'New Orleans', dallas: 'Dallas',
+  phoenix: 'Phoenix', portland: 'Portland', detroit: 'Detroit', minneapolis: 'Minneapolis',
+  charlotte: 'Charlotte', tampa: 'Tampa', sandiego: 'San Diego', stlouis: 'St Louis',
+  pittsburgh: 'Pittsburgh', columbus: 'Columbus', indianapolis: 'Indianapolis',
+  milwaukee: 'Milwaukee', raleigh: 'Raleigh', baltimore: 'Baltimore',
+};
 
-const SUGGESTIONS = [
-  '🌮 Spicy tacos near me',
-  '🍕 Best pizza for delivery',
-  '🍔 Late night burgers',
-  '🥗 Healthy bowls',
-  '🍣 Sushi date night',
-  '🍜 Comfort ramen',
-  '☕ Brunch spots',
-  '🔥 Thai food with kick',
-];
+const CATEGORY_EMOJI: Record<string, string> = {
+  pizza: '🍕', mexican: '🌮', chinese: '🥡', burgers: '🍔', thai: '🍜',
+  indian: '🍛', japanese: '🍣', italian: '🍝', bbq: '🔥', seafood: '🦞',
+  wings: '🍗', breakfast: '🥞', cafe: '☕', korean: '🥘', mediterranean: '🧆',
+  deli: '🥪', poke: '🐟', bakery: '🧁', vietnamese: '🍲', steakhouse: '🥩',
+  southern: '🍗', chicken: '🍗', healthy: '🥗', vegan: '🌱', dessert: '🍦',
+  tea: '🧋', juice: '🧃', latin: '🫔', restaurant: '🍽️',
+};
+
+function addUtm(url: string): string {
+  try {
+    const u = new URL(url);
+    u.searchParams.set('utm_source', 'eddy');
+    u.searchParams.set('ref', 'eddy');
+    return u.toString();
+  } catch { return url; }
+}
 
 export default function SearchPage() {
   const [query, setQuery] = useState('');
-  const [metro, setMetro] = useState('austin');
-  const [results, setResults] = useState<SearchResult[]>([]);
+  const [metro, setMetro] = useState('');
+  const [results, setResults] = useState<Restaurant[]>([]);
+  const [allData, setAllData] = useState<Record<string, Restaurant[]>>({});
   const [loading, setLoading] = useState(false);
-  const [searched, setSearched] = useState(false);
-  const [intent, setIntent] = useState('');
+  const [detectingLocation, setDetectingLocation] = useState(false);
+  const [showMetroPicker, setShowMetroPicker] = useState(false);
+  const inputRef = useRef<HTMLInputElement>(null);
+  const debounceRef = useRef<NodeJS.Timeout>();
 
-  const search = useCallback(async (q: string) => {
-    if (!q.trim()) return;
-    setLoading(true);
-    setSearched(true);
-    try {
-      const res = await fetch('/api/ai-search', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ query: q, metro }),
-      });
-      const data = await res.json();
-      setResults(data.restaurants || []);
-      setIntent(data.intent?.understood || '');
-    } catch {
-      setResults([]);
-    } finally {
-      setLoading(false);
+  // Auto-detect city on mount
+  useEffect(() => {
+    const saved = localStorage.getItem('eddy_metro');
+    if (saved && METROS[saved]) {
+      setMetro(saved);
+      return;
     }
-  }, [metro]);
+    // Try geolocation
+    setDetectingLocation(true);
+    if (navigator.geolocation) {
+      navigator.geolocation.getCurrentPosition(
+        (pos) => {
+          const { latitude, longitude } = pos.coords;
+          const closest = findClosestMetro(latitude, longitude);
+          setMetro(closest);
+          localStorage.setItem('eddy_metro', closest);
+          setDetectingLocation(false);
+        },
+        () => {
+          setMetro('austin');
+          setDetectingLocation(false);
+        },
+        { timeout: 5000 }
+      );
+    } else {
+      setMetro('austin');
+      setDetectingLocation(false);
+    }
+  }, []);
 
-  const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    search(query);
+  // Load restaurant data when metro changes
+  useEffect(() => {
+    if (!metro) return;
+    if (allData[metro]) return;
+    setLoading(true);
+    fetch(`/api/restaurants?metro=${metro}&limit=1000`)
+      .then(r => r.json())
+      .then(data => {
+        const restaurants = (data.restaurants || []).map((r: Restaurant) => ({
+          ...r,
+          metro,
+          metroLabel: METROS[metro],
+        }));
+        setAllData(prev => ({ ...prev, [metro]: restaurants }));
+        setLoading(false);
+      })
+      .catch(() => setLoading(false));
+  }, [metro, allData]);
+
+  // Search with debounce
+  const doSearch = useCallback((q: string) => {
+    const data = allData[metro] || [];
+    if (!q.trim()) {
+      // Show popular (direct ordering available) when no query
+      setResults(data.filter(r => r.directUrl).slice(0, 20));
+      return;
+    }
+    const lower = q.toLowerCase();
+    const matches = data.filter(r =>
+      r.name.toLowerCase().includes(lower) ||
+      r.category.toLowerCase().includes(lower)
+    );
+    // Sort: direct ordering first, then alphabetical
+    matches.sort((a, b) => {
+      if (a.directUrl && !b.directUrl) return -1;
+      if (!a.directUrl && b.directUrl) return 1;
+      return a.name.localeCompare(b.name);
+    });
+    setResults(matches.slice(0, 50));
+  }, [metro, allData]);
+
+  useEffect(() => {
+    if (debounceRef.current) clearTimeout(debounceRef.current);
+    debounceRef.current = setTimeout(() => doSearch(query), 150);
+    return () => { if (debounceRef.current) clearTimeout(debounceRef.current); };
+  }, [query, doSearch]);
+
+  // Show initial results when data loads
+  useEffect(() => {
+    if (allData[metro] && !query) {
+      doSearch('');
+    }
+  }, [allData, metro, query, doSearch]);
+
+  const selectMetro = (id: string) => {
+    setMetro(id);
+    localStorage.setItem('eddy_metro', id);
+    setShowMetroPicker(false);
+    setQuery('');
+    inputRef.current?.focus();
   };
 
+  const totalInCity = allData[metro]?.length || 0;
+  const directInCity = allData[metro]?.filter(r => r.directUrl).length || 0;
+
   return (
-    <div className="min-h-screen bg-white">
-      {/* Header */}
-      <header className="border-b border-gray-100 px-6 py-4">
-        <div className="max-w-4xl mx-auto flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-2">
-            <span className="text-2xl">🌊</span>
-            <span className="text-xl font-black text-black">Eddy</span>
-          </Link>
-          <nav className="flex items-center gap-6 text-sm text-gray-500">
-            <Link href="/restaurants" className="hover:text-black">Restaurants</Link>
-            <Link href="/savings" className="hover:text-black">My Savings</Link>
-            <Link href="/install" className="text-blue-600 font-semibold hover:text-blue-700">Get Extension</Link>
-          </nav>
+    <main style={{
+      background: '#FFFFFF', color: '#111', minHeight: '100vh',
+      fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif',
+    }}>
+      {/* Sticky header */}
+      <header style={{
+        position: 'sticky', top: 0, zIndex: 50,
+        background: 'rgba(255,255,255,0.95)', backdropFilter: 'blur(20px)',
+        borderBottom: '1px solid #E5E7EB', padding: '12px 16px',
+      }}>
+        <div style={{ maxWidth: 600, margin: '0 auto' }}>
+          {/* Logo + city selector */}
+          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 12 }}>
+            <Link href="/" style={{ display: 'flex', alignItems: 'baseline', gap: 4, textDecoration: 'none' }}>
+              <span style={{ fontSize: 20, fontWeight: 900, color: '#2563EB' }}>~</span>
+              <span style={{ fontSize: 16, fontWeight: 800, color: '#111' }}>eddy</span>
+              <span style={{ fontSize: 12, color: '#9CA3AF', fontWeight: 500 }}>.delivery</span>
+            </Link>
+            <button
+              onClick={() => setShowMetroPicker(!showMetroPicker)}
+              style={{
+                background: '#F3F4F6', border: '1px solid #E5E7EB', borderRadius: 20,
+                padding: '6px 14px', fontSize: 13, fontWeight: 600, color: '#374151',
+                cursor: 'pointer', display: 'flex', alignItems: 'center', gap: 6,
+              }}
+            >
+              📍 {detectingLocation ? 'Detecting...' : (METROS[metro] || 'Select city')}
+              <span style={{ fontSize: 10 }}>▼</span>
+            </button>
+          </div>
+
+          {/* Search input */}
+          <div style={{
+            display: 'flex', alignItems: 'center', gap: 10,
+            background: '#F9FAFB', border: '2px solid #E5E7EB', borderRadius: 12,
+            padding: '12px 16px', transition: 'border-color 0.2s',
+          }}>
+            <span style={{ fontSize: 18, flexShrink: 0 }}>🔍</span>
+            <input
+              ref={inputRef}
+              type="text"
+              value={query}
+              onChange={e => setQuery(e.target.value)}
+              placeholder={`Search ${totalInCity.toLocaleString()} restaurants in ${METROS[metro] || 'your city'}...`}
+              style={{
+                flex: 1, border: 'none', background: 'transparent', outline: 'none',
+                fontSize: 16, color: '#111',
+              }}
+              autoFocus
+            />
+            {query && (
+              <button
+                onClick={() => { setQuery(''); inputRef.current?.focus(); }}
+                style={{
+                  background: '#E5E7EB', border: 'none', borderRadius: '50%',
+                  width: 24, height: 24, fontSize: 12, cursor: 'pointer',
+                  display: 'flex', alignItems: 'center', justifyContent: 'center',
+                }}
+              >✕</button>
+            )}
+          </div>
         </div>
       </header>
 
-      {/* Hero Search */}
-      <section className="px-6 pt-16 pb-8">
-        <div className="max-w-2xl mx-auto text-center">
-          <h1 className="text-4xl md:text-5xl font-black text-black mb-4">
-            What are you craving?
-          </h1>
-          <p className="text-lg text-gray-500 mb-8">
-            Search restaurants, compare prices across every delivery app, find the cheapest way to order.
-          </p>
-
-          <form onSubmit={handleSubmit} className="relative">
-            <div className="flex items-center bg-white border-2 border-gray-200 rounded-2xl overflow-hidden shadow-lg focus-within:border-blue-500 transition-colors">
-              <span className="pl-5 text-2xl">🔍</span>
-              <input
-                type="text"
-                value={query}
-                onChange={e => setQuery(e.target.value)}
-                placeholder="Spicy Thai food, cheap pizza, sushi date night..."
-                className="flex-1 px-4 py-5 text-lg outline-none text-black placeholder-gray-400"
-              />
-              <button
-                type="submit"
-                disabled={loading}
-                className="bg-blue-600 text-white font-bold px-8 py-5 hover:bg-blue-700 transition-colors disabled:opacity-50"
-              >
-                {loading ? 'Searching...' : 'Search'}
-              </button>
+      {/* Metro picker overlay */}
+      {showMetroPicker && (
+        <div style={{
+          position: 'fixed', inset: 0, zIndex: 100,
+          background: 'rgba(0,0,0,0.5)', display: 'flex',
+          alignItems: 'flex-end', justifyContent: 'center',
+        }} onClick={() => setShowMetroPicker(false)}>
+          <div
+            style={{
+              background: '#FFF', borderRadius: '20px 20px 0 0',
+              maxWidth: 600, width: '100%', maxHeight: '70vh',
+              overflow: 'auto', padding: '24px 20px',
+            }}
+            onClick={e => e.stopPropagation()}
+          >
+            <div style={{ textAlign: 'center', marginBottom: 20 }}>
+              <div style={{ width: 40, height: 4, background: '#D1D5DB', borderRadius: 2, margin: '0 auto 16px' }} />
+              <h2 style={{ fontSize: 20, fontWeight: 800, margin: 0 }}>Choose your city</h2>
+              <p style={{ fontSize: 13, color: '#9CA3AF', marginTop: 4 }}>30 cities available</p>
             </div>
-          </form>
-
-          {/* Metro selector */}
-          <div className="mt-4 flex items-center justify-center gap-2 text-sm">
-            <span className="text-gray-400">📍</span>
-            <select
-              value={metro}
-              onChange={e => setMetro(e.target.value)}
-              className="text-gray-600 bg-transparent border-none outline-none cursor-pointer font-medium"
-            >
-              {METROS.map(m => (
-                <option key={m.id} value={m.id}>{m.label}</option>
-              ))}
-            </select>
-          </div>
-        </div>
-      </section>
-
-      {/* Suggestion chips (pre-search) */}
-      {!searched && (
-        <section className="px-6 pb-12">
-          <div className="max-w-2xl mx-auto">
-            <div className="flex flex-wrap gap-2 justify-center">
-              {SUGGESTIONS.map(s => (
+            <div style={{
+              display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(140px, 1fr))',
+              gap: 8,
+            }}>
+              {Object.entries(METROS).map(([id, label]) => (
                 <button
-                  key={s}
-                  onClick={() => { setQuery(s.replace(/^[^\s]+\s/, '')); search(s); }}
-                  className="px-4 py-2 rounded-full bg-gray-50 text-gray-600 text-sm hover:bg-blue-50 hover:text-blue-600 transition-colors border border-gray-100"
+                  key={id}
+                  onClick={() => selectMetro(id)}
+                  style={{
+                    padding: '12px 10px', borderRadius: 10, border: 'none',
+                    background: metro === id ? '#2563EB' : '#F3F4F6',
+                    color: metro === id ? '#FFF' : '#374151',
+                    fontWeight: metro === id ? 700 : 500,
+                    fontSize: 14, cursor: 'pointer', textAlign: 'left',
+                  }}
                 >
-                  {s}
+                  {label}
                 </button>
               ))}
             </div>
           </div>
-        </section>
-      )}
-
-      {/* Results */}
-      {searched && (
-        <section className="px-6 pb-16">
-          <div className="max-w-2xl mx-auto">
-            {intent && (
-              <p className="text-sm text-gray-400 mb-4">
-                Searching for: <span className="text-gray-600 font-medium">{intent}</span>
-              </p>
-            )}
-
-            {results.length === 0 && !loading && (
-              <div className="text-center py-12">
-                <p className="text-xl text-gray-400 mb-2">No restaurants found</p>
-                <p className="text-sm text-gray-400">Try a different search or metro area</p>
-              </div>
-            )}
-
-            <div className="space-y-3">
-              {results.map((r, i) => (
-                <div
-                  key={i}
-                  className="flex items-center justify-between p-4 rounded-xl border border-gray-100 hover:border-blue-100 hover:bg-blue-50/30 transition-colors"
-                >
-                  <div className="flex-1">
-                    <div className="flex items-center gap-2">
-                      <h3 className="font-bold text-black">{r.name}</h3>
-                      {r.directUrl && (
-                        <span className="text-xs bg-yellow-100 text-yellow-800 font-bold px-2 py-0.5 rounded">
-                          Direct ordering ✓
-                        </span>
-                      )}
-                    </div>
-                    <p className="text-sm text-gray-500 capitalize mt-0.5">{r.category}</p>
-                    {r.directUrl && (
-                      <p className="text-xs text-blue-600 mt-1">
-                        {r.hasToast ? '🍞 Toast' : r.hasSquare ? '◻️ Square' : '🌐 Website'} — skip delivery app markup
-                      </p>
-                    )}
-                  </div>
-                  <div className="flex gap-2 ml-4">
-                    {r.directUrl ? (
-                      <a
-                        href={r.directUrl}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="bg-blue-600 text-white text-sm font-bold px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors"
-                      >
-                        Order Direct →
-                      </a>
-                    ) : (
-                      <span className="text-xs text-gray-400 py-2">Platform only</span>
-                    )}
-                  </div>
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
-      )}
-
-      {/* Value prop */}
-      <section className="bg-gray-50 px-6 py-16">
-        <div className="max-w-2xl mx-auto text-center">
-          <h2 className="text-2xl font-black text-black mb-4">Why search on Eddy?</h2>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
-            <div>
-              <div className="text-3xl mb-2">💰</div>
-              <h3 className="font-bold text-black">See all prices</h3>
-              <p className="text-sm text-gray-500 mt-1">Compare DoorDash, Uber Eats, Grubhub, and direct ordering side by side</p>
-            </div>
-            <div>
-              <div className="text-3xl mb-2">🔍</div>
-              <h3 className="font-bold text-black">AI-powered search</h3>
-              <p className="text-sm text-gray-500 mt-1">"Spicy Thai", "cheap comfort food", "date night sushi" — we get it</p>
-            </div>
-            <div>
-              <div className="text-3xl mb-2">🌊</div>
-              <h3 className="font-bold text-black">Find the current</h3>
-              <p className="text-sm text-gray-500 mt-1">19,000+ restaurants, 30 metros, always finding you the best deal</p>
-            </div>
-          </div>
         </div>
-      </section>
+      )}
+
+      {/* Content */}
+      <div style={{ maxWidth: 600, margin: '0 auto', padding: '16px 16px 100px' }}>
+        {/* Stats bar */}
+        {!loading && totalInCity > 0 && (
+          <div style={{
+            display: 'flex', gap: 16, marginBottom: 16, fontSize: 12, color: '#9CA3AF',
+          }}>
+            <span>{totalInCity.toLocaleString()} restaurants</span>
+            <span>•</span>
+            <span style={{ color: '#10b981', fontWeight: 600 }}>{directInCity.toLocaleString()} with direct ordering</span>
+          </div>
+        )}
+
+        {/* Loading */}
+        {loading && (
+          <div style={{ textAlign: 'center', padding: '60px 0', color: '#9CA3AF' }}>
+            <div style={{ fontSize: 32, marginBottom: 12 }}>🌊</div>
+            <p>Loading restaurants...</p>
+          </div>
+        )}
+
+        {/* Results */}
+        {!loading && results.length === 0 && query && (
+          <div style={{ textAlign: 'center', padding: '60px 0', color: '#9CA3AF' }}>
+            <div style={{ fontSize: 32, marginBottom: 12 }}>🤷</div>
+            <p>No restaurants found for &ldquo;{query}&rdquo; in {METROS[metro]}</p>
+            <p style={{ fontSize: 13, marginTop: 8 }}>Try a different search or city</p>
+          </div>
+        )}
+
+        {!loading && !query && results.length > 0 && (
+          <div style={{ marginBottom: 12 }}>
+            <h2 style={{ fontSize: 16, fontWeight: 700, color: '#374151' }}>
+              🏪 Save with direct ordering
+            </h2>
+            <p style={{ fontSize: 13, color: '#9CA3AF', marginTop: 2 }}>
+              These restaurants have their own ordering — skip the DoorDash markup
+            </p>
+          </div>
+        )}
+
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+          {results.map((r, i) => (
+            <RestaurantCard key={`${r.name}-${i}`} restaurant={r} metro={metro} />
+          ))}
+        </div>
+
+        {/* Install CTA at bottom */}
+        {!loading && results.length > 0 && (
+          <div style={{
+            marginTop: 32, padding: 24, borderRadius: 16,
+            background: 'linear-gradient(135deg, #EFF6FF, #F0FDF4)',
+            border: '1px solid #BFDBFE', textAlign: 'center',
+          }}>
+            <div style={{ fontSize: 24, marginBottom: 8 }}>🧩</div>
+            <h3 style={{ fontSize: 16, fontWeight: 800, marginBottom: 6, color: '#1E40AF' }}>
+              Want automatic comparisons?
+            </h3>
+            <p style={{ fontSize: 13, color: '#6B7280', marginBottom: 16, lineHeight: 1.6 }}>
+              The Eddy Chrome extension compares prices on DoorDash, Uber Eats &amp; Grubhub
+              automatically while you browse. Free forever.
+            </p>
+            <Link
+              href="/install"
+              style={{
+                background: '#2563EB', color: '#FFF', padding: '10px 24px',
+                borderRadius: 8, textDecoration: 'none', fontWeight: 700, fontSize: 14,
+                display: 'inline-block',
+              }}
+            >
+              Add to Chrome — Free
+            </Link>
+          </div>
+        )}
+      </div>
+    </main>
+  );
+}
+
+function RestaurantCard({ restaurant: r, metro }: { restaurant: Restaurant; metro: string }) {
+  const emoji = CATEGORY_EMOJI[r.category] || '🍽️';
+  const slug = r.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+$/, '');
+  const platforms = [];
+  if (r.hasToast) platforms.push('Toast');
+  if (r.hasSquare) platforms.push('Square');
+  if (r.hasWebsite) platforms.push('Website');
+
+  return (
+    <div style={{
+      background: '#FFF', borderRadius: 12, border: '1px solid #E5E7EB',
+      padding: '14px 16px', display: 'flex', alignItems: 'center', gap: 12,
+      transition: 'box-shadow 0.2s',
+    }}>
+      <div style={{
+        width: 44, height: 44, borderRadius: 10, flexShrink: 0,
+        background: r.directUrl ? '#F0FDF4' : '#F9FAFB',
+        display: 'flex', alignItems: 'center', justifyContent: 'center',
+        fontSize: 22, border: `1px solid ${r.directUrl ? '#BBF7D0' : '#E5E7EB'}`,
+      }}>
+        {emoji}
+      </div>
+      <div style={{ flex: 1, minWidth: 0 }}>
+        <Link
+          href={`/restaurant/${metro}/${slug}`}
+          style={{ textDecoration: 'none', color: '#111' }}
+        >
+          <div style={{
+            fontWeight: 700, fontSize: 15,
+            overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap',
+          }}>
+            {r.name}
+          </div>
+        </Link>
+        <div style={{ fontSize: 12, color: '#9CA3AF', marginTop: 2, display: 'flex', gap: 8, alignItems: 'center' }}>
+          <span style={{ textTransform: 'capitalize' }}>{r.category}</span>
+          {r.directUrl && (
+            <span style={{
+              background: '#ECFDF5', color: '#059669', fontSize: 10, fontWeight: 700,
+              padding: '1px 6px', borderRadius: 4,
+            }}>
+              DIRECT {platforms.length > 0 ? `· ${platforms[0]}` : ''}
+            </span>
+          )}
+        </div>
+      </div>
+      {r.directUrl ? (
+        <a
+          href={addUtm(r.directUrl)}
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{
+            background: '#10b981', color: '#FFF', padding: '8px 14px',
+            borderRadius: 8, textDecoration: 'none', fontWeight: 700,
+            fontSize: 13, flexShrink: 0, whiteSpace: 'nowrap',
+          }}
+        >
+          Order direct
+        </a>
+      ) : (
+        <Link
+          href={`/restaurant/${metro}/${slug}`}
+          style={{
+            background: '#F3F4F6', color: '#6B7280', padding: '8px 14px',
+            borderRadius: 8, textDecoration: 'none', fontWeight: 600,
+            fontSize: 13, flexShrink: 0,
+          }}
+        >
+          Compare
+        </Link>
+      )}
     </div>
   );
+}
+
+// Rough geo distance to find closest metro
+const METRO_COORDS: Record<string, [number, number]> = {
+  nyc: [40.7128, -74.0060], chicago: [41.8781, -87.6298], la: [34.0522, -118.2437],
+  sf: [37.7749, -122.4194], boston: [42.3601, -71.0589], miami: [25.7617, -80.1918],
+  dc: [38.9072, -77.0369], austin: [30.2672, -97.7431], houston: [29.7604, -95.3698],
+  atlanta: [33.7490, -84.3880], seattle: [47.6062, -122.3321], denver: [39.7392, -104.9903],
+  philly: [39.9526, -75.1652], nashville: [36.1627, -86.7816], nola: [29.9511, -90.0715],
+  dallas: [32.7767, -96.7970], phoenix: [33.4484, -112.0740], portland: [45.5152, -122.6784],
+  detroit: [42.3314, -83.0458], minneapolis: [44.9778, -93.2650], charlotte: [35.2271, -80.8431],
+  tampa: [27.9506, -82.4572], sandiego: [32.7157, -117.1611], stlouis: [38.6270, -90.1994],
+  pittsburgh: [40.4406, -79.9959], columbus: [39.9612, -82.9988], indianapolis: [39.7684, -86.1581],
+  milwaukee: [43.0389, -87.9065], raleigh: [35.7796, -78.6382], baltimore: [39.2904, -76.6122],
+};
+
+function findClosestMetro(lat: number, lng: number): string {
+  let closest = 'austin';
+  let minDist = Infinity;
+  for (const [id, [mlat, mlng]] of Object.entries(METRO_COORDS)) {
+    const d = Math.sqrt((lat - mlat) ** 2 + (lng - mlng) ** 2);
+    if (d < minDist) { minDist = d; closest = id; }
+  }
+  return closest;
 }

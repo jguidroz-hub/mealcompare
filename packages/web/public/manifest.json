@@ -2,10 +2,10 @@
   "name": "Eddy — Save on Food Delivery",
   "short_name": "Eddy",
   "description": "Compare delivery apps and find the cheapest way to order food. 9,300+ restaurants, 30 cities.",
-  "start_url": "/restaurants",
+  "start_url": "/search",
   "display": "standalone",
-  "background_color": "#0B0B0B",
-  "theme_color": "#0B0B0B",
+  "background_color": "#FFFFFF",
+  "theme_color": "#2563EB",
   "orientation": "portrait",
   "icons": [
     { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
