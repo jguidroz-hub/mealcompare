@@ -95,8 +95,9 @@ export default function Home() {
               Free forever. Works on any restaurant. No account required.
             </p>
             <div className="hero-cta-row" style={{ display: 'flex', gap: 12, flexWrap: 'wrap', marginBottom: 36 }}>
-              <Link href="/install" className="btn-primary" style={{ fontSize: 16 }}>🧩 Add to Chrome — Free</Link>
-              <Link href="/restaurants" className="btn-outline" style={{ fontSize: 16 }}>Browse Restaurants</Link>
+              <Link href="/install" className="btn-primary desktop-only" style={{ fontSize: 16 }}>🧩 Add to Chrome — Free</Link>
+              <Link href="/search" className="btn-primary mobile-only" style={{ fontSize: 16 }}>🔍 Search Restaurants — Free</Link>
+              <Link href="/search" className="btn-outline" style={{ fontSize: 16 }}>Browse Restaurants</Link>
             </div>
             <div style={{ display: 'flex', gap: 28, flexWrap: 'wrap' }}>
               {[
@@ -310,7 +311,8 @@ export default function Home() {
             Add to Chrome in 2 seconds.<br />Save on your next order.
           </p>
           <div className="hero-cta-row" style={{ display: 'flex', gap: 12, justifyContent: 'center', flexWrap: 'wrap' }}>
-            <Link href="/install" className="btn-primary" style={{ fontSize: 17, padding: '16px 44px' }}>🧩 Add to Chrome — Free</Link>
+            <Link href="/install" className="btn-primary desktop-only" style={{ fontSize: 17, padding: '16px 44px' }}>🧩 Add to Chrome — Free</Link>
+            <Link href="/search" className="btn-primary mobile-only" style={{ fontSize: 17, padding: '16px 44px' }}>🔍 Search Restaurants</Link>
             <Link href="/restaurants" className="btn-outline" style={{ fontSize: 17, padding: '16px 34px' }}>Browse Restaurants</Link>
           </div>
           <p style={{ marginTop: 24, fontSize: 13, color: C.stone400 }}>No account · No signup · Works instantly · 19,000+ restaurants</p>
