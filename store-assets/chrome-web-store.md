@@ -25,9 +25,10 @@ Stop overpaying for food delivery! Eddy automatically detects your cart on DoorD
 **Why direct ordering saves you money:**
 Delivery apps charge restaurants 15-30% commission, which gets passed to you as menu markups. When you order directly from a restaurant's website (Toast, Square, etc.), you skip those markups AND often get lower delivery fees.
 
-**Currently supported metros:**
-• Washington, DC (100+ restaurants with direct ordering links)
-• Austin, TX (80+ restaurants with direct ordering links)
+**Currently supported:**
+• 30 US cities including NYC (1,100+), LA (900+), Chicago (850+), DC (680+), Austin (660+)
+• 19,000+ restaurants with direct ordering links
+• Growing daily
 
 **Privacy-first:**
 • No account required
