@@ -27,6 +27,14 @@ const posts = [
     tag: 'Guide',
     readTime: '6 min read',
   },
+  {
+    slug: 'best-food-delivery-apps-compared',
+    title: 'Best Food Delivery Apps in 2026: DoorDash, Uber Eats, Grubhub Compared',
+    description: 'Honest comparison of coverage, fees, subscriptions, and which app is best for different situations.',
+    date: 'February 28, 2026',
+    tag: 'Comparison',
+    readTime: '10 min read',
+  },
 ];
 
 export default function BlogIndex() {

@@ -16,6 +16,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${base}/blog`, lastModified: now, changeFrequency: 'weekly', priority: 0.8 },
     { url: `${base}/blog/food-delivery-price-comparison`, lastModified: now, changeFrequency: 'monthly', priority: 0.9 },
     { url: `${base}/blog/direct-ordering-saves-money`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/blog/best-food-delivery-apps-compared`, lastModified: now, changeFrequency: 'monthly', priority: 0.9 },
   ];
 
   const metros = await getAllMetros();
