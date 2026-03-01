@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { useParams } from 'next/navigation';
 import { trackPageView, trackOrderClick } from '@/lib/analytics';
 import { isFavorite, toggleFavorite } from '@/lib/favorites';
+import MenuComparison from '@/app/components/MenuComparison';
 
 interface Restaurant {
   name: string;
@@ -174,6 +175,9 @@ export default function RestaurantDetailPage() {
             </div>
           </div>
         )}
+
+        {/* Menu Price Comparison — shown for recognized chains */}
+        <MenuComparison restaurantName={restaurant.name} metro={metro} />
 
         {/* Order CTA */}
         {restaurant.directUrl ? (

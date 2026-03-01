@@ -1,5 +1,5 @@
 import { MetadataRoute } from 'next';
-import { getRestaurantsForMetro, getDirectOrderUrl } from '@mealcompare/engine';
+import { getRestaurantsForMetro, getDirectOrderUrl, ACTIVE_CHAINS } from '@mealcompare/engine';
 
 const METROS = [
   'nyc','chicago','la','sf','boston','miami','dc','austin','houston','atlanta',
@@ -46,5 +46,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   }
 
-  return [...staticPages, ...metroPages, ...restaurantPages];
+  // Chain menu comparison pages
+  const chainPages: MetadataRoute.Sitemap = [
+    { url: `${base}/chains`, lastModified: now, changeFrequency: 'weekly' as const, priority: 0.9 },
+    ...ACTIVE_CHAINS.map(chain => ({
+      url: `${base}/chains/${chain.slug}`,
+      lastModified: now,
+      changeFrequency: 'weekly' as const,
+      priority: 0.7,
+    })),
+  ];
+
+  return [...staticPages, ...metroPages, ...restaurantPages, ...chainPages];
 }
