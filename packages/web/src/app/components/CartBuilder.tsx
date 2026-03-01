@@ -87,6 +87,43 @@ const PLATFORMS: Array<{ key: keyof typeof PLATFORM_FEES; label: string; emoji: 
 
 // ─── Component ─────────────────────────────────────────────────
 
+function getOrderLink(chainName: string, platform: string): string {
+  const q = encodeURIComponent(chainName);
+  const DIRECT_URLS: Record<string, string> = {
+    "mcdonald's": 'https://www.mcdonalds.com/us/en-us/mobile-order-and-pay.html',
+    'chipotle': 'https://www.chipotle.com/order',
+    "chick-fil-a": 'https://www.chick-fil-a.com/order',
+    'subway': 'https://order.subway.com/',
+    'taco bell': 'https://www.tacobell.com/food',
+    "wendy's": 'https://order.wendys.com/',
+    'burger king': 'https://www.bk.com/menu',
+    'popeyes': 'https://www.popeyes.com/order',
+    "domino's": 'https://www.dominos.com/en/',
+    'pizza hut': 'https://www.pizzahut.com/menu',
+    'panda express': 'https://www.pandaexpress.com/order',
+    'wingstop': 'https://www.wingstop.com/order',
+    'panera bread': 'https://delivery.panera.com/',
+    'five guys': 'https://order.fiveguys.com/',
+    'starbucks': 'https://app.starbucks.com/',
+    "raising cane's": 'https://www.raisingcanes.com/order',
+    'whataburger': 'https://whataburger.com/order',
+    'shake shack': 'https://order.shakeshack.com/',
+    "jersey mike's": 'https://www.jerseymikes.com/menu',
+    'sweetgreen': 'https://order.sweetgreen.com/',
+    "jimmy john's": 'https://www.jimmyjohns.com/order/',
+    "torchy's tacos": 'https://www.torchystacos.com/order',
+  };
+  const lower = chainName.toLowerCase();
+  switch (platform) {
+    case 'doordash': return `https://www.doordash.com/search/store/${q}/`;
+    case 'ubereats': return `https://www.ubereats.com/search?q=${q}`;
+    case 'grubhub': return `https://www.grubhub.com/search?orderMethod=delivery&query=${q}`;
+    case 'direct': return DIRECT_URLS[lower] ?? `https://www.google.com/search?q=${q}+order+online+direct`;
+    case 'pickup': return `https://www.google.com/maps/search/${q}`;
+    default: return '#';
+  }
+}
+
 export default function CartBuilder({
   chainName,
   menuItems,
@@ -377,6 +414,27 @@ export default function CartBuilder({
                       ✅ {fmt(savings)} cheaper than {worstQuote?.label}
                     </div>
                   )}
+
+                  <a
+                    href={getOrderLink(chainName, q.platform)}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{
+                      display: 'block',
+                      marginTop: 10,
+                      padding: '8px 0',
+                      borderRadius: 8,
+                      border: isBest ? '1px solid rgba(16,185,129,0.4)' : '1px solid rgba(255,255,255,0.1)',
+                      background: isBest ? 'rgba(16,185,129,0.15)' : 'rgba(255,255,255,0.03)',
+                      color: isBest ? '#10b981' : '#94a3b8',
+                      textAlign: 'center',
+                      fontSize: 13,
+                      fontWeight: 700,
+                      textDecoration: 'none',
+                    }}
+                  >
+                    {q.platform === 'pickup' ? '📍 Find Nearest Location' : `Order on ${q.label} →`}
+                  </a>
                 </div>
               );
             })}
