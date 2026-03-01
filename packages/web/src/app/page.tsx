@@ -67,6 +67,7 @@ export default function Home() {
           </div>
           <div style={{ display: 'flex', gap: 2, alignItems: 'center' }}>
             <Link href="/restaurants" className="desktop-only" style={{ color: C.stone500, textDecoration: 'none', fontSize: 14, fontWeight: 500, padding: '6px 14px' }}>Browse</Link>
+            <Link href="/my-benefits" className="desktop-only" style={{ color: C.stone500, textDecoration: 'none', fontSize: 14, fontWeight: 500, padding: '6px 14px' }}>💳 My Benefits</Link>
             <Link href="/for-restaurants" className="desktop-only" style={{ color: C.stone500, textDecoration: 'none', fontSize: 14, fontWeight: 500, padding: '6px 14px' }}>For Restaurants</Link>
             <Link href="/install" style={{
               marginLeft: 6, background: C.blue, color: C.white,

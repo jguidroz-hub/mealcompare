@@ -12,6 +12,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${base}/savings`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
     { url: `${base}/for-restaurants`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/install`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${base}/my-benefits`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/privacy`, lastModified: now, changeFrequency: 'monthly', priority: 0.3 },
     { url: `${base}/blog`, lastModified: now, changeFrequency: 'weekly', priority: 0.8 },
     { url: `${base}/blog/food-delivery-price-comparison`, lastModified: now, changeFrequency: 'monthly', priority: 0.9 },
