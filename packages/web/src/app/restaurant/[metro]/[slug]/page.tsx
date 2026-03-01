@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { useParams } from 'next/navigation';
 import { trackPageView, trackOrderClick } from '@/lib/analytics';
 import { isFavorite, toggleFavorite } from '@/lib/favorites';
-import CostComparison from '@/app/components/CostComparison';
+import MenuComparison from '@/app/components/MenuComparison';
 
 interface Restaurant {
   name: string;
@@ -49,8 +49,8 @@ const METRO_NAMES: Record<string, string> = {
 function addUtm(url: string): string {
   try {
     const u = new URL(url);
-    u.searchParams.set('utm_source', 'eddy');
-    u.searchParams.set('ref', 'eddy');
+    u.searchParams.set('utm_source', 'skipthefee');
+    u.searchParams.set('ref', 'skipthefee');
     return u.toString();
   } catch { return url; }
 }
@@ -176,8 +176,8 @@ export default function RestaurantDetailPage() {
           </div>
         )}
 
-        {/* Personalized cost comparison */}
-        <CostComparison restaurantName={restaurant.name} />
+        {/* Menu Price Comparison — shown for recognized chains */}
+        <MenuComparison restaurantName={restaurant.name} metro={metro} />
 
         {/* Order CTA */}
         {restaurant.directUrl ? (
@@ -189,7 +189,7 @@ export default function RestaurantDetailPage() {
             className="btn-glow"
             style={{ display: 'flex', justifyContent: 'center', width: '100%', padding: '16px 24px', fontSize: 16, marginBottom: 20 }}
           >
-            🏪 Order Direct — No app markup
+            🏪 Order Direct — Skip the Fees
           </a>
         ) : (
           <div className="glass-card" style={{ padding: 20, textAlign: 'center', marginBottom: 20 }}>

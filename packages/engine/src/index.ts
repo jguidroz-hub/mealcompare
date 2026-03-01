@@ -6,3 +6,7 @@ export { RateLimiter } from './RateLimiter';
 export type { PlatformAdapter } from './adapters/types';
 export { getRestaurantsForMetro, findRestaurantData, getDirectOrderUrl } from './data/top-restaurants';
 export type { RestaurantData } from './data/top-restaurants';
+export { compareChainPrices, batchCompareChains, findChain, ACTIVE_CHAINS } from './ChainMenuScraper';
+export { TOP_CHAINS, getChainMenuItems } from './data/chain-menus';
+export type { ChainMenu, ChainMenuItem } from './data/chain-menus';
+export type { ChainPriceComparison, ChainComparisonResult } from './ChainMenuScraper';
