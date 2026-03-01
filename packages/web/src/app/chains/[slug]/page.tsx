@@ -107,6 +107,23 @@ export default function ChainDetailPage() {
         {/* Key forces re-mount on metro change */}
         <MenuComparison key={`${chainName}-${metro}`} restaurantName={chainName} metro={metro} />
 
+        {/* Cart Builder CTA */}
+        <div className="glass-card" style={{ padding: 20, marginTop: 20, textAlign: 'center', border: '1px solid rgba(16,185,129,0.2)' }}>
+          <p style={{ fontSize: 16, fontWeight: 700, marginBottom: 8 }}>
+            🧮 Want to see your exact total?
+          </p>
+          <p style={{ fontSize: 13, color: '#94a3b8', marginBottom: 16 }}>
+            Build your order and compare the real cost across every delivery platform — including fees, tax, and tip.
+          </p>
+          <Link
+            href={`/order/${slug}`}
+            className="btn-glow"
+            style={{ display: 'inline-block', padding: '12px 24px', fontSize: 14 }}
+          >
+            Build Your {chainName} Order →
+          </Link>
+        </div>
+
         {/* Direct ordering CTA */}
         <div className="glass-card" style={{ padding: 20, marginTop: 20, textAlign: 'center' }}>
           <p style={{ fontSize: 15, fontWeight: 700, marginBottom: 8, color: '#10b981' }}>

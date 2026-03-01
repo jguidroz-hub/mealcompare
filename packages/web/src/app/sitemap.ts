@@ -55,6 +55,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'weekly' as const,
       priority: 0.7,
     })),
+    ...ACTIVE_CHAINS.map(chain => ({
+      url: `${base}/order/${chain.slug}`,
+      lastModified: now,
+      changeFrequency: 'weekly' as const,
+      priority: 0.8,
+    })),
   ];
 
   return [...staticPages, ...metroPages, ...restaurantPages, ...chainPages];

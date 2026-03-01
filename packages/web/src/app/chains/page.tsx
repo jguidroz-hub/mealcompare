@@ -97,8 +97,8 @@ export default function ChainsPage() {
                 <div style={{ fontSize: 12, color: '#64748b' }}>
                   {chain.itemCount} items tracked · {chain.category}
                 </div>
-                <div style={{ fontSize: 12, color: '#10b981', fontWeight: 600, marginTop: 8 }}>
-                  Compare prices →
+                <div style={{ display: 'flex', gap: 12, marginTop: 8, fontSize: 12, fontWeight: 600 }}>
+                  <span style={{ color: '#10b981' }}>Compare prices →</span>
                 </div>
               </Link>
             ))}
