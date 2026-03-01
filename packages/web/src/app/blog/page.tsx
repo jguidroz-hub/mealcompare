@@ -12,6 +12,14 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'credit-card-food-delivery-rewards',
+    title: 'Best Credit Cards for Food Delivery in 2026: Maximize Your Rewards',
+    description: 'Chase Sapphire, Amex Gold, Capital One Savor — which card saves you the most on DoorDash, Uber Eats, and Grubhub?',
+    date: 'February 28, 2026',
+    tag: 'Savings',
+    readTime: '10 min read',
+  },
+  {
     slug: 'food-delivery-price-comparison',
     title: 'DoorDash vs Uber Eats vs Grubhub: Real Price Comparison (2026)',
     description: 'We compared actual prices across delivery platforms for the same orders. The results might change how you order food.',
