@@ -49,6 +49,15 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
       chrome.action.setBadgeText({ text: '' });
       sendResponse({ ok: true });
       break;
+
+    case 'AUTOFILL_ORDER': {
+      // Open the target platform, navigate to the chain, then auto-fill items
+      const { platform, chainName, items, url } = message.payload;
+      handleAutofillOrder(platform, chainName, items, url)
+        .then(result => sendResponse(result))
+        .catch(err => sendResponse({ success: false, error: err.message }));
+      return true; // async
+    }
   }
 
   return true;
@@ -148,5 +157,72 @@ chrome.runtime.onInstalled.addListener((details) => {
 
   console.log('[SkipTheFee] Extension installed. Default metro: austin');
 });
+
+// ─── External Messages (from Eddy web app) ────────────────────
+
+chrome.runtime.onMessageExternal.addListener((message, sender, sendResponse) => {
+  if (message.type === 'AUTOFILL_ORDER') {
+    const { platform, chainName, items, url } = message.payload;
+    handleAutofillOrder(platform, chainName, items, url)
+      .then(result => sendResponse(result))
+      .catch(err => sendResponse({ success: false, error: err.message }));
+    return true;
+  }
+  
+  if (message.type === 'PING') {
+    sendResponse({ ok: true, version: chrome.runtime.getManifest().version });
+    return;
+  }
+});
+
+// ─── Auto-Fill Handler ─────────────────────────────────────────
+
+interface AutofillItem {
+  name: string;
+  quantity: number;
+}
+
+async function handleAutofillOrder(
+  platform: string,
+  chainName: string,
+  items: AutofillItem[],
+  url: string
+): Promise<{ success: boolean; tabId?: number }> {
+  // Open the platform URL in a new tab
+  const tab = await chrome.tabs.create({ url, active: true });
+  
+  if (!tab.id) return { success: false };
+  
+  // Wait for tab to finish loading
+  await new Promise<void>((resolve) => {
+    const listener = (tabId: number, info: chrome.tabs.TabChangeInfo) => {
+      if (tabId === tab.id && info.status === 'complete') {
+        chrome.tabs.onUpdated.removeListener(listener);
+        resolve();
+      }
+    };
+    chrome.tabs.onUpdated.addListener(listener);
+    // Timeout after 15s
+    setTimeout(() => {
+      chrome.tabs.onUpdated.removeListener(listener);
+      resolve();
+    }, 15000);
+  });
+  
+  // Wait extra for SPA content to load
+  await new Promise(resolve => setTimeout(resolve, 3000));
+  
+  // Send autofill request to the content script
+  try {
+    await chrome.tabs.sendMessage(tab.id, {
+      type: 'AUTOFILL_CART',
+      items,
+      chainName,
+    });
+    return { success: true, tabId: tab.id };
+  } catch (err) {
+    return { success: false };
+  }
+}
 
 console.log('[SkipTheFee] Background service worker loaded');

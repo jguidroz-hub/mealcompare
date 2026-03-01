@@ -1,5 +1,5 @@
 'use client';
-import { useState, useMemo, useCallback } from 'react';
+import { useState, useEffect, useMemo, useCallback } from 'react';
 
 // ─── Types ─────────────────────────────────────────────────────
 
@@ -124,6 +124,54 @@ function getOrderLink(chainName: string, platform: string): string {
   }
 }
 
+// Chrome extension API type declaration
+declare const chrome: any;
+
+// Extension ID — set after publishing to Chrome Web Store
+// For now, users can set via localStorage for dev/testing
+const EXTENSION_ID = typeof window !== 'undefined'
+  ? localStorage.getItem('stf_extension_id') || ''
+  : '';
+
+function detectExtension(): Promise<boolean> {
+  if (!EXTENSION_ID) return Promise.resolve(false);
+  return new Promise(resolve => {
+    try {
+      chrome.runtime.sendMessage(EXTENSION_ID, { type: 'PING' }, (response: any) => {
+        resolve(!!response?.ok);
+      });
+    } catch {
+      resolve(false);
+    }
+  });
+}
+
+function sendAutofillToExtension(platform: string, chainName: string, items: CartItem[], url: string): void {
+  if (!EXTENSION_ID) {
+    // Fallback: open the URL directly
+    window.open(url, '_blank');
+    return;
+  }
+  try {
+    chrome.runtime.sendMessage(EXTENSION_ID, {
+      type: 'AUTOFILL_ORDER',
+      payload: {
+        platform,
+        chainName,
+        items: items.map(i => ({ name: i.name, quantity: i.quantity })),
+        url,
+      },
+    }, (response: any) => {
+      if (!response?.success) {
+        // Fallback: just open the URL
+        window.open(url, '_blank');
+      }
+    });
+  } catch {
+    window.open(url, '_blank');
+  }
+}
+
 export default function CartBuilder({
   chainName,
   menuItems,
@@ -136,6 +184,11 @@ export default function CartBuilder({
   const [cart, setCart] = useState<CartItem[]>([]);
   const [subscriptions, setSubscriptions] = useState<Record<string, boolean>>({});
   const [tipPercent, setTipPercent] = useState(20);
+  const [hasExtension, setHasExtension] = useState(false);
+
+  useEffect(() => {
+    detectExtension().then(setHasExtension);
+  }, []);
 
   const addItem = useCallback((item: ChainMenuItem) => {
     setCart(prev => {
@@ -415,12 +468,18 @@ export default function CartBuilder({
                     </div>
                   )}
 
-                  <a
-                    href={getOrderLink(chainName, q.platform)}
-                    target="_blank"
-                    rel="noopener noreferrer"
+                  <button
+                    onClick={() => {
+                      const url = getOrderLink(chainName, q.platform);
+                      if (hasExtension && ['doordash', 'ubereats', 'grubhub'].includes(q.platform)) {
+                        sendAutofillToExtension(q.platform, chainName, cart, url);
+                      } else {
+                        window.open(url, '_blank');
+                      }
+                    }}
                     style={{
                       display: 'block',
+                      width: '100%',
                       marginTop: 10,
                       padding: '8px 0',
                       borderRadius: 8,
@@ -430,11 +489,15 @@ export default function CartBuilder({
                       textAlign: 'center',
                       fontSize: 13,
                       fontWeight: 700,
-                      textDecoration: 'none',
+                      cursor: 'pointer',
                     }}
                   >
-                    {q.platform === 'pickup' ? '📍 Find Nearest Location' : `Order on ${q.label} →`}
-                  </a>
+                    {q.platform === 'pickup'
+                      ? '📍 Find Nearest Location'
+                      : hasExtension && ['doordash', 'ubereats', 'grubhub'].includes(q.platform)
+                        ? `⚡ Auto-Fill on ${q.label}`
+                        : `Order on ${q.label} →`}
+                  </button>
                 </div>
               );
             })}
