@@ -2,6 +2,19 @@ import { ComparisonResult, PlatformQuote, formatCents, Platform } from '@mealcom
 
 const content = document.getElementById('content')!;
 
+// ─── Campus selector ───────────────────────────────────────────
+const campusSelect = document.getElementById('campus-select') as HTMLSelectElement;
+if (campusSelect) {
+  chrome.storage.sync.get('campus', (data) => {
+    if (data.campus) campusSelect.value = data.campus;
+  });
+  campusSelect.addEventListener('change', () => {
+    const campus = campusSelect.value;
+    chrome.storage.sync.set({ campus });
+    chrome.runtime.sendMessage({ type: 'SET_CAMPUS', payload: { campus } });
+  });
+}
+
 const PLATFORM_NAMES: Record<Platform, string> = {
   doordash: 'DoorDash',
   ubereats: 'Uber Eats',

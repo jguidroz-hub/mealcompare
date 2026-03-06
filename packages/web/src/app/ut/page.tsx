@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import RefCookie from './RefCookie';
 
 const CWS_URL = 'https://chromewebstore.google.com/detail/eddy-%E2%80%94-save-on-food-deliv/nogipmchmfjhmnjcmeppmmngeokhaoob';
 
@@ -46,6 +47,8 @@ export default function UTPage({
   searchParams: Promise<{ ref?: string }>;
 }) {
   return (
+    <>
+    <RefCookie />
     <main style={{
       background: '#0f172a',
       color: '#e2e8f0',
@@ -335,5 +338,6 @@ export default function UTPage({
         Hook &apos;em 🤘
       </footer>
     </main>
+    </>
   );
 }

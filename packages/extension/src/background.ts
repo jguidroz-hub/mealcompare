@@ -7,7 +7,7 @@
 
 import { CartDetection, ComparisonResult } from '@mealcompare/shared';
 
-const API_BASE = 'https://skipthefee.vercel.app';
+const API_BASE = 'https://eddy.delivery';
 
 let latestCart: CartDetection | null = null;
 let latestResult: ComparisonResult | null = null;
@@ -49,6 +49,34 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
       chrome.action.setBadgeText({ text: '' });
       sendResponse({ ok: true });
       break;
+
+    case 'SET_REF': {
+      // Capture referral source from welcome page
+      const ref = message.payload?.ref;
+      if (ref) {
+        chrome.storage.sync.set({ ref });
+        trackInstall(ref);
+      }
+      sendResponse({ ok: true });
+      break;
+    }
+
+    case 'SET_CAMPUS': {
+      const campus = message.payload?.campus;
+      if (campus) {
+        chrome.storage.sync.set({ campus });
+      }
+      sendResponse({ ok: true });
+      break;
+    }
+
+    case 'GET_TELEMETRY': {
+      chrome.storage.sync.get(
+        ['sessionId', 'totalComparisons', 'totalSavingsCents', 'ref', 'campus', 'metro'],
+        (data) => sendResponse(data)
+      );
+      return true; // async response
+    }
 
     case 'AUTOFILL_ORDER': {
       // Open the target platform, navigate to the chain, then auto-fill items
@@ -140,22 +168,82 @@ async function getMetro(): Promise<string> {
   return stored.metro || 'austin';
 }
 
-// On install — set defaults and show welcome
-chrome.runtime.onInstalled.addListener((details) => {
+// ─── Telemetry: Install tracking + DAU heartbeat ───────────────
+
+async function getOrCreateSessionId(): Promise<string> {
+  const data = await chrome.storage.sync.get('sessionId');
+  if (data.sessionId) return data.sessionId;
+  const id = 'es_' + crypto.randomUUID().replace(/-/g, '').slice(0, 16);
+  await chrome.storage.sync.set({ sessionId: id });
+  return id;
+}
+
+async function trackInstall(ref?: string): Promise<void> {
+  try {
+    const sessionId = await getOrCreateSessionId();
+    const data = await chrome.storage.sync.get(['campus', 'metro']);
+    await fetch(`${API_BASE}/api/telemetry`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        event: 'install',
+        sessionId,
+        ref: ref || null,
+        metro: data.metro || 'austin',
+        campus: data.campus || null,
+        version: chrome.runtime.getManifest().version,
+      }),
+    });
+  } catch { /* best effort */ }
+}
+
+async function trackHeartbeat(): Promise<void> {
+  try {
+    const sessionId = await getOrCreateSessionId();
+    const data = await chrome.storage.sync.get(['campus', 'metro', 'totalComparisons', 'totalSavingsCents']);
+    await fetch(`${API_BASE}/api/telemetry`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        event: 'heartbeat',
+        sessionId,
+        metro: data.metro || 'austin',
+        campus: data.campus || null,
+        totalComparisons: data.totalComparisons || 0,
+        totalSavingsCents: data.totalSavingsCents || 0,
+        version: chrome.runtime.getManifest().version,
+      }),
+    });
+  } catch { /* best effort */ }
+}
+
+// Send heartbeat every 6 hours (runs when service worker is alive)
+chrome.alarms.create('heartbeat', { periodInMinutes: 360 });
+chrome.alarms.onAlarm.addListener((alarm) => {
+  if (alarm.name === 'heartbeat') trackHeartbeat();
+});
+
+// On install — set defaults, track install, show welcome
+chrome.runtime.onInstalled.addListener(async (details) => {
   chrome.storage.sync.set({
     metro: 'austin',
+    campus: '',
     totalComparisons: 0,
     totalSavingsCents: 0,
   });
 
   if (details.reason === 'install') {
-    // Open onboarding tab
+    // Check for ref param from install page cookie
+    // The welcome page will pass ref back to us
     chrome.tabs.create({
-      url: 'https://skipthefee.app/welcome?source=extension',
+      url: 'https://eddy.delivery/welcome?source=extension',
     });
+    // Track install (ref will be captured from welcome page message)
+    await trackInstall();
   }
 
-  console.log('[SkipTheFee] Extension installed. Default metro: austin');
+  // Send initial heartbeat
+  await trackHeartbeat();
 });
 
 // ─── External Messages (from Eddy web app) ────────────────────

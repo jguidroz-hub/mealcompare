@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
+import RefCapture from './RefCapture';
 
 export const metadata: Metadata = {
   title: 'Welcome to Eddy!',
@@ -8,6 +9,8 @@ export const metadata: Metadata = {
 
 export default function WelcomePage() {
   return (
+    <>
+    <RefCapture />
     <main style={{ background: '#0f172a', color: '#e2e8f0', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif', minHeight: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
       <div style={{ maxWidth: 500, padding: '40px 24px', textAlign: 'center' }}>
         <div style={{ fontSize: 64, marginBottom: 16 }}>🎉</div>
@@ -48,5 +51,6 @@ export default function WelcomePage() {
         </p>
       </div>
     </main>
+    </>
   );
 }

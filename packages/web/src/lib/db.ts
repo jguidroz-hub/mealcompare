@@ -146,4 +146,23 @@ export async function ensureSchema() {
   await pool.query(`CREATE INDEX IF NOT EXISTS idx_restaurants_slug ON restaurants(slug)`);
   await pool.query(`CREATE INDEX IF NOT EXISTS idx_restaurants_metros ON restaurants USING GIN(metros)`);
   await pool.query(`CREATE INDEX IF NOT EXISTS idx_restaurants_name_lower ON restaurants(lower(name))`);
+
+  // Telemetry events (unified tracking for monetization data)
+  await pool.query(`
+    CREATE TABLE IF NOT EXISTS telemetry_events (
+      id SERIAL PRIMARY KEY,
+      event TEXT NOT NULL,
+      session_id TEXT,
+      ref TEXT,
+      metro TEXT,
+      campus TEXT,
+      props JSONB DEFAULT '{}',
+      created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+    )
+  `);
+  await pool.query(`CREATE INDEX IF NOT EXISTS idx_telemetry_event ON telemetry_events(event)`);
+  await pool.query(`CREATE INDEX IF NOT EXISTS idx_telemetry_session ON telemetry_events(session_id)`);
+  await pool.query(`CREATE INDEX IF NOT EXISTS idx_telemetry_created ON telemetry_events(created_at)`);
+  await pool.query(`CREATE INDEX IF NOT EXISTS idx_telemetry_ref ON telemetry_events(ref)`);
+  await pool.query(`CREATE INDEX IF NOT EXISTS idx_telemetry_campus ON telemetry_events(campus)`);
 }

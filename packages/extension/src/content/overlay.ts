@@ -257,6 +257,36 @@ function showOverlay(match: DirectMatch, deliveryPlatform: string) {
         chosenPlatform: 'direct',
       },
     }).catch(() => {});
+
+    // #6: Track redirect engagement — did they likely complete an order?
+    // We can't track the restaurant site directly, but we can track that
+    // the user clicked through and didn't immediately bounce back
+    const clickTime = Date.now();
+    const checkBounce = () => {
+      // If user comes back to this tab within 10s, they bounced
+      // If they stay away 60s+, likely ordering
+      const elapsed = Date.now() - clickTime;
+      if (elapsed > 60000) {
+        fetch(`${API_BASE}/api/telemetry`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            event: 'likely_order',
+            restaurant: match.name,
+            metro: localStorage.getItem('_e_metro') || 'unknown',
+            directUrl: match.directUrl,
+            timeAwayMs: elapsed,
+          }),
+        }).catch(() => {});
+        document.removeEventListener('visibilitychange', onVisChange);
+      }
+    };
+    const onVisChange = () => {
+      if (document.visibilityState === 'visible') checkBounce();
+    };
+    document.addEventListener('visibilitychange', onVisChange);
+    // Clean up after 10 minutes
+    setTimeout(() => document.removeEventListener('visibilitychange', onVisChange), 600000);
   });
 
   setTimeout(() => {
@@ -410,8 +440,33 @@ async function detectAndShow() {
 
   if (match) {
     showOverlay(match, platform);
+    // Track impression event
+    fetch(`${API_BASE}/api/telemetry`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        event: 'overlay_shown',
+        restaurant: name,
+        metro: localStorage.getItem('_e_metro') || 'unknown',
+        platform,
+        hasMatch: true,
+        directUrl: match.directUrl,
+      }),
+    }).catch(() => {});
   } else {
     showNoMatchOverlay(name, platform);
+    // Track no-match event — critical for Toast/ChowNow pitch
+    fetch(`${API_BASE}/api/telemetry`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        event: 'no_match',
+        restaurant: name,
+        metro: localStorage.getItem('_e_metro') || 'unknown',
+        platform,
+        pageUrl: location.href,
+      }),
+    }).catch(() => {});
   }
 }
 
