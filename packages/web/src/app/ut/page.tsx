@@ -253,6 +253,38 @@ export default function UTPage({
         <p style={{ textAlign: 'center', color: '#64748b', fontSize: '13px', marginTop: '16px' }}>
           ...and 44 more. Eddy works on any restaurant page on DoorDash, Uber Eats, or Grubhub.
         </p>
+
+        <div style={{
+          marginTop: '40px',
+          background: '#0f172a',
+          border: '1px solid #1e293b',
+          borderRadius: '12px',
+          padding: '24px',
+          textAlign: 'center'
+        }}>
+          <h3 style={{ fontSize: '18px', fontWeight: 600, color: '#f8fafc', marginBottom: '8px' }}>
+            Missing your favorite spot?
+          </h3>
+          <p style={{ color: '#94a3b8', fontSize: '15px', marginBottom: '16px' }}>
+            Tell us what restaurants or features we should add to Eddy.
+          </p>
+          <a
+            href="mailto:jon@eddy.delivery?subject=Eddy%20UT%20Feature%20Request"
+            style={{
+              display: 'inline-block',
+              background: '#334155',
+              color: '#f8fafc',
+              textDecoration: 'none',
+              padding: '10px 20px',
+              borderRadius: '8px',
+              fontWeight: 500,
+              fontSize: '14px',
+              transition: 'background 0.2s',
+            }}
+          >
+            Send Feedback
+          </a>
+        </div>
       </section>
 
       {/* Social proof / FAQ */}
