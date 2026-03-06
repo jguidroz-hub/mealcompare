@@ -43,8 +43,8 @@ export default function RefCapture() {
 function sendRef(ref: string) {
   // Try to send ref to extension via external messaging
   try {
-    if (typeof chrome !== 'undefined' && chrome.runtime?.sendMessage) {
-      chrome.runtime.sendMessage(EXTENSION_ID, {
+    if (typeof window !== 'undefined' && (window as any).chrome && (window as any).chrome.runtime?.sendMessage) {
+      (window as any).chrome.runtime.sendMessage(EXTENSION_ID, {
         type: 'SET_REF',
         payload: { ref },
       }, () => {
