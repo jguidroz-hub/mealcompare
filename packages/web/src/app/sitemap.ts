@@ -9,11 +9,12 @@ const METROS = [
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const base = 'https://skipthefee.app';
+  const base = 'https://eddy.delivery';
   const now = new Date();
 
   const staticPages: MetadataRoute.Sitemap = [
     { url: base, lastModified: now, changeFrequency: 'weekly', priority: 1 },
+    { url: `${base}/ut`, lastModified: now, changeFrequency: 'weekly', priority: 0.95 },
     { url: `${base}/restaurants`, lastModified: now, changeFrequency: 'weekly', priority: 0.9 },
     { url: `${base}/how-it-works`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/savings`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },

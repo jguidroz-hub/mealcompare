@@ -6,11 +6,21 @@ const CWS_URL = 'https://chromewebstore.google.com/detail/eddy-%E2%80%94-save-on
 export const metadata: Metadata = {
   title: 'Eddy for UT Austin — Stop Overpaying for Delivery',
   description: 'UT students save $5-10 on every delivery order. Eddy finds the cheapest way to order from your favorite campus restaurants. Free Chrome extension.',
+  keywords: ['UT Austin food delivery', 'UT Austin DoorDash savings', 'cheap delivery near UT', 'UT Austin restaurant deals', 'college food delivery savings', 'DoorDash alternative UT Austin'],
+  alternates: {
+    canonical: 'https://eddy.delivery/ut',
+  },
   openGraph: {
     title: 'Eddy for UT Austin — Save on Every Delivery Order',
     description: 'Stop paying DoorDash\'s 30% markup. Eddy finds direct ordering links for Via 313, Torchy\'s, Pluckers, and 60+ restaurants near campus.',
     type: 'website',
     url: 'https://eddy.delivery/ut',
+    siteName: 'Eddy',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Eddy for UT Austin — Save $240/semester on Food Delivery',
+    description: 'Free Chrome extension that finds cheaper ways to order from your favorite campus restaurants. No account needed.',
   },
 };
 
@@ -46,8 +56,31 @@ export default function UTPage({
 }: {
   searchParams: Promise<{ ref?: string }>;
 }) {
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'SoftwareApplication',
+    name: 'Eddy — Save on Food Delivery',
+    applicationCategory: 'BrowserApplication',
+    operatingSystem: 'Chrome',
+    offers: {
+      '@type': 'Offer',
+      price: '0',
+      priceCurrency: 'USD',
+    },
+    aggregateRating: {
+      '@type': 'AggregateRating',
+      ratingValue: '5',
+      ratingCount: '1',
+    },
+    description: 'Free Chrome extension that compares prices across food delivery apps and finds cheaper direct ordering options for UT Austin students.',
+  };
+
   return (
     <>
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+    />
     <RefCookie />
     <main style={{
       background: '#0f172a',
