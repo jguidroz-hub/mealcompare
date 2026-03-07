@@ -217,7 +217,25 @@ async function getUberEatsQuote(
     const stores = (searchData?.data ?? []).filter((s: any) => s.type === 'store');
     if (stores.length === 0) return null;
 
-    const store = stores[0].store;
+    // Find the best name match — don't blindly take the first result
+    const normalizedQuery = restaurantName.toLowerCase().replace(/[^a-z0-9]/g, '');
+    let bestStore = null;
+    let bestScore = 0;
+    for (const s of stores) {
+      const storeName = (s.store?.title || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+      // Check if one contains the other, or significant overlap
+      const score = storeName.includes(normalizedQuery) ? 1.0
+        : normalizedQuery.includes(storeName) ? 0.9
+        : normalizedQuery.split('').filter((c: string) => storeName.includes(c)).length / Math.max(normalizedQuery.length, 1);
+      if (score > bestScore) {
+        bestScore = score;
+        bestStore = s.store;
+      }
+    }
+    // Require at least 60% character overlap to avoid wrong-restaurant matches
+    if (!bestStore || bestScore < 0.6) return null;
+
+    const store = bestStore;
     if (!store?.uuid) return null;
 
     // Get menu
