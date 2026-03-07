@@ -70,6 +70,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/blog/cheapest-food-delivery-austin`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/blog/cheapest-food-delivery-houston`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/blog/cheapest-food-delivery-dallas`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/blog/cheapest-food-delivery-san-antonio`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/blog/cheapest-food-delivery-chicago`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/blog/cheapest-food-delivery-nyc`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/blog/cheapest-food-delivery-la`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/privacy`, lastModified: now, changeFrequency: 'monthly', priority: 0.3 },
   ];
 

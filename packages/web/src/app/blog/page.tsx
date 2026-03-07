@@ -36,6 +36,38 @@ const posts = [
     readTime: '7 min read',
   },
   {
+    slug: 'cheapest-food-delivery-san-antonio',
+    title: 'Cheapest Food Delivery in San Antonio (2026): Real Prices Compared',
+    description: 'We compared DoorDash, Uber Eats, and direct ordering for popular San Antonio restaurants. Order direct and save 15-30%.',
+    date: 'March 7, 2026',
+    tag: 'San Antonio',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'cheapest-food-delivery-chicago',
+    title: 'Cheapest Food Delivery in Chicago (2026): Beat the Markup',
+    description: 'Chicago delivery app prices are 20-35% higher than ordering direct — plus Chicago\'s delivery surcharge. Here\'s how to save.',
+    date: 'March 7, 2026',
+    tag: 'Chicago',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'cheapest-food-delivery-nyc',
+    title: 'Cheapest Food Delivery in NYC (2026): Dodge the App Fees',
+    description: 'NYC food delivery app fees are the highest in the country. We compared real prices for popular NYC restaurants.',
+    date: 'March 7, 2026',
+    tag: 'NYC',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'cheapest-food-delivery-la',
+    title: 'Cheapest Food Delivery in Los Angeles (2026): Save on Every Order',
+    description: 'LA food delivery markup averages 25-35%. We compared DoorDash, Uber Eats, and direct ordering for popular LA restaurants.',
+    date: 'March 7, 2026',
+    tag: 'Los Angeles',
+    readTime: '8 min read',
+  },
+  {
     slug: 'doordash-markup-explained',
     title: 'DoorDash Markup Explained: Why Your Food Costs 30% More',
     description: 'DoorDash charges restaurants 15-30% commission, and restaurants raise menu prices to cover it. Here\'s exactly how much more you\'re paying.',
@@ -94,6 +126,10 @@ const TAG_COLORS: Record<string, { bg: string; text: string }> = {
   Austin: { bg: '#f0fdf4', text: '#16a34a' },
   Houston: { bg: '#fef2f2', text: '#dc2626' },
   Dallas: { bg: '#f5f3ff', text: '#7c3aed' },
+  'San Antonio': { bg: '#fef3c7', text: '#b45309' },
+  Chicago: { bg: '#ecfdf5', text: '#047857' },
+  NYC: { bg: '#fef2f2', text: '#dc2626' },
+  'Los Angeles': { bg: '#fff7ed', text: '#c2410c' },
 };
 
 export default function BlogIndex() {
