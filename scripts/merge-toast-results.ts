@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 
-const metros = ['houston', 'dallas', 'chicago', 'nyc', 'la'];
+const metros = ['houston', 'dallas', 'chicago', 'nyc', 'la', 'sf', 'miami', 'atlanta'];
 
 let newDirectUrls = 0;
 
