@@ -92,6 +92,46 @@ const posts = [
     readTime: '7 min read',
   },
   {
+    slug: 'cheapest-food-delivery-boston',
+    title: 'Cheapest Food Delivery in Boston (2026): Skip the App Markup',
+    description: 'Boston delivery app prices are 20-30% higher than ordering direct. We compared real prices for popular Boston restaurants.',
+    date: 'March 7, 2026',
+    tag: 'Boston',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'cheapest-food-delivery-seattle',
+    title: 'Cheapest Food Delivery in Seattle (2026): Order Direct & Save',
+    description: 'Seattle delivery app markup averages 25-35%. Plus the $0.75 delivery surcharge. Here\'s how to avoid it.',
+    date: 'March 7, 2026',
+    tag: 'Seattle',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'cheapest-food-delivery-denver',
+    title: 'Cheapest Food Delivery in Denver (2026): Ditch the App Fees',
+    description: 'Denver delivery apps charge 20-30% more than ordering direct. We compared real prices for popular Denver restaurants.',
+    date: 'March 7, 2026',
+    tag: 'Denver',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'cheapest-food-delivery-philly',
+    title: 'Cheapest Food Delivery in Philadelphia (2026): Real Prices Compared',
+    description: 'Philly delivery apps charge 20-35% more than ordering direct. We compared real prices for popular Philadelphia restaurants.',
+    date: 'March 7, 2026',
+    tag: 'Philadelphia',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'cheapest-food-delivery-dc',
+    title: 'Cheapest Food Delivery in Washington DC (2026): Cut the Fees',
+    description: 'DC delivery apps charge 25-35% more than ordering direct despite the commission cap. Here\'s how to save.',
+    date: 'March 7, 2026',
+    tag: 'Washington DC',
+    readTime: '7 min read',
+  },
+  {
     slug: 'doordash-markup-explained',
     title: 'DoorDash Markup Explained: Why Your Food Costs 30% More',
     description: 'DoorDash charges restaurants 15-30% commission, and restaurants raise menu prices to cover it. Here\'s exactly how much more you\'re paying.',
@@ -157,6 +197,11 @@ const TAG_COLORS: Record<string, { bg: string; text: string }> = {
   'San Francisco': { bg: '#fdf4ff', text: '#a21caf' },
   Miami: { bg: '#ecfeff', text: '#0e7490' },
   Atlanta: { bg: '#fef9c3', text: '#a16207' },
+  Boston: { bg: '#fef2f2', text: '#b91c1c' },
+  Seattle: { bg: '#ecfdf5', text: '#065f46' },
+  Denver: { bg: '#f0fdf4', text: '#166534' },
+  Philadelphia: { bg: '#eff6ff', text: '#1d4ed8' },
+  'Washington DC': { bg: '#f5f3ff', text: '#6d28d9' },
 };
 
 export default function BlogIndex() {
