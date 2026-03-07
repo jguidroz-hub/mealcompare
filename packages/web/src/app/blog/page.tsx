@@ -156,6 +156,14 @@ const posts = [
     readTime: '7 min read',
   },
   {
+    slug: 'is-doordash-worth-it',
+    title: 'Is DoorDash Worth It in 2026? We Did the Math',
+    description: 'DoorDash charges 30-40% more than ordering direct. We calculated the real cost for different ordering habits.',
+    date: 'March 7, 2026',
+    tag: 'Research',
+    readTime: '10 min read',
+  },
+  {
     slug: 'how-to-save-on-doordash',
     title: '11 Ways to Save Money on DoorDash in 2026',
     description: 'Proven tips to cut your DoorDash bill by 30-50%. From free delivery hacks to the one trick most people miss.',
