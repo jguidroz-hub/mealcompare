@@ -1,8 +1,9 @@
 {
   "name": "Eddy — Save on Food Delivery",
   "short_name": "Eddy",
-  "description": "Compare delivery apps and find the cheapest way to order food. 9,300+ restaurants, 30 cities.",
+  "description": "Find direct ordering for 13,900+ restaurants in 30 cities. Skip DoorDash fees and order direct.",
   "start_url": "/search",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#2563EB",
@@ -16,5 +17,12 @@
   "categories": ["food", "shopping", "utilities"],
   "screenshots": [
     { "src": "/screenshots/mobile-1.png", "sizes": "390x844", "type": "image/png", "form_factor": "narrow" }
-  ]
+  ],
+  "share_target": {
+    "action": "/search",
+    "method": "GET",
+    "params": {
+      "text": "q"
+    }
+  }
 }

@@ -1,5 +1,5 @@
-const CACHE_NAME = 'eddy-v1';
-const STATIC_ASSETS = ['/', '/restaurants', '/offline'];
+const CACHE_NAME = 'eddy-v2';
+const STATIC_ASSETS = ['/', '/search', '/metros', '/offline'];
 
 // Install — cache shell
 self.addEventListener('install', (event) => {

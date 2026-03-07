@@ -52,6 +52,15 @@ export default function SearchPage() {
   const [loading, setLoading] = useState(false);
   const [searched, setSearched] = useState(false);
 
+  // Handle share target & URL params (PWA share, deep links)
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const q = params.get('q');
+    const m = params.get('metro');
+    if (q) setQuery(q);
+    if (m) setMetro(m);
+  }, []);
+
   const search = useCallback(async () => {
     if (query.length < 2) return;
     setLoading(true);
