@@ -6,6 +6,9 @@ export const metadata: Metadata = {
   title: 'Eddy — Find the cheapest way to order food',
   description: 'Eddy compares DoorDash, Uber Eats, Grubhub, and direct restaurant ordering. Find the cheapest option every time. Free forever.',
   manifest: '/manifest.json',
+  verification: {
+    google: '6u83v77rUD5O4f4WRFFZzwkjiwR4uh6ro6J0HCON0_E',
+  },
   appleWebApp: {
     capable: true,
     statusBarStyle: 'black-translucent',
