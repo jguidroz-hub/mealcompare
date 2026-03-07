@@ -196,6 +196,30 @@ const posts = [
     readTime: '7 min read',
   },
   {
+    slug: 'cheapest-food-delivery-indianapolis',
+    title: 'Cheapest Food Delivery in Indianapolis (2026): Race to Save',
+    description: 'Indy delivery apps charge 20-30% more. Steak \'n Shake, Chipotle, and more have direct ordering.',
+    date: 'March 7, 2026',
+    tag: 'Indianapolis',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'cheapest-food-delivery-pittsburgh',
+    title: 'Cheapest Food Delivery in Pittsburgh (2026): Pierogi Without the Premium',
+    description: 'Pittsburgh delivery apps charge 20-30% more. Eat\'n Park and others have direct ordering.',
+    date: 'March 7, 2026',
+    tag: 'Pittsburgh',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'cheapest-food-delivery-milwaukee',
+    title: 'Cheapest Food Delivery in Milwaukee (2026): Cheese Curds Without the Wallet Crunch',
+    description: 'Milwaukee delivery apps charge 20-30% more. Culver\'s is Wisconsin-born and has great direct ordering.',
+    date: 'March 7, 2026',
+    tag: 'Milwaukee',
+    readTime: '7 min read',
+  },
+  {
     slug: 'cheapest-food-delivery-charlotte',
     title: 'Cheapest Food Delivery in Charlotte (2026): Queen City Savings Guide',
     description: 'Charlotte delivery apps charge 20-30% more. Bojangles\', Cook Out, and more have direct ordering.',
@@ -349,6 +373,9 @@ const TAG_COLORS: Record<string, { bg: string; text: string }> = {
   Charlotte: { bg: '#dbeafe', text: '#1e40af' },
   Columbus: { bg: '#fef2f2', text: '#991b1b' },
   Raleigh: { bg: '#ecfdf5', text: '#047857' },
+  Indianapolis: { bg: '#e0e7ff', text: '#3730a3' },
+  Pittsburgh: { bg: '#fef9c3', text: '#854d0e' },
+  Milwaukee: { bg: '#fef3c7', text: '#92400e' },
 };
 
 export default function BlogIndex() {
