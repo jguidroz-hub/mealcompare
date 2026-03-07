@@ -5082,5 +5082,1319 @@
       "nyc"
     ],
     "websiteOrderUrl": "https://ordering.chownow.com/order/3603/locations"
+  },
+  {
+    "name": "30thstmarketholeyrollersdonuts",
+    "slug": "30thstmarketholeyrollersdonuts",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://30thstmarketholeyrollersdonuts.toast.site/order/"
+  },
+  {
+    "name": "647coffee",
+    "slug": "647coffee",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://647coffee.toast.site/menu/647coffee/"
+  },
+  {
+    "name": "Afterours",
+    "slug": "afterours",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://afterours.toast.site/"
+  },
+  {
+    "name": "Ahba",
+    "slug": "ahba",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://ahba.toast.site/menu/"
+  },
+  {
+    "name": "Allindiacuisine",
+    "slug": "allindiacuisine",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://allindiacuisine.toast.site/order/"
+  },
+  {
+    "name": "Americanbristo",
+    "slug": "americanbristo",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://americanbristo.toast.site/"
+  },
+  {
+    "name": "Armandospizzeria",
+    "slug": "armandospizzeria",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://armandospizzeria.toast.site/order/"
+  },
+  {
+    "name": "Bacchusatthebeach",
+    "slug": "bacchusatthebeach",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://bacchusatthebeach.toast.site/order/"
+  },
+  {
+    "name": "Bakerscrustessabagel",
+    "slug": "bakerscrustessabagel",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://bakerscrustessabagel.toast.site/order/"
+  },
+  {
+    "name": "Bakery",
+    "slug": "bakery",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://bakery.toast.site/order/"
+  },
+  {
+    "name": "Bangkokcity",
+    "slug": "bangkokcity",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://bangkokcity.toast.site/"
+  },
+  {
+    "name": "Baybreezerestaurantbar",
+    "slug": "baybreezerestaurantbar",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://baybreezerestaurantbar.toast.site/"
+  },
+  {
+    "name": "Blacktapsoho",
+    "slug": "blacktapsoho",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://blacktapsoho.toast.site/order/black-tap-35th/"
+  },
+  {
+    "name": "Bocattoem",
+    "slug": "bocattoem",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://bocattoem.toast.site/order/"
+  },
+  {
+    "name": "Boraborasmoothiecafe",
+    "slug": "boraborasmoothiecafe",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://boraborasmoothiecafe.toast.site/order/bora-bora-astoria-queens-32-18-steinway-street/"
+  },
+  {
+    "name": "Brickstreetmarket",
+    "slug": "brickstreetmarket",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://brickstreetmarket.toast.site/menu/"
+  },
+  {
+    "name": "Brooklyncafe",
+    "slug": "brooklyncafe",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://brooklyncafe.toast.site/order/thebrooklyncafe/"
+  },
+  {
+    "name": "Brooksidemarket",
+    "slug": "brooksidemarket",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://brooksidemarket.toast.site/menu/"
+  },
+  {
+    "name": "Broussards",
+    "slug": "broussards",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://broussards.toast.site/menu/"
+  },
+  {
+    "name": "Brunchrestaurantnewbrunswicknjthebrunchclub",
+    "slug": "brunchrestaurantnewbrunswicknjthebrunchclub",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://brunchrestaurantnewbrunswicknjthebrunchclub.toast.site/"
+  },
+  {
+    "name": "Burkhartspizzaandpub",
+    "slug": "burkhartspizzaandpub",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://burkhartspizzaandpub.toast.site/menu/"
+  },
+  {
+    "name": "Cafeastoria",
+    "slug": "cafeastoria",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://cafeastoria.toast.site/menu/"
+  },
+  {
+    "name": "Cafecitocoffeeshop",
+    "slug": "cafecitocoffeeshop",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://cafecitocoffeeshop.toast.site/"
+  },
+  {
+    "name": "Cafeoneeight",
+    "slug": "cafeoneeight",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://cafeoneeight.toast.site/"
+  },
+  {
+    "name": "Campcolvosbrewingpizzaco",
+    "slug": "campcolvosbrewingpizzaco",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://campcolvosbrewingpizzaco.toast.site/order/"
+  },
+  {
+    "name": "Celinas",
+    "slug": "celinas",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://celinas.toast.site/"
+  },
+  {
+    "name": "Chuystacosdorados",
+    "slug": "chuystacosdorados",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://chuystacosdorados.toast.site/"
+  },
+  {
+    "name": "Cipscoffeeroasters",
+    "slug": "cipscoffeeroasters",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://cipscoffeeroasters.toast.site/order/"
+  },
+  {
+    "name": "Cozycafe",
+    "slug": "cozycafe",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://cozycafe.toast.site/order/"
+  },
+  {
+    "name": "Crabcity",
+    "slug": "crabcity",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://crabcity.toast.site/menu/"
+  },
+  {
+    "name": "Creativecafe",
+    "slug": "creativecafe",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://creativecafe.toast.site/"
+  },
+  {
+    "name": "Crustcrumb",
+    "slug": "crustcrumb",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://crustcrumb.toast.site/menu/"
+  },
+  {
+    "name": "Curbsideontherun",
+    "slug": "curbsideontherun",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://curbsideontherun.toast.site/order/"
+  },
+  {
+    "name": "Curellc",
+    "slug": "curellc",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://curellc.toast.site/"
+  },
+  {
+    "name": "Curritucktradingpost",
+    "slug": "curritucktradingpost",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://curritucktradingpost.toast.site/order/"
+  },
+  {
+    "name": "Dougsdiner",
+    "slug": "dougsdiner",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://dougsdiner.toast.site/order/"
+  },
+  {
+    "name": "Downtownslicehouse",
+    "slug": "downtownslicehouse",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://downtownslicehouse.toast.site/menu/"
+  },
+  {
+    "name": "Eatfantastic",
+    "slug": "eatfantastic",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://eatfantastic.toast.site/menu/"
+  },
+  {
+    "name": "Eattap",
+    "slug": "eattap",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://eattap.toast.site/menu/tap-nyc-astoria-33-07-ditmars-boulevard/"
+  },
+  {
+    "name": "Eattodaynew",
+    "slug": "eattodaynew",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://eattodaynew.toast.site/menu/"
+  },
+  {
+    "name": "Edsmarket",
+    "slug": "edsmarket",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://edsmarket.toast.site/"
+  },
+  {
+    "name": "Elnopalrestaurant",
+    "slug": "elnopalrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://elnopalrestaurant.toast.site/"
+  },
+  {
+    "name": "Fairoaksroost",
+    "slug": "fairoaksroost",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://fairoaksroost.toast.site/menu/"
+  },
+  {
+    "name": "Fastfriendsbeercompany",
+    "slug": "fastfriendsbeercompany",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://fastfriendsbeercompany.toast.site/"
+  },
+  {
+    "name": "Fasttimes",
+    "slug": "fasttimes",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://fasttimes.toast.site/"
+  },
+  {
+    "name": "Flavorafterours",
+    "slug": "flavorafterours",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://flavorafterours.toast.site/"
+  },
+  {
+    "name": "Flavorhiveannandale",
+    "slug": "flavorhiveannandale",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://flavorhiveannandale.toast.site/"
+  },
+  {
+    "name": "Flavorspot",
+    "slug": "flavorspot",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://flavorspot.toast.site/"
+  },
+  {
+    "name": "Foreigndomestic",
+    "slug": "foreigndomestic",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://foreigndomestic.toast.site/order/"
+  },
+  {
+    "name": "Fourstargrilleonline",
+    "slug": "fourstargrilleonline",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://fourstargrilleonline.toast.site/order/"
+  },
+  {
+    "name": "Freshfloursslu",
+    "slug": "freshfloursslu",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://freshfloursslu.toast.site/"
+  },
+  {
+    "name": "Glenviewgrind",
+    "slug": "glenviewgrind",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://glenviewgrind.toast.site/"
+  },
+  {
+    "name": "Goodsugar",
+    "slug": "goodsugar",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://goodsugar.toast.site/"
+  },
+  {
+    "name": "Grandmasnypizza",
+    "slug": "grandmasnypizza",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://grandmasnypizza.toast.site/order/"
+  },
+  {
+    "name": "Grillhouse",
+    "slug": "grillhouse",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://grillhouse.toast.site/order/"
+  },
+  {
+    "name": "Healthyhappycafe",
+    "slug": "healthyhappycafe",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://healthyhappycafe.toast.site/order/"
+  },
+  {
+    "name": "Highfoods",
+    "slug": "highfoods",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://highfoods.toast.site/order/"
+  },
+  {
+    "name": "Hottomatoes",
+    "slug": "hottomatoes",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://hottomatoes.toast.site/menu/"
+  },
+  {
+    "name": "Kelloggsdiner",
+    "slug": "kelloggsdiner",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://kelloggsdiner.toast.site/order/"
+  },
+  {
+    "name": "Kellysmarket Lgtoragz",
+    "slug": "kellysmarket-lgtoragz",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://kellysmarket-lgtoragz.toast.site/order/"
+  },
+  {
+    "name": "Kesostacos",
+    "slug": "kesostacos",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://kesostacos.toast.site/order/kesostacos/"
+  },
+  {
+    "name": "Kindred",
+    "slug": "kindred",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://kindred.toast.site/order/"
+  },
+  {
+    "name": "Kubeh",
+    "slug": "kubeh",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://kubeh.toast.site/"
+  },
+  {
+    "name": "Lanaicitybargrill",
+    "slug": "lanaicitybargrill",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://lanaicitybargrill.toast.site/menu/lcbg/"
+  },
+  {
+    "name": "Latapatiarestaurantbarroundrock",
+    "slug": "latapatiarestaurantbarroundrock",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://latapatiarestaurantbarroundrock.toast.site/order/"
+  },
+  {
+    "name": "Latraviataaustin",
+    "slug": "latraviataaustin",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://latraviataaustin.toast.site/"
+  },
+  {
+    "name": "Lavenderroom",
+    "slug": "lavenderroom",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://lavenderroom.toast.site/"
+  },
+  {
+    "name": "Leones",
+    "slug": "leones",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://leones.toast.site/menu/"
+  },
+  {
+    "name": "Littlejsbakeshoppecoffee",
+    "slug": "littlejsbakeshoppecoffee",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://littlejsbakeshoppecoffee.toast.site/order/"
+  },
+  {
+    "name": "Littleyorktavernpizza",
+    "slug": "littleyorktavernpizza",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://littleyorktavernpizza.toast.site/menu/getlytnow/"
+  },
+  {
+    "name": "Lolaonthegrillem",
+    "slug": "lolaonthegrillem",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://lolaonthegrillem.toast.site/"
+  },
+  {
+    "name": "Loscharrosmexicanrestaurant",
+    "slug": "loscharrosmexicanrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://loscharrosmexicanrestaurant.toast.site/menu/"
+  },
+  {
+    "name": "Lotuslight",
+    "slug": "lotuslight",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://lotuslight.toast.site/menu/"
+  },
+  {
+    "name": "Malsbarandgrill",
+    "slug": "malsbarandgrill",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://malsbarandgrill.toast.site/order/"
+  },
+  {
+    "name": "Mothersnorthgrille",
+    "slug": "mothersnorthgrille",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://mothersnorthgrille.toast.site/menu/mothers-grill-north-2450-broad-ave/"
+  },
+  {
+    "name": "Mrbarbecue",
+    "slug": "mrbarbecue",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://mrbarbecue.toast.site/order/"
+  },
+  {
+    "name": "Nchas",
+    "slug": "nchas",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://nchas.toast.site/"
+  },
+  {
+    "name": "Newyorkpizzapie",
+    "slug": "newyorkpizzapie",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://newyorkpizzapie.toast.site/"
+  },
+  {
+    "name": "Newyorkpizzapub",
+    "slug": "newyorkpizzapub",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://newyorkpizzapub.toast.site/order/"
+  },
+  {
+    "name": "Nittystavern",
+    "slug": "nittystavern",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://nittystavern.toast.site/menu/"
+  },
+  {
+    "name": "Nonabistro",
+    "slug": "nonabistro",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://nonabistro.toast.site/menu/"
+  },
+  {
+    "name": "Nycpizzacompany",
+    "slug": "nycpizzacompany",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://nycpizzacompany.toast.site/order/"
+  },
+  {
+    "name": "Nypdpizzalakecay",
+    "slug": "nypdpizzalakecay",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://nypdpizzalakecay.toast.site/"
+  },
+  {
+    "name": "Pappardella",
+    "slug": "pappardella",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://pappardella.toast.site/order/"
+  },
+  {
+    "name": "Pho99",
+    "slug": "pho99",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://pho99.toast.site/order/"
+  },
+  {
+    "name": "Positanositalianrestaurant",
+    "slug": "positanositalianrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://positanositalianrestaurant.toast.site/order/"
+  },
+  {
+    "name": "Pussnbootstavern",
+    "slug": "pussnbootstavern",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://pussnbootstavern.toast.site/order/"
+  },
+  {
+    "name": "Quiquinew",
+    "slug": "quiquinew",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://quiquinew.toast.site/order/"
+  },
+  {
+    "name": "Relishbigtastyburgers",
+    "slug": "relishbigtastyburgers",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://relishbigtastyburgers.toast.site/menu/relish-big-tasty-burgers-archer-road/"
+  },
+  {
+    "name": "Relishrestaurantbar",
+    "slug": "relishrestaurantbar",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://relishrestaurantbar.toast.site/order/"
+  },
+  {
+    "name": "Rosemaryartisanalbagelry",
+    "slug": "rosemaryartisanalbagelry",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://rosemaryartisanalbagelry.toast.site/order/"
+  },
+  {
+    "name": "Rosiepizzabar",
+    "slug": "rosiepizzabar",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://rosiepizzabar.toast.site/"
+  },
+  {
+    "name": "Roundtheclock",
+    "slug": "roundtheclock",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://roundtheclock.toast.site/order/round-the-clock/"
+  },
+  {
+    "name": "Royalroastbeefandseafood",
+    "slug": "royalroastbeefandseafood",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://royalroastbeefandseafood.toast.site/order/"
+  },
+  {
+    "name": "Russosnewyorkpizzeriakatyreserve 68qfrht7",
+    "slug": "russosnewyorkpizzeriakatyreserve-68qfrht7",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://russosnewyorkpizzeriakatyreserve-68qfrht7.toast.site/order/"
+  },
+  {
+    "name": "Ryosushi",
+    "slug": "ryosushi",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://ryosushi.toast.site/menu/"
+  },
+  {
+    "name": "Saigoneatery",
+    "slug": "saigoneatery",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://saigoneatery.toast.site/menu/"
+  },
+  {
+    "name": "Saltedmill",
+    "slug": "saltedmill",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://saltedmill.toast.site/menu/"
+  },
+  {
+    "name": "Sawasdeedanvers",
+    "slug": "sawasdeedanvers",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://sawasdeedanvers.toast.site/order/"
+  },
+  {
+    "name": "Schmackarys Gb5dgrjm",
+    "slug": "schmackarys-gb5dgrjm",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://schmackarys-gb5dgrjm.toast.site/order/"
+  },
+  {
+    "name": "Seafoodsocialeast",
+    "slug": "seafoodsocialeast",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://seafoodsocialeast.toast.site/menu/"
+  },
+  {
+    "name": "Shelliescountrycafe",
+    "slug": "shelliescountrycafe",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://shelliescountrycafe.toast.site/order/"
+  },
+  {
+    "name": "Shuko",
+    "slug": "shuko",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://shuko.toast.site/"
+  },
+  {
+    "name": "Southerncupcoffeecafe",
+    "slug": "southerncupcoffeecafe",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://southerncupcoffeecafe.toast.site/menu/"
+  },
+  {
+    "name": "Splitraileats",
+    "slug": "splitraileats",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://splitraileats.toast.site/order/"
+  },
+  {
+    "name": "Springswings",
+    "slug": "springswings",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://springswings.toast.site/"
+  },
+  {
+    "name": "Streettotable",
+    "slug": "streettotable",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://streettotable.toast.site/"
+  },
+  {
+    "name": "Strouds",
+    "slug": "strouds",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://strouds.toast.site/order/"
+  },
+  {
+    "name": "Suppas",
+    "slug": "suppas",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://suppas.toast.site/order/"
+  },
+  {
+    "name": "Sushilito",
+    "slug": "sushilito",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://sushilito.toast.site/"
+  },
+  {
+    "name": "Sushiya",
+    "slug": "sushiya",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://sushiya.toast.site/menu/"
+  },
+  {
+    "name": "Sushiyama",
+    "slug": "sushiyama",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://sushiyama.toast.site/menu/"
+  },
+  {
+    "name": "Tacoholics",
+    "slug": "tacoholics",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://tacoholics.toast.site/order/tacoholics-brick/"
+  },
+  {
+    "name": "Tapitlocal",
+    "slug": "tapitlocal",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://tapitlocal.toast.site/menu/"
+  },
+  {
+    "name": "Thebeacondiner",
+    "slug": "thebeacondiner",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://thebeacondiner.toast.site/order/"
+  },
+  {
+    "name": "Theborough W1fyxy4g",
+    "slug": "theborough-w1fyxy4g",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://theborough-w1fyxy4g.toast.site/order/"
+  },
+  {
+    "name": "Thebreakfastandburgerclub",
+    "slug": "thebreakfastandburgerclub",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://thebreakfastandburgerclub.toast.site/"
+  },
+  {
+    "name": "Thecask",
+    "slug": "thecask",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://thecask.toast.site/order/"
+  },
+  {
+    "name": "Thecellar",
+    "slug": "thecellar",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://thecellar.toast.site/order/"
+  },
+  {
+    "name": "Thecellarest2024",
+    "slug": "thecellarest2024",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://thecellarest2024.toast.site/menu/"
+  },
+  {
+    "name": "Thegrillthemc",
+    "slug": "thegrillthemc",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://thegrillthemc.toast.site/"
+  },
+  {
+    "name": "Thelaststopkitchen",
+    "slug": "thelaststopkitchen",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://thelaststopkitchen.toast.site/"
+  },
+  {
+    "name": "Thelittlefoodcafe",
+    "slug": "thelittlefoodcafe",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://thelittlefoodcafe.toast.site/menu/"
+  },
+  {
+    "name": "Thelocalbrewingcompany",
+    "slug": "thelocalbrewingcompany",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://thelocalbrewingcompany.toast.site/order/"
+  },
+  {
+    "name": "Thelocaleaterypub",
+    "slug": "thelocaleaterypub",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://thelocaleaterypub.toast.site/menu/local-eatery-pub/"
+  },
+  {
+    "name": "Thelokalrestaurant",
+    "slug": "thelokalrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://thelokalrestaurant.toast.site/"
+  },
+  {
+    "name": "Themetropolitangrillcherishappyplace",
+    "slug": "themetropolitangrillcherishappyplace",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://themetropolitangrillcherishappyplace.toast.site/order/"
+  },
+  {
+    "name": "Themorningfork",
+    "slug": "themorningfork",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://themorningfork.toast.site/"
+  },
+  {
+    "name": "Thepleasantcafe",
+    "slug": "thepleasantcafe",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://thepleasantcafe.toast.site/order/"
+  },
+  {
+    "name": "Thesweetspot",
+    "slug": "thesweetspot",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://thesweetspot.toast.site/"
+  },
+  {
+    "name": "Thesweetspot 068drlt1",
+    "slug": "thesweetspot-068drlt1",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://thesweetspot-068drlt1.toast.site/"
+  },
+  {
+    "name": "Thetakeoutnew",
+    "slug": "thetakeoutnew",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://thetakeoutnew.toast.site/"
+  },
+  {
+    "name": "Thoroughbread",
+    "slug": "thoroughbread",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://thoroughbread.toast.site/order/"
+  },
+  {
+    "name": "Toastcoffeehouse",
+    "slug": "toastcoffeehouse",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://toastcoffeehouse.toast.site/"
+  },
+  {
+    "name": "Tortazo 12a0vp8h",
+    "slug": "tortazo-12a0vp8h",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://tortazo-12a0vp8h.toast.site/order/"
+  },
+  {
+    "name": "Touchofflavor",
+    "slug": "touchofflavor",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://touchofflavor.toast.site/order/"
+  },
+  {
+    "name": "Twogunskitchenelsegundo",
+    "slug": "twogunskitchenelsegundo",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://twogunskitchenelsegundo.toast.site/order/two-guns-espresso-mid-manhattan-beach-875-manhattan-beach-blvd/item-the-stanoff-breakfast-burrito_f8a94959-13c9-4979-8e78-40fcf9ec938a/"
+  },
+  {
+    "name": "Unionjackpubbroadripple",
+    "slug": "unionjackpubbroadripple",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://unionjackpubbroadripple.toast.site/"
+  },
+  {
+    "name": "Uptownprovisionswhittier",
+    "slug": "uptownprovisionswhittier",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://uptownprovisionswhittier.toast.site/menu/uptown-provisions-whittier-12819-penn-street/"
+  },
+  {
+    "name": "Valleykitchen",
+    "slug": "valleykitchen",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://valleykitchen.toast.site/menu/"
+  },
+  {
+    "name": "Vibeskitchenbar",
+    "slug": "vibeskitchenbar",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://vibeskitchenbar.toast.site/menu/"
+  },
+  {
+    "name": "Westonloungeandgrill",
+    "slug": "westonloungeandgrill",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://westonloungeandgrill.toast.site/order/weston-lounge-and-grill-2906-us-highway-33e/item-long-sland_a4136489-90d8-4810-8cbe-370509b3ddd1/"
+  },
+  {
+    "name": "Westsidecantina",
+    "slug": "westsidecantina",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://westsidecantina.toast.site/menu/"
+  },
+  {
+    "name": "Winnerbakery",
+    "slug": "winnerbakery",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://winnerbakery.toast.site/menu/winner-bakery-on-brooklyn/"
+  },
+  {
+    "name": "Youronlyfriend",
+    "slug": "youronlyfriend",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://youronlyfriend.toast.site/menu/your-only-friend-1114-9th-street-northwest/"
+  },
+  {
+    "name": "Zabbputawnbrooklyn",
+    "slug": "zabbputawnbrooklyn",
+    "category": "restaurant",
+    "metros": [
+      "nyc"
+    ],
+    "toastUrl": "https://zabbputawnbrooklyn.toast.site/"
   }
 ]
