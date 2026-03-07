@@ -28,7 +28,35 @@ const UE_HEADERS: Record<string, string> = {
 
 const METRO_COORDS: Record<string, { lat: number; lng: number; taxRate: number }> = {
   austin: { lat: 30.2672, lng: -97.7431, taxRate: 0.0825 },
+  nyc: { lat: 40.7128, lng: -74.0060, taxRate: 0.08875 },
+  chicago: { lat: 41.8781, lng: -87.6298, taxRate: 0.1025 },
+  la: { lat: 34.0522, lng: -118.2437, taxRate: 0.095 },
+  sf: { lat: 37.7749, lng: -122.4194, taxRate: 0.08625 },
+  boston: { lat: 42.3601, lng: -71.0589, taxRate: 0.0625 },
+  miami: { lat: 25.7617, lng: -80.1918, taxRate: 0.07 },
   dc: { lat: 38.9072, lng: -77.0369, taxRate: 0.10 },
+  houston: { lat: 29.7604, lng: -95.3698, taxRate: 0.0825 },
+  atlanta: { lat: 33.7490, lng: -84.3880, taxRate: 0.089 },
+  seattle: { lat: 47.6062, lng: -122.3321, taxRate: 0.1025 },
+  denver: { lat: 39.7392, lng: -104.9903, taxRate: 0.0877 },
+  philly: { lat: 39.9526, lng: -75.1652, taxRate: 0.08 },
+  nashville: { lat: 36.1627, lng: -86.7816, taxRate: 0.0975 },
+  nola: { lat: 29.9511, lng: -90.0715, taxRate: 0.0945 },
+  dallas: { lat: 32.7767, lng: -96.7970, taxRate: 0.0825 },
+  phoenix: { lat: 33.4484, lng: -112.0740, taxRate: 0.086 },
+  portland: { lat: 45.5152, lng: -122.6784, taxRate: 0.0 },
+  detroit: { lat: 42.3314, lng: -83.0458, taxRate: 0.06 },
+  minneapolis: { lat: 44.9778, lng: -93.2650, taxRate: 0.08025 },
+  charlotte: { lat: 35.2271, lng: -80.8431, taxRate: 0.0725 },
+  tampa: { lat: 27.9506, lng: -82.4572, taxRate: 0.075 },
+  sandiego: { lat: 32.7157, lng: -117.1611, taxRate: 0.0775 },
+  stlouis: { lat: 38.6270, lng: -90.1994, taxRate: 0.09679 },
+  pittsburgh: { lat: 40.4406, lng: -79.9959, taxRate: 0.07 },
+  columbus: { lat: 39.9612, lng: -82.9988, taxRate: 0.075 },
+  indianapolis: { lat: 39.7684, lng: -86.1581, taxRate: 0.09 },
+  milwaukee: { lat: 43.0389, lng: -87.9065, taxRate: 0.056 },
+  raleigh: { lat: 35.7796, lng: -78.6382, taxRate: 0.0725 },
+  baltimore: { lat: 39.2904, lng: -76.6122, taxRate: 0.06 },
 };
 
 interface CompareBody {
@@ -102,8 +130,9 @@ export async function POST(req: NextRequest) {
       }
     }
 
-    // Direct ordering (always include)
-    quotes.push(await estimateDirectQuote(restaurantName, items, coords, metro));
+    // Direct ordering — only include if we have a verified URL
+    const directQuote = await estimateDirectQuote(restaurantName, items, coords, metro);
+    if (directQuote) quotes.push(directQuote);
 
     // Pickup option (always cheapest if available)
     quotes.push(estimatePickupQuote(restaurantName, items, coords));
@@ -345,26 +374,26 @@ async function estimateDirectQuote(
   items: CartItem[],
   coords: { lat: number; lng: number; taxRate: number },
   metro?: string
-): Promise<PlatformQuote> {
+): Promise<PlatformQuote | null> {
+  // Only return a direct quote if we have a VERIFIED ordering URL
+  const knownRestaurant = await findRestaurantData(restaurantName, metro);
+  const directUrl = knownRestaurant ? getDirectOrderUrl(knownRestaurant) : null;
+  
+  if (!directUrl) return null; // Don't show fake "direct" options
+
   const platformSubtotal = items.reduce((s, i) => s + i.price * i.quantity, 0);
   const directSubtotal = Math.round(platformSubtotal * 0.88); // ~12% lower (no commission markup)
   const tax = Math.round(directSubtotal * coords.taxRate);
-  const deliveryFee = 499;
-
-  // Look up known direct ordering URL from restaurant database
-  const knownRestaurant = await findRestaurantData(restaurantName, metro);
-  const directUrl = knownRestaurant ? getDirectOrderUrl(knownRestaurant) : null;
-  const deepLink = directUrl ?? `https://www.google.com/search?q=${encodeURIComponent(restaurantName + ' order online direct')}`;
-  const confidence = directUrl ? 0.8 : 0.5; // Higher confidence if we have a known URL
+  const deliveryFee = 299; // Direct ordering typically has lower delivery fees
 
   return {
     platform: 'direct',
-    restaurant: { name: `${restaurantName} (Direct)`, platformUrl: directUrl ?? undefined },
+    restaurant: { name: `${restaurantName} (Direct)`, platformUrl: directUrl },
     fees: { subtotal: directSubtotal, platformMarkup: directSubtotal - platformSubtotal, serviceFee: 0, deliveryFee, smallOrderFee: 0, tax, tip: 0, discount: 0, total: directSubtotal + deliveryFee + tax },
     estimatedMinutes: null,
     available: true,
-    deepLink,
-    confidence,
+    deepLink: directUrl,
+    confidence: 0.85,
     capturedAt: new Date().toISOString(),
   };
 }
