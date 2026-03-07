@@ -61,32 +61,56 @@ const posts = [
   },
 ];
 
+const TAG_COLORS: Record<string, { bg: string; text: string }> = {
+  Research: { bg: '#fef2f2', text: '#dc2626' },
+  'Student Guide': { bg: '#eff6ff', text: '#2563eb' },
+  Savings: { bg: '#f0fdf4', text: '#16a34a' },
+  Guide: { bg: '#fefce8', text: '#ca8a04' },
+  Comparison: { bg: '#f5f3ff', text: '#7c3aed' },
+};
+
 export default function BlogIndex() {
   return (
-    <main className="min-h-screen bg-white">
-      <div className="max-w-3xl mx-auto px-6 py-16">
-        <div className="mb-4">
-          <Link href="/" className="text-emerald-600 hover:text-emerald-700 text-sm">← Back to Eddy</Link>
-        </div>
-        <h1 className="text-4xl font-bold text-gray-900 mb-4">Blog</h1>
-        <p className="text-gray-500 text-lg mb-12">Research, tips, and guides on saving money on food delivery.</p>
+    <main style={{ background: '#fff', color: '#111', minHeight: '100vh', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif' }}>
+      <div style={{ maxWidth: 720, margin: '0 auto', padding: '60px 24px' }}>
+        <Link href="/" style={{ color: '#2563eb', textDecoration: 'none', fontSize: 14, fontWeight: 500 }}>← Back to Eddy</Link>
+        
+        <h1 style={{ fontSize: 40, fontWeight: 800, marginTop: 24, marginBottom: 8, letterSpacing: '-0.03em' }}>Blog</h1>
+        <p style={{ color: '#6b7280', fontSize: 18, marginBottom: 48, lineHeight: 1.5 }}>
+          Research, tips, and guides on saving money on food delivery.
+        </p>
 
-        <div className="space-y-8">
-          {posts.map((post) => (
-            <Link
-              key={post.slug}
-              href={`/blog/${post.slug}`}
-              className="block border border-gray-200 rounded-xl p-6 hover:border-emerald-300 hover:shadow-md transition"
-            >
-              <div className="flex items-center gap-3 mb-3">
-                <span className="text-xs font-medium px-2 py-0.5 rounded bg-emerald-100 text-emerald-700">{post.tag}</span>
-                <span className="text-xs text-gray-400">{post.date}</span>
-                <span className="text-xs text-gray-400">· {post.readTime}</span>
-              </div>
-              <h2 className="text-xl font-bold text-gray-900 mb-2">{post.title}</h2>
-              <p className="text-gray-500">{post.description}</p>
-            </Link>
-          ))}
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 24 }}>
+          {posts.map((post) => {
+            const tagColor = TAG_COLORS[post.tag] || TAG_COLORS.Guide;
+            return (
+              <Link
+                key={post.slug}
+                href={`/blog/${post.slug}`}
+                style={{
+                  display: 'block',
+                  border: '1px solid #e5e7eb',
+                  borderRadius: 16,
+                  padding: '28px 28px',
+                  textDecoration: 'none',
+                  color: 'inherit',
+                  transition: 'box-shadow 0.2s, border-color 0.2s',
+                }}
+              >
+                <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 12 }}>
+                  <span style={{
+                    fontSize: 12, fontWeight: 600,
+                    padding: '3px 10px', borderRadius: 999,
+                    background: tagColor.bg, color: tagColor.text,
+                  }}>{post.tag}</span>
+                  <span style={{ fontSize: 13, color: '#9ca3af' }}>{post.date}</span>
+                  <span style={{ fontSize: 13, color: '#9ca3af' }}>· {post.readTime}</span>
+                </div>
+                <h2 style={{ fontSize: 20, fontWeight: 700, color: '#111', marginBottom: 8, lineHeight: 1.3 }}>{post.title}</h2>
+                <p style={{ fontSize: 15, color: '#6b7280', lineHeight: 1.6, margin: 0 }}>{post.description}</p>
+              </Link>
+            );
+          })}
         </div>
       </div>
     </main>
