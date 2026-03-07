@@ -65,6 +65,118 @@ const METRO_CONFIG: Record<string, { areas: string[]; zips: string[] }> = {
       '78756', '78757', '78758', '78759', '78613', '78664', '78665',
     ],
   },
+  houston: {
+    areas: [
+      'Houston TX', 'Downtown Houston', 'Montrose Houston', 'The Heights Houston',
+      'Midtown Houston', 'Rice Village Houston', 'Upper Kirby Houston', 'River Oaks Houston',
+      'EaDo Houston', 'Katy TX', 'Sugar Land TX', 'The Woodlands TX',
+      'Pearland TX', 'Cypress TX', 'Spring TX', 'League City TX',
+    ],
+    zips: [
+      '77002', '77003', '77004', '77005', '77006', '77007', '77008', '77009',
+      '77010', '77019', '77020', '77021', '77025', '77027', '77030', '77042',
+      '77043', '77055', '77056', '77057', '77058', '77062', '77077', '77079',
+      '77094', '77339', '77450', '77478', '77479', '77494',
+    ],
+  },
+  dallas: {
+    areas: [
+      'Dallas TX', 'Deep Ellum Dallas', 'Uptown Dallas', 'Bishop Arts Dallas',
+      'Lower Greenville Dallas', 'Knox Henderson Dallas', 'Design District Dallas',
+      'Fort Worth TX', 'Plano TX', 'Frisco TX', 'Arlington TX', 'McKinney TX',
+      'Denton TX', 'Richardson TX', 'Garland TX', 'Irving TX',
+    ],
+    zips: [
+      '75201', '75202', '75204', '75205', '75206', '75207', '75209', '75214',
+      '75215', '75219', '75226', '75240', '75243', '75248', '75252', '75254',
+      '76102', '76104', '76107', '76109', '76116', '76132', '75023', '75024',
+      '75034', '75035', '75070', '75071', '75080', '75081',
+    ],
+  },
+  chicago: {
+    areas: [
+      'Chicago IL', 'River North Chicago', 'Wicker Park Chicago', 'Lincoln Park Chicago',
+      'Logan Square Chicago', 'West Loop Chicago', 'Lakeview Chicago', 'Bucktown Chicago',
+      'Pilsen Chicago', 'Hyde Park Chicago', 'Old Town Chicago', 'Chinatown Chicago',
+      'Evanston IL', 'Oak Park IL', 'Naperville IL', 'Schaumburg IL',
+    ],
+    zips: [
+      '60601', '60602', '60603', '60604', '60605', '60606', '60607', '60608',
+      '60610', '60611', '60612', '60613', '60614', '60615', '60616', '60618',
+      '60622', '60623', '60625', '60626', '60630', '60631', '60634', '60640',
+      '60647', '60657', '60660', '60661', '60201', '60202',
+    ],
+  },
+  nyc: {
+    areas: [
+      'Manhattan NYC', 'Brooklyn NYC', 'Williamsburg Brooklyn', 'East Village NYC',
+      'West Village NYC', 'Chelsea NYC', 'SoHo NYC', 'Lower East Side NYC',
+      'Upper West Side NYC', 'Upper East Side NYC', 'Harlem NYC', "Hell's Kitchen NYC",
+      'Bushwick Brooklyn', 'Park Slope Brooklyn', 'Astoria Queens', 'Long Island City Queens',
+    ],
+    zips: [
+      '10001', '10002', '10003', '10004', '10005', '10006', '10007', '10009',
+      '10010', '10011', '10012', '10013', '10014', '10016', '10017', '10018',
+      '10019', '10021', '10022', '10023', '10024', '10025', '10028', '10029',
+      '10036', '10128', '11201', '11211', '11215', '11101',
+    ],
+  },
+  la: {
+    areas: [
+      'Los Angeles CA', 'Hollywood CA', 'Silver Lake Los Angeles', 'Echo Park Los Angeles',
+      'Venice Beach CA', 'Santa Monica CA', 'West Hollywood CA', 'Beverly Hills CA',
+      'Koreatown Los Angeles', 'Downtown Los Angeles', 'Culver City CA', 'Glendale CA',
+      'Pasadena CA', 'Burbank CA', 'Long Beach CA', 'Torrance CA',
+    ],
+    zips: [
+      '90001', '90004', '90005', '90006', '90007', '90012', '90013', '90014',
+      '90015', '90017', '90019', '90020', '90024', '90025', '90026', '90027',
+      '90028', '90029', '90034', '90035', '90036', '90038', '90039', '90046',
+      '90048', '90064', '90066', '90069', '90210', '90401',
+    ],
+  },
+  sf: {
+    areas: [
+      'San Francisco CA', 'Mission District SF', 'SoMa San Francisco', 'Castro SF',
+      'North Beach SF', 'Nob Hill SF', 'Haight Ashbury SF', 'Marina SF',
+      'Financial District SF', 'Sunset SF', 'Richmond SF', 'Tenderloin SF',
+      'Oakland CA', 'Berkeley CA', 'San Jose CA', 'Palo Alto CA',
+    ],
+    zips: [
+      '94102', '94103', '94104', '94105', '94107', '94108', '94109', '94110',
+      '94111', '94112', '94114', '94115', '94116', '94117', '94118', '94121',
+      '94122', '94123', '94124', '94127', '94131', '94132', '94133', '94134',
+      '94158', '94601', '94602', '94609', '94704', '94301',
+    ],
+  },
+  miami: {
+    areas: [
+      'Miami FL', 'South Beach Miami', 'Wynwood Miami', 'Brickell Miami',
+      'Little Havana Miami', 'Coral Gables FL', 'Coconut Grove Miami',
+      'Miami Beach FL', 'Fort Lauderdale FL', 'Hollywood FL',
+      'Aventura FL', 'Doral FL', 'Hialeah FL', 'Kendall FL',
+    ],
+    zips: [
+      '33101', '33109', '33125', '33127', '33128', '33129', '33130', '33131',
+      '33132', '33133', '33134', '33135', '33136', '33137', '33139', '33140',
+      '33141', '33142', '33143', '33144', '33145', '33146', '33149', '33154',
+      '33156', '33160', '33166', '33172', '33301', '33304',
+    ],
+  },
+  atlanta: {
+    areas: [
+      'Atlanta GA', 'Midtown Atlanta', 'Buckhead Atlanta', 'Decatur GA',
+      'Virginia Highland Atlanta', 'Inman Park Atlanta', 'Old Fourth Ward Atlanta',
+      'East Atlanta Village', 'Ponce City Market', 'Westside Atlanta',
+      'Sandy Springs GA', 'Marietta GA', 'Roswell GA', 'Alpharetta GA',
+    ],
+    zips: [
+      '30301', '30303', '30305', '30306', '30307', '30308', '30309', '30310',
+      '30312', '30313', '30314', '30316', '30317', '30318', '30319', '30324',
+      '30326', '30327', '30328', '30329', '30030', '30033', '30060', '30062',
+      '30075', '30076', '30097', '30338', '30339', '30342',
+    ],
+  },
 };
 
 // ─── Brave Search ──────────────────────────────────────────────
@@ -118,7 +230,8 @@ async function discoverViaBrave(metro: string): Promise<Map<string, string>> {
 
   // Also search with "order" and "food" keywords
   for (const kw of ['order food', 'delivery', 'takeout', 'menu']) {
-    const query = `site:toast.site ${metro === 'dc' ? 'Washington DC' : 'Austin TX'} ${kw}`;
+    const metroLabel = config.areas[0] || metro;
+    const query = `site:toast.site ${metroLabel} ${kw}`;
     const urls = await braveSearch(query, 20);
     for (const url of urls) {
       if (!discovered.has(url)) discovered.set(url, query);
