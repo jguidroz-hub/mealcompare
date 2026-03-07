@@ -320,6 +320,48 @@ export default function Home() {
         </div>
       </section>
 
+      {/* ═══ CAMPUS PAGES ═══ */}
+      <section style={{ maxWidth: 1120, margin: '0 auto', padding: '60px 24px 40px' }}>
+        <h2 style={{ fontSize: 24, fontWeight: 800, textAlign: 'center', marginBottom: 8, letterSpacing: '-0.02em' }}>
+          Find your school
+        </h2>
+        <p style={{ textAlign: 'center', color: C.stone500, fontSize: 15, marginBottom: 32, maxWidth: 500, margin: '0 auto 32px' }}>
+          Eddy works everywhere, but we built custom pages for 40+ campuses with local restaurant savings.
+        </p>
+        <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8, justifyContent: 'center', maxWidth: 900, margin: '0 auto' }}>
+          {[
+            { href: '/ut', label: 'UT Austin' }, { href: '/tamu', label: 'Texas A&M' },
+            { href: '/nyu', label: 'NYU' }, { href: '/ucla', label: 'UCLA' },
+            { href: '/usc', label: 'USC' }, { href: '/uchicago', label: 'UChicago' },
+            { href: '/osu', label: 'Ohio State' }, { href: '/asu', label: 'ASU' },
+            { href: '/gatech', label: 'Georgia Tech' }, { href: '/bu', label: 'Boston U' },
+            { href: '/northeastern', label: 'Northeastern' }, { href: '/georgetown', label: 'Georgetown' },
+            { href: '/gwu', label: 'GWU' }, { href: '/upenn', label: 'UPenn' },
+            { href: '/temple', label: 'Temple' }, { href: '/tulane', label: 'Tulane' },
+            { href: '/vanderbilt', label: 'Vanderbilt' }, { href: '/uw', label: 'UW Seattle' },
+            { href: '/um', label: 'Miami' }, { href: '/smu', label: 'SMU' },
+            { href: '/ucsd', label: 'UCSD' }, { href: '/umn', label: 'Minnesota' },
+            { href: '/usf', label: 'USF' }, { href: '/cu', label: 'CU Boulder' },
+            { href: '/pitt', label: 'Pitt' }, { href: '/ncstate', label: 'NC State' },
+            { href: '/marquette', label: 'Marquette' }, { href: '/uncc', label: 'UNC Charlotte' },
+            { href: '/wayne', label: 'Wayne State' }, { href: '/jhu', label: 'Johns Hopkins' },
+            { href: '/butler', label: 'Butler' }, { href: '/berkeley', label: 'UC Berkeley' },
+            { href: '/washu', label: 'WashU' }, { href: '/psu', label: 'Portland State' },
+            { href: '/rice', label: 'Rice' }, { href: '/tcu', label: 'TCU' },
+            { href: '/baylor', label: 'Baylor' }, { href: '/txst', label: 'Texas State' },
+            { href: '/utd', label: 'UT Dallas' }, { href: '/utsa', label: 'UTSA' },
+            { href: '/uh', label: 'UH' },
+          ].map(s => (
+            <Link key={s.href} href={s.href} style={{
+              background: C.stone100, color: C.stone700,
+              padding: '8px 16px', borderRadius: 8, fontSize: 13, fontWeight: 600,
+              textDecoration: 'none', border: `1px solid ${C.stone200}`,
+              transition: 'all 0.15s',
+            }}>{s.label}</Link>
+          ))}
+        </div>
+      </section>
+
       {/* ═══ FOOTER ═══ */}
       <footer className="status-bar">
         <span><span className="status-dot" />All systems online</span>
