@@ -12,6 +12,30 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'cheapest-food-delivery-austin',
+    title: 'Cheapest Food Delivery in Austin (2026): Skip the Markup',
+    description: 'We compared DoorDash, Uber Eats, Grubhub, and direct ordering for 20 popular Austin restaurants. Here\'s how to get the cheapest delivery every time.',
+    date: 'March 7, 2026',
+    tag: 'Austin',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'cheapest-food-delivery-houston',
+    title: 'Cheapest Food Delivery in Houston (2026): Real Price Comparisons',
+    description: 'We compared DoorDash, Uber Eats, Grubhub, and direct ordering for popular Houston restaurants. Here\'s how to pay less every time.',
+    date: 'March 7, 2026',
+    tag: 'Houston',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'cheapest-food-delivery-dallas',
+    title: 'Cheapest Food Delivery in Dallas (2026): Stop Overpaying',
+    description: 'DoorDash and Uber Eats charge 15-30% more than ordering direct. We compared real prices for popular DFW restaurants.',
+    date: 'March 7, 2026',
+    tag: 'Dallas',
+    readTime: '7 min read',
+  },
+  {
     slug: 'doordash-markup-explained',
     title: 'DoorDash Markup Explained: Why Your Food Costs 30% More',
     description: 'DoorDash charges restaurants 15-30% commission, and restaurants raise menu prices to cover it. Here\'s exactly how much more you\'re paying.',
@@ -67,6 +91,9 @@ const TAG_COLORS: Record<string, { bg: string; text: string }> = {
   Savings: { bg: '#f0fdf4', text: '#16a34a' },
   Guide: { bg: '#fefce8', text: '#ca8a04' },
   Comparison: { bg: '#f5f3ff', text: '#7c3aed' },
+  Austin: { bg: '#f0fdf4', text: '#16a34a' },
+  Houston: { bg: '#fef2f2', text: '#dc2626' },
+  Dallas: { bg: '#f5f3ff', text: '#7c3aed' },
 };
 
 export default function BlogIndex() {
