@@ -68,6 +68,30 @@ const posts = [
     readTime: '8 min read',
   },
   {
+    slug: 'cheapest-food-delivery-sf',
+    title: 'Cheapest Food Delivery in San Francisco (2026): Skip the App Tax',
+    description: 'SF food delivery fees are among the highest in the US. We compared DoorDash, Uber Eats, and direct ordering for popular Bay Area restaurants.',
+    date: 'March 7, 2026',
+    tag: 'San Francisco',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'cheapest-food-delivery-miami',
+    title: 'Cheapest Food Delivery in Miami (2026): Beat the Markup',
+    description: 'Miami food delivery apps charge 20-35% more than ordering direct. Here\'s how to save on Pollo Tropical, Flanigan\'s, and more.',
+    date: 'March 7, 2026',
+    tag: 'Miami',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'cheapest-food-delivery-atlanta',
+    title: 'Cheapest Food Delivery in Atlanta (2026): Order Direct & Save',
+    description: 'Atlanta delivery markup averages 20-30%. Real prices for Chick-fil-A, Wingstop, Zaxby\'s and more.',
+    date: 'March 7, 2026',
+    tag: 'Atlanta',
+    readTime: '7 min read',
+  },
+  {
     slug: 'doordash-markup-explained',
     title: 'DoorDash Markup Explained: Why Your Food Costs 30% More',
     description: 'DoorDash charges restaurants 15-30% commission, and restaurants raise menu prices to cover it. Here\'s exactly how much more you\'re paying.',
@@ -130,6 +154,9 @@ const TAG_COLORS: Record<string, { bg: string; text: string }> = {
   Chicago: { bg: '#ecfdf5', text: '#047857' },
   NYC: { bg: '#fef2f2', text: '#dc2626' },
   'Los Angeles': { bg: '#fff7ed', text: '#c2410c' },
+  'San Francisco': { bg: '#fdf4ff', text: '#a21caf' },
+  Miami: { bg: '#ecfeff', text: '#0e7490' },
+  Atlanta: { bg: '#fef9c3', text: '#a16207' },
 };
 
 export default function BlogIndex() {

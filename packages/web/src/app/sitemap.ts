@@ -74,6 +74,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/blog/cheapest-food-delivery-chicago`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/blog/cheapest-food-delivery-nyc`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/blog/cheapest-food-delivery-la`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/blog/cheapest-food-delivery-sf`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/blog/cheapest-food-delivery-miami`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/blog/cheapest-food-delivery-atlanta`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/privacy`, lastModified: now, changeFrequency: 'monthly', priority: 0.3 },
   ];
 
