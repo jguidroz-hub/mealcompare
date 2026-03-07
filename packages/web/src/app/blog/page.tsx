@@ -132,6 +132,30 @@ const posts = [
     readTime: '7 min read',
   },
   {
+    slug: 'cheapest-food-delivery-nashville',
+    title: 'Cheapest Food Delivery in Nashville (2026): Hot Chicken Without the Hot Fees',
+    description: 'Nashville delivery apps charge 20-30% more than ordering direct. Plus Tennessee\'s 9.25% sales tax on the inflated price.',
+    date: 'March 7, 2026',
+    tag: 'Nashville',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'cheapest-food-delivery-portland',
+    title: 'Cheapest Food Delivery in Portland (2026): Keep It Weird, Keep It Cheap',
+    description: 'Portland delivery apps still charge 20-30% more even without sales tax. We compared real prices.',
+    date: 'March 7, 2026',
+    tag: 'Portland',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'cheapest-food-delivery-phoenix',
+    title: 'Cheapest Food Delivery in Phoenix (2026): Beat the Desert Markup',
+    description: 'Phoenix sprawl means higher delivery fees. We compared DoorDash, Uber Eats, and direct ordering.',
+    date: 'March 7, 2026',
+    tag: 'Phoenix',
+    readTime: '7 min read',
+  },
+  {
     slug: 'how-to-save-on-doordash',
     title: '11 Ways to Save Money on DoorDash in 2026',
     description: 'Proven tips to cut your DoorDash bill by 30-50%. From free delivery hacks to the one trick most people miss.',
@@ -226,6 +250,10 @@ const TAG_COLORS: Record<string, { bg: string; text: string }> = {
   Denver: { bg: '#f0fdf4', text: '#166534' },
   Philadelphia: { bg: '#eff6ff', text: '#1d4ed8' },
   'Washington DC': { bg: '#f5f3ff', text: '#6d28d9' },
+  Nashville: { bg: '#fef3c7', text: '#92400e' },
+  Portland: { bg: '#ecfdf5', text: '#047857' },
+  Phoenix: { bg: '#fff7ed', text: '#9a3412' },
+  Tips: { bg: '#f0fdf4', text: '#16a34a' },
 };
 
 export default function BlogIndex() {
