@@ -69,6 +69,7 @@ export default function Home() {
             <Link href="/restaurants" className="desktop-only" style={{ color: C.stone500, textDecoration: 'none', fontSize: 14, fontWeight: 500, padding: '6px 14px' }}>Browse</Link>
             <Link href="/my-benefits" className="desktop-only" style={{ color: C.stone500, textDecoration: 'none', fontSize: 14, fontWeight: 500, padding: '6px 14px' }}>💳 My Benefits</Link>
             <Link href="/for-restaurants" className="desktop-only" style={{ color: C.stone500, textDecoration: 'none', fontSize: 14, fontWeight: 500, padding: '6px 14px' }}>For Restaurants</Link>
+            <Link href="/blog" className="desktop-only" style={{ color: C.stone500, textDecoration: 'none', fontSize: 14, fontWeight: 500, padding: '6px 14px' }}>Blog</Link>
             <Link href="/install" style={{
               marginLeft: 6, background: C.blue, color: C.white,
               padding: '8px 22px', borderRadius: 8, fontSize: 14, fontWeight: 700,
@@ -367,6 +368,7 @@ export default function Home() {
         <span><span className="status-dot" />All systems online</span>
         <Link href="/for-restaurants">For Restaurants</Link>
         <Link href="/how-it-works">How It Works</Link>
+        <Link href="/blog">Blog</Link>
         <Link href="/privacy">Privacy</Link>
         <a href="mailto:jon@eddy.delivery">Contact</a>
         <Link href="/restaurants">Restaurants</Link>
