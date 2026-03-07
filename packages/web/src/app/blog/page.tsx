@@ -196,6 +196,38 @@ const posts = [
     readTime: '7 min read',
   },
   {
+    slug: 'cheapest-food-delivery-charlotte',
+    title: 'Cheapest Food Delivery in Charlotte (2026): Queen City Savings Guide',
+    description: 'Charlotte delivery apps charge 20-30% more. Bojangles\', Cook Out, and more have direct ordering.',
+    date: 'March 7, 2026',
+    tag: 'Charlotte',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'cheapest-food-delivery-columbus',
+    title: 'Cheapest Food Delivery in Columbus (2026): Buckeye Budget Guide',
+    description: 'Columbus delivery apps charge 20-30% more. Chipotle was founded here — and has great direct ordering.',
+    date: 'March 7, 2026',
+    tag: 'Columbus',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'cheapest-food-delivery-raleigh',
+    title: 'Cheapest Food Delivery in Raleigh-Durham (2026): Triangle Savings Guide',
+    description: 'Triangle delivery apps charge 20-30% more. NC State, Duke, and UNC students can save big.',
+    date: 'March 7, 2026',
+    tag: 'Raleigh',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'why-is-uber-eats-so-expensive',
+    title: 'Why Is Uber Eats So Expensive? The Real Math (2026)',
+    description: 'Uber Eats charges 30-45% more than ordering direct. We break down every fee layer with real numbers.',
+    date: 'March 7, 2026',
+    tag: 'Research',
+    readTime: '8 min read',
+  },
+  {
     slug: 'food-delivery-fees-explained',
     title: 'Food Delivery Fees Explained: Every Fee the Apps Charge',
     description: 'A complete breakdown of every fee DoorDash, Uber Eats, and Grubhub charge — and how to avoid each one.',
@@ -314,6 +346,9 @@ const TAG_COLORS: Record<string, { bg: string; text: string }> = {
   Tampa: { bg: '#fef9c3', text: '#854d0e' },
   'San Diego': { bg: '#fef3c7', text: '#92400e' },
   'New Orleans': { bg: '#fce7f3', text: '#9d174d' },
+  Charlotte: { bg: '#dbeafe', text: '#1e40af' },
+  Columbus: { bg: '#fef2f2', text: '#991b1b' },
+  Raleigh: { bg: '#ecfdf5', text: '#047857' },
 };
 
 export default function BlogIndex() {
