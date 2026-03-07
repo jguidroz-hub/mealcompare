@@ -1,9 +1,12 @@
 {
   "manifest_version": 3,
-  "name": "Eddy — Save on Food Delivery",
+  "name": "Eddy \u2014 Save on Food Delivery",
   "description": "Compares prices across delivery apps and finds cheaper direct ordering options. Real price detection, 19,000+ restaurants.",
-  "version": "0.5.0",
-  "permissions": ["storage", "alarms"],
+  "version": "0.5.1",
+  "permissions": [
+    "storage",
+    "alarms"
+  ],
   "host_permissions": [
     "https://www.doordash.com/*",
     "https://www.ubereats.com/*",
@@ -23,27 +26,46 @@
         "https://www.ubereats.com/*",
         "https://www.grubhub.com/*"
       ],
-      "js": ["content/overlay.js"],
+      "js": [
+        "content/overlay.js"
+      ],
       "run_at": "document_idle"
     },
     {
-      "matches": ["https://www.doordash.com/*"],
-      "js": ["content/doordash.js"],
+      "matches": [
+        "https://www.doordash.com/*"
+      ],
+      "js": [
+        "content/doordash.js"
+      ],
       "run_at": "document_idle"
     },
     {
-      "matches": ["https://www.ubereats.com/*"],
-      "js": ["content/ubereats.js"],
+      "matches": [
+        "https://www.ubereats.com/*"
+      ],
+      "js": [
+        "content/ubereats.js"
+      ],
       "run_at": "document_idle"
     },
     {
-      "matches": ["https://www.grubhub.com/*"],
-      "js": ["content/grubhub.js"],
+      "matches": [
+        "https://www.grubhub.com/*"
+      ],
+      "js": [
+        "content/grubhub.js"
+      ],
       "run_at": "document_idle"
     },
     {
-      "matches": ["https://*.toast.site/*", "https://order.toasttab.com/*"],
-      "js": ["content/toast-scraper.js"],
+      "matches": [
+        "https://*.toast.site/*",
+        "https://order.toasttab.com/*"
+      ],
+      "js": [
+        "content/toast-scraper.js"
+      ],
       "run_at": "document_idle"
     },
     {
@@ -52,7 +74,9 @@
         "https://www.ubereats.com/*",
         "https://www.grubhub.com/*"
       ],
-      "js": ["content/autofill.js"],
+      "js": [
+        "content/autofill.js"
+      ],
       "run_at": "document_idle"
     }
   ],
@@ -80,7 +104,10 @@
   "options_page": "options/options.html",
   "web_accessible_resources": [
     {
-      "resources": ["assets/*", "chunks/*"],
+      "resources": [
+        "assets/*",
+        "chunks/*"
+      ],
       "matches": [
         "https://www.doordash.com/*",
         "https://www.ubereats.com/*",

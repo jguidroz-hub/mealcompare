@@ -80,7 +80,8 @@ function wasRecentlyShown(name: string): boolean {
   try {
     const shown = JSON.parse(localStorage.getItem(SHOWN_KEY) || '{}');
     const ts = shown[name.toLowerCase()];
-    return ts ? Date.now() - ts < 24 * 60 * 60 * 1000 : false;
+    // Only suppress for 30 minutes (was 24h — too aggressive, users thought it was broken)
+    return ts ? Date.now() - ts < 30 * 60 * 1000 : false;
   } catch { return false; }
 }
 
@@ -470,16 +471,34 @@ async function detectAndShow() {
   }
 }
 
-// SPA navigation watcher
+// SPA navigation watcher — handles DoorDash/UberEats client-side routing
 let lastUrl = location.href;
-const obs = new MutationObserver(() => {
+
+function onNavChange() {
   if (location.href !== lastUrl) {
     lastUrl = location.href;
     document.querySelector('.' + HOST_CLASS)?.remove();
     lastDetected = '';
     setTimeout(detectAndShow, 1500);
   }
-});
+}
+
+const obs = new MutationObserver(onNavChange);
 obs.observe(document.body, { childList: true, subtree: true });
+
+// Also catch popstate/hashchange (DoorDash uses both for SPA nav)
+window.addEventListener('popstate', () => { lastUrl = ''; onNavChange(); });
+window.addEventListener('hashchange', () => { lastUrl = ''; onNavChange(); });
+
+// Also re-check when title changes (DoorDash updates title on store nav)
+new MutationObserver(() => {
+  const name = extractRestaurantName();
+  if (name && name !== lastDetected) {
+    // New restaurant detected via title change
+    document.querySelector('.' + HOST_CLASS)?.remove();
+    lastDetected = '';
+    detectAndShow();
+  }
+}).observe(document.querySelector('title') || document.head, { childList: true, characterData: true, subtree: true });
 
 setTimeout(detectAndShow, 2000);
