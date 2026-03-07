@@ -69,6 +69,9 @@ export default function Home() {
             <Link href="/restaurants" className="desktop-only" style={{ color: C.stone500, textDecoration: 'none', fontSize: 14, fontWeight: 500, padding: '6px 14px' }}>Browse</Link>
             <Link href="/my-benefits" className="desktop-only" style={{ color: C.stone500, textDecoration: 'none', fontSize: 14, fontWeight: 500, padding: '6px 14px' }}>💳 My Benefits</Link>
             <Link href="/for-restaurants" className="desktop-only" style={{ color: C.stone500, textDecoration: 'none', fontSize: 14, fontWeight: 500, padding: '6px 14px' }}>For Restaurants</Link>
+            <Link href="/search" className="desktop-only" style={{ color: C.stone500, textDecoration: 'none', fontSize: 14, fontWeight: 500, padding: '6px 14px' }}>Search</Link>
+            <Link href="/search" className="desktop-only" style={{ color: C.stone500, textDecoration: 'none', fontSize: 14, fontWeight: 500, padding: '6px 14px' }}>Search</Link>
+            <Link href="/metros" className="desktop-only" style={{ color: C.stone500, textDecoration: 'none', fontSize: 14, fontWeight: 500, padding: '6px 14px' }}>Cities</Link>
             <Link href="/blog" className="desktop-only" style={{ color: C.stone500, textDecoration: 'none', fontSize: 14, fontWeight: 500, padding: '6px 14px' }}>Blog</Link>
             <Link href="/install" style={{
               marginLeft: 6, background: C.blue, color: C.white,
@@ -367,6 +370,7 @@ export default function Home() {
       <footer className="status-bar">
         <span><span className="status-dot" />All systems online</span>
         <Link href="/for-restaurants">For Restaurants</Link>
+        <Link href="/search">Search</Link>
         <Link href="/how-it-works">How It Works</Link>
         <Link href="/blog">Blog</Link>
         <Link href="/privacy">Privacy</Link>

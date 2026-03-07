@@ -1,29 +1,38 @@
 import { NextResponse } from 'next/server';
-import { getRestaurantsForMetro, getDirectOrderUrl, getAllMetros } from '@/lib/restaurants';
+import { ALL_RESTAURANTS, getDirectOrderUrl } from '@mealcompare/engine/src/data/top-restaurants';
 
 /**
- * GET /api/stats — Landing page stats (from Postgres)
- * Counts per-metro (a chain in 30 metros = counted 30 times)
- * for consistency with how the homepage displays coverage.
+ * Public stats API — aggregate data for partnership pitches and public pages.
+ * GET /api/stats
  */
 export async function GET() {
-  const metros = await getAllMetros();
-  let total = 0;
-  let directOrder = 0;
+  const total = ALL_RESTAURANTS.length;
+  const withDirect = ALL_RESTAURANTS.filter(r => getDirectOrderUrl(r)).length;
+  const toastCount = ALL_RESTAURANTS.filter(r => r.toastUrl).length;
+  const squareCount = ALL_RESTAURANTS.filter(r => r.squareUrl).length;
+  const websiteCount = ALL_RESTAURANTS.filter(r => r.websiteOrderUrl && !r.toastUrl && !r.squareUrl).length;
 
-  for (const metro of metros) {
-    const restaurants = await getRestaurantsForMetro(metro);
-    total += restaurants.length;
-    directOrder += restaurants.filter(r => getDirectOrderUrl(r)).length;
-  }
+  // Metro breakdown
+  const metroSet = new Set<string>();
+  ALL_RESTAURANTS.forEach(r => r.metros.forEach(m => metroSet.add(m)));
+  const metros = Array.from(metroSet).sort().map(metro => {
+    const restaurants = ALL_RESTAURANTS.filter(r => r.metros.includes(metro));
+    const direct = restaurants.filter(r => getDirectOrderUrl(r));
+    return {
+      metro,
+      total: restaurants.length,
+      directOrdering: direct.length,
+      coverage: Math.round((direct.length / restaurants.length) * 100),
+      toast: restaurants.filter(r => r.toastUrl).length,
+    };
+  });
 
   return NextResponse.json({
     totalRestaurants: total,
-    directOrderRestaurants: directOrder,
-    metros,
+    directOrderingUrls: withDirect,
+    platforms: { toast: toastCount, square: squareCount, website: websiteCount },
     metroCount: metros.length,
-    avgSavingsPercent: 18,
-  }, {
-    headers: { 'Cache-Control': 'public, s-maxage=300, stale-while-revalidate=600' },
+    metros,
+    lastUpdated: '2026-03-07',
   });
 }

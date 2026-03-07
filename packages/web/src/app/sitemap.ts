@@ -14,6 +14,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const staticPages: MetadataRoute.Sitemap = [
     { url: base, lastModified: now, changeFrequency: 'weekly', priority: 1 },
+    { url: `${base}/search`, lastModified: now, changeFrequency: 'weekly', priority: 0.95 },
     { url: `${base}/ut`, lastModified: now, changeFrequency: 'weekly', priority: 0.95 },
     { url: `${base}/tamu`, lastModified: now, changeFrequency: 'weekly', priority: 0.9 },
     { url: `${base}/txst`, lastModified: now, changeFrequency: 'weekly', priority: 0.9 },
@@ -90,6 +91,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/blog/cheapest-food-delivery-tampa`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/blog/cheapest-food-delivery-san-diego`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/blog/cheapest-food-delivery-new-orleans`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/blog/cheapest-food-delivery-st-louis`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/blog/cheapest-food-delivery-baltimore`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/search`, lastModified: now, changeFrequency: 'weekly', priority: 0.9 },
+    { url: `${base}/metros`, lastModified: now, changeFrequency: 'weekly', priority: 0.9 },
     { url: `${base}/blog/cheapest-food-delivery-indianapolis`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/blog/cheapest-food-delivery-pittsburgh`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/blog/cheapest-food-delivery-milwaukee`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },

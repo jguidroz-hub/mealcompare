@@ -196,6 +196,22 @@ const posts = [
     readTime: '7 min read',
   },
   {
+    slug: 'cheapest-food-delivery-st-louis',
+    title: 'Cheapest Food Delivery in St. Louis (2026): T-Ravs Without the Fee Trap',
+    description: 'St. Louis delivery apps charge 20-30% more. Bread Co., Lion\'s Choice, and more have direct ordering.',
+    date: 'March 7, 2026',
+    tag: 'St. Louis',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'cheapest-food-delivery-baltimore',
+    title: 'Cheapest Food Delivery in Baltimore (2026): Crab Cakes Without the Surcharge',
+    description: 'Baltimore delivery apps charge 20-30% more. We compared DoorDash and direct ordering.',
+    date: 'March 7, 2026',
+    tag: 'Baltimore',
+    readTime: '7 min read',
+  },
+  {
     slug: 'cheapest-food-delivery-indianapolis',
     title: 'Cheapest Food Delivery in Indianapolis (2026): Race to Save',
     description: 'Indy delivery apps charge 20-30% more. Steak \'n Shake, Chipotle, and more have direct ordering.',
@@ -376,6 +392,8 @@ const TAG_COLORS: Record<string, { bg: string; text: string }> = {
   Indianapolis: { bg: '#e0e7ff', text: '#3730a3' },
   Pittsburgh: { bg: '#fef9c3', text: '#854d0e' },
   Milwaukee: { bg: '#fef3c7', text: '#92400e' },
+  'St. Louis': { bg: '#fef2f2', text: '#dc2626' },
+  Baltimore: { bg: '#e0f2fe', text: '#0369a1' },
 };
 
 export default function BlogIndex() {
