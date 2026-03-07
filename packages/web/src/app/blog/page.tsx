@@ -156,6 +156,14 @@ const posts = [
     readTime: '7 min read',
   },
   {
+    slug: 'food-delivery-fees-explained',
+    title: 'Food Delivery Fees Explained: Every Fee the Apps Charge',
+    description: 'A complete breakdown of every fee DoorDash, Uber Eats, and Grubhub charge — and how to avoid each one.',
+    date: 'March 7, 2026',
+    tag: 'Research',
+    readTime: '8 min read',
+  },
+  {
     slug: 'is-doordash-worth-it',
     title: 'Is DoorDash Worth It in 2026? We Did the Math',
     description: 'DoorDash charges 30-40% more than ordering direct. We calculated the real cost for different ordering habits.',

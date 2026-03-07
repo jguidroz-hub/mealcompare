@@ -85,6 +85,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/blog/cheapest-food-delivery-nashville`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/blog/cheapest-food-delivery-portland`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/blog/cheapest-food-delivery-phoenix`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/blog/food-delivery-fees-explained`, lastModified: now, changeFrequency: 'monthly', priority: 0.85 },
     { url: `${base}/blog/is-doordash-worth-it`, lastModified: now, changeFrequency: 'monthly', priority: 0.85 },
     { url: `${base}/blog/cheapest-food-delivery-sf`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/blog/cheapest-food-delivery-miami`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
