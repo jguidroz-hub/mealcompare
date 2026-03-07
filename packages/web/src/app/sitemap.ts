@@ -67,6 +67,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/blog/food-delivery-price-comparison`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
     { url: `${base}/blog/direct-ordering-saves-money`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
     { url: `${base}/blog/best-food-delivery-apps-compared`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${base}/blog/cheapest-food-delivery-austin`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/blog/cheapest-food-delivery-houston`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/blog/cheapest-food-delivery-dallas`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/privacy`, lastModified: now, changeFrequency: 'monthly', priority: 0.3 },
   ];
 
