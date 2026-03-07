@@ -60,6 +60,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/savings`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
     { url: `${base}/for-restaurants`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/install`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${base}/blog`, lastModified: now, changeFrequency: 'weekly', priority: 0.8 },
+    { url: `${base}/blog/doordash-markup-explained`, lastModified: now, changeFrequency: 'monthly', priority: 0.75 },
+    { url: `${base}/blog/college-food-delivery-savings`, lastModified: now, changeFrequency: 'monthly', priority: 0.75 },
+    { url: `${base}/blog/credit-card-food-delivery-rewards`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${base}/blog/food-delivery-price-comparison`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${base}/blog/direct-ordering-saves-money`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${base}/blog/best-food-delivery-apps-compared`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
     { url: `${base}/privacy`, lastModified: now, changeFrequency: 'monthly', priority: 0.3 },
   ];
 

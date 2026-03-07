@@ -12,6 +12,22 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'doordash-markup-explained',
+    title: 'DoorDash Markup Explained: Why Your Food Costs 30% More',
+    description: 'DoorDash charges restaurants 15-30% commission, and restaurants raise menu prices to cover it. Here\'s exactly how much more you\'re paying.',
+    date: 'March 6, 2026',
+    tag: 'Research',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'college-food-delivery-savings',
+    title: 'How College Students Can Save $240/Semester on Food Delivery',
+    description: 'The average college student spends $2,400/year on delivery apps. Here\'s the math on how to cut that by 30%.',
+    date: 'March 6, 2026',
+    tag: 'Student Guide',
+    readTime: '6 min read',
+  },
+  {
     slug: 'credit-card-food-delivery-rewards',
     title: 'Best Credit Cards for Food Delivery in 2026: Maximize Your Rewards',
     description: 'Chase Sapphire, Amex Gold, Capital One Savor — which card saves you the most on DoorDash, Uber Eats, and Grubhub?',
