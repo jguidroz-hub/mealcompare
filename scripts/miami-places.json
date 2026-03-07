@@ -4846,5 +4846,41 @@
       "miami"
     ],
     "toastUrl": "https://yummsushi.toast.site/order/yumm-sushi-21073-powerline-road/"
+  },
+  {
+    "name": "Crustcrumb",
+    "slug": "crustcrumb",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://crustcrumb.toast.site/menu/"
+  },
+  {
+    "name": "Oldays",
+    "slug": "oldays",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://oldays.toast.site/order?showAllLocations=true/"
+  },
+  {
+    "name": "Tatersllc",
+    "slug": "tatersllc",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://tatersllc.toast.site/menu/taters-llc-3615-hwy-79-n/group_bd228e2e-7dea-4c60-8d29-9421ecc7e00a/item-street-tacos_0fea2b52-d812-4fa7-b74a-79a9db2c6eab/"
+  },
+  {
+    "name": "Theborough W1fyxy4g",
+    "slug": "theborough-w1fyxy4g",
+    "category": "restaurant",
+    "metros": [
+      "miami"
+    ],
+    "toastUrl": "https://theborough-w1fyxy4g.toast.site/menu/the-borough-10327-42nd-avenue/"
   }
 ]

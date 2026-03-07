@@ -4490,5 +4490,14 @@
       "sf"
     ],
     "toastUrl": "https://youronlyfriend.toast.site/"
+  },
+  {
+    "name": "Royalroastbeefandseafood",
+    "slug": "royalroastbeefandseafood",
+    "category": "restaurant",
+    "metros": [
+      "sf"
+    ],
+    "toastUrl": "https://royalroastbeefandseafood.toast.site/order/"
   }
 ]

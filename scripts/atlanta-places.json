@@ -3951,5 +3951,59 @@
       "atlanta"
     ],
     "toastUrl": "https://youronlyfriend.toast.site/menu/your-only-friend-1114-9th-street-northwest/"
+  },
+  {
+    "name": "Asianthaibistro",
+    "slug": "asianthaibistro",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://asianthaibistro.toast.site/order/"
+  },
+  {
+    "name": "Eattome",
+    "slug": "eattome",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://eattome.toast.site/"
+  },
+  {
+    "name": "Firstlastrestaurant",
+    "slug": "firstlastrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://firstlastrestaurant.toast.site/order/"
+  },
+  {
+    "name": "Restaurantconstance",
+    "slug": "restaurantconstance",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://restaurantconstance.toast.site/order/"
+  },
+  {
+    "name": "Toastcomfortkitchenbar",
+    "slug": "toastcomfortkitchenbar",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://toastcomfortkitchenbar.toast.site/order/"
+  },
+  {
+    "name": "Toastcomfortkitchenbar 2cu1wisx",
+    "slug": "toastcomfortkitchenbar-2cu1wisx",
+    "category": "restaurant",
+    "metros": [
+      "atlanta"
+    ],
+    "toastUrl": "https://toastcomfortkitchenbar-2cu1wisx.toast.site/order/"
   }
 ]

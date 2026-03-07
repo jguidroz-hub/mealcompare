@@ -262,6 +262,62 @@ const METRO_CONFIG: Record<string, { areas: string[]; zips: string[] }> = {
       '97229', '97230', '97231', '97232', '97233', '97005',
     ],
   },
+  phoenix: {
+    areas: ['Phoenix AZ', 'Scottsdale AZ', 'Tempe AZ', 'Mesa AZ', 'Chandler AZ', 'Gilbert AZ', 'Glendale AZ', 'Old Town Scottsdale', 'Downtown Phoenix', 'Arcadia Phoenix', 'Roosevelt Row Phoenix', 'Camelback Phoenix'],
+    zips: ['85003', '85004', '85006', '85007', '85008', '85012', '85013', '85014', '85015', '85016', '85018', '85020', '85021', '85028', '85034', '85040', '85048', '85202', '85204', '85251', '85253', '85254', '85255', '85257', '85281', '85282', '85283', '85284', '85224', '85225'],
+  },
+  minneapolis: {
+    areas: ['Minneapolis MN', 'St Paul MN', 'Uptown Minneapolis', 'Northeast Minneapolis', 'North Loop Minneapolis', 'Dinkytown Minneapolis', 'Edina MN', 'Bloomington MN', 'Plymouth MN', 'Maple Grove MN', 'Eagan MN', 'Burnsville MN'],
+    zips: ['55401', '55402', '55403', '55404', '55405', '55406', '55407', '55408', '55409', '55410', '55411', '55412', '55413', '55414', '55415', '55416', '55417', '55418', '55419', '55420', '55421', '55422', '55423', '55424', '55425', '55101', '55102', '55103', '55104', '55105'],
+  },
+  detroit: {
+    areas: ['Detroit MI', 'Corktown Detroit', 'Midtown Detroit', 'Eastern Market Detroit', 'Ferndale MI', 'Royal Oak MI', 'Birmingham MI', 'Ann Arbor MI', 'Dearborn MI', 'Troy MI', 'Southfield MI', 'Grosse Pointe MI'],
+    zips: ['48201', '48202', '48204', '48206', '48207', '48208', '48209', '48210', '48211', '48213', '48214', '48215', '48216', '48220', '48221', '48223', '48224', '48226', '48227', '48228', '48230', '48234', '48237', '48301', '48009', '48067', '48073', '48104', '48105', '48126'],
+  },
+  tampa: {
+    areas: ['Tampa FL', 'St Petersburg FL', 'Ybor City Tampa', 'SoHo Tampa', 'Hyde Park Tampa', 'Channelside Tampa', 'Seminole Heights Tampa', 'Clearwater FL', 'Brandon FL', 'Wesley Chapel FL', 'Sarasota FL', 'Lakeland FL'],
+    zips: ['33601', '33602', '33603', '33604', '33605', '33606', '33607', '33609', '33610', '33611', '33612', '33613', '33614', '33615', '33616', '33617', '33618', '33619', '33620', '33621', '33624', '33625', '33626', '33629', '33634', '33647', '33701', '33702', '33703', '33704'],
+  },
+  charlotte: {
+    areas: ['Charlotte NC', 'South End Charlotte', 'NoDa Charlotte', 'Plaza Midwood Charlotte', 'Uptown Charlotte', 'Dilworth Charlotte', 'Myers Park Charlotte', 'Huntersville NC', 'Mooresville NC', 'Concord NC', 'Matthews NC', 'Mint Hill NC'],
+    zips: ['28202', '28203', '28204', '28205', '28206', '28207', '28208', '28209', '28210', '28211', '28212', '28213', '28214', '28215', '28216', '28217', '28226', '28227', '28262', '28269', '28270', '28273', '28277', '28278', '28031', '28036', '28078', '28105', '28115', '28117'],
+  },
+  sandiego: {
+    areas: ['San Diego CA', 'North Park San Diego', 'Hillcrest San Diego', 'Gaslamp Quarter San Diego', 'Pacific Beach San Diego', 'La Jolla CA', 'Ocean Beach San Diego', 'Little Italy San Diego', 'Encinitas CA', 'Carlsbad CA', 'Chula Vista CA', 'Escondido CA'],
+    zips: ['92101', '92102', '92103', '92104', '92105', '92106', '92107', '92108', '92109', '92110', '92111', '92113', '92114', '92115', '92116', '92117', '92120', '92122', '92123', '92124', '92126', '92127', '92128', '92130', '92131', '92037', '92024', '92008', '92009', '91910'],
+  },
+  nola: {
+    areas: ['New Orleans LA', 'French Quarter New Orleans', 'Garden District New Orleans', 'Marigny New Orleans', 'Bywater New Orleans', 'Uptown New Orleans', 'Mid City New Orleans', 'Warehouse District New Orleans', 'Treme New Orleans', 'Metairie LA', 'Kenner LA', 'Algiers New Orleans'],
+    zips: ['70112', '70113', '70114', '70115', '70116', '70117', '70118', '70119', '70122', '70124', '70125', '70126', '70127', '70128', '70129', '70130', '70131', '70139', '70001', '70002', '70003', '70005', '70006', '70062', '70065', '70121', '70123', '70032', '70053', '70056'],
+  },
+  raleigh: {
+    areas: ['Raleigh NC', 'Durham NC', 'Chapel Hill NC', 'Downtown Raleigh', 'Glenwood South Raleigh', 'North Hills Raleigh', 'Cary NC', 'Apex NC', 'Morrisville NC', 'Wake Forest NC', 'Holly Springs NC', 'Garner NC'],
+    zips: ['27601', '27603', '27604', '27605', '27606', '27607', '27608', '27609', '27610', '27612', '27613', '27614', '27615', '27616', '27617', '27502', '27511', '27513', '27519', '27523', '27526', '27529', '27540', '27560', '27587', '27701', '27703', '27705', '27707', '27514'],
+  },
+  columbus: {
+    areas: ['Columbus OH', 'Short North Columbus', 'German Village Columbus', 'Clintonville Columbus', 'Grandview Columbus', 'Dublin OH', 'Worthington OH', 'Upper Arlington OH', 'Westerville OH', 'Grove City OH', 'Hilliard OH', 'New Albany OH'],
+    zips: ['43201', '43202', '43203', '43204', '43205', '43206', '43207', '43209', '43210', '43211', '43212', '43213', '43214', '43215', '43216', '43217', '43219', '43220', '43221', '43222', '43223', '43224', '43227', '43228', '43229', '43230', '43016', '43017', '43026', '43065'],
+  },
+  indianapolis: {
+    areas: ['Indianapolis IN', 'Broad Ripple Indianapolis', 'Mass Ave Indianapolis', 'Fountain Square Indianapolis', 'Downtown Indianapolis', 'Carmel IN', 'Fishers IN', 'Noblesville IN', 'Greenwood IN', 'Zionsville IN', 'Westfield IN', 'Lawrence IN'],
+    zips: ['46201', '46202', '46203', '46204', '46205', '46206', '46208', '46214', '46217', '46218', '46219', '46220', '46221', '46222', '46224', '46225', '46226', '46227', '46228', '46229', '46231', '46234', '46235', '46236', '46237', '46240', '46032', '46033', '46037', '46038'],
+  },
+  pittsburgh: {
+    areas: ['Pittsburgh PA', 'Strip District Pittsburgh', 'Lawrenceville Pittsburgh', 'South Side Pittsburgh', 'Oakland Pittsburgh', 'Shadyside Pittsburgh', 'Squirrel Hill Pittsburgh', 'East Liberty Pittsburgh', 'North Shore Pittsburgh', 'Mt Lebanon PA', 'Cranberry Township PA', 'Robinson PA'],
+    zips: ['15201', '15203', '15204', '15205', '15206', '15207', '15208', '15210', '15211', '15212', '15213', '15214', '15215', '15216', '15217', '15218', '15219', '15220', '15221', '15222', '15223', '15224', '15226', '15228', '15229', '15232', '15233', '15234', '15237', '15238'],
+  },
+  milwaukee: {
+    areas: ['Milwaukee WI', 'Third Ward Milwaukee', 'Bay View Milwaukee', 'Walkers Point Milwaukee', 'Brady Street Milwaukee', 'East Side Milwaukee', 'Wauwatosa WI', 'Brookfield WI', 'Shorewood WI', 'Whitefish Bay WI', 'Greenfield WI', 'West Allis WI'],
+    zips: ['53201', '53202', '53203', '53204', '53205', '53206', '53207', '53208', '53209', '53210', '53211', '53212', '53213', '53214', '53215', '53216', '53217', '53218', '53219', '53220', '53221', '53222', '53223', '53224', '53225', '53226', '53227', '53228', '53005', '53045'],
+  },
+  stlouis: {
+    areas: ['St Louis MO', 'Central West End St Louis', 'The Grove St Louis', 'Soulard St Louis', 'Tower Grove St Louis', 'Clayton MO', 'University City MO', 'Maplewood MO', 'Webster Groves MO', 'Kirkwood MO', 'Creve Coeur MO', 'Chesterfield MO'],
+    zips: ['63101', '63102', '63103', '63104', '63106', '63107', '63108', '63109', '63110', '63111', '63112', '63113', '63115', '63116', '63118', '63119', '63120', '63122', '63123', '63124', '63125', '63126', '63128', '63130', '63132', '63134', '63135', '63136', '63139', '63143'],
+  },
+  baltimore: {
+    areas: ['Baltimore MD', 'Fells Point Baltimore', 'Federal Hill Baltimore', 'Canton Baltimore', 'Hampden Baltimore', 'Mt Vernon Baltimore', 'Inner Harbor Baltimore', 'Towson MD', 'Columbia MD', 'Annapolis MD', 'Ellicott City MD', 'Catonsville MD'],
+    zips: ['21201', '21202', '21205', '21206', '21207', '21209', '21210', '21211', '21212', '21213', '21214', '21215', '21216', '21217', '21218', '21223', '21224', '21225', '21226', '21227', '21228', '21229', '21230', '21231', '21234', '21236', '21237', '21239', '21044', '21045'],
+  },
 };
 
 // ─── Brave Search ──────────────────────────────────────────────

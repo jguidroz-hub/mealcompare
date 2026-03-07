@@ -2691,5 +2691,1292 @@
       "minneapolis"
     ],
     "toastUrl": "https://order.toasttab.com/online/very-juice-bar-avenue-p-422-avenue-p"
+  },
+  {
+    "name": "1uparcadeandpub",
+    "slug": "1uparcadeandpub",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://1uparcadeandpub.toast.site/"
+  },
+  {
+    "name": "Abcbrewingcompanyfergusfalls",
+    "slug": "abcbrewingcompanyfergusfalls",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://abcbrewingcompanyfergusfalls.toast.site/order/"
+  },
+  {
+    "name": "Afterours",
+    "slug": "afterours",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://afterours.toast.site/"
+  },
+  {
+    "name": "Ajiichiban",
+    "slug": "ajiichiban",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://ajiichiban.toast.site/menu/"
+  },
+  {
+    "name": "Allindiacuisine",
+    "slug": "allindiacuisine",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://allindiacuisine.toast.site/order/"
+  },
+  {
+    "name": "Americanbristo",
+    "slug": "americanbristo",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://americanbristo.toast.site/"
+  },
+  {
+    "name": "Asianthaibistro",
+    "slug": "asianthaibistro",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://asianthaibistro.toast.site/order/"
+  },
+  {
+    "name": "Aureliasuptown",
+    "slug": "aureliasuptown",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://aureliasuptown.toast.site/"
+  },
+  {
+    "name": "Bakerscorner",
+    "slug": "bakerscorner",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://bakerscorner.toast.site/"
+  },
+  {
+    "name": "Bamrestaurantandlounge",
+    "slug": "bamrestaurantandlounge",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://bamrestaurantandlounge.toast.site/menu/"
+  },
+  {
+    "name": "Bbcm",
+    "slug": "bbcm",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://bbcm.toast.site/"
+  },
+  {
+    "name": "Bbrestaurant",
+    "slug": "bbrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://bbrestaurant.toast.site/menu/b-b-restaurant-34528-u-s-45/"
+  },
+  {
+    "name": "Bromanssammichesbirriaburgers",
+    "slug": "bromanssammichesbirriaburgers",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://bromanssammichesbirriaburgers.toast.site/"
+  },
+  {
+    "name": "Broussards",
+    "slug": "broussards",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://broussards.toast.site/order/"
+  },
+  {
+    "name": "Bruncheonlascolinas",
+    "slug": "bruncheonlascolinas",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://bruncheonlascolinas.toast.site/menu/"
+  },
+  {
+    "name": "Brunosfamilyrestaurantbar",
+    "slug": "brunosfamilyrestaurantbar",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://brunosfamilyrestaurantbar.toast.site/"
+  },
+  {
+    "name": "Burkhartspizzaandpub",
+    "slug": "burkhartspizzaandpub",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://burkhartspizzaandpub.toast.site/menu/"
+  },
+  {
+    "name": "Burritoville",
+    "slug": "burritoville",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://burritoville.toast.site/about/"
+  },
+  {
+    "name": "Burts",
+    "slug": "burts",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://burts.toast.site/"
+  },
+  {
+    "name": "Campcolvosbrewingpizzaco",
+    "slug": "campcolvosbrewingpizzaco",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://campcolvosbrewingpizzaco.toast.site/order/"
+  },
+  {
+    "name": "Chowrasthaindiangrilleatery",
+    "slug": "chowrasthaindiangrilleatery",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://chowrasthaindiangrilleatery.toast.site/order/"
+  },
+  {
+    "name": "Coctellounge",
+    "slug": "coctellounge",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://coctellounge.toast.site/"
+  },
+  {
+    "name": "Crossroadstabletoptavern",
+    "slug": "crossroadstabletoptavern",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://crossroadstabletoptavern.toast.site/menu/"
+  },
+  {
+    "name": "Crustcrumb",
+    "slug": "crustcrumb",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://crustcrumb.toast.site/order/"
+  },
+  {
+    "name": "Cupinis",
+    "slug": "cupinis",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://cupinis.toast.site/"
+  },
+  {
+    "name": "Curbsideontherun",
+    "slug": "curbsideontherun",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://curbsideontherun.toast.site/order/"
+  },
+  {
+    "name": "Dairycream",
+    "slug": "dairycream",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://dairycream.toast.site/"
+  },
+  {
+    "name": "Denverhomecookingtogo",
+    "slug": "denverhomecookingtogo",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://denverhomecookingtogo.toast.site/"
+  },
+  {
+    "name": "Dizengoff",
+    "slug": "dizengoff",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://dizengoff.toast.site/"
+  },
+  {
+    "name": "Dominicsdiner",
+    "slug": "dominicsdiner",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://dominicsdiner.toast.site/"
+  },
+  {
+    "name": "Doubleyolkcafe",
+    "slug": "doubleyolkcafe",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://doubleyolkcafe.toast.site/menu/"
+  },
+  {
+    "name": "Dougsdiner",
+    "slug": "dougsdiner",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://dougsdiner.toast.site/order/"
+  },
+  {
+    "name": "Eagletruckstopandfamilyrestaurant",
+    "slug": "eagletruckstopandfamilyrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://eagletruckstopandfamilyrestaurant.toast.site/order/eagle-truck-stop-and-family-restaurant-217-16th-st/"
+  },
+  {
+    "name": "Eatatwades",
+    "slug": "eatatwades",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://eatatwades.toast.site/"
+  },
+  {
+    "name": "Eattodaynew",
+    "slug": "eattodaynew",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://eattodaynew.toast.site/"
+  },
+  {
+    "name": "Eattome",
+    "slug": "eattome",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://eattome.toast.site/"
+  },
+  {
+    "name": "Edsmarket",
+    "slug": "edsmarket",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://edsmarket.toast.site/menu/"
+  },
+  {
+    "name": "Eggysneighborhoodkitchen",
+    "slug": "eggysneighborhoodkitchen",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://eggysneighborhoodkitchen.toast.site/menu/eggys-neighborhood-kitchen-1511-shattuck-ave/"
+  },
+  {
+    "name": "Elranchogrande",
+    "slug": "elranchogrande",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://elranchogrande.toast.site/"
+  },
+  {
+    "name": "Encantollc",
+    "slug": "encantollc",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://encantollc.toast.site/our-story/"
+  },
+  {
+    "name": "Fairoaksroost",
+    "slug": "fairoaksroost",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://fairoaksroost.toast.site/menu/"
+  },
+  {
+    "name": "Faregrounds",
+    "slug": "faregrounds",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://faregrounds.toast.site/"
+  },
+  {
+    "name": "Fastfriendsbeercompany",
+    "slug": "fastfriendsbeercompany",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://fastfriendsbeercompany.toast.site/"
+  },
+  {
+    "name": "Firstlastrestaurant",
+    "slug": "firstlastrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://firstlastrestaurant.toast.site/order/first-and-last-restaurant-1001-n-3rd-ave-suite-101/"
+  },
+  {
+    "name": "Flameatbloom",
+    "slug": "flameatbloom",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://flameatbloom.toast.site/order/"
+  },
+  {
+    "name": "Flavorafterours",
+    "slug": "flavorafterours",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://flavorafterours.toast.site/"
+  },
+  {
+    "name": "Flavorhiveannandale",
+    "slug": "flavorhiveannandale",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://flavorhiveannandale.toast.site/"
+  },
+  {
+    "name": "Flavorspot",
+    "slug": "flavorspot",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://flavorspot.toast.site/"
+  },
+  {
+    "name": "Fourstargrilleonline",
+    "slug": "fourstargrilleonline",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://fourstargrilleonline.toast.site/order/"
+  },
+  {
+    "name": "Francisandmount",
+    "slug": "francisandmount",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://francisandmount.toast.site/menu/"
+  },
+  {
+    "name": "Gourmandise",
+    "slug": "gourmandise",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://gourmandise.toast.site/order/gourmandise-american-fork-215-e-state-st/"
+  },
+  {
+    "name": "Grillhouse",
+    "slug": "grillhouse",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://grillhouse.toast.site/order/"
+  },
+  {
+    "name": "Hangoversocialllc",
+    "slug": "hangoversocialllc",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://hangoversocialllc.toast.site/"
+  },
+  {
+    "name": "Highfoods",
+    "slug": "highfoods",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://highfoods.toast.site/order/"
+  },
+  {
+    "name": "Homesarestaurant",
+    "slug": "homesarestaurant",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://homesarestaurant.toast.site/"
+  },
+  {
+    "name": "Hottomatoes",
+    "slug": "hottomatoes",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://hottomatoes.toast.site/menu/"
+  },
+  {
+    "name": "Hueylueys",
+    "slug": "hueylueys",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://hueylueys.toast.site/menu/"
+  },
+  {
+    "name": "Jakeenospizzapasta",
+    "slug": "jakeenospizzapasta",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://jakeenospizzapasta.toast.site/order/"
+  },
+  {
+    "name": "Janddpizza",
+    "slug": "janddpizza",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://janddpizza.toast.site/menu/"
+  },
+  {
+    "name": "Jeremiahs",
+    "slug": "jeremiahs",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://jeremiahs.toast.site/tavern-menu/"
+  },
+  {
+    "name": "Kajusofttofu",
+    "slug": "kajusofttofu",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://kajusofttofu.toast.site/"
+  },
+  {
+    "name": "Kelloggsdiner",
+    "slug": "kelloggsdiner",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://kelloggsdiner.toast.site/"
+  },
+  {
+    "name": "Kellysmarket Lgtoragz",
+    "slug": "kellysmarket-lgtoragz",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://kellysmarket-lgtoragz.toast.site/order/"
+  },
+  {
+    "name": "La91",
+    "slug": "la91",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://la91.toast.site/"
+  },
+  {
+    "name": "Lagseatery",
+    "slug": "lagseatery",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://lagseatery.toast.site/"
+  },
+  {
+    "name": "Leonaspizzeriarestaurant",
+    "slug": "leonaspizzeriarestaurant",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://leonaspizzeriarestaurant.toast.site/menu/leonas-pizzeria-west-loop-175-n-franklin/"
+  },
+  {
+    "name": "Littleindia",
+    "slug": "littleindia",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://littleindia.toast.site/"
+  },
+  {
+    "name": "Littlejsbakeshoppecoffee",
+    "slug": "littlejsbakeshoppecoffee",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://littlejsbakeshoppecoffee.toast.site/order/"
+  },
+  {
+    "name": "Littlenickisnj",
+    "slug": "littlenickisnj",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://littlenickisnj.toast.site/"
+  },
+  {
+    "name": "Lolaonthegrillem",
+    "slug": "lolaonthegrillem",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://lolaonthegrillem.toast.site/"
+  },
+  {
+    "name": "Losdosmagueyesem",
+    "slug": "losdosmagueyesem",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://losdosmagueyesem.toast.site/order/"
+  },
+  {
+    "name": "Lostejadosmexicanrestaurant",
+    "slug": "lostejadosmexicanrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://lostejadosmexicanrestaurant.toast.site/menu/"
+  },
+  {
+    "name": "Makshouse",
+    "slug": "makshouse",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://makshouse.toast.site/order/"
+  },
+  {
+    "name": "Malsbarandgrill",
+    "slug": "malsbarandgrill",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://malsbarandgrill.toast.site/"
+  },
+  {
+    "name": "Mamaspizzerianscoops",
+    "slug": "mamaspizzerianscoops",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://mamaspizzerianscoops.toast.site/"
+  },
+  {
+    "name": "Maplebacon",
+    "slug": "maplebacon",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://maplebacon.toast.site/menu/"
+  },
+  {
+    "name": "Mapleglenpizza",
+    "slug": "mapleglenpizza",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://mapleglenpizza.toast.site/"
+  },
+  {
+    "name": "Maryloussouldiningexperience",
+    "slug": "maryloussouldiningexperience",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://maryloussouldiningexperience.toast.site/menu/"
+  },
+  {
+    "name": "Mbramen",
+    "slug": "mbramen",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://mbramen.toast.site/"
+  },
+  {
+    "name": "Memphisbbqcompany",
+    "slug": "memphisbbqcompany",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://memphisbbqcompany.toast.site/menu/memphis-bbq-company-709-desoto-cove/"
+  },
+  {
+    "name": "Metarose",
+    "slug": "metarose",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://metarose.toast.site/menu/"
+  },
+  {
+    "name": "Minnesodafountain",
+    "slug": "minnesodafountain",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://minnesodafountain.toast.site/"
+  },
+  {
+    "name": "Minniesuptownrestaurantcolumbus",
+    "slug": "minniesuptownrestaurantcolumbus",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://minniesuptownrestaurantcolumbus.toast.site/"
+  },
+  {
+    "name": "Moonlitburgersuptown",
+    "slug": "moonlitburgersuptown",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://moonlitburgersuptown.toast.site/order/"
+  },
+  {
+    "name": "Mothersnorthgrille",
+    "slug": "mothersnorthgrille",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://mothersnorthgrille.toast.site/menu/mothers-grill-north-2450-broad-ave/"
+  },
+  {
+    "name": "Motoi",
+    "slug": "motoi",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://motoi.toast.site/order/"
+  },
+  {
+    "name": "Mtnoodlesvietnameserestaurant 3sr3e76q",
+    "slug": "mtnoodlesvietnameserestaurant-3sr3e76q",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://mtnoodlesvietnameserestaurant-3sr3e76q.toast.site/order/"
+  },
+  {
+    "name": "Nchas",
+    "slug": "nchas",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://nchas.toast.site/"
+  },
+  {
+    "name": "Nicsrestaurant",
+    "slug": "nicsrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://nicsrestaurant.toast.site/order/"
+  },
+  {
+    "name": "Nikkisfamilydiner",
+    "slug": "nikkisfamilydiner",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://nikkisfamilydiner.toast.site/menu/"
+  },
+  {
+    "name": "Nikkistavern",
+    "slug": "nikkistavern",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://nikkistavern.toast.site/order/"
+  },
+  {
+    "name": "Nittystavern",
+    "slug": "nittystavern",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://nittystavern.toast.site/menu/"
+  },
+  {
+    "name": "Nonabistro",
+    "slug": "nonabistro",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://nonabistro.toast.site/menu/"
+  },
+  {
+    "name": "Noodlesinthepotem",
+    "slug": "noodlesinthepotem",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://noodlesinthepotem.toast.site/"
+  },
+  {
+    "name": "Nordicbrew",
+    "slug": "nordicbrew",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://nordicbrew.toast.site/menu/"
+  },
+  {
+    "name": "Offmain",
+    "slug": "offmain",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://offmain.toast.site/"
+  },
+  {
+    "name": "Paninospizza",
+    "slug": "paninospizza",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://paninospizza.toast.site/menu/"
+  },
+  {
+    "name": "Pbjpwestloop",
+    "slug": "pbjpwestloop",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://pbjpwestloop.toast.site/menu/"
+  },
+  {
+    "name": "Pikepizzaandgrill",
+    "slug": "pikepizzaandgrill",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://pikepizzaandgrill.toast.site/menu/"
+  },
+  {
+    "name": "Pizzashow",
+    "slug": "pizzashow",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://pizzashow.toast.site/order/"
+  },
+  {
+    "name": "Positanositalianrestaurant",
+    "slug": "positanositalianrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://positanositalianrestaurant.toast.site/order/"
+  },
+  {
+    "name": "Pussnbootstavern",
+    "slug": "pussnbootstavern",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://pussnbootstavern.toast.site/order/"
+  },
+  {
+    "name": "Relishrestaurantbar",
+    "slug": "relishrestaurantbar",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://relishrestaurantbar.toast.site/order/"
+  },
+  {
+    "name": "Roundtheclock",
+    "slug": "roundtheclock",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://roundtheclock.toast.site/order/round-the-clock/"
+  },
+  {
+    "name": "Saigoneatery",
+    "slug": "saigoneatery",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://saigoneatery.toast.site/menu/"
+  },
+  {
+    "name": "Sawasdeedanvers",
+    "slug": "sawasdeedanvers",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://sawasdeedanvers.toast.site/order/"
+  },
+  {
+    "name": "Shalimarindianrestaurant",
+    "slug": "shalimarindianrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://shalimarindianrestaurant.toast.site/"
+  },
+  {
+    "name": "Shangrilacs",
+    "slug": "shangrilacs",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://shangrilacs.toast.site/menu/shangri-la-east-6165-barnes-road/group_7402f670-ec56-4b3f-84a7-a3bdf65bab7f/item-banana-supreme_434a1547-7ff7-4cab-b3a4-c273c07aa569/"
+  },
+  {
+    "name": "Spicyfeta",
+    "slug": "spicyfeta",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://spicyfeta.toast.site/"
+  },
+  {
+    "name": "Strouds",
+    "slug": "strouds",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://strouds.toast.site/order/"
+  },
+  {
+    "name": "Suppas",
+    "slug": "suppas",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://suppas.toast.site/order/"
+  },
+  {
+    "name": "Thaipotnoodleshop",
+    "slug": "thaipotnoodleshop",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://thaipotnoodleshop.toast.site/"
+  },
+  {
+    "name": "Thebiscuitladyplymouth",
+    "slug": "thebiscuitladyplymouth",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://thebiscuitladyplymouth.toast.site/"
+  },
+  {
+    "name": "Theborough W1fyxy4g",
+    "slug": "theborough-w1fyxy4g",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://theborough-w1fyxy4g.toast.site/order/"
+  },
+  {
+    "name": "Thecask",
+    "slug": "thecask",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://thecask.toast.site/order/"
+  },
+  {
+    "name": "Thedineronmainllc",
+    "slug": "thedineronmainllc",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://thedineronmainllc.toast.site/"
+  },
+  {
+    "name": "Theeggsteamboatspringsnew",
+    "slug": "theeggsteamboatspringsnew",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://theeggsteamboatspringsnew.toast.site/order/"
+  },
+  {
+    "name": "Thegreatgreek",
+    "slug": "thegreatgreek",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://thegreatgreek.toast.site/menu/the-great-greek-mediterranean-grill-maple-grove/"
+  },
+  {
+    "name": "Thehangout",
+    "slug": "thehangout",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://thehangout.toast.site/menu/the-hangout-breakfasts-in-walnut-creek-1908-tice-valley-blvd-a/"
+  },
+  {
+    "name": "Theismannsrestaurant",
+    "slug": "theismannsrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://theismannsrestaurant.toast.site/order/"
+  },
+  {
+    "name": "Thelaststopkitchen",
+    "slug": "thelaststopkitchen",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://thelaststopkitchen.toast.site/"
+  },
+  {
+    "name": "Thelaunch",
+    "slug": "thelaunch",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://thelaunch.toast.site/"
+  },
+  {
+    "name": "Thelittlefoodcafe",
+    "slug": "thelittlefoodcafe",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://thelittlefoodcafe.toast.site/menu/"
+  },
+  {
+    "name": "Thelocalbrewingcompany",
+    "slug": "thelocalbrewingcompany",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://thelocalbrewingcompany.toast.site/order/"
+  },
+  {
+    "name": "Thelocaleaterypub",
+    "slug": "thelocaleaterypub",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://thelocaleaterypub.toast.site/"
+  },
+  {
+    "name": "Thelokalrestaurant",
+    "slug": "thelokalrestaurant",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://thelokalrestaurant.toast.site/"
+  },
+  {
+    "name": "Themetropolitangrillcherishappyplace",
+    "slug": "themetropolitangrillcherishappyplace",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://themetropolitangrillcherishappyplace.toast.site/order/"
+  },
+  {
+    "name": "Themorningfork",
+    "slug": "themorningfork",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://themorningfork.toast.site/"
+  },
+  {
+    "name": "Thepleasantcafe",
+    "slug": "thepleasantcafe",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://thepleasantcafe.toast.site/order/"
+  },
+  {
+    "name": "Theshoppewb",
+    "slug": "theshoppewb",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://theshoppewb.toast.site/"
+  },
+  {
+    "name": "Thetakeoutnew",
+    "slug": "thetakeoutnew",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://thetakeoutnew.toast.site/"
+  },
+  {
+    "name": "Thetavernonthesquare",
+    "slug": "thetavernonthesquare",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://thetavernonthesquare.toast.site/menu/the-tavern-on-the-square-108-n-market-street/"
+  },
+  {
+    "name": "Tianbistro",
+    "slug": "tianbistro",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://tianbistro.toast.site/"
+  },
+  {
+    "name": "Timetowingit",
+    "slug": "timetowingit",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://timetowingit.toast.site/"
+  },
+  {
+    "name": "Toast Chh7mmhr",
+    "slug": "toast-chh7mmhr",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://toast-chh7mmhr.toast.site/order/toast-charleston-155-meeting-st/"
+  },
+  {
+    "name": "Toastcoffeehouse",
+    "slug": "toastcoffeehouse",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://toastcoffeehouse.toast.site/order/toast-coffee-house-pjs-650-route-112/"
+  },
+  {
+    "name": "Tomecatering",
+    "slug": "tomecatering",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://tomecatering.toast.site/"
+  },
+  {
+    "name": "Touchofflavor",
+    "slug": "touchofflavor",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://touchofflavor.toast.site/order/"
+  },
+  {
+    "name": "Twinpeaksdrivein",
+    "slug": "twinpeaksdrivein",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://twinpeaksdrivein.toast.site/"
+  },
+  {
+    "name": "Unionjackpubbroadripple",
+    "slug": "unionjackpubbroadripple",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://unionjackpubbroadripple.toast.site/"
+  },
+  {
+    "name": "Uptownprovisionswhittier",
+    "slug": "uptownprovisionswhittier",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://uptownprovisionswhittier.toast.site/menu/uptown-provisions-whittier-12819-penn-street/"
+  },
+  {
+    "name": "Valeospizza E9xv3wq2",
+    "slug": "valeospizza-e9xv3wq2",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://valeospizza-e9xv3wq2.toast.site/template-page/"
+  },
+  {
+    "name": "Valleykitchen",
+    "slug": "valleykitchen",
+    "category": "restaurant",
+    "metros": [
+      "minneapolis"
+    ],
+    "toastUrl": "https://valleykitchen.toast.site/order/valley-kitchen-3640-east-state-street/item-take-out_17142c33-118b-428f-9f68-49950a7442d9/"
   }
 ]
