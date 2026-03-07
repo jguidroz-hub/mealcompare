@@ -90,6 +90,16 @@
     "statusCode": 403
   },
   {
+    "name": "Asianthaibistro",
+    "slug": "asianthaibistro",
+    "url": "https://asianthaibistro.toast.site/order/",
+    "address": "",
+    "metro": "atlanta",
+    "source": "brave",
+    "verified": true,
+    "statusCode": 403
+  },
+  {
     "name": "Atlantaharvest",
     "slug": "atlantaharvest",
     "url": "https://atlantaharvest.toast.site/",
@@ -460,6 +470,16 @@
     "statusCode": 403
   },
   {
+    "name": "Eattome",
+    "slug": "eattome",
+    "url": "https://eattome.toast.site/",
+    "address": "",
+    "metro": "atlanta",
+    "source": "brave",
+    "verified": true,
+    "statusCode": 403
+  },
+  {
     "name": "Eggbred",
     "slug": "eggbred",
     "url": "https://eggbred.toast.site/order/",
@@ -543,6 +563,16 @@
     "name": "Fincao4w",
     "slug": "fincao4w",
     "url": "https://fincao4w.toast.site/order/",
+    "address": "",
+    "metro": "atlanta",
+    "source": "brave",
+    "verified": true,
+    "statusCode": 403
+  },
+  {
+    "name": "Firstlastrestaurant",
+    "slug": "firstlastrestaurant",
+    "url": "https://firstlastrestaurant.toast.site/order/",
     "address": "",
     "metro": "atlanta",
     "source": "brave",
@@ -1060,6 +1090,16 @@
     "statusCode": 403
   },
   {
+    "name": "Restaurantconstance",
+    "slug": "restaurantconstance",
+    "url": "https://restaurantconstance.toast.site/order/",
+    "address": "",
+    "metro": "atlanta",
+    "source": "brave",
+    "verified": true,
+    "statusCode": 403
+  },
+  {
     "name": "Rookiessportsbarandgrill",
     "slug": "rookiessportsbarandgrill",
     "url": "https://rookiessportsbarandgrill.toast.site/order/",
@@ -1533,6 +1573,26 @@
     "name": "Toastcoffeehouse",
     "slug": "toastcoffeehouse",
     "url": "https://toastcoffeehouse.toast.site/order/toast-coffee-house-pjs-650-route-112/",
+    "address": "",
+    "metro": "atlanta",
+    "source": "brave",
+    "verified": true,
+    "statusCode": 403
+  },
+  {
+    "name": "Toastcomfortkitchenbar",
+    "slug": "toastcomfortkitchenbar",
+    "url": "https://toastcomfortkitchenbar.toast.site/order/",
+    "address": "",
+    "metro": "atlanta",
+    "source": "brave",
+    "verified": true,
+    "statusCode": 403
+  },
+  {
+    "name": "Toastcomfortkitchenbar 2cu1wisx",
+    "slug": "toastcomfortkitchenbar-2cu1wisx",
+    "url": "https://toastcomfortkitchenbar-2cu1wisx.toast.site/order/",
     "address": "",
     "metro": "atlanta",
     "source": "brave",

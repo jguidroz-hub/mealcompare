@@ -250,6 +250,16 @@
     "statusCode": 403
   },
   {
+    "name": "Crustcrumb",
+    "slug": "crustcrumb",
+    "url": "https://crustcrumb.toast.site/menu/",
+    "address": "",
+    "metro": "miami",
+    "source": "brave",
+    "verified": true,
+    "statusCode": 403
+  },
+  {
     "name": "Dizengoff",
     "slug": "dizengoff",
     "url": "https://dizengoff.toast.site/",
@@ -1050,6 +1060,16 @@
     "statusCode": 403
   },
   {
+    "name": "Oldays",
+    "slug": "oldays",
+    "url": "https://oldays.toast.site/order?showAllLocations=true/",
+    "address": "",
+    "metro": "miami",
+    "source": "brave",
+    "verified": true,
+    "statusCode": 403
+  },
+  {
     "name": "Omakaisushi",
     "slug": "omakaisushi",
     "url": "https://omakaisushi.toast.site/",
@@ -1330,6 +1350,16 @@
     "statusCode": 403
   },
   {
+    "name": "Tatersllc",
+    "slug": "tatersllc",
+    "url": "https://tatersllc.toast.site/menu/taters-llc-3615-hwy-79-n/group_bd228e2e-7dea-4c60-8d29-9421ecc7e00a/item-street-tacos_0fea2b52-d812-4fa7-b74a-79a9db2c6eab/",
+    "address": "",
+    "metro": "miami",
+    "source": "brave",
+    "verified": true,
+    "statusCode": 403
+  },
+  {
     "name": "Teezeetastycuisine",
     "slug": "teezeetastycuisine",
     "url": "https://teezeetastycuisine.toast.site/",
@@ -1363,6 +1393,16 @@
     "name": "Thatsamore",
     "slug": "thatsamore",
     "url": "https://thatsamore.toast.site/",
+    "address": "",
+    "metro": "miami",
+    "source": "brave",
+    "verified": true,
+    "statusCode": 403
+  },
+  {
+    "name": "Theborough W1fyxy4g",
+    "slug": "theborough-w1fyxy4g",
+    "url": "https://theborough-w1fyxy4g.toast.site/menu/the-borough-10327-42nd-avenue/",
     "address": "",
     "metro": "miami",
     "source": "brave",

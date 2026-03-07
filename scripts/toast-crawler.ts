@@ -177,6 +177,91 @@ const METRO_CONFIG: Record<string, { areas: string[]; zips: string[] }> = {
       '30075', '30076', '30097', '30338', '30339', '30342',
     ],
   },
+  boston: {
+    areas: [
+      'Boston MA', 'Back Bay Boston', 'South End Boston', 'North End Boston',
+      'Beacon Hill Boston', 'Fenway Boston', 'Allston MA', 'Brighton MA',
+      'Cambridge MA', 'Somerville MA', 'Brookline MA', 'Jamaica Plain MA',
+      'Dorchester MA', 'South Boston MA', 'Quincy MA', 'Newton MA',
+    ],
+    zips: [
+      '02108', '02109', '02110', '02111', '02113', '02114', '02115', '02116',
+      '02118', '02119', '02120', '02121', '02122', '02124', '02125', '02127',
+      '02128', '02129', '02130', '02131', '02132', '02134', '02135', '02136',
+      '02138', '02139', '02140', '02141', '02143', '02144',
+    ],
+  },
+  seattle: {
+    areas: [
+      'Seattle WA', 'Capitol Hill Seattle', 'Ballard Seattle', 'Fremont Seattle',
+      'Wallingford Seattle', 'University District Seattle', 'Queen Anne Seattle',
+      'Georgetown Seattle', 'Columbia City Seattle', 'Beacon Hill Seattle',
+      'Bellevue WA', 'Redmond WA', 'Kirkland WA', 'Renton WA',
+    ],
+    zips: [
+      '98101', '98102', '98103', '98104', '98105', '98106', '98107', '98108',
+      '98109', '98112', '98115', '98116', '98117', '98118', '98119', '98121',
+      '98122', '98125', '98126', '98133', '98136', '98144', '98199', '98004',
+      '98005', '98006', '98007', '98008', '98052', '98033',
+    ],
+  },
+  denver: {
+    areas: [
+      'Denver CO', 'LoDo Denver', 'RiNo Denver', 'Capitol Hill Denver',
+      'Highlands Denver', 'Cherry Creek Denver', 'Wash Park Denver',
+      'Five Points Denver', 'Baker Denver', 'South Broadway Denver',
+      'Aurora CO', 'Lakewood CO', 'Littleton CO', 'Boulder CO',
+    ],
+    zips: [
+      '80202', '80203', '80204', '80205', '80206', '80209', '80210', '80211',
+      '80212', '80214', '80216', '80218', '80219', '80220', '80222', '80223',
+      '80224', '80227', '80230', '80231', '80232', '80237', '80246', '80247',
+      '80010', '80011', '80012', '80013', '80014', '80302',
+    ],
+  },
+  philly: {
+    areas: [
+      'Philadelphia PA', 'Center City Philadelphia', 'Old City Philadelphia',
+      'Rittenhouse Philadelphia', 'Fishtown Philadelphia', 'Northern Liberties Philadelphia',
+      'South Philadelphia', 'University City Philadelphia', 'Manayunk Philadelphia',
+      'Fairmount Philadelphia', 'Germantown Philadelphia', 'West Philadelphia',
+      'Cherry Hill NJ', 'King of Prussia PA', 'Conshohocken PA', 'Ardmore PA',
+    ],
+    zips: [
+      '19102', '19103', '19104', '19106', '19107', '19109', '19111', '19112',
+      '19116', '19118', '19119', '19121', '19122', '19123', '19124', '19125',
+      '19126', '19127', '19128', '19129', '19130', '19131', '19132', '19133',
+      '19134', '19135', '19136', '19137', '19138', '19139',
+    ],
+  },
+  nashville: {
+    areas: [
+      'Nashville TN', 'East Nashville', 'Germantown Nashville', 'The Gulch Nashville',
+      'Midtown Nashville', '12 South Nashville', 'Hillsboro Village Nashville',
+      'Sylvan Park Nashville', 'Berry Hill Nashville', 'Donelson Nashville',
+      'Franklin TN', 'Brentwood TN', 'Murfreesboro TN', 'Hendersonville TN',
+    ],
+    zips: [
+      '37201', '37203', '37204', '37205', '37206', '37207', '37208', '37209',
+      '37210', '37211', '37212', '37213', '37214', '37215', '37216', '37217',
+      '37218', '37219', '37220', '37221', '37027', '37064', '37067', '37069',
+      '37075', '37128', '37129', '37130', '37135', '37138',
+    ],
+  },
+  portland: {
+    areas: [
+      'Portland OR', 'Pearl District Portland', 'Alberta Arts Portland',
+      'Hawthorne Portland', 'Division Street Portland', 'Mississippi Portland',
+      'Northwest Portland', 'Sellwood Portland', 'St Johns Portland',
+      'Beaverton OR', 'Lake Oswego OR', 'Tigard OR', 'Hillsboro OR', 'Gresham OR',
+    ],
+    zips: [
+      '97201', '97202', '97203', '97204', '97205', '97206', '97209', '97210',
+      '97211', '97212', '97213', '97214', '97215', '97216', '97217', '97218',
+      '97219', '97220', '97221', '97222', '97223', '97224', '97225', '97227',
+      '97229', '97230', '97231', '97232', '97233', '97005',
+    ],
+  },
 };
 
 // ─── Brave Search ──────────────────────────────────────────────
